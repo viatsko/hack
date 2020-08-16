@@ -1,0 +1,81 @@
+{
+  "name": "gatsby-starter-viatsko",
+  "private": true,
+  "description": "An awesome starter for your new blog",
+  "version": "0.1.0",
+  "author": "Valerii Iatsko <viatsko@viatsko.me>",
+  "bugs": {
+    "url": "https://github.com/viatsko/gatsby-starter-viatsko/issues"
+  },
+  "dependencies": {
+    "gatsby": "^2.10.0",
+    "gatsby-image": "^2.2.1",
+    "gatsby-plugin-feed": "^2.3.0",
+    "gatsby-plugin-google-analytics": "^2.1.0",
+    "gatsby-plugin-manifest": "^2.2.0",
+    "gatsby-plugin-offline": "^2.2.0",
+    "gatsby-plugin-react-helmet": "^3.1.0",
+    "gatsby-plugin-sharp": "^2.2.1",
+    "gatsby-plugin-typescript": "^2.1.0",
+    "gatsby-plugin-typography": "^2.3.0",
+    "gatsby-remark-copy-linked-files": "^2.1.0",
+    "gatsby-remark-images": "^3.1.0",
+    "gatsby-remark-prismjs": "^3.3.0",
+    "gatsby-remark-responsive-iframe": "^2.2.0",
+    "gatsby-remark-smartypants": "^2.1.0",
+    "gatsby-source-filesystem": "^2.1.0",
+    "gatsby-transformer-remark": "^2.5.0",
+    "gatsby-transformer-sharp": "^2.2.0",
+    "prismjs": "^1.16.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-typography": "^0.16.19",
+    "typeface-merriweather": "^0.0.72",
+    "typeface-montserrat": "^0.0.54",
+    "typography": "^0.16.19",
+    "typography-theme-wordpress-2016": "^0.16.19"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.10",
+    "@types/react": "^16.8.22",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-helmet": "^5.0.8",
+    "@types/typography": "^0.16.2",
+    "@typescript-eslint/eslint-plugin": "^1.10.2",
+    "@typescript-eslint/parser": "^1.10.3-alpha.13",
+    "eslint": "^6.0.0",
+    "eslint-config-prettier": "^5.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.13.0",
+    "husky": "^2.4.1",
+    "lint-staged": "^8.2.1",
+    "prettier": "^1.18.2",
+    "ts-node": "^8.3.0",
+    "tslint": "^5.18.0",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-react": "^4.0.0",
+    "typescript": "^3.5.2"
+  },
+  "homepage": "https://github.com/viatsko/gatsby-starter-viatsko#readme",
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viatsko/gatsby-starter-viatsko.git"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "type-check": "tsc",
+    "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
+    "lint:fix": "yarn lint --fix"
+  }
+}
