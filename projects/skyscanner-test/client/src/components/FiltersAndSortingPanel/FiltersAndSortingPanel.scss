@@ -1,0 +1,27 @@
+@import '~bpk-mixins';
+
+.FiltersAndSortingPanel {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  align-items: center;
+  box-shadow: none;
+
+  & > div {
+    flex: 1;
+  }
+
+  &__left-section > *:not(last-child) {
+    margin-right: $bpk-spacing-xl;
+  }
+
+  &__right-section {
+    text-align: right;
+  }
+
+  &__price-alerts-icon {
+    position: relative;
+    top: $bpk-spacing-xs / 2;
+    left: -$bpk-spacing-xs;
+  }
+}

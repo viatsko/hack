@@ -1,0 +1,9 @@
+@import '~bpk-mixins';
+
+.SearchResults {
+  box-shadow: none;
+
+  &__card {
+    margin-bottom: $bpk-spacing-md;
+  }
+}
