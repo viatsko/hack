@@ -1,0 +1,1750 @@
+{
+  "id": "nautilus",
+  "key": "111",
+  "name": "Nautilus",
+  "title": "the Titan of the Depths",
+  "tags": [
+    "Tank",
+    "Fighter"
+  ],
+  "stats": {
+    "hp": 576.48,
+    "hpperlevel": 86,
+    "mp": 400,
+    "mpperlevel": 47,
+    "movespeed": 325,
+    "armor": 39,
+    "armorperlevel": 3.75,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8.626,
+    "mpregenperlevel": 0.5,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 1,
+    "attackspeed": 0.706
+  },
+  "icon": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/champion/Nautilus.png",
+  "sprite": {
+    "url": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/sprite/champion2.png",
+    "x": 384,
+    "y": 48
+  },
+  "description": "A lonely legend as old as the first piers sunk in Bilgewater, the armored goliath known as Nautilus roams the dark waters off the coast of the Blue Flame Isles. Driven by a forgotten betrayal, he strikes without warning, swinging his enormous anchor to...",
+  "redditUrl": "Nautilusmains",
+  "videos": [
+    {
+      "profile": {
+        "slug": "leagueoflegends",
+        "displayName": "League of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxXwtVfQCScGEm93jvNCjitwu1lOKYhVZe2rSHWVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-09T15:00:05Z",
+        "title": "Conqueror Nautilus | Skin Trailer - League of Legends",
+        "description": "Pick up Conqueror Nautilus and a portion of the revenue will be shared with Spring Split Champions from around the world. Available July 9 1:00 PM PT - Aug 6 1:00 PM PT.\n\nLeague of Legends Sign Up & Download\nhttps://signup.leagueoflegends.com/",
+        "videoId": "5r_u-lPlQ6k",
+        "preview": "https://i.ytimg.com/vi/5r_u-lPlQ6k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "leagueoflegends",
+        "displayName": "League of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxXwtVfQCScGEm93jvNCjitwu1lOKYhVZe2rSHWVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-09T15:00:04Z",
+        "title": "Conqueror Nautilus | Skin Trailer - League of Legends",
+        "description": "Pick up Conqueror Nautilus and a portion of the revenue will be shared with Spring Split Champions from around the world. Available July 9 1:00 PM PT - Aug 6 1:00 PM PT.\n\nLeague of Legends Sign Up & Download\nhttps://signup.leagueoflegends.com/",
+        "videoId": "5r_u-lPlQ6k",
+        "preview": "https://i.ytimg.com/vi/5r_u-lPlQ6k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-06T12:45:08Z",
+        "title": "Conqueror Nautilus Skin Spotlight - League of Legends",
+        "description": "League of Legends Conqueror Nautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Conqueror Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!\n\nChapters\n00:00 Splash\n00:08 Turnaround\n00:27 Emotes\n01:18 Recall\n01:31 Basics and Passive\n01:43 Q Ability\n01:57 W Ability\n02:21 E Ability\n02:34 R Ability\n02:45 Zoomed out Abilities\n03:09 Crits\n03:23 RIP\n03:33 Outro",
+        "videoId": "7ktOR3Fl_9g",
+        "preview": "https://i.ytimg.com/vi/7ktOR3Fl_9g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-04T20:30:00Z",
+        "title": "THE DREAM TEAM IN THE BOT LANE RETURNS! (PYKE + NAUTILUS BOT) - League of Legends",
+        "description": "THE DREAM TEAM IN THE BOT LANE RETURNS! (PYKE + NAUTILUS BOT)\nLeague of Legends Nautilus gameplay season 10!\r\n\r\n🔔 Subscribe Here → https://bit.ly/34GFs5c\r\n🔴 Live Stream → https://bit.ly/33qHUN5\r\n\r\n🗒️ Mobafire Guides → https://bit.ly/2NogPEI\r\n👒 Merchandise → https://bit.ly/2NqPvWs\r\n📰 League Partner Program → https://riot.com/36HFzzk\r\n\r\n🎥 Facebook →  https://bit.ly/33qHUN5\r\n🐦 Twitter → https://bit.ly/33tTjf2\r\n🎮 Discord → https://bit.ly/2NrbyfE\r\n\r\n#Pyke #Hanjaro #Rank1Pyke",
+        "videoId": "DmL53loS-9E",
+        "preview": "https://i.ytimg.com/vi/DmL53loS-9E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-25T14:00:04Z",
+        "title": "(GOD-TIER BUILD) THE *NEW* CONQUEROR NAUTILUS SKIN MAKES HIM FEEL ABSOLUTELY INVINCIBLE!",
+        "description": "THE *NEW* CONQUEROR NAUTILUS SKIN MAKES HIM FEEL ABSOLUTELY INVINCIBLE! USE THIS VIDEO AS A GUIDE FOR NAUTILUS SUPPORT IN SEASON 10!\n\n=====================\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "Cbd3Z2hM4d0",
+        "preview": "https://i.ytimg.com/vi/Cbd3Z2hM4d0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-25T14:00:04Z",
+        "title": "(GOD-TIER BUILD) THE *NEW* CONQUEROR NAUTILUS SKIN MAKES HIM FEEL ABSOLUTELY INVINCIBLE!",
+        "description": "THE *NEW* CONQUEROR NAUTILUS SKIN MAKES HIM FEEL ABSOLUTELY INVINCIBLE! USE THIS VIDEO AS A GUIDE FOR NAUTILUS SUPPORT IN SEASON 10!\n\n=====================\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "Cbd3Z2hM4d0",
+        "preview": "https://i.ytimg.com/vi/Cbd3Z2hM4d0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-23T23:18:08Z",
+        "title": "Conqueror Nautilus Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Conqueror Nautilus with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 975RP\n\nSkin name is CONFIRMED as Conqueror Nautilus, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!\n\n\nChapters\n00:00 Recall\n00:17 Splash\n00:22 Basics and Passive\n00:32 Q Ability\n00:45 W Ability\n01:09 E Ability\n01:17 R Ability\n01:33 Zoomed out Abilities\n01:47 Crit\n01:58 RIP\n02:04 Outro",
+        "videoId": "y9CO6jTb2uY",
+        "preview": "https://i.ytimg.com/vi/y9CO6jTb2uY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-20T21:09:19Z",
+        "title": "How to SUCK early game and STILL CARRY late! - Karthus Jungle Gameplay League of Legends",
+        "description": "Karthus jungle gameplay from league of legends! How to be rubbish early game but scale hard and carry late game\n➥Nautilus jungle! https://www.youtube.com/watch?v=1g2jrFa9j-s\r\n★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "8pyFVNx-I-s",
+        "preview": "https://i.ytimg.com/vi/8pyFVNx-I-s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-20T21:09:18Z",
+        "title": "How to SUCK early game and STILL CARRY late! - Karthus Jungle Gameplay League of Legends",
+        "description": "Karthus jungle gameplay from league of legends! How to be rubbish early game but scale hard and carry late game\n➥Nautilus jungle! https://www.youtube.com/watch?v=1g2jrFa9j-s\r\n★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "8pyFVNx-I-s",
+        "preview": "https://i.ytimg.com/vi/8pyFVNx-I-s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-16T17:48:02Z",
+        "title": "2020 Rammus Jungle Gameplay Guide - League of Legends Season 10",
+        "description": "How to play Rammus jungle in season 10! Rammus jungle items, runes, and gameplay from a diamond ranked league of legends game. \n➥Nautilus jungle guide! https://www.youtube.com/watch?v=1g2jrFa9j-s\r\n★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow my stream: https://www.twitch.tv/foxdrop\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "TS70VFOM8VI",
+        "preview": "https://i.ytimg.com/vi/TS70VFOM8VI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-16T17:48:02Z",
+        "title": "2020 Rammus Jungle Gameplay Guide - League of Legends Season 10",
+        "description": "How to play Rammus jungle in season 10! Rammus jungle items, runes, and gameplay from a diamond ranked league of legends game. \n➥Nautilus jungle guide! https://www.youtube.com/watch?v=1g2jrFa9j-s\r\n★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow my stream: https://www.twitch.tv/foxdrop\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "TS70VFOM8VI",
+        "preview": "https://i.ytimg.com/vi/TS70VFOM8VI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-11T19:58:04Z",
+        "title": "[2020] Nautilus Jungle Gameplay Guide - League of Legends Season 10",
+        "description": "Download at draftbuff.com and click this link to play with me! https://bit.ly/2Yn3K2L \n➥Voli rework isn't WEAK! https://www.youtube.com/watch?v=WGt0FR4Bp6U\r\n★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "1g2jrFa9j-s",
+        "preview": "https://i.ytimg.com/vi/1g2jrFa9j-s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-11T19:58:04Z",
+        "title": "[2020] Nautilus Jungle Gameplay Guide - League of Legends Season 10",
+        "description": "Download at draftbuff.com and click this link to play with me! https://bit.ly/2Yn3K2L \n➥Voli rework isn't WEAK! https://www.youtube.com/watch?v=WGt0FR4Bp6U\r\n★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "1g2jrFa9j-s",
+        "preview": "https://i.ytimg.com/vi/1g2jrFa9j-s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sharkz",
+        "displayName": "Sharkz",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwfeZdSubD2aXoArnZ6u0ziBfEtxHRNXVIsM9W43Q=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-28T07:00:00Z",
+        "title": "ИЗМЕНЕНИЯ ПАТЧА 10.3 | ДЕВУШКИ РАЗОРЯЮТ RIOT | СОСТАВЫ LCL | КОРОНАВИРУС УДАРИЛ ПО LPL | ЛИГА ЛЕГЕНД",
+        "description": "🔥 Присоединяйся в наш закрытый клуб и поддержки контент: http://bit.ly/2Rw3ADS\n🎥 Наш канал о кино: https://www.youtube.com/c/taranuha\n\nПланы разработчиков: https://boards.na.leagueoflegends.com/en/c/developer-corner/Ex34iIQE-quick-gameplay-thought-january-24\nВторая правка Акали: https://twitter.com/MarkYetter/status/1220465074566942720 \nRiot Stashu: https://youtu.be/kJjefDx8Cpw \nИзменения патча 10.3: https://twitter.com/MarkYetter/status/1221928313226067968 \n$400 млн. компенсации: https://www.latimes.com/business/technology/story/2020-01-21/riot-games-gender-discrimination-settlement \nИстория про Лиссандру: https://universe.leagueoflegends.com/ru_RU/story/dream-thief/ \nЭнни и Наутилус: https://dotesports.com/league-of-legends/news/annie-and-nautilus-are-next-in-line-for-vfx-updates-in-league-of-legends \nСенна: https://twitter.com/LeagueOfLegends/status/1219620665994559489 \nОтказ от Яндекс Эфира: https://ru.lolesports.com/articles/1264 \nСостав Гамбит: https://vk.com/wall-36541347_986886 \nИнтервью ATRemains: https://vk.com/@lol.planet-atremains-o-situacii-v-komande-novom-formate-i-planah-na-eto \nВозвращение Lex: https://vk.com/wall-93526804_3109\nСостав Dragon Army: https://vk.com/wall-149126211_4836 \nBud Light спонсор LCS: https://nexus.leagueoflegends.com/en-us/2020/01/lcs-bud-light/ \nМаскот TL: https://twitter.com/TeamLiquidLoL/status/1221187421217476608 \nSneaky ксоплей: https://twitter.com/Sneaky/status/1221643058418049026 \nПриастоновка LPL: https://www.cybersport.ru/league-of-legends/news/igry-kitaiskogo-chempionata-po-league-of-legends-otlozhili-iz-za-koronavirusa \nЛонг шот Зои: https://dotesports.com/league-of-legends/news/shiphtur-delivers-long-distance-zoe-q-using-ryzes-ultimate-in-league-of-legends \n\nСоциальные Сети: \n►TWITCH: https://www.twitch.tv/sharkz \n►TWITTER: https://twitter.com/CoachSharkz \n►INSTAGRAM: https://www.instagram.com/tarandaalex/ \n►VK: https://vk.com/sharkz\n\nProduced by VT Production : \nНаш ВК: https://vk.com/vt.production\nНаш Сайт: http://vt-production.com\n\n#новости #лигалегенд #пбе\n#sharkz #tft #pbe #lcl \n#lec #lcs #worlds",
+        "videoId": "gRk-z0GgTYE",
+        "preview": "https://i.ytimg.com/vi/gRk-z0GgTYE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-21T16:01:52Z",
+        "title": "Patch 10.11 Chromas - Astronaut Bard, Poppy, Gnar, Nautlius, Teemo & Honour 5 Chromas",
+        "description": "Purchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nVideo showing all the new chromas added into Patch 10.11\nAstronaut Bard, Astronaut Poppy, Astronaut Gnar, Astronautilus, Astronaut Teemo, Grey Warwick and Medieval Twitch.\n\nChapters:\n00:00 Astronaut Bard\n02:13 Astronaut Poppy\n04:34 Astronaut Gnar\n07:56 Astronautilus\n08:28 Astronaut Teemo\n08:59 Medieval Twitch (Honour Level 5 Chroma)\n09:30 Grey Warwick (Honour Level 5 Chroma)",
+        "videoId": "n-OPN5jG4ak",
+        "preview": "https://i.ytimg.com/vi/n-OPN5jG4ak/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sneaky",
+        "displayName": "Sneaky",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy2sIoWZEf-_iN36J-h-b-yC4q7jm7NVmBEaR4j=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-19T07:00:00Z",
+        "title": "Sneaky Caught a lot of Bugs in 2019... (Compilation of ALL Bugs in 2019)",
+        "description": "Compilation of all recorded bugs Sneaky encountered (or was involved in) in the year of 2019. \n\nDisclaimer: some of these might not be bugs, but intended mechanics/feature.\n\nFootage from: the entirety of 2019\n\n▼Editor\n\nhttps://Twitter.com/SnipingHobo\n\n\n▼Time Stamps\n\n[0:09] Bug #1 - Client: Audio\n[0:39] Bug #2 - Visual: Some spell effects\n[1:44] Bug #3 - (Old) Death Recap: false information\n[2:10] Honorable Mention #1 - Mothra\n[2:31} Bug #4 - Cassiopeia: Ult Hit Detection\n[3:47] Bug #5 - Game Freeze\n[4:13] Bug #6 - Karthus: Passive having unit collision\n[4:50] Bug #7 - Spectator Mode\n[5:00] Bug #8 - Client\n[5:13] Bug #9 - Blitzcrank: Never-ending Passive Animation\n[5:42] Bug #10 - Caitlyn: Recall Animation\n[5:59] Bug #11 - Kalista: E icon doesn't properly show OoM\n[6:14] Bug #12: Red Buff untargetable\n[6:28 & 7:03] Bug #13 - Kalista: Silenced while mid-Q cast\n[7:20] Bug #14 - Stats TAB: false information\n[7:42] Bug #15 - Game Timer is not correct (wtf, how?)\n[8:02] Bug #16 - Red Buff doesn't spawn in time ... or maybe bug #15 again\n[8:25] Bug #16 - Untargetable Baron (or maybe unsync'ed spawn)\n[8:48] Bug #17 - Ornn: First half of ult is... unusual\n[9:11] Bug #18 - Client (seemed like he properly picked?)\n[9:58] Bug #19 - Dragon Kill Announcement in the chat\n[10:10] Honorable Mention #2 - Kalista: Charmed while mid-jump\n[10:53] Honorable Mention #3 - Hail of Blades' tooltip stats is... impossible\n[11:17] Bug #20 - Client \"error\" in pro play (LCS)\n[11:51] Bug #21 - Visual: Bizarre Champion pop up\n[12:09] Bug #22 - Visual: Black line appears on screen?\n[12:31] Bug #23 - Client: Champion Select lobby chat dissapears\n[12:49] Honorable Mention #4 - Client: Game Countdown delayed\n[13:31] Bug #24 - Black Screened\n[14:10] Bug #25 - Jinx: Invisible Ults (sometimes)\n[16:09] Honorable Mention #5 - Morgana: Q Hitbox\n[17:07] Bug #26 - Draven: Movement Animation\n[17:19] Bug #27 - Nautilus: Ult's target indication\n[17:42] Bug #28 - Client: Replay Crash\n[18:42] Bug #29 - Yuumi: Partly invisible Q\n[19:01] Bug #30 - the \"96 AP\" bug?\n[19:32] Bug #31 - Baron icon showing on mini-map despite being dead\n[19:43] Bug #32 - Client: black screened\n[20:39] Bug #33 - Jhin: Shooting a blank shot (no damage, but proc'd Fleet Footwork rune)\n[21:04] Bug #34 - Varus: Q insta-shooting backwards, instead of charging\n[21:28] Bug #35 - Visual: Caitlyn seemingly passing through terrain\n[21:53] Bug #36 - Qiyana: Ult's hit detection?\n\n\n\n\n▼Editor's Added Music\n\n[22:19] Windows XP Error Remix\n\n\n\n▼Join Sneaky's Discord\n\nhttps://discord.gg/Y9mRBQ6\n\n\n\n▼ Follow Sneaky:\n\nTwitter: https://www.Twitter.com/Sneaky\nTwitch: https://www.Twitch.tv/C9Sneaky\nFacebook: https://www.Facebook.com/C9Sneaky\n\n\n\n\n▼ Follow Cloud9:\n\n\n\nWebsite: http://www.Cloud9.gg/\nTwitter: http://www.Twitter.com/Cloud9\nFacebook: http://www.Facebook.com/Cloud9\nYouTube: http://www.YouTube.com/Cloud9\nInstagram: http://www.Instagram.com/Cloud9gg\n\n\n\n▼ Sponsor Shoutouts:\n\n\nHyperX: http://c9.gg/hyperx\nLoLwiz: http://c9.gg/lolwiz\nSecretLab: http://c9.gg/secretlab\nOMEN by HP: http://c9.gg/omenbyhp\nRed Bull: http://c9.gg/redbull\nTwitch: http://c9.gg/twitch",
+        "videoId": "Twu8QzVJVHM",
+        "preview": "https://i.ytimg.com/vi/Twu8QzVJVHM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sneaky",
+        "displayName": "Sneaky",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy2sIoWZEf-_iN36J-h-b-yC4q7jm7NVmBEaR4j=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-19T07:00:00Z",
+        "title": "Sneaky Goes 20-1 on Caitlyn...",
+        "description": "★★ Best Sneaky Clips & Moments #58 ★★\n20-1 Caitlyn ✱ Vayne-Nautilus Secret Interaction ✱ NBA 2K19 ✱ Resident Evil 4\n\nFootage from: July 31 - August 6, 2019\n\nSneaky's full RE4 playthrough will be uploaded to the channel assuming he plays the FULL game on STREAM.\n\n▼Editor:\n\nhttps://Twitter.com/SnipingHobo\n\n\n\n▼Time Stamps\n\n[0:06] Sneaky Goes 20-1...\n[6:07] Vayne-Nautilus Combo\n[7:40] NBA 2K19\n[8:32] Resident Evil 4\n\n\n▼Editor's Added Music\n\n[0:40] Donkey Kong Country [SNES] - Forest Frenzy\n[2:33] Shadowrun [SNES] - Gunfight\n[3:27] Contra III: The Alien Wars [SNES] - Ground Zero\n[4:37] Paper Mario [N64] - Detective Mario\n[10:05] SNES Classic Menu Theme\n\n\n▼Join Sneaky's Discord\n\nhttps://discord.gg/Y9mRBQ6\n\n\n\n▼ Follow Sneaky:\n\nTwitter: https://www.Twitter.com/Sneaky\nTwitch: https://www.Twitch.tv/C9Sneaky\nFacebook: https://www.Facebook.com/C9Sneaky\n\n\n▼ Follow Cloud9:\n\nWebsite: http://www.Cloud9.gg/\nTwitter: http://www.Twitter.com/Cloud9\nFacebook: http://www.Facebook.com/Cloud9\nYouTube: http://www.YouTube.com/Cloud9\nInstagram: http://www.Instagram.com/Cloud9gg\n\n▼ Sponsor Shoutouts:\n\nHyperX: http://c9.gg/hyperx\nLoLwiz: http://c9.gg/lolwiz\nSecretLab: http://c9.gg/secretlab\nOMEN by HP: http://c9.gg/omenbyhp\nRed Bull: http://c9.gg/redbull\nTwitch: http://c9.gg/twitch",
+        "videoId": "s0VEsCaec40",
+        "preview": "https://i.ytimg.com/vi/s0VEsCaec40/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "Season 10 Nautilus Jungle Gameplay Guide - League of Legends",
+        "description": "➥STREAM UP IN 2 DAYS! https://www.twitch.tv/foxdrop\n➥Previous: Lee Sin! https://www.youtube.com/watch?v=GFkaSVy5JU8\r\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow my stream: https://www.twitch.tv/foxdrop\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "_V76MYObOCk",
+        "preview": "https://i.ytimg.com/vi/_V76MYObOCk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jaysea",
+        "displayName": "Jay Sea",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy9mrC5Q0SuPmQb-985TXsA2SbKOUb4GU_22CL2Tg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-13T07:00:00Z",
+        "title": "How to ACTUALLY Carry as SUPPORT Nautilus with Zeke's and Knight's Vow | Iron IV to Diamond Ep #84",
+        "description": "➤ (Somewhat MonkaS) Comfort List of Champions:\n●Top (Most comfortable): \nTryndamere, Darius, Jax, Nasus, Garen, Pantheon, Yorick, Malphite, Mundo, Urgot, Rammus, Fiora, Olaf, Trundle, Mordekaiser, Maokai, Wukong, Shen, Tahm Kench, Renekton, Aatrox, Kled, Ornn, Poppy, Ryze, Warwick,\n\n●Jungle (Slightly comfortable): \nNocturne, Master Yi, Warwick, Yorick, \n\n●Mid: \nXerath, Lux, Vladimir, Kassadin, Talon, Fizz\n\n●ADC: \nKai'sa, Lucian, Ezreal, Miss Fortune, \n\n●Support (Does anyone even want to watch this?): \nLeona, Soraka, Sona, Pantheon, Taric, Blitzcrank, Yuumi, Pyke, Rakan, Lulu, Braum\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤Full Iron IV to Diamond Playlist \n● https://www.youtube.com/watch?v=_fRvn4ONn70&list=PLWLlskw0fR7ykcDSyQOmfIN2eRCNrgxto\n\n➤(2018) Depths of Bronze to Diamond COMPLETE Playlist! \n● https://www.youtube.com/watch?v=KLI6-n9FVsY&list=PLWLlskw0fR7zP1-yQ7F8H1McDvrw2P17v\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤ Support\nIf you would like to help the channel grow, please leave a like and comment and share the video with friends or your favorite online community.\n\nAlso subscribe and click the notification bell icon or follow me on Twitter to be notified when I post new content!\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤ Outro Music \n● Runescape 07 - Unknown Land (Trap Remix)\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤ Donations\n● Patreon - https://www.patreon.com/JaySeaPatreon\n● Paypal - https://www.paypal.me/JaySeaYouTube\nNote with Paypal: If you'd like to hear from me in response to your donation, be sure to include your email address in the note you send along with the donation.\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤ FOLLOW ME\n● Twitch - https://www.twitch.tv/jayseastream\n● Twitter - https://twitter.com/Jay_Sea_Channel\n● Facebook - https://www.facebook.com/JaySeaChannel\n● Discord - https://discord.gg/zNCnrmv\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nIf you'd like me to promote your product contact me on: YouTubeJaySea@hotmail.com\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+        "videoId": "wpSUJehRw1c",
+        "preview": "https://i.ytimg.com/vi/wpSUJehRw1c/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-02T16:02:42Z",
+        "title": "Bilgewater Card Special Interactions - Gangplank, Miss Fortune, Fizz, Twisted Fate, Nautilus etc",
+        "description": "Special/Hidden/Secret Interactions for the Bilgewater Cards in Legends of Runeterra.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows Arrival interactions as well as deaths and victory of cards from Bilgewater such as Gangplank, Miss Fortune, Fizz Twisted Fate and Nautilus.\n\nThe interactions trigger by the left card being in play and then the card on the right arriving.\nGangplank, Miss Fortune, Fizz, Twisted Fate, Nautilus and other cards from Bilgewater will appear in other region videos as they have other unique lines for when other cards in play first and they arrive onto the board.\n\nStay upto date with information by following me on twitter:\nhttps://twitter.com/SkinSpotlights",
+        "videoId": "GIFwE30Mebk",
+        "preview": "https://i.ytimg.com/vi/GIFwE30Mebk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "randomonium",
+        "displayName": "Randomonium",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxHfeR4Scoojg8gwnM5HYhg1LNs6Nq17c4wV8zvag=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-21T07:00:00Z",
+        "title": "The Return of Nautilus Jungle",
+        "description": "THIS GAME WAS PLAYED ON PATCH 9.8\n\nDiscord: https://discord.gg/T2nRrfM\nPatreon: https://www.patreon.com/Randomonium\n\nI am a member of the League Partner Program.  To learn more about the League Partner Program visit https://partners.leagueoflegends.com/\n\n#leagueoflegends\n#LPP\n#leaguepartnerprogram",
+        "videoId": "gjqsfmZC5pY",
+        "preview": "https://i.ytimg.com/vi/gjqsfmZC5pY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "randomonium",
+        "displayName": "Randomonium",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxHfeR4Scoojg8gwnM5HYhg1LNs6Nq17c4wV8zvag=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-21T07:00:00Z",
+        "title": "Tank Meta Is Back! (9.8 patch notes)",
+        "description": "Amumu, Nautilus, Ornn, Singed and Sejuani buffs incoming.  What's not to like?\n\nDiscord: https://discord.gg/T2nRrfM\nPatreon: https://www.patreon.com/Randomonium\n\nI am a member of the League Partner Program.  To learn more about the League Partner Program visit https://partners.leagueoflegends.com/\n\n#leagueoflegends\n#LPP\n#leaguepartnerprogram",
+        "videoId": "Pc1lE0TYPi4",
+        "preview": "https://i.ytimg.com/vi/Pc1lE0TYPi4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "Nautilus Top Guide by OG Soaz - Season 6 | League of Legends",
+        "description": "Bring the CC train to engage and peel your way through Season 6 with Top Lane Nautilus from Origen Soaz.\n\nSubscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\nLike Us on Facebook: https://facebook.com/LolClasscom\n\nCheckout more Videos on: http://www.lolclass.com\n\nTwitter: https://twitter.com/LolClassCom\nGoogle+: https://google.com/+LolClass",
+        "videoId": "8NB1QZycp4Y",
+        "preview": "https://i.ytimg.com/vi/8NB1QZycp4Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "Nautilus Support with TSM YellowStar - Season 6 | League of Legends",
+        "description": "Subscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\nLike Us on Facebook: https://facebook.com/LolClasscom\n\nCheckout more Videos on: http://www.lolclass.com\n\nTwitter: https://twitter.com/LolClassCom\nGoogle+: https://google.com/+LolClass",
+        "videoId": "gXPBVwhZ7vg",
+        "preview": "https://i.ytimg.com/vi/gXPBVwhZ7vg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-03-26T14:00:01Z",
+        "title": "(ONE Q = ONE KILL!) FULL AP NAUTILUS IS *BACK*! NAUTILUS \"SUPPORT\" IS TRULY OP IN SEASON 10!",
+        "description": "THIS NEW FULL AP NAUTILUS BUILD IS ABSOLUTELY DEVASTATING SEASON 10!  USE THIS VIDEO AS A GUIDE FOR NAUTILUS IN SEASON 10!\n\n=====================\r\n\nCheck Out Instant-Gaming: https://www.instant-gaming.com/en/?igr=gamer-a23531\n\nFollow me here!\r\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\r\n→My Stream: http://twitch.tv/i0ki\r\n→My Twitter: http://twitter.com/i0ki_LoL\r\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "a5Cd1gtC7UY",
+        "preview": "https://i.ytimg.com/vi/a5Cd1gtC7UY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-03-13T14:00:15Z",
+        "title": "(PLAYING FOR $75,000!) THE RANK 1 NAUTILUS TAKES ON THE RANK 1 YASUO (YASSUO MOE)!  DON'T MISS THIS!",
+        "description": "DO *NOT* MISS THIS INSANE GAME FROM TWITCH RIVALS!  COMPETING FOR $75,000 AGAINST THE BEST YASUO IN THE ENTIRE WORLD (YASSUO MOE) FEATURING TYLER1 VOYBOY HEISENDONG AND EMIRU!\n\nUSE THIS VIDEO AS A GUIDE FOR NAUTILUS IN SEASON 10!\n\n=====================\r\n\nCheck Out Instant-Gaming: https://www.instant-gaming.com/en/?igr=gamer-a23531\n\r\nFollow me here!\r\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\r\n→My Stream: http://twitch.tv/i0ki\r\n→My Twitter: http://twitter.com/i0ki_LoL\r\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "oLkI33HmuKY",
+        "preview": "https://i.ytimg.com/vi/oLkI33HmuKY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-27T15:00:15Z",
+        "title": "($75,000 TOURNAMENT!) HOW TO PLAY NAUTILUS *PERFECTLY* AGAINST CHALLENGERS!  (ft. Tyler1 and Voyboy)",
+        "description": "BUSTING OUT MY WORLD FAMOUS NAUTILUS IN TWITCH RIVALS (A $75,000 TOURNAMENT!) \n\nTHE BEST NAUTILUS NA SHOWS YOU HOW TO CARRY AS NAUTILUS PERFECTLY! USE THIS VIDEO AS A GUIDE FOR NAUTILUS IN SEASON 10\n\n=====================\r\n\r\nCheck Out Instant Gaming:  https://www.instant-gaming.com/en/giveaway/IOKI\n\nFollow me here!\r\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\r\n→My Stream: http://twitch.tv/i0ki\r\n→My Twitter: http://twitter.com/i0ki_LoL\r\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "dMNRXd3ciI0",
+        "preview": "https://i.ytimg.com/vi/dMNRXd3ciI0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-03T00:29:19Z",
+        "title": "Abyssal Nautilus (2020) Skin Spotlight - League of Legends",
+        "description": "League of Legends Abyssal Nautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Abyssal Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "JVtYS6YCcHI",
+        "preview": "https://i.ytimg.com/vi/JVtYS6YCcHI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-03T00:29:18Z",
+        "title": "Subterranean Nautilus (2020) Skin Spotlight - League of Legends",
+        "description": "League of Legends Subterranean Nautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Subterranean Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "WT_3x30rUEM",
+        "preview": "https://i.ytimg.com/vi/WT_3x30rUEM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-03T00:29:01Z",
+        "title": "Worldbreaker Nautilus (2020) Skin Spotlight - League of Legends",
+        "description": "League of Legends Worldbreaker Nautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Worldbreaker Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "f6Wm6oJe_6M",
+        "preview": "https://i.ytimg.com/vi/f6Wm6oJe_6M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-03T00:29:01Z",
+        "title": "AstroNautilus (2020) Skin Spotlight - League of Legends",
+        "description": "League of Legends AstroNautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Astro Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "wBA5RPzir5c",
+        "preview": "https://i.ytimg.com/vi/wBA5RPzir5c/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-03T00:29:00Z",
+        "title": "Warden Nautilus (2020) Skin Spotlight - League of Legends",
+        "description": "League of Legends Warden Nautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Warden Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "MNZSUiyI6cM",
+        "preview": "https://i.ytimg.com/vi/MNZSUiyI6cM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-01T15:00:04Z",
+        "title": "THE MOST COMMON LOW ELO SUPPORT MISTAKES (AND HOW TO FIX THEM!) || Nautilus Coaching Season 10",
+        "description": "IN THIS PAID COACHING SESSION (FREE FOR YOUTUBE VIEWING!) I GO OVER THE MOST COMMON LOW ELO MISTAKES THAT NAUTILUS PLAYERS DO!  THIS BRONZE 2 EUNE PLAYER IS GETTING ADVICE FROM AN NA MASTER TIER SUPPORT!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "GTZCFIoHz3Q",
+        "preview": "https://i.ytimg.com/vi/GTZCFIoHz3Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-01-25T22:00:04Z",
+        "title": "Nautilus Visual Effect Update Comparison - All Skins | League Of Legends",
+        "description": "Purchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nTime Stamps:\n00:00 - Classic Nautilus\n01:12 - Abyssal Nautilus\n02:21 - Subterranean Nautilus\n03:30 - AstroNautilus \n04:39 - Warden Nautilus\n05:48 - Worldbreaker Nautilus",
+        "videoId": "CJETcmSCdq0",
+        "preview": "https://i.ytimg.com/vi/CJETcmSCdq0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-01-22T22:26:40Z",
+        "title": "(VISUAL REWORK!)  THESE NEW NAUTILUS VFX ARE INSANE! I FEEL *UNSTOPPABLE*! (INSANE 4V5 VS. REDMERCY)",
+        "description": "THE NAUTILUS VISUAL REWORK IS FINALLY HERE!  THIS OLD CHAMPION HAS A NEW COAT OF PAINT -- WHAT DO YOU THINK?\n\nTHESE NAUTILUS VFX UPDATE IS ON THE PBE!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "y35dZzZXRM4",
+        "preview": "https://i.ytimg.com/vi/y35dZzZXRM4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-01-01T00:30:04Z",
+        "title": "(BEST BUILD OF 2019!) THE HAPPY-NEW-YEARS-NAUTILUS BUILD!  HARD ENGAGING HIS WAY INTO 2020!",
+        "description": "THIS IS THE ABSOLUTE FINAL GAME OF 2019!  WE ARE SMASHING OUR WAY INTO 2020 WITH THIS INSANE NAUTILUS BUILD OF SEASON 10!\n\nUSE THIS VIDEO AS A GUIDE FOR NAUTILUS IN SEASON 10!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "sAYS0feqAbc",
+        "preview": "https://i.ytimg.com/vi/sAYS0feqAbc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-12-01T15:00:00Z",
+        "title": "WTF RIOT! FULL AP NAUTILUS ONE-SHOTS ANY CHAMPION IN THE GAME! AP NAUTILUS \"SUPPORT\" IS DISGUSTING.",
+        "description": "THIS SEASON 10 FULL AP NAUTILUS BUILD IS 100% UNBEATABLE! WTF IS RIOT THINKING LOL\n\nUSE THIS VIDEO AS A GUIDE FOR ANTUILUS IN SEASON 10\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "4W4dfWx-ix0",
+        "preview": "https://i.ytimg.com/vi/4W4dfWx-ix0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-11-17T16:20:37Z",
+        "title": "The Champ Even Pros Are ABUSING For End of Season LP - Journey To Challenger | LoL",
+        "description": "Download Battle Breakers and use code: redmercy to support the channel! Link: http://bit.ly/BattleBreakers\nThanks to Epic Games for sponsoring this video #sponsored\n\nLEAVE A \"LIKE\" IF YOU ENJOYED THE VID!! The Doinb Nautilus Mid SPECIAL, can be played support & top too in League of Legends!\n→My Merch Store: http://bit.ly/2nJDZdO →redmercy vs yassuo: https://bit.ly/2Oiyltr\n→Journey To GM/Challenger Playlist: https://bit.ly/2Lr6ANp\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n\n Follow me here!\n→My Stream: https://www.facebook.com/RedmercyLoL\n→My Public Discord: discord.gg/YAay9Hc \n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \nLIKE MY SICK WALLPAPER BEHIND ME? Get some too: https://displate.com/redmercyofficial\n\nEdited By: https://twitter.com/WYuezhong\n \nHope you enjoy and please sub rate and comment!!! :)\n\nThe Champ Even Pros Are ABUSING For End of Season LP - Journey To Challenger | LoL\n\n#lol #redmercy #leagueoflegends",
+        "videoId": "btdMcfh9YNU",
+        "preview": "https://i.ytimg.com/vi/btdMcfh9YNU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "coach_curtis",
+        "displayName": "Coach Curtis",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ1Gi5TVL30rvgLwqgjtl2oRfPRdddhxr-_JQw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-11-11T04:04:06Z",
+        "title": "How to win every SUPPORT game EXPLAINED (Challenger game) (INDEPTH)",
+        "description": "In this video I describe my thought process within a challenger solo queue game as Nautilus. \nI cover the following topics:\n- How to approach lvl 1 and 2 in lane\n- How to roam\n- When to roam\n- How to play aggressive and defensive\n- When to ward and where to ward\n- Mid game macro\nAND lots more things in both the early game and Mid game\n\n----------------------------------------------------------------------------------\nTwitter: https://twitter.com/CoachCurtislol",
+        "videoId": "RDeGYbvOlZc",
+        "preview": "https://i.ytimg.com/vi/RDeGYbvOlZc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-11-06T15:00:00Z",
+        "title": "(WIN LANE AT LEVEL 2!) THIS FULL AP NAUTILUS TOP HAS ZERO POSSIBLE OUTPLAY! League of Legends",
+        "description": "=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "aKbPYQMzziw",
+        "preview": "https://i.ytimg.com/vi/aKbPYQMzziw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-10-18T13:15:00Z",
+        "title": "Pyke Can Tank An INSANE Amount Of Damage! - League of Legends",
+        "description": "Pyke Can Tank An INSANE Amount Of Damage! - League of Legends\n\nCheck Out My New Merch:\nhttps://teespring.com/stores/hi-store-im-dad-2\n\nRank 1 Pyke in Season 9 shows the perfect way to beating Nautilus. A step by step guide is provided in Patch 9.20 to show Pyke vs Nautilus. This is a Full Game Commentary in Challenger.\n\n------------------------------------------\n\nCheck out my Mobafire Guides:\n→https://www.mobafire.com/profile/hanjaro-540658/content/builds\n\n------------------------------------------\nIKON is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\n#BestPyke #SupportPyke #Rank1Pyke",
+        "videoId": "NgaL7g6xXC8",
+        "preview": "https://i.ytimg.com/vi/NgaL7g6xXC8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-30T18:49:57Z",
+        "title": "New Best Solo Queue Champions for Patch 9.19 for Climbing in EVERY ROLE",
+        "description": "Thanks to Mobalytics for the builds! - https://moba.lol/2IzxqUf \nLet's check out the best champions right now for climbing quickly\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nTimestamps\nADC = start\nMid = 2:51\nJungle = 5:02\nTop = 7:26\nSupport = 9:29\n\nADC\nTop tier = Jinx, Ashe, Lucian, Kai'sa, Xayah, Jhin, Caitlyn, Vayne\n1 = Caitlyn\n2 = Ashe\n3 = Jinx\nHM = Vayne\n\nMid \nTop tier = Ahri, Orianna, Ekko, Twisted Fate, Fizz, Kassadin, Zed, Katarina\n1 = Ahri\n2 = Orianna - graphic\n3 = Ekko\nHM = Twisted Fate\n\nJungle \nTop tier = Zac, Mundo, Kha'zix, Jarvan, Hecarim, Evelynn,Ekko, Elise\n1 = Ekko\n2 = Zac \n3 = Kha'zix \nHM = Evelynn\n\nTop \nTop tier = Pantheon, Jax, Renekton, Darius, Mordekaiser, Riven, Kayle, Fiora\n1 = Fiora\n2 = Mordekaiser\n3 = Jax\nHM = Kayle\n\nSupport\nTop tier = Nautilus, Leona, Janna, Blitzcrank, Thresh, Pyke, Morgana, Rakan\n1 = Blitzcrank\n2 = Nautilus \n3 = Morgana \nHM = Pyke\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Solo Queue Champions for Patch 9.19 for Climbing in EVERY ROLE",
+        "videoId": "cAA2P3Olt7Q",
+        "preview": "https://i.ytimg.com/vi/cAA2P3Olt7Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-17T17:48:39Z",
+        "title": "New Best Solo Queue Champions for Patch 9.18 for Climbing in EVERY ROLE",
+        "description": "Join my Ikon club, play 5 challenges each week to enter to win 5000 RP card! = https://bitly.com/phyters\nLet's check out the best champions right now in the game! \n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nTimestamps\nADC = start\nMid = 3:15\nJungle = 5:21\nTop = 7:21\nSupport = 9:15\n\nADC\nTop tier = Jinx, Ashe, Lucian, Kai'sa, Xayah, Jhin, Caitlyn, Vayne\n1 = Caitlyn\n2 = Jhin\n3 = Kai'sa\nHM = Ashe\n\nMid \nTop tier = Ahri, Sylas, Ekko, Syndra, Fizz, Kassadin, Zoe, Qiyana\n1 = Ekko\n2 = Fizz\n3 = Kassadin\nHM = Zoe\n\nJungle \nTop tier = Sylas, Mundo, Kha'zix, Jarvan, Hecarim, Gragas,Vi, Elise\n1 = Kha'zix\n2 = Mundo \n3 = Jarvan \nHM = Hecarim\n\nTop \nTop tier = Pantheon, Jax, Renekton, Darius, Mordekaiser, Kled, Irelia, Fiora\n1 = Pantheon\n2 = Jax\n3 = Renekton\nHM = Mordekaiser\n\nSupport\nTop tier = Nautilus, Leona, Janna, Nami, Thresh, Pyke, Morgana, Rakan\n1 = Pyke\n2 = Janna \n3 = Leona \nHM = Nautilus\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Solo Queue Champions for Patch 9.18 for Climbing in EVERY ROLE",
+        "videoId": "2qiSyWkyY9E",
+        "preview": "https://i.ytimg.com/vi/2qiSyWkyY9E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-05T18:34:17Z",
+        "title": "THIS IS WHAT YOU DO WHEN YOUR BEHIND AS PYKE!?! MASTERING NAUTILUS SUPPORT!!! PATCH 9.17",
+        "description": "THIS IS WHAT YOU DO WHEN YOUR BEHIND AS PYKE!?! MASTERING NAUTILUS SUPPORT!!! PATCH 9.17\n\nWelcome to the Mastering Your Enemy Series. In this series we show how to properly win lane against any champion as Pyke. This series is intended to show the viewers how to play just like the Rank 1 Pyke.\n\nRank 1 Pyke in Season 9 shows the perfect way to beating Naut. A step by step guide is provided in Patch 9.17 to show Pyke vs Naut. This is a Full Game Commentary in Challenger.\n\n------------------------------------------\n\nCheck out my Mobafire Guides:\n→https://www.mobafire.com/profile/hanjaro-540658/content/builds\n\n------------------------------------------\nIKON is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\nEditor - PJINC\n\n#BestPyke #SupportPyke #Rank1Pyke",
+        "videoId": "eUekFWcH8_k",
+        "preview": "https://i.ytimg.com/vi/eUekFWcH8_k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-02T18:09:09Z",
+        "title": "New Best Solo Queue Champions for Patch 9.17 for Climbing in EVERY ROLE",
+        "description": "Time to look at what is top tier in Patch 9.17 for solo queue!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC = start\nMid = 2:49\nJungle = 5:11\nTop = 7:33\nSupport = 9:42\n\nADC\n-Jinx, Ashe, Lucian, Kai'sa, Xayah, Jhin, Caitlyn, Vayne\n1 = Jinx\n2 = Lucian\n3 =  Xayah\nHM = Vayne\n\nMid \n-Ahri, Sylas, Akali, Syndra, Yasuo, Zed, Malzahar, Qiyana\n1 = Akali \n2 = Qiyana\n3 =  Sylas \nHM = Malzahar\n\nJungle\n-Nunu, Mundo, Kha'zix, Jarvan, Hecarim, Gragas,Vi, Elise\n1 = Nunu \n2 = Kha'zix\n3 = Gragas\nHM = Mundo \n\nTop \n-Pantheon, Aatrox, Renekton, Darius, Mordekaiser, Kled, Irelia, Fiora\n1 = Pantheon\n2 = Aatrox\n3 = Kled\nHM = Irelia\n\nSupport \n-Nautilus, Leona, Janna, Nami, Thresh, Pyke, Morgana, Rakan\n1 = Nautilus\n2 = Leona\n3 = Thresh\nHM = Morgana\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Solo Queue Champions for Patch 9.17 for Climbing in EVERY ROLE",
+        "videoId": "mOwhTCdFTXs",
+        "preview": "https://i.ytimg.com/vi/mOwhTCdFTXs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-02T13:00:07Z",
+        "title": "CHALLENGER PYKE TEACHES HOW TO BEAT NAUTILUS!?! STEP BY STEP GUIDE TO WINNING LANE!!! PATCH 9.17",
+        "description": "CHALLENGER PYKE TEACHES HOW TO BEAT NAUTILUS!?! STEP BY STEP GUIDE TO WINNING LANE!!! PATCH 9.17\n\nWelcome to the Mastering Your Enemy Series. In this series we show how to properly win lane against any champion as Pyke. This series is intended to show the viewers how to play just like the Rank 1 Pyke.\n\nRank 1 Pyke in Season 9 shows the perfect way to beating Nautilus. A step by step guide is provided in Patch 9.17 to show Pyke vs Nautilus. This is a Full Game Commentary in Challenger.\n\n------------------------------------------\n\nCheck out my Mobafire Guides:\n→https://www.mobafire.com/profile/hanjaro-540658/content/builds\n\n------------------------------------------\nIKON is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\nEditor - PJINC\n\n#BestPyke #SupportPyke #Rank1Pyke",
+        "videoId": "PPKbnrW3iEs",
+        "preview": "https://i.ytimg.com/vi/PPKbnrW3iEs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-16T17:39:40Z",
+        "title": "New Best Solo Queue Champions for Patch 9.16 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champs in 9.16!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC = start\nMid = 2:53\nJungle = 4:55\nTop = 7:03\nSupport = 9:04\n\nADC\nTop Tier\n-Jinx, Kai'sa, Lucian, Xayah, Ashe, Jhin, Sivir, Caitlyn\n1 = Kai'sa\n2 = Jinx\n3 =  Xayah\nHM = Lucian\n\nMid \nTop Tier \n-Ahri, Zed, Akali, Sylas, Syndra, Kassadin, Fizz, Yasuo\n1 = Akali \n2 = Yasuo\n3 =  Sylas \nHM = Syndra\n\nJungle\nTop Tier\n-Jarvan, Elise, Kha'zix, Hecarim, Nunu, Kayn, Vi, Karthus\n1 = Kha'zix \n2 = Elise\n3 = Nunu\nHM = Karthus \n\nTop \nTop Tier\n-Aatrox, Darius, Fiora, Jax, Pantheon, Renekton, Riven, Akali\n1 = Aatrox\n2 = Fiora\n3 = Jax\nHM = Pantheon\n\nSupport \nTop Tier\n-Thresh, Pyke, Lux, Janna, Rakan, Nautilus, Morgana, Nami\n1 = Lux\n2 = Pyke\n3 = Janna\nHM = Nautilus\n\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Solo Queue Champions for Patch 9.16 for Climbing in EVERY ROLE",
+        "videoId": "n5hIvWxo1As",
+        "preview": "https://i.ytimg.com/vi/n5hIvWxo1As/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-08T13:00:06Z",
+        "title": "HOW TO NAUTILUS SUPPORT 1v9 FOR BEGINNERS | League of Legends",
+        "description": "I SHOW YOU HOW TO 1V9 CARRY ON NAUTILUS SUPPORT!  THIS IS A BEGINNERS' FRIENDLY NAUTILUS SUPPORT GUIDE!  NAUT SUPPOR COMMENTARY GUIDE SEASON 9 LEAGUE OF LEGENDS!\n\n\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "OCOI4iOaKxE",
+        "preview": "https://i.ytimg.com/vi/OCOI4iOaKxE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-04T17:49:39Z",
+        "title": "New Best Champions for Patch 9.15 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champs in 9.15!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC = start\nMid = 2:56\nJungle = 5:04\nTop = 7:18\nSupport = 9:12\n\nADC\nTop Tier\n-Jinx, Sivir, Caitlyn, Kai'sa, Ezreal, Jhin, Draven, Xayah\n1 = Ez/Kai'sa\n2 = Jinx\n3 =  Caitlyn\nHM = Sivir \n\nMid \nTop Tier \n-Zed, Ahri, Akali, Yasuo, Katarina, Fizz, Talon, Corki\n1 = Zed \n2 = Corki\n3 =  Akali\nHM = Fizz\n\nJungle\nTop Tier\n-Jarvan, Kha'Zix, Vi, Nunu, Kayn, Elise, Hecarim, Lee\n1 = Kha'zix \n2 = Jarvan\n3 = Vi \nHM = Elise \n\nTop \nTop Tier\n-Aatrox, Darius, Riven, Renekton, Kled, Irelia, Morde, Illaoi\n1 = Darius \n2 = Aatrox \n3 = Riven \nHM = Kled \n\nSupport \nTop Tier\n-Thresh, Pyke, Janna, Soraka, Yuumi, Nami, Rakan, Nautilus\n1 = Pyke (change order)\n2 = Janna (change keystone to aery)\n3 = Thresh\nHM = Rakan\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.15 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "ONnU1iVJHoc",
+        "preview": "https://i.ytimg.com/vi/ONnU1iVJHoc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-26T13:00:09Z",
+        "title": "(KOREAN STRAT) THIS S9 BOOSTING STRAT CAN'T LOSE (HYPER-CARRY BOTLANE NAUTILUS AND SWAIN!)",
+        "description": "THIS NEW NAUTILUS BOOSTING STRAT LETS YOU ACHIEVE A 100% WINRATE IN THE BOTLANE!  DESTROY EVERY OP CHAMPION WITH THIS NAUTILUS AND SWAIN BOTLANE!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "yiE1GE3aQSk",
+        "preview": "https://i.ytimg.com/vi/yiE1GE3aQSk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-06-05T15:00:08Z",
+        "title": "THIS WAS SUCH AN EXHAUSTING WIN!!! NEW EXHAUST PYKE!!! NAUTILUS VS PYKE! PATCH 9.11",
+        "description": "THIS WAS SUCH AN EXHAUSTING WIN!!! NEW EXHAUST PYKE!!! NAUTILUS VS PYKE! PATCH 9.11\n\nSeason 9 Pyke How to play perfectly vs Nautilus as Pyke. High elo ranked game against Nautilus. Full game Commentary in Masters Patch 9.11.\n\n------------------------------------------\n\nQuarterback is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\nEditor - PJINC\n\n#BestPyke #JunglePyke #Rank1Pyke",
+        "videoId": "zZ1uR8sai0k",
+        "preview": "https://i.ytimg.com/vi/zZ1uR8sai0k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-06-04T17:54:51Z",
+        "title": "New Best Champions for Patch 9.11 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champs for 9.11 with builds and runes!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC - start\nMid – 2:32\nJungle – 4:48 \nTop – 7:13\nSupport - 9:30\n\nADC\n1 = Sivir\n2 = Jinx\n3 = Xayah\nHM = Kai'sa\n\nMid \n1 = Sylas \n2 = Zed\n3 = Katarina\nHM = Malzahar\n\nJungle\n1 = Hecarim \n2 = Sejuani \n3 = Kayn \nHM = Elise \n\nTop \n1 = Aatrox \n2 = Darius\n3 = Tahm \nHM = Urgot\n\nSupport \n1 = Nautilus \n2 = Janna\n3 = Lux\nHM = Nami\n\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.11 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "lQrNfYVMnn0",
+        "preview": "https://i.ytimg.com/vi/lQrNfYVMnn0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-26T15:00:05Z",
+        "title": "THE *BEST* NAUTILUS BUILD SEASON 9! | #1 WINRATE SUPPORT!  BEST NAUT RUNES + BUILD IN SEASON 9!",
+        "description": "THIS IS THE *BEST* RUNES AND BUILD FOR NAUTILUS IN SEASON 9! USING THIS BUILD LITERALLY ALLOWS YOU TO BECOME THE #1 SUPPORT IN SEASON 9!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "K7hNMbArb0U",
+        "preview": "https://i.ytimg.com/vi/K7hNMbArb0U/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-19T17:53:51Z",
+        "title": "New Best Champions for Patch 9.10 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champs for 9.10 with builds and runes!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nADC - start\nMid – 2:37\nJungle – 4:50 \nTop – 7:10\nSupport - 9:07\n\nADC \n1 = Jinx \n2 = Sivir\n3 = Kai'sa\nNew = Xayah\n\nMid\n1 = Sylas \n2 = Lux\n3 = Ahri\nHM = Akali\n\nJungle\n1 = Karthus\n2 = Rammus\n3 = Hecarim\nHM = Amumu\n\nTop \n1 = Aatrox\n2 = Darius\n3 = Jax \nHM = Tryndamere\n\nSupport \n1 = Nautilus\n2 = Nami\n3 = Pyke\nHM = Lux\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions for Patch 9.10 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "yFezxbLZR98",
+        "preview": "https://i.ytimg.com/vi/yFezxbLZR98/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-07T17:27:52Z",
+        "title": "New Best Champions for Patch 9.9 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champions now in 9.9!\nCheck out mobalytics, improve and climb! - https://moba.lol/2Glq8Rk\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nADC - start\nMid – 2:57\nJungle – 5:35 \nTop – 7:39\nSupport - 9:48\n\nADC \nBest = Jinx \nRunner up = Vayne\nRunner up = Kai'sa\nHM = Draven\n\nMid\nBest = Ahri\nRunner up = Lux \nRunner up = Zed\nHM = Neeko\n\nJungle\nBest = Amumu\nRunner up = Hecarim\nRunner up = Kayn\nHM = Master Yi \n\nTop \nBest = Darius\nRunner up = Riven\nRunner up = Urgot\nHM = Nasus\n\nSupport \nBest = Nautilus\nRunner up = Lux\nRunner up = Thresh\nHM = Sona\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions for Patch 9.9 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "npHTCsi2sW8",
+        "preview": "https://i.ytimg.com/vi/npHTCsi2sW8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "randomonium",
+        "displayName": "Randomonium",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxHfeR4Scoojg8gwnM5HYhg1LNs6Nq17c4wV8zvag=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-04T20:21:14Z",
+        "title": "The Return of Nautilus Jungle",
+        "description": "THIS GAME WAS PLAYED ON PATCH 9.8\n\nDiscord: https://discord.gg/T2nRrfM\nPatreon: https://www.patreon.com/Randomonium\n\nI am a member of the League Partner Program.  To learn more about the League Partner Program visit https://partners.leagueoflegends.com/\n\n#leagueoflegends\n#LPP\n#leaguepartnerprogram",
+        "videoId": "gjqsfmZC5pY",
+        "preview": "https://i.ytimg.com/vi/gjqsfmZC5pY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-04-24T14:57:05Z",
+        "title": "ZERO COUNTERPLAY!  AP NAUTILUS MID GOT FOUR (4) BUFFS?! | New AP Nautilus Mid Season 9",
+        "description": "WHAT WAS RIOT THINKING WHEN THEY BUFFED AP NAUTILUS FOUR (4) TIMES?!  YOU LITERALLY JUST PRESS R AND SOMEONE DIES!  IS THIS THE MOST BROKEN PICK OF SEASON 9?\n\nUSE THIS VIDEO AS A GUIDE FOR NAUTILUS IN SEASON 9\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "u_BwemCJtj8",
+        "preview": "https://i.ytimg.com/vi/u_BwemCJtj8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-04-12T19:01:00Z",
+        "title": "10 Weird Troll Builds from Korean Challenger Grandmaster that actually work",
+        "description": "Shout outs to TheMainStayz and Kled Kled for guessing 2 of these picks in the video!\nAP nautilus – https://lol.mobalytics.gg/summoner/kr/by%20%EB%B6%88%EB%B9%84/match-history \nAftershock lux – https://lol.mobalytics.gg/summoner/kr/ililiiiilijlilii/match-details/13/3617986821/builds \nArdent Morde – https://lol.mobalytics.gg/summoner/kr/reset9/match-history/match-details/13/3617097074/builds \nPredator AP Nunu – https://lol.mobalytics.gg/summoner/kr/%EC%9D%B5%EC%82%B0%EB%88%84%EB%88%84?season=13 \nTop Tahm – https://lol.mobalytics.gg/summoner/kr/%ED%83%90%20%EC%8B%A0?season=13 \nKarma GLP Ardent – https://lol.mobalytics.gg/summoner/kr/sevenyears?season=13 \nVolibear Top – https://lol.mobalytics.gg/summoner/kr/league%20of%20heroes \nVolibear Support – https://lol.mobalytics.gg/summoner/kr/jin%20air%20kellin?season=13 \nPoppy Conq – https://lol.mobalytics.gg/summoner/kr/%EC%B9%BC%EA%B3%BC%20%EC%B0%BD%20%EB%B0%A9%ED%8C%A8?season=13 \nGlacial builds – https://lol.mobalytics.gg/summoner/kr/%ED%94%84%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%86%A4?season=13  \n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n10 Weird Troll Builds from Korean Challenger Grandmaster that actually work",
+        "videoId": "khBWXKDDUfo",
+        "preview": "https://i.ytimg.com/vi/khBWXKDDUfo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-04-10T15:01:29Z",
+        "title": "THEY BUFFED NAUTILUS FOUR (4) TIMES?! 4x THE STUNS!  4x THE DAMAGE!  4x THE TANKINESS! | Nautilus S9",
+        "description": "WAIT THEY SERIOUSLY BUFFED NAUTILUS 4 TIMES?!?  WHAT IS THIS!  EVERYTHING IS BUFFED INCLUDING HIS DAMAGE, TANKINESS, AND CC!  WHAT IS GOING ON AT RIOT HQ?!  THE TANK META IS BACK!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "hwA-c0f_A5o",
+        "preview": "https://i.ytimg.com/vi/hwA-c0f_A5o/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-10-28T17:53:58Z",
+        "title": "THIS *ONE* NEW RUNE MAKES NAUTILUS BROKEN! || Season 9 League of Legends",
+        "description": "ULTIMATE LEONA TOP BUILD/STRATEGY: \nhttps://www.youtube.com/watch?v=kQiMuXYHLrk\n\n --~--\nWELCOME TO SEASON 9!  THIS *ONE* NEW RUNE (SHIELD BASH) MAKES NAUTILUS BROKEN IN SEASON 9!  YOU DEAL SO MUCH DAMAGE AND ARE SO TANKY IT'S DISGUSTING! WE ARE PLAYING ON THE PRESEASON PBE, JUST WAIT UNTIL IT HITS LIVE!  \n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "TI7P7kiEkRE",
+        "preview": "https://i.ytimg.com/vi/TI7P7kiEkRE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-08-24T15:00:04Z",
+        "title": "Hanjaro Stream Recap 10: We're Going In! - League of Legends",
+        "description": "League of Legends Season 8 Support Master. Stream Recap 10 of August 23rd 2018, Stand out game was definitely the second Bard game shown that ended with a 5/1/22 KDA, just everything about it was juicy goodness, Supports featured in this Stream Recap: Bard, Pyke and Nautilus\n\nMake sure to like and subscribe for more videos!\n\nCome chat with me!\n► https://www.discord.gg/nakrNw7\n\nLooking for more Stream Recaps or Support Guides?\n► Stream Recap Playlist - https://www.youtube.com/playlist?list=PLbgl8UGfpbcqV_RmG8DUp0ofyLk7tsakK\n► Support Guide Playlist - https://www.youtube.com/playlist?list=PLbgl8UGfpbcqmUBvZqhvZY7haPcghM6Sy\n\nFollow me!\n►TWITCH - https://www.twitch.tv/hanjarolol\n►TWITTER - https://www.twitter.com/hanjarolol\n\n#hanjaro #support #recap",
+        "videoId": "I4hFJ5_AAIE",
+        "preview": "https://i.ytimg.com/vi/I4hFJ5_AAIE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "tbskyen",
+        "displayName": "T B Skyen",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyshPYFo6beJdHT__q8zRw6nZd_6qJO0Jx_bk9rUg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-05-13T00:51:35Z",
+        "title": "Who is Pyke? || Pre-release character design & lore analysis",
+        "description": "Join the channel discord: https://discord.gg/7mPBMDN (25 uses only)\n\nI wasn't initially planning on it, but since people asked, let's have a Pyke speculation video. Let's talk about his character design, his symbols and visual signifiers, speculate a little bit about his gameplay and talk at length about his place in League of Legends lore and his relationship (or lack thereof) to Nautilus!\n\n-----\n\nTwitter: http://twitter.com/tbskyen\nPatreon: http://patreon.com/castercomix",
+        "videoId": "BQ44t4BN9Nw",
+        "preview": "https://i.ytimg.com/vi/BQ44t4BN9Nw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-05-11T20:19:19Z",
+        "title": "First Thoughts on Pyke",
+        "description": "The teaser for our newest champion is up, and today I wanted to give my first few thoughts about how a serial killer champion can be played as a support and what Pyke's backstory means for Nautilus. \n\nWatch the Pyke teaser here: https://www.youtube.com/watch?v=UjX7FAwc7lw\nRead more GTL here: https://grabthelantern.tumblr.com",
+        "videoId": "33JHGaeyyg4",
+        "preview": "https://i.ytimg.com/vi/33JHGaeyyg4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "tbskyen",
+        "displayName": "T B Skyen",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyshPYFo6beJdHT__q8zRw6nZd_6qJO0Jx_bk9rUg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-05-05T00:16:42Z",
+        "title": "What's the deal with Nautilus? || Character design & lore discussion",
+        "description": "Nautilus is a popular pick in the comments for a video, and it's perhaps easy to see why. The old boy has got charm, and a lot of fun to him - plus a kit that's easy to love (or hate), when you face him in the jungle, or in toplane, or as a support, or, hey, let's put him mid. Why not? There are no rules! The universe is meaningless! To heck with your promotion series!\n\nThe charm, though, may turn out to be part of the problem...\n\n-----\n\nTwitter: http://twitter.com/tbskyen\nPatreon: http://patreon.com/castercomix\nDiscord: https://discord.gg/pXptZ7g (25 uses!)",
+        "videoId": "fpJOTFKaiRQ",
+        "preview": "https://i.ytimg.com/vi/fpJOTFKaiRQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-22T20:00:02Z",
+        "title": "Top 9 Coolest Fan Skins! - League of Legends",
+        "description": "🔶$500RP GIVEAWAY ➥ https://goo.gl/qBxLfp 🔶\n➥ Fortnite Battle Royale Moments: https://goo.gl/Qo49bJ\n➥ Virtual Reality Moments: https://goo.gl/TjthCq\n💙 NEW Facebook: https://www.facebook.com/GamingCuriosOverwatch/💙\n\n➥ Subscribe for More League of Legends Videos!  http://bit.ly/1O7TtJh  \n\n➥ Information Sources From The Video:\n\n1. Off-Road Hecarim By Ron Broyde:\nhttps://www.artstation.com/artwork/nxna1\n\n2. Dark Star Urgot by Slown Damn:\nhttps://www.artstation.com/artwork/negW6\n\n3. Arctic Nautilus by Leon Ropeter:\nhttps://www.artstation.com/artwork/8gXwQ\n\n4. Tahm Kench in Wonderland by Leon Ropeter:\nhttps://www.artstation.com/artwork/dVmKJ\n\n5. Nyandalee by Leon Ropeter:\nhttps://www.artstation.com/artwork/q3B6y\n\n6. Star Guardian Teemo By Ben Rosado:\nhttps://www.artstation.com/artwork/8yBYQ\n\n7. Beast Hunter Katarina by AngellMoonlight:\nhttps://angellmoonlight.deviantart.com/art/League-of-Legends-Beast-Hunter-Katarina-610099776\n\n8. Dark Tengu Akali by Julian del Rey:\nhttps://www.artstation.com/artwork/qP4NR\n\n9. Demon Irelia by Alexey Gorbatov:\nhttps://www.artstation.com/artwork/1XB2K\n\n10. Nightmare Spirit Ahri by Magion02:\nhttps://www.deviantart.com/art/League-of-Legends-Ahri-501605120\n\n✔ Video Credits:\n● Produced By: Jeremy \"Gaming Curios\"\n● Written By: Jeremy \"Gaming Curios\" & EdgeGaming\n● Edited By: LocusEdits",
+        "videoId": "db_QDcp-UOo",
+        "preview": "https://i.ytimg.com/vi/db_QDcp-UOo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-12-09T17:54:36Z",
+        "title": "9 New OP Builds & Champs in Korea Patch 7.24 PRESEASON so far (League of Legends)",
+        "description": "Let's check out some new picks over in Korea since the new patch!\nOP.GG has a lot of these if you want to look properly = http://www.op.gg/champion/statistics\nThanks for the likes and subscribing! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nPicks\n-Leona/Rammus/Malz/Shyvana for lower ranks\n-Morgana Mid\n-Corki Fleet Footwork\n-Sion Arcane Comet\n-Kalista\n-Nautilus Support\n-Nasus Kleptomancy/Ancient Coin\n-Sejuani \n-Katarina (early game)\n-Olaf Jungle\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n9 New OP Builds in Korea Patch 7.24 PRESEASON so far (League of Legends)",
+        "videoId": "TjoNOxZw5R4",
+        "preview": "https://i.ytimg.com/vi/TjoNOxZw5R4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-30T14:00:00Z",
+        "title": "Should I feel Dirty Playing This Champ?? Zoe Support - League of Legends",
+        "description": "Full game stream highlight. LoL Tips and tricks on how to play Zoe Support in this match up against Tristana and Xerath along with commentary!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nHI GUYS IM NAUTILUS! NAUTILUS SUPPORT - League of Legends\nhttps://www.youtube.com/watch?v=VdfprWhegdA\n\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-Also check out this Tahm Kench main playing for #ExtraLife Charity!\nhttps://www.youtube.com/DannarHetoshi",
+        "videoId": "2Q1UAuqTcas",
+        "preview": "https://i.ytimg.com/vi/2Q1UAuqTcas/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-28T21:33:39Z",
+        "title": "WHAT IS THIS CHAMPION?!?! TOP D DUO - League of Legends",
+        "description": "Weekly Top Donator duo game with Ozown featuring Graves and Maokai in bot lane! This is part of a new series where our top donator on stream (weekly and monthly) gets to play a duo game with me, Hanjaro. Fun picks are highly encouraged, make it as silly as you want! \n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nHI GUYS IM NAUTILUS! NAUTILUS SUPPORT - League of Legends\nhttps://www.youtube.com/watch?v=VdfprWhegdA\n\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "O6Yi4zG3lKo",
+        "preview": "https://i.ytimg.com/vi/O6Yi4zG3lKo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-25T23:23:08Z",
+        "title": "HI GUYS IM NAUTILUS! NAUTILUS SUPPORT - League of Legends",
+        "description": "Full game stream highlight. LoL Tips and tricks on how to play Nautilus Support in this match up against Sona and Varus along with commentary!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\n\nIM TRYING SO HARD TO KEEP EVERYONE ALIVE! SORAKA SUPPORT - League of Legends\nhttps://www.youtube.com/watch?v=pyJByejq6-g\n\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "VdfprWhegdA",
+        "preview": "https://i.ytimg.com/vi/VdfprWhegdA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-11T01:59:51Z",
+        "title": "[Season 8] Runes For ALL Champions (500+ Rune Pages)",
+        "description": "Huge thanks to all of the pro players and challengers who helped in the discussion leading to the creation of these pages. Some pages on the rune video might have errors / extra pages (alternatives) missing, this was an oversight due to the amount of time it took sorry. \nTimestamps: \n\n00:00 Aatrox\n00:05 Ahri\n00:17 Akali\n00:21 Alistar\n00:33 Amumu\n00:42 Anivia\n00:49 Annie\n00:56 Ashe\n01:01 Aurelion\n01:12 Azir\n01:17 Bard\n01:36 Blitzcrank\n01:45 Braum\n01:50 Brand\n02:04 Caitlyn\n02:09 Camille\n02:18 Cassio\n02:23 Cho'Gath\n02:33 Corki\n02:37 Darius\n02:55 Diana\n03:07 Draven\n03:12 Dr.Mundo\n03:28 Ekko\n03:51 Elise\n03:54 Evelynn\n03:56 Ezreal\n04:05 Fiddlesticks\n04:12 Fiora\n04:17 Fizz\n04:24 Galio\n04:29 Gangplank\n04:43 Garen\n04:50 Gnar\n04:52 Gragas\n05:04 Graves\n05:06 Hecarim\n05:11 Heimerdinger\n05:20 Illaoi\n05:39 Irelia\n05:55 Ivern\n06:11 Janna\n06:25 Jarvan\n06:35 Jax\n06:51 Jayce\n06:56 Jhin\n07:03 Jinx - Slight error, Press the Attack not comet tree is hers. Comet is Jhin's+Press the Attack\n07:06 Kalista\n07:08 Karma\n07:31 Karthus\n07:33 Kassadin\n07:52 Katarina\n08:01 Kayle\n08:03 Kayn\n08:13 Kennen\n08:17 Kha'Zix\n08:22 Kindred\n08:27 Kled\n08:31 Kog'Maw\n08:36 Leblanc\n08:48 Lee Sin\n08:54 Leona\n09:04 Lissandra\n09:11 Lucian\n09:16 Lulu\n09:34 Lux\n09:46 Malphite\n09:52 Malzahar\n10:00 Maokai\n10:03 Master Yi\n10:12 Miss Fortune\n10:23 Mordekaiser\n10:28 Morgana\n10:33 Nami\n10:44 Nasus\n11:03 Nautilus\n11:12 Nidalee\n11:15 Nocturne\n11:40 Nunu\n11:55 Olaf\n12:06 Orianna\n12:18 Ornn\n12:23 Pantheon\n12:30 Poppy\n12:36 Quinn\n12:39 Rakan\n12:44 Rammus\n12:50 Reksai\n12:55 Renekton\n13:07 Rengar\n13:16 Riven\n13:30 Rumble\n13:33 Ryze\n13:35 Sejuani\n13:39 Shaco\n13:49 Shen\n13:53 Shyvana\n14:00 Singed\n14:22 Sion\n14:26 Sivir\n14:29 Skarner\n14:35 Sona\n14:50 Soraka\n15:03 Swain\n15:09 Syndra\n15:13 Tahm\n15:29 Taliyah\n15:38 Talon\n15:43 Taric\n15:48 Teemo\n15:59 Twisted Fate\n16:11 Thresh\n16:13 Tristana\n16:18 Trundle\n16:32 Tryndamere\n16:34 Twitch\n16:39 Udyr\n16:46 Urgot\n16:49 Varus\n16:53 Vayne\n16:56 Veigar\n17:05 Vel'Koz\n17:16 Vi\n17:26 Viktor\n17:40 Vladimir\n17:45 Volibear\n17:54 Warwick\n18:06 Wukong\n18:17 Xayah\n18:20 Xerath\n18:31 Xin Zhao\n18:38 Yasuo\n18:48 Yorick\n18:55 Zac\n19:04 Zed\n19:09 Ziggs\n19:15 Zilean\n19:27 Zoe\n19:32 Zyra\n\nPLEASE NOTE :\n\nThe outlined but gray icon in the primary tree means that it is a possible alternative, although the colored path is preferred. In the secondary tree the outline stands for alternatives aswell, but it also shows what you can actually swap out and what is mandatory.\n\nAll of the rune pages that are seen in this video are not only created through my own thoughts, but dozens of pro and high elo players were involved in coming to conclusions when doing these rune pages.\n\nHuge shout-outs to everyone who participated in working on these.\n\nBGM : https://www.youtube.com/watch?v=_rbVt0z6NLM",
+        "videoId": "X6uxG09qN0s",
+        "preview": "https://i.ytimg.com/vi/X6uxG09qN0s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-11T03:00:00Z",
+        "title": "S7 Coaching Platinum ELO - Rakan Support - League of Legends",
+        "description": "Coaching Review for Willie_The_Orc, Ranked: Platinum 4. LoL Coaching Tips and tricks on how to play Rakan Support in this match up against Bard and Twitch!\n\n**The game was actually muted by Twitch.tv for the last 2 minutes. So instead of having a muted video, the end was cut off.\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nS7 Coaching Silver ELO - Support Nautilus - League of Legends:\nhttps://youtu.be/qsnYmxbtvkI\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "LIRV8ETKzbU",
+        "preview": "https://i.ytimg.com/vi/LIRV8ETKzbU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-10T20:19:12Z",
+        "title": "S7 Coaching Silver ELO - Support Nautilus - League of Legends",
+        "description": "Coaching Review for Ragnvar Starchaser, Ranked: Silver 3 ELO. LoL Coaching Tips and tricks on how to play Support Nautilus in this match up against Taric and Twitch!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nDO I BUY THE SIGHTSTONE? - SORAKA EPIC MOMENTS - League of Legends:\nhttps://youtu.be/XtOMB0lAk_0\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "qsnYmxbtvkI",
+        "preview": "https://i.ytimg.com/vi/qsnYmxbtvkI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-07-24T16:32:15Z",
+        "title": "New OP CHAMPS IN 7.15 - Biggest Buffs & Nerfs (League of Legends)",
+        "description": "There are a lot of new changes hitting the game soon so let's go through who won, who lost and who is going to be so much stronger!\nList of the changes and timestamps are down below. :)\nThanks for liking and subscribing if you enjoy!\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChanges (can find more numbers etc) = http://www.surrenderat20.net/p/current-pbe-balance-changes.html#balance\n\nTimestamps\nDuskblade stuff = start of the video\nJungle = 1:26\nADC = 5:21\nTop = 7:38\nMid = 10:53\nSupport has no changes!\n\nList of changes\n-Duskblade nerfs\n-Cho'Gath nerf\n-Zac nerf\n-Gragas nerf\n-Elise / Rek'sai small nerf\n-Kayn buff\n-Shyvana buff?\n-Sivir buff\n-Jinx buff\n-Ezreal buff\n-Nasus rework\n-Nautilus buff\n-Mundo rework\n-Lux / Ekko / Xerath / Ziggs small buffs\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew OP CHAMPS IN 7.15 - Biggest Buffs & Nerfs (League of Legends)",
+        "videoId": "F0dZhp89sDU",
+        "preview": "https://i.ytimg.com/vi/F0dZhp89sDU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-07-16T16:36:04Z",
+        "title": "NEW UDYR Rework? 23+ Champion Buffs & Nerfs - Big PBE 7.15 Changes! (League of Legends)",
+        "description": "There are tons of changes on the PBE this time around so I thought we should take a look!\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChanges =\nBig\n-Zac nerfs\n-Udyr rework\n-Nasus semi rework\n-Mundo semi rework\n\nMid\n-Ezreal buff\n-Sivir buff\n-Xerath buffs\n\nSmaller Nerfs\n-Elise base ad nerf\n-Gragas ult nerf\n-Lee Sin base ad nerf\n-Rek'Sai early nerf, late game buff\n\nSmaller buffs\n-Akali w CD\n-Ekko E CD\n-Irelia R CD\n-Jinx W CD\n-Kindred Q dmg\n-Lissandra base dmg\n-Lux Q CD\n-Malphite E dmg\n-Nami Q CD \n-Nautilus Q dmg up. R CD down\n-Shyvana base arm up\n-Ziggs W CD late game down\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNEW UDYR Rework? 23+ Champion Buffs & Nerfs - Big PBE 7.15 Changes! (League of Legends)",
+        "videoId": "BsHiuuR8X1U",
+        "preview": "https://i.ytimg.com/vi/BsHiuuR8X1U/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-18T22:26:39Z",
+        "title": "Patch 7.8 Rundown",
+        "description": "Timestamps:\n0:15 - Aatrox\n1:20 - Amumu\n3:00 - Ivern\n3:49 - Karthus\n4:29 - Lissandra\n6:55 - Malzahar\n7:24 - Nautilus\n8:14 - Ryze\n8:35 - Shen\n12:05 - Udyr\n14:38 - Stormraider's Surge\n14:57 - Upcoming Skins & Chromas\n\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "NKHS7UY7w7Y",
+        "preview": "https://i.ytimg.com/vi/NKHS7UY7w7Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-24T17:00:00Z",
+        "title": "15 of my SECRETLY STRONG CARRY / UNDERRATED champs for every role (League of Legends)",
+        "description": "Let's check out the champs I think are most underrated in each role right now.\nRemember to check out Haste as well! - http://bit.ly/phyhaste\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nTimestamps -\nSupport = 0:40\nTop = 2:43\nJungle = 4:35\nADC = 6:41\nMid = 9:05\n\nChampions mentioned -\nSupport - Xerath, Veigar, Nautilus\nTop - Illaoi, Yorick, Sion (AD)\nJungle - Skarner, Kindred, Nunu\nADC - Kennen, Varus (crit), Tristana\nMid - Kassadin, Taliyah, Vel'Koz\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n15 of my SECRETLY STRONG CARRY / UNDERRATED champs for every role (League of Legends)",
+        "videoId": "5fLgrAEWYRA",
+        "preview": "https://i.ytimg.com/vi/5fLgrAEWYRA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-02-23T05:27:58Z",
+        "title": "Recalls - Champion Updates | All Champions who didn't have recalls now do!",
+        "description": "List and timestamps below! All old champions which haven't had recalls now have them, 74 bases, 351 skins will now have recalls.  This video will show all the base champions which have been changed.\n\nMore information Here:\nhttp://boards.na.leagueoflegends.com/en/c/story-art/IngzHFRs-adding-simple-recalls-to-older-champs\n\nFull List of Champions and what animations they use for the recall:\nhttp://boards.pbe.leagueoflegends.com/en/c/champions-gameplay-feedback/AOE2y1J5-adding-simple-recalls-soon-on-pbe\n\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nTime Stamps:\nAhri - 00:04\nAkali - 00:14\nAlistar - 00:26\nAmumu - 00:37\nAnivia - 00:47\nAshe - 00:57\nBlitzcrank - 01:07\nBrand - 01:18\nCaitlyn - 01:28\nCassiopeia - 01:40\nCho'Gath - 01:50\nCorki - 02:00\nDr. Mundo - 02:11\nEvelynn - 02:21\nEzreal - 02:31\nFiddlesticks - 02:41\nFiora - 02:52\nFizz - 03:01\nGalio - 03:12\nGragas - 03:22\nGraves - 03:32\nHecarim - 03:43\nIrelia - 03:53\nJanna - 04:03\nJarvan IV - 04:13\nJax - 04:25\nKassadin - 04:35\nKayle - 04:45\nKennen - 04:56\nKog'Maw - 05:06\nLeblanc - 05:16\nLee Sin - 05:27\nLeona - 05:37\nLulu - 05:48\nLux - 05:59\nMalphite - 06:09\nMalzahar - 06:18\nMaokai - 06:28\nMiss Fortune - 06:41\nMordekaiser - 06:50\nMorgana - 07:00\nNautilus - 07:10\nNocturne - 07:20\nNunu - 07:32\nOlaf - 07:42\nOrianna - 07:53\nPantheon - 08:02\nRammus - 08:11\nRenekton - 08:21\nRiven - 08:30\nRumble - 08:40\nShaco - 08:50\nShen - 09:00\nShyvana - 09:08\nSinged - 09:29\nSkarner - 09:39\nSona - 09:48\nSwain - 09:57\nTalon - 10:07\nTeemo - 10:16\nTryndamere - 10:25\nUdyr - 10:35\nUrgot - 10:44\nVarus - 10:54\nVayne - 11:03\nVeigar - 11:12\nViktor - 11:21\nVladimir - 11:32\nVolibear - 11:42\nWukong - 11:51\nXerath - 12:00\nXin Zhao - 12:09\nZiggs - 12:20\nZilean - 12:30\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "zhUAc86A_uE",
+        "preview": "https://i.ytimg.com/vi/zhUAc86A_uE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-01-21T21:01:40Z",
+        "title": "BROKEN NAUTILUS BUILD! | THEY USED TO CALL ME USELESSNESS - Trick2G",
+        "description": "http://www.twitch.tv/trick2g \nFollow me @ twitter.com/trick2g for D Latest updates.\nUse Promo Code \"TRK for 3%cashback on G2A https://www.g2a.com/?reflink=t2g\n�я Sennheiser ��� http://bit.ly/1SKGjVU\n�я Cyberpower Pc use code 'NORUSH' for 5% off above 1.299$ ��� http://bit.ly/1R2Yqd9\n�я Be a part of subwars ��� http://www.trick2g.org/subwars\n�я Syber Gaming ��� http://www.sybergaming.com\n�я Gunnar use discount code TRK ��� http://bit.ly/2bgV3lp\n�я Join us on our Curse server ��� https://www.curse.com/trick2g\n�я My Youtube Channel ��� http://www.youtube.com/user/trick0850\n------------------------------------------------------------------------------\n�я Want to learn about the gates? Check out D MY WAY playlist:\nhttps://www.youtube.com/playlist?list...\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "dZe0nYT4En4",
+        "preview": "https://i.ytimg.com/vi/dZe0nYT4En4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-30T04:16:56Z",
+        "title": "Season 7 LoL Coaching #1 - Nautilus Top (S6 Platinum)",
+        "description": "Nautilus top lane vs. Sion.  n3ac3y covers objectives and when to reset, ultimate targeting, and some clutch jhin auto spacing.  Kappa.\n\nFF@20$ Replay Reviews on http://twitch.tv/n3ac3y\nUse http://op.gg or http://replay.gg to record your games.   Come in, have a replay ready to review, donate 20$, and get on the wait list to have your gameplay reviewed live on stream on Mondays. $50 on demand.\n\nAlso, be sure to follow:\n►TWITTER: https://twitter.com/n3ac3y\n►FACEBOOK: https://www.facebook.com/bingegaming.tv\n►MY LIVESTREAM: http://www.twitch.tv/n3ac3y\n►DISCORD: http://discord.gg/n3ac3y\n►PATREON: https://www.patreon.com/n3ac3y\n►OP.GG: http://goo.gl/43igza\n►LOLKING:   http://www.lolking.net/summoner/na/54794681\n\nTelestrator: http://epic-pen.com/\n\nProduction: Phreo -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "yEzRn1ft4Wg",
+        "preview": "https://i.ytimg.com/vi/yEzRn1ft4Wg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-23T15:00:04Z",
+        "title": "n3ac3y Tryndamere vs. Nautilus Top Lane (Full Game)",
+        "description": "n3ac3y Tryndamere vs. Nautilus top lane.  Here is another full game for ya fam!  Hoping this one has less audio/video issues issues.\r\n\r\nFF@20$ Replay Reviews on http://twitch.tv/n3ac3y\r\nUse http://op.gg or http://replay.gg to record your games.   Come in, have a replay ready to review, donate 20$, and get your gameplay reviewed live on stream on Mondays. $50 on demand.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER: https://twitter.com/n3ac3y\r\n►FACEBOOK: https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM: http://www.twitch.tv/n3ac3y\r\n►DISCORD: http://discord.gg/n3ac3y\r\n►PATREON: https://www.patreon.com/n3ac3y\r\n►OP.GG: http://goo.gl/43igza\r\n►LOLKING:   http://www.lolking.net/summoner/na/54794681\r\n\r\nTelestrator: http://epic-pen.com/\r\n\r\nProduction: Phreo\r\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "cwNeXvecIoM",
+        "preview": "https://i.ytimg.com/vi/cwNeXvecIoM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-10T04:51:22Z",
+        "title": "[Season 7] Masteries For Almost All Champions",
+        "description": "Some masteries reflect personal viewpoints on the game and are aimed specifically at lane/control advantages and edges. This wasn't a planned video and also there are more variations to some champs than just what was shown as possibilities in this video.\nTIMESTAMPS: \n\nADC\n\n 00:00 Ashe\n00:04 Caitlyn\n00:10 Draven\n00:14 Ezreal\n00:19 Jhin\n00:25 Jinx\n00:29 Varus\n00:35 Vayne\n00:38 Kalista\n00:42 Tristana\n00:47 Twitch \n\nSupport\n00:50 Taric\n00:55 Thresh\n01:00 Zyra\n01:05 Braum\n01:10 Leona\n01:15 Nami\n01:19 Nautilus(top error)\n01:23 Soraka \n01:27 Karma\n01:32 Tahm Kench\n\nMid\n\n01:37 Ahri\n01:42 Annie\n01:47 Ekko\n01:50 Aurelion Sol\n01:55 Brand\n02:00 Cassiopeia\n02:04 Fizz\n02:10 Jhin\n02:XX Karthus RENDER ERROR 18/12/0\n02:14 Kassadin RENDER ERROR 12/18/0 TLD/DG/Feast\n02:19 Katarina\n02:23 Leblanc\n02:27 Lissandra\n02:32 Lux\n02:38 Malzahar\n02:41 Orianna\n02:46 Pantheon\n02:51 Ryze\n02:55 Syndra\n03:00 Talon\n03:05 Twisted Fate\n03:10 Varus\n03:14 Vel'Koz\n03:18 Viktor\n03:23 Vladimir\n03:28 Zed\n03:32 Zilean\n\nJungle\n\n03:37 Amumu\n03:42 Elise\n03:47 Evelynn\n03:50 0/18/12 render bug\n03:55 Ivern\n04:01 Jarvan 4\n04:05 Kha'Zix\n04:10 Kindred\n04:14 LeeSin \n04:18 Nautilus shared top\n04:23 Nidalee\n04:27 Nunu TWO pages\n04:36 Pantheon\n04:40 Rammus\n04:45 Rek'Sai\n04:50 Sejuani\n04:55 Shaco\n05:00 Skarner\n05:04 Vi\n05:09 Zac\n\nTop:\n\n05:13 Ekko\n05:18 Gangplank\n05:23 Darius AD\n05:27 Mundo\n05:32 Fiora\n05:36 Fizz\n05:42 Jax\n05:46 Jayce\n05:50 Kennen\n05:55 Lissandra\n06:00 Malphite\n06:05 Maokai\n06:09 Mordekaiser TWO pages\n06:17 Nasus\n06:22 Nautilus\n06:27 Pantheon\n06:31 Poppy\n06:36 Renekton\n06:40 Riven\n06:45 Rumble\n06:50 Ryze\n06:55 Swain\n07:00 Tahm Kench\n07:05 Akali\n07:10 Karma Tank\n07:12 Colo renekton\n07:17 Colo darius\n07:22 Colo Irelia\n07:26 God\n07:30 Trundle\n07:35 Tryndamere\n\nPlease note that not all champions were done, as this took a while answering questions on stream and then I decided to turn it into a video. If you have some questions on specific champions then feel free to comment below and I can probably post an imgur screenshot of their masteries or something. SOME MASTERIES SEEN HERE do somewhat reflect personal view/emphasis on lane+game advantage/edges. Thanks for watching\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "u1koHz0Et4A",
+        "preview": "https://i.ytimg.com/vi/u1koHz0Et4A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-07T16:14:09Z",
+        "title": "Worldbreaker Nautilus Skin Spotlight - League of Legends",
+        "description": "League of Legends Worldbreaker Nautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Worldbreaker Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "ESjzBK3ed7o",
+        "preview": "https://i.ytimg.com/vi/ESjzBK3ed7o/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-01T14:34:38Z",
+        "title": "Masters Coaching #85 - Bard Support (Platinum 3)",
+        "description": "Bard support w/ Caitlyn vs. Sivir + Nautilus.  N3ac3y touches on early Bard cheese, being aggressive, snowballing and carrying the game from support, and taking smart backs.\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►LOLKING:   http://www.lolking.net/summoner/na/25...\r\n -- Watch live at https://www.twitch.tv/n3ac3y\r\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "fps-qVyytpI",
+        "preview": "https://i.ytimg.com/vi/fps-qVyytpI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-10-19T01:11:35Z",
+        "title": "Worldbreaker Nautilus Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Worldbreaker Nautilus with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nPrice: 750RP\nSkin name is CONFIRMED as Worldbreaker Nautilus, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "6898ATpktwE",
+        "preview": "https://i.ytimg.com/vi/6898ATpktwE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zach",
+        "displayName": "Лига Легенд и TFT от Зака: Гайды, Стримы, Обзоры",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxB3wok5mrNroeSn6P20K3FAJ_7nPVkbWdzYM_SEA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-08-21T19:30:54Z",
+        "title": "[Patch 6.16] Jungle Nautilus - Гайд по джангл Наутилусу от SaDJesteRRR",
+        "description": "Группа вконтакте: vk.com/zakland\n\nПоддержать проект можно через Qiwi, webmoney и yandex:\nqiwi - +79834424516\nwebmoney - R239173096410\nyandex - 41001737292271\n\nYou can support this channel via paypal: zak1982@inbox.ru\n\nТайминги / Timings:\n2:15 - скилы\n4:43 - руны\n5:30 - таланты\n6:17 - сборка\n\nМузыка / Music:\n30 Seconds To Mars - The Kill\nBullet For My Valentine - Tears Dont Fall\nWe As Human - Bring To Life\nThousand Foot Krutch - Courtesy Call",
+        "videoId": "5lxtqBbU9z0",
+        "preview": "https://i.ytimg.com/vi/5lxtqBbU9z0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-08-07T15:13:24Z",
+        "title": "ASHE+JHIN NERF INFO - DUSKBLADE/GHOSTBLADE MAYBE MELEE ONLY? (League of Legends)",
+        "description": "Riot has given us some more info on Ghostblade+Duskblade changes, Ashe+Jhin nerfs and more stuff!\nADC + Nautilus AoE Stun Ult Changes - https://youtu.be/mv_q51irZek\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nAshe/Jhin Changes - http://boards.na.leagueoflegends.com/en/c/gameplay-balance/TTaYMEU6-any-planned-ashe-nerfs-in-the-future-meddler?comment=0002\nGhostblade/Duskblade - http://boards.na.leagueoflegends.com/en/c/gameplay-balance/TTaYMEU6-any-planned-ashe-nerfs-in-the-future-meddler?comment=000200000000000000000000\nYasuo Changes -http://boards.na.leagueoflegends.com/en/c/gameplay-balance/enIsBUBF-meddler-you-said-you-would-keep-an-eye-on-yasuo-where-are-nerfs?comment=000000080000\nOrianna Changes - http://boards.na.leagueoflegends.com/en/c/gameplay-balance/EAETXfc2-meddler-are-you-guys-planning-on-reworking-orianna-shes-had-the-same-kit-for-years?comment=0000\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nASHE+JHIN NERF INFO - DUSKBLADE/GHOSTBLADE MAYBE MELEE ONLY? (League of Legends)",
+        "videoId": "NP8LF1dPQFI",
+        "preview": "https://i.ytimg.com/vi/NP8LF1dPQFI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-08-01T18:01:44Z",
+        "title": "NAUTILUS AOE STUN ULT? ADC CHANGES (Ashe/Jhin nerfs + more) (League of Legends)",
+        "description": "I think these changes are pretty crazy so I wanted to talk about them, what do you guys think?\nKorean Picks in 6.15 - https://www.youtube.com/watch?v=24fY7vAl6R0\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nADC changes 1: http://boards.na.leagueoflegends.com/en/c/gameplay-balance/LGKtX4UP-so-how-come-they-gave-ryze-a-random-teleportation-ultimate?comment=00040000000000000000\nADC Changes 2: http://boards.na.leagueoflegends.com/en/c/gameplay-balance/zIbvxPP6-meddler-mentioned-adc-changes-for-616?comment=0005\nNautilus changes : http://boards.na.leagueoflegends.com/en/c/gameplay-balance/TkrsNKjd-going-a-little-overboard-with-these-naut-changes?comment=0003\n\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNAUTILUS AOE STUN ULT? ADC CHANGES (Ashe/Jhin nerfs + more) (League of Legends)",
+        "videoId": "mv_q51irZek",
+        "preview": "https://i.ytimg.com/vi/mv_q51irZek/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-06-02T19:00:00Z",
+        "title": "9 SKIN CONCEPTS That Should Be Added Into League of Legends",
+        "description": "Today we're looking at some fan concepts - 9 Skin Concepts That Should Be Added Into League of Legends!\n➥ POTENTIAL FUTURE SKINS: https://youtu.be/u9hrqJfk1kY\nCheck out the Original Artists! Links Lower in the Description\n\n● Subscribe: http://bit.ly/1O7TtJh ►Overwatch Channel: http://bit.ly/1NvJ7qi\n\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\n►Thumbnail Source: \nhttp://citemer.deviantart.com/art/Jade-Princess-Ahri-concept-Art-587622509\nhttp://vegacolors.deviantart.com/art/Elderwood-Kindred-Concept-Page-587554881\n\n➥SKIN CONCEPT SOURCES:\n\nElderwood Kindred: http://vegacolors.deviantart.com/art/Elderwood-Kindred-Concept-Page-587554881\n\nJade Princess Ahri 1: http://citemer.deviantart.com/art/Jade-Princess-Ahri-587620445\nJade Princess Ahri 2: http://citemer.deviantart.com/art/Jade-Princess-Ahri-concept-Art-587622010\nJade Princess Ahri 3: http://citemer.deviantart.com/art/Jade-Princess-Ahri-587622206\nJade Princess Ahri 4: http://citemer.deviantart.com/art/Jade-Princess-Ahri-concept-Art-587622509\n\nStar Guardian Jinx: https://selinaydin.artstation.com/portfolio/583912\n\nJade Palace Orianna: http://boards.na.leagueoflegends.com/en/c/skin-champion-concepts/BEMtQakl-jade-palace-orianna\n\nDebonair Caitlyn: http://boards.na.leagueoflegends.com/en/c/skin-champion-concepts/gGj0veME-debonair-caitlyn\n\nSoul Reavor Talon: http://blandstufftastesnice.deviantart.com/art/Soul-Reaver-Talon-473516835\n\nDevil Thresh: http://simonboxer.deviantart.com/art/Devil-Thresh-skin-LoL-396415379\n\nGravekeeper Leona: http://shilin.deviantart.com/art/Scrap-Gravekeeper-Leona-499484452\n\nChosen Fiora: http://obywatelsowa.deviantart.com/art/Chosen-Fiora-501172661\n\nAdditional Links:\n\nastonautilus:\nhttps://i.ytimg.com/vi/G3Lld3EUghc/maxresdefault.jpg\n\npool party ziggs:\nhttp://lolwp.com/ziggs/pool-party-ziggs/\n\nskins:\nhttp://leagueoflegends.wikia.com/wiki/Champion_skin\n\nwu:\nhttp://static.lolskill.net/img/skins/1215/wukong_3.jpg\ncassio:\nhttps://s-media-cache-ak0.pinimg.com/736x/14/7b/2c/147b2cc40ef0c48a45fc30d0dd61cf65.jpg\n\n\n►Outro Song: https://youtu.be/b36r3JWGxcI\n\nChiptune Background Music Tracks by Jredd: https://soundcloud.com/jredd\n\nAdditional Production (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\n✔ Video Credits:\n● Produced By: Jeremy \"Gaming Curios\"\n● Written By: Edgegasm and Jeremy \"Gaming Curios\"\n● Performed By: Jeremy \"Gaming Curios\"\n● Edited By: Leon \"Xl3y\" - League of Editing",
+        "videoId": "XLEoe9sHqMc",
+        "preview": "https://i.ytimg.com/vi/XLEoe9sHqMc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-03-24T23:02:46Z",
+        "title": "Nautilus Top Guide by OG Soaz - Season 6 | League of Legends",
+        "description": "Bring the CC train to engage and peel your way through Season 6 with Top Lane Nautilus from Origen Soaz.\n\nSubscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\nLike Us on Facebook: https://facebook.com/LolClasscom\n\nCheckout more Videos on: http://www.lolclass.com\n\nTwitter: https://twitter.com/LolClassCom\nGoogle+: https://google.com/+LolClass",
+        "videoId": "8NB1QZycp4Y",
+        "preview": "https://i.ytimg.com/vi/8NB1QZycp4Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-03-19T18:23:35Z",
+        "title": "Nautilus Support with TSM YellowStar - Season 6 | League of Legends",
+        "description": "Subscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\nLike Us on Facebook: https://facebook.com/LolClasscom\n\nCheckout more Videos on: http://www.lolclass.com\n\nTwitter: https://twitter.com/LolClassCom\nGoogle+: https://google.com/+LolClass",
+        "videoId": "gXPBVwhZ7vg",
+        "preview": "https://i.ytimg.com/vi/gXPBVwhZ7vg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-02-09T13:49:39Z",
+        "title": "Nautilus aka Uselessness #Kappa",
+        "description": "http://www.twitch.tv/trick2g \nFollow me @ twitter.com/trick2g for D Latest updates.\nUse Promo Code \"TRK for 3% off G2A games https://www.g2a.com/r/t2g\n\nCredits for all editing to https://twitter.com/Hypercide\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "oTUZXgndYc0",
+        "preview": "https://i.ytimg.com/vi/oTUZXgndYc0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-01-31T16:35:59Z",
+        "title": "Nautilus the TRUE poppy counter",
+        "description": "follow me at:\r\nwww.twitch.tv/hanjarolol\r\nwww.twitter.com/hanjarolol -- Watch live at http://www.twitch.tv/hanjarolol",
+        "videoId": "FdhPwII0jHk",
+        "preview": "https://i.ytimg.com/vi/FdhPwII0jHk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "gripex",
+        "displayName": "Gripex",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx4iXkinsmifsYb1hlwy63ccyi0qELaLAWvIfEe=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-12-20T15:34:35Z",
+        "title": "Gripex carries Nautilus/Sion bot lane - full game",
+        "description": "Another solid game from Gripex! -- Watch live at http://www.twitch.tv/gripex90",
+        "videoId": "L6UbPLhz-a0",
+        "preview": "https://i.ytimg.com/vi/L6UbPLhz-a0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-11-11T16:00:00Z",
+        "title": "The Hidden Buffs of the Preseason (Patch 5.22) | League of Legends",
+        "description": "What buff, direct or indirect, are YOU looking forward to the most in Season 6?\n\nEverything used in this video is linked lower in the description.\n\nSecond Channel: http://bit.ly/1NvJ7qi\nStream: http://www.twitch.tv/Jeremy_GamingCurios\nFacebook: https://www.facebook.com/GamingCurios\nTwitter: https://twitter.com/GamingCurios\n\nProduction (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nAdditional background music tracks acquired from Sony Vegas Pro 12 and come with the purchase of the program.\n\nOutro Song: https://www.youtube.com/watch?v=f_DX1A7f43o\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Talon/SkinsTrivia\n\nVideo Clip Sources:\n\nIntro: https://www.youtube.com/watch?v=_VvTku6DXDQ\n\nTalon: https://www.youtube.com/watch?v=Q5Quxrhpt1o\n\nYasuo: https://www.youtube.com/watch?v=A6T-mTRDIOw\n\nIrelia: https://www.youtube.com/watch?v=3Y50n0XmYGA\n\nNautilus: https://www.youtube.com/watch?v=R-amZFhlUM0\n\nTeemo: https://www.youtube.com/watch?v=E8nuvNsrrX0",
+        "videoId": "Tw-0rpNJmjw",
+        "preview": "https://i.ytimg.com/vi/Tw-0rpNJmjw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-10-05T21:42:01Z",
+        "title": "Patch 5.19 Master Tier Nautilus Jungle",
+        "description": "Follow me at:\r\nwww.twitch.tv/hanjarolol\r\nwww.twitter.com/hanjarolol -- Watch live at http://www.twitch.tv/hanjarolol",
+        "videoId": "owOXZZZNerg",
+        "preview": "https://i.ytimg.com/vi/owOXZZZNerg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-10-04T20:45:06Z",
+        "title": "5.19 Nautilus vs Janna Master Tier",
+        "description": "Follow me at:\r\nwww.twitch.tv/hanjarolol\r\nwww.twitter.com/hanjarolol -- Watch live at http://www.twitch.tv/hanjarolol",
+        "videoId": "0Q9Cc6bebdw",
+        "preview": "https://i.ytimg.com/vi/0Q9Cc6bebdw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-09-28T22:41:50Z",
+        "title": "5.18 Nautilus vs Soraka Master Tier",
+        "description": "Follow me at:\r\nwww.twitch.tv/hanjarolol\r\nwww.twitter.com/hanjarolol -- Watch live at http://www.twitch.tv/hanjarolol",
+        "videoId": "XTHs-CPEtc8",
+        "preview": "https://i.ytimg.com/vi/XTHs-CPEtc8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-09-22T20:55:59Z",
+        "title": "Patch 5.18 Nautilus vs Leona Master Tier",
+        "description": "Follow me at\r\nwww.twitch.tv/hanjarolol\r\nwww.twitter.com/hanjarolol -- Watch live at http://www.twitch.tv/hanjarolol",
+        "videoId": "xdBJinoIVRA",
+        "preview": "https://i.ytimg.com/vi/xdBJinoIVRA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-11T13:00:01Z",
+        "title": "Top 10 Most Innovative Champion Picks in League of Legends History",
+        "description": "►Top 10 Best Team Compositions: https://youtu.be/yEhDmzX2mts\n►►Top 10 Biggest Upsets: https://youtu.be/x_n0IvEiXYY\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\nOUTRO SONG: https://www.youtube.com/watch?v=QgnTdj23DIk\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://xxsirsquishyxx.deviantart.com/art/Katarina-Drawing-384021968\n\nTwisted Fate: https://www.youtube.com/watch?v=g7l30-4A6WQ\n\nNautilus: https://www.youtube.com/watch?v=CsAAU0fWhk0\n\nUrgot: https://www.youtube.com/watch?v=iydYsUeebEQ\n\nAlistar: https://www.youtube.com/watch?v=K_8NF7F95Rs\n\nHecarim: https://www.youtube.com/watch?v=KlOFeKzDx3w\n\nMaster Yi: https://www.youtube.com/watch?v=ls0ywj200Hg\n\nSoraka Part 1: https://www.youtube.com/watch?v=6IYaQBbbzdQ\n\nSoraka Part 2: https://www.youtube.com/watch?v=BmaHtuWHWfU\n\nTryndamere Part 1: https://www.youtube.com/watch?v=uCk7CpjNpuk\n\nTryndamere Part 2: https://www.youtube.com/watch?v=xy9QPARR3BE\n\nKatarina: https://www.youtube.com/watch?v=Zrowr3O9eXs\n\nAnnie Part 1: https://www.youtube.com/watch?v=ONY-Z3dzOjQ\n\nAnnie Part 2: https://www.youtube.com/watch?v=WR-9aFOkJKM",
+        "videoId": "ccUDkjc5xHI",
+        "preview": "https://i.ytimg.com/vi/ccUDkjc5xHI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-06-22T19:35:47Z",
+        "title": "Warden Nautilus Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Warden Nautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Warden Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "Ib8PVE96sjU",
+        "preview": "https://i.ytimg.com/vi/Ib8PVE96sjU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-06-22T19:35:47Z",
+        "title": "AstroNautilus Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends AstroNautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Astro Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "fjP8cunFnhg",
+        "preview": "https://i.ytimg.com/vi/fjP8cunFnhg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-06-22T19:35:47Z",
+        "title": "Abyssal Nautilus Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Abyssal Nautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Abyssal Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "2nVTmON6oKw",
+        "preview": "https://i.ytimg.com/vi/2nVTmON6oKw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-06-22T19:35:46Z",
+        "title": "Subterranean Nautilus Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Subterranean Nautilus Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Subterranean Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "e75dGQgFuwU",
+        "preview": "https://i.ytimg.com/vi/e75dGQgFuwU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-06-17T20:24:58Z",
+        "title": "Nautilus VFX Update - Classic and AstroNautilus",
+        "description": "Note: This may be still incomplete, his other skins use the classic particles and have had their own anchors touched up.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSmall preview of the Nautilus VFX Update.\nFull spotlights will be released for each individual skin closer to the live patch.",
+        "videoId": "8UcpVIaoAVE",
+        "preview": "https://i.ytimg.com/vi/8UcpVIaoAVE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-05-02T13:00:00Z",
+        "title": "Why You Should Fight Early in Your Lane: Solo Queue Tips | League of Legends LoL",
+        "description": "Why do YOU like to fight early?\n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nFollow Me on Twitter: @GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Nautilus/SkinsTrivia",
+        "videoId": "Mf560ReResE",
+        "preview": "https://i.ytimg.com/vi/Mf560ReResE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-02-10T00:14:19Z",
+        "title": "(OLD) Warden Nautilus Skin Spotlight - League of Legends",
+        "description": "League of Legends Warden Nautilus Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on their Warden Skin.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nPlease feel free to subscribe for more Skin Spotlights and to leave a like!",
+        "videoId": "V8EUkBjHfFo",
+        "preview": "https://i.ytimg.com/vi/V8EUkBjHfFo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-01-28T00:02:24Z",
+        "title": "Pre-Release Teaser - Warden Nautilus (Previously: Inquisitor) Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nPrice: 750RP\nSkin name is CONFIRMED as Inquisitor Nautilus, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights!",
+        "videoId": "AAjz_ZFZsJ4",
+        "preview": "https://i.ytimg.com/vi/AAjz_ZFZsJ4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-12T21:11:51Z",
+        "title": "Nautilus - Texture Update - All Affected Skins",
+        "description": "First rotation is on classic Nautilus as it is on live, following is Classic skin Nautilus with the new Texture Update.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nAll Skins which follow are just the texture updated versions.\n\nNautilus Skins which have been updated:\nAbyssal Nautilus\nSubterranean Nautilus\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor Still Comparison Images as well as League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "PAGejW8URsQ",
+        "preview": "https://i.ytimg.com/vi/PAGejW8URsQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-08-18T19:00:07Z",
+        "title": "The Darkin Theory - Did You Know? Ep 63 - League of Legends",
+        "description": "→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\n→Subscribe Here: http://full.sc/1gukNqq\n→Did You Know Playlist: http://full.sc/1bCtY0m\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Twitter: http://twitter.com/RedmercyLoL\n→Facebook: https://www.facebook.com/RedmercyLoL\n\nThe Darkin Theory, with Aatrox, Jax, Nautilus, Tryndamere, Varus, and Brand!\n\n→Anook: http://www.anook.com/redmercy\n→2nd YouTube Channel! : https://www.youtube.com/redmercygaming\n\nMonstercat Music(Varien - Lilith)\nhttps://www.youtube.com/watch?v=SK_89XfhvY0\n\nReddit Thread\nhttp://www.reddit.com/r/leagueoflegends/comments/26klej/are_brand_varus_and_jax_actually_darkin/\n\nHope you enjoy and please sub rate and comment!!! :) Test",
+        "videoId": "BJ75ChovsJM",
+        "preview": "https://i.ytimg.com/vi/BJ75ChovsJM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-08-03T15:00:07Z",
+        "title": "Nautilus - Did You Know? EP 61 - League of Legends",
+        "description": "→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\n→Subscribe Here: http://full.sc/1gukNqq\n→Did You Know Playlist: http://full.sc/1bCtY0m\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Twitter: http://twitter.com/RedmercyLoL\n→Facebook: https://www.facebook.com/RedmercyLoL\n\nCool Facts/Information/Lore about Nautilus!\n\nIf you like my videos, and want to help out more, donations are accepted! Thanks!\nhttps://www.streamdonations.net/c/redmercylol\n\n→Anook: http://www.anook.com/redmercy\n→2nd YouTube Channel! : https://www.youtube.com/redmercygaming\n\nMonstercat Music(TwoThirds - Origami)\nhttps://www.youtube.com/watch?v=zk4xgu03dBs\n\nHope you enjoy and please sub rate and comment!!! :) Test",
+        "videoId": "8MkxI0QtEx4",
+        "preview": "https://i.ytimg.com/vi/8MkxI0QtEx4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-06-28T10:31:35Z",
+        "title": "New Jungle Item | Quill Coat | 6/25 Pbe Update Nautilus Tank Jungle My Way Stream Game",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "Rr5e5BUO4XA",
+        "preview": "https://i.ytimg.com/vi/Rr5e5BUO4XA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-06-18T13:00:03Z",
+        "title": "Being Patient: How to Avoid Over-Aggression | League of Legends LoL",
+        "description": "I've been streaming a lot lately, so stay tuned for when I'm live! \n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://guterrez.deviantart.com/art/Nautilus-Water-Park-320032109",
+        "videoId": "Fey3_gu_poA",
+        "preview": "https://i.ytimg.com/vi/Fey3_gu_poA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-07-12T22:17:24Z",
+        "title": "Nautilus boots 4 pots",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "3dCMPz91wgg",
+        "preview": "https://i.ytimg.com/vi/3dCMPz91wgg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-07-10T05:00:12Z",
+        "title": "3.8 Utility Nautilus Boots 4 Pots Jungle My Way",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "xb94mnBoB1s",
+        "preview": "https://i.ytimg.com/vi/xb94mnBoB1s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-06-19T17:30:35Z",
+        "title": "League Of Guides #1 - Nautilus Jungle - Gameplay and Commentary",
+        "description": "***THIS SERIES WAS OUTCLASSED BY MY NO BS GUIDES SERIES***\nSORRY! YOU CAN ALWAYS MSG ME IF YOU HAVE QUESTIONS!\n\n\n*I called cadence yesterday on an ARMY run so my voice is bad today, sorry* \nMy name is Mark Neace, I'm a SGT in the Army and I love League of Legends.\n\nJust started playing ranked when I got back from Afghanistan.\nI'm a high elo player, always trying to get higher, here is my LoLking:\nhttp://www.lolking.net/summoner/na/25886506\n\nLeague of Guides is my new series for summoners to use to win more games in League of Legends, plain and simple. I focus on what's working currently (this will be a weekly series) for champions and games where myself or someone else in my game performs extremely well. We go into what makes them succesful so that you can emulate, counter or synergize better in your future games. If you want to see more of this series you need to subscribe so that I can improve these and keep them flowing.\n\nThis weeks League of Guides is on Nautilus, I go 10-0-6 by rushing double buffs and camping bottom. Enjoy!\n\nLeave feedback in the comments below for what you want to see!\n\nMy gameplays are normally played live, WITH commentary on my twitch stream:\nhttp://www.twitch.tv/n3ac3y - I giveaway free RP / Lessons all the time!\n\nFacebook:\nhttps://www.facebook.com/BingeGaming.tv\n\nTwitter:\nhttps://twitter.com/n3ac3y\n\nI wrote a Twisted Fate Guide:\nhttp://www.lolking.net/guides/124131\n\nPlease subscribe to my channel for more awesome videos, gameplays, commentary and more awesome!\n\nPlay League!\nhttp://signup.leagueoflegends.com/?ref=5086bd2dd2d59480310598",
+        "videoId": "n3ypjn0wA0Y",
+        "preview": "https://i.ytimg.com/vi/n3ypjn0wA0Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-01-04T08:07:53Z",
+        "title": "How to raise elo with Nautilus - 1900-2k Elo Gameplay",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "AXhx8XmLhXw",
+        "preview": "https://i.ytimg.com/vi/AXhx8XmLhXw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-12-25T03:00:09Z",
+        "title": "League of Legends Utility Jungle Nautilus Season 3",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "zynV3MGv2zw",
+        "preview": "https://i.ytimg.com/vi/zynV3MGv2zw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-09-04T23:11:24Z",
+        "title": "(OLD) AstroNautilus League of Legends Skin Spotlight",
+        "description": "League of Legends AstroNautilus Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Nautilus on his Astro Nautilus Skin\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights",
+        "videoId": "XwaDL0RgQN8",
+        "preview": "https://i.ytimg.com/vi/XwaDL0RgQN8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-08-11T06:33:59Z",
+        "title": "Teaser - AstroNautilus Skin (Link to Full Skin Spotlight in the Description)",
+        "description": "Full Skin Spotlight:\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nhttps://www.youtube.com/watch?v=XwaDL0RgQN8\n\n\nNote: This is a teaser!\nSkin name is confirmed as AstroNautilus (May get changed to Astronaut Nautilus will update info if it does) and particles may not be final.\n\nFull Skin Spotlight will be released in the near future.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights",
+        "videoId": "KzdI_2ij-4Q",
+        "preview": "https://i.ytimg.com/vi/KzdI_2ij-4Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-02-28T18:42:11Z",
+        "title": "(OLD) Subterranean Nautilus League of Legends Skin Spotlight",
+        "description": "League of Legends Subterranean Nautilus Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Nautilus on his Subterranean Skin.\n\nAll footage was taken in game.",
+        "videoId": "_xxrIb3eQdE",
+        "preview": "https://i.ytimg.com/vi/_xxrIb3eQdE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-02-28T18:19:14Z",
+        "title": "(OLD) Abyssal Nautilus League of Legends Skin Spotlight",
+        "description": "League of Legends Abyssal Nautilus Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Nautilus on his Abyssal Skin.\n\nAll footage was taken in game.",
+        "videoId": "kI9FMjaL1J4",
+        "preview": "https://i.ytimg.com/vi/kI9FMjaL1J4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-02-15T14:24:57Z",
+        "title": "HACKED BY POODLECORP twitter.com/poodlecorp",
+        "description": "DONT FORGET TO WATCH IN HD AND SUBSCRIBE! Don't forget to comment, rate, and be subscribed to get a chance to get added on my friends list! Also do not forget to like me on FACEBOOK as that is where I also will announce when I am playing with subs!\n\nNautilus Rating System:\nCC Offered: 9.5\nEase to Play: 7\nCarry Potential: 8\nTeam Usefulness: 9\nLaning Ease: 7\nEarly Power: 7.5\nMid Power: 9\nLate Power: 9\nOVERALL: 8.5\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nSkype:\nredmercy1337\n\nCheck out the previous game of this series:\nhttp://www.youtube.com/watch?v=yLZ5YFzzV3k\n\nMy Stream:\nhttp://www.own3d.tv/live/71680/Redmercy\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=N3FA-j7Dh6Q&feature=channel_video_title\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "RurZhTaExSw",
+        "preview": "https://i.ytimg.com/vi/RurZhTaExSw/mqdefault.jpg"
+      }
+    }
+  ]
+}

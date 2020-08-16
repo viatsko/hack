@@ -1,0 +1,66 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "QZq81gCF62tg5wFXUYeEE4BKlRY",
+      "id": "UC8CurliJrMFY5oX2FA9nsDA",
+      "snippet": {
+        "title": "NEACE",
+        "description": "NEACE, no bullshit gamer.\nstreams on twitch.tv/neace\n1775-F272-B126-8E63-ACF0-48FE-17E2-C9BB",
+        "customUrl": "neace",
+        "publishedAt": "2012-03-18T05:02:09Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "NEACE",
+          "description": "NEACE, no bullshit gamer.\nstreams on twitch.tv/neace\n1775-F272-B126-8E63-ACF0-48FE-17E2-C9BB"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UU8CurliJrMFY5oX2FA9nsDA",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU8CurliJrMFY5oX2FA9nsDA"
+  },
+  "displayName": "NEACE",
+  "description": "NEACE, no bullshit gamer.\nstreams on twitch.tv/neace\n1775-F272-B126-8E63-ACF0-48FE-17E2-C9BB",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

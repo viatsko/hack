@@ -1,0 +1,1120 @@
+{
+  "id": "kennen",
+  "key": "85",
+  "name": "Kennen",
+  "title": "the Heart of the Tempest",
+  "tags": [
+    "Mage",
+    "Marksman"
+  ],
+  "stats": {
+    "hp": 541,
+    "hpperlevel": 84,
+    "mp": 200,
+    "mpperlevel": 0,
+    "movespeed": 335,
+    "armor": 29,
+    "armorperlevel": 3.75,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.65,
+    "mpregen": 50,
+    "mpregenperlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 48,
+    "attackdamageperlevel": 3.75,
+    "attackspeedperlevel": 3.4,
+    "attackspeed": 0.625
+  },
+  "icon": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/champion/Kennen.png",
+  "sprite": {
+    "url": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/sprite/champion1.png",
+    "x": 288,
+    "y": 96
+  },
+  "description": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his...",
+  "redditUrl": "Kennenmains",
+  "videos": [
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-17T23:00:08Z",
+        "title": "IS KENNEN LEGIT? PLAY SMART AND CARRY FROM TOP! | League of Legends",
+        "description": "Kennen has been around for a very long time but you don't see a crazy amount of him. Thought we'd do a checkup in a high level challenger game to see how he does! Like, Comment & Subscribe! League of Legends Kennen Top Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nIS KENNEN LEGIT? PLAY SMART AND CARRY FROM TOP! | League of Legends",
+        "videoId": "T0VczKWXHXg",
+        "preview": "https://i.ytimg.com/vi/T0VczKWXHXg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-17T23:00:08Z",
+        "title": "IS KENNEN LEGIT? PLAY SMART AND CARRY FROM TOP! | League of Legends",
+        "description": "Kennen has been around for a very long time but you don't see a crazy amount of him. Thought we'd do a checkup in a high level challenger game to see how he does! Like, Comment & Subscribe! League of Legends Kennen Top Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nIS KENNEN LEGIT? PLAY SMART AND CARRY FROM TOP! | League of Legends",
+        "videoId": "T0VczKWXHXg",
+        "preview": "https://i.ytimg.com/vi/T0VczKWXHXg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-06T12:45:09Z",
+        "title": "Infernal Kennen Skin Spotlight - League of Legends",
+        "description": "League of Legends Infernal Kennen Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Kennen on their Infernal Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!\n\nChapters\n00:00 Splash\n00:08 Turnaround\n00:27 Emotes\n00:50 Recall\n01:03 Basics\n01:08 Q Ability\n01:15 W Ability\n01:32 E Ability\n01:46 R Ability\n01:52 Ability Combo\n02:06 Zoomed Out Abilities\n02:38 Crit\n02:53 RIP\n03:00 Chromas\n04:48 Outro",
+        "videoId": "mdKLtmDpej0",
+        "preview": "https://i.ytimg.com/vi/mdKLtmDpej0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-04T14:07:09Z",
+        "title": "Can YOU Punish LOW ELO Mistakes? (Skill Test Top Lane)",
+        "description": "Join SKILL CAPPED Today! https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\nConcepts: low elo mistakes, top lane guide, top lane, top, hashinshin, tfblade, wickd, skill capped, lol guides, league of legends, lolesports, league of legends guides, skill capped pro guides, proguides lol, mobalytics, jax, dr mundo, kennen, teleport, wave control, trading, how to trade, how to win trades, low elo bad habits, low elo, mistakes, how to carry, how to win, how to top lane, top guide, carry guide, how to last hit, trading, vision control, top lane ganks, how to avoid ganks\n\nBest ADC 10.13, Best support 10.13, best mid laners 10.13, best junglers 10.13, best top laners 10.13 patch 10.13 rundown, 10.13 lol, 10.13 changes, Conqueror nerfs 10.13, Deaths dance nerfs 10.13, Yuumi nerfs 10.13, Syndra nerfs 10.13, Ornn nerfs 10.13, Cassiopeia nerfs 10.13, Aphelios nerfs 10.13, Kalista nerfs 10.13, Nocturne jungle buffs 10.13, Yorick buffs 10.13, Gnar buffs 10.13, Vi buffs 10.13, Lucian buffs 10.13, Rakan buffs 10.13, Kog'maw buffs 10.13, Nunu buffs 10.13",
+        "videoId": "_OEd1HKLpCo",
+        "preview": "https://i.ytimg.com/vi/_OEd1HKLpCo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-04T14:07:09Z",
+        "title": "Can YOU Punish LOW ELO Mistakes? (Skill Test Top Lane)",
+        "description": "Join SKILL CAPPED Today! https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\nConcepts: low elo mistakes, top lane guide, top lane, top, hashinshin, tfblade, wickd, skill capped, lol guides, league of legends, lolesports, league of legends guides, skill capped pro guides, proguides lol, mobalytics, jax, dr mundo, kennen, teleport, wave control, trading, how to trade, how to win trades, low elo bad habits, low elo, mistakes, how to carry, how to win, how to top lane, top guide, carry guide, how to last hit, trading, vision control, top lane ganks, how to avoid ganks\n\nBest ADC 10.13, Best support 10.13, best mid laners 10.13, best junglers 10.13, best top laners 10.13 patch 10.13 rundown, 10.13 lol, 10.13 changes, Conqueror nerfs 10.13, Deaths dance nerfs 10.13, Yuumi nerfs 10.13, Syndra nerfs 10.13, Ornn nerfs 10.13, Cassiopeia nerfs 10.13, Aphelios nerfs 10.13, Kalista nerfs 10.13, Nocturne jungle buffs 10.13, Yorick buffs 10.13, Gnar buffs 10.13, Vi buffs 10.13, Lucian buffs 10.13, Rakan buffs 10.13, Kog'maw buffs 10.13, Nunu buffs 10.13",
+        "videoId": "_OEd1HKLpCo",
+        "preview": "https://i.ytimg.com/vi/_OEd1HKLpCo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-03T19:18:17Z",
+        "title": "Arcanist and Infernal Chromas | Patch 10.14 Chromas, Shaco, Kog'Maw, Kennen, Vel'Koz and Karthus",
+        "description": "All the new chromas coming in Patch 10.14 for the Arcanist and Infernal skins\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\n00:00 Arcanist Kog'Maw\n02:23 Arcanist Shaco\n04:32 Infernal Kennen\n06:20 Infernal Vel'Koz\n08:06 Infernal Karthus",
+        "videoId": "okKUGhyOlT4",
+        "preview": "https://i.ytimg.com/vi/okKUGhyOlT4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-02T17:00:13Z",
+        "title": "IS KENNEN BACK IN META? TEAMFIGHTER GOD! - Iron to Master S10  | League of Legends",
+        "description": "Decided to play some Kennen as he's always been a solid top laner throughout the years but recently not seen much of him! We're against a Sett and it's a tricky matchup of cat and mouse! Like, Comment & Subscribe! League of Legends Kennen Top Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nIS KENNEN BACK IN META? TEAMFIGHTER GOD! - Iron to Master S10  | League of Legends",
+        "videoId": "t-55sAqEu6A",
+        "preview": "https://i.ytimg.com/vi/t-55sAqEu6A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-02T17:00:13Z",
+        "title": "IS KENNEN BACK IN META? TEAMFIGHTER GOD! - Iron to Master S10  | League of Legends",
+        "description": "Decided to play some Kennen as he's always been a solid top laner throughout the years but recently not seen much of him! We're against a Sett and it's a tricky matchup of cat and mouse! Like, Comment & Subscribe! League of Legends Kennen Top Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nIS KENNEN BACK IN META? TEAMFIGHTER GOD! - Iron to Master S10  | League of Legends",
+        "videoId": "t-55sAqEu6A",
+        "preview": "https://i.ytimg.com/vi/t-55sAqEu6A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-23T23:59:18Z",
+        "title": "Infernal Kennen Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Infernal Kennen with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 1350RP\n\nSkin name is CONFIRMED as Infernal Kennen, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!\n\n\nChapters\n00:00 Recall\n00:17 Splash\n00:23 Basics\n00:29 Q Ability\n00:40 W Ability\n00:48 E Ability\n01:01 R Ability\n01:12 Zoomed out Abilities\n01:41 Crit\n01:53 RIP\n02:00 Chromas\n02:10 Outro",
+        "videoId": "ewBMdYEGaYg",
+        "preview": "https://i.ytimg.com/vi/ewBMdYEGaYg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-21T14:14:39Z",
+        "title": "M.D Kennen Skin Spotlight - League of Legends",
+        "description": "League of Legends M.D Kennen Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Kennen on their M.D Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!\n\n\nChapters:\n00:00 Splash\n00:08 Turnaround\n00:27 Emotes\n00:45 Recall\n00:57 Basics\n01:04 Q Ability\n01:15 W Ability\n01:29 E Ability\n01:40 R Ability\n01:48 Zoomed out R and Ability Combo\n02:12 Crit\n02:26 RIP\n02:31 Chromas\n04:32 Outro",
+        "videoId": "Gxie5JBYcwU",
+        "preview": "https://i.ytimg.com/vi/Gxie5JBYcwU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-18T21:24:54Z",
+        "title": "Pool Party & Rift Hospital Chromas | Patch 10.13 Chromas, Syndra, Heimerdinger, Taliyah etc",
+        "description": "All the new chromas coming in Patch 10.13 for the Pool Party & Rift Hospital Skins\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\n00:00 Pool Party Syndra\n02:09 Pool Party Heimerdinger\n04:23 Pool Party Orianna\n06:30 Pool Party Taliyah\n08:43 Pool Party Jarvan\n10:52 MD Kennen\n12:53 Surgeon Shen\n14:55 Nurse Akali\n16:55 Outro",
+        "videoId": "e9ZVcFkNKDM",
+        "preview": "https://i.ytimg.com/vi/e9ZVcFkNKDM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-09T23:01:41Z",
+        "title": "VFX Update - MD Kennen, Surgeon Shen and Nurse Akali",
+        "description": "These skins are part of a charity bundle so have had a VFX Update and chromas, note Akali chromas are currently not patched in.\n\nMD Kennen, Surgeon Shen and Nurse Akali all have received a VFX Update.\n\nChapters\n00:00 Surgeon Shen\n01:19 Surgeon Shen Chromas\n01:33 MD Kennen\n02:34 MD Kennen Chromas\n02:45 Nurse Akali",
+        "videoId": "ZUAew4NRCtk",
+        "preview": "https://i.ytimg.com/vi/ZUAew4NRCtk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sharkz",
+        "displayName": "Sharkz",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwfeZdSubD2aXoArnZ6u0ziBfEtxHRNXVIsM9W43Q=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-28T07:00:00Z",
+        "title": "КАКТУС ИВЕРН | ЧЕМПИОНЫ НЕДЕЛИ | КИАНА СБЕЖАЛА ИЗ УЛЬТЫ МОРДЫ | MSI ОТМЕНЕН | ЛИГА ЛЕГЕНД",
+        "description": "🔥 Присоединяйся в наш закрытый клуб и поддержки контент: http://bit.ly/2Rw3ADS\n🎥 Наш канал о кино: https://www.youtube.com/c/taranuha\n\nКовбой Свейн: https://imgur.com/gallery/DMShEQD\nКовбой Иверн: https://t.co/ZhdsEJ2xQ7?amp=1\nПиксельные анимации: https://www.reddit.com/r/leagueoflegends/comments/g0h12r/mini_sion_pixelart/\nhttps://www.reddit.com/r/leagueoflegends/comments/fz7e9k/surgeon_shen_kennen_md_pixel_art/\nhttps://www.reddit.com/r/leagueoflegends/comments/g3104b/jax_vayne_pixel_art/\nОрнн ходит сквозсь стены: https://www.youtube.com/watch?v=PcvA35c_S54\nБаг Орна на ПроСцене: https://clips.twitch.tv/SplendidSoftTriangleDBstyle\nКиана сваливает из ульты Мордекайзера:\nhttps://www.reddit.com/r/leagueoflegends/comments/g3hgw1/qiyana_walks_out_of_morde_ult/\nЩупальза Иллаой: https://www.reddit.com/r/leagueoflegends/comments/g51hrv/illaois_tentacle_can_hit_you_even_when_you_kill_it/\n\n\n\nСоциальные Сети: \n►TWITCH: https://www.twitch.tv/sharkz \n►TWITTER: https://twitter.com/CoachSharkz \n►INSTAGRAM: https://www.instagram.com/tarandaalex/ \n►VK: https://vk.com/sharkz\n\nProduced by VT Production : \nНаш ВК: https://vk.com/vt.production\nНаш Сайт: http://vt-production.com\n\n#новости #лигалегенд #пбе\n#sharkz #tft #pbe #lcl \n#lec #lcs #worlds",
+        "videoId": "k_-VQFCppcE",
+        "preview": "https://i.ytimg.com/vi/k_-VQFCppcE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sneaky",
+        "displayName": "Sneaky",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy2sIoWZEf-_iN36J-h-b-yC4q7jm7NVmBEaR4j=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-19T07:00:00Z",
+        "title": "Sneaky gets *Flamed* by pro player(s) in SoloQ 😢 (Kennen Top Gameplay) | (Read Description)",
+        "description": "Editor's Note: swapped out \"harassed\" for \"flame\" since it was too harsh. No disrespect or hate meant to go towards the players - I simply tried to provide entertainment to the viewers, and shine light upon certain negative aspects within the SoloQ community. Blaming and passive aggression towards teammate usually leads them to tilt/play worse than they currently are. The better solution is to provide criticism without *meaningless* flaming (constructive flame is better!). That being said, I do not condone any type of harassment towards the players that participated in this game, regardless of their in-game actions and attitude. -SnipingHobo\n\nFootage from: May 14, 2020\n\n\n\n▼ Editor\n\nhttps://Twitter.com/SnipingHobo\n\n\n▼ Editor's Added Music\n\n[21:33] Mentos Theme\n\n\n\n▼ Join Sneaky's Discord\n\nhttps://discord.gg/Y9mRBQ6\n\n\n\n▼ Follow Sneaky:\n\nTwitter: https://www.Twitter.com/Sneaky\nTwitch: https://www.Twitch.tv/SneakyLoL",
+        "videoId": "FR-xAKZNYg4",
+        "preview": "https://i.ytimg.com/vi/FR-xAKZNYg4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "synapse",
+        "displayName": "Synapse",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPTUlzGJ39caE2ofIKeqhoToH-ywDIA-duMXe7sg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-16T12:02:27Z",
+        "title": "This Could Be The Most Spectacular Kennen Penta But Bobqin... #800",
+        "description": "Watch the best League of Legends funny stream moments, memes, funny fails and pro plays from the most entertaining LoL streams all over the world! In every video i'm trying to find the best moments, most streamers allow me to use their twitch.tv content in my video, but if you're a small streamer or just made a good play, send it to me! synapse744@gmail.com  If it's good enough, you will see it in the next video ;) \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nVideo submission rules: \n1) Good video and audio quality\n2) No swearing, no copyrighted material\n3) Must be a link to twitch.tv clip taken from a live stream\n4) If you submit someone else's clip, make sure to get his permission to use it on my channel\n5) Send the video only to me. If you send your clips to other channels, i probably won't use your clip to avoid duplicate content. All content must be exclusive for all the channels and you should choose carefully where you want to send you plays. By submitting your video you give me all the rights to distribute it and i'll provide all the necessary credits to your channel. If you forgot to provide your credits, just write on my e-mail once again synapse744@gmail.com \nGood luck and enjoy the video!\n\n► Credits:\n\niPav: https://www.twitch.tv/ipav999\nTobias Fate: https://www.twitch.tv/tobiasfate\nHashinshin: https://www.twitch.tv/hashinshin\nTheBausffs: https://www.twitch.tv/thebausffs\nBobqin: https://www.twitch.tv/bobqinxd\niKeepItTaco: https://www.twitch.tv/ikeepittaco\nTrick2g: https://www.twitch.tv/trick2g\nSanchovies: https://www.twitch.tv/sanchovies\nAzzapp: https://www.twitch.tv/azzapp\nJankos: https://www.twitch.tv/jankos\nShiphtur: https://www.twitch.tv/shiphtur\ni0ki: https://www.twitch.tv/i0ki\nIcaterpie: https://www.twitch.tv/icaterpie\nPrimrouze: https://www.twitch.tv/primrouze\nxFSN Saber: https://www.twitch.tv/xfsn_saber\nSybrlol: https://www.twitch.tv/sybrlol\nCaptainflowers22: https://www.twitch.tv/captainflowers22\nWixzy: https://www.twitch.tv/lolwixzy\nHashemyth: https://www.twitch.tv/hashemyth\nNoway4u_sir: https://www.twitch.tv/noway4u_sir\nKing Nidhogg: https://www.twitch.tv/king_nidhogg\nTF Blade: https://www.twitch.tv/tfblade\nKalaiii: https://www.twitch.tv/kalaiii\nLS: https://www.twitch.tv/imls\nJuixelol: https://www.twitch.tv/juixelol\nArrow: http://www.twitch.tv/optlcarrow\n3251: https://www.twitch.tv/3251\nAutolykuslol: https://www.twitch.tv/autolykuslol\nPijack11: https://www.twitch.tv/pijack11\nLildudew: https://www.twitch.tv/lildudew\nCaps: https://www.twitch.tv/caps\nNickichh: https://www.twitch.tv/nickichh\nAnniebot: https://www.twitch.tv/anniebot\nRiste: https://www.twitch.tv/riste\nYassuo: https://www.twitch.tv/yassuo\nPobelter: https://www.twitch.tv/pobelter\nWingsofdeath: https://www.twitch.tv/wingsofdeath\nSloppywalrusx: https://www.twitch.tv/sloppywalrusx\nZyzzzirl: https://www.twitch.tv/zyzzzirl\nRiste: https://www.twitch.tv/riste\n\n\n0:00 Bobqin\n0:20 Nickichh\n0:28 Kalaiii\n0:35 Juixe\n0:45 Noway4u Sir\n0:56 TF Blade\n1:15 Pijack\n1:33 3251\n1:50 Primrouze\n2:02 Zyzzzzirl\n2:11 Azzapp\n2:22 AnnieBot\n2:36 Wingsofdeath\n3:06 Autolykus\n3:35 Shiphtur\n3:43 Caps\n4:25 Heisendong\n4:35 Trick2g\n4:49 Bobqin\n5:12 i0ki\n5:24 Tobias Fate\n5:36 LS\n5:40 Thebausffs\n5:56 Gosu\n6:03 Caps\n6:16 xFSN Saber\n6:33 King Nidhogg\n6:38 Shiphtur\n6:49 Bobqin\n7:06 Riste\n7:30 Arrow\n7:41 Thebausffs\n7:58 iPav\n8:05 iKeepItTaco\n8:22 Jankos\n8:36 iPav\n8:44 Hashinshin\n9:23 Yassuo\n9:56 Pobelter\n10:14 Captainflowers\n10:44 Primrouze\n10:55 Hashemyth\n11:19 Sloppywalrus\n11:25 iPav\n11:39 iCaterpie\n12:07 Wixzy\n12:17 Lildude\n12:50 Sybr\n\nIntro by Angrydonat: https://angrydonat.deviantart.com/art...\nOutro song: Battletoads by Tiero\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nRiot Games Legal Jibber Jabber: https://www.riotgames.com/en/legal\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n♥Thanks for watching!♥",
+        "videoId": "92ypfRLzUvc",
+        "preview": "https://i.ytimg.com/vi/92ypfRLzUvc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "synapse",
+        "displayName": "Synapse",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPTUlzGJ39caE2ofIKeqhoToH-ywDIA-duMXe7sg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-16T12:02:27Z",
+        "title": "This Could Be The Most Spectacular Kennen Penta But Bobqin... #800",
+        "description": "Watch the best League of Legends funny stream moments, memes, funny fails and pro plays from the most entertaining LoL streams all over the world! In every video i'm trying to find the best moments, most streamers allow me to use their twitch.tv content in my video, but if you're a small streamer or just made a good play, send it to me! synapse744@gmail.com  If it's good enough, you will see it in the next video ;) \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nVideo submission rules: \n1) Good video and audio quality\n2) No swearing, no copyrighted material\n3) Must be a link to twitch.tv clip taken from a live stream\n4) If you submit someone else's clip, make sure to get his permission to use it on my channel\n5) Send the video only to me. If you send your clips to other channels, i probably won't use your clip to avoid duplicate content. All content must be exclusive for all the channels and you should choose carefully where you want to send you plays. By submitting your video you give me all the rights to distribute it and i'll provide all the necessary credits to your channel. If you forgot to provide your credits, just write on my e-mail once again synapse744@gmail.com \nGood luck and enjoy the video!\n\n► Credits:\n\niPav: https://www.twitch.tv/ipav999\nTobias Fate: https://www.twitch.tv/tobiasfate\nHashinshin: https://www.twitch.tv/hashinshin\nTheBausffs: https://www.twitch.tv/thebausffs\nBobqin: https://www.twitch.tv/bobqinxd\niKeepItTaco: https://www.twitch.tv/ikeepittaco\nTrick2g: https://www.twitch.tv/trick2g\nSanchovies: https://www.twitch.tv/sanchovies\nAzzapp: https://www.twitch.tv/azzapp\nJankos: https://www.twitch.tv/jankos\nShiphtur: https://www.twitch.tv/shiphtur\ni0ki: https://www.twitch.tv/i0ki\nIcaterpie: https://www.twitch.tv/icaterpie\nPrimrouze: https://www.twitch.tv/primrouze\nxFSN Saber: https://www.twitch.tv/xfsn_saber\nSybrlol: https://www.twitch.tv/sybrlol\nCaptainflowers22: https://www.twitch.tv/captainflowers22\nWixzy: https://www.twitch.tv/lolwixzy\nHashemyth: https://www.twitch.tv/hashemyth\nNoway4u_sir: https://www.twitch.tv/noway4u_sir\nKing Nidhogg: https://www.twitch.tv/king_nidhogg\nTF Blade: https://www.twitch.tv/tfblade\nKalaiii: https://www.twitch.tv/kalaiii\nLS: https://www.twitch.tv/imls\nJuixelol: https://www.twitch.tv/juixelol\nArrow: http://www.twitch.tv/optlcarrow\n3251: https://www.twitch.tv/3251\nAutolykuslol: https://www.twitch.tv/autolykuslol\nPijack11: https://www.twitch.tv/pijack11\nLildudew: https://www.twitch.tv/lildudew\nCaps: https://www.twitch.tv/caps\nNickichh: https://www.twitch.tv/nickichh\nAnniebot: https://www.twitch.tv/anniebot\nRiste: https://www.twitch.tv/riste\nYassuo: https://www.twitch.tv/yassuo\nPobelter: https://www.twitch.tv/pobelter\nWingsofdeath: https://www.twitch.tv/wingsofdeath\nSloppywalrusx: https://www.twitch.tv/sloppywalrusx\nZyzzzirl: https://www.twitch.tv/zyzzzirl\nRiste: https://www.twitch.tv/riste\n\n\n0:00 Bobqin\n0:20 Nickichh\n0:28 Kalaiii\n0:35 Juixe\n0:45 Noway4u Sir\n0:56 TF Blade\n1:15 Pijack\n1:33 3251\n1:50 Primrouze\n2:02 Zyzzzzirl\n2:11 Azzapp\n2:22 AnnieBot\n2:36 Wingsofdeath\n3:06 Autolykus\n3:35 Shiphtur\n3:43 Caps\n4:25 Heisendong\n4:35 Trick2g\n4:49 Bobqin\n5:12 i0ki\n5:24 Tobias Fate\n5:36 LS\n5:40 Thebausffs\n5:56 Gosu\n6:03 Caps\n6:16 xFSN Saber\n6:33 King Nidhogg\n6:38 Shiphtur\n6:49 Bobqin\n7:06 Riste\n7:30 Arrow\n7:41 Thebausffs\n7:58 iPav\n8:05 iKeepItTaco\n8:22 Jankos\n8:36 iPav\n8:44 Hashinshin\n9:23 Yassuo\n9:56 Pobelter\n10:14 Captainflowers\n10:44 Primrouze\n10:55 Hashemyth\n11:19 Sloppywalrus\n11:25 iPav\n11:39 iCaterpie\n12:07 Wixzy\n12:17 Lildude\n12:50 Sybr\n\nIntro by Angrydonat: https://angrydonat.deviantart.com/art...\nOutro song: Battletoads by Tiero\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nRiot Games Legal Jibber Jabber: https://www.riotgames.com/en/legal\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n♥Thanks for watching!♥",
+        "videoId": "92ypfRLzUvc",
+        "preview": "https://i.ytimg.com/vi/92ypfRLzUvc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sneaky",
+        "displayName": "Sneaky",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy2sIoWZEf-_iN36J-h-b-yC4q7jm7NVmBEaR4j=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-15T19:00:07Z",
+        "title": "Sneaky gets *Flamed* by pro player(s) in SoloQ 😢 (Kennen Top Gameplay) | (Read Description)",
+        "description": "Editor's Note: swapped out \"harassed\" for \"flame\" since it was too harsh. No disrespect or hate meant to go towards the players - I simply tried to provide entertainment to the viewers, and shine light upon certain negative aspects within the SoloQ community. Blaming and passive aggression towards teammate usually leads them to tilt/play worse than they currently are. The better solution is to provide criticism without *meaningless* flaming (constructive flame is better!). That being said, I do not condone any type of harassment towards the players that participated in this game, regardless of their in-game actions and attitude. -SnipingHobo\n\nFootage from: May 14, 2020\n\n\n\n▼ Editor\n\nhttps://Twitter.com/SnipingHobo\n\n\n▼ Editor's Added Music\n\n[21:33] Mentos Theme\n\n\n\n▼ Join Sneaky's Discord\n\nhttps://discord.gg/Y9mRBQ6\n\n\n\n▼ Follow Sneaky:\n\nTwitter: https://www.Twitter.com/Sneaky\nTwitch: https://www.Twitch.tv/SneakyLoL",
+        "videoId": "FR-xAKZNYg4",
+        "preview": "https://i.ytimg.com/vi/FR-xAKZNYg4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sharkz",
+        "displayName": "Sharkz",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwfeZdSubD2aXoArnZ6u0ziBfEtxHRNXVIsM9W43Q=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-27T07:15:11Z",
+        "title": "КАКТУС ИВЕРН | ЧЕМПИОНЫ НЕДЕЛИ | КИАНА СБЕЖАЛА ИЗ УЛЬТЫ МОРДЫ | MSI ОТМЕНЕН | ЛИГА ЛЕГЕНД",
+        "description": "🔥 Присоединяйся в наш закрытый клуб и поддержки контент: http://bit.ly/2Rw3ADS\n🎥 Наш канал о кино: https://www.youtube.com/c/taranuha\n\nКовбой Свейн: https://imgur.com/gallery/DMShEQD\nКовбой Иверн: https://t.co/ZhdsEJ2xQ7?amp=1\nПиксельные анимации: https://www.reddit.com/r/leagueoflegends/comments/g0h12r/mini_sion_pixelart/\nhttps://www.reddit.com/r/leagueoflegends/comments/fz7e9k/surgeon_shen_kennen_md_pixel_art/\nhttps://www.reddit.com/r/leagueoflegends/comments/g3104b/jax_vayne_pixel_art/\nОрнн ходит сквозсь стены: https://www.youtube.com/watch?v=PcvA35c_S54\nБаг Орна на ПроСцене: https://clips.twitch.tv/SplendidSoftTriangleDBstyle\nКиана сваливает из ульты Мордекайзера:\nhttps://www.reddit.com/r/leagueoflegends/comments/g3hgw1/qiyana_walks_out_of_morde_ult/\nЩупальза Иллаой: https://www.reddit.com/r/leagueoflegends/comments/g51hrv/illaois_tentacle_can_hit_you_even_when_you_kill_it/\n\n\n\nСоциальные Сети: \n►TWITCH: https://www.twitch.tv/sharkz \n►TWITTER: https://twitter.com/CoachSharkz \n►INSTAGRAM: https://www.instagram.com/tarandaalex/ \n►VK: https://vk.com/sharkz\n\nProduced by VT Production : \nНаш ВК: https://vk.com/vt.production\nНаш Сайт: http://vt-production.com\n\n#новости #лигалегенд #пбе\n#sharkz #tft #pbe #lcl \n#lec #lcs #worlds",
+        "videoId": "k_-VQFCppcE",
+        "preview": "https://i.ytimg.com/vi/k_-VQFCppcE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "dyrus",
+        "displayName": "Dyrus",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJw5Nk6ujtuZ7qUOt25Fr_Fnn9h7nbMAOrF6yOb5=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-20T07:00:00Z",
+        "title": "DYRUS | KENNEN CARRY?!?! FT. Annie Bot",
+        "description": "my new Discord server where I will interact/play different type of variety games with the fans and involve myself with the community: https://discord.gg/g2rDW3M\n\nPO Box: 9350 E Corporate Hills Dr #780536\nWichita KS 67278\n\n2nd YouTube channel for variety content: https://www.youtube.com/channel/UCsErcOWwuCk5osdsbDvjOnQ\n\nSocial Media\nTWITCH • http://www.twitch.tv/Dyrus\nTWITTER • https://twitter.com/Dyrus\nDISCORD: https://discord.gg/g2rDW3M\nINSTAGRAM • https://www.instagram.com/dyrusgram/\nFACEBOOK • https://www.facebook.com/loldyrus\nTUMBLR • http://dyrus.tumblr.com/\n\nEdited By:\nTwitter • https://twitter.com/Nscwalk\n\nThumbnail by: https://twitter.com/Naeqo\nIntro by:  http://www.hyunsdojo.com/\nIntro song made by: https://twitter.com/iamcherishh\n\nDyrus, League of Legends, TSM, Team Solo Mid, Delta Fox, Darius, Singed, Top Lane, Twitch Streamer, Highlights, Streaming",
+        "videoId": "hQCuGFhttns",
+        "preview": "https://i.ytimg.com/vi/hQCuGFhttns/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "dyrus",
+        "displayName": "Dyrus",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJw5Nk6ujtuZ7qUOt25Fr_Fnn9h7nbMAOrF6yOb5=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-12T17:00:16Z",
+        "title": "DYRUS | KENNEN CARRY?!?! FT. Annie Bot",
+        "description": "my new Discord server where I will interact/play different type of variety games with the fans and involve myself with the community: https://discord.gg/g2rDW3M\n\nPO Box: 9350 E Corporate Hills Dr #780536\nWichita KS 67278\n\n2nd YouTube channel for variety content: https://www.youtube.com/channel/UCsErcOWwuCk5osdsbDvjOnQ\n\nSocial Media\nTWITCH • http://www.twitch.tv/Dyrus\nTWITTER • https://twitter.com/Dyrus\nDISCORD: https://discord.gg/g2rDW3M\nINSTAGRAM • https://www.instagram.com/dyrusgram/\nFACEBOOK • https://www.facebook.com/loldyrus\nTUMBLR • http://dyrus.tumblr.com/\n\nEdited By:\nTwitter • https://twitter.com/Nscwalk\n\nThumbnail by: https://twitter.com/Naeqo\nIntro by:  http://www.hyunsdojo.com/\nIntro song made by: https://twitter.com/iamcherishh\n\nDyrus, League of Legends, TSM, Team Solo Mid, Delta Fox, Darius, Singed, Top Lane, Twitch Streamer, Highlights, Streaming",
+        "videoId": "hQCuGFhttns",
+        "preview": "https://i.ytimg.com/vi/hQCuGFhttns/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-12-18T12:08:59Z",
+        "title": "TYLER1 KICKS MACAIYLA OUT OF THE HOUSE AFTER THIS | WHERE IS APHELIOS? | VOYBOY DC KILL |LOL MOMENTS",
+        "description": "Help me reach 250.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nBusines inquiries: funoflegends@hotmail.com\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\nOutro Music: https://www.youtube.com/watch?v=iScT5IfgG-Q\n\n\n---\nCREDITS:\nYourPrincess: https://www.twitch.tv/YourPrincess\nLLStylish: https://www.twitch.tv/llstylish\nPobelter: https://goo.gl/lqRQq8\nYassuo: https://www.twitch.tv/Yassuo\nVoyBoy: https://www.twitch.tv/VoyBoy\nlolTyler1: https://www.twitch.tv/lolTyler1\nTrick2G: https://www.twitch.tv/Trick2G\nMidbeast: https://www.twitch.tv/Midbeast\nArcsecond: https://www.twitch.tv/Arcsecond\nBobqinxd: https://www.twitch.tv/Bobqinxd\nDoctorKennen: https://www.twitch.tv/DoctorKennen\nDunlol: https://www.twitch.tv/Dunlol\nFoggedftw2: https://www.twitch.tv/Foggedftw2\nImls: https://www.twitch.tv/Imls\nJuliostito: https://www.twitch.tv/Juliostito\nLacerration: https://www.twitch.tv/Lacerration\nlol_Nemesis: https://www.twitch.tv/lol_Nemesis\nlolTakeoff: https://www.twitch.tv/lolTakeoff\nMrMouton: https://www.twitch.tv/MrMouton\nParesz: https://www.twitch.tv/Paresz\nSaltyTeemo: https://www.twitch.tv/SaltyTeemo\nSanchovies: https://www.twitch.tv/Sanchovies\nSDiana2NA: https://www.twitch.tv/SDiana2NA\nSpiderMojo: https://www.twitch.tv/SpiderMojo",
+        "videoId": "2S_l4F91nM4",
+        "preview": "https://i.ytimg.com/vi/2S_l4F91nM4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-10-21T20:54:48Z",
+        "title": "WHEN RIOT GAMES DONATES 100 SUBS TO HER | TRICK2G'S BACKDOOR PLAN | YASSUO 1V1 RIVEN | LOL MOMENTS",
+        "description": "Help me reach 250.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nBusines inquiries: funoflegends@hotmail.com\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\nOutro Music: https://www.youtube.com/watch?v=iScT5IfgG-Q\n\n\n---\nCREDITS:\nYourPrincess: https://www.twitch.tv/YourPrincess\nFaker: https://goo.gl/aVxkJf\nYassuo: https://www.twitch.tv/Yassuo\nlolTyler1: https://www.twitch.tv/lolTyler1\n1AdrianAries1: https://www.twitch.tv/1AdrianAries1\nRiotGames: https://www.twitch.tv/RiotGames\nDevilDemoko: https://www.twitch.tv/DevilDemoko\nDoctorKennen: https://www.twitch.tv/DoctorKennen\nElite500: https://www.twitch.tv/Elite500\nenverOwnz: https://www.twitch.tv/enverOwnz\ngamergirl_kat: https://www.twitch.tv/gamergirl_kat\nHD_Mitch: https://www.twitch.tv/HD_Mitch\nhekthorgg: https://www.twitch.tv/hekthorgg\nJakeTheRipper72: https://www.twitch.tv/JakeTheRipper72\nJapaneseKoreanUG: https://www.twitch.tv/JapaneseKoreanUG\nKeyvin: https://www.twitch.tv/Keyvin\nKsdden: https://www.twitch.tv/Ksdden\nLadyPari: https://www.twitch.tv/LadyPari\nLCK_Korea: https://www.twitch.tv/LCK_Korea\nLowBudgetLCS: https://www.twitch.tv/LowBudgetLCS\nMagnusQ8: MagnusQ8\nMaryMaybe: https://www.twitch.tv/MaryMaybe\nmoistcr1tikal: https://www.twitch.tv/moistcr1tikal\nONETRICKTOXIC: https://www.twitch.tv/ONETRICKTOXIC\nOnyxx666: https://www.twitch.tv/Onyxx666\nOveRate906: https://www.twitch.tv/OveRate906\nPijack11: https://www.twitch.tv/Pijack11\npokimane: https://www.twitch.tv/pokimane\nRageQuitEsportsRQE: https://www.twitch.tv/RageQuitEsportsRQE\nrealkatarina: https://www.twitch.tv/realkatarina\nristuosu: https://www.twitch.tv/ristuosu\nSanden: https://www.twitch.tv/Sanden\nSeasonalDraftChampionship: https://www.twitch.tv/SeasonalDraftChampionship\nSpear_Shot: https://www.twitch.tv/Spear_Shot\nTashvs9: https://www.twitch.tv/Tashvs9\nTheKingofElohell: https://www.twitch.tv/TheKingofElohell\nTheRunAwayPlanet: https://www.twitch.tv/TheRunAwayPlanet\nthevillatoman: https://www.twitch.tv/thevillatoman\nTrick2g: https://www.twitch.tv/Trick2g\nWarmMafura: https://www.twitch.tv/WarmMafura\nxChocoBars: https://www.twitch.tv/xChocoBars",
+        "videoId": "KHD-ENSk7sY",
+        "preview": "https://i.ytimg.com/vi/KHD-ENSk7sY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-31T15:00:10Z",
+        "title": "HOW IS THIS EVEN POSSIBLE ?! UNKILLABLE BUILD| FULL AP STAR GUARDIAN RAKAN JUNGLE IS ACTUALLY INSANE",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://www.youtube.com/watch?v=Xr4yon0x3R8\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: NEW STAR GUARDIAN NEEKO | SALTY KENNEN DECIDES TO ALL CHAT ME?! DO NOT MAKE THE BEAR ANGRY!!! https://youtu.be/Xr4yon0x3R8\n\n\n►Edited by: https://twitter.com/ArtfulHighlight\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "hoE0ZXM66jg",
+        "preview": "https://i.ytimg.com/vi/hoE0ZXM66jg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-30T15:00:12Z",
+        "title": "NEW STAR GUARDIAN NEEKO | SALTY KENNEN DECIDES TO ALL CHAT ME?! DO NOT MAKE THE BEAR ANGRY!!!",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://youtu.be/4Vi3qoyqdGs\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: THE BEST WAY TO INSTANTLY DELETE ADC MAINS!!! FULL AD JARVAN 1-SH0TS | KHA'ZIX RAMPAGE ON TREE MAN https://www.youtube.com/watch?v=4Vi3qoyqdGs\n\n\n►Edited by: https://twitter.com/ryscu_\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "Xr4yon0x3R8",
+        "preview": "https://i.ytimg.com/vi/Xr4yon0x3R8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "xfsn_saber",
+        "displayName": "xFSN Saber",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzCstYYvZDmKVT0hD7S4YwXrKKTag4m_g-Kn31z=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-21T22:49:24Z",
+        "title": "My 3 Star Assassin Kennen Literally Oneshots | TFT Win",
+        "description": "I’m part of the official League\nPartner Program with Riot Games. You can read about the program here:\nhttps://partners.leagueoflegends.com/en_US/\n\nIf you would like to support my videos, check out my Patreon: https://www.patreon.com/xfsn_saber\n\n►Message me for coaching! - https://discord.gg/avgqmYq\n\nIf you want me to make a certain video, make a bounty!\nhttps://camelot.ai/xfsnsaber\n\nFollow me!\n►TWITCH - http://twitch.tv/xfsn_saber\n►TWITTER - https://twitter.com/xFSN_Saber\n\nintro by https://twitter.com/jjcmanga\nOutro music by https://www.instagram.com/rafatheguitarist/\n\nSpecial Thanks to:\nQwelz\nbluescreen\nTheTylernol\nNeocoolstar\nJack S.\nsoleless\nSuavey\nMarcello Z\nLunatic\nJoel P",
+        "videoId": "iVkfKTbVjiI",
+        "preview": "https://i.ytimg.com/vi/iVkfKTbVjiI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-17T01:20:32Z",
+        "title": "Patch 9.14 Rundown - Truly a Low Standards Patch",
+        "description": "TIMESTAMPS\n\nTeamfight Tactics Patch Notes - 0:19 (Mex will be doing them in the next video)\n\nAnti-Shielding Champions - 0:44\nBlitzcrank - 0:50\nRenekton - 1:29\n\nAnti-Healing Champions - 2:12\nKatarina - 2:25\nKled - 2:53\n\nFlat Damage Reduction Champions - 3:09\nFizz - 3:18\nLeona - 4:13\n\nTrue Sight Champions - 5:26\nKarma - 5:28\nLeBlanc - 6:03\nMorgana - 6:50\n\nAnti-Mobility Champions + Cass buffs - 6:59\nAhri - 7:14\nCassiopeia - 8:29 (New Queen of mid lane.)\nPoppy - 12:29\n\nCHAMPION BALANCE - 13:08\nAYAYAtrox - 13:09\nAkali - 16:43\nAlistar - 19:53\nAurelion Sol - 20:16\nBard - 21:27\nDiana - 22:33\nGalio (Toilet King) - 24:35\nJhin - 27:50\nLux - 29:01\nMalphite - 31:27\nMordekaiser - 33:35\nNidalee - 36:29\nPyke - 36:50\nRyze - 38:09\nSinged - 38:58\nSwain - 39:04\nSylas - 43:10\nTahm Thomas Kench (PepeLaugh) - 45:07\nUrgot - 47:13\nYuumi - 47:22\n\nRanged Top Laners - 48:21\nJayce - 48:23\nKennen - 49:39\nNeeko - 50:46\n\nMisc - 52:46\nARAM Balance Changes - 52:47\nNew Death Recap - 52:50\nShow [Allied] Chat - 52:53\nBugfixes - 53:02\n\nUpcoming Skins & Chromas - 53:14\n\nRecap, Summary, TL;DR, You name it. - 55:45\n\n\nThis patch is so laughably confusing. The intended buffs are often nerfs, and the intended nerfs are often buffs. Tahm will still probably be played in the support role, galio stuck in the toilet. Very little competitive/soloq shifting is done this patch, but I'm sure some placebo's will cause % increases up and down on a few champs. Cassiopeia should be the queen of mid/top now, and Neeko/Jayce should go on to dominate top competitive play. \n\nYou can help the Youtube channel by supporting on Patreon: https://www.patreon.com/lsxyz9 \n\nFollow me: Twitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls \nFacebook: http://facebook.com/nick.decesare.7 \nStream: http://twitch.tv/imls \nInstagram: http://instagram.com/LSXYZ9 \nBusiness E-mail: Nicholas.a.decesare at gmail dot com\nhttps://store.clgaming.net/collection...",
+        "videoId": "fR3ekEgOZA4",
+        "preview": "https://i.ytimg.com/vi/fR3ekEgOZA4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "vaporadark",
+        "displayName": "Vapora Dark",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxtLS1c68WHfFSO_FzPteB861IEpLQQJktXF8DI3Q=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-03-23T19:00:02Z",
+        "title": "The Reason Sona has been CRUSHING EU West Solo Queue",
+        "description": "About a month ago, a thread made the front page of Reddit introducing Frostmancy Kennen top lane, a revolutionary new playstyle for top lane. Riot sent out a hotfix in hopes that it would mark the end of Frostmancy, but it only gave birth to a new playstyle that has been tearing up EUW Challenger. Welcome Sona APC.\n\nFind Me!\n~Twitch: https://www.twitch.tv/vaporadark\n~Discord: https://discordapp.com/invite/vaporadark\n~Twitter: https://twitter.com/vaporadark\n~Instagram: https://www.instagram.com/vvaporadark/",
+        "videoId": "GNegLGI0rds",
+        "preview": "https://i.ytimg.com/vi/GNegLGI0rds/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-03-01T16:17:29Z",
+        "title": "KENNEN SUPPORT LEGIT ONE-SHOTS ANY BOT-LANERS? || BEST KENNEN BUILD SEASON 9",
+        "description": "FULL AP KENNEN ONE-SHOT VAPORIZES PEOPLE IN ONE HIT!  DON'T BELIEVE ME?  CHECK IT OUT!\n\nUSE THIS VIDEO AS A GUIDE FOR SEASON 9 KENNEN SUPPORT!  S9 WON'T KNOW WHAT IT IT -- HITN: IT WILL BE A KENNEN ULT!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "mQRoW6muk_g",
+        "preview": "https://i.ytimg.com/vi/mQRoW6muk_g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-02-08T21:35:22Z",
+        "title": "Kennen Visual Effect Update - All Skins Comparison | League Of Legends",
+        "description": "Purchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nTime Stamps:\n00:00 - Blood Moon Kennen\n02:16 - Super Kennen\n04:27 - Classic Kennen\n06:39 - Deadly Kennen\n08:50 - Swamp Master Kennen\n11:03 - Karate Kennen\n13:14 - Kennen M.D\n15:26 - Arctic Ops Kennen\n\nTop/Left New, Bottom/Right Old.\n\nAll the Kennen skins received some form of visual effect update so this comparison video will easily let you see the update.",
+        "videoId": "vVAunuY9utc",
+        "preview": "https://i.ytimg.com/vi/vVAunuY9utc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-12-02T19:37:15Z",
+        "title": "14 Weird/OP builds from Korean Challenger & Master that actually work",
+        "description": "What's your new favourite build?\nGiving away some RP + Program LeBlanc Chroma / Infernal Amumu Chroma codes = http://fb.gg/phygames\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChampions in this video\nGrasp Caitlyn = http://www.op.gg/summoner/userName=madl3reeze\nTaliyah Bot lane = main person renamed but also http://www.op.gg/summoner/userName=thgink9\nCassio = everywhere but http://www.op.gg/summoner/userName=%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84%EB%B2%A0%EC%9D%B4%EB%B9%84\nAatrox smite mid = http://www.op.gg/summoner/userName=thgink9\nGalio smite mid = http://www.op.gg/summoner/userName=%EB%8B%B4%EC%9B%90%EC%87%BC%EB%A9%94%EC%9D%B4%EC%BB%A4\nPredator voli support = http://www.op.gg/summoner/userName=jinairkellin\nKarthus smite bot = http://www.op.gg/summoner/userName=kzdeft0\nDH Leblanc = faker http://www.op.gg/summoner/userName=hideonbush\nKlepto Jayce/Kennen = http://www.op.gg/summoner/userName=dwgnuguri\nKlepto Ryze = http://www.op.gg/summoner/userName=hlesohwan\nAftershock Ryze = http://www.op.gg/summoner/userName=%EA%B9%80%ED%98%81%EA%B7%9C%EC%95%88%ED%8B%B0%ED%8C%AC1%ED%98%B8\n\nEditor - https://twitter.com/ToxOnPC\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n14 Weird/OP builds from Korean Challenger & Master that actually work",
+        "videoId": "K3PKlSK2GiU",
+        "preview": "https://i.ytimg.com/vi/K3PKlSK2GiU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-10-18T16:51:18Z",
+        "title": "12 Weird builds from Korean Challenger & Master that actually work",
+        "description": "Start earning RP here! https://www.influencerlink.org/SHC4\nThanks Opinion Outpost for sponsoring!\nHere are 12 builds I found over in Korea that are different to what we normally see!\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChampions in this video-\nOrianna bot lane = http://www.op.gg/summoner/userName=sktt1pirean\nPredator Pyke = http://www.op.gg/summoner/userName=ktmata\nAD Leblanc / Kennen = http://www.op.gg/summoner/userName=%EC%95%B5%EA%B7%B8%EB%A6%AC%EB%AA%AC%EC%8A%A4%ED%84%B0x\nVolibear Support / Top = http://www.op.gg/summoner/userName=%EB%8C%95%EC%B2%AD%EC%9E%87 // http://www.op.gg/summoner/userName=%EB%8D%94%EB%86%92%EC%9D%80%EA%B3%B3%EC%97%90\nWarwick Top lane = http://www.op.gg/summoner/userName=pandatv1608339\nCho'Gath AP bot lane = http://www.op.gg/summoner/userName=chogod\nOlaf Top = http://www.op.gg/summoner/userName=%EC%96%B4%EC%B0%8C%EC%95%88%EB%90%98%EA%B2%A0%EB%8A%94%EA%B0%80\nAP Gragas = http://www.op.gg/summoner/userName=gragaszz\n\nPoppy support = http://www.op.gg/summoner/userName=dwgberyl\nShurelyas rush Malzahar = http://www.op.gg/summoner/userName=20150931\nJax Dark Seal + ER = http://www.op.gg/summoner/userName=khalis\n\nEditor - https://twitter.com/ToxOnPC\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n12 Weird builds from Korean Challenger & Master that actually work",
+        "videoId": "iQNfGXY9L_0",
+        "preview": "https://i.ytimg.com/vi/iQNfGXY9L_0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-08-28T16:16:18Z",
+        "title": "LEONA VISUAL UPDATE/VGU IS COMING? || Leona News!",
+        "description": "ULTIMATE LEONA TOP BUILD/STRATEGY: \nhttps://www.youtube.com/watch?v=kQiMuXYHLrk\n\n --~--\nIn this video I go over some news update that Leona visual update/VGU might be in the works.  This is now the SECOND time we've heard about this -- I'm really hoping it comes out and looks/feels great!\n\nHere are the articles/threads referenced in the video:\n\nhttps://boards.na.leagueoflegends.com/en/c/story-art/0YgbTFIJ-if-ezreals-vgu-goes-well-jax-blitz-and-kennen-are-next-in-line?comment=000400180000\n\nhttps://www.reddit.com/r/leagueoflegends/comments/9aqon7/reav3_on_diana_and_wukong_reworks/\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "d-hg5hBy0t0",
+        "preview": "https://i.ytimg.com/vi/d-hg5hBy0t0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-06-26T17:46:54Z",
+        "title": "7 Weird Challenger/Master builds that actually work",
+        "description": "I've found some more builds that are pretty fun and actually work! Let me know which is your favourite\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Follow my Stream → http://www.twitch.tv/phy_games\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nLethality Xayah - http://www.op.gg/summoner/userName=mvpmaha\nTalon jungle - http://euw.op.gg/summoner/userName=kaosmalthael\nSejuani mid - http://www.op.gg/summoner/userName=%EA%B2%80%EC%9D%80%EB%A8%B8%EB%A6%AC%EC%82%AC%EB%82%98%EC%9D%B4\nXayah/Rakan mid - http://www.op.gg/summoner/userName=mimimimmm\nKennen - http://na.op.gg/summoner/userName=ggeastrompest\nGragas support - http://www.op.gg/summoner/userName=lehends\n\nCheck out Neubria! Neubria Zone - https://bit.ly/2szPeF8 // Neubria Charge - https://bit.ly/2J7rOOo\n\nEditor - https://twitter.com/ToxOnPC\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n7 Weird Challenger/Master builds that actually work",
+        "videoId": "z4g1oz13lBQ",
+        "preview": "https://i.ytimg.com/vi/z4g1oz13lBQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-05-02T20:02:00Z",
+        "title": "Patch 8.9 Rundown - Kennen in 0.25",
+        "description": "Kennen changes make absolutely no sense. Mage changes are all fantastic.\n\nYou can help the Youtube channel by supporting on Patreon: https://www.patreon.com/lsxyz9\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "irTD2zze_UQ",
+        "preview": "https://i.ytimg.com/vi/irTD2zze_UQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-30T19:30:06Z",
+        "title": "NEW META & 2 REWORKS! 19 BIG CHANGES & NEW OP CHAMPS Patch 8.9 - League of Legends",
+        "description": "New Mid Meta, 2 Reworks (Kennen/Spellbook) & MORE in Patch 8.8 League of Legends! \"Like\" if you enjoyed plz!\n→My Merch Store: http://bit.ly/2nJDZdO →THIS WILL GET ME CHALLENGER: https://bit.ly/2HFAuik\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n\nhttp://www.surrenderat20.net/p/current-pbe-balance-changes.html\n \n Follow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \n Redmercy Merchandising Now Available!\n →Redmercy Store: http://tinyurl.com/qb3zjdc\n \n Hope you enjoy and please sub rate and comment!!! :)\n \nNEW META & 2 REWORKS! 19 BIG CHANGES & NEW OP CHAMPS Patch 8.9 - League of Legends",
+        "videoId": "CbtGZ5Swulo",
+        "preview": "https://i.ytimg.com/vi/CbtGZ5Swulo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-29T21:44:15Z",
+        "title": "SENDING A F*%$ING MESSAGE! ESTABLISH DOMINANCE! AHRI SUPPORT - League of Legends",
+        "description": "Full game stream highlight. LoL Tips and tricks on how to play Support Ahri vs Leona and Kennen bot lane along with commentary!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nRITO PLEASE BAN! SUPPORT MORGANA - League of Legends\nhttps://www.youtube.com/watch?v=sGFXgiZ3pv8\n\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nSong: Shranay Shahane & Derex - Light Legion Link: https://youtu.be/W8ZlHkbCDdk Music promoted by FreeMusicWave.",
+        "videoId": "GdXgkmT-qNI",
+        "preview": "https://i.ytimg.com/vi/GdXgkmT-qNI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-21T17:30:00Z",
+        "title": "RYZE DOES TRUE DMG NOW!? NEW AZIR W! HUGE Mana Changes & More! New 8.9 Changes - League of Legends",
+        "description": "Ryze Rework, Unsealed Spellbook & Kennen Mini-rework, Azir New W & More In The Early 8.9 Look In League of Legends! \"Like\" if enjoyed!\n→Try ProGuides Today At (proguides.com): https://www.proguides.com/rm\n→New Champ & Nunu Rework: https://bit.ly/2HyVSVr →MY MERCH STORE: http://bit.ly/2nJDZdO \n→My Stream: https://www.facebook.com/RedmercyLoL\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n\nhttps://www.surrenderat20.net/2018/04/43-pbe-update.html\n \n Follow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \n Redmercy Merchandising Now Available!\n →Redmercy Store: http://tinyurl.com/qb3zjdc\n \n Hope you enjoy and please sub rate and comment!!! :)\n \nRYZE DEALS TRUE DMG NOW!? NEW AZIR W! HUGE Mana Changes & More! New 8.9 Changes - League of Legends",
+        "videoId": "cH-Nfi_ee2s",
+        "preview": "https://i.ytimg.com/vi/cH-Nfi_ee2s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-02T19:00:01Z",
+        "title": "Top 8 Coolest Fan Reworks! - League of Legends",
+        "description": "League of Legends / LoL: Top 8 Coolest Fan Reworks! - League of Legends. Check out the Coolest Fan-Made Champion Reworks!\n➥ Fortnite Battle Royale Moments: https://goo.gl/Qo49bJ\n💙 Facebook: https://www.facebook.com/GamingCurios/💙\n\n➥ Subscribe for More League of Legends Videos!  http://bit.ly/1O7TtJh  \n\n➥ Information Sources From The Video:\n\n1. Malphite by Tarik Diaz:\nhttps://www.artstation.com/artwork/dy5A3\n\n2. Mordekaiser by Dylan Hall:\nhttps://www.artstation.com/artwork/mQGre\n\n3. The Baron Pit by Peter Burroughs - A bit unusual but actually really in-depth and cool\nhttps://www.artstation.com/artwork/WDd4v\n\n4. Amumu by Andres Castaneda:\nhttps://www.artstation.com/artwork/rrQqO\n\n5. Taric by Ariss18\nhttps://ariss18.deviantart.com/art/League-of-Legends-Taric-visual-update-concept-497974526\n\n6. Cho'Gath by iBralui:\nhttps://ibralui.deviantart.com/art/Cho-Gath-VU-547251740\n\n7. Kennen by Danielle Oyales:\nhttps://www.artstation.com/artwork/xdPkR\n\n8. Ashe by Natalia Trykowska:\nhttps://www.artstation.com/artwork/JPYYz\n\n✔ Video Credits:\n● Produced By: Jeremy - Gaming Curios\n● Written By: Jeremy - Gaming Curios & EdgeGaming\n● Edited By: LocusEdits",
+        "videoId": "1cCQjlDnatk",
+        "preview": "https://i.ytimg.com/vi/1cCQjlDnatk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-16T22:40:41Z",
+        "title": "Neace: A Hoot and a Half with Singed",
+        "description": "In this episode a vengeful Evelyn bans gangplank out of spite. Our hero retaliates with a swift singed pick. Kennen has no clue how to kite, and Eve has a hard on for our leading man. Enjoy. \n\nSTREAM:   http://www.twitch.tv/neace\nTWITTER:   https://twitter.com/neacetweets\nFACEBOOK:  https://www.facebook.com/neaceofficial\n\nEdited By: Lucas \nYoutube: https://goo.gl/GWsVFt\nTwitter: https://twitter.com/luyonda\n\nInto/outro music: \nhttps://soundcloud.com/prospectartist\nProducers Discord: https://discord.gg/w8pkSSC",
+        "videoId": "OI3v4ANgY7E",
+        "preview": "https://i.ytimg.com/vi/OI3v4ANgY7E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-12-24T18:55:30Z",
+        "title": "Full Attack Speed KENNEN ADC? The WORST BOT LANE with Foxdrop (League of Legends)",
+        "description": "Decided we would pick the worst win rate bot lane and see if it could actually work or not!\nEnjoy your holidays! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nFull Attack Speed KENNEN ADC? The WORST BOT LANE with Foxdrop (League of Legends)",
+        "videoId": "BvNG5iAiu3M",
+        "preview": "https://i.ytimg.com/vi/BvNG5iAiu3M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "gripex",
+        "displayName": "Gripex",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx4iXkinsmifsYb1hlwy63ccyi0qELaLAWvIfEe=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-12-21T19:52:05Z",
+        "title": "Gripex - INSANE WOMBO COMBO",
+        "description": "Gripex wins a game after a sick Varus, Azir, Kennen and Sona wombo combo\n\nFollow Gripex:\n► Twitch: https://www.twitch.tv/gripex90\n► Twitter: https://twitter.com/GripexJ\n► Facebook: https://www.facebook.com/Gripex90\n\n►Join us on Curse! - http://bit.ly/GripexCurse\n\nEditor :\n►Twitter: https://twitter.com/JKHighLight\n►YouTube: https://www.youtube.com/channel/UCaGE2JOeHSXJmR6Uw4Ro0zA\n\nOutro Song : Alok, Bruno Martini, Zeeba - Never Let Me Go: https://www.youtube.com/watch?v=gs9mi4j6_BY",
+        "videoId": "mAOU-EB0l_s",
+        "preview": "https://i.ytimg.com/vi/mAOU-EB0l_s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-11T01:59:51Z",
+        "title": "[Season 8] Runes For ALL Champions (500+ Rune Pages)",
+        "description": "Huge thanks to all of the pro players and challengers who helped in the discussion leading to the creation of these pages. Some pages on the rune video might have errors / extra pages (alternatives) missing, this was an oversight due to the amount of time it took sorry. \nTimestamps: \n\n00:00 Aatrox\n00:05 Ahri\n00:17 Akali\n00:21 Alistar\n00:33 Amumu\n00:42 Anivia\n00:49 Annie\n00:56 Ashe\n01:01 Aurelion\n01:12 Azir\n01:17 Bard\n01:36 Blitzcrank\n01:45 Braum\n01:50 Brand\n02:04 Caitlyn\n02:09 Camille\n02:18 Cassio\n02:23 Cho'Gath\n02:33 Corki\n02:37 Darius\n02:55 Diana\n03:07 Draven\n03:12 Dr.Mundo\n03:28 Ekko\n03:51 Elise\n03:54 Evelynn\n03:56 Ezreal\n04:05 Fiddlesticks\n04:12 Fiora\n04:17 Fizz\n04:24 Galio\n04:29 Gangplank\n04:43 Garen\n04:50 Gnar\n04:52 Gragas\n05:04 Graves\n05:06 Hecarim\n05:11 Heimerdinger\n05:20 Illaoi\n05:39 Irelia\n05:55 Ivern\n06:11 Janna\n06:25 Jarvan\n06:35 Jax\n06:51 Jayce\n06:56 Jhin\n07:03 Jinx - Slight error, Press the Attack not comet tree is hers. Comet is Jhin's+Press the Attack\n07:06 Kalista\n07:08 Karma\n07:31 Karthus\n07:33 Kassadin\n07:52 Katarina\n08:01 Kayle\n08:03 Kayn\n08:13 Kennen\n08:17 Kha'Zix\n08:22 Kindred\n08:27 Kled\n08:31 Kog'Maw\n08:36 Leblanc\n08:48 Lee Sin\n08:54 Leona\n09:04 Lissandra\n09:11 Lucian\n09:16 Lulu\n09:34 Lux\n09:46 Malphite\n09:52 Malzahar\n10:00 Maokai\n10:03 Master Yi\n10:12 Miss Fortune\n10:23 Mordekaiser\n10:28 Morgana\n10:33 Nami\n10:44 Nasus\n11:03 Nautilus\n11:12 Nidalee\n11:15 Nocturne\n11:40 Nunu\n11:55 Olaf\n12:06 Orianna\n12:18 Ornn\n12:23 Pantheon\n12:30 Poppy\n12:36 Quinn\n12:39 Rakan\n12:44 Rammus\n12:50 Reksai\n12:55 Renekton\n13:07 Rengar\n13:16 Riven\n13:30 Rumble\n13:33 Ryze\n13:35 Sejuani\n13:39 Shaco\n13:49 Shen\n13:53 Shyvana\n14:00 Singed\n14:22 Sion\n14:26 Sivir\n14:29 Skarner\n14:35 Sona\n14:50 Soraka\n15:03 Swain\n15:09 Syndra\n15:13 Tahm\n15:29 Taliyah\n15:38 Talon\n15:43 Taric\n15:48 Teemo\n15:59 Twisted Fate\n16:11 Thresh\n16:13 Tristana\n16:18 Trundle\n16:32 Tryndamere\n16:34 Twitch\n16:39 Udyr\n16:46 Urgot\n16:49 Varus\n16:53 Vayne\n16:56 Veigar\n17:05 Vel'Koz\n17:16 Vi\n17:26 Viktor\n17:40 Vladimir\n17:45 Volibear\n17:54 Warwick\n18:06 Wukong\n18:17 Xayah\n18:20 Xerath\n18:31 Xin Zhao\n18:38 Yasuo\n18:48 Yorick\n18:55 Zac\n19:04 Zed\n19:09 Ziggs\n19:15 Zilean\n19:27 Zoe\n19:32 Zyra\n\nPLEASE NOTE :\n\nThe outlined but gray icon in the primary tree means that it is a possible alternative, although the colored path is preferred. In the secondary tree the outline stands for alternatives aswell, but it also shows what you can actually swap out and what is mandatory.\n\nAll of the rune pages that are seen in this video are not only created through my own thoughts, but dozens of pro and high elo players were involved in coming to conclusions when doing these rune pages.\n\nHuge shout-outs to everyone who participated in working on these.\n\nBGM : https://www.youtube.com/watch?v=_rbVt0z6NLM",
+        "videoId": "X6uxG09qN0s",
+        "preview": "https://i.ytimg.com/vi/X6uxG09qN0s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-09-12T23:20:49Z",
+        "title": "IT WAS THE ULTI FOR THE AGES! COME WATCH THE TOP D DUOS! VIKTOR KENNEN BOT LANE - LEAGUE OF LEGENDS",
+        "description": "Weekly Top Donator duo game with oZown featuring Viktor and Kennen in bot lane! This is part of a new series where our top donator on stream (weekly and monthly) gets to play a duo game with me, Hanjaro. Fun picks are highly encouraged, make it as silly as you want! \n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nTOO MANY BALLS DEEP! TARIC + QUINN GOING BALLS DEEP! - LEAGUE OF LEGENDS:\nhttps://www.youtube.com/watch?v=r4DGHFA2INs\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "8ytSus3iEPA",
+        "preview": "https://i.ytimg.com/vi/8ytSus3iEPA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-09-12T04:42:01Z",
+        "title": "Dyrus Turns Kennen Into Teemo *Stealth Moves* | Faker Escapes From Crown | LL Stylish | LoL",
+        "description": "Follow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nFollow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nGet Memes Apparel here: http://bit.ly/FunofLegendsMemesApparel\nGet Hip-hop Apparel here: http://bit.ly/FunofLegendsHiphopApparel\nUse code meme for an Extra 5% discount ($49+)!\nUse code memes for an Extra 10% discount ($99+)! Juxtapositions and parallels are drawn between different clips to deliver the original narrative of the video in a transformative manner that falls under Fair Use and provides unique value to my viewers. Juxtaposition is an act or instance of placing two elements close together or side by side. This is often done in order to compare/contrast the two, to show similarities or differences, etc. A video qualifies as fair use if it juxtaposes source material in a new or unexpected way for the purposes of critique, commentary or education.\n\nHelp me reach 50.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment! ALSO:\n\n\nDyrus Turns Kennen Into Teemo... Stealth moves...\nSkt Faker jukes SSG Crown. Blindness of Crown.. Hilarious.\nLL Stylish destroys enemy team with his Zed.\n\n---\n\nHello there,\n\nLeague of Legends stream moments and plays!\n\nHighlights of many streamers(Sneaky, Bjergsen, Imaqtpie, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\nIf you did please subscribe to my channel and smash that like button =)\n\n\n---\n\nOUTRO SONG: Electric Joy Ride \nLink: https://goo.gl/Be6AXV\nThe Version I used: https://goo.gl/VkMEfD (00:42 - 01:05)\n\nBest Music: https://goo.gl/T1e3eJ\n---\n\nThank you guys A LOT!!!\n\nPlease subscribe: https://goo.gl/I3gB3L\nFacebook Page: https://goo.gl/I3gB3L\n\n---\nCREDITS:\nFaker: https://goo.gl/aVxkJf\nLL Stylish: https://goo.gl/e30bvV \nImaqtpie: https://goo.gl/kNE42k\nShiphtur: https://goo.gl/en426Z\nDyrus: https://goo.gl/CCtHlq\nScarra: https://goo.gl/kTgyzu\nIWDominate: https://goo.gl/VlPyhA\nYassuo: https://www.twitch.tv/Yassuo\nVoyBoy: https://www.twitch.tv/VoyBoy\nPanunuLoL: https://www.twitch.tv/PanunuLoL\nTobiasFate: https://www.twitch.tv/tobiasfate\nBrtt: https://www.twitch.tv/Brtt\nCaps1337mid: https://www.twitch.tv/Caps1337mid\nCowsep: https://www.twitch.tv/Cowsep\nImls: https://www.twitch.tv/Imls\nJoaos92: https://www.twitch.tv/Joaos92\nJustJayce: https://www.twitch.tv/JustJayce\nKat_Life: https://www.twitch.tv/Kat_Life\nLol_Crown: https://www.twitch.tv/Lol_Crown\nMidbeastlol: https://www.twitch.tv/Midbeastlol\nTransatlas: https://www.twitch.tv/Transatlas\nZwagLoL: https://www.twitch.tv/ZwagLoL\n\n\nFootage used in this video is protected by the Fair Use Law, section 107 used for commentary, criticism, news reporting or education for transformative use.\nhttps://www.copyright.gov/fair-use/more-info.html\nMy channel is focused on giving the best and unique moments of your favorite players. I put a lot of effort into making these videos with a lot of unique edits and personality effects on my videos. I got permissions for the content that I use and I alter them for fair use purpose and it also falls under the \"news reporting\" flag which is also considered as fair use!",
+        "videoId": "jVhtTNDJh7g",
+        "preview": "https://i.ytimg.com/vi/jVhtTNDJh7g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-07-26T18:10:55Z",
+        "title": "How RIOT BROKE CHO'GATH in under 4 Minutes (League of Legends)",
+        "description": "How Riot ended up breaking Cho'Gath explained in under 4 minutes.. it's not what you expect!\nCheck out the new way to play Kennen = https://youtu.be/XxPcjpq9l3Q\nFoxdrop's full gameplay = https://www.youtube.com/watch?v=D8f6iKpLntA\nThanks for liking and subscribing. :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nHow RIOT BROKE CHO'GATH in under 4 Minutes (League of Legends)",
+        "videoId": "Jotx2v1uIi8",
+        "preview": "https://i.ytimg.com/vi/Jotx2v1uIi8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-07-25T18:19:33Z",
+        "title": "A New Way to Play KENNEN (League of Legends)",
+        "description": "Kennen isn't in the best spot anymore after they dumpstered the AD version but do we finally have a way to make him good?\n\nThanks for liking and subscribing! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nGames I looked at\nGorilla = http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT06/300165?gameHash=47a1f3225fcf0e78&tab=builds&participant=5\nJin Air vs SKT = http://best.gg/live?leagues=&month=7&match=16570&set=1\nGorilla 2 = http://best.gg/live?leagues=8&month=7&match=16628&set=0\nAFs TusiN beating KT = http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT06/301039?gameHash=06a663ba4865ce5c&tab=builds&participant=5\n\nNA LCS Hakuho = http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002290063?gameHash=a67ca9d57c113f71&tab=builds&participant=10\nNA LCS Olleh = http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002280104?gameHash=df747697b7814108&tab=builds&participant=10\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nA New Way to play KENNEN (League of Legends)",
+        "videoId": "XxPcjpq9l3Q",
+        "preview": "https://i.ytimg.com/vi/XxPcjpq9l3Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-06-28T19:15:45Z",
+        "title": "Patch 7.13 Rundown",
+        "description": "00:00 Intro\n00:10 Honor Update\n\nChampions\n00:38  Galio\n1:46 Gnar\n3:03 Kennen \n4:05 Kha'zix\n4:51 Kindred\n6:31 Maokai\n6:38 Poppy\n7:11  Rek'sai\n7:39 Shaco\n8:59 Trundle\n9:21 Xayah\n9:25 Rammus\n\nItems\n9:27 Abyssal Mask\n9:56 Adaptive Helm\n10:00 Ancient Coin\n10:14 Zeke's Convergence\n\nJungle Items\n10:18 Jungle Item Mana Regen\n10:30 Bami's Cinder\n11:01 Enchantment: Cinderhulk\n11:16 Sunfire Cape\n11:29 Rift Herald\n11:45 Upcoming Skins\n12:08 Recap\n12:37 Outro",
+        "videoId": "YML4R4ag_xg",
+        "preview": "https://i.ytimg.com/vi/YML4R4ag_xg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-29T12:16:09Z",
+        "title": "Patch 7.10 Solo-Q Tierlist",
+        "description": "Image : http://i.imgur.com/tXoMzD7.jpg\n\nTime and date for the AMA stream on tier list : 11pm (KST) 5-30-2017\n\nThis tier list is only for Solo-Q.\n\n0:00 - Intro\n0:07 - Foreword\n01:50 - Annie\n02:32 - Miss Fortune & Ashe\n03:24 - Darius\n04:05 - Heimerdinger\n04:55 - Vladimir\n05:49 - Swain & Pantheon\n06:55 - Mordekaiser\n08:01 - Ivern\n08:59 - Kennen\n09:49 - Kassadin\n11:00 - Evelynn & Zac\n11:35 - Graves & Elise\n11:49 - Nunu & Lee Sin\n12:53 - Absent Champions ( For Example LeBlanc )\n13:34 - Conclusion\n\nAnnie Bot : https://na.op.gg/summoner/userName=annie+bot\nCute MAU O v O b : https://www.op.gg/summoner/userName=cutemauovob\nIron Revenant : https://www.op.gg/summoner/userName=ironrevenant\nPhasedKiller : https://www.op.gg/summoner/userName=Phasedkiller\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Not available at this time\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "3Ae_tRh4td0",
+        "preview": "https://i.ytimg.com/vi/3Ae_tRh4td0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-24T17:00:00Z",
+        "title": "15 of my SECRETLY STRONG CARRY / UNDERRATED champs for every role (League of Legends)",
+        "description": "Let's check out the champs I think are most underrated in each role right now.\nRemember to check out Haste as well! - http://bit.ly/phyhaste\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nTimestamps -\nSupport = 0:40\nTop = 2:43\nJungle = 4:35\nADC = 6:41\nMid = 9:05\n\nChampions mentioned -\nSupport - Xerath, Veigar, Nautilus\nTop - Illaoi, Yorick, Sion (AD)\nJungle - Skarner, Kindred, Nunu\nADC - Kennen, Varus (crit), Tristana\nMid - Kassadin, Taliyah, Vel'Koz\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n15 of my SECRETLY STRONG CARRY / UNDERRATED champs for every role (League of Legends)",
+        "videoId": "5fLgrAEWYRA",
+        "preview": "https://i.ytimg.com/vi/5fLgrAEWYRA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-20T18:22:51Z",
+        "title": "Super Kennen Skin Spotlight - League of Legends",
+        "description": "League of Legends Super Kennen Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Kennen on their Super Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "MQbG_dVAKJM",
+        "preview": "https://i.ytimg.com/vi/MQbG_dVAKJM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-08T04:57:46Z",
+        "title": "Super Kennen Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Super Kennen with ingame gameplay!\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 750RP\n\nSkin name is CONFIRMED as Super Kennen, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything? Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "yZ5mtcTX9IM",
+        "preview": "https://i.ytimg.com/vi/yZ5mtcTX9IM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "doublelift",
+        "displayName": "Doublelift",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyYzqHuwzd8VSDuQCOChVo9hhrtlO2luJFQWgso=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-02-27T16:00:01Z",
+        "title": "Doublelift- WHEN PROS PLAY URF (feat. BIOFROST)",
+        "description": "►https://www.twitch.tv/doublelift\n\nInsane League of Legends URF games featuring BioFrost, Swifte, and Link.\nPlayed Syndra, Karthus, Ivern, Kennen, and Draven.\n\n►Edited by NiceTryIan\nhttps://youtube.com/shotsoflol\nhttps://twitter.com/shotsoflol\n\n►MUSIC\n\"Welcome to Planet URF\"\nhttps://www.youtube.com/watch?v=qYIiy03eGE0\n\n►USING DOUBLELIFT STREAM VODS\nHere are things you need to do if you use my stream content.\n-Credit-\nhttps://www.youtube.com/doublelifttv\nhttps://www.twitch.tv/doublelift\nhttps://twitter.com/TSMDoublelift\nhttps://www.facebook.com/DoubleliftOfficial\n-Wait one week to use my VODs after they happened-\n(don't want to compete with my own content, thanks)\nPlease follow these guidelines so I don't have to claim/take down anyone's videos.",
+        "videoId": "4Hs13T_ELHM",
+        "preview": "https://i.ytimg.com/vi/4Hs13T_ELHM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-02-23T05:27:58Z",
+        "title": "Recalls - Champion Updates | All Champions who didn't have recalls now do!",
+        "description": "List and timestamps below! All old champions which haven't had recalls now have them, 74 bases, 351 skins will now have recalls.  This video will show all the base champions which have been changed.\n\nMore information Here:\nhttp://boards.na.leagueoflegends.com/en/c/story-art/IngzHFRs-adding-simple-recalls-to-older-champs\n\nFull List of Champions and what animations they use for the recall:\nhttp://boards.pbe.leagueoflegends.com/en/c/champions-gameplay-feedback/AOE2y1J5-adding-simple-recalls-soon-on-pbe\n\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nTime Stamps:\nAhri - 00:04\nAkali - 00:14\nAlistar - 00:26\nAmumu - 00:37\nAnivia - 00:47\nAshe - 00:57\nBlitzcrank - 01:07\nBrand - 01:18\nCaitlyn - 01:28\nCassiopeia - 01:40\nCho'Gath - 01:50\nCorki - 02:00\nDr. Mundo - 02:11\nEvelynn - 02:21\nEzreal - 02:31\nFiddlesticks - 02:41\nFiora - 02:52\nFizz - 03:01\nGalio - 03:12\nGragas - 03:22\nGraves - 03:32\nHecarim - 03:43\nIrelia - 03:53\nJanna - 04:03\nJarvan IV - 04:13\nJax - 04:25\nKassadin - 04:35\nKayle - 04:45\nKennen - 04:56\nKog'Maw - 05:06\nLeblanc - 05:16\nLee Sin - 05:27\nLeona - 05:37\nLulu - 05:48\nLux - 05:59\nMalphite - 06:09\nMalzahar - 06:18\nMaokai - 06:28\nMiss Fortune - 06:41\nMordekaiser - 06:50\nMorgana - 07:00\nNautilus - 07:10\nNocturne - 07:20\nNunu - 07:32\nOlaf - 07:42\nOrianna - 07:53\nPantheon - 08:02\nRammus - 08:11\nRenekton - 08:21\nRiven - 08:30\nRumble - 08:40\nShaco - 08:50\nShen - 09:00\nShyvana - 09:08\nSinged - 09:29\nSkarner - 09:39\nSona - 09:48\nSwain - 09:57\nTalon - 10:07\nTeemo - 10:16\nTryndamere - 10:25\nUdyr - 10:35\nUrgot - 10:44\nVarus - 10:54\nVayne - 11:03\nVeigar - 11:12\nViktor - 11:21\nVladimir - 11:32\nVolibear - 11:42\nWukong - 11:51\nXerath - 12:00\nXin Zhao - 12:09\nZiggs - 12:20\nZilean - 12:30\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "zhUAc86A_uE",
+        "preview": "https://i.ytimg.com/vi/zhUAc86A_uE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-10T04:51:22Z",
+        "title": "[Season 7] Masteries For Almost All Champions",
+        "description": "Some masteries reflect personal viewpoints on the game and are aimed specifically at lane/control advantages and edges. This wasn't a planned video and also there are more variations to some champs than just what was shown as possibilities in this video.\nTIMESTAMPS: \n\nADC\n\n 00:00 Ashe\n00:04 Caitlyn\n00:10 Draven\n00:14 Ezreal\n00:19 Jhin\n00:25 Jinx\n00:29 Varus\n00:35 Vayne\n00:38 Kalista\n00:42 Tristana\n00:47 Twitch \n\nSupport\n00:50 Taric\n00:55 Thresh\n01:00 Zyra\n01:05 Braum\n01:10 Leona\n01:15 Nami\n01:19 Nautilus(top error)\n01:23 Soraka \n01:27 Karma\n01:32 Tahm Kench\n\nMid\n\n01:37 Ahri\n01:42 Annie\n01:47 Ekko\n01:50 Aurelion Sol\n01:55 Brand\n02:00 Cassiopeia\n02:04 Fizz\n02:10 Jhin\n02:XX Karthus RENDER ERROR 18/12/0\n02:14 Kassadin RENDER ERROR 12/18/0 TLD/DG/Feast\n02:19 Katarina\n02:23 Leblanc\n02:27 Lissandra\n02:32 Lux\n02:38 Malzahar\n02:41 Orianna\n02:46 Pantheon\n02:51 Ryze\n02:55 Syndra\n03:00 Talon\n03:05 Twisted Fate\n03:10 Varus\n03:14 Vel'Koz\n03:18 Viktor\n03:23 Vladimir\n03:28 Zed\n03:32 Zilean\n\nJungle\n\n03:37 Amumu\n03:42 Elise\n03:47 Evelynn\n03:50 0/18/12 render bug\n03:55 Ivern\n04:01 Jarvan 4\n04:05 Kha'Zix\n04:10 Kindred\n04:14 LeeSin \n04:18 Nautilus shared top\n04:23 Nidalee\n04:27 Nunu TWO pages\n04:36 Pantheon\n04:40 Rammus\n04:45 Rek'Sai\n04:50 Sejuani\n04:55 Shaco\n05:00 Skarner\n05:04 Vi\n05:09 Zac\n\nTop:\n\n05:13 Ekko\n05:18 Gangplank\n05:23 Darius AD\n05:27 Mundo\n05:32 Fiora\n05:36 Fizz\n05:42 Jax\n05:46 Jayce\n05:50 Kennen\n05:55 Lissandra\n06:00 Malphite\n06:05 Maokai\n06:09 Mordekaiser TWO pages\n06:17 Nasus\n06:22 Nautilus\n06:27 Pantheon\n06:31 Poppy\n06:36 Renekton\n06:40 Riven\n06:45 Rumble\n06:50 Ryze\n06:55 Swain\n07:00 Tahm Kench\n07:05 Akali\n07:10 Karma Tank\n07:12 Colo renekton\n07:17 Colo darius\n07:22 Colo Irelia\n07:26 God\n07:30 Trundle\n07:35 Tryndamere\n\nPlease note that not all champions were done, as this took a while answering questions on stream and then I decided to turn it into a video. If you have some questions on specific champions then feel free to comment below and I can probably post an imgur screenshot of their masteries or something. SOME MASTERIES SEEN HERE do somewhat reflect personal view/emphasis on lane+game advantage/edges. Thanks for watching\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "u1koHz0Et4A",
+        "preview": "https://i.ytimg.com/vi/u1koHz0Et4A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-10-08T13:00:00Z",
+        "title": "Masters Coaching #59 - Gangplank Top (Silver 3)",
+        "description": "Gangplank battles Kennen in the top lane.  Emphasis on positioning, back timings, wave management, maximizing farm and xp, and ultimate usage.\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►LOLKING:   http://www.lolking.net/summoner/na/25...\r\n -- Watch live at https://www.twitch.tv/n3ac3y\r\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "aI9YfX-5GCU",
+        "preview": "https://i.ytimg.com/vi/aI9YfX-5GCU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "donghuap",
+        "displayName": "DongHuaP",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwhEjuMopEu2l3j6eULESrZC7_7RneNseqU1wh1=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-10-08T05:31:23Z",
+        "title": "Why Kennen is Op",
+        "description": "Why is this staple worlds pick so good?",
+        "videoId": "-ARldiVGwm8",
+        "preview": "https://i.ytimg.com/vi/-ARldiVGwm8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-10-02T00:59:16Z",
+        "title": "Masters Coaching #48 - Renekton Top (Platinum 1)",
+        "description": "Renekton Top vs. Kennen - Flash + Ghost, team fighting, and being decisive.\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►LOLKING:   http://www.lolking.net/summoner/na/25...\r\n -- Watch live at https://www.twitch.tv/n3ac3y -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "F8wU-VemHec",
+        "preview": "https://i.ytimg.com/vi/F8wU-VemHec/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-09-14T10:47:58Z",
+        "title": "Patch 6.18 ( WORLDS ) Solo-Q Tierlist",
+        "description": "Link to the image : http://i.imgur.com/zqmtyiq.jpg \n\nTimestamps :\n\n00:00 Intro\n01:42 Zac\n02:35 Evelynn & Skarner\n03:26 Swain\n04:07 Vladimir\n04:23 Mordekaiser\n05:50 Akali\n07:02 Nocturne\n07:47 Kindred\n08:27 Gnar & Shen\n10:26 Jayce & Kennen\n11:33 Ezreal\n11:58 Complex Ad Carries\n12:30 The Top 4 Ad Carries\n13:19 Outro\n\nTierlist Q&A stream will happen, most likely on September 18th. Also the World Cup competitive tier list expectation video will be out in just under two weeks.\n\nThanks to all of the players who aided me in discussion on the placements of some of the champions in this tier list.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "NIW5GZanOk8",
+        "preview": "https://i.ytimg.com/vi/NIW5GZanOk8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-05-05T18:59:05Z",
+        "title": "Patch 6.9 huge rundown (long)",
+        "description": "TIMESTAMPS:\n0:00 Vladimir\n5:37 Malzahar\n13:17 Cassiopeia\n19:06 Zyra\n23:34 Brand\n26:40 Vel'koz\n28:10 Anivia\n31:14 Annie\n36:45 Fiddlesticks\n39:11 Kennen\n40:40 Swain\n44:34 Syndra\n47:05 Veigar\n49:14 Viktor\n52:24 Xerath\n54:35 Ziggs\n56:17 Tear of the Goddess\n56:54 Catalyst of the Aeons\n58:08 Chalice of Harmony\n59:02 Lost Chapter\n59:48 Fiendish Codex\n1:00:24 Will of the Ancients\n1:00:28 Rod of Ages\n1:01:57 Morellonomicon\n1:03:11 Athene's Unholy Grail\n1:05:04 Mikael's Crucible\n1:05:55 Tear of the Goddess Upgrades\n1:06:25 Abyssal Sceptre\n1:09:19 Zhonya's Hourglass\n1:10:13 Hextech Items\n1:16:01 Elemental Dragons\n1:22:01 Rift Herald\n1:24:15 Baron Nashor \n1:24:20 Red and Blue Buffs\n1:26:03 Jungle Timers\n1:26:44 Turrets\n1:28:57 Death Timers\n1:29:17 Homeguard\n1:29:39 Azir\n1:30:16 Illaoi\n1:31:43 Kindred\n1:32:32 Mordekaiser\n1:32:41 Nidalee\n1:33:11 Rengar\n1:34:15 Soraka\n1:34:43 Taric\n1:35:30 Teemo\n1:36:50 Zac\n1:37:31 Guinsoo's Rageblade\n1:38:34 Enchantment: Bloodrazor\n1:38:54 Black Cleaver\n1:39:24 Spectre's Cowl\n1:39:41 Banshee's Veil\n1:40:37 Spirit Visage\n1:41:33 Guardian Angel\n1:42:15 QSS + Scimitar \n1:42:37 Bami's Cinder + Sunfire Cape\n1:42:54 Enchantment Cinderhulk \n1:43:32 Vision Ward + Farsight Alteration\n1:44:14 Righteous Glory\n1:45:00 Warmog's Armour\n1:45:39 Relic Shield\n1:46:36 Spellthief's Edge\n1:46:44 Grievous Wounds\n\nThis video is a huge rundown on patch 6.9, the midseason mage update. The length is mostly due to going over everything in full rather than just talking about my brief opinions on the patch which will come in a later video. The patch has only been out just over 50hrs for me and I only have around 60games in so far, so the next video will be more simple and condensed. Thanks for watching.\n\nThe only thing I'm uncomfortable with not having touched more on is Protobelt. While I still think often it'll be bad, it can be super good in very specific situations / on very specific champions, but the pathing to build it still might be awkward. I view it as a weird DFG, and thus I think if it's seen, it'll be on the old 'dfg' champs.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nbusiness e-mail: nicholas.a.decesare@gmail.com",
+        "videoId": "6ZaI55g1TY4",
+        "preview": "https://i.ytimg.com/vi/6ZaI55g1TY4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-02-22T19:45:21Z",
+        "title": "Blood Moon Kennen Skin Spotlight - League of Legends",
+        "description": "League of Legends Blood Moon Kennen Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Kennen on their Blood Moon Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "1WuWL7qcYPM",
+        "preview": "https://i.ytimg.com/vi/1WuWL7qcYPM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-02-09T21:59:55Z",
+        "title": "Blood Moon Kennen Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Blood Moon Kennen with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nPrice: 975RP\nSkin name is CONFIRMED as Blood Moon Kennen, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "UzryALoe0-A",
+        "preview": "https://i.ytimg.com/vi/UzryALoe0-A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-10-20T13:00:01Z",
+        "title": "New Meta: AD Carry Kennen - The Versatile ADC | League of Legends",
+        "description": "What do YOU think about ADC Kennen?\n\nEverything used in this video is linked lower in the description.\nCheck Out my Second Channel: http://bit.ly/1NvJ7qi\n\nStream: http://www.twitch.tv/Jeremy_GamingCurios\nStay connected at: https://www.facebook.com/GamingCurios\nFollow Me on Twitter: https://twitter.com/GamingCurios\n\nProduction (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Kennen/SkinsTrivia\n\nVideo Clip Sources:\n\nFNC vs EDG:\nhttps://www.youtube.com/watch?v=zv26mvmQCKo\n\nIG vs FNC:\nhttps://www.youtube.com/watch?v=KWzKSCvGXRw\n\nFNC vs C9:\nhttps://www.youtube.com/watch?v=6uhXo2WXCwY",
+        "videoId": "282fw4_8lOI",
+        "preview": "https://i.ytimg.com/vi/282fw4_8lOI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-17T01:09:06Z",
+        "title": "How to Make Your Skillshots Invisible: An Extremely Powerful Bug Reproduced | League of Legends LoL",
+        "description": "Testing inspired by: http://bit.ly/1TKl6LK\nAll clips in this video and abilities are linked lower in the description.\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\nStay connected at: https://www.facebook.com/GamingCurios\nFollow Me on Twitter: @GamingCurios\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Jinx/SkinsTrivia\n\nVideo Clip Sources: https://www.youtube.com/watch?v=LuYOSmCDmSQ&feature=youtu.be\n\nAbilities this trick works 100% with:\n\nNidalee Q\nJinx R\nKennen Q\nBrand Q\nMorgana Q\nLeblanc E\nQuinn Q\nGnar Q\nCorki R\nElise E",
+        "videoId": "UXYT1pICNWM",
+        "preview": "https://i.ytimg.com/vi/UXYT1pICNWM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-03-23T10:38:04Z",
+        "title": "Luden's Echo - Why Luden clearly didn't last long in the Fields of Justice.",
+        "description": "Luden must've been a really bad mage, because if this is his echo it's no wonder he must be dead.\n\nTL:DW? - Most champions can't neglect the items which they must already prioritize without really hindering themselves or their team. The AP ratio of most champions don't benefit solely from the 120ap enough to make the slight movespeed/passive worth it for them over items which give them more raw utility or damage. If you actually want to understand more than just beyond this, watch the video.\n\n*Luden's can be built on champions who use Lich Bane as a 6th item if you sell your boots.\n\nThe following champions are the only ones I currently think Luden's may be good on:\nCassiopeia (Roa/Rylai form)\nLulu\nKatarina\nKarma\nAkali\nRyze (6th item)\nAhri\n\nLooking for your champion?\n2:52 - Lulu\n4:11 - Lux\n5:37 - Morgana\n6:11 - Nidalee\n7:30 - Orianna\n8:24 - Ryze\n9:22 - Annie\n10:29 - Syndra\n11:08 - God\n11:47 - Twisted Fate\n12:13 - Veigar\n12:19 - Vel'Koz\n12:55 - Xerath\n13:08 - Ziggs\n13:25 - Zyra\n13:37 - Ahri\n14:27 - Akali\n15:08 - Cassiopeia\n15:34 - Diana\n16:32 - Elise\n16:42 - Fizz\n17:01 - Karma\n17:33 - Karthus\n17:45 - Kassadin\n18:00 - Katarina\n18:37 - Kayle\n19:03 - Kennen\n19:13 - Kog'Maw\n19:28 - LeBlanc\n19:51 - Lissandra\n\nChampions accidentally not mentioned: \nRumble - (can't neglect the zhonya/liandry/void rush)\nViktor - (needs too many items, very expensive ramp up and timings)\nVladimir - (his E at 4 stacks already is far superior of wave clear than he'll ever need. Outside of this he needs his other few items MAYBE it could be a 6th item depending on team comps)\nAnivia - Spells not reliable enough, poor AP ratios.\nMordekaiser - Way too reliant on his other items\n\nI'm the the head coach of NA LCS Team Gravity.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nTwitch: http://twitch.tv/imls",
+        "videoId": "l9Mk1D9hYMU",
+        "preview": "https://i.ytimg.com/vi/l9Mk1D9hYMU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-02-15T18:30:00Z",
+        "title": "Kennen - Did You Know? - Ep #80 - League of Legends",
+        "description": "→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\n→Subscribe Here: http://full.sc/1gukNqq\n→Did You Know Playlist: http://full.sc/1bCtY0m\n→Alphadraft, win prizes by drafting an LCS team: http://alphadraft.com/?redmercy\n\nFollow me here!\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Twitter: http://twitter.com/RedmercyLoL\n→Facebook: https://www.facebook.com/RedmercyLoL\n→My Instagram: http://instagram.com/redmercylol\n→https://www.youtube.com/redmercygaming\n\nRedmercy Merchandising Now Available!\n→Redmercy Store: http://tinyurl.com/qb3zjdc\n\nCool Facts/Information/Lore about Kennen!\n\nMusic Provided and Released by Tasty\nSong: MYKOOL - Taken For Granted\nListen: https://www.youtube.com/watch?v=LobFydIeWVA\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "fETdieLcp3k",
+        "preview": "https://i.ytimg.com/vi/fETdieLcp3k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-01-28T20:10:27Z",
+        "title": "Kennen - 2015 Update - All Affected Skins",
+        "description": "SkinSpotlights has the new textures & models where \"Old Skin\" has the old textures on live.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nAll Skins which follow are just the texture & model updated versions.\n\nKennen Skins which have been updated:\nClassic Kennen\nDeadly Kennen\nSwamp Master Kennen\nKarate Kennen\nKennen M. D.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor Still Comparison Images as well as League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "bmlsUAXySh4",
+        "preview": "https://i.ytimg.com/vi/bmlsUAXySh4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-08-17T23:09:03Z",
+        "title": "[Tierlist] Patch 4.14",
+        "description": "http://twitter.com/im_ls + http://facebook.com/nick.decesare.7\n\nI'm the former Coach of EU LCS Team MYM. I'm a former Samsung Ozone/Blue house member, and Diamond 1 Korea server. In this video I give a rundown on my opinion for a tierlist for Patch 4.14 (gnar) in League of Legends \n\nFollow me:\nhttp://twitter.com/im_ls\nhttp://twitch.tv/imls\nhttp://facebook.com/nick.decesare.7\nhttps://www.facebook.com/pages/ls/267710736646000\n\n\nTIERLIST TEXT: \nPATCH 4.14 TIER LIST(August 18th, 2014):\n\n\nMID\nTier 1: Orianna, Syndra, Twisted Fate, Ahri, Ryze, Yasuo, Kassadin\nTier 2: Lulu, Fizz, Xerath, Karthus, Ziggs, Jayce, Zed\nTier 2.5: Talon, Kayle, Lucian\nTier 3: Anivia, Riven, Ezreal, Akali, Leblanc, Annie, Teemo, Morgana\nTier 3.5: AP Kog’Maw, Karma\nTier 4: Katarina, Heimerdinger, Cassiopeia, AP Tristana, Sion, Mordekaiser, Brand\nTier 5: All other non-named kids\nTier 6: Viktor\n\nTOP\nTier 0: Maokai\nTier 1: Gragas, Ryze, Alistar, Shyvanna\nTier 2: Nidalee, Renekton, Shen, Irelia, Lulu, Gnar (?), Jayce\nTier 2.5: Zac, Mundo, Teemo, Lee Sin\nTier 3: Yasuo, Jax, Kayle, Rengar, Lissandra, Swain, Rumble, Akali, Riven, Zed, Tryndamere, Hecarim\nTier 4: Darius, Gangplank, Poppy, Kha’Zix, Elise, Vladimir, Quinn, Aatrox, Trundle, Heimerdinger, Yorick, Nasus, Singed, Olaf, Kennen, Fiora\nTier 5: Rammus, Nunu, Sion, Garen, Xin Zhao, WuKong\nTier 6: All other non-named tops\n\nJUNGLE\nTier 1: Rengar, Lee Sin, Elise\nTier 1.5: Evelynn, Jarvan 4\nTier 2: Vi, Kha’Zix, Maokai\nTier 2.5: Nocturne\nTier 3: Pantheon, Zed, Fiddlesticks, Kayle, Amumu\nTier 3.5: Riven, Warwick, Yi, Shaco\nTier 4: Wukong, Jax*, Gragas, Zac, Xin Zhao\nTier 5: All other non-named jungles\n\nADC/MARKSMAN\nTier 1: Tristana, Corki, Kog’Maw\nTier 2: Twitch, Lucian\nTier 3: Caitlyn, Vayne, Jinx, Ezreal, Blue-Ezreal, Draven\nTier 4: Sivir, Varus, Miss Fortune\nTier 5: Ashe, Graves\nTier 6: Quinn, Urgot\nTier 7: All other non-named ADC’s\n\nSUPPORT\nTier 1: Morgana, Nami, Thresh, Braum\nTier 2: Alistar, Leona\nTier 3: Lulu, Sona, Zilean\nTier 4: Annie, Karma, Soraka, Blitzcrank, Lissandra, Nunu, Zyra\nTier 5: All other non-named/abstract supports",
+        "videoId": "JXFsx1i_D50",
+        "preview": "https://i.ytimg.com/vi/JXFsx1i_D50/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-10-03T15:42:17Z",
+        "title": "Duo with Dyrus2g - Volibear Jung - Kennen Top!",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "0CUj4AcdAws",
+        "preview": "https://i.ytimg.com/vi/0CUj4AcdAws/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-09-27T18:32:39Z",
+        "title": "Diamond 1 Kennen Montage - Mr Gimix | League of Legends Gameplay",
+        "description": "Go subscribe to Mr Gimix here : http://bit.ly/16FQm5x\n\n♦ Please subscribe to me if you enjoyed!\n\n♦ Like me on Facebook for updates and early sneak previews at https://www.facebook.com/phylol \n\n♦ Follow me on Twitter  : https://twitter.com/thephylol\n\n♦ Follow me on Twitch : http://www.twitch.tv/phy_lol\n\n♦ Join the chat room \"phylol\" on EU W and chat to me!\n\nSong : StanSB - Compromise\nStanSB's Facebook : https://www.facebook.com/StanSB\n\nOutro music : Song: Kromatick - Insomnia\nKromatick's channel: http://www.youtube.com/user/KromatickOfficial\n\nDiamond 1 Kennen Montage - Mr Gimix | League of Legends Gameplay",
+        "videoId": "PTdkCiDD4Uk",
+        "preview": "https://i.ytimg.com/vi/PTdkCiDD4Uk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zach",
+        "displayName": "Лига Легенд и TFT от Зака: Гайды, Стримы, Обзоры",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxB3wok5mrNroeSn6P20K3FAJ_7nPVkbWdzYM_SEA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-09-25T15:04:44Z",
+        "title": "Kennen toplane by Fomko (Diamond-1 EU West)",
+        "description": "Fomko lolking: http://www.lolking.net/summoner/euw/42978973\nГруппа вконтакте: vk.com/zakland\nБлог: inleaguewetrust.blogspot.com",
+        "videoId": "lAFI0vHnyPY",
+        "preview": "https://i.ytimg.com/vi/lAFI0vHnyPY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-08-17T19:00:30Z",
+        "title": "Top 10 Mid Lane Snowballers - League of Legends",
+        "description": "Please LIKE if you enjoyed the video! Helps me out a lot, thanks!\n→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\nA random commentary where I discuss my personal top 10 champions that I believe to have HUGE snowball potential and can be used to carry games hard in solo queue. Keep in mind this is MY opinion and this is for MIDDLE LANE. If you have questions, just ask below! Remember that non-snowball champions CAN CARRY as well; for example I think my Lissandra can carry games hard but I do not consider her a snowball champion, I just feel like I am really good with her. Take this list with a grain of salt and only look at it as a guideline, as a frame for the picture YOU must paint!\n\nTop 10 Champions are (not in any specific order):\nKhazix, Zed, Katarina, Fizz, LeBlanc, Gragas, Akali, Diana, Kennen, Kassadin\n\n2nd YouTube Channel! :\nhttps://www.youtube.com/redmercygaming\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nCheck out the previous Random Comm:\nhttp://www.youtube.com/watch?v=qCeBEKL7yVU\n\nMy Stream:\nhttp://www.twitch.tv/RedmercyLoL\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=JoVSsGgbVK4\n\nThanks and enjoy! Don't forget to subscribe!",
+        "videoId": "VNt7x99Qkm8",
+        "preview": "https://i.ytimg.com/vi/VNt7x99Qkm8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-02-26T02:40:36Z",
+        "title": "Full - Kennen M.D League of Legends Skin Spotlight",
+        "description": "League of Legends MD Kennen Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Kennen on his MD Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "TuJFAdOEHcY",
+        "preview": "https://i.ytimg.com/vi/TuJFAdOEHcY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-02-26T02:40:36Z",
+        "title": "Full - Karate Kennen League of Legends Skin Spotlight",
+        "description": "League of Legends Karate Kennen Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Kennen on his Karate Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "cZM9Le7RZ5I",
+        "preview": "https://i.ytimg.com/vi/cZM9Le7RZ5I/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-02-26T02:40:36Z",
+        "title": "Full - Deadly Kennen League of Legends Skin Spotlight",
+        "description": "League of Legends Deadly Kennen Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Kennen on his Deadly Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "ajb-O6m03oc",
+        "preview": "https://i.ytimg.com/vi/ajb-O6m03oc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-12-25T04:12:36Z",
+        "title": "Full - Arctic Ops Kennen League of Legends Skin Spotlight",
+        "description": "League of Legends Arctic Ops Kennen Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Kennen on his Arctic Ops Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account? Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226",
+        "videoId": "bpc5QzJX0cY",
+        "preview": "https://i.ytimg.com/vi/bpc5QzJX0cY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-12-19T05:20:22Z",
+        "title": "Full - Swamp Master Kennen League of Legends Skin Spotlight",
+        "description": "League of Legends Swamp Master Kennen Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Kennen on his Swamp Master Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account? Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226",
+        "videoId": "wKeFWPTbDow",
+        "preview": "https://i.ytimg.com/vi/wKeFWPTbDow/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2011-11-20T20:57:43Z",
+        "title": "HACKED BY POODLECORP twitter.com/poodlecorp",
+        "description": "DONT FORGET TO WATCH IN HD AND SUBSCRIBE! Don't forget to comment, rate, and be subscribed to get a chance to get added on my friends list! Also do not forget to like me on FACEBOOK as that is where I also will announce when I am playing with subs!\n\nTier List that I make for LoL. These are meant to be only for fun and not taken 100% seriously. These are also solely my opinions!\n\n1) Akali, amumu, annie, brand, cait, trist, cass, cho'gath, karthus, Kassadin, Lee, Morg, nasus, noc, rammus, ryze, shyvana, skarner, talon, trynd, udyr, vayne, xerath, zilean\n2) Alistar, Anivia, Corki, Ezreal, Fiddle, Fizz, GP, Gragas, Graves, Irelia, Janna,  katarina, Kennen, Malphite, Malz, MF,  Olaf, Riven, Rumble, Shaco, Soraka, Teemo, Trundle, TF, veigar, Wukong, \n3) Ashe, Blitz, Garen, Heimer, J4, Kog, LeBlanc, Nid, Orianna, Panth, Shen, Nunu, Singed, Sion, Sivir, Sona, Swain, Taric, Urgot, Warwick, Jax, Vlad, Yorick\n4) Galio, Kayle, Leona, Lux, Moakai, Poppy, Twitch,  xin\n5) Mundo, Eve, Karma, Yi, Morde\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nSkype:\nredmercy1337\n\nMy Stream:\nhttp://www.justin.tv/red_mercy\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=N3FA-j7Dh6Q&feature=channel_video_title\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "NAqAlajZqGE",
+        "preview": "https://i.ytimg.com/vi/NAqAlajZqGE/mqdefault.jpg"
+      }
+    }
+  ]
+}

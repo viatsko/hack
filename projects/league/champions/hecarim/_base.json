@@ -1,0 +1,1428 @@
+{
+  "id": "hecarim",
+  "key": "120",
+  "name": "Hecarim",
+  "title": "the Shadow of War",
+  "tags": [
+    "Fighter",
+    "Tank"
+  ],
+  "stats": {
+    "hp": 580,
+    "hpperlevel": 90,
+    "mp": 277.2,
+    "mpperlevel": 40,
+    "movespeed": 345,
+    "armor": 36,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 7,
+    "hpregenperlevel": 0.75,
+    "mpregen": 6.5,
+    "mpregenperlevel": 0.6,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.67
+  },
+  "icon": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/champion/Hecarim.png",
+  "sprite": {
+    "url": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/sprite/champion1.png",
+    "x": 336,
+    "y": 0
+  },
+  "description": "Hecarim is a spectral fusion of man and beast, cursed to ride down the souls of the living for all eternity. When the Blessed Isles fell into shadow, this proud knight was obliterated by the destructive energies of the Ruination, along with all his...",
+  "redditUrl": "Hecarimmains",
+  "videos": [
+    {
+      "profile": {
+        "slug": "pants_are_dragons",
+        "displayName": "Pants are Dragon",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxen3j9FnGAaVSZfacZ02NE9Vi9aLhwlvYsSPMb8g=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-14T12:38:35Z",
+        "title": "DAY 93 - HECARIM IS FINALLY GOOD AGAIN!! OLD PANTS IS BACK (and Hashinshin is my top laner)",
+        "description": "super top with super jungler\n\n📷 INSTAGRAM: https://www.instagram.com/luigidragon\r\n🐥 TWITTER: https://twitter.com/PantsAreDragon\r\n🌍 FACEBOOK: http://www.fb.gg/luigidragonLoL\r\n🎮 TWITCH: http://www.twitch.tv/PantsAreDragon\r\n🔥 ENERGY DRINK: http://bit.ly/3682nXF | 10% OFF CODE: PANTS\r\n💼 BUSINESS INQUIRIES HERE ➡ fighting_mario@hotmail.com\r\n\r\nNew Video ➡ DAY 93 - HECARIM IS FINALLY GOOD AGAIN!! OLD PANTS IS BACK (and Hashinshin is my top laner)\r\n#pantsaredragon #leagueoflegends\r\n\r\npants are dragon, unranked smurfs, league of legends gameplay, league of legends xbox, league of legends xbox one, best league of legends champions, league of legends characters, lms lol, games like league of legends, league of legends sign up, league of legends new account, lol gameplay, league of legends videos, play league of legends, riot games lol, league of legends new season, twitch league of legends, riot games twitch, twitch lol, twitch tv league of legends, best jungler lol, pants are dragon lol, league of legends jungle, jungle guide, season 10 jungle guide, best jungler for season 10, how to climb league of legends, pants are dragon season 10, pants are dragon jungle guide, pants are dragon rank 1, challenger to rank 1, pants are dragon rage, season 10 league of legends, s10 jungle, jungle pathing guide, hecarim jungle, hecarim, challenger hecarim, best hecarim, rank 1 hecarim, pants are dragon hecarim, hecarim jungle gameplay, hecarim jungle build, hecarim jungle guide \r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nproduced by ➡ https://twitter.com/ashbisto\r\n\r\neditors:\r\nhttps://www.twitter.com/kameavision\r\nhttps://twitter.com/eripsnl\r\nhttps://twitter.com/Riousx\r\nhttps://twitter.com/AverageMarsha\r\nhttps://twitter.com/freeioader",
+        "videoId": "YjZHv2njYIA",
+        "preview": "https://i.ytimg.com/vi/YjZHv2njYIA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "pants_are_dragons",
+        "displayName": "Pants are Dragon",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxen3j9FnGAaVSZfacZ02NE9Vi9aLhwlvYsSPMb8g=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-14T12:38:35Z",
+        "title": "DAY 93 - HECARIM IS FINALLY GOOD AGAIN!! OLD PANTS IS BACK (and Hashinshin is my top laner)",
+        "description": "super top with super jungler\n\n📷 INSTAGRAM: https://www.instagram.com/luigidragon\r\n🐥 TWITTER: https://twitter.com/PantsAreDragon\r\n🌍 FACEBOOK: http://www.fb.gg/luigidragonLoL\r\n🎮 TWITCH: http://www.twitch.tv/PantsAreDragon\r\n🔥 ENERGY DRINK: http://bit.ly/3682nXF | 10% OFF CODE: PANTS\r\n💼 BUSINESS INQUIRIES HERE ➡ fighting_mario@hotmail.com\r\n\r\nNew Video ➡ DAY 93 - HECARIM IS FINALLY GOOD AGAIN!! OLD PANTS IS BACK (and Hashinshin is my top laner)\r\n#pantsaredragon #leagueoflegends\r\n\r\npants are dragon, unranked smurfs, league of legends gameplay, league of legends xbox, league of legends xbox one, best league of legends champions, league of legends characters, lms lol, games like league of legends, league of legends sign up, league of legends new account, lol gameplay, league of legends videos, play league of legends, riot games lol, league of legends new season, twitch league of legends, riot games twitch, twitch lol, twitch tv league of legends, best jungler lol, pants are dragon lol, league of legends jungle, jungle guide, season 10 jungle guide, best jungler for season 10, how to climb league of legends, pants are dragon season 10, pants are dragon jungle guide, pants are dragon rank 1, challenger to rank 1, pants are dragon rage, season 10 league of legends, s10 jungle, jungle pathing guide, hecarim jungle, hecarim, challenger hecarim, best hecarim, rank 1 hecarim, pants are dragon hecarim, hecarim jungle gameplay, hecarim jungle build, hecarim jungle guide \r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nproduced by ➡ https://twitter.com/ashbisto\r\n\r\neditors:\r\nhttps://www.twitter.com/kameavision\r\nhttps://twitter.com/eripsnl\r\nhttps://twitter.com/Riousx\r\nhttps://twitter.com/AverageMarsha\r\nhttps://twitter.com/freeioader",
+        "videoId": "YjZHv2njYIA",
+        "preview": "https://i.ytimg.com/vi/YjZHv2njYIA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-10T06:00:13Z",
+        "title": "ONE BY ONE THEY ALL GET PUT DOWN",
+        "description": "Udyr Top vs Hecarim :) Enjoy! Leave a comment, like + subscribe for more!\n▼ expand me ▼\n\n_ \n\n\n► Previous Video: https://www.youtube.com/watch?v=O4oKMWJVwPQ Udyr My way 20202\n \n_  \n \n► Make sure you follow my 2nd channel, we upload regularly there!  @Trick Gaming \n\n \n_  \n\n\nFollow me here: \n► Twitter: https://twitter.com/Trick2g\n► Instagram: https://www.instagram.com/trick2g/\n► Twitch: https://www.twitch.tv/trick2g\n► Merch: https://trick2g.shop/\n► Join my Discord: https://discord.gg/trick2g\n► Business: trick2g@trick2g.org\n\n\n-\n\n\nCredits:\n► Editor: Sniping https://twitter.com/Sniping117\n► Thumbnail: https://twitter.com/LilianaO__o\n► Intro song: \"Broken\" https://soundcloud.com/alasen\n► Outro Song: https://soundcloud.com/itsvibekilla/jammin\n\n\n-\n\n\n► For editing opportunities please email: lilyanaayt@gmail.com\n\n\n\n-\n\n\n► Help translate videos: http://bit.ly/2h94lj8\n\n\n-\n\n\n\n#Trick2g #LeagueOfLegends #Udyr Udyr Top, Udyr Mid,  Udyr vs Hecarim, Trick2g UDyr top, trick2g udyr flamedyr\n\n-\n\n\n**For credit on an intro or any footage used, please email lilyanaayt@gmail.com**",
+        "videoId": "Kj7fKWWbBVQ",
+        "preview": "https://i.ytimg.com/vi/Kj7fKWWbBVQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-03T17:00:30Z",
+        "title": "HECARIM TOP IS SO MUCH FUN! - Iron to Master S10 | League of Legends",
+        "description": "Welcome back to Iron to Master! We're playing some Hecarim top as I've been really enjoying him recently and actually think he's pretty strong! Like, Comment & Subscribe! League of Legends Hecarim Top Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nHECARIM TOP IS SO MUCH FUN! - Iron to Master S10 | League of Legends",
+        "videoId": "uz2KBHvxrcI",
+        "preview": "https://i.ytimg.com/vi/uz2KBHvxrcI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-03T17:00:30Z",
+        "title": "HECARIM TOP IS SO MUCH FUN! - Iron to Master S10 | League of Legends",
+        "description": "Welcome back to Iron to Master! We're playing some Hecarim top as I've been really enjoying him recently and actually think he's pretty strong! Like, Comment & Subscribe! League of Legends Hecarim Top Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nHECARIM TOP IS SO MUCH FUN! - Iron to Master S10 | League of Legends",
+        "videoId": "uz2KBHvxrcI",
+        "preview": "https://i.ytimg.com/vi/uz2KBHvxrcI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-27T17:00:04Z",
+        "title": "IS HECARIM BACK? SUPER SPEED WITH GHOST BUFF! - Iron to Master S10 | League of Legends",
+        "description": "Welcome back to Master! We're playing Hecarim today as I've seen him slowly coming back into play due to the ghost buff! Like, Comment & Subscribe! League of Legends Hecarim Jungle Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nIS HECARIM BACK? SUPER SPEED WITH GHOST BUFF! - Iron to Master S10 | League of Legends",
+        "videoId": "De2OkI-arJY",
+        "preview": "https://i.ytimg.com/vi/De2OkI-arJY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-27T17:00:03Z",
+        "title": "IS HECARIM BACK? SUPER SPEED WITH GHOST BUFF! - Iron to Master S10 | League of Legends",
+        "description": "Welcome back to Master! We're playing Hecarim today as I've seen him slowly coming back into play due to the ghost buff! Like, Comment & Subscribe! League of Legends Hecarim Jungle Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nIS HECARIM BACK? SUPER SPEED WITH GHOST BUFF! - Iron to Master S10 | League of Legends",
+        "videoId": "De2OkI-arJY",
+        "preview": "https://i.ytimg.com/vi/De2OkI-arJY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "irelia_carries_u",
+        "displayName": "Irelia Carries U",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwKniaYC1kxZA8yTPRdrjd36ORCAYX89ES3V3UJcw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-18T02:18:54Z",
+        "title": "I destroyed this Hecarim in Grandmaster",
+        "description": "Follow me at \nhttps://www.twitch.tv/ireliacarriesu",
+        "videoId": "A-7GMyypZfo",
+        "preview": "https://i.ytimg.com/vi/A-7GMyypZfo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-14T15:21:21Z",
+        "title": "FINALLY this champ is OP now after 1 year.. (GIVEAWAY) - League of Legends",
+        "description": "LEAVE A \"LIKE\" IF YOU ENJOYED THE VID!! Hecarim mid with new ghost + predator is pretty nuts now in League of Legends\n→TILT TILT TILT TILT: https://bit.ly/2YPaRTx →Journey To GM/Challenger Playlist: https://bit.ly/39oDqJI\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n →My Merch Store: http://bit.ly/2nJDZdO \n\n Follow me here!\n→My Stream: https://www.facebook.com/RedmercyLoL\n→My Public Discord: discord.gg/YAay9Hc \n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nEdited By: https://twitter.com/WYuezhong\n \nHope you enjoy and please sub rate and comment!!! :)\n\nFinally this champion is OP now after 1 year.. (GIVEAWAY) - League of Legends\n\n#lol #redmercy #leagueoflegends",
+        "videoId": "kfOd6dUIkQY",
+        "preview": "https://i.ytimg.com/vi/kfOd6dUIkQY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sharkz",
+        "displayName": "Sharkz",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwfeZdSubD2aXoArnZ6u0ziBfEtxHRNXVIsM9W43Q=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-28T07:00:00Z",
+        "title": "СТРАШНАЯ ИСТОРИЯ | M19 УШЛИ | PROJECT X | ЗООПАРК В ЛИГЕ | ГОРЕ ИНТРОВЕРТА | КОНКУРС | ЛИГА ЛЕГЕНД",
+        "description": "🔥 Ссылка для спонсоров на закрытый телеграм канал: https://bit.ly/2M0cZjP \n🎥 Наш канал о кино: https://www.youtube.com/c/taranuha\n👨‍🎓 Обучающий стрим от Зака: https://academyoflegends.ru\n\nНовые режимы в LOL: https://ru.leagueoflegends.com/ru-ru/news/dev/ask-riot-new-game-modes/ \n[Видео] Гекарим и Юми: https://www.reddit.com/r/leagueoflegends/comments/gn9t2z/just_a_casual_yuumi_hecarim_urf_mirror_game/ \n[Видео] Футбольный режим: https://www.youtube.com/watch?v=XYxTiYx0YMk \nКвалификация TFT: https://ru.leagueoflegends.com/ru-ru/news/community/qualifiers-for-the-teamfight-tactics-galaxies-championship/ \nОбучающий стрим от Зака: https://academyoflegends.ru\nДоставка из Мака: https://www.reddit.com/r/leagueoflegends/comments/gppeoj/i_didnt_think_league_could_get_any_more_toxic/ \nЗоопарк Лиги Легенд: https://www.reddit.com/r/leagueoflegends/comments/gn1foq/we_made_a_zoo_in_urf/ \nАнонс UniCon: https://vk.com/wall-75771043_648729 \nM19 покинули LCL: https://vk.com/wall-137006442_89283  \nЗамена М19: https://vk.com/wall-195636430_3 \nEdward в Италии: https://vk.com/wall-54683807_28924 \nMoo в Италии: https://vk.com/wall-150577281_2963\nПервая игра в итальянской лиге: https://vk.com/wall-54683807_28942 \nDoxy в Дании: https://vk.com/wall-127143587_674\nИзменения CC: https://vk.com/wall-45324551_104120 \nКомментарий MightyDragon: https://vk.com/wall-192582646_168 \n[Видео] Двойная пента: https://www.reddit.com/r/leagueoflegends/comments/gpivnr/double_penta/ \n[Видео] Шен 1 в 2: https://www.reddit.com/r/leagueoflegends/comments/gmykj2/always_wanted_to_cheese_graves_aas/ \n[Видео] Выжившая МФ: https://www.reddit.com/r/leagueoflegends/comments/gpc8t3/i_get_ccd_for_6_straight_seconds_as_adc_and/ \n[Видео] Синий бафф: https://www.reddit.com/r/leagueoflegends/comments/gn87to/thats_what_teamwork_looks_like_diamond_3_solo/\n[Видео] Тилт Ли Сина: https://www.reddit.com/r/leagueoflegends/comments/gp6nvb/some_classic_euw_plat_solo_queue/ \n[Видео] Фейк рекол: https://www.reddit.com/r/leagueoflegends/comments/gq73v5/a_classic_fake_recall_strat/ \n\nСоциальные Сети: \n►TWITCH: https://www.twitch.tv/sharkz \n►TWITTER: https://twitter.com/CoachSharkz \n►INSTAGRAM: https://www.instagram.com/tarandaalex/ \n►VK: https://vk.com/sharkz\n\nProduced by VT Production : \nНаш ВК: https://vk.com/vt.production\nНаш Сайт: http://vt-production.com\n\n#новости #лигалегенд #пбе\n#sharkz #tft #pbe #lcl \n#lec #lcs #worlds",
+        "videoId": "kDOM_x0HTGY",
+        "preview": "https://i.ytimg.com/vi/kDOM_x0HTGY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sharkz",
+        "displayName": "Sharkz",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwfeZdSubD2aXoArnZ6u0ziBfEtxHRNXVIsM9W43Q=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-27T15:15:24Z",
+        "title": "СТРАШНАЯ ИСТОРИЯ | M19 УШЛИ | PROJECT X | ЗООПАРК В ЛИГЕ | ГОРЕ ИНТРОВЕРТА | КОНКУРС | ЛИГА ЛЕГЕНД",
+        "description": "🔥 Ссылка для спонсоров на закрытый телеграм канал: https://bit.ly/2M0cZjP \n🎥 Наш канал о кино: https://www.youtube.com/c/taranuha\n👨‍🎓 Обучающий стрим от Зака: https://academyoflegends.ru\n\nНовые режимы в LOL: https://ru.leagueoflegends.com/ru-ru/news/dev/ask-riot-new-game-modes/ \n[Видео] Гекарим и Юми: https://www.reddit.com/r/leagueoflegends/comments/gn9t2z/just_a_casual_yuumi_hecarim_urf_mirror_game/ \n[Видео] Футбольный режим: https://www.youtube.com/watch?v=XYxTiYx0YMk \nКвалификация TFT: https://ru.leagueoflegends.com/ru-ru/news/community/qualifiers-for-the-teamfight-tactics-galaxies-championship/ \nОбучающий стрим от Зака: https://academyoflegends.ru\nДоставка из Мака: https://www.reddit.com/r/leagueoflegends/comments/gppeoj/i_didnt_think_league_could_get_any_more_toxic/ \nЗоопарк Лиги Легенд: https://www.reddit.com/r/leagueoflegends/comments/gn1foq/we_made_a_zoo_in_urf/ \nАнонс UniCon: https://vk.com/wall-75771043_648729 \nM19 покинули LCL: https://vk.com/wall-137006442_89283  \nЗамена М19: https://vk.com/wall-195636430_3 \nEdward в Италии: https://vk.com/wall-54683807_28924 \nMoo в Италии: https://vk.com/wall-150577281_2963\nПервая игра в итальянской лиге: https://vk.com/wall-54683807_28942 \nDoxy в Дании: https://vk.com/wall-127143587_674\nИзменения CC: https://vk.com/wall-45324551_104120 \nКомментарий MightyDragon: https://vk.com/wall-192582646_168 \n[Видео] Двойная пента: https://www.reddit.com/r/leagueoflegends/comments/gpivnr/double_penta/ \n[Видео] Шен 1 в 2: https://www.reddit.com/r/leagueoflegends/comments/gmykj2/always_wanted_to_cheese_graves_aas/ \n[Видео] Выжившая МФ: https://www.reddit.com/r/leagueoflegends/comments/gpc8t3/i_get_ccd_for_6_straight_seconds_as_adc_and/ \n[Видео] Синий бафф: https://www.reddit.com/r/leagueoflegends/comments/gn87to/thats_what_teamwork_looks_like_diamond_3_solo/\n[Видео] Тилт Ли Сина: https://www.reddit.com/r/leagueoflegends/comments/gp6nvb/some_classic_euw_plat_solo_queue/ \n[Видео] Фейк рекол: https://www.reddit.com/r/leagueoflegends/comments/gq73v5/a_classic_fake_recall_strat/ \n\nСоциальные Сети: \n►TWITCH: https://www.twitch.tv/sharkz \n►TWITTER: https://twitter.com/CoachSharkz \n►INSTAGRAM: https://www.instagram.com/tarandaalex/ \n►VK: https://vk.com/sharkz\n\nProduced by VT Production : \nНаш ВК: https://vk.com/vt.production\nНаш Сайт: http://vt-production.com\n\n#новости #лигалегенд #пбе\n#sharkz #tft #pbe #lcl \n#lec #lcs #worlds",
+        "videoId": "kDOM_x0HTGY",
+        "preview": "https://i.ytimg.com/vi/kDOM_x0HTGY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "Why I'm abusing Brand jungle and you should too",
+        "description": "➥Hecarim hard carry! https://youtu.be/4aZVd1r1F0g\r\n★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "yV9ew4KQFXU",
+        "preview": "https://i.ytimg.com/vi/yV9ew4KQFXU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "[Season 10] Hecarim Jungle Gameplay Guide - League of Legends",
+        "description": "How to play Hecarim jungle in season 10! \n➥Vi jungle! https://www.youtube.com/watch?v=FxqqmFdbNyc\n➥Nidalee guide https://www.youtube.com/watch?v=m7lmo3hB-_4\n\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\n\n★Follow my stream: http://fb.gg/foxdroplol\n★Follow me on Twitter: https://twitter.com/Foxdroplol\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "Mxstlwi8TOw",
+        "preview": "https://i.ytimg.com/vi/Mxstlwi8TOw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "xpetu",
+        "displayName": "xPetu",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz_5CN871Z8-EVXIVlGxJcVf1AfgyuCUiknWbk61A=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "UNLEASHING MY HECARIM TOP IN DIAMOND - Season 10 Hecarim Top Gameplay | League of Legends",
+        "description": "Hey, listen! Could you do me a favor? Like the video! Cheers.\nTo watch my streams, follow me on: https://www.twitch.tv/xpetu\n⇩ OPEN ME FOR MORE INFORMATION ⇩\n\n// SOCIALS //\n► STREAM - https://www.twitch.tv/xpetu\n► TWITTER - https://www.twitter.com/xpetu\n► DISCORD - https://discord.gg/4UdXswe\n\n// GAME INFORMATION //\nLeague of Legends Season 10 Full Gameplay Commentary\nChallenger Hecarim vs Diamond Jax Toplane Matchup Guide\nMy Accounts: https://euw.op.gg/multi/query=xpetu%2Cpetuex%2Cpetu%CE%B4\n\n// SHEN GUIDES //\n► The Ultimate Shen Guide: https://youtu.be/mRkLkMe8GRo\n► Updated Runes (Season 10): https://youtu.be/H_Wxk3DQ3KQ\n► Unranked to Challenger: https://www.youtube.com/playlist?list=PLpvdOzO2AknyeRoj-aT530vDJVJWdSvo2\n\n// FOR BUSINESS INQUIRIES AND SPONSORSHIPS //\n► petumontages@gmail.com\n\n// MUSIC USED //\n►Intro: Koven - Never Have I Felt This [NCS Release]\nhttps://youtu.be/-7fuHEEmEjs\n► Outro: Halvorsen - She Got Me Like [NCS Release]\nhttps://youtu.be/HSF3PneTBDU\n\n// ABOUT ME //\nHey, I'm Petu\nI'm a Shen main from Finland. I've reached Challenger on EU West and dominated EU Nordic East, hitting 1100LP in Season 7 (Rank 3). I started off making guides for Shen back in Season 6 and have been expanding my content ever since. Stay tuned for exciting and educational League of Legends content like:\n- UNRANKED TO CHALLENGER SERIES\n- BRAND NEW BUILDS AND RUNE SETUPS\n- CHALLENGER GAMEPLAY COMMENTARIES\n- GUIDES + TIPS AND TRICKS FOR SHEN AND LEAGUE IN GENERAL\n- LEAGUE OF LEGENDS STREAM HIGHLIGHTS\n\nRemember to SUBSCRIBE and click the NOTIFICATION BELL ICON to be notified when I upload a new video! LIKE and SHARE the video to help the channel grow and support me directly.\n\n#LeagueOfLegends #Challenger #Petu",
+        "videoId": "KkAmC4AB0oU",
+        "preview": "https://i.ytimg.com/vi/KkAmC4AB0oU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "xpetu",
+        "displayName": "xPetu",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz_5CN871Z8-EVXIVlGxJcVf1AfgyuCUiknWbk61A=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "MANAMUNE HECA WITH PRESENCE OF MIND AND CONQUEROR Season 10 Hecarim Top Gameplay | League of Legends",
+        "description": "FOLLOW ME ON TWITCH: https://www.twitch.tv/xpetu\nIf you enjoyed this video: LIKE & SUBSCRIBE :D!\n⇩ OPEN ME ⇩\n\n═════════════════════════\n\n//My Social Media//\n\n► Twitch: https://www.twitch.tv/xpetu\n\n► Twitter: https://www.twitter.com/xpetu\n\n► Discord: https://discord.gg/4UdXswe\n\n► Donate: https://streamlabs.com/petuthebeast\n\n//For business inquiries//\n\npetumontages@gmail.com\n\n//Music used//\n\n► Outro: Halvorsen - She Got Me Like [NCS Release]\nhttps://youtu.be/HSF3PneTBDU\n\n═════════════════════════\n\n//Who am I?//\n\nHey, I'm Petu\n\nI'm a finnish guy who likes to play Shen. I've reached Challenger on EU West and dominated the EU Nordic East server, hitting 1100LP in Season 7 (Rank 3). I started off making guides for Shen back in Season 6 and have been expanding my content ever since. As of today, the 27th of April 2019, my new PC is ready which means I can stream and upload high quality content for you guys much more often than I used to.\n\nStay tuned for exciting League of Legends content like:\n\n- UNRANKED TO CHALLENGER SERIES\n\n- BRAND NEW SHEN BUILDS AND RUNE SETUPS\n\n- CHALLENGER SHEN COMMENTARIES\n\n- GUIDES + TIPS AND TRICKS FOR SHEN AND LEAGUE IN GENERAL\n\n- LEAGUE OF LEGENDS STREAM HIGHLIGHTS\n\nHope I'll see you around :D!\n\n#Hecarim #Petu #Challenger\n\n═════════════════════════",
+        "videoId": "bDu_oftIFi8",
+        "preview": "https://i.ytimg.com/vi/bDu_oftIFi8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "xpetu",
+        "displayName": "xPetu",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz_5CN871Z8-EVXIVlGxJcVf1AfgyuCUiknWbk61A=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "CHALLENGER POCKET PICK - HECA TOP IS 100% FREELO Season 10 Hecarim Top Gameplay | League of Legends",
+        "description": "TO ALL MY VIEWERS:\nI am going to experiment with expanding my content from Shen only to other toplaners as well.\nThe positive feedback from you guys has been amazing this whole year and I feel like I'm only setting myself behind if I only make videos about Shen. I got EUW Challenger earlier this Season by just playing Hecarim, but I never made any videos about him because I felt like all you guys want is Shen. I will obviously keep making Shen videos primarily, just adding some more variety to my content by playing my other champions on top of that. Let me know your thoughts in the comments.\n\nI appreciate everyone of you guys!\nSincerely, Petu\n\n═════════════════════════\n\n//My Social Media//\n\n► Twitch: https://www.twitch.tv/xpetu\n\n► Twitter: https://www.twitter.com/xpetu\n\n► Discord: https://discord.gg/4UdXswe\n\n► Donate: https://streamlabs.com/petuthebeast\n\n//For business inquiries//\n\npetumontages@gmail.com\n\n//Music used//\n\n► Outro: Halvorsen - She Got Me Like [NCS Release]\nhttps://youtu.be/HSF3PneTBDU\n\n═════════════════════════\n\n//Who am I?//\n\nHey, I'm Petu\n\nI'm a finnish guy who likes to play Shen. I've reached Challenger on EU West and dominated the EU Nordic East server, hitting 1100LP in Season 7 (Rank 3). I started off making guides for Shen back in Season 6 and have been expanding my content ever since. As of today, the 27th of April 2019, my new PC is ready which means I can stream and upload high quality content for you guys much more often than I used to.\n\nStay tuned for exciting League of Legends content like:\n\n- UNRANKED TO CHALLENGER SERIES\n\n- BRAND NEW SHEN BUILDS AND RUNE SETUPS\n\n- CHALLENGER SHEN COMMENTARIES\n\n- GUIDES + TIPS AND TRICKS FOR SHEN AND LEAGUE IN GENERAL\n\n- LEAGUE OF LEGENDS STREAM HIGHLIGHTS\n\nHope I'll see you around :D!\n\n#Hecarim #Petu #Challenger\n\n═════════════════════════",
+        "videoId": "Tqyg9jMtjkA",
+        "preview": "https://i.ytimg.com/vi/Tqyg9jMtjkA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Surviving North American FIESTAS ! How Strong Is Xerath ?",
+        "description": "Do your solo queue games slowly devolve into a tilt-inducing, classic North American style fiesta ? Find out how Valkrin survives, overcomes, and comes out on top !\n\nLIKE, SUBSCRIBE, and make sure to hit that bell icon to stay notified on the latest videos !\n\n\"Literal ONE SHOT Hecarim in Masters !?\": https://youtu.be/xvcDEUCAENY\n\nWant to watch Valkrin play live and chat with him ? Follow him at: https://www.twitch.tv/valkrin\n\nBuy some limited time only Valkrin/Chewy themed merchandise at:\nhttps://merch.streamelements.com/collections/valkrin\n\nJoin the community Discord: https://discord.gg/3ZKrxVc\n\nFacebook: https://www.facebook.com/Valkrin\nTwitter: https://twitter.com/Valkrin\n\nEditor: https://twitter.com/Happyface3739",
+        "videoId": "0uK6KmRzW-Q",
+        "preview": "https://i.ytimg.com/vi/0uK6KmRzW-Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Literal ONE SHOT Hecarim in Masters !?",
+        "description": "Is Hecarim OP ? Valkrin sure seems to think so ! Find out how you could be stomping your solo queue games with this obscure Hecarim build that literally ONE SHOTS enemies !\n\nLIKE, SUBSCRIBE, and make sure to hit that bell icon to stay notified on the latest videos !\n\n\"Twitch Prime Rewards ! Valkrin Plays Bot Lane !\": https://youtu.be/ouOD54GGv1g\n\nWant to watch Valkrin play live and chat with him ? Follow him at: https://www.twitch.tv/valkrin\n\nBuy some limited time only Valkrin/Chewy themed merchandise at:\nhttps://merch.streamelements.com/collections/valkrin\n\nJoin the community Discord: https://discord.gg/3ZKrxVc\n\nFacebook: https://www.facebook.com/Valkrin\nTwitter: https://twitter.com/Valkrin\n\nEditor: https://twitter.com/Happyface3739",
+        "videoId": "xvcDEUCAENY",
+        "preview": "https://i.ytimg.com/vi/xvcDEUCAENY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Clown Fiesta Diamond Game vs. IWDominate",
+        "description": "This was a hilarious low Diamond game that IWdominate and Valkrin got pulled into because of problems with match-making. Challenger and master tier players should absolutely not be put in games in low Diamond players. Valkrin was playing Rumble Jungle and IWdominate was playing Hecarim jungle. This was a Clown Fiesta Diamond Game if I've ever seen one.\n\nIwdominate twitch: http://www.twitch.tv/IWillDominate\nValkrin: https://www.twitch.tv/valkrin",
+        "videoId": "t6RdK1OFD9o",
+        "preview": "https://i.ytimg.com/vi/t6RdK1OFD9o/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Annie Bot (Jared) and Valkrin Flame Solo Queue",
+        "description": "Annie bot (jared) https://www.youtube.com/user/AnnieBotNA\n                               https://www.twitch.tv/anniebot\n\nIn this video, I discover a Lee Sin playing on the worst computer capable of running League of Legends. Annie Bot and I proceed to have the most entertaining moments we've ever had on my stream. I played Veigar, Kha'zix jungle, Hecarim jungle, and Kayle jungle. Jared played Annie. \n\nValkrin https://www.twitch.tv/valkrin\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP",
+        "videoId": "bLCqbFatwuw",
+        "preview": "https://i.ytimg.com/vi/bLCqbFatwuw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Valkrin - HECARIM BASE RACE",
+        "description": "Fun game that at one point turned into a base race.\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven - Feel Like Horrible (feat. Sian) [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "Vcze9TqKvpg",
+        "preview": "https://i.ytimg.com/vi/Vcze9TqKvpg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Valkrin - Hecarim Master Promos against Froggen (Varus) and ghosters?",
+        "description": "This game happened before this week when I was in master promos on my main account. In this game, I was against Froggen (enemy varus) and potentially some ghosters. The Lee Sin's decisions were very strange and he kept showing up at the perfect moments. This game showcases how to deal with falling behind. The idea is that when you fall behind in League of Legends, you probably won't be able to win a lot of 1v1s so your goal should be to farm whenever possible and group with the team and go for team centered plays. If you catch back up then you should go back to a more aggressive approach but until then, you'll be better off only going for really out of position low hp carries or just sticking with your team if you can't farm anything.\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven - Feel Like Horrible (feat. Sian) [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "vSg-peWRgR8",
+        "preview": "https://i.ytimg.com/vi/vSg-peWRgR8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Unstoppable Hecarim",
+        "description": "Hecarim is honestly one of the strongest non banned champions on this patch. He can abuse lethality while also being able to build tank if necessary to counter compositions that are unable to safely deal with an unstoppable tank, assassin Hecarim. There's a lot of ways to itemize on Hecarim but the most sucessful way is to early buy Trinity force and transition to full tank as soon as possible. If your team already has a big tanky frontline then you can go for a squishier lethality build on Hecarim and go for 1 shots on the backline. However, it's a lot easier and safer to win with a tankier build on Hecarim.\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven - Feel Like Horrible (feat. Sian) [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "zcCnCPrIW2M",
+        "preview": "https://i.ytimg.com/vi/zcCnCPrIW2M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "New Lethality build Hecarim! Patch 7.2",
+        "description": "A game with Hecarim with new Lethality build. I definitely would rather have built tank this game lol but I just wanted to try out new lethality on him.\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven - Feel Like Horrible (feat. Sian) [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "zdopUuB1anU",
+        "preview": "https://i.ytimg.com/vi/zdopUuB1anU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "How to Make Hecarim broken in patch 7.2",
+        "description": "Hecarim is super broken still and an amazingly strong solo queue jungler. He has great mobility / damage to get fed and when you transition into a tank he turns into a 1v5 god.\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Cartoon - C U Again feat. Mikk Mäe (Cartoon vs Futuristik VIP) [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "AXIz5PIIcWM",
+        "preview": "https://i.ytimg.com/vi/AXIz5PIIcWM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "New Warwick OP?",
+        "description": "My first game on the new Warwick. I think the proper way to play him will probably to not max his Q ability first. That is because the mana cost goes way up and the damage doesn't go up that much. It's probably better to max his W ability first to make his ganks a lot stronger. 2nd ability to max might end up being E because that'll be when teamfights begin but also make his dueling even stronger.\n\nFor item build, I think you're going to have to end up going tank instead of bloodrazor. Cinderhulk / trinity force mid game might be core on him (similar reasons as why you build it on hecarim). Although, I really liked the tiamat on him for the jungle clear so I'm still very unsure on how I'd itemize him\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Cartoon - C U Again feat. Mikk Mäe (Cartoon vs Futuristik VIP) [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "NCjdk2pqq74",
+        "preview": "https://i.ytimg.com/vi/NCjdk2pqq74/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Valkrin against Scarra - HECARIM IS STILL BUSTED!",
+        "description": "When I face off with my old school op Hecarim vs. Scarra...\n\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven & Sian Area - Feel Like Horrible [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "VBIfQpaKFOk",
+        "preview": "https://i.ytimg.com/vi/VBIfQpaKFOk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "randomonium",
+        "displayName": "Randomonium",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxHfeR4Scoojg8gwnM5HYhg1LNs6Nq17c4wV8zvag=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-21T07:00:00Z",
+        "title": "Beginner's Guide to Divers: Part 2 (Hecarim, Rek'Sai, Renekton, Rengar)",
+        "description": "Discord: https://discord.gg/T2nRrfM\n\nHecarim Mains: https://www.reddit.com/r/HecarimMains/ \nCommando Yi: https://www.youtube.com/user/Duffman319/ \n\nRek’Sai Mains: https://www.reddit.com/r/reksaimains/ \nPhsyrik: https://www.twitch.tv/psyrikgames\nSirJakeDeJuke: https://www.youtube.com/channel/UC0Vsg2sk4pRkL8hRt94VklA\nRolbac: https://www.twitch.tv/logiiyt/clips?tt_content=player_profile_img \n\nRenekton Mains: https://www.reddit.com/r/RenektonMains/\nRenektonTopOnly: https://www.youtube.com/channel/UCKfAzHq5tIEi8pTUOZ9gdCw\nOwnageNation: https://www.youtube.com/channel/UC_TAEYL6az62q4PUzUhdejg\nXerox1922: https://www.youtube.com/channel/UC9plIr0g925p0PQYKuudzrQ\n\nRTO’s Ultimate Guide to Renekton:\nPart 1: https://www.youtube.com/watch?v=Hc2O-81b-OQ\nPart 2: https://www.youtube.com/watch?v=rnzzIhxI5Zs\nPart 3: https://www.youtube.com/watch?v=JsbV25zpg5Q&t=20s\n\nRengar Mains: https://www.reddit.com/r/Rengarmains/\n\nPatreon: https://www.patreon.com/Randomonium",
+        "videoId": "IGI20yPue4k",
+        "preview": "https://i.ytimg.com/vi/IGI20yPue4k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "dyrus",
+        "displayName": "Dyrus",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJw5Nk6ujtuZ7qUOt25Fr_Fnn9h7nbMAOrF6yOb5=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-20T07:00:00Z",
+        "title": "DYRUS | PRAY FOR THIS HECARIM",
+        "description": "2nd Youtube channel for variety content: https://www.youtube.com/channel/UCsErcOWwuCk5osdsbDvjOnQ\n\nSocial Media\nTWITCH • http://www.twitch.tv/Dyrus\nTWITTER • https://twitter.com/Dyrus\nDISCORD: https://discord.gg/Dyrus\nINSTAGRAM • https://www.instagram.com/dyrusgram/\nFACEBOOK • https://www.facebook.com/loldyrus\nTUMBLR • http://dyrus.tumblr.com/\n\nEdited By:\nTwitter • https://twitter.com/MotionSpook\n\n\nP.O Box \n\n\nThumbnail by: https://twitter.com/Naeqo\nIntro by:  http://www.hyunsdojo.com/\nIntro song made by: https://twitter.com/iamcherishh\n\nDyrus, League of Legends, TSM, Team Solo Mid, Delta Fox, Darius, Singed, Top Lane, Twitch Streamer, Highlights, Streaming",
+        "videoId": "dXCJQBoHuYM",
+        "preview": "https://i.ytimg.com/vi/dXCJQBoHuYM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-10T13:00:34Z",
+        "title": "Why I'm abusing Brand jungle and you should too",
+        "description": "➥Hecarim hard carry! https://youtu.be/4aZVd1r1F0g\r\n★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "yV9ew4KQFXU",
+        "preview": "https://i.ytimg.com/vi/yV9ew4KQFXU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-12-04T18:38:54Z",
+        "title": "Shadow Isle Card Special Interactions - Thresh, Elise, Hecarim, Kalista etc",
+        "description": "Special/Hidden/Secret Interactions for the Shadow Isle Cards in Legends of Runeterra.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows Arrival interactions as well as deaths and victory of cards from Shadow Isle such as Thresh, Elise, Hecarim and Kalista.\n\nThe interactions trigger by the left card being in play and then the card on the right arriving.\nThresh, Elise, Hecarim, Kalista and other cards from Shadow Isle will appear in other region videos as they have other unique lines for when other cards in play first and they arrive onto the board.\n\nStay upto date with information by following me on twitter:\nhttps://twitter.com/SkinSpotlights",
+        "videoId": "5W6AM5aasqU",
+        "preview": "https://i.ytimg.com/vi/5W6AM5aasqU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-10-16T13:00:08Z",
+        "title": "Nightblue3 Reacts to NEW League FPS, MMO, ANIME, FIGHTING GAME, SEASON 10 LoL, MOBILE LoL, CARD GAME",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://www.youtube.com/watch?v=pWgCqidDSvQ\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: HECARIM JUNGLE IS GOD TIER NOW!!! THIS IS HOW YOU TILT QIYANA PLAYERS | FAKER LEVEL MECHANICS https://youtu.be/pWgCqidDSvQ\n\n\n► Intro song: https://youtu.be/XFflwRnn2Ts \n► Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "RLTa1RMrxK8",
+        "preview": "https://i.ytimg.com/vi/RLTa1RMrxK8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-10-13T15:00:07Z",
+        "title": "HECARIM JUNGLE IS GOD TIER NOW!!! THIS IS HOW YOU TILT QIYANA PLAYERS | FAKER LEVEL MECHANICS",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://www.youtube.com/watch?v=2eInjsmzIKk\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: FIORA BUFFS MADE HER A MONSTER!!! FIORA JUNGLE OBLITERATES TOWERS NOW | NEXT LEVEL REFLEX|BIG DAMAGE https://youtu.be/2eInjsmzIKk\n\n\n►Edited by: https://twitter.com/ryscu_\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "pWgCqidDSvQ",
+        "preview": "https://i.ytimg.com/vi/pWgCqidDSvQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-10-07T16:52:51Z",
+        "title": "High Noon Hecarim Skin Spotlight - League of Legends",
+        "description": "League of Legends High Noon Hecarim Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Hecarim on their High Noon Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "P3eMOkkK1wE",
+        "preview": "https://i.ytimg.com/vi/P3eMOkkK1wE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-30T18:49:57Z",
+        "title": "New Best Solo Queue Champions for Patch 9.19 for Climbing in EVERY ROLE",
+        "description": "Thanks to Mobalytics for the builds! - https://moba.lol/2IzxqUf \nLet's check out the best champions right now for climbing quickly\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nTimestamps\nADC = start\nMid = 2:51\nJungle = 5:02\nTop = 7:26\nSupport = 9:29\n\nADC\nTop tier = Jinx, Ashe, Lucian, Kai'sa, Xayah, Jhin, Caitlyn, Vayne\n1 = Caitlyn\n2 = Ashe\n3 = Jinx\nHM = Vayne\n\nMid \nTop tier = Ahri, Orianna, Ekko, Twisted Fate, Fizz, Kassadin, Zed, Katarina\n1 = Ahri\n2 = Orianna - graphic\n3 = Ekko\nHM = Twisted Fate\n\nJungle \nTop tier = Zac, Mundo, Kha'zix, Jarvan, Hecarim, Evelynn,Ekko, Elise\n1 = Ekko\n2 = Zac \n3 = Kha'zix \nHM = Evelynn\n\nTop \nTop tier = Pantheon, Jax, Renekton, Darius, Mordekaiser, Riven, Kayle, Fiora\n1 = Fiora\n2 = Mordekaiser\n3 = Jax\nHM = Kayle\n\nSupport\nTop tier = Nautilus, Leona, Janna, Blitzcrank, Thresh, Pyke, Morgana, Rakan\n1 = Blitzcrank\n2 = Nautilus \n3 = Morgana \nHM = Pyke\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Solo Queue Champions for Patch 9.19 for Climbing in EVERY ROLE",
+        "videoId": "cAA2P3Olt7Q",
+        "preview": "https://i.ytimg.com/vi/cAA2P3Olt7Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-25T07:20:03Z",
+        "title": "High Noon Hecarim Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of High Noon Hecarim with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 1350RP\n\nSkin name is CONFIRMED as High Noon Hecarim, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "yjBubcOqHcI",
+        "preview": "https://i.ytimg.com/vi/yjBubcOqHcI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-17T17:48:39Z",
+        "title": "New Best Solo Queue Champions for Patch 9.18 for Climbing in EVERY ROLE",
+        "description": "Join my Ikon club, play 5 challenges each week to enter to win 5000 RP card! = https://bitly.com/phyters\nLet's check out the best champions right now in the game! \n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nTimestamps\nADC = start\nMid = 3:15\nJungle = 5:21\nTop = 7:21\nSupport = 9:15\n\nADC\nTop tier = Jinx, Ashe, Lucian, Kai'sa, Xayah, Jhin, Caitlyn, Vayne\n1 = Caitlyn\n2 = Jhin\n3 = Kai'sa\nHM = Ashe\n\nMid \nTop tier = Ahri, Sylas, Ekko, Syndra, Fizz, Kassadin, Zoe, Qiyana\n1 = Ekko\n2 = Fizz\n3 = Kassadin\nHM = Zoe\n\nJungle \nTop tier = Sylas, Mundo, Kha'zix, Jarvan, Hecarim, Gragas,Vi, Elise\n1 = Kha'zix\n2 = Mundo \n3 = Jarvan \nHM = Hecarim\n\nTop \nTop tier = Pantheon, Jax, Renekton, Darius, Mordekaiser, Kled, Irelia, Fiora\n1 = Pantheon\n2 = Jax\n3 = Renekton\nHM = Mordekaiser\n\nSupport\nTop tier = Nautilus, Leona, Janna, Nami, Thresh, Pyke, Morgana, Rakan\n1 = Pyke\n2 = Janna \n3 = Leona \nHM = Nautilus\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Solo Queue Champions for Patch 9.18 for Climbing in EVERY ROLE",
+        "videoId": "2qiSyWkyY9E",
+        "preview": "https://i.ytimg.com/vi/2qiSyWkyY9E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-02T18:09:09Z",
+        "title": "New Best Solo Queue Champions for Patch 9.17 for Climbing in EVERY ROLE",
+        "description": "Time to look at what is top tier in Patch 9.17 for solo queue!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC = start\nMid = 2:49\nJungle = 5:11\nTop = 7:33\nSupport = 9:42\n\nADC\n-Jinx, Ashe, Lucian, Kai'sa, Xayah, Jhin, Caitlyn, Vayne\n1 = Jinx\n2 = Lucian\n3 =  Xayah\nHM = Vayne\n\nMid \n-Ahri, Sylas, Akali, Syndra, Yasuo, Zed, Malzahar, Qiyana\n1 = Akali \n2 = Qiyana\n3 =  Sylas \nHM = Malzahar\n\nJungle\n-Nunu, Mundo, Kha'zix, Jarvan, Hecarim, Gragas,Vi, Elise\n1 = Nunu \n2 = Kha'zix\n3 = Gragas\nHM = Mundo \n\nTop \n-Pantheon, Aatrox, Renekton, Darius, Mordekaiser, Kled, Irelia, Fiora\n1 = Pantheon\n2 = Aatrox\n3 = Kled\nHM = Irelia\n\nSupport \n-Nautilus, Leona, Janna, Nami, Thresh, Pyke, Morgana, Rakan\n1 = Nautilus\n2 = Leona\n3 = Thresh\nHM = Morgana\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Solo Queue Champions for Patch 9.17 for Climbing in EVERY ROLE",
+        "videoId": "mOwhTCdFTXs",
+        "preview": "https://i.ytimg.com/vi/mOwhTCdFTXs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-16T17:39:40Z",
+        "title": "New Best Solo Queue Champions for Patch 9.16 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champs in 9.16!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC = start\nMid = 2:53\nJungle = 4:55\nTop = 7:03\nSupport = 9:04\n\nADC\nTop Tier\n-Jinx, Kai'sa, Lucian, Xayah, Ashe, Jhin, Sivir, Caitlyn\n1 = Kai'sa\n2 = Jinx\n3 =  Xayah\nHM = Lucian\n\nMid \nTop Tier \n-Ahri, Zed, Akali, Sylas, Syndra, Kassadin, Fizz, Yasuo\n1 = Akali \n2 = Yasuo\n3 =  Sylas \nHM = Syndra\n\nJungle\nTop Tier\n-Jarvan, Elise, Kha'zix, Hecarim, Nunu, Kayn, Vi, Karthus\n1 = Kha'zix \n2 = Elise\n3 = Nunu\nHM = Karthus \n\nTop \nTop Tier\n-Aatrox, Darius, Fiora, Jax, Pantheon, Renekton, Riven, Akali\n1 = Aatrox\n2 = Fiora\n3 = Jax\nHM = Pantheon\n\nSupport \nTop Tier\n-Thresh, Pyke, Lux, Janna, Rakan, Nautilus, Morgana, Nami\n1 = Lux\n2 = Pyke\n3 = Janna\nHM = Nautilus\n\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Solo Queue Champions for Patch 9.16 for Climbing in EVERY ROLE",
+        "videoId": "n5hIvWxo1As",
+        "preview": "https://i.ytimg.com/vi/n5hIvWxo1As/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-04T17:49:39Z",
+        "title": "New Best Champions for Patch 9.15 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champs in 9.15!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC = start\nMid = 2:56\nJungle = 5:04\nTop = 7:18\nSupport = 9:12\n\nADC\nTop Tier\n-Jinx, Sivir, Caitlyn, Kai'sa, Ezreal, Jhin, Draven, Xayah\n1 = Ez/Kai'sa\n2 = Jinx\n3 =  Caitlyn\nHM = Sivir \n\nMid \nTop Tier \n-Zed, Ahri, Akali, Yasuo, Katarina, Fizz, Talon, Corki\n1 = Zed \n2 = Corki\n3 =  Akali\nHM = Fizz\n\nJungle\nTop Tier\n-Jarvan, Kha'Zix, Vi, Nunu, Kayn, Elise, Hecarim, Lee\n1 = Kha'zix \n2 = Jarvan\n3 = Vi \nHM = Elise \n\nTop \nTop Tier\n-Aatrox, Darius, Riven, Renekton, Kled, Irelia, Morde, Illaoi\n1 = Darius \n2 = Aatrox \n3 = Riven \nHM = Kled \n\nSupport \nTop Tier\n-Thresh, Pyke, Janna, Soraka, Yuumi, Nami, Rakan, Nautilus\n1 = Pyke (change order)\n2 = Janna (change keystone to aery)\n3 = Thresh\nHM = Rakan\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.15 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "ONnU1iVJHoc",
+        "preview": "https://i.ytimg.com/vi/ONnU1iVJHoc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-22T16:46:50Z",
+        "title": "New Best Champions for Patch 9.14 Season 9 for Climbing in EVERY ROLE",
+        "description": "Join my Qlub and start earning RP! - https://bitly.com/phyters\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC = start\nMid = 2:52\nJungle = 5:04\nTop = 7:04\nSupport = 9:00\n\nADC\n1 = Jinx\n2 = Jhin \n3 = Kai'sa \nHM = Vayne \n\nMid (Zed/Ahri as well)\n1 = Katarina \n2 = Fizz\n3 = Talon\nHM = Qiyana \n\nJungle (Elise/J4 as well)\n1 = Hecarim \n2 = Kayn-\n3 = Evelynn \nHM = Volibear \n\nTop \n1 = Darius \n2 = Renekton\n3 = Kled \nHM = Riven\n\nSupport \n1 = Thresh \n2 = Pyke\n3 = Nami\nHM/Low = Blitzcrank\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.14 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "LjZjQCqCoKg",
+        "preview": "https://i.ytimg.com/vi/LjZjQCqCoKg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-01T17:20:17Z",
+        "title": "New Best Champions for Patch 9.13 Season 9 for Climbing in EVERY ROLE",
+        "description": "Timestamps / list of champions down below!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC = start\nMid = 2:32\nJungle = 4:38\nTop = 6:56\nSupport = 9:12\n\nADC\n1 = Jinx\n2 = Ashe\n3 = Sivir\nHM = Caitlyn\n\nMid \n1 = Zed\n2 = Ahri\n3 = Katarina\nHM/Low = Malzahar \n\nJungle\n1 = Jarvan \n2 = Kayn \n3 = Hecarim \nHM/Low = Rengar \n\nTop \n1 = Morde \n2 = Darius\n3 = Aatrox \nHM/Low = Illaoi\n\nSupport \n1 = Lux \n2 = Thresh\n3 = Nami\nHM/Low = Janna\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.13 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "H_cG5dicT5g",
+        "preview": "https://i.ytimg.com/vi/H_cG5dicT5g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-06-18T17:33:08Z",
+        "title": "New Best Champions for Patch 9.12 Season 9 for Climbing in EVERY ROLE",
+        "description": "Timestamps / list of champions down below!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nMid = start\nJungle = 2:43\nTop = 4:56\nSupport = 7:02\nADC = 9:19\n\nMid \n1 = Zed\n2 = Ahri\n3 = Ryze\nHM/Low = Fizz\n\nJungle\n1 = Hecarim \n2 = Sejuani \n3 = Vi \nHM/Low = Amumu \n\nTop \n1 = Morde \n2 = Darius\n3 = Riven \nHM/Low = Volibear\n\nSupport \n1 = Karma \n2 = Lux\n3 = Janna\nHM = Zyra\n\nADC\n1 = Sivir\n2 = Jinx\n3 = Xayah\nHM = Caitlyn\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.12 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "hjU3251e9Fc",
+        "preview": "https://i.ytimg.com/vi/hjU3251e9Fc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-06-04T17:54:51Z",
+        "title": "New Best Champions for Patch 9.11 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champs for 9.11 with builds and runes!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC - start\nMid – 2:32\nJungle – 4:48 \nTop – 7:13\nSupport - 9:30\n\nADC\n1 = Sivir\n2 = Jinx\n3 = Xayah\nHM = Kai'sa\n\nMid \n1 = Sylas \n2 = Zed\n3 = Katarina\nHM = Malzahar\n\nJungle\n1 = Hecarim \n2 = Sejuani \n3 = Kayn \nHM = Elise \n\nTop \n1 = Aatrox \n2 = Darius\n3 = Tahm \nHM = Urgot\n\nSupport \n1 = Nautilus \n2 = Janna\n3 = Lux\nHM = Nami\n\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.11 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "lQrNfYVMnn0",
+        "preview": "https://i.ytimg.com/vi/lQrNfYVMnn0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-19T17:53:51Z",
+        "title": "New Best Champions for Patch 9.10 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champs for 9.10 with builds and runes!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nADC - start\nMid – 2:37\nJungle – 4:50 \nTop – 7:10\nSupport - 9:07\n\nADC \n1 = Jinx \n2 = Sivir\n3 = Kai'sa\nNew = Xayah\n\nMid\n1 = Sylas \n2 = Lux\n3 = Ahri\nHM = Akali\n\nJungle\n1 = Karthus\n2 = Rammus\n3 = Hecarim\nHM = Amumu\n\nTop \n1 = Aatrox\n2 = Darius\n3 = Jax \nHM = Tryndamere\n\nSupport \n1 = Nautilus\n2 = Nami\n3 = Pyke\nHM = Lux\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions for Patch 9.10 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "yFezxbLZR98",
+        "preview": "https://i.ytimg.com/vi/yFezxbLZR98/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-07T17:27:52Z",
+        "title": "New Best Champions for Patch 9.9 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champions now in 9.9!\nCheck out mobalytics, improve and climb! - https://moba.lol/2Glq8Rk\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nADC - start\nMid – 2:57\nJungle – 5:35 \nTop – 7:39\nSupport - 9:48\n\nADC \nBest = Jinx \nRunner up = Vayne\nRunner up = Kai'sa\nHM = Draven\n\nMid\nBest = Ahri\nRunner up = Lux \nRunner up = Zed\nHM = Neeko\n\nJungle\nBest = Amumu\nRunner up = Hecarim\nRunner up = Kayn\nHM = Master Yi \n\nTop \nBest = Darius\nRunner up = Riven\nRunner up = Urgot\nHM = Nasus\n\nSupport \nBest = Nautilus\nRunner up = Lux\nRunner up = Thresh\nHM = Sona\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions for Patch 9.9 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "npHTCsi2sW8",
+        "preview": "https://i.ytimg.com/vi/npHTCsi2sW8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-04-23T18:51:44Z",
+        "title": "New Best Champions for Patch 9.8 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champions now in 9.8!\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nADC - start\nMid – 2:34\nJungle – 4:54 \nTop – 7:26\nSupport - 9:41\n\nADC\nBest = Jinx \nBetter = Sivir\nRunner up = Vayne\nHM = Jhin\n\nMid \nBest = Ahri\nBetter = Lux \nRunner up = Morgana\nHM = Fizz\n\nJungle \nBest higher = Hecarim \nBest lower = Master Yi\nBetter = Amumu\nHM = Jarvan\n\nTop \nBest = Riven\nBetter = Renekton\nRunner up = Jax\nHM = Kayle\n\nSupport \nBest = Sona \nBetter = Nautilu\nRunner up = Nami \n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions for Patch 9.8 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "pE0JHBWTTsI",
+        "preview": "https://i.ytimg.com/vi/pE0JHBWTTsI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "tbskyen",
+        "displayName": "T B Skyen",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyshPYFo6beJdHT__q8zRw6nZd_6qJO0Jx_bk9rUg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-04-19T15:00:01Z",
+        "title": "What's the deal with Hecarim? || character design & lore analysis",
+        "description": "Donate: https://streamlabs.com/TBSkyen\nTip me on Ko-Fi: https://ko-fi.com/TBSkyen\nSupport the channel on Patreon: Patreon: http://patreon.com/castercomix\n---\nVlog channel: https://www.youtube.com/channel/UCLid2gDn3uhmyGLycvHOLFw\nTwitter: http://twitter.com/tbskyen\nJoin the channel discord: (limited use)\n--------",
+        "videoId": "N6B96S2rN3U",
+        "preview": "https://i.ytimg.com/vi/N6B96S2rN3U/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-03-25T18:48:48Z",
+        "title": "New Best Champions for Patch 9.6 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the new best champs in 9.6!\nLinks to the profiles on Mobalytics for more info:\nKayle = https://lol.mobalytics.gg/summoner/euw/theshackledone/match-history?champion=10&game-types=all&patch=all&role=all&season=13\nCaitlyn = https://lol.mobalytics.gg/summoner/na/xfsn%20saber/match-history?champion=51&game-types=all&patch=all&role=all&season=13\nLux = https://lol.mobalytics.gg/summoner/kr/szpt/match-history?champion=99&game-types=all&patch=all&role=all&season=13\nJarvan = https://lol.mobalytics.gg/summoner/kr/%EC%96%91%EC%96%91%EC%95%84%EA%B8%B0/match-history?champion=59&game-types=all&patch=all&role=all&season=13\nFiddlesticks = https://lol.mobalytics.gg/summoner/na/topsologg/match-history?champion=9&game-types=all&patch=all&role=all&season=13\n\nTimestamps\nTop - start\nADC - 2:42\nMid – 4:52\nJungle - 6:52\nSupport - 9:00 \n\nADC \nBest = Vayne\nRunner up = Jinx\nNew = Caitlyn\nBetter = Kai'sa\n\nMid \nBest = Zed\nRunner up = Sylas\nNew = Morgana\nBetter = Lux\n\nJungle \nBest = Jarvan\nRunner up = Rek'sai\nRunner up = Vi\nNew = Udyr\n\nTop \nNew = Hecarim\nNew = Urgot\nBest = Kayle\nRunner up = Riven \n\nSupport\nBest = Morgana \nRunner up = Thresh\nNew = Fiddle\nBetter = Sona\n\n\n♦ Streaming live! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions for Patch 9.6 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "mEWrcC2ZBLk",
+        "preview": "https://i.ytimg.com/vi/mEWrcC2ZBLk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-03-10T12:11:59Z",
+        "title": "WHEN THE #1 RANK PYKE NA CARRIES TF BLADE HECARIM! SEASON 9 - League of Legends",
+        "description": "WHEN THE #1 RANK PYKE NA GOES VS TF BLADE HECARIM! BEST PYKE NA DESTORYS TF BLADE! LEAGUE OF LEGENDS SEASON 9 PYKE SUPPORT GAMEPLAY\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n----------------------------------------\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/Hanjarolol\n\nEditor - PJEdits\n\n#Hanjaro #HanjaroLOL #BestPyke",
+        "videoId": "xPtHnJ4OA8s",
+        "preview": "https://i.ytimg.com/vi/xPtHnJ4OA8s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-03-04T18:43:35Z",
+        "title": "12 Weird Builds from Korean Challenger that actually work Season 9",
+        "description": "You've been asking for this for ages so here you go!\nProfile pages on Mobalytics-\nKassadin = https://lol.mobalytics.gg/summoner/kr/%EB%B6%84%EB%85%B8%EA%B4%80%EB%A6%AC%EB%B3%91%20%EC%95%A0%EB%94%94/match-history?champion=38&game-types=all&patch=all&role=all&season=13\nRiven = https://lol.mobalytics.gg/summoner/kr/%EB%B1%80%EC%9D%98%ED%98%80%EB%A5%BC%EB%AF%BF%EC%A7%80%EB%A7%88%EB%9D%BC/match-history?champion=92&game-types=all&patch=all&role=all&season=13\nhecarim= https://lol.mobalytics.gg/summoner/kr/gen%20g%20cuvee/match-history?champion=120&game-types=all&patch=all&role=all&season=13\nlee = https://lol.mobalytics.gg/summoner/kr/%ED%83%80%20%EC%9E%94/match-history?champion=64&game-types=all&patch=all&role=all&season=13\ntaliyah bot lane = https://lol.mobalytics.gg/summoner/kr/silverbullet99/match-history?champion=163&game-types=all&patch=all&role=adc&season=13\nrengar = https://lol.mobalytics.gg/summoner/kr/observatlon/match-history?champion=107&game-types=all&patch=all&role=all&season=13\nzilean = https://lol.mobalytics.gg/summoner/kr/%EB%A7%88%EA%B2%80%EB%8A%90/match-history?champion=26&game-types=all&patch=all&role=all&season=13\n\nSona = https://lol.mobalytics.gg/summoner/kr/%ED%98%9C%EC%A7%80%EC%99%80%20%EB%8F%99%EA%B8%89/match-history?champion=37&game-types=all&patch=all&role=all&season=13\nKalista = https://lol.mobalytics.gg/summoner/kr/%EC%99%95%EB%B3%BC%EB%B0%B0/match-history?champion=429&game-types=all&patch=all&role=all&season=13\nJarvan = https://lol.mobalytics.gg/summoner/kr/anihcniedam/match-history?champion=59&game-types=all&patch=all&role=all&season=13 \nNocturne = https://lol.mobalytics.gg/summoner/kr/%ED%8B%B0%EC%A7%95%EC%9D%B4/match-history?champion=56&game-types=all&patch=all&role=all&season=13\nQuinn = https://lol.mobalytics.gg/summoner/kr/mulda%20mulda/match-history?champion=133&game-types=all&patch=all&role=all&season=13\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n12 Weird Builds from Korean Challenger that actually work",
+        "videoId": "yxSAbl08WCc",
+        "preview": "https://i.ytimg.com/vi/yxSAbl08WCc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-12-17T16:42:06Z",
+        "title": "NASUS JUNGLE......700 STACKS AT 20 MINUTES | I ALMOST LOST MY MIND!!! - Trick2G",
+        "description": "Don't forget to leave a like and \"LATA\" in the comments!! Likes really help guys ty... 😍\nSub for DAILY uploads: http://bit.ly/YTTrick2g\nClick the 🔔 for notifications! NOW\n\nPrevious Video ➡️  https://www.youtube.com/watch?v=QG40-YGFLMs LEVEL 1 TRIPLE DOT POGGERS\n\n\nFurther support me & the channel:\nNeed a new headset?!?! Get the best gaming headsets by Sennheiser ➡️ http://sennheiser.evyy.net/c/254410/244439/4104\n\n\nFollow #Trick2g here: \nTwitter: https://twitter.com/Trick2g\nInstagram for daily posts: https://www.instagram.com/trick2g/\nTwitch: https://www.twitch.tv/trick2g\n\n\nSend fan mail:\nTrick2G LLC \nP.O. Box 38384 \nHenrico, VA 23231\n*Size M/L for clothes*\n\n\nCredits:\nEditor ➡️ DeadEye http://bit.ly/DeadEyeDP\nThumbnail ➡️  Lilly https://twitter.com/Lillyvnv\nIntro song ➡️  \"Broken\" https://soundcloud.com/alasen\nOutro song ➡️ https://www.youtube.com/watch?v=ZdYBNNfhVN0\n\n\nContribute & translate my videos ➡️  http://bit.ly/2h94lj8\n\nI LOVE YOU\nNasus jungle, nasus buffs, Udyr top vs Hecarim, Trick2g Nasus, Trick2g Udyr\n#Nasus #Jungle #Udyr",
+        "videoId": "pT6xrnsSdow",
+        "preview": "https://i.ytimg.com/vi/pT6xrnsSdow/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-11-10T10:33:38Z",
+        "title": "Surviving North American FIESTAS ! How Strong Is Xerath ?",
+        "description": "Do your solo queue games slowly devolve into a tilt-inducing, classic North American style fiesta ? Find out how Valkrin survives, overcomes, and comes out on top !\n\nLIKE, SUBSCRIBE, and make sure to hit that bell icon to stay notified on the latest videos !\n\n\"Literal ONE SHOT Hecarim in Masters !?\": https://youtu.be/xvcDEUCAENY\n\nWant to watch Valkrin play live and chat with him ? Follow him at: https://www.twitch.tv/valkrin\n\nBuy some limited time only Valkrin/Chewy themed merchandise at:\nhttps://merch.streamelements.com/collections/valkrin\n\nJoin the community Discord: https://discord.gg/3ZKrxVc\n\nFacebook: https://www.facebook.com/Valkrin\nTwitter: https://twitter.com/Valkrin\n\nEditor: https://twitter.com/Happyface3739",
+        "videoId": "0uK6KmRzW-Q",
+        "preview": "https://i.ytimg.com/vi/0uK6KmRzW-Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-11-09T12:21:06Z",
+        "title": "Literal ONE SHOT Hecarim in Masters !?",
+        "description": "Is Hecarim OP ? Valkrin sure seems to think so ! Find out how you could be stomping your solo queue games with this obscure Hecarim build that literally ONE SHOTS enemies !\n\nLIKE, SUBSCRIBE, and make sure to hit that bell icon to stay notified on the latest videos !\n\n\"Twitch Prime Rewards ! Valkrin Plays Bot Lane !\": https://youtu.be/ouOD54GGv1g\n\nWant to watch Valkrin play live and chat with him ? Follow him at: https://www.twitch.tv/valkrin\n\nBuy some limited time only Valkrin/Chewy themed merchandise at:\nhttps://merch.streamelements.com/collections/valkrin\n\nJoin the community Discord: https://discord.gg/3ZKrxVc\n\nFacebook: https://www.facebook.com/Valkrin\nTwitter: https://twitter.com/Valkrin\n\nEditor: https://twitter.com/Happyface3739",
+        "videoId": "xvcDEUCAENY",
+        "preview": "https://i.ytimg.com/vi/xvcDEUCAENY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-22T20:00:02Z",
+        "title": "Top 9 Coolest Fan Skins! - League of Legends",
+        "description": "🔶$500RP GIVEAWAY ➥ https://goo.gl/qBxLfp 🔶\n➥ Fortnite Battle Royale Moments: https://goo.gl/Qo49bJ\n➥ Virtual Reality Moments: https://goo.gl/TjthCq\n💙 NEW Facebook: https://www.facebook.com/GamingCuriosOverwatch/💙\n\n➥ Subscribe for More League of Legends Videos!  http://bit.ly/1O7TtJh  \n\n➥ Information Sources From The Video:\n\n1. Off-Road Hecarim By Ron Broyde:\nhttps://www.artstation.com/artwork/nxna1\n\n2. Dark Star Urgot by Slown Damn:\nhttps://www.artstation.com/artwork/negW6\n\n3. Arctic Nautilus by Leon Ropeter:\nhttps://www.artstation.com/artwork/8gXwQ\n\n4. Tahm Kench in Wonderland by Leon Ropeter:\nhttps://www.artstation.com/artwork/dVmKJ\n\n5. Nyandalee by Leon Ropeter:\nhttps://www.artstation.com/artwork/q3B6y\n\n6. Star Guardian Teemo By Ben Rosado:\nhttps://www.artstation.com/artwork/8yBYQ\n\n7. Beast Hunter Katarina by AngellMoonlight:\nhttps://angellmoonlight.deviantart.com/art/League-of-Legends-Beast-Hunter-Katarina-610099776\n\n8. Dark Tengu Akali by Julian del Rey:\nhttps://www.artstation.com/artwork/qP4NR\n\n9. Demon Irelia by Alexey Gorbatov:\nhttps://www.artstation.com/artwork/1XB2K\n\n10. Nightmare Spirit Ahri by Magion02:\nhttps://www.deviantart.com/art/League-of-Legends-Ahri-501605120\n\n✔ Video Credits:\n● Produced By: Jeremy \"Gaming Curios\"\n● Written By: Jeremy \"Gaming Curios\" & EdgeGaming\n● Edited By: LocusEdits",
+        "videoId": "db_QDcp-UOo",
+        "preview": "https://i.ytimg.com/vi/db_QDcp-UOo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-11T17:27:39Z",
+        "title": "New OP Champs & Runes in Korea PRESEASON 7.22 so far (League of Legends)",
+        "description": "Time to take a look at what our Korean overlords are playing! All these builds are good and also fun, so give them a try!\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nJungle = start\nADC = 3:25\nMid = 6:29\nTop = 9:11\nSupport = 10:51\n\nChampions\nJungle = Hecarim, Kindred, Xin Zhao, Evelynn\nADC = Miss Fortune, Ezreal, Kog'Maw, Twitch\nMid = Katarina, Malzahar, Xerath, Anivia\nTop = Wukong, Gangplank, Teemo\nSupport = Xerath, Sona, Lulu\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew OP Champs & Runes in Korea PRESEASON 7.22 so far (League of Legends)",
+        "videoId": "887cBB-yDqQ",
+        "preview": "https://i.ytimg.com/vi/887cBB-yDqQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-11T01:59:51Z",
+        "title": "[Season 8] Runes For ALL Champions (500+ Rune Pages)",
+        "description": "Huge thanks to all of the pro players and challengers who helped in the discussion leading to the creation of these pages. Some pages on the rune video might have errors / extra pages (alternatives) missing, this was an oversight due to the amount of time it took sorry. \nTimestamps: \n\n00:00 Aatrox\n00:05 Ahri\n00:17 Akali\n00:21 Alistar\n00:33 Amumu\n00:42 Anivia\n00:49 Annie\n00:56 Ashe\n01:01 Aurelion\n01:12 Azir\n01:17 Bard\n01:36 Blitzcrank\n01:45 Braum\n01:50 Brand\n02:04 Caitlyn\n02:09 Camille\n02:18 Cassio\n02:23 Cho'Gath\n02:33 Corki\n02:37 Darius\n02:55 Diana\n03:07 Draven\n03:12 Dr.Mundo\n03:28 Ekko\n03:51 Elise\n03:54 Evelynn\n03:56 Ezreal\n04:05 Fiddlesticks\n04:12 Fiora\n04:17 Fizz\n04:24 Galio\n04:29 Gangplank\n04:43 Garen\n04:50 Gnar\n04:52 Gragas\n05:04 Graves\n05:06 Hecarim\n05:11 Heimerdinger\n05:20 Illaoi\n05:39 Irelia\n05:55 Ivern\n06:11 Janna\n06:25 Jarvan\n06:35 Jax\n06:51 Jayce\n06:56 Jhin\n07:03 Jinx - Slight error, Press the Attack not comet tree is hers. Comet is Jhin's+Press the Attack\n07:06 Kalista\n07:08 Karma\n07:31 Karthus\n07:33 Kassadin\n07:52 Katarina\n08:01 Kayle\n08:03 Kayn\n08:13 Kennen\n08:17 Kha'Zix\n08:22 Kindred\n08:27 Kled\n08:31 Kog'Maw\n08:36 Leblanc\n08:48 Lee Sin\n08:54 Leona\n09:04 Lissandra\n09:11 Lucian\n09:16 Lulu\n09:34 Lux\n09:46 Malphite\n09:52 Malzahar\n10:00 Maokai\n10:03 Master Yi\n10:12 Miss Fortune\n10:23 Mordekaiser\n10:28 Morgana\n10:33 Nami\n10:44 Nasus\n11:03 Nautilus\n11:12 Nidalee\n11:15 Nocturne\n11:40 Nunu\n11:55 Olaf\n12:06 Orianna\n12:18 Ornn\n12:23 Pantheon\n12:30 Poppy\n12:36 Quinn\n12:39 Rakan\n12:44 Rammus\n12:50 Reksai\n12:55 Renekton\n13:07 Rengar\n13:16 Riven\n13:30 Rumble\n13:33 Ryze\n13:35 Sejuani\n13:39 Shaco\n13:49 Shen\n13:53 Shyvana\n14:00 Singed\n14:22 Sion\n14:26 Sivir\n14:29 Skarner\n14:35 Sona\n14:50 Soraka\n15:03 Swain\n15:09 Syndra\n15:13 Tahm\n15:29 Taliyah\n15:38 Talon\n15:43 Taric\n15:48 Teemo\n15:59 Twisted Fate\n16:11 Thresh\n16:13 Tristana\n16:18 Trundle\n16:32 Tryndamere\n16:34 Twitch\n16:39 Udyr\n16:46 Urgot\n16:49 Varus\n16:53 Vayne\n16:56 Veigar\n17:05 Vel'Koz\n17:16 Vi\n17:26 Viktor\n17:40 Vladimir\n17:45 Volibear\n17:54 Warwick\n18:06 Wukong\n18:17 Xayah\n18:20 Xerath\n18:31 Xin Zhao\n18:38 Yasuo\n18:48 Yorick\n18:55 Zac\n19:04 Zed\n19:09 Ziggs\n19:15 Zilean\n19:27 Zoe\n19:32 Zyra\n\nPLEASE NOTE :\n\nThe outlined but gray icon in the primary tree means that it is a possible alternative, although the colored path is preferred. In the secondary tree the outline stands for alternatives aswell, but it also shows what you can actually swap out and what is mandatory.\n\nAll of the rune pages that are seen in this video are not only created through my own thoughts, but dozens of pro and high elo players were involved in coming to conclusions when doing these rune pages.\n\nHuge shout-outs to everyone who participated in working on these.\n\nBGM : https://www.youtube.com/watch?v=_rbVt0z6NLM",
+        "videoId": "X6uxG09qN0s",
+        "preview": "https://i.ytimg.com/vi/X6uxG09qN0s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-08-07T08:55:35Z",
+        "title": "Lancer Zero Hecarim Skin Spotlight - League of Legends",
+        "description": "League of Legends Lancer Zero Hecarim Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Hecarim on their Lancer Zero Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "52pQd4imSWM",
+        "preview": "https://i.ytimg.com/vi/52pQd4imSWM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-08-02T17:08:24Z",
+        "title": "NEW 'ARCADE ORBS' LOOT OPENING [EXTRA FREE RARE SKINS + 2x GEMSTONES!] League of Legends (PBE)",
+        "description": "$100 Opening Of New Arcade Orb Loots, Offers 2x Gemstones AND RARE SKINS SHARDS (Hextech Annie, Lancer Hecarim, Etc!!). 'Like' if you enjoyed & want MORE & Turn On the BELL For Instant Notifications!\n→Most OP Champs RIGHT NOW: http://bit.ly/2ujWN1A\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n \n Follow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \n Redmercy Merchandising Now Available!\n →Redmercy Store: http://tinyurl.com/qb3zjdc\n \n Hope you enjoy and please sub rate and comment!!! :)\n\n$100 NEW 'ARCADE ORBS' OPENING [EXTRA FREE RARE SKINS + 2x GEMSTONES!] - League of Legends",
+        "videoId": "mCTUyQFEiUo",
+        "preview": "https://i.ytimg.com/vi/mCTUyQFEiUo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-07-25T20:36:17Z",
+        "title": "Lancer Zero Hecarim Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Lancer Zero Hecarim with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 10 Gemstones, Hextech Exclusive\n\nSkin name is CONFIRMED as Lancer Zero Hecarim, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "iHL7UCr_jfs",
+        "preview": "https://i.ytimg.com/vi/iHL7UCr_jfs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-10T17:00:08Z",
+        "title": "S7 LoL Coaching #22 - Hecarim Jungle (Silver 4)",
+        "description": "Season 7 LoL Coaching is Back!  http://www.twitch.tv/neace\n\n$30 Replay Reviews\n$40 Duo Game (Neace plays with you and coaches you live)\n$50 Live Spectate (Neace watches and coaches you live)\n$100 1 Hour Private Coaching\n\nFor more details, come to stream http://www.twitch.tv/neace\n\nAlso, be sure to follow:\n►TWITTER: https://twitter.com/neacetweets\n►FACEBOOK: https://www.facebook.com/neaceofficial\n►MY LIVESTREAM: http://www.twitch.tv/neace\n►DISCORD: http://discord.gg/neace\n►PATREON: https://www.patreon.com/neace\n►OP.GG: http://goo.gl/43igza\n\n\nTelestrator: http://epic-pen.com/\n\nProduction: Phreo\n-- Watch live at https://www.twitch.tv/neace",
+        "videoId": "w6pGsrhmRKQ",
+        "preview": "https://i.ytimg.com/vi/w6pGsrhmRKQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-04T17:03:23Z",
+        "title": "Best JUNGLERS to ESCAPE BRONZE/SILVER/GOLD (League of Legends)",
+        "description": "I get asked this all the time so let's take a look at some champions you can escape lower ranks with for the jungle!\nDownload Haste and give it a try to make your connection more stable!  (works for League and Overwatch) - http://bit.ly/phyhaste\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nChampions in this video\n-Xin (all 3 but bronze especially)\n-Hecarim (Bronze + Silver especially)\n-Shyvana (Bronze + Silver especially)\n-Warwick (Gold especially)\n-Zac (Bronze especially)\n-Skarner (Gold especially)\n-Master Yi (All 3)\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nBest JUNGLERS to ESCAPE BRONZE/SILVER/GOLD (League of Legends)",
+        "videoId": "M7ARTrj0HAY",
+        "preview": "https://i.ytimg.com/vi/M7ARTrj0HAY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-02-23T05:27:58Z",
+        "title": "Recalls - Champion Updates | All Champions who didn't have recalls now do!",
+        "description": "List and timestamps below! All old champions which haven't had recalls now have them, 74 bases, 351 skins will now have recalls.  This video will show all the base champions which have been changed.\n\nMore information Here:\nhttp://boards.na.leagueoflegends.com/en/c/story-art/IngzHFRs-adding-simple-recalls-to-older-champs\n\nFull List of Champions and what animations they use for the recall:\nhttp://boards.pbe.leagueoflegends.com/en/c/champions-gameplay-feedback/AOE2y1J5-adding-simple-recalls-soon-on-pbe\n\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nTime Stamps:\nAhri - 00:04\nAkali - 00:14\nAlistar - 00:26\nAmumu - 00:37\nAnivia - 00:47\nAshe - 00:57\nBlitzcrank - 01:07\nBrand - 01:18\nCaitlyn - 01:28\nCassiopeia - 01:40\nCho'Gath - 01:50\nCorki - 02:00\nDr. Mundo - 02:11\nEvelynn - 02:21\nEzreal - 02:31\nFiddlesticks - 02:41\nFiora - 02:52\nFizz - 03:01\nGalio - 03:12\nGragas - 03:22\nGraves - 03:32\nHecarim - 03:43\nIrelia - 03:53\nJanna - 04:03\nJarvan IV - 04:13\nJax - 04:25\nKassadin - 04:35\nKayle - 04:45\nKennen - 04:56\nKog'Maw - 05:06\nLeblanc - 05:16\nLee Sin - 05:27\nLeona - 05:37\nLulu - 05:48\nLux - 05:59\nMalphite - 06:09\nMalzahar - 06:18\nMaokai - 06:28\nMiss Fortune - 06:41\nMordekaiser - 06:50\nMorgana - 07:00\nNautilus - 07:10\nNocturne - 07:20\nNunu - 07:32\nOlaf - 07:42\nOrianna - 07:53\nPantheon - 08:02\nRammus - 08:11\nRenekton - 08:21\nRiven - 08:30\nRumble - 08:40\nShaco - 08:50\nShen - 09:00\nShyvana - 09:08\nSinged - 09:29\nSkarner - 09:39\nSona - 09:48\nSwain - 09:57\nTalon - 10:07\nTeemo - 10:16\nTryndamere - 10:25\nUdyr - 10:35\nUrgot - 10:44\nVarus - 10:54\nVayne - 11:03\nVeigar - 11:12\nViktor - 11:21\nVladimir - 11:32\nVolibear - 11:42\nWukong - 11:51\nXerath - 12:00\nXin Zhao - 12:09\nZiggs - 12:20\nZilean - 12:30\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "zhUAc86A_uE",
+        "preview": "https://i.ytimg.com/vi/zhUAc86A_uE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-21T05:20:41Z",
+        "title": "Coaching FoxDrop - Game 2 Hecarim Jungle",
+        "description": "Follow FoxDrop: https://Twitter.com/foxdropLoL\nHis stream: http://Twitch.tv/FoxDrop\nHis YouTube: http://YouTube.com/FoxDropLoL\n\nThis is game 2 of two coaching sessions with Foxdrop. The main goal of the sessions is to give him direction moving forward so he can achieve his goal of hitting masters. In the sessions the primary discussion is aimed to be centered around champion pool and jungle theory/logic. The emphasis and focus in this second game is on how to recover when playing from severely behind.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "g0Yzx51r0WQ",
+        "preview": "https://i.ytimg.com/vi/g0Yzx51r0WQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-15T00:00:00Z",
+        "title": "Preseason 7 LoL Coaching #22 - Lee Sin Jungle (S6 Platinum)",
+        "description": "Is the blind monk lost in the jungle vs. Hecarim?  n3ac3y stresses utilizing picks, 1 for 1 trade value, team composition, reckless diving, and decision making.\n\nFF@20$ Replay Reviews on http://twitch.tv/n3ac3y    Use http://op.gg or http://replay.gg to record your games.   Come in, have a replay ready to review, donate 20$, and get your gameplay reviewed live on stream on Mondays. $50 on demand.\n\nAlso, be sure to follow:\n►TWITTER: https://twitter.com/n3ac3y\n►FACEBOOK: https://www.facebook.com/bingegaming.tv\n►MY LIVESTREAM: http://www.twitch.tv/n3ac3y\n►DISCORD: http://discord.gg/n3ac3y\n►PATREON: https://www.patreon.com/n3ac3y\n►OP.GG: http://goo.gl/43igza\n►LOLKING:   http://www.lolking.net/summoner/na/54794681\n\nTelestrator: http://epic-pen.com/\nRender: http://argetwing.deviantart.com/art/lee-sin-render-435765657\nProduction: Phreo\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "JCrT6YDiDF4",
+        "preview": "https://i.ytimg.com/vi/JCrT6YDiDF4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-14T20:25:24Z",
+        "title": "INSANE Hanjaro plant outplay",
+        "description": "The insane hanjaro outplay on ally hecarim with Ft. Jungle plants -- Watch live at https://www.twitch.tv/hanjarolol",
+        "videoId": "fBS7lEk_tAw",
+        "preview": "https://i.ytimg.com/vi/fBS7lEk_tAw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-06T18:00:00Z",
+        "title": "NEW EASIEST CHAMPIONS For Season 7 ALL ROLES - League of Legends",
+        "description": "Easiest & Strong Champions To Carry With In Season 7 ALL ROLES League of Legends! \"Like\" if you want more!\n���Try ProGuides Today At (proguides.com): http://bit.ly/2fi7zCp\n���Top HARD CARRY Champions: http://bit.ly/2h4eMqu\n���Subscribe For More!: http://full.sc/1gukNqq ���My OVERWATCH Channel: http://bit.ly/1EAvIuW \n\nFollow me here!\n���My Stream: http://twitch.tv/redmercylol\n���My Twitter: http://twitter.com/RedmercyLoL\n���Facebook: https://www.facebook.com/RedmercyLoL\n���My Instagram: http://instagram.com/redmercylol\n���My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nRedmercy Merchandising Now Available!\n���Redmercy Store: http://tinyurl.com/qb3zjdc\n\nArtwork Used:\nhttp://orig05.deviantart.net/631b/f/2014/290/f/a/hecarim_for_league_of_legends_art_tribute_by_sulamoon-d834esh.jpg\n\nhttp://leagueofpictures.altervista.org/wp-content/uploads/2015/05/Goth-Annie-League-of-Legends-Fan-Art-2405.jpeg\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "91Dp1bKGwFw",
+        "preview": "https://i.ytimg.com/vi/91Dp1bKGwFw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-07T16:14:09Z",
+        "title": "Worldbreaker Hecarim Skin Spotlight - League of Legends",
+        "description": "League of Legends Worldbreaker Hecarim Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Hecarim on their Worldbreaker Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "L4NiHpGRX2Y",
+        "preview": "https://i.ytimg.com/vi/L4NiHpGRX2Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-10-19T00:46:05Z",
+        "title": "Worldbreaker Hecarim Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Worldbreaker Hecarim with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nPrice: 750RP\nSkin name is CONFIRMED as Worldbreaker Hecarim, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "TN3_2uvTA8c",
+        "preview": "https://i.ytimg.com/vi/TN3_2uvTA8c/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-10-15T00:30:01Z",
+        "title": "Masters Coaching #69 - Trundle Jungle (Silver 5)",
+        "description": "Time to troll!!  Trundle vs. Hecarim in the jungle, emphasis on clear path and gank windows.\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►LOLKING:   http://www.lolking.net/summoner/na/25...\r\n -- Watch live at https://www.twitch.tv/n3ac3y\r\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "TX8jeKRs_aQ",
+        "preview": "https://i.ytimg.com/vi/TX8jeKRs_aQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-10-06T01:00:01Z",
+        "title": "Masters Coaching #54 - Hecarim Jungle (Gold 5)",
+        "description": "We got some super pony invade cheese and a great kda, but we still lose???  Prioritizing ganks vs farm, jungle efficiency, and creating map pressure.\r\n\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►LOLKING:   http://www.lolking.net/summoner/na/25...\r\n -- Watch live at https://www.twitch.tv/n3ac3y -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "phLc7Xj4rjM",
+        "preview": "https://i.ytimg.com/vi/phLc7Xj4rjM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-09-11T01:00:01Z",
+        "title": "Masters Coaching #9 - Hecarim Top",
+        "description": "Hecarim top, managing shen top who to ult and losing to a fizz with 30cs at 20 mins, Feelsamazingman.\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►LOLKING:   http://www.lolking.net/summoner/na/25886506 -- Watch live at https://www.twitch.tv/n3ac3y -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "psPgMs4xYqg",
+        "preview": "https://i.ytimg.com/vi/psPgMs4xYqg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "donghuap",
+        "displayName": "DongHuaP",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwhEjuMopEu2l3j6eULESrZC7_7RneNseqU1wh1=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-08-30T13:37:41Z",
+        "title": "10000 Gold comeback Diamond ranked game",
+        "description": "Game of the week\n\nD3 Hecarim Top vs singed",
+        "videoId": "a6r7VaT2vbI",
+        "preview": "https://i.ytimg.com/vi/a6r7VaT2vbI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zach",
+        "displayName": "Лига Легенд и TFT от Зака: Гайды, Стримы, Обзоры",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxB3wok5mrNroeSn6P20K3FAJ_7nPVkbWdzYM_SEA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-08-12T10:00:53Z",
+        "title": "[Patch 6.16] Jungle Hecarim - Хекарим джангл в озвучке Михаила \"Space\" Малышева",
+        "description": "Группа вконтакте: vk.com/zakland\nГруппа Мишы Space Малышева: vk.com/mishaspace\n\nТрансляция финалов LCL для новичков: twitch.tv/riotgamesru2",
+        "videoId": "p4j93Bgu48U",
+        "preview": "https://i.ytimg.com/vi/p4j93Bgu48U/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-07-25T21:28:14Z",
+        "title": "Patch 6.15 rundown",
+        "description": "Timestamps :\n\n00:00 Introduction\n00:18 Braum\n01:27 Corki\n02:22 Hecarim\n03:02 illaoi\n03:10 Jarvan IV\n04:05 Karma\n04:54 Kassadin\n06:39 Malzahar\n07:25 Nidalee\n09:05 Renekton\n10:08 Shen\n10:42 Shyvana\n11:18 Sona\n12:10 Taliyah\n12:37 Vayne\n13:00 Viktor\n13:27 Vladimir\n14:01 Zac\n14:10 Zyra\n14:43 Ardent Censer\n14:51 Mikael's Crucible\n15:03 Outer Turrets\n18:15 Siege Minions\n\nFollow me at the links below:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "TELVm84RP20",
+        "preview": "https://i.ytimg.com/vi/TELVm84RP20/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "donghuap",
+        "displayName": "DongHuaP",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwhEjuMopEu2l3j6eULESrZC7_7RneNseqU1wh1=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-06-12T16:35:39Z",
+        "title": "10.0 KDA Hard Carry on Hecarim Season 6 Diamond Guide",
+        "description": "Pony Op",
+        "videoId": "bYmjahmEVtI",
+        "preview": "https://i.ytimg.com/vi/bYmjahmEVtI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-04-01T15:56:46Z",
+        "title": "Powell Hecarim Replay Review",
+        "description": "Music was off bro but for some reason the first 8 minutes was still muted... I have no idea. -- Watch live at https://www.twitch.tv/hanjarolol",
+        "videoId": "ARem0YtROm0",
+        "preview": "https://i.ytimg.com/vi/ARem0YtROm0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-11-23T09:28:36Z",
+        "title": "Elderwood Hecarim Skin Spotlight - League of Legends",
+        "description": "League of Legends Elderwood Hecarim Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Hecarim on their Elderwood Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "euFsWdPxix0",
+        "preview": "https://i.ytimg.com/vi/euFsWdPxix0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-11-11T02:16:20Z",
+        "title": "Elderwood Hecarim Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Elderwood Hecarim with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nPrice: 1350RP\nSkin name is CONFIRMED as Elderwood Hecarim, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "4aPVnU0dTIY",
+        "preview": "https://i.ytimg.com/vi/4aPVnU0dTIY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-11T13:00:01Z",
+        "title": "Top 10 Most Innovative Champion Picks in League of Legends History",
+        "description": "►Top 10 Best Team Compositions: https://youtu.be/yEhDmzX2mts\n►►Top 10 Biggest Upsets: https://youtu.be/x_n0IvEiXYY\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\nOUTRO SONG: https://www.youtube.com/watch?v=QgnTdj23DIk\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://xxsirsquishyxx.deviantart.com/art/Katarina-Drawing-384021968\n\nTwisted Fate: https://www.youtube.com/watch?v=g7l30-4A6WQ\n\nNautilus: https://www.youtube.com/watch?v=CsAAU0fWhk0\n\nUrgot: https://www.youtube.com/watch?v=iydYsUeebEQ\n\nAlistar: https://www.youtube.com/watch?v=K_8NF7F95Rs\n\nHecarim: https://www.youtube.com/watch?v=KlOFeKzDx3w\n\nMaster Yi: https://www.youtube.com/watch?v=ls0ywj200Hg\n\nSoraka Part 1: https://www.youtube.com/watch?v=6IYaQBbbzdQ\n\nSoraka Part 2: https://www.youtube.com/watch?v=BmaHtuWHWfU\n\nTryndamere Part 1: https://www.youtube.com/watch?v=uCk7CpjNpuk\n\nTryndamere Part 2: https://www.youtube.com/watch?v=xy9QPARR3BE\n\nKatarina: https://www.youtube.com/watch?v=Zrowr3O9eXs\n\nAnnie Part 1: https://www.youtube.com/watch?v=ONY-Z3dzOjQ\n\nAnnie Part 2: https://www.youtube.com/watch?v=WR-9aFOkJKM",
+        "videoId": "ccUDkjc5xHI",
+        "preview": "https://i.ytimg.com/vi/ccUDkjc5xHI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-08-17T23:09:03Z",
+        "title": "[Tierlist] Patch 4.14",
+        "description": "http://twitter.com/im_ls + http://facebook.com/nick.decesare.7\n\nI'm the former Coach of EU LCS Team MYM. I'm a former Samsung Ozone/Blue house member, and Diamond 1 Korea server. In this video I give a rundown on my opinion for a tierlist for Patch 4.14 (gnar) in League of Legends \n\nFollow me:\nhttp://twitter.com/im_ls\nhttp://twitch.tv/imls\nhttp://facebook.com/nick.decesare.7\nhttps://www.facebook.com/pages/ls/267710736646000\n\n\nTIERLIST TEXT: \nPATCH 4.14 TIER LIST(August 18th, 2014):\n\n\nMID\nTier 1: Orianna, Syndra, Twisted Fate, Ahri, Ryze, Yasuo, Kassadin\nTier 2: Lulu, Fizz, Xerath, Karthus, Ziggs, Jayce, Zed\nTier 2.5: Talon, Kayle, Lucian\nTier 3: Anivia, Riven, Ezreal, Akali, Leblanc, Annie, Teemo, Morgana\nTier 3.5: AP Kog’Maw, Karma\nTier 4: Katarina, Heimerdinger, Cassiopeia, AP Tristana, Sion, Mordekaiser, Brand\nTier 5: All other non-named kids\nTier 6: Viktor\n\nTOP\nTier 0: Maokai\nTier 1: Gragas, Ryze, Alistar, Shyvanna\nTier 2: Nidalee, Renekton, Shen, Irelia, Lulu, Gnar (?), Jayce\nTier 2.5: Zac, Mundo, Teemo, Lee Sin\nTier 3: Yasuo, Jax, Kayle, Rengar, Lissandra, Swain, Rumble, Akali, Riven, Zed, Tryndamere, Hecarim\nTier 4: Darius, Gangplank, Poppy, Kha’Zix, Elise, Vladimir, Quinn, Aatrox, Trundle, Heimerdinger, Yorick, Nasus, Singed, Olaf, Kennen, Fiora\nTier 5: Rammus, Nunu, Sion, Garen, Xin Zhao, WuKong\nTier 6: All other non-named tops\n\nJUNGLE\nTier 1: Rengar, Lee Sin, Elise\nTier 1.5: Evelynn, Jarvan 4\nTier 2: Vi, Kha’Zix, Maokai\nTier 2.5: Nocturne\nTier 3: Pantheon, Zed, Fiddlesticks, Kayle, Amumu\nTier 3.5: Riven, Warwick, Yi, Shaco\nTier 4: Wukong, Jax*, Gragas, Zac, Xin Zhao\nTier 5: All other non-named jungles\n\nADC/MARKSMAN\nTier 1: Tristana, Corki, Kog’Maw\nTier 2: Twitch, Lucian\nTier 3: Caitlyn, Vayne, Jinx, Ezreal, Blue-Ezreal, Draven\nTier 4: Sivir, Varus, Miss Fortune\nTier 5: Ashe, Graves\nTier 6: Quinn, Urgot\nTier 7: All other non-named ADC’s\n\nSUPPORT\nTier 1: Morgana, Nami, Thresh, Braum\nTier 2: Alistar, Leona\nTier 3: Lulu, Sona, Zilean\nTier 4: Annie, Karma, Soraka, Blitzcrank, Lissandra, Nunu, Zyra\nTier 5: All other non-named/abstract supports",
+        "videoId": "JXFsx1i_D50",
+        "preview": "https://i.ytimg.com/vi/JXFsx1i_D50/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-07-30T06:59:57Z",
+        "title": "[Coaching-Jungle] Hecarim Diamond IV (blue)",
+        "description": "Stream: http://twitch.tv/imls / http://twitter.com/im_ls for more updates\n\nI'm the Head Coach of EU LCS Team MYM. I'm a former Samsung Ozone/Blue house member, and Diamond 1 Korea server. In this video I coach a Diamond 4 Hecarim whose MMR is higher than his tier. This is the first of fifteen hour bundle and is approached by focusing on his jungle style as discussed with him, as well are attempting to alter his view of objective/farm control. The coaching is done LIVE in this video.\n\nFollow me:\nhttp://twitter.com/im_ls\nhttp://twitch.tv/imls\nhttp://facebook.com/nick.decesare.7",
+        "videoId": "SNbd6PLPxnE",
+        "preview": "https://i.ytimg.com/vi/SNbd6PLPxnE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-05-26T10:40:12Z",
+        "title": "4.8 Hecarim MadStone My Way - D Pony",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "5CM5sDoJZVc",
+        "preview": "https://i.ytimg.com/vi/5CM5sDoJZVc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-04-06T15:00:05Z",
+        "title": "Hecarim - Did You Know? EP 45 - League of Legends",
+        "description": "→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\n→Subscribe Here: http://full.sc/1gukNqq\n→Did You Know Playlist: http://full.sc/1bCtY0m\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Friends' LoL Channel + Comp Deals: http://www.youtube.com/user/ThePoqito\n\nTips, Tricks, Lore, and Cool Facts/Information about Hecarim!\n\nIf you like my videos, and want to help out more, donations are accepted! Thanks!\nhttps://www.streamdonations.net/c/redmercylol\n\n→Facebook: https://www.facebook.com/RedmercyLoL\n→Twitter: http://twitter.com/RedmercyLoL\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Anook: http://www.anook.com/redmercy\n→2nd YouTube Channel! : https://www.youtube.com/redmercygaming\n\n→Chat/Game with your friends, Razer Comms: http://rzr.to/jAdIQ\n\nMonstercat Music(Stephen Walking - Motions)\nhttps://www.youtube.com/watch?v=lLYrqEbHyTA\n\nSpecial thanks for chinese subtitles:\nhttp://www.youtube.com/user/MSSMusStudio\n\n\nHope you enjoy and please sub rate and comment!!! :) Test",
+        "videoId": "tQuNf7NIS3w",
+        "preview": "https://i.ytimg.com/vi/tQuNf7NIS3w/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zach",
+        "displayName": "Лига Легенд и TFT от Зака: Гайды, Стримы, Обзоры",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxB3wok5mrNroeSn6P20K3FAJ_7nPVkbWdzYM_SEA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-01-22T18:13:14Z",
+        "title": "Hecarim jungle guide by Zak",
+        "description": "Группа вконтакте: vk.com/zakland\nСайт: splitpush.ru\n\nПоддержать проект можно через Qiwi, webmoney и yandex:\nqiwi - +79834424516\nwebmoney - R239173096410\nyandex - 41001737292271\n\nТайминги:\n7.36 руны\n8.20 мастерисы\n9.46 сборка\n\nМузыка:\nStarset - Carnivore\nStarset - My Demons\nSum 41 - Still Waiting\nSUM 41 - The Hell Song\nDrowning Pool - All Over Me\nPapa Roach - She Loves Me Not",
+        "videoId": "tBJhL3vXiE0",
+        "preview": "https://i.ytimg.com/vi/tBJhL3vXiE0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-08-22T13:03:20Z",
+        "title": "Arcade Hecarim Skin Spotlight League of Legends",
+        "description": "League of Legends Arcade Hecarim Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Hecarim on his Arcade Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "9jzQy-69vtk",
+        "preview": "https://i.ytimg.com/vi/9jzQy-69vtk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-08-14T20:57:01Z",
+        "title": "Pre-Release Teaser - Arcade Hecarim Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSkin name is confirmed as Arcade Hecarim, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "Qcjdt71-RZ4",
+        "preview": "https://i.ytimg.com/vi/Qcjdt71-RZ4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-08-14T19:16:12Z",
+        "title": "Arcade Hecarim Voice",
+        "description": "This is the voice for the upcoming 1350RP Skin - Arcade Hecarim\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nNote: The Voice might not be final, you never know what tweaks Riot might make to it.",
+        "videoId": "WSijJtEVy2M",
+        "preview": "https://i.ytimg.com/vi/WSijJtEVy2M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-08-13T02:45:42Z",
+        "title": "Extremely Incomplete - Arcade Hecarim Skin - League of Legends",
+        "description": "Note: This is EXTREMELY INCOMPLETE!\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is confirmed as Arcade Hecarim, particles, SFX and Animations are NOT final.\n\nPre-relase will be uploaded with the sounds when possible.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "FW_QasXMjDo",
+        "preview": "https://i.ytimg.com/vi/FW_QasXMjDo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-05-28T05:21:38Z",
+        "title": "Trick Spectates #3 - Sloomoon on Hecarim Silver Division",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "TQhh9kp28j0",
+        "preview": "https://i.ytimg.com/vi/TQhh9kp28j0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-12-25T03:01:35Z",
+        "title": "League of legends Utility Jungle Hecarim Season 3",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "-thdEU-UEUI",
+        "preview": "https://i.ytimg.com/vi/-thdEU-UEUI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-11-10T22:53:31Z",
+        "title": "Horse Racing Hecarim!!",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "JnCCw2yXfME",
+        "preview": "https://i.ytimg.com/vi/JnCCw2yXfME/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-11-02T00:58:32Z",
+        "title": "Hecarim Halloween First Blood Special",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "OgDWu-nNNjw",
+        "preview": "https://i.ytimg.com/vi/OgDWu-nNNjw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-10-31T20:42:15Z",
+        "title": "Full - Headless Hecarim League of Legends Skin Spotlight",
+        "description": "League of Legends Headless Hecarim Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Hecarim on his Headless Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights \n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "eVBgNS22FjU",
+        "preview": "https://i.ytimg.com/vi/eVBgNS22FjU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-10-18T09:49:12Z",
+        "title": "Teaser - Headless Hecarim Skin - League of Legends",
+        "description": "Note: This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is confirmed as Headless Hecarim, particles may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights \n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "kN_Kau3FH1c",
+        "preview": "https://i.ytimg.com/vi/kN_Kau3FH1c/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-04-19T15:02:10Z",
+        "title": "HACKED BY POODLECORP twitter.com/poodlecorp",
+        "description": "→Buy Rare Skins Here: http://www.skinsforlol.com\nDONT FORGET TO WATCH IN HD AND SUBSCRIBE! Don't forget to comment, rate, and be subscribed! Also do not forget to like me on FACEBOOK as that is where I also will announce when I am playing with subs!\n\nHecarim Rating System:\nCC Offered: 9\nEase to Play: 7\nCarry Potential: 8\nTeam Usefulness: 8\nJungle Ease: 9\nEarly Power: 8\nMid Power: 8.5\nLate Power: 9.5\nOVERALL: 8.1\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nSkype:\nredmercy1337\n\nCheck out the previous game of this series:\nhttp://www.youtube.com/watch?v=q75I2y6LUsc\n\nMy Stream:\nhttp://www.own3d.tv/live/71680/Redmercy\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=N3FA-j7Dh6Q&feature=channel_video_title\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "62Ri4sxmizk",
+        "preview": "https://i.ytimg.com/vi/62Ri4sxmizk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-04-08T15:55:26Z",
+        "title": "Varus Classic Skin & Sounds Teaser (League of Legends)",
+        "description": "Varus Classic Skin with his sounds on top with a little treat.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nNote: Not all particles belong to Varus (There also may be several particles missing for him and his autoattacks) since he was swapped with Ziggs and Hecarim.\n\nWhen replacing with existing champions the actual size varies so on Ziggs he will look small where on Hecarim he looks big.",
+        "videoId": "jy7TMNLDOd0",
+        "preview": "https://i.ytimg.com/vi/jy7TMNLDOd0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-04-07T16:27:44Z",
+        "title": "Reaper Hecarim League of Legends Skin Spotlight",
+        "description": "League of Legends Reaper Hecarim Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Hecarim on his Reaper Skin.\n\nAll footage was taken in game.",
+        "videoId": "Dy-nEVJmB_0",
+        "preview": "https://i.ytimg.com/vi/Dy-nEVJmB_0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-04-07T16:16:11Z",
+        "title": "Blood Knight Hecarim League of Legends Skin Spotlight",
+        "description": "League of Legends Blood Knight Hecarim Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Hecarim on his Blood Knight Skin.\n\nAll footage was taken in game.",
+        "videoId": "QF4cnFuwX_Y",
+        "preview": "https://i.ytimg.com/vi/QF4cnFuwX_Y/mqdefault.jpg"
+      }
+    }
+  ]
+}

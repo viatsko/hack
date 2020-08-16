@@ -1,0 +1,66 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "5tQ6YXgkB5roy414hINjk6uPiyI",
+      "id": "UCxo56gzJQ_fhb6svPqTSewg",
+      "snippet": {
+        "title": "FNATIC",
+        "description": "Est. 23/07/2004. World-leading professional esports organisation.",
+        "customUrl": "fnatic",
+        "publishedAt": "2007-09-01T23:18:11Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzV2o9uZmGDpI1Iz8ookdwft6f5rklm9DithVdkxQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzV2o9uZmGDpI1Iz8ookdwft6f5rklm9DithVdkxQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzV2o9uZmGDpI1Iz8ookdwft6f5rklm9DithVdkxQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "FNATIC",
+          "description": "Est. 23/07/2004. World-leading professional esports organisation."
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "FLxo56gzJQ_fhb6svPqTSewg",
+          "uploads": "UUxo56gzJQ_fhb6svPqTSewg",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUxo56gzJQ_fhb6svPqTSewg"
+  },
+  "displayName": "FNATIC",
+  "description": "Est. 23/07/2004. World-leading professional esports organisation.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzV2o9uZmGDpI1Iz8ookdwft6f5rklm9DithVdkxQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzV2o9uZmGDpI1Iz8ookdwft6f5rklm9DithVdkxQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzV2o9uZmGDpI1Iz8ookdwft6f5rklm9DithVdkxQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

@@ -1,0 +1,980 @@
+{
+  "id": "rumble",
+  "key": "68",
+  "name": "Rumble",
+  "title": "the Mechanized Menace",
+  "tags": [
+    "Fighter",
+    "Mage"
+  ],
+  "stats": {
+    "hp": 589,
+    "hpperlevel": 85,
+    "mp": 100,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 31,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8,
+    "hpregenperlevel": 0.6,
+    "mpregen": 0,
+    "mpregenperlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 1.85,
+    "attackspeed": 0.644
+  },
+  "icon": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/champion/Rumble.png",
+  "sprite": {
+    "url": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/sprite/champion3.png",
+    "x": 336,
+    "y": 0
+  },
+  "description": "Rumble is a young inventor with a temper. Using nothing more than his own two hands and a heap of scrap, the feisty yordle constructed a colossal mech suit outfitted with an arsenal of electrified harpoons and incendiary rockets. Though others may scoff...",
+  "redditUrl": "Rumblemains",
+  "videos": [
+    {
+      "profile": {
+        "slug": "protatomonster",
+        "displayName": "Protatomonster",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy8_DuYOHahL4miEDAeQ--XqKSv2wdBrh1BDDG4=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-08T09:01:19Z",
+        "title": "TOP 50 BEST CALCULATED STEALS IN LEAGUE OF LEGENDS",
+        "description": "TOP 50 BEST CALCULATED STEALS IN LEAGUE OF LEGENDS - The Best Baron & Dragon Steal Moments, Perfect Timing and 200 IQ Blind Snipes in a LoL Montage / Compilation\n\n🔶Don't forget to Subscribe and click the 🔔 Bell to get Notifications on new videos!\n\n#LeagueofLegends #LoLMontage #LoLMoments\n\n▼Players featured in this LoL Montage:\n\n1) Operise - https://www.reddit.com/r/leagueoflegends/comments/ffkbce/the_cleanest_rammus_baron_steal/\n2) deejpake - https://www.reddit.com/r/leagueoflegends/comments/glrrcm/calculated_dragon_steal/\n3) rusinakarvaaja - https://www.youtube.com/watch?v=1lL9wSOB4fc\n4) SourSweetSpicy - https://www.reddit.com/r/leagueoflegends/comments/gx8p8m/i_see_your_absolute_bonkers_baron_steal_and_raise/\n5) poyfikt - https://www.reddit.com/r/leagueoflegends/comments/fmb5o1/jhinbard_dragon_steal/\n6) WiiZDoM - https://www.reddit.com/r/leagueoflegends/comments/gux3ff/my_most_intentional_best_objective_steal_yet/\n7) Smiley AD - https://www.reddit.com/r/leagueoflegends/comments/eh73g6/best_dragon_steal_i_ever_done_and_survived/\n8) TPN RudeGuy - https://www.reddit.com/r/leagueoflegends/comments/h0953u/absolute_bonkers_baron_steal/\n9) Zenki1310 - https://www.reddit.com/r/leagueoflegends/comments/g8wvjy/teemo_passive_and_luck_can_make_you_steal_baron/\n10) Luqaszekk - https://www.twitch.tv/luqaszekk\n11) tnt417 - https://www.reddit.com/r/leagueoflegends/comments/ez35on/a_flawless_dragon_steal_in_every_way/\n12) 0 0 - https://www.reddit.com/r/thesecretweapon/comments/gv3ofg/satisfying_baron_steal/\n13) karrbonkel - https://www.reddit.com/r/bardmains/comments/hclwfr/baron_steal_i_did_with_the_polypuff_build/\n14) DontWorryImHero - https://www.youtube.com/watch?v=b97Drm_SSrI\n15) Blaze IV - https://www.reddit.com/r/kaisamains/comments/gjawmq/baron_steal_on_kaisa/\n16) JaxYi Penta - https://www.reddit.com/r/leagueoflegends/comments/fxsmna/i_steal_baron_as_fizz_while_dead/\n17) Joaos92 - https://www.twitch.tv/joaos92\n18) Sapoto - https://www.reddit.com/r/bardmains/comments/gslg6m/my_first_baron_steal_with_astronaut_bard/\n19) JakePz - https://www.reddit.com/r/fizzmains/comments/gxkv21/quad_baron_steal/\n20) DOKTOR3000 - https://www.reddit.com/r/leagueoflegends/comments/g2ychl/tristana_decided_to_help_me_with_baron_steal/\n21) TatoBig - https://www.reddit.com/r/leagueoflegends/comments/gqqp1k/quadra_kill_baron_steal_with_fiddle/\n22) subeh - https://www.youtube.com/watch?v=CbbRpXw8kGE\n23) Kylo - https://www.reddit.com/r/leagueoflegends/comments/gycalp/quite_possibly_the_craziest_baron_steal_ive_ever/\n24) Gripex90 - https://www.twitch.tv/gripex90\n25) 420 - https://www.reddit.com/r/leagueoflegends/comments/gyvsc9/2v5_penta_kill_and_baron_steal_as_zed/\n26) SketchyTheGhost - https://www.reddit.com/r/leagueoflegends/comments/he73fv/volibear_dunk_into_insane_dragon_steal_new/\n27) Aegon - https://www.reddit.com/r/VarusMains/comments/g8h3wz/baron_steal_featuring_arcane_comet/\n28) Arthas23333 - https://www.reddit.com/r/leagueoflegends/comments/gn8eu1/tahm_next_level_lick_baron_steal/\n29) darkepitome (Credits: almadion2) - https://www.twitch.tv/almadion2\n30) PeterKeDer - https://www.reddit.com/r/leagueoflegends/comments/eo0bfi/clean_lee_sin_dragon_steal_feat_blitzcrank/\n31) BLGFoFo \n32) liveMadlife - https://www.twitch.tv/premimadlife\n33) Hookster - https://www.reddit.com/r/leagueoflegends/comments/g841c6/elder_steal_against_all_odds/\n34) DW Chippys \n35) JTayGang - https://www.reddit.com/r/leagueoflegends/comments/hc573u/my_cleanest_baron_steal_urf/\n36) XCoffeeOrTeaX - https://www.reddit.com/r/VolibearMains/comments/gygzkk/baron_steal_with_e_that_won_us_the_game/\n37) Metaphor - https://www.twitch.tv/metaphor\n38) 69P0RNHUB69 (Credits: LynkSanity) - https://www.twitch.tv/lynksanity \n39) solshi - https://www.twitch.tv/solshi\n40) JadedTrekkie - https://www.twitch.tv/jadedtrekkie\n41) TheJeanLu - https://www.twitch.tv/thejeanlu\n42) wentrumble - https://www.twitch.tv/wentrumble\n43) exakick - https://www.twitch.tv/exakick\n44) Solanax - https://www.reddit.com/r/leagueoflegends/comments/hbuige/do_you_ever_just_steal_baron_without_having/\n45) Zuker - https://www.reddit.com/r/leagueoflegends/comments/gxvzfb/las_senna_wardq_baron_steal/\n46) JB Emma - https://www.twitch.tv/phoenixrisingleaguetv\n47) Goldie Lux - https://www.reddit.com/r/leagueoflegends/comments/gnqpm8/1000hp_baron_steal_as_lux/\n48) brotwig - https://www.twitch.tv/brotwig\n49) Player - https://www.reddit.com/r/leagueoflegends/comments/gayw1f/i_tried_stealing_baron_with_ludens_but_since_they/\n50) Sp3ctre18 - https://www.reddit.com/r/leagueoflegends/comments/gkrmku/new_fav_baron_steal_hoverboarding_inair_urf/\n\nMusic:\n\nTrack: Beatcore & Ashley Apollodor - Everyday \nWatch: https://youtu.be/eYByk569e90\n\nTrack: Culture Code - Feel Again (feat. Harley Bird) \nWatch: https://youtu.be/YGLA_V_yZXo\n\nTrack: Jim Yosef - Imagine\nWatch: https://youtu.be/6V1BWVNLCkU\n\nTrack: Abandoned & InfiNoise - Night Caller (feat. Project Nightfall)\nWatch: https://youtu.be/kLkhKjR9_A8",
+        "videoId": "D67wkMrHc_s",
+        "preview": "https://i.ytimg.com/vi/D67wkMrHc_s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "protatomonster",
+        "displayName": "Protatomonster",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy8_DuYOHahL4miEDAeQ--XqKSv2wdBrh1BDDG4=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-08T09:01:18Z",
+        "title": "TOP 50 BEST CALCULATED STEALS IN LEAGUE OF LEGENDS",
+        "description": "TOP 50 BEST CALCULATED STEALS IN LEAGUE OF LEGENDS - The Best Baron & Dragon Steal Moments, Perfect Timing and 200 IQ Blind Snipes in a LoL Montage / Compilation\n\n🔶Don't forget to Subscribe and click the 🔔 Bell to get Notifications on new videos!\n\n#LeagueofLegends #LoLMontage #LoLMoments\n\n▼Players featured in this LoL Montage:\n\n1) Operise - https://www.reddit.com/r/leagueoflegends/comments/ffkbce/the_cleanest_rammus_baron_steal/\n2) deejpake - https://www.reddit.com/r/leagueoflegends/comments/glrrcm/calculated_dragon_steal/\n3) rusinakarvaaja - https://www.youtube.com/watch?v=1lL9wSOB4fc\n4) SourSweetSpicy - https://www.reddit.com/r/leagueoflegends/comments/gx8p8m/i_see_your_absolute_bonkers_baron_steal_and_raise/\n5) poyfikt - https://www.reddit.com/r/leagueoflegends/comments/fmb5o1/jhinbard_dragon_steal/\n6) WiiZDoM - https://www.reddit.com/r/leagueoflegends/comments/gux3ff/my_most_intentional_best_objective_steal_yet/\n7) Smiley AD - https://www.reddit.com/r/leagueoflegends/comments/eh73g6/best_dragon_steal_i_ever_done_and_survived/\n8) TPN RudeGuy - https://www.reddit.com/r/leagueoflegends/comments/h0953u/absolute_bonkers_baron_steal/\n9) Zenki1310 - https://www.reddit.com/r/leagueoflegends/comments/g8wvjy/teemo_passive_and_luck_can_make_you_steal_baron/\n10) Luqaszekk - https://www.twitch.tv/luqaszekk\n11) tnt417 - https://www.reddit.com/r/leagueoflegends/comments/ez35on/a_flawless_dragon_steal_in_every_way/\n12) 0 0 - https://www.reddit.com/r/thesecretweapon/comments/gv3ofg/satisfying_baron_steal/\n13) karrbonkel - https://www.reddit.com/r/bardmains/comments/hclwfr/baron_steal_i_did_with_the_polypuff_build/\n14) DontWorryImHero - https://www.youtube.com/watch?v=b97Drm_SSrI\n15) Blaze IV - https://www.reddit.com/r/kaisamains/comments/gjawmq/baron_steal_on_kaisa/\n16) JaxYi Penta - https://www.reddit.com/r/leagueoflegends/comments/fxsmna/i_steal_baron_as_fizz_while_dead/\n17) Joaos92 - https://www.twitch.tv/joaos92\n18) Sapoto - https://www.reddit.com/r/bardmains/comments/gslg6m/my_first_baron_steal_with_astronaut_bard/\n19) JakePz - https://www.reddit.com/r/fizzmains/comments/gxkv21/quad_baron_steal/\n20) DOKTOR3000 - https://www.reddit.com/r/leagueoflegends/comments/g2ychl/tristana_decided_to_help_me_with_baron_steal/\n21) TatoBig - https://www.reddit.com/r/leagueoflegends/comments/gqqp1k/quadra_kill_baron_steal_with_fiddle/\n22) subeh - https://www.youtube.com/watch?v=CbbRpXw8kGE\n23) Kylo - https://www.reddit.com/r/leagueoflegends/comments/gycalp/quite_possibly_the_craziest_baron_steal_ive_ever/\n24) Gripex90 - https://www.twitch.tv/gripex90\n25) 420 - https://www.reddit.com/r/leagueoflegends/comments/gyvsc9/2v5_penta_kill_and_baron_steal_as_zed/\n26) SketchyTheGhost - https://www.reddit.com/r/leagueoflegends/comments/he73fv/volibear_dunk_into_insane_dragon_steal_new/\n27) Aegon - https://www.reddit.com/r/VarusMains/comments/g8h3wz/baron_steal_featuring_arcane_comet/\n28) Arthas23333 - https://www.reddit.com/r/leagueoflegends/comments/gn8eu1/tahm_next_level_lick_baron_steal/\n29) darkepitome (Credits: almadion2) - https://www.twitch.tv/almadion2\n30) PeterKeDer - https://www.reddit.com/r/leagueoflegends/comments/eo0bfi/clean_lee_sin_dragon_steal_feat_blitzcrank/\n31) BLGFoFo \n32) liveMadlife - https://www.twitch.tv/premimadlife\n33) Hookster - https://www.reddit.com/r/leagueoflegends/comments/g841c6/elder_steal_against_all_odds/\n34) DW Chippys \n35) JTayGang - https://www.reddit.com/r/leagueoflegends/comments/hc573u/my_cleanest_baron_steal_urf/\n36) XCoffeeOrTeaX - https://www.reddit.com/r/VolibearMains/comments/gygzkk/baron_steal_with_e_that_won_us_the_game/\n37) Metaphor - https://www.twitch.tv/metaphor\n38) 69P0RNHUB69 (Credits: LynkSanity) - https://www.twitch.tv/lynksanity \n39) solshi - https://www.twitch.tv/solshi\n40) JadedTrekkie - https://www.twitch.tv/jadedtrekkie\n41) TheJeanLu - https://www.twitch.tv/thejeanlu\n42) wentrumble - https://www.twitch.tv/wentrumble\n43) exakick - https://www.twitch.tv/exakick\n44) Solanax - https://www.reddit.com/r/leagueoflegends/comments/hbuige/do_you_ever_just_steal_baron_without_having/\n45) Zuker - https://www.reddit.com/r/leagueoflegends/comments/gxvzfb/las_senna_wardq_baron_steal/\n46) JB Emma - https://www.twitch.tv/phoenixrisingleaguetv\n47) Goldie Lux - https://www.reddit.com/r/leagueoflegends/comments/gnqpm8/1000hp_baron_steal_as_lux/\n48) brotwig - https://www.twitch.tv/brotwig\n49) Player - https://www.reddit.com/r/leagueoflegends/comments/gayw1f/i_tried_stealing_baron_with_ludens_but_since_they/\n50) Sp3ctre18 - https://www.reddit.com/r/leagueoflegends/comments/gkrmku/new_fav_baron_steal_hoverboarding_inair_urf/\n\nMusic:\n\nTrack: Beatcore & Ashley Apollodor - Everyday \nWatch: https://youtu.be/eYByk569e90\n\nTrack: Culture Code - Feel Again (feat. Harley Bird) \nWatch: https://youtu.be/YGLA_V_yZXo\n\nTrack: Jim Yosef - Imagine\nWatch: https://youtu.be/6V1BWVNLCkU\n\nTrack: Abandoned & InfiNoise - Night Caller (feat. Project Nightfall)\nWatch: https://youtu.be/kLkhKjR9_A8",
+        "videoId": "D67wkMrHc_s",
+        "preview": "https://i.ytimg.com/vi/D67wkMrHc_s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "coach_curtis",
+        "displayName": "Coach Curtis",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ1Gi5TVL30rvgLwqgjtl2oRfPRdddhxr-_JQw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-02T14:00:15Z",
+        "title": "Why You Aren’t Climbing - Mid Lane Coaching - Ep.3 Gold Rumble",
+        "description": "WHY YOU AREN’T CLIMBING EPISODE 3 // Today was a session mainly revolving around translating leads and mid game macro, it was less about mindset and more about gaps in knowledge. If you feel like your laning is quite solid but you can’t win games, this might be the session for you! Thanks for watching guys! Cheers.\n\n00:00 - 6:15 // Intro, OPGG, Goals etc.\n6:15 - 01:13:20 // Coaching\n01:13:20 - 01:28:51 // Setting Direction and Summarizing\n\nSupport me here: https://www.patreon.com/CoachCurtislol\n\n--------------------------------------------------------------------------------\n\nInstagram: https://www.instagram.com/coachcurtiscc/\n\n-------------------------------------------------\n\nMy OPGG: https://oce.op.gg/summoner/userName=Coach%20Curtis\n\n-------------------------------------------------------\n\nDiscord Invite Link: https://discord.gg/rUWt52p\n\n------------------------------------------------\n\nStreaming: https://twitch.tv/coachcurtis\n\n-------------------------------------------------------------\n\nSay hi on Twitter: https://twitter.com/CoachCurtislol\n\n--------------------------------------------------------\n#Coaching #CoachCurtis #LeagueOfLegends",
+        "videoId": "iSTA0LYa9lg",
+        "preview": "https://i.ytimg.com/vi/iSTA0LYa9lg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "leagueoflegends",
+        "displayName": "League of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxXwtVfQCScGEm93jvNCjitwu1lOKYhVZe2rSHWVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-28T07:00:00Z",
+        "title": "Volibear, The Relentless Storm | Champion Theme - League of Legends",
+        "description": "The official champion theme for Volibear, the Relentless Storm. \n\nThis war-hymn of the Ursine appears to be a fragment of the much longer poem ‘Ode to Ruin,’ dating back to before the War of the Three Sisters. While some of the original words have no direct translation, the intent behind them is abundantly clear…\n\n\nThe sky rumbles deeply, knowing him,\nAs the thunder calls out “Valhir!”\nA memory of ancient and faded glory\nBeckon from ages past, ever near\n\nVorrijaard calls you!\nAnd the wild heart within,\nBy tooth, and with claw, will return!\nWhen Vorrijaard needs you\nTo answer the call,\nRise now! Together we stand tall!\n\nThe ground trembles deeply, awaiting him\nThe wind howls, carrying the reek of iron,\nAnd earth, starved for centuries, shall soon drink\nThe rains of war another time\n\nVorrijaard calls you!\nAnd the wild heart within,\nBy tooth, and with claw, will return!\nWhen Vorrijaard needs you\nTo answer the call,\nRise now! Together we stand tall!\n\nFeatured Singer: Einar Selvik\nMusic By: Austin Wintory\nLyrics By: Riot Narrative and Music Teams\nExecutive Producer and Supervision By: Riot Music Team\n\n\nLeague of Legends Sign Up & Download\nhttps://signup.leagueoflegends.com/",
+        "videoId": "wOJAErCvVhs",
+        "preview": "https://i.ytimg.com/vi/wOJAErCvVhs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "leagueoflegends",
+        "displayName": "League of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxXwtVfQCScGEm93jvNCjitwu1lOKYhVZe2rSHWVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-27T19:00:17Z",
+        "title": "Volibear, The Relentless Storm | Champion Theme - League of Legends",
+        "description": "The official champion theme for Volibear, the Relentless Storm. \n\nThis war-hymn of the Ursine appears to be a fragment of the much longer poem ‘Ode to Ruin,’ dating back to before the War of the Three Sisters. While some of the original words have no direct translation, the intent behind them is abundantly clear…\n\n\nThe sky rumbles deeply, knowing him,\nAs the thunder calls out “Valhir!”\nA memory of ancient and faded glory\nBeckon from ages past, ever near\n\nVorrijaard calls you!\nAnd the wild heart within,\nBy tooth, and with claw, will return!\nWhen Vorrijaard needs you\nTo answer the call,\nRise now! Together we stand tall!\n\nThe ground trembles deeply, awaiting him\nThe wind howls, carrying the reek of iron,\nAnd earth, starved for centuries, shall soon drink\nThe rains of war another time\n\nVorrijaard calls you!\nAnd the wild heart within,\nBy tooth, and with claw, will return!\nWhen Vorrijaard needs you\nTo answer the call,\nRise now! Together we stand tall!\n\nFeatured Singer: Einar Selvik\nMusic By: Austin Wintory\nLyrics By: Riot Narrative and Music Teams\nExecutive Producer and Supervision By: Riot Music Team\n\n\nLeague of Legends Sign Up & Download\nhttps://signup.leagueoflegends.com/",
+        "videoId": "wOJAErCvVhs",
+        "preview": "https://i.ytimg.com/vi/wOJAErCvVhs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "coach_curtis",
+        "displayName": "Coach Curtis",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ1Gi5TVL30rvgLwqgjtl2oRfPRdddhxr-_JQw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-27T15:00:07Z",
+        "title": "Improving Your MID + JUNGLE Duo Synergy - How To Carry As A Duo In Ranked - Using Examples",
+        "description": "MID + JUNGLE DUO // I had a few requests to do a video on the old mid/jg duo. I did this video in a very different way than usual, I tried to have plenty of examples as well to counterbalance all of the theory. Nathan is my friend and we used to duo a lot in the past, so it was great fun making this video! Let me know if you guys have any questions about anything I cover within this video! Appreciate all the support, cheers!\n\n00:00 - 00:43 // Introduction\n00:43 - 01:53 // Mid/Jg Theory\n01:53 - 03:36 // Successful Duoing Principle\n03:36 - 05:37 // Understanding Champion Identity\n05:37 - 09:42 // Mid Laner Making Junglers Life Easier\n09:42 - 12:09 // Jungler Making Mid Laners Life Easier\n12:09 - 14:14 // Mid & Jungle Together\n14:14 - 17:01 // What Can Go Wrong For The Enemy\n17:01 - 25:56 // Introduction To Differing Types Of Communication\n25:56 - 28:22 // More On Level 2 Communication\n28:22 - 34:07 // Deeper Communication Insights\n34:07 - 35:02 // Intro To Examples\n35:02 - 01:15:26 // Examples Of Duoing + Communication (Rumble + Olaf)\n01:15:26 - 01:26:49 // Examples Of Duoing + Communication (Orianna + Rek’sai)\n01:26:49 - 01:32:35 // Examples Of Duoing + Communication (Galio + Rek’sai)\n01:32:35 - 01:38:28 // What To Look For In Review + Outro\n\nNathan's Channel: https://www.youtube.com/channel/UCiB-uBzQWijzmRO2VAY7yJA\n\n---------------------------------------------------------------------\n\nSupport me here: https://www.patreon.com/CoachCurtislol\n\n--------------------------------------------------------------------------------\n\nInstagram: https://www.instagram.com/coachcurtiscc/\n\n-------------------------------------------------\nMy OPGG: https://oce.op.gg/summoner/userName=Coach%20Curtis\n\n-------------------------------------------------------\n\nDiscord Invite Link: https://discord.gg/rUWt52p\n\n------------------------------------------------\n\nStreaming: https://twitch.tv/coachcurtis\n\n-------------------------------------------------------------\n\nSay hi on Twitter: https://twitter.com/CoachCurtislol\n\n--------------------------------------------------------\n#MidJungleDuo #CoachCurtis #LeagueOfLegends",
+        "videoId": "EXOWAy2T-l4",
+        "preview": "https://i.ytimg.com/vi/EXOWAy2T-l4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-23T14:08:48Z",
+        "title": "How Caps is HARD Feeding to Rank 1 as Mid Lane! League of Legends Guide",
+        "description": "There Can be No CLAPS Without Craps! \n►Get the RANK You’ve Always Wanted: https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu\n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\n\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nConcepts featured: g2 caps, how to mid, mid guide, caps, g2 esports, caps lol, caps mid gameplay, lolesports, perkz, caps mid, caps mid lane, caps syndra, caps sylas, caps akali, akali guide, syndra guide, rumble counter, inting, zed counter, sylas guide, challenger guides, mid guides, challenger mid guide, fnatic, lolesports, lec, msi, how to win, best mid champions, voyboy, feeding, skillcapped, skill capped, mobalytics, skill capped challenger lol guides, lol guides, league of legends guides, lol tips, lol tricks, league of legends, how to climb, mid lane tips. \n\n#leagueoflegends #lolguides #skillcapped\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped",
+        "videoId": "FrhukkA2DgM",
+        "preview": "https://i.ytimg.com/vi/FrhukkA2DgM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-23T14:08:48Z",
+        "title": "How Caps is HARD Feeding to Rank 1 as Mid Lane! League of Legends Guide",
+        "description": "There Can be No CLAPS Without Craps! \n►Get the RANK You’ve Always Wanted: https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu\n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\n\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nConcepts featured: g2 caps, how to mid, mid guide, caps, g2 esports, caps lol, caps mid gameplay, lolesports, perkz, caps mid, caps mid lane, caps syndra, caps sylas, caps akali, akali guide, syndra guide, rumble counter, inting, zed counter, sylas guide, challenger guides, mid guides, challenger mid guide, fnatic, lolesports, lec, msi, how to win, best mid champions, voyboy, feeding, skillcapped, skill capped, mobalytics, skill capped challenger lol guides, lol guides, league of legends guides, lol tips, lol tricks, league of legends, how to climb, mid lane tips. \n\n#leagueoflegends #lolguides #skillcapped\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped",
+        "videoId": "FrhukkA2DgM",
+        "preview": "https://i.ytimg.com/vi/FrhukkA2DgM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "bjergsen",
+        "displayName": "Bjergsen Stream",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwsgszLRQqXh727jjhzXBi9jb7xkAjajdK2IHrVlQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-21T07:00:00Z",
+        "title": "Bjergsen Rumble Mid vs Karthus - NA Master Patch 9.24",
+        "description": "Bjergsen Rumble vs Karthus Mid lane Patch 9.24 PreSeason 10 NA Master Solo Queue\n\n★★★ Email Contact : kevinleague1990@gmail.com\r\n★★★ Subscribe to me : https://goo.gl/X24oRl\r\n=================================\r\nIf you like this video, don't forget to press the like button, comment and share . Thanks For Watching!",
+        "videoId": "S2-mzmYYoeY",
+        "preview": "https://i.ytimg.com/vi/S2-mzmYYoeY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "bjergsen",
+        "displayName": "Bjergsen Stream",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwsgszLRQqXh727jjhzXBi9jb7xkAjajdK2IHrVlQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-21T07:00:00Z",
+        "title": "Bjergsen Rumble Mid vs Vladimir - NA Diamond 1 Patch 9.24",
+        "description": "Bjergsen Rumble vs Vladimir Mid lane Patch 9.24 PreSeason 10\n★★★ Email Contact : kevinleague1990@gmail.com\r\n★★★ Subscribe to me : https://goo.gl/X24oRl\r\n=================================\r\nIf you like this video, don't forget to press the like button, comment and share . Thanks For Watching!",
+        "videoId": "__hMtUKmUHs",
+        "preview": "https://i.ytimg.com/vi/__hMtUKmUHs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hotrod08",
+        "displayName": "Hotrod08",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzfvF04Vx6NZkxMUFHkTic5JnLe1hkydd59thHeiA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-20T18:04:15Z",
+        "title": "Rumble Jungle vs Graves - Challenger VOD Reviews Patch 10.10",
+        "description": "Original VOD Link: https://youtu.be/U6DxRl_u2Cg\n\nJoin me as I VOD review a Challenger Jungle game of 1145 playing Rumble vs Graves!\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n►Channel Promo:\n-https://youtu.be/IL7ZeEgzrfg \n\n►Streaming\n-YouTube Streaming: Tuesday: 8:30pm-11-30pm EST Thursday: 8:30pm-11-30pm EST\n-https://www.youtube.com/Hotrod08/live\n\n►Join Me!\nTwitter: https://twitter.com/hotrod08lol\nDiscord: https://discordapp.com/invite/7JGxY5E",
+        "videoId": "f3gn5fesSfQ",
+        "preview": "https://i.ytimg.com/vi/f3gn5fesSfQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hotrod08",
+        "displayName": "Hotrod08",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzfvF04Vx6NZkxMUFHkTic5JnLe1hkydd59thHeiA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-20T18:04:15Z",
+        "title": "Rumble Jungle vs Graves - Challenger VOD Reviews Patch 10.10",
+        "description": "Original VOD Link: https://youtu.be/U6DxRl_u2Cg\n\nJoin me as I VOD review a Challenger Jungle game of 1145 playing Rumble vs Graves!\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n►Channel Promo:\n-https://youtu.be/IL7ZeEgzrfg \n\n►Streaming\n-YouTube Streaming: Tuesday: 8:30pm-11-30pm EST Thursday: 8:30pm-11-30pm EST\n-https://www.youtube.com/Hotrod08/live\n\n►Join Me!\nTwitter: https://twitter.com/hotrod08lol\nDiscord: https://discordapp.com/invite/7JGxY5E",
+        "videoId": "f3gn5fesSfQ",
+        "preview": "https://i.ytimg.com/vi/f3gn5fesSfQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "Impact Gets CRUSHED: 3 LEVELS Down at 4 MINUTES! (vs Autofilled Wonder Kid)",
+        "description": "How Impact's 78% Win Rumble is DOWN 3 levels at 4 MINUTES!\nhttp://www.skill-capped.com/lol\nSubscribe: http://goo.gl/kGvFCu\n\n \nLoL Guide Description: In this guide, we see how to exploit a lead when ahead to the max to actually crush your opponent so hard they have no chance of coming back into the game. Be sure to watch this to see how to exploit wave management choices to brutally snow ball small advantages! \n\nLoL Esports LLA: https://www.youtube.com/channel/UC-I8d_BjKP6MMsYjZhAtjIA\n\nLearn to Master the Game: https://www.skill-capped.com\nLike us on Facebook: https://www.facebook.com/skillcapped\nFollow us on Twitter: https://twitter.com/skillcapped",
+        "videoId": "ejcTYojwoos",
+        "preview": "https://i.ytimg.com/vi/ejcTYojwoos/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "coach_curtis",
+        "displayName": "Coach Curtis",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ1Gi5TVL30rvgLwqgjtl2oRfPRdddhxr-_JQw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-13T14:30:08Z",
+        "title": "RUMBLE MID Guide - How To Carry With Rumble Step by Step - Challenger Guide",
+        "description": "RUMBLE MID GUIDE // Rumble is one of my personal favourite champions, I recently picked him up because of how common he has been in the more aggressive regions (especially Doinb). I had a lot of success with him and even peaked 500lp chall with him recently. I try to cover how I interpret Rumble in as much detail as possible and I hope you can really see why I love him so much. Appreciate you guys tuning in and if you have any questions feel free to drop a comment below!\n\n00:00 - 00:44 // Introduction\n00:44 - 06:32 // Runes\n06:32 - 08:32 // Summoners\n08:32 - 14:50 // Build\n14:50 - 18:15 // Matchup Tier List\n18:15 - 21:53 // Rumble Identity\n21:53 - 23:54 // Ways To Play Early Lane\n23:54 - 26:55 // Rumble Item Journey\n26:55 - 29:45 // Rumble Micro Pt.1\n29:45 - 30:40 // Example Of Using ‘S’ Key\n30:40 - 32:44 // Rumble Micro Pt.2\n32:44 - 36:52 // Biggest Mistakes/Misconceptions\n36:52 - 40:44 // Tips For Mastering Rumble\n40:44 - 43:27 // Jungle Combos\n43:27 - 49:37 // The Equalizer + Examples Of Usage\n49:37 - 52:40 // How To Counter Rumble\n52:40 - 01:33:44 // VOD 1 (Rumble vs Syndra) Hard Matchup\n01:33:44 - 01:42:09 // VOD 2 (Rumble vs Kayle) Easy Matchup\n\nSupport me here: https://www.patreon.com/CoachCurtislol\n\n--------------------------------------------------------------------------------\n\nInstagram: https://www.instagram.com/coachcurtiscc/\n\n-------------------------------------------------\n\nDiscord Invite Link: https://discord.gg/rUWt52p\n\n------------------------------------------------\n\nStreaming: https://twitch.tv/coachcurtis\n\n-------------------------------------------------------------\n\nSay hi on Twitter: https://twitter.com/CoachCurtislol\n\n--------------------------------------------------------\n#Rumble #CoachCurtis #LeagueOfLegends",
+        "videoId": "xjfN2B7SXeM",
+        "preview": "https://i.ytimg.com/vi/xjfN2B7SXeM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jaysea",
+        "displayName": "Jay Sea",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy9mrC5Q0SuPmQb-985TXsA2SbKOUb4GU_22CL2Tg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-13T07:00:00Z",
+        "title": "How to DESTROY Rumble EASILY with Simple Set Up | Tryndamere vs Rumble | Iron IV to Diamond Ep #92",
+        "description": "➤ (Somewhat MonkaS) Comfort List of Champions:\n●Top (Most comfortable): \nTryndamere, Darius, Jax, Nasus, Garen, Pantheon, Yorick, Malphite, Mundo, Urgot, Rammus, Fiora, Olaf, Trundle, Mordekaiser, Maokai, Wukong, Shen, Tahm Kench, Renekton, Aatrox, Kled, Ornn, Poppy, Ryze, Warwick,\n\n●Jungle (Slightly comfortable): \nNocturne, Master Yi, Warwick, Yorick, \n\n●Mid: \nXerath, Lux, Vladimir, Kassadin, Talon, Fizz\n\n●ADC: \nKai'sa, Lucian, Ezreal, Miss Fortune, \n\n●Support (Does anyone even want to watch this?): \nLeona, Soraka, Sona, Pantheon, Taric, Blitzcrank, Yuumi, Pyke, Rakan, Lulu, Braum\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤Full Iron IV to Diamond Playlist \n● https://www.youtube.com/watch?v=_fRvn4ONn70&list=PLWLlskw0fR7ykcDSyQOmfIN2eRCNrgxto\n\n➤(2018) Depths of Bronze to Diamond COMPLETE Playlist! \n● https://www.youtube.com/watch?v=KLI6-n9FVsY&list=PLWLlskw0fR7zP1-yQ7F8H1McDvrw2P17v\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤ Support\nIf you would like to help the channel grow, please leave a like and comment and share the video with friends or your favorite online community.\n\nAlso subscribe and click the notification bell icon or follow me on Twitter to be notified when I post new content!\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤ Outro Music \n● Runescape 07 - Unknown Land (Trap Remix)\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤ Donations\n● Patreon - https://www.patreon.com/JaySeaPatreon\n● Paypal - https://www.paypal.me/JaySeaYouTube\nNote with Paypal: If you'd like to hear from me in response to your donation, be sure to include your email address in the note you send along with the donation.\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤ FOLLOW ME\n● Twitch - https://www.twitch.tv/jayseastream\n● Twitter - https://twitter.com/Jay_Sea_Channel\n● Facebook - https://www.facebook.com/JaySeaChannel\n● Discord - https://discord.gg/zNCnrmv\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nIf you'd like me to promote your product contact me on: YouTubeJaySea@hotmail.com\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+        "videoId": "1mzKpJ34Vuk",
+        "preview": "https://i.ytimg.com/vi/1mzKpJ34Vuk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "protatomonster",
+        "displayName": "Protatomonster",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy8_DuYOHahL4miEDAeQ--XqKSv2wdBrh1BDDG4=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-13T07:00:00Z",
+        "title": "When Challenger Players Are CALCULATED...",
+        "description": "Clean Pro Player Outplays, Creative Challenger Moments and Perfect Calculated Timing - League of Legends / LoL Best High Elo Montage\n\n🔶Don't forget to click the 🔔 Bell to get Notifications on new videos!\n🔶TFT CHANNEL: https://www.youtube.com/channel/UCNDoeaxF_O8n-cCwQTGbhuw\n\n▼Players featured in this League of Legends Montage:\n\n1) oAzra - https://www.reddit.com/r/LeeSinMains/comments/fc8t9v/my_first_nice_lee_play/\n2) dekar173 - https://www.twitch.tv/dekar173\n3) iNightmareX - https://www.reddit.com/r/leagueoflegends/comments/fbyxml/game_ending_combo/\n4) imaqtpie - https://www.twitch.tv/imaqtpie\n5) solary - https://www.twitch.tv/solary\n6) rush - https://www.twitch.tv/rush\n7) HenryBTW - https://www.reddit.com/r/leagueoflegends/comments/fcsrv7/kaylediana_ult_wombowe_lost/ \n8) tfblade - https://www.twitch.tv/tfblade \n9) midbeast - https://www.twitch.tv/midbeast\n10) SwainTime - https://www.reddit.com/r/leagueoflegends/comments/fcchz7/aatrox_outplay_i_did_right_here/\n11) R0rrels - https://www.reddit.com/r/leagueoflegends/comments/fchpmd/wombo_combo/\n12) madmantisgaming - https://www.twitch.tv/madmantisgaming\n13) Starlord Glimmer - https://www.reddit.com/r/leagueoflegends/comments/fde7xs/zac_with_elder_vs_enemy_team/\n14) obahu - https://www.youtube.com/watch?v=qxiTdpGD1vY\n15) F0EHAMMER - https://www.reddit.com/r/leagueoflegends/comments/fbrlbh/a_satisfying_turning_point/\n16) IdentityCrysis - https://medal.tv/clips/19919282/3fSszCrzaQta\n17) ihunnie - https://medal.tv/clips/20064564/aDCv3BMbYyaz\n18) Yolo Berimbolo - https://www.reddit.com/r/leagueoflegends/comments/fbrabj/flash_juke_jungle_bully/\n19) ultimate_top - https://www.twitch.tv/ultimate_top\n20) Rush - https://www.twitch.tv/rush/clip/BeautifulPreciousMuleRalpherZ\n21) n33m - https://www.reddit.com/r/leagueoflegends/comments/fdekes/yasuo_wet_dream/\n22) EvilEye - https://www.reddit.com/r/leagueoflegends/comments/fd2h5m/almost_1v5_pentakill_diana_ult_doesnt_do_dmg_btw/\n23) MightBeMist - https://www.reddit.com/r/leagueoflegends/comments/fawgqw/switched_to_adc_this_was_satisfying/\n24) Lord T Bone - https://www.reddit.com/r/leagueoflegends/comments/fd0x7i/the_unseen_wombo_is_the_deadliest/\n25) BratwurstZ - https://www.reddit.com/r/leagueoflegends/comments/fclu6w/game_changing_rumble_ult_we_were_down_10k_at_one/\n26) dekar173 - https://www.twitch.tv/dekar173\n27) syte_ryze - https://www.twitch.tv/syte_ryze\n28) Doubtfull - https://www.reddit.com/r/leagueoflegends/comments/fcbvs3/after_6_years_and_15m_mastery_points_i_finally/\n29) Tacticianeer - https://www.reddit.com/r/leagueoflegends/comments/fd8tj5/1v5_quadra/\n30) ratirl - https://www.twitch.tv/ratirl\n31) pekinwoof - https://www.twitch.tv/pekinwoof\n\nMusic in this LoL Montage:\n\n1) Track: Ascence - Rules [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/GxobnOtrW10\nFree Download / Stream: http://ncs.io/RulesYO\n2) Track: Ascence - Without You [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/aRWKi18SuHk\nFree Download / Stream: http://ncs.io/WithoutYouA\n3) Track: Diviners - Stockholm Lights [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/_Bs2dUtjDSI\nFree Download / Stream: http://ncs.io/StockholmLights\n4) Track: Levianth & Acejax - Real Love [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/VMqiNvYa9zA\nFree Download / Stream: http://ncs.io/RealLove\n5) Track: Prismo - Stronger (Raiko Remix) [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/pqYWDvV0I28\nFree Download / Stream: http://ncs.io/StrongerRaikoYO\n6) Track: Marin Hoxha X Annie Sollange  - Falling For You [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/VwKX0GvacIQ\nFree Download / Stream: http://ncs.io/FallingForYouNS",
+        "videoId": "we4TjKTIwmI",
+        "preview": "https://i.ytimg.com/vi/we4TjKTIwmI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Clown Fiesta Diamond Game vs. IWDominate",
+        "description": "This was a hilarious low Diamond game that IWdominate and Valkrin got pulled into because of problems with match-making. Challenger and master tier players should absolutely not be put in games in low Diamond players. Valkrin was playing Rumble Jungle and IWdominate was playing Hecarim jungle. This was a Clown Fiesta Diamond Game if I've ever seen one.\n\nIwdominate twitch: http://www.twitch.tv/IWillDominate\nValkrin: https://www.twitch.tv/valkrin",
+        "videoId": "t6RdK1OFD9o",
+        "preview": "https://i.ytimg.com/vi/t6RdK1OFD9o/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Scary Rumble Valkrin ft.Tobias Fate Duo",
+        "description": "Part of the duo stream I played with Tobias Fate. Lots of fun during the duo queue.\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven - Feel Like Horrible (feat. Sian) [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "bTMY-ZG2FTI",
+        "preview": "https://i.ytimg.com/vi/bTMY-ZG2FTI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "HARD Carry with Rumble jungle on Patch 7.2",
+        "description": "★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven - Feel Like Horrible (feat. Sian) [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "XGluUYN6vl8",
+        "preview": "https://i.ytimg.com/vi/XGluUYN6vl8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "Pro Patch Breakdown: Patch 6.1 ft. Bjergsen, Lemonnation, Doublelift, & Sneaky | League of Legends",
+        "description": "Season 6 is upon us and with it comes numerous mastery and item changes to help even the playingfield. Let's see what the the LCS's top players have to say about this patch heading into the start of the season.\n\n00:11 - Bard buffs | Lemonnation\n00:24 - Caitlyn bug fixes | Lemonnation\n00:38 - Fiddlesticks buffs | Lemonnation\n00:49 - GP nerf | Lemonnation\n1:05 - Kha'zix buffs | Lemonnation\n1:27 - Mordekaiser buffs | Lemonnation\n2:23 - Poppy changes | Lemonnation\n2:54 - Trundle nerfs | Lemonnation\n3:33 - Rumble buffs | Lemonnation\n3:40 - Keystone mastery buffs | Lemonnation\n6:36 - Last Whisper upgrade buffs | Lemonnation\n6:53 - Support sightstone item buffs | Lemonnation\n7:47 - Frost Queens Claim nerfs | Lemonnation\n8:15 - Crit/Attack Speed item changes | Lemonnation\n8:50 - Runic Echos (NEW jungle AP item) | Lemonnation\n9:51 - Trinket changes | Lemonnation\n10:14 - Jungle camp changes | Lemonnation\n11:19 - LeBlanc buff | Bjergsen\n11:38 - Teemo buffs | Bjergsen\n12:22 - GP Passive nerf | Bjergsen\n13:06 - Frost Queens Claim nerfs | Bjergsen\n13:30 - Phantom Dancer buff | Sneaky\n14:40 - Miss Fortune Nerf | Sneaky\n15:53 - Staikk Shiv buff | Doublelift\n16:31 - Death's Dance buff | Doublelift\n17:09 - Kalista nerf | Doublelift\n\n\n\nSubscribe our Channel: https://youtube.com/LolClassVideos?su...\nLike Us on Facebook: https://facebook.com/LolClasscom\n\nCheckout more Videos on: http://www.lolclass.com\n\nTwitter: https://twitter.com/LolClassCom\nGoogle+: https://google.com/+LolClass",
+        "videoId": "FSs1dV2d2lc",
+        "preview": "https://i.ytimg.com/vi/FSs1dV2d2lc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-03-30T20:13:14Z",
+        "title": "11 WEIRD TROLL BUILDS from Korean Challenger Grandmaster that actually work",
+        "description": "Check out their profiles below for more info on the builds!\nZilean = https://app.mobalytics.gg/profile/kr/zer%EA%B7%B8%EB%A7%81/overview?champion=Zilean \nRumble = https://app.mobalytics.gg/profile/kr/ccrazy?champion=Rumble \nTaric jungle = https://app.mobalytics.gg/profile/kr/%EC%B5%9C%EA%B0%95%EC%A6%90%EA%B2%9C%EB%9F%AC%20%EC%95%A0%EB%94%94?champion=Taric \nTaric conqueror / jungle = https://app.mobalytics.gg/profile/kr/%EB%A7%89%EB%82%B4%ED%98%84%EC%A7%84%20%EA%B5%AC%EB%8F%85?champion=Taric \nKindred ADC = https://app.mobalytics.gg/profile/kr/%EC%95%84%EB%9D%BC%EB%93%9C?champion=Kindred \nDraven (arrow) = https://app.mobalytics.gg/profile/kr/%EB%82%98%EB%8A%94%EB%8C%80%ED%8F%AC%EB%84%88%EB%8A%94%EB%A8%B8%ED%8F%AC?champion=Draven \nSett support = https://app.mobalytics.gg/profile/kr/vcvcc?champion=Sett \nZac top = https://www.youtube.com/user/stellar028  // https://app.mobalytics.gg/profile/kr/%EC%96%B4%EB%8B%88%EC%9A%B0%EA%B8%B0%20youtube?champion=Zac \nSoraka top = https://app.mobalytics.gg/profile/kr/%EA%B3%A8%ED%94%84%EC%9E%A5%EB%8F%99%EC%98%81%EC%83%81?champion=Soraka \nSett jungle = https://app.mobalytics.gg/profile/kr/dwg%20canyon?champion=Sett \n-------------------------------------------------------------------------\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\r\n♦ Follow me on Twitter → https://twitter.com/phygames\r\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\r\n-------------------------------------------------------------------------\r\nChannel partners\r\nMerch - https://phymerch.com/\r\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \r\nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\r\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \r\nLights I use in the background - https://uk.lifx.com/\r\n-------------------------------------------------------------------------\r\nEditor - https://twitter.com/ToxOnPC\r\nOutro - https://twitter.com/AverageMarsha\r\n\r\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\r\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\r\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\r\nLabel Channel: http://www.youtube.com/Monstercat\r\n-------------------------------------------------------------------------\n11 Weird Troll Builds from Korean Challenger Grandmaster that actually work",
+        "videoId": "s-nQEadBtFI",
+        "preview": "https://i.ytimg.com/vi/s-nQEadBtFI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-26T17:21:04Z",
+        "title": "I FOUND MY NEW MAIN!!! 100% WINRATE - Journey To Challenger | LoL",
+        "description": "Try #Filmora9- Filmora latest version 9: http://bit.ly/RedFilmora9\nOne-Stop Shop for Royalty-Free Video Effects, Audio, and Stock Media: http://bit.ly/RedVidEffects\nProfessional video editor #FilmoraPro: http://bit.ly/Redpro\n\nLEAVE A \"LIKE\" IF YOU ENJOYED THE VID!! My new main RUMBLE is here to wreak HAVOC in League of Legends!\n→My Merch Store: http://bit.ly/2nJDZdO →redmercy vs NB3 REMATCH: https://bit.ly/2PHd2mX\n→Journey To GM/Challenger Playlist: https://bit.ly/2Lr6ANp\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n \n Follow me here!\n→My Stream: https://www.facebook.com/RedmercyLoL\n→My Public Discord: discord.gg/YAay9Hc \n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nEdited By: https://twitter.com/WYuezhong\n \nHope you enjoy and please sub rate and comment!!! :)\n\nMY NEW MAIN! 100% WINRATE!!! Quitting Zed/Talon/etc (For Now?) - Journey To Challenger | LoL\n\n#lol #redmercy #leagueoflegends",
+        "videoId": "hnPVU3l1h3g",
+        "preview": "https://i.ytimg.com/vi/hnPVU3l1h3g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-01-31T15:00:13Z",
+        "title": "NOT EVEN THE PROS CAN BEAT THIS KOREAN RUMBLE SUPPORT THAT'S TEARING UP KOREAN CHALLENGER!",
+        "description": "KOREAN RUMBLE SUPPORT IS HERE!  THIS FULL AP KOREAN RUMBLE SUPPORT BUILD IS ABSOLUTELY DEVASTATING!\n\nUSE THIS VIDEO AS A GUIDE FOR RUMBLE SUPPORT IN SEASON 10\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "c65MKQSS3cA",
+        "preview": "https://i.ytimg.com/vi/c65MKQSS3cA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-11-11T17:35:32Z",
+        "title": "So FAKER has a strange new champion pick (NEW OP?) - Journey To Challenger | LoL",
+        "description": "LEAVE A \"LIKE\" IF YOU ENJOYED THE VID!! Faker has a weird new champ pick mid, RUMBLE MID Predator League of Legends!\n→My Merch Store: http://bit.ly/2nJDZdO →Pros are ABUSING this champ now: https://bit.ly/2Q7gjwE\n→Journey To GM/Challenger Playlist: https://bit.ly/2Lr6ANp\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n \n Follow me here!\n→My Stream: https://www.facebook.com/RedmercyLoL\n→My Public Discord: discord.gg/YAay9Hc \n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nEdited By: https://twitter.com/WYuezhong\n \nHope you enjoy and please sub rate and comment!!! :)\n\nSo FAKER has a strange new champion pick (NEW OP?) - Journey To Challenger | LoL\n\n#lol #redmercy #leagueoflegends",
+        "videoId": "AtGzibMJqvI",
+        "preview": "https://i.ytimg.com/vi/AtGzibMJqvI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-11-06T22:02:19Z",
+        "title": "MACAIYLA LEAKS HER MESSAGES | YASSUO'S IMITATING LEAGUE CHAMPS GAME WITH SANCHOVIES | LOL MOMENTS",
+        "description": "Help me reach 250.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nBusines inquiries: funoflegends@hotmail.com\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\nOutro Music: https://www.youtube.com/watch?v=iScT5IfgG-Q\n\n\n---\nCREDITS:\nYourPrincess: https://www.twitch.tv/YourPrincess\nBoxBox: https://goo.gl/LTrb4u\nHashinshin: https://www.twitch.tv/Hashinshin\nGripex: https://www.twitch.tv/Gripex90\nYassuo: https://www.twitch.tv/Yassuo\nlolTyler1: https://www.twitch.tv/lolTyler1\nTrick2G: https://www.twitch.tv/Trick2G\nTFBlade: https://www.twitch.tv/TFBlade\nMidbeast: https://www.twitch.tv/Midbeast\nRiotGames: https://www.twitch.tv/RiotGames\nBrumxttv: https://www.twitch.tv/Brumxttv\nCookieManMan: https://www.twitch.tv/CookieManMan\nCowsep: https://www.twitch.tv/Cowsep\nCrazyApe43: https://www.twitch.tv/CrazyApe43\nHanshaLoL: https://www.twitch.tv/HanshaLoL\nIrishyachtea: https://www.twitch.tv/Irishyachtea\nJiggedyjam: https://www.twitch.tv/Jiggedyjam\nlol_Ambition: https://www.twitch.tv/lol_Ambition\nMacaiyla: https://www.twitch.tv/Macaiyla\nMondoKool: https://www.twitch.tv/MondoKool\nRaggle_fraggle: https://www.twitch.tv/Raggle_fraggle\nReady2rumbleeuw: https://www.twitch.tv/Ready2rumbleeuw\nThebausffs: https://www.twitch.tv/Thebausffs\nXecutelol: https://www.twitch.tv/Xecutelol",
+        "videoId": "HHsUmaOUVfE",
+        "preview": "https://i.ytimg.com/vi/HHsUmaOUVfE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-02-15T18:10:39Z",
+        "title": "MY OLD ONE-TRICK IS FINALLY META AGAIN!!!!!! 200 IQ BUILD - Journey To Challenger | LoL",
+        "description": "LEAVE A \"LIKE\" IF YOU ENJOYED THE VID!! My Old Main Is BACK and READY TO RUMBLE with 200 IQ Build in League of Legends!!\n→My Merch Store: http://bit.ly/2nJDZdO →WORST CHAMP IN LEAGUE: https://bit.ly/2N9TXr0\n→Journey To GM/Challenger Playlist: https://bit.ly/2Lr6ANp\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n \n Follow me here!\n→My Stream: https://www.facebook.com/RedmercyLoL\n→My Public Discord: discord.gg/YAay9Hc \n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nEdited By: https://twitter.com/DKEditing\n \nHope you enjoy and please sub rate and comment!!! :)\n\nMY OLD ONE-TRICK IS FINALLY META AGAIN!!!!!! 200 IQ BUILD - Journey To Challenger | LoL\n\n#lol #redmercy #leagueoflegends",
+        "videoId": "awNSmcU-w8s",
+        "preview": "https://i.ytimg.com/vi/awNSmcU-w8s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-12-11T19:33:00Z",
+        "title": "15 Weird/OP builds from Korean Master that actually work",
+        "description": "What's your new favourite build? Builds down below!\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nAP shyvana top lane = http://www.op.gg/summoner/userName=nirvanarebirth\nTaric Jungle/Top GA = http://www.op.gg/summoner/userName=%EB%B6%84%EB%85%B8%EA%B4%80%EB%A6%AC%EB%B3%91%EC%95%A0%EB%94%94\nEzreal gunblade/sorcs = http://www.op.gg/summoner/userName=dwg%ED%94%84%EB%A\nRumble jungle DH = http://www.op.gg/summoner/userName=tar2an\nVayne Grasp = http://www.op.gg/summoner/userName=nekol\n0%88%EB%94%94%EC%B1%84%ED%81%90%EB%A6%AC\nTaric support PTA = http://www.op.gg/summoner/userName=jinairkellin\nTop lane Leona = http://www.op.gg/summoner/userName=%EB%B6%84%EB%85%B8%EA%B4%80%EB%A6%AC%EB%B3%91%EC%95%A0%EB%94%94\nHail of Blades Yi = http://www.op.gg/summoner/userName=pandatv1592982\nRengar top tank = http://www.op.gg/summoner/userName=celsea\n\nRyze tank = http://www.op.gg/summoner/userName=%EA%B0%80%EB%8B%A4%EB%9D%BC%EB%A7%88%EC%95%84%EB%B0%94\nNeeko support = http://www.op.gg/summoner/userName=msfgorilla\nPredator Malz = http://www.op.gg/summoner/userName=%EC%96%91%EA%B8%88%EC%B4%88\nTaliyah support = http://www.op.gg/summoner/userName=%EC%97%BD%EB%B6%81e\nAery Anivia = http://www.op.gg/summoner/userName=%EC%82%BC%EC%B2%9C%ED%8F%AC%EC%B5%9C%EA%B3%A0%EB%AF%B8%EB%93%9C\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat",
+        "videoId": "8CFUKWxZzcw",
+        "preview": "https://i.ytimg.com/vi/8CFUKWxZzcw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-11-02T14:50:51Z",
+        "title": "RUMBLE ON THE RIFT FROM MY POV! | UDYR TOP VS WINGSOFDEATH - Trick2g",
+        "description": "BEST COMMENT FROM THIS VIDEO WILL GET TIBBERS ONESIE GIVEN TO ME BY RIOTGAMES. (USA ONLY) WINNER WILL BE PICKED THIS SUNDAY! \nSUB TO ME WITH TWITCH PRIME & GET GET A SUMMONER'S CROWN CAPSULE W/ A RANDOM LEGENDARY SKIN SHARD! \n\nSpecial thanks to Rito for holding this event! \nMoe's POV: https://www.youtube.com/watch?v=KkUTUskFad8\nFt. Yassuo, Prismal, Smoothie, ForestWithin\n\nI'm an official League Partner with RiotGames, find out more here ➡️ http://bit.ly/LPP-Trick2g\n\n*****Rumble on the Rift footage was taken from twitch.tv/riotgames2 with permission.*****\n\nSub for DAILY uploads: http://bit.ly/YTTrick2g\nClick the 🔔 for notifications! NOW\n\n\nCheck out: \nSign up for FREE and get better at League of Legends ➡️ https://moba.lol/2qWTEGa\nBest gaming headsets ➡️ http://sennheiser.evyy.net/c/254410/244439/4104\n\n\n\nKeep in touch:\nTwitter: https://twitter.com/Trick2g\nInstagram: https://www.instagram.com/trick2g/\nTwitch: https://www.twitch.tv/trick2g\n\n\nSend fan mail:\nTrick2G LLC \nP.O. Box 38384 \nHenrico, VA 23231\n\n\nCredits:\nEditor ➡️ DeadEye http://bit.ly/DeadEyeDP\nIntro song ➡️  \"Broken\" https://soundcloud.com/alasen\n\n\nContribute & translate my videos ➡️  http://bit.ly/2h94lj8\n\nI LOVE YOU",
+        "videoId": "pXwABjaITcE",
+        "preview": "https://i.ytimg.com/vi/pXwABjaITcE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-09-13T14:44:36Z",
+        "title": "NASUS LATE GAME.... THEY DON'T WANNA SEE IT!!! - Trick2G",
+        "description": "NASUS TOP VS RUMBLE ON LAN! LAN GOD BOYS! LIKE FOR MORE!\nDon't forget to leave a like and LATA in the comments!! Likes really help guys ty... 😍\nSub for DAILY uploads: http://bit.ly/YTTrick2g\nClick the 🔔 for notifications! NOW\n\n\nCheck out: \nSign up for FREE and get better at League of Legends ➡️ https://moba.lol/2qWTEGa\nBest gaming headsets ➡️ http://sennheiser.evyy.net/c/254410/244439/4104\n\n\n\nKeep in touch:\nTwitter: https://twitter.com/Trick2g\nInstagram: https://www.instagram.com/trick2g/\nTwitch: https://www.twitch.tv/trick2g\n\n\nSend fan mail:\nTrick2G LLC \nP.O. Box 38384 \nHenrico, VA 23231\n\n\nCredits:\nEditor ➡️  Jiggy http://bit.ly/JiggyPuffFridays\nIntro song ➡️  \"Broken\" https://soundcloud.com/alasen\n\n\nContribute & translate my videos ➡️  http://bit.ly/2h94lj8\n\nI LOVE YOU",
+        "videoId": "PyHlYlFhkbk",
+        "preview": "https://i.ytimg.com/vi/PyHlYlFhkbk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-07-07T16:20:26Z",
+        "title": "10 most Underrated Champions in Season 8 for Solo Queue",
+        "description": "Thanks to Went for the Rumble stuff! Check his vid playing with streamers! https://www.youtube.com/watch?v=p7PCXEChJTU\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Follow my Stream → http://www.twitch.tv/phy_games\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nSponsors-\nCheck out Neubria- use code PHY30 for 30% off Neubria Zone - https://bit.ly/2szPeF8 // Neubria Charge - https://bit.ly/2J7rOOo\n\nEditor - https://twitter.com/ToxOnPC\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n10 most Underrated Champions in Season 8 for Solo Queue",
+        "videoId": "aYaZ8RAa7yc",
+        "preview": "https://i.ytimg.com/vi/aYaZ8RAa7yc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-06-16T00:10:34Z",
+        "title": "IMAQTPIE GUESSES AND SEES RUMBLE'S POWER | RIOT GAMES TROLLS METEOS | SHIPHTUR | LOL MOMENTS",
+        "description": "Follow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nFollow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nGet Memes Apparel here: http://bit.ly/FunofLegendsMemesApparel\nGet Hip-hop Apparel here: http://bit.ly/FunofLegendsHiphopApparel\nUse code meme for an Extra 5% discount ($49+)!\nUse code memes for an Extra 10% discount ($99+)! Juxtapositions and parallels are drawn between different clips to deliver the original narrative of the video in a transformative manner that falls under Fair Use and provides unique value to my viewers. Juxtaposition is an act or instance of placing two elements close together or side by side. This is often done in order to compare/contrast the two, to show similarities or differences, etc. A video qualifies as fair use if it juxtaposes source material in a new or unexpected way for the purposes of critique, commentary or education.\n\nHelp me reach 100.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\n---\nCREDITS:\nImaqtpie: https://www.twitch.tv/Imaqtpie\nLL Stylish: https://goo.gl/e30bvV \nPobelter: https://goo.gl/lqRQq8\nShiphtur: https://goo.gl/en426Z\nScarra: https://goo.gl/kTgyzu\nDekar173: https://goo.gl/R8hvpt\nIWDominate: https://goo.gl/VlPyhA\nFroggen: https://goo.gl/FzkhNe\nHashinshin: https://www.twitch.tv/Hashinshin\nMeteos: https://www.twitch.tv/Meteos\nYassuo: https://www.twitch.tv/Yassuo\nAphromoo: https://www.twitch.tv/Aphromoo\nBustin: https://www.twitch.tv/Bustin\nRiotGames: https://www.twitch.tv/RiotGames\nThejhandi: https://www.twitch.tv/Thejhandi\nTrick2g: https://www.twitch.tv/Trick2g\nWingsOfDeath: https://www.twitch.tv/WingsOfDeath\n\n\nFootage used in this video is protected by the Fair Use Law, section 107 used for commentary, criticism, news reporting or education for transformative use.\nhttps://www.copyright.gov/fair-use/more-info.html\nMy channel is focused on giving the best and unique moments of your favorite players. I put a lot of effort into making these videos with a lot of unique edits and personality effects on my videos. I got permissions for the content that I use and I alter them for fair use purpose and it also falls under the \"news reporting\" flag which is also considered as fair use!",
+        "videoId": "rd4IDtjvmQ0",
+        "preview": "https://i.ytimg.com/vi/rd4IDtjvmQ0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-06T19:14:54Z",
+        "title": "Badlands Baron Rumble Chroma Skins",
+        "description": "8 New Chroma skins available for Badlands Baron Rumble.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "a_e8J2wNqLE",
+        "preview": "https://i.ytimg.com/vi/a_e8J2wNqLE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-02T19:19:43Z",
+        "title": "Badlands Baron Rumble Skin Spotlight - League of Legends",
+        "description": "League of Legends Badlands Baron Rumble Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Rumble on their Badlands Baron Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "a9SKoP0bZgw",
+        "preview": "https://i.ytimg.com/vi/a9SKoP0bZgw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-03-20T20:04:26Z",
+        "title": "Badlands Baron Rumble Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Badlands Baron Rumble with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 1350RP\n\nSkin name is CONFIRMED as Badlands Baron Rumble, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "-PWD1gK90_A",
+        "preview": "https://i.ytimg.com/vi/-PWD1gK90_A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-03-06T17:53:56Z",
+        "title": "Pool Party Zoe, SSG Concepts & Gun Goddess Miss Fortune Teasers",
+        "description": "Taken from /dev - State of Skins, full video here:\nhttps://www.youtube.com/watch?v=nd7tB99T1hY\nhttps://nexus.leagueoflegends.com/en-us/2018/03/dev-diary-state-of-skins/\n\nPool Party Zoe Teaser, SSG Concept & Gun Goddess Miss Fortune Teaser!\nSSG Skins are 100% confirmed now for Ezreal, Jarvan, Taliyah, Gnar, Xayah and Rakan.\n\nRiot also confirmed that the following champions have skins in the works:\nShen\nAurelion Sol\nAmumu\nRumble\nHeimerdinger\nVladimir\nGalio",
+        "videoId": "3RkBRFm0q2A",
+        "preview": "https://i.ytimg.com/vi/3RkBRFm0q2A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-09T01:10:48Z",
+        "title": "Rumble Toplane vs Potato GP | Neace Stream Highlight",
+        "description": "In this episode it's a fiery \"rumble\" in the jungle, (toplane doesn't rhyme) Ft. Fogged! Nautilus ganks level 2, a cheese invade occurs, and gp gets a spanking. Stay tuned for more.\n\nfollow:\nTWITTER:   https://twitter.com/neacetweets\nFACEBOOK:  https://www.facebook.com/neaceofficial\nSTREAM:   http://www.twitch.tv/neace\n\nFEATURING -  foggedftw2: https://www.youtube.com/channel/UCaGzBvuWK_FtOSyt2CXAp7A/featured?&ab_channel=foggedftw2\n\n\nEdited By: Lucas \nYoutube: https://goo.gl/GWsVFt\nTwitter: https://twitter.com/luyonda",
+        "videoId": "TawAjQSPFVs",
+        "preview": "https://i.ytimg.com/vi/TawAjQSPFVs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-11T01:59:51Z",
+        "title": "[Season 8] Runes For ALL Champions (500+ Rune Pages)",
+        "description": "Huge thanks to all of the pro players and challengers who helped in the discussion leading to the creation of these pages. Some pages on the rune video might have errors / extra pages (alternatives) missing, this was an oversight due to the amount of time it took sorry. \nTimestamps: \n\n00:00 Aatrox\n00:05 Ahri\n00:17 Akali\n00:21 Alistar\n00:33 Amumu\n00:42 Anivia\n00:49 Annie\n00:56 Ashe\n01:01 Aurelion\n01:12 Azir\n01:17 Bard\n01:36 Blitzcrank\n01:45 Braum\n01:50 Brand\n02:04 Caitlyn\n02:09 Camille\n02:18 Cassio\n02:23 Cho'Gath\n02:33 Corki\n02:37 Darius\n02:55 Diana\n03:07 Draven\n03:12 Dr.Mundo\n03:28 Ekko\n03:51 Elise\n03:54 Evelynn\n03:56 Ezreal\n04:05 Fiddlesticks\n04:12 Fiora\n04:17 Fizz\n04:24 Galio\n04:29 Gangplank\n04:43 Garen\n04:50 Gnar\n04:52 Gragas\n05:04 Graves\n05:06 Hecarim\n05:11 Heimerdinger\n05:20 Illaoi\n05:39 Irelia\n05:55 Ivern\n06:11 Janna\n06:25 Jarvan\n06:35 Jax\n06:51 Jayce\n06:56 Jhin\n07:03 Jinx - Slight error, Press the Attack not comet tree is hers. Comet is Jhin's+Press the Attack\n07:06 Kalista\n07:08 Karma\n07:31 Karthus\n07:33 Kassadin\n07:52 Katarina\n08:01 Kayle\n08:03 Kayn\n08:13 Kennen\n08:17 Kha'Zix\n08:22 Kindred\n08:27 Kled\n08:31 Kog'Maw\n08:36 Leblanc\n08:48 Lee Sin\n08:54 Leona\n09:04 Lissandra\n09:11 Lucian\n09:16 Lulu\n09:34 Lux\n09:46 Malphite\n09:52 Malzahar\n10:00 Maokai\n10:03 Master Yi\n10:12 Miss Fortune\n10:23 Mordekaiser\n10:28 Morgana\n10:33 Nami\n10:44 Nasus\n11:03 Nautilus\n11:12 Nidalee\n11:15 Nocturne\n11:40 Nunu\n11:55 Olaf\n12:06 Orianna\n12:18 Ornn\n12:23 Pantheon\n12:30 Poppy\n12:36 Quinn\n12:39 Rakan\n12:44 Rammus\n12:50 Reksai\n12:55 Renekton\n13:07 Rengar\n13:16 Riven\n13:30 Rumble\n13:33 Ryze\n13:35 Sejuani\n13:39 Shaco\n13:49 Shen\n13:53 Shyvana\n14:00 Singed\n14:22 Sion\n14:26 Sivir\n14:29 Skarner\n14:35 Sona\n14:50 Soraka\n15:03 Swain\n15:09 Syndra\n15:13 Tahm\n15:29 Taliyah\n15:38 Talon\n15:43 Taric\n15:48 Teemo\n15:59 Twisted Fate\n16:11 Thresh\n16:13 Tristana\n16:18 Trundle\n16:32 Tryndamere\n16:34 Twitch\n16:39 Udyr\n16:46 Urgot\n16:49 Varus\n16:53 Vayne\n16:56 Veigar\n17:05 Vel'Koz\n17:16 Vi\n17:26 Viktor\n17:40 Vladimir\n17:45 Volibear\n17:54 Warwick\n18:06 Wukong\n18:17 Xayah\n18:20 Xerath\n18:31 Xin Zhao\n18:38 Yasuo\n18:48 Yorick\n18:55 Zac\n19:04 Zed\n19:09 Ziggs\n19:15 Zilean\n19:27 Zoe\n19:32 Zyra\n\nPLEASE NOTE :\n\nThe outlined but gray icon in the primary tree means that it is a possible alternative, although the colored path is preferred. In the secondary tree the outline stands for alternatives aswell, but it also shows what you can actually swap out and what is mandatory.\n\nAll of the rune pages that are seen in this video are not only created through my own thoughts, but dozens of pro and high elo players were involved in coming to conclusions when doing these rune pages.\n\nHuge shout-outs to everyone who participated in working on these.\n\nBGM : https://www.youtube.com/watch?v=_rbVt0z6NLM",
+        "videoId": "X6uxG09qN0s",
+        "preview": "https://i.ytimg.com/vi/X6uxG09qN0s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-06-16T12:10:10Z",
+        "title": "Patch 7.12 Rundown",
+        "description": "For the most part the changes are all good. Expect to see Zac nerfed after SKT Zac skin is released and not a second before. Only thing that makes sense when you see the attempted \"nerfs\" to him.\n\nTimestamps:\n0:19 Camille\n1:15 Corki\n2:30 Ivern\n4:08 Jax\n4:30 Jhin\n5:32 Karma\n6:16 Kindred\n7:01 Malzahar\n8:12 Rakan\n8:18 Rek sai\n9:00 Rumble\n11:08 Xayah\n11:20 Zac\n12:53 Locket of the iron solari\n13:31 Redemption\n14:10 Zeke's convergence\n15:12 Athene's unholy grail\n16:26 Knights wow\n16:48 Righteous glory\n16:55 glacial shroud\n17:27 Raptor cloak\n17:33 Talisman of accension\n17:43 Dorans ring\n18:59 dorans shield\n\nKayle Syndrome = The overreaction to changes/nerfs to a champion, thinking it will be completely unviable despite that not being the case.\n\nGet the Tempo Storm  LS edition jersey:  https://metathreads.com/collections/tempo-storm/products/copy-of-tempo-storm-jersey\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "lfWiD-Lhmyk",
+        "preview": "https://i.ytimg.com/vi/lfWiD-Lhmyk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-06-13T15:55:36Z",
+        "title": "JHIN BUFFS? NEW OP CHAMPS IN 7.12 - Champs to watch / Nerfs / Buffs (League of Legends)",
+        "description": "Patch 7.12 is just around the corner so let's go over some of the biggest changes! There are actually some pretty cool changes this time around.\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\nTimestamps\nADC = start of the video\nMid = 2:34\nJungle = 4:55\nSupport = 7:36\nTop = 10:52\n\nList of changes\n-Dorans shield nerf\n-Jhin buff\n-Xayah nerf\n-Malz nerf\n-Corki buff\n-Dorans ring nerf\n-Zac nerf\n-Ivern nerf\n-Kindred buff\n-Rek'Sai buff\n-Zekes rework\n-Redemption nerf\n-Athenes rework\n-Locket rebalance\n-Rumble buff\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nJHIN BUFFS? NEW OP CHAMPS IN 7.12 - Champs to watch / Nerfs / Buffs (League of Legends)",
+        "videoId": "qaUPjQY8TQ0",
+        "preview": "https://i.ytimg.com/vi/qaUPjQY8TQ0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-17T20:42:30Z",
+        "title": "NEW BEST CHAMPIONS+BANS IN 7.5 for CLIMBING in each role (League of Legends)",
+        "description": "Let's go over the best champions and best bans in 7.5 right now!\nTop 5 ADCs this patch = https://youtu.be/9sbVYzDjp20\n♦ Help us hit 500k subs if you enjoyed!  → http://bit.ly/phylolsub\n\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nTimestamps :\nTop - 0:49\nJungle - 2:38\nSupport - 4:47\nMid - 6:54\nADC - 8:47\n\nList of Champions - if you use this please consider liking the video!\nBans = Katarina, Graves, Camille, Rengar, Zed - Lulu, Yasuo, Ahri, Warwick, Firoa\n\nTop = Fiora, Renekton - Watch Rumble\nJungle = Warwick, Graves - Watch Nunu\nSupport = Lulu, Sona- Watch Braum\nMid = Ahri, Anivia - Watch Fizz\nADC = Twitch, Caitlyn - Watch Kalista\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNEW BEST CHAMPIONS+BANS IN 7.5 for CLIMBING in each role (League of Legends)",
+        "videoId": "I7WV8b3s1mc",
+        "preview": "https://i.ytimg.com/vi/I7WV8b3s1mc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-02-23T05:27:58Z",
+        "title": "Recalls - Champion Updates | All Champions who didn't have recalls now do!",
+        "description": "List and timestamps below! All old champions which haven't had recalls now have them, 74 bases, 351 skins will now have recalls.  This video will show all the base champions which have been changed.\n\nMore information Here:\nhttp://boards.na.leagueoflegends.com/en/c/story-art/IngzHFRs-adding-simple-recalls-to-older-champs\n\nFull List of Champions and what animations they use for the recall:\nhttp://boards.pbe.leagueoflegends.com/en/c/champions-gameplay-feedback/AOE2y1J5-adding-simple-recalls-soon-on-pbe\n\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nTime Stamps:\nAhri - 00:04\nAkali - 00:14\nAlistar - 00:26\nAmumu - 00:37\nAnivia - 00:47\nAshe - 00:57\nBlitzcrank - 01:07\nBrand - 01:18\nCaitlyn - 01:28\nCassiopeia - 01:40\nCho'Gath - 01:50\nCorki - 02:00\nDr. Mundo - 02:11\nEvelynn - 02:21\nEzreal - 02:31\nFiddlesticks - 02:41\nFiora - 02:52\nFizz - 03:01\nGalio - 03:12\nGragas - 03:22\nGraves - 03:32\nHecarim - 03:43\nIrelia - 03:53\nJanna - 04:03\nJarvan IV - 04:13\nJax - 04:25\nKassadin - 04:35\nKayle - 04:45\nKennen - 04:56\nKog'Maw - 05:06\nLeblanc - 05:16\nLee Sin - 05:27\nLeona - 05:37\nLulu - 05:48\nLux - 05:59\nMalphite - 06:09\nMalzahar - 06:18\nMaokai - 06:28\nMiss Fortune - 06:41\nMordekaiser - 06:50\nMorgana - 07:00\nNautilus - 07:10\nNocturne - 07:20\nNunu - 07:32\nOlaf - 07:42\nOrianna - 07:53\nPantheon - 08:02\nRammus - 08:11\nRenekton - 08:21\nRiven - 08:30\nRumble - 08:40\nShaco - 08:50\nShen - 09:00\nShyvana - 09:08\nSinged - 09:29\nSkarner - 09:39\nSona - 09:48\nSwain - 09:57\nTalon - 10:07\nTeemo - 10:16\nTryndamere - 10:25\nUdyr - 10:35\nUrgot - 10:44\nVarus - 10:54\nVayne - 11:03\nVeigar - 11:12\nViktor - 11:21\nVladimir - 11:32\nVolibear - 11:42\nWukong - 11:51\nXerath - 12:00\nXin Zhao - 12:09\nZiggs - 12:20\nZilean - 12:30\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "zhUAc86A_uE",
+        "preview": "https://i.ytimg.com/vi/zhUAc86A_uE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-01-31T14:00:04Z",
+        "title": "N3ac3y Korea Climb #13 - 6/6/6 Rumble",
+        "description": "op.gg: http://www.op.gg/summoner/userName=elgae+nacirum\n\nWatch every game live at:\nhttps://www.twitch.tv/n3ac3y\n\nN3ac3y's Stream Schedule in Korea (tentative): \nStarting 9:00 AM Korean Standard Time | 4:00 PM PST | 7:00 PM EST | 12:00 AM GMT | 11:00 AM AEDT\n\nAlso get more updates on n3ac3y's twitter:\nhttps://twitter.com/N3ac3y\n\nDISCORD:  http://discord.gg/n3ac3y\nPATREON:  https://www.patreon.com/n3ac3y\nFACEBOOK:  https://www.facebook.com/bingegaming.tv\n\nBig thanks to Cowsep and Last Shadow, they have gone out of their way and been so helpful.  Check them out at:\nhttps://www.twitch.tv/cowsep\nhttps://www.twitch.tv/imls\n\nProduction: Phreo\n--Watch Live at http://www.twitch.tv/n3ac3y",
+        "videoId": "n6G0m6RY4SY",
+        "preview": "https://i.ytimg.com/vi/n6G0m6RY4SY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-28T01:29:43Z",
+        "title": "Preseason 7 LoL Coaching #34 - Rumble Top (S6 Platinum)",
+        "description": "The last of the preseason coaching videos.  Rumble top vs. Riven.  n3ac3y touches on ult selection, snowball tactics, early game matchup, and negotiating difficult enemy team compositions.\n\nFF@20$ Replay Reviews on http://twitch.tv/n3ac3y\nUse http://op.gg or http://replay.gg to record your games.   Come in, have a replay ready to review, donate 20$, and get your gameplay reviewed live on stream on Mondays. $50 on demand.\n\nAlso, be sure to follow:\n►TWITTER: https://twitter.com/n3ac3y\n►FACEBOOK: https://www.facebook.com/bingegaming.tv\n►MY LIVESTREAM: http://www.twitch.tv/n3ac3y\n►DISCORD: http://discord.gg/n3ac3y\n►PATREON: https://www.patreon.com/n3ac3y\n►OP.GG: http://goo.gl/43igza\n►LOLKING:   http://www.lolking.net/summoner/na/54794681\n\nTelestrator: http://epic-pen.com/\n\nProduction: Phreo -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "NC04U3WAx4g",
+        "preview": "https://i.ytimg.com/vi/NC04U3WAx4g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-27T01:13:18Z",
+        "title": "[Dual-Coaching] Challenger Rumble Top - Ft. Challenger Korean friend",
+        "description": "This coaching session is a dual coaching session between myself and my challenger korean friend Sam Sung ( http://twitter.com/Lazarus1215 ). We coach a challenger player who at the time was rank 65 on his mindsets/view in the game and how to start making consistent +EV logical decisions rather than decisions influenced by emotion or other sources. The game contains both the live-coaching and VOD review at the end.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com\n\nFollow Sam Sung: http://twitter.com/Lazarus1215",
+        "videoId": "otQvwxtTZuY",
+        "preview": "https://i.ytimg.com/vi/otQvwxtTZuY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-10T04:51:22Z",
+        "title": "[Season 7] Masteries For Almost All Champions",
+        "description": "Some masteries reflect personal viewpoints on the game and are aimed specifically at lane/control advantages and edges. This wasn't a planned video and also there are more variations to some champs than just what was shown as possibilities in this video.\nTIMESTAMPS: \n\nADC\n\n 00:00 Ashe\n00:04 Caitlyn\n00:10 Draven\n00:14 Ezreal\n00:19 Jhin\n00:25 Jinx\n00:29 Varus\n00:35 Vayne\n00:38 Kalista\n00:42 Tristana\n00:47 Twitch \n\nSupport\n00:50 Taric\n00:55 Thresh\n01:00 Zyra\n01:05 Braum\n01:10 Leona\n01:15 Nami\n01:19 Nautilus(top error)\n01:23 Soraka \n01:27 Karma\n01:32 Tahm Kench\n\nMid\n\n01:37 Ahri\n01:42 Annie\n01:47 Ekko\n01:50 Aurelion Sol\n01:55 Brand\n02:00 Cassiopeia\n02:04 Fizz\n02:10 Jhin\n02:XX Karthus RENDER ERROR 18/12/0\n02:14 Kassadin RENDER ERROR 12/18/0 TLD/DG/Feast\n02:19 Katarina\n02:23 Leblanc\n02:27 Lissandra\n02:32 Lux\n02:38 Malzahar\n02:41 Orianna\n02:46 Pantheon\n02:51 Ryze\n02:55 Syndra\n03:00 Talon\n03:05 Twisted Fate\n03:10 Varus\n03:14 Vel'Koz\n03:18 Viktor\n03:23 Vladimir\n03:28 Zed\n03:32 Zilean\n\nJungle\n\n03:37 Amumu\n03:42 Elise\n03:47 Evelynn\n03:50 0/18/12 render bug\n03:55 Ivern\n04:01 Jarvan 4\n04:05 Kha'Zix\n04:10 Kindred\n04:14 LeeSin \n04:18 Nautilus shared top\n04:23 Nidalee\n04:27 Nunu TWO pages\n04:36 Pantheon\n04:40 Rammus\n04:45 Rek'Sai\n04:50 Sejuani\n04:55 Shaco\n05:00 Skarner\n05:04 Vi\n05:09 Zac\n\nTop:\n\n05:13 Ekko\n05:18 Gangplank\n05:23 Darius AD\n05:27 Mundo\n05:32 Fiora\n05:36 Fizz\n05:42 Jax\n05:46 Jayce\n05:50 Kennen\n05:55 Lissandra\n06:00 Malphite\n06:05 Maokai\n06:09 Mordekaiser TWO pages\n06:17 Nasus\n06:22 Nautilus\n06:27 Pantheon\n06:31 Poppy\n06:36 Renekton\n06:40 Riven\n06:45 Rumble\n06:50 Ryze\n06:55 Swain\n07:00 Tahm Kench\n07:05 Akali\n07:10 Karma Tank\n07:12 Colo renekton\n07:17 Colo darius\n07:22 Colo Irelia\n07:26 God\n07:30 Trundle\n07:35 Tryndamere\n\nPlease note that not all champions were done, as this took a while answering questions on stream and then I decided to turn it into a video. If you have some questions on specific champions then feel free to comment below and I can probably post an imgur screenshot of their masteries or something. SOME MASTERIES SEEN HERE do somewhat reflect personal view/emphasis on lane+game advantage/edges. Thanks for watching\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "u1koHz0Et4A",
+        "preview": "https://i.ytimg.com/vi/u1koHz0Et4A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-10-20T13:00:01Z",
+        "title": "Masters Coaching #80 - Rumble Top (Silver 5)",
+        "description": "We got a Rumble top vs. Maokai.  N3ac3y highlights Rumble basics, wave management, and priorities.\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►LOLKING:   http://www.lolking.net/summoner/na/25...\r\n -- Watch live at https://www.twitch.tv/n3ac3y\r\n\r\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "BoBU573_YsQ",
+        "preview": "https://i.ytimg.com/vi/BoBU573_YsQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-09-19T01:57:31Z",
+        "title": "Masters Coaching #38 - Rumble Top (Plat 5)",
+        "description": "Rumble, some itemization clean up needed, how to equalize and carry your teamfights!\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►LOLKING:   http://www.lolking.net/summoner/na/25...\r\n -- Watch live at https://www.twitch.tv/n3ac3y -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "moqnrfqHsHc",
+        "preview": "https://i.ytimg.com/vi/moqnrfqHsHc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-09-12T03:05:28Z",
+        "title": "Udyr Rumble Top",
+        "description": "http://www.twitch.tv/trick2g \nFollow me @ twitter.com/trick2g for D Latest updates.\nUse Promo Code \"TRK for 3% off G2A games http://bit.ly/2czl0ci\n�я Sennheiser ��� http://bit.ly/1SKGjVU\n�я Cyberpower Pc use code T2G for 5% off above 1.299$ ��� http://bit.ly/1R2Yqd9\n�я Be a part of subwars ��� http://www.mysubwars.com\n�я Syber Gaming ��� http://www.sybergaming.com\n�я Gunnar use discount code TRK ��� http://bit.ly/2bgV3lp\n�я Join us on our Curse server ��� https://www.curse.com/trick2g\n�я Subwars entry ��� http://www.mysubwars.com/\n�я My Youtube Channel ��� http://www.youtube.com/user/trick0850\n------------------------------------------------------------------------------\n�я Want to learn about the gates? Check out D MY WAY playlist:\nhttps://www.youtube.com/playlist?list...\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "UHsXL5RyxPk",
+        "preview": "https://i.ytimg.com/vi/UHsXL5RyxPk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-07-11T23:55:43Z",
+        "title": "Patch 6.13 Tierlist - Q&A",
+        "description": "If you're looking for answers regarding a certain champion, try using CTRL+F and entering the name. This will highlight the keyword in every sentence on this page.\n\nTimestamps :\n00:00-11:16 - 3 donation questions\n11:21 - Shouldn't Nidalee be ranked lower\n11:46 - Can you explain the Maokai jungle S tier in Platinum / Diamond ?\n15:55 - Why isn't there Irelia in gold and platinum ?\n19:20 - Why is Syndra in Master ?\n20:49 - Can I climb as a OTP ?\n21:17 - Can I play Varus in Gold ?\n21:42 - Should I stop playing Zed in D4 even though I have a 69% Winrate ?\n22:16 - Is tilt a factor in placing champions with regards to Platinum and under ?\n22:31 - Why don't you think that Graves top is a viable toplane pick for lower mmrs ?\n23:38 - Why isn't there Malzahar in gold ?\n24:53 - Why does MissFortune fall of at Platinum / Why is she so good at lower mmrs ?\n25:53 - Why is Varus S tier in Diamond ?\n28:18 - talk about Yasuo for soloQ\n29:33 - Why isn't x Champion listed ? ( SF analogy )\n31:55 - Why is Twitch jungle not in the tier list ?\n32:17 - Why is Caitlyn only on Master and Diamond B Tier ?\n33:05 - Why is Gangplank not on the list ? ( also explaining other champions ) \n36:32 - Why Winrates are overvalued\n38:39 - \"Why is it impossible for Riot to fix the game ? \" ( Offtopic )\n40:19 - Explanation of Soraka\n41:31 - Thoughts on Ahri\n41:54 - What holds Nocturne back from being in B-tier in any of the elos ?\n42:37 - What about Jax ?\n43:38 - \"There is no getting behind on Irelia\" \n45:00 - Why is Twisted Fate not in any of the S tiers\n46:18 - The \"escort\" concept with a video example at 49:01 ( Offtopic )\n52:04 - Why is rumble not appearing before god tier ?\n52:45 - Why is Ekko so low ?\n52:48 - Why isn't Jhin appearing untill Diamond ?\n53:23 - What is Taliyahs worst matchup ?\n53:30 - What happened with Orianna ?\n53:46 - Why would you put Kha'Zix in B tier ?\n55:09 - Short thoughts on Taliyah\n55:40 - Why isn't Maokai in any S Tier in toplane ?\n55:59 - What is your Goal when you play Trundle in the jungle ?\n56:06 - Why does Cassiopeia appear only in Masters tier A ?\n56:46 - \"Azir should be s tier for challenger\"\n57:32 - Isn't Grevious Wounds a problem for Swain and Vladimir ?\n57:48 - Thoughts on Draven\n57:53 - Is Jinx simply outclassed by Ashe and lucian ?\n57:27 - Is Azir good for OTPs ?\n58:10 - Talk about heimerdinger\n59:57 - Does Diana have potential ?\n01:00:05 - Taric for soloQ\n01:00:23 - What about Leona ? ( explaining Malphite aswell )\n01:02:11 - For how long will the list be valid ?\n01:02:26 - Why is taliyah not on the tierlist for toplane ?\n01:02:52 - Ziggs vs Xerath\n01:03:27 - Talk about Zac\n01:04:18 - Explanation of Renekton\n01:05:37 - Opinion on Ryze\n01:06:32 - Thoughts on Tryndamere\n01:07:24 - Why is it that trees are the color green ( Offtopic ) \n01:08:09 - Why is tristana a weak pick for lower elos ?\n01:09:03 - Tierlist for roles in each mmr ( http://bit.ly/2a29iGA picture from stream )\n\nFollow me at the links below:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "OHLOoVT3Fwo",
+        "preview": "https://i.ytimg.com/vi/OHLOoVT3Fwo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-12-06T20:40:15Z",
+        "title": "League of Legends Historical Timeline 2006-2016",
+        "description": "● Some of the dates may be off by a day or two, but the general timeline of things is definitely accurate!\n● Shoutout to Silentc0re for the inspiration behind this video: https://www.youtube.com/user/silentc0re\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n►Outro Song:\nSuper Galaxy Rumble Login Music:\nhttps://www.youtube.com/watch?v=y_khi...\n\n►Background music from League of Legends:\nNormal Draft Champion Select\nDominion Draft Champion Select\nDominion Blind Pick Champion Select\nOriginal Login Music:\nhttps://www.youtube.com/watch?v=AllLu...\nDominion Login Music:\nhttps://www.youtube.com/watch?v=mNFCi...\n\n►Thumbnail Source:\nhttp://riot.com/1NDrS6O\n\n►Video Clip Sources:\n\nWelcome to League of Legends (Intro):\nhttps://www.youtube.com/watch?v=IzMnC...\n\nBrandon Beck and Marc Merril: \nhttp://www.ongamers.com/articles/riot...\n\nDefense of the Ancients:\nhttps://www.youtube.com/watch?v=twvEQ...\n\nLeague of Legends Clash of Fates Trailer:\nhttps://www.youtube.com/watch?v=RprbA...\n\nSinged Champion Spotlight:\nhttps://www.youtube.com/watch?v=ZOpT_...\n\nSummoner's Rift Winter Map:\nhttps://www.youtube.com/watch?v=qYEuP...\n\nLeague of Legends Walkthrough Trailer:\nhttps://www.youtube.com/watch?v=RYc8C...\n\nTwisted Treeline Trailer:\nhttps://www.youtube.com/watch?v=sG_Vc...\n\nVladimir Champion Spotlight:\nhttps://www.youtube.com/watch?v=eiUgr...\n\nKayle Champion Spotlight:\nhttps://www.youtube.com/watch?v=kn-Y6...\n\nSummoner's Rift ARAM:\nhttps://www.youtube.com/watch?v=YrKOX...\n\nJournal of Justice:\nhttps://littlebirdgamereviews.wordpre...\n\nHarrowing Summoner's Rift Map:\nhttps://www.youtube.com/watch?v=CWwDK...\n\nCo-Op vs AI:\nhttps://www.youtube.com/watch?v=Kxs3V...\n\nThe Tribunal:\nhttps://www.youtube.com/watch?v=Pnkal...\n\nSeason One World Championship:\nhttps://www.youtube.com/watch?v=KwrPH...\n\nDominion:\nhttps://www.youtube.com/watch?v=cuINb...\n\n11.5M Players:\nhttps://www.youtube.com/watch?v=ZRSiE...\n\nSeason 2 Begins:\nhttps://www.youtube.com/watch?v=JAFJH...\n\nColorblind Mode:\nhttps://www.youtube.com/watch?v=BHXsh...\n\nRemoval of Dodge:\nhttps://www.youtube.com/watch?v=SWZdJ...\n\nSpectator Mode pt 1:\nhttps://www.youtube.com/watch?v=oqT14...\n\nSpectator Mode pt 2:\nhttps://www.youtube.com/watch?v=IAtXB...\n\nFirst graphical update:\nhttps://www.youtube.com/watch?v=1sVap...\n\nPulsefire Ezreal:\nhttps://www.youtube.com/watch?v=7ebQT...\n\nJayce Champion Spotlight:\nhttps://www.youtube.com/watch?v=p2Yuy...\n\nKha'Zix Champion Spotlight:\nhttps://www.youtube.com/watch?v=jKLK9...\n\nTwisted Treeline Update:\nhttps://www.youtube.com/watch?v=3oLAZ...\n\nPreseason to Season 3:\nhttps://www.youtube.com/watch?v=drNRC...\n\nSeason 3 Begins:\nhttps://www.youtube.com/watch?v=EevdE...\n\nWelcome to the LCS:\nhttps://www.youtube.com/watch?v=4Vy2z...\n\nReplay announcement:\nhttps://www.youtube.com/watch?v=2G0e-...\n\nLeague of Legends for Mac:\nhttps://www.youtube.com/watch?v=qbPuz...\n\nKarma Champion Spotlight:\nhttps://www.youtube.com/watch?v=lWIj3...\n\nHowling Abyss Patch Preview:\nhttps://www.youtube.com/watch?v=9nVa8...\n\nTeamwork OP:\nhttps://www.youtube.com/watch?v=ugXC7...\n\nRoad to the Cup:\nhttps://www.youtube.com/watch?v=PX_IQ...\n\nOne for all:\nhttps://www.youtube.com/watch?v=OQPye...\n\nPreseason to Season 4:\nhttps://www.youtube.com/watch?v=-C8e7...\n\nA Twist of Fate Cinematic:\nhttps://www.youtube.com/watch?v=tEnsq...\n\nYasuo Champion Spotlight:\nhttps://www.youtube.com/watch?v=fkM20...\n\nLoL Challenger Series:\nhttps://www.youtube.com/watch?v=am2GF...\n\nTeam Builder:\nhttps://www.youtube.com/watch?v=AkNYb...\n\nUltra Rapid Fire Game Mode:\nhttps://www.youtube.com/watch?v=misAy...\n\nRandom Clip chosen for master tier:\nhttps://www.youtube.com/watch?v=S6e0B...\n\nSeason 4 World Championship:\nhttps://www.youtube.com/watch?v=fmI_N...\n\nSummoner's Rift Preview:\nhttps://www.youtube.com/watch?v=FiSNH...\n\nPreseason to Season 5:\nhttps://www.youtube.com/watch?v=aKL6F...\n\nNew HUD:\nhttp://na.leagueoflegends.com/en/page...\n\nSeason 5 Worlds:\nhttps://www.youtube.com/watch?v=RjWvr...\n\nPreseason to Season 6:\nhttp://na.leagueoflegends.com/en/site...\n\nNew Client:\nhttp://na.leagueoflegends.com/en/site...\n\nNew Champion Select:\nhttps://www.youtube.com/watch?v=Qe4hM...\n\nDynamic Groups:\nhttp://na.leagueoflegends.com/en/site...\n\nHextech Crafting:\nhttp://na.leagueoflegends.com/en/site...",
+        "videoId": "z65iIwYdrCw",
+        "preview": "https://i.ytimg.com/vi/z65iIwYdrCw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-07T00:39:21Z",
+        "title": "[Coaching-Top] Rumble, Silver Kayle Diamond V",
+        "description": "Interested in being coached? Read here for more information: https://www.facebook.com/notes/nick-de-cesare/updated-coaching-and-availability-effective-july-25th-2015/713698675426250?pnref=story\n\nThis video features Silver Kayle in the fourth of eight coaching sessions which will take place. The game focuses on how to add salt to the wound on the enemy team, and how to abuse micro advantageous. There is a detailed VOD review after the game ends, and we address a lot of things he could've done better.\n\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls",
+        "videoId": "XmVPcgJ1R7w",
+        "preview": "https://i.ytimg.com/vi/XmVPcgJ1R7w/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-06T14:05:14Z",
+        "title": "Super Galaxy Rumble Skin Spotlight (2015) - League of Legends",
+        "description": "League of Legends Super Galaxy Rumble Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Rumble on their Super Galaxy Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "viKvLnbU9pA",
+        "preview": "https://i.ytimg.com/vi/viKvLnbU9pA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-06T14:05:13Z",
+        "title": "Bilgerat Rumble Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Bilgerat Rumble Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Rumble on their Bilgerat Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "Po-oGzlp45g",
+        "preview": "https://i.ytimg.com/vi/Po-oGzlp45g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-06T14:05:12Z",
+        "title": "Rumble in the Jungle Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Rumble in the Jungle Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Rumble on their Jungle Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "nUZYDosjIlQ",
+        "preview": "https://i.ytimg.com/vi/nUZYDosjIlQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-06-25T07:46:44Z",
+        "title": "Rumble VFX Update - Classic, Rumble in the Jungle and Bilgerat Rumble",
+        "description": "Small preview of the Rumble VFX Update.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSuper Galaxy Rumble received no changes due to how new and inline it is.\nFull spotlights will be released for each individual skin closer to the live patch.",
+        "videoId": "SvMVeTF6AU4",
+        "preview": "https://i.ytimg.com/vi/SvMVeTF6AU4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-04-30T23:48:58Z",
+        "title": "Star Guardian Lux Trailer",
+        "description": "Teaser trailer for the upcoming Star Guardian Lux Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSkin Spotlight:\nhttps://www.youtube.com/watch?v=ccuUlbHf8EQ\n\nSong: Super Galaxy Rumble Login\n\nTools Used:\nSkinSpotlights Camera, SkinSpotlights Replay, Sony Vegas",
+        "videoId": "D3O6l_snFrE",
+        "preview": "https://i.ytimg.com/vi/D3O6l_snFrE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-03-23T10:38:04Z",
+        "title": "Luden's Echo - Why Luden clearly didn't last long in the Fields of Justice.",
+        "description": "Luden must've been a really bad mage, because if this is his echo it's no wonder he must be dead.\n\nTL:DW? - Most champions can't neglect the items which they must already prioritize without really hindering themselves or their team. The AP ratio of most champions don't benefit solely from the 120ap enough to make the slight movespeed/passive worth it for them over items which give them more raw utility or damage. If you actually want to understand more than just beyond this, watch the video.\n\n*Luden's can be built on champions who use Lich Bane as a 6th item if you sell your boots.\n\nThe following champions are the only ones I currently think Luden's may be good on:\nCassiopeia (Roa/Rylai form)\nLulu\nKatarina\nKarma\nAkali\nRyze (6th item)\nAhri\n\nLooking for your champion?\n2:52 - Lulu\n4:11 - Lux\n5:37 - Morgana\n6:11 - Nidalee\n7:30 - Orianna\n8:24 - Ryze\n9:22 - Annie\n10:29 - Syndra\n11:08 - God\n11:47 - Twisted Fate\n12:13 - Veigar\n12:19 - Vel'Koz\n12:55 - Xerath\n13:08 - Ziggs\n13:25 - Zyra\n13:37 - Ahri\n14:27 - Akali\n15:08 - Cassiopeia\n15:34 - Diana\n16:32 - Elise\n16:42 - Fizz\n17:01 - Karma\n17:33 - Karthus\n17:45 - Kassadin\n18:00 - Katarina\n18:37 - Kayle\n19:03 - Kennen\n19:13 - Kog'Maw\n19:28 - LeBlanc\n19:51 - Lissandra\n\nChampions accidentally not mentioned: \nRumble - (can't neglect the zhonya/liandry/void rush)\nViktor - (needs too many items, very expensive ramp up and timings)\nVladimir - (his E at 4 stacks already is far superior of wave clear than he'll ever need. Outside of this he needs his other few items MAYBE it could be a 6th item depending on team comps)\nAnivia - Spells not reliable enough, poor AP ratios.\nMordekaiser - Way too reliant on his other items\n\nI'm the the head coach of NA LCS Team Gravity.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nTwitch: http://twitch.tv/imls",
+        "videoId": "l9Mk1D9hYMU",
+        "preview": "https://i.ytimg.com/vi/l9Mk1D9hYMU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-01-13T14:00:12Z",
+        "title": "How to Recover From Multiple Throws: Late Game Ranked Commentary | League of Legends LoL",
+        "description": "Watch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nFollow Me on Twitter: @GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://freaky--panda.deviantart.com/art/Ready-to-Rumble-246655668",
+        "videoId": "VJAjSMf1y9o",
+        "preview": "https://i.ytimg.com/vi/VJAjSMf1y9o/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-08-17T23:09:03Z",
+        "title": "[Tierlist] Patch 4.14",
+        "description": "http://twitter.com/im_ls + http://facebook.com/nick.decesare.7\n\nI'm the former Coach of EU LCS Team MYM. I'm a former Samsung Ozone/Blue house member, and Diamond 1 Korea server. In this video I give a rundown on my opinion for a tierlist for Patch 4.14 (gnar) in League of Legends \n\nFollow me:\nhttp://twitter.com/im_ls\nhttp://twitch.tv/imls\nhttp://facebook.com/nick.decesare.7\nhttps://www.facebook.com/pages/ls/267710736646000\n\n\nTIERLIST TEXT: \nPATCH 4.14 TIER LIST(August 18th, 2014):\n\n\nMID\nTier 1: Orianna, Syndra, Twisted Fate, Ahri, Ryze, Yasuo, Kassadin\nTier 2: Lulu, Fizz, Xerath, Karthus, Ziggs, Jayce, Zed\nTier 2.5: Talon, Kayle, Lucian\nTier 3: Anivia, Riven, Ezreal, Akali, Leblanc, Annie, Teemo, Morgana\nTier 3.5: AP Kog’Maw, Karma\nTier 4: Katarina, Heimerdinger, Cassiopeia, AP Tristana, Sion, Mordekaiser, Brand\nTier 5: All other non-named kids\nTier 6: Viktor\n\nTOP\nTier 0: Maokai\nTier 1: Gragas, Ryze, Alistar, Shyvanna\nTier 2: Nidalee, Renekton, Shen, Irelia, Lulu, Gnar (?), Jayce\nTier 2.5: Zac, Mundo, Teemo, Lee Sin\nTier 3: Yasuo, Jax, Kayle, Rengar, Lissandra, Swain, Rumble, Akali, Riven, Zed, Tryndamere, Hecarim\nTier 4: Darius, Gangplank, Poppy, Kha’Zix, Elise, Vladimir, Quinn, Aatrox, Trundle, Heimerdinger, Yorick, Nasus, Singed, Olaf, Kennen, Fiora\nTier 5: Rammus, Nunu, Sion, Garen, Xin Zhao, WuKong\nTier 6: All other non-named tops\n\nJUNGLE\nTier 1: Rengar, Lee Sin, Elise\nTier 1.5: Evelynn, Jarvan 4\nTier 2: Vi, Kha’Zix, Maokai\nTier 2.5: Nocturne\nTier 3: Pantheon, Zed, Fiddlesticks, Kayle, Amumu\nTier 3.5: Riven, Warwick, Yi, Shaco\nTier 4: Wukong, Jax*, Gragas, Zac, Xin Zhao\nTier 5: All other non-named jungles\n\nADC/MARKSMAN\nTier 1: Tristana, Corki, Kog’Maw\nTier 2: Twitch, Lucian\nTier 3: Caitlyn, Vayne, Jinx, Ezreal, Blue-Ezreal, Draven\nTier 4: Sivir, Varus, Miss Fortune\nTier 5: Ashe, Graves\nTier 6: Quinn, Urgot\nTier 7: All other non-named ADC’s\n\nSUPPORT\nTier 1: Morgana, Nami, Thresh, Braum\nTier 2: Alistar, Leona\nTier 3: Lulu, Sona, Zilean\nTier 4: Annie, Karma, Soraka, Blitzcrank, Lissandra, Nunu, Zyra\nTier 5: All other non-named/abstract supports",
+        "videoId": "JXFsx1i_D50",
+        "preview": "https://i.ytimg.com/vi/JXFsx1i_D50/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-04-02T23:35:02Z",
+        "title": "(OLD) Super Galaxy Rumble League of Legends Skin Spotlight",
+        "description": "League of Legends Super Galaxy Rumble Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Rumble on their Super Galaxy Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/\n\nPlease feel free to subscribe for more Skin Spotlights and to leave a like!",
+        "videoId": "OnrUWi_MLRo",
+        "preview": "https://i.ytimg.com/vi/OnrUWi_MLRo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-03-30T15:00:04Z",
+        "title": "Rumble - Did You Know? EP 44 - League of Legends",
+        "description": "→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\n→Subscribe Here: http://full.sc/1gukNqq\n→Did You Know Playlist: http://full.sc/1bCtY0m\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Friends' LoL Channel + Comp Deals: http://www.youtube.com/user/ThePoqito\n\nTips, Tricks, Lore, and Cool Facts/Information about Rumble!\n\nIf you like my videos, and want to help out more, donations are accepted! Thanks!\nhttps://www.streamdonations.net/c/redmercylol\n\n→Facebook: https://www.facebook.com/RedmercyLoL\n→Twitter: http://twitter.com/RedmercyLoL\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Anook: http://www.anook.com/redmercy\n→2nd YouTube Channel! : https://www.youtube.com/redmercygaming\n\n→Chat/Game with your friends, Razer Comms: http://rzr.to/jAdIQ\n\nMonstercat Music(Pegboard Nerds - Self Destruct)\nhttps://www.youtube.com/watch?v=lWDnwTsdtaw\n\nSpecial thanks for chinese subtitles:\nhttp://www.youtube.com/user/MSSMusStudio\n\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "lYs38g-Lx9E",
+        "preview": "https://i.ytimg.com/vi/lYs38g-Lx9E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-03-20T03:19:02Z",
+        "title": "Pre-Release Teaser - Super Galaxy Rumble Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is CONFIRMED as Super Galaxy Rumble, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/ \n\nPlease feel free to subscribe for more Skin Spotlights!",
+        "videoId": "lYE_aH7Nvbs",
+        "preview": "https://i.ytimg.com/vi/lYE_aH7Nvbs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-03-18T23:32:32Z",
+        "title": "Super Galaxy Rumble Voice - Upcoming Rumble Legendary Skin",
+        "description": "This is the voice for the upcoming Legendary Skin for Rumble - Super Galaxy Rumble\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nNote: The Voice might not be final, you never know what tweaks Riot might make to it.",
+        "videoId": "4wYg9o950HQ",
+        "preview": "https://i.ytimg.com/vi/4wYg9o950HQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-04-22T23:11:05Z",
+        "title": "Lux Rumble Eating Rockz \"Malphite\"",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "pCvZfJfEQos",
+        "preview": "https://i.ytimg.com/vi/pCvZfJfEQos/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-02-24T03:25:56Z",
+        "title": "(OLD) Rumble In the Jungle League of Legends Skin Spotlight",
+        "description": "League of Legends Rumble in the Jungle Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Rumble on his Jungle Skin.\n\nAll footage was taken in game.",
+        "videoId": "SO57zYPQzVo",
+        "preview": "https://i.ytimg.com/vi/SO57zYPQzVo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-02-23T18:16:38Z",
+        "title": "(OLD) Bilgerat Rumble League of Legends Skin Spotlight",
+        "description": "League of Legends Bilgerat Rumble Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Rumble on his Bilgerat Skin.\n\nAll footage was taken in game.",
+        "videoId": "qHmU0OFg5cw",
+        "preview": "https://i.ytimg.com/vi/qHmU0OFg5cw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2011-11-20T20:57:43Z",
+        "title": "HACKED BY POODLECORP twitter.com/poodlecorp",
+        "description": "DONT FORGET TO WATCH IN HD AND SUBSCRIBE! Don't forget to comment, rate, and be subscribed to get a chance to get added on my friends list! Also do not forget to like me on FACEBOOK as that is where I also will announce when I am playing with subs!\n\nTier List that I make for LoL. These are meant to be only for fun and not taken 100% seriously. These are also solely my opinions!\n\n1) Akali, amumu, annie, brand, cait, trist, cass, cho'gath, karthus, Kassadin, Lee, Morg, nasus, noc, rammus, ryze, shyvana, skarner, talon, trynd, udyr, vayne, xerath, zilean\n2) Alistar, Anivia, Corki, Ezreal, Fiddle, Fizz, GP, Gragas, Graves, Irelia, Janna,  katarina, Kennen, Malphite, Malz, MF,  Olaf, Riven, Rumble, Shaco, Soraka, Teemo, Trundle, TF, veigar, Wukong, \n3) Ashe, Blitz, Garen, Heimer, J4, Kog, LeBlanc, Nid, Orianna, Panth, Shen, Nunu, Singed, Sion, Sivir, Sona, Swain, Taric, Urgot, Warwick, Jax, Vlad, Yorick\n4) Galio, Kayle, Leona, Lux, Moakai, Poppy, Twitch,  xin\n5) Mundo, Eve, Karma, Yi, Morde\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nSkype:\nredmercy1337\n\nMy Stream:\nhttp://www.justin.tv/red_mercy\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=N3FA-j7Dh6Q&feature=channel_video_title\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "NAqAlajZqGE",
+        "preview": "https://i.ytimg.com/vi/NAqAlajZqGE/mqdefault.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "prettier.packageManager": "yarn",
+  "prettier.resolveGlobalModules": false,
+  "npm.packageManager": "yarn",
+  "jshint.enable": false,
+  "files.trimTrailingWhitespace": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    { "language": "typescript", "autoFix": true },
+    { "language": "typescriptreact", "autoFix": true }
+  ],
+  "files.exclude": {
+    "youtube-videos*.json": true,
+    "*generated*.json": true
+  },
+  "typescript.tsserver.maxTsServerMemory": 8916,
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}

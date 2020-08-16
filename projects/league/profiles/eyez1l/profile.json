@@ -1,0 +1,65 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "eZv_gFdKTgnEGKUvc6OVK8TyU94",
+      "id": "UCLHPMy-YriQXM3Ookn4a5tw",
+      "snippet": {
+        "title": "Eyez1l",
+        "description": "",
+        "publishedAt": "2019-05-11T01:11:16Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyzklrfJ6_2eEKnllS2P9BtBKPiiMi8-Sjgpcl0=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyzklrfJ6_2eEKnllS2P9BtBKPiiMi8-Sjgpcl0=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyzklrfJ6_2eEKnllS2P9BtBKPiiMi8-Sjgpcl0=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Eyez1l",
+          "description": ""
+        },
+        "country": "CA"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UULHPMy-YriQXM3Ookn4a5tw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UULHPMy-YriQXM3Ookn4a5tw"
+  },
+  "displayName": "Eyez1l",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyzklrfJ6_2eEKnllS2P9BtBKPiiMi8-Sjgpcl0=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyzklrfJ6_2eEKnllS2P9BtBKPiiMi8-Sjgpcl0=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyzklrfJ6_2eEKnllS2P9BtBKPiiMi8-Sjgpcl0=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

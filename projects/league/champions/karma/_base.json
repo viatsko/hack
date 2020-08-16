@@ -1,0 +1,1778 @@
+{
+  "id": "karma",
+  "key": "43",
+  "name": "Karma",
+  "title": "the Enlightened One",
+  "tags": [
+    "Mage",
+    "Support"
+  ],
+  "stats": {
+    "hp": 534,
+    "hpperlevel": 95,
+    "mp": 374,
+    "mpperlevel": 50,
+    "movespeed": 335,
+    "armor": 26,
+    "armorperlevel": 3.8,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 11.5,
+    "mpregenperlevel": 0.5,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53.544,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 2.3,
+    "attackspeed": 0.625
+  },
+  "icon": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/champion/Karma.png",
+  "sprite": {
+    "url": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/sprite/champion1.png",
+    "x": 0,
+    "y": 96
+  },
+  "description": "No mortal exemplifies the spiritual traditions of Ionia more than Karma. She is the living embodiment of an ancient soul reincarnated countless times, carrying all her accumulated memories into each new life, and blessed with power that few can...",
+  "redditUrl": "Karmamains",
+  "videos": [
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-21T16:01:23Z",
+        "title": "(BROKEN DAMAGE) *THIS* IS WHY KARMA IS THE #1 POKE SUPPORT IN SEASON 10! BEST KARMA BUILD AND STRAT!",
+        "description": "PLAYING ABSOLUTE MIND GAMES WITH MY OPPONENTS! THIS IS WHY KARMA IS THE #1 POKE SUPPORT IN SEASON 10! BEST KARMA BUILD IN S10! \n\n=====================\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki\n\n#karma #i0ki #support",
+        "videoId": "trK0b2Ghkuw",
+        "preview": "https://i.ytimg.com/vi/trK0b2Ghkuw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "bizzleberry",
+        "displayName": "Bizzleberry",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQxNZSKpcJlt-w7ehfKwAqrB36GK0smaFYunMW6w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-18T20:48:31Z",
+        "title": "This is how Karma Support can be so PUNISHING - League of Legends",
+        "description": "Playing Karma Support in High ELO EUW with a AP - Enchanter Hybrid build.\n\nI will be releasing League support content everyday so be sure to subscribe and leave a comment below with your thoughts!\n\nBizzleberry is a EUW Diamond Support Main and streams in the evening (6pm - 9pm) on weekdays and afternoon (3pm) until late on weekends.\n\nTwitch: https://www.twitch.tv/bizzleberry\n\nTwitter: https://twitter.com/BizzleberryLoL\n\nDiscord: https://discord.gg/bizzleberry\n\nInstagram: https://www.instagram.com/bizzleberrytv",
+        "videoId": "lYKOUe1KjoQ",
+        "preview": "https://i.ytimg.com/vi/lYKOUe1KjoQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "bizzleberry",
+        "displayName": "Bizzleberry",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQxNZSKpcJlt-w7ehfKwAqrB36GK0smaFYunMW6w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-18T20:48:31Z",
+        "title": "This is how Karma Support can be so PUNISHING - League of Legends",
+        "description": "Playing Karma Support in High ELO EUW with a AP - Enchanter Hybrid build.\n\nI will be releasing League support content everyday so be sure to subscribe and leave a comment below with your thoughts!\n\nBizzleberry is a EUW Diamond Support Main and streams in the evening (6pm - 9pm) on weekdays and afternoon (3pm) until late on weekends.\n\nTwitch: https://www.twitch.tv/bizzleberry\n\nTwitter: https://twitter.com/BizzleberryLoL\n\nDiscord: https://discord.gg/bizzleberry\n\nInstagram: https://www.instagram.com/bizzleberrytv",
+        "videoId": "lYKOUe1KjoQ",
+        "preview": "https://i.ytimg.com/vi/lYKOUe1KjoQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nasteey",
+        "displayName": "Nasteey",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxrnyNVGjhh0ukSvZIolwqC5qjGa7XUwpKWSGkKug=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-10T19:00:12Z",
+        "title": "KARMA IS THE ULTIMATE LANE BULLY - League of Legends",
+        "description": "KARMA IS THE ULTIMATE LANE BULLY\n\nPlease be sure to like and subscribe if you enjoyed the video!\nTWITCH: https://twitch.tv/nasteeylol \nTWITTER: https://twitter.com/nasteeylol \nDISCORD: https://discord.gg/NBW7jUV \nMERCH: https://shop.spreadshirt.com/nasteey/ \nPATREON: https://www.patreon.com/nasteey  \nEMAIL: trevorcrippen@msn.com \n\nCOACHING: Feel free to message me through Twitter, Discord, or Email to book an individual coaching session with me. VOD reviews are $10 and 1 on 1 coaching sessions are $30.\n\nABOUT ME: What's up guys my name Trevor but most people know me as Nasteey. In the real world I'm just a 21 year old college graduate trying to make it in the world. Online I'm a challenger player, support main, and content creator trying to grow in the League of Legends community on Twitch and YouTube. I provide in-depth advice including champion guides, key tips and tricks, coaching videos, and game analysis, just to name a few. I upload on a fairly inconsistent schedule due to real life issues and school but try my hardest to pump out content through it all. With that being said, I would like to briefly thank each and every single one of you for your patience and continued support. It means the world to me.\n\n#Nasteey\n#Support\n#Karma\n#Gameplay\n#LaneBully\n#LeagueofLegends",
+        "videoId": "eR1DMiI2Wz4",
+        "preview": "https://i.ytimg.com/vi/eR1DMiI2Wz4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nasteey",
+        "displayName": "Nasteey",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxrnyNVGjhh0ukSvZIolwqC5qjGa7XUwpKWSGkKug=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-09T19:00:05Z",
+        "title": "In-Depth Karma Support Guide | How to Play Karma in Season 10 - League of Legends",
+        "description": "Please be sure to like and subscribe if you enjoyed the video!\nTWITCH: https://twitch.tv/nasteeylol \nTWITTER: https://twitter.com/nasteeylol \nDISCORD: https://discord.gg/NBW7jUV \nMERCH: https://shop.spreadshirt.com/nasteey/ \nPATREON: https://www.patreon.com/nasteey  \nEMAIL: trevorcrippen@msn.com \n\nCOACHING: Feel free to message me through Twitter, Discord, or Email to book an individual coaching session with me. VOD reviews are $10 and 1 on 1 coaching sessions are $30.\n\nABOUT ME: What's up guys my name Trevor but most people know me as Nasteey. In the real world I'm just a 21 year old college graduate trying to make it in the world. Online I'm a challenger player, support main, and content creator trying to grow in the League of Legends community on Twitch and YouTube. I provide in-depth advice including champion guides, key tips and tricks, coaching videos, and game analysis, just to name a few. I upload on a fairly inconsistent schedule due to real life issues and school but try my hardest to pump out content through it all. With that being said, I would like to briefly thank each and every single one of you for your patience and continued support. It means the world to me.\n\nTimestamps:\n0:00 - 0:43 Introduction\n0:44 - 2:41 Abilities\n2:42 - 3:03 Skill Order\n3:04 - 5:18 Runes\n5:19 - 8:02 Build Path\n8:03 - 8:45 Match Ups\n8:46 - 9:57 Early Game\n9:58 - 11:07 Roaming\n11:08 - 12:44 Late Game\n12:45 - 13:23 Outro\n\n#Nasteey\n#Support\n#Karma\n#Champion\n#Guide\n#LeagueofLegends",
+        "videoId": "ckRCEsk377E",
+        "preview": "https://i.ytimg.com/vi/ckRCEsk377E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nasteey",
+        "displayName": "Nasteey",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxrnyNVGjhh0ukSvZIolwqC5qjGa7XUwpKWSGkKug=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-03T19:00:12Z",
+        "title": "How to Dominate Lane as Karma | High Elo Support Gameplay - League of Legends",
+        "description": "How to Dominate Lane as Karma | High Elo Support Gameplay\n\nPlease be sure to like and subscribe if you enjoyed the video!\nTWITCH: https://twitch.tv/nasteeylol \nTWITTER: https://twitter.com/nasteeylol \nDISCORD: https://discord.gg/NBW7jUV \nMERCH: https://shop.spreadshirt.com/nasteey/ \nPATREON: https://www.patreon.com/nasteey  \nEMAIL: trevorcrippen@msn.com \n\nCOACHING: Feel free to message me through Twitter, Discord, or Email to book an individual coaching session with me. VOD reviews are $10 and 1 on 1 coaching sessions are $30.\n\nABOUT ME: What's up guys my name Trevor but most people know me as Nasteey. In the real world I'm just a 21 year old college graduate trying to make it in the world. Online I'm a challenger player, support main, and content creator trying to grow in the League of Legends community on Twitch and YouTube. I provide in-depth advice including champion guides, key tips and tricks, coaching videos, and game analysis, just to name a few. I upload on a fairly inconsistent schedule due to real life issues and school but try my hardest to pump out content through it all. With that being said, I would like to briefly thank each and every single one of you for your patience and continued support. It means the world to me.\n\n#Nasteey\n#Support\n#Karma\n#Gameplay\n#HighElo\n#LeagueofLegends",
+        "videoId": "yEvKhCmonxg",
+        "preview": "https://i.ytimg.com/vi/yEvKhCmonxg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-02T12:42:01Z",
+        "title": "How to Carry BAD Teams as a Support! (Skill Test)",
+        "description": "Join SKILL CAPPED Today! https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\nConcepts: Concepts: Best support 10.13, Yuumi nerfs 10.13, Support lol, support guide, bunnyfufu, aphromoo, skillcapped, skillcapped lol, skill capped pro guides, skill capped guides, pro guides, how to support, how to carry as support, janna guide, soraka guide, karma guide, how to win, bot lane, carry support, gameleap, mobalytics, pocket rhino, league of legends, league of legends pro guides.",
+        "videoId": "iDURZwMn51M",
+        "preview": "https://i.ytimg.com/vi/iDURZwMn51M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-02T12:42:01Z",
+        "title": "How to Carry BAD Teams as a Support! (Skill Test)",
+        "description": "Join SKILL CAPPED Today! https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\nConcepts: Concepts: Best support 10.13, Yuumi nerfs 10.13, Support lol, support guide, bunnyfufu, aphromoo, skillcapped, skillcapped lol, skill capped pro guides, skill capped guides, pro guides, how to support, how to carry as support, janna guide, soraka guide, karma guide, how to win, bot lane, carry support, gameleap, mobalytics, pocket rhino, league of legends, league of legends pro guides.",
+        "videoId": "iDURZwMn51M",
+        "preview": "https://i.ytimg.com/vi/iDURZwMn51M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "leagueoflegends",
+        "displayName": "League of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxXwtVfQCScGEm93jvNCjitwu1lOKYhVZe2rSHWVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-28T07:00:00Z",
+        "title": "Strike the Skies | Night & Dawn Event Trailer -  League of Legends",
+        "description": "Strike the skies this holiday season with the Night & Dawn event, including:\r\n\n• Nightbringer Lee Sin, Dawnbringer Nidalee, and Nightbringer Aphelios skins\n• Legendary Nightbringer and Dawnbringer Soraka skins\n• Dawnbringer Karma skin—all proceeds support the Riot Games Social Impact Fund\n• Returning Poro King game mode\n• The Night & Dawn Event Pass—unlock exclusive missions and more rewards than ever before",
+        "videoId": "By3pW3boux0",
+        "preview": "https://i.ytimg.com/vi/By3pW3boux0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-21T14:00:06Z",
+        "title": "This NEW KARMA SUPPORT is destroying everything in it's path... with Dark Harvest ;)",
+        "description": "KARMA SUPPORT IS ACTUALLY *OBLITERATING* ANYTHING IN HER PATH!  DARK HARVEST KARMA SUPPORT IS NOW THE 100% BEST POKE DAMAGE SUPPORT IN SEASON 10! USE THIS VIDEO AS A GUIDE FOR KARMA IN SEASON 10!\n\n=====================\n\nCheck out Instant-Gaming: https://www.instant-gaming.com/en/?igr=gamer-a23531\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "HhO0t4vWhj0",
+        "preview": "https://i.ytimg.com/vi/HhO0t4vWhj0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "protatomonster",
+        "displayName": "Protatomonster",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy8_DuYOHahL4miEDAeQ--XqKSv2wdBrh1BDDG4=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-13T07:00:00Z",
+        "title": "Funniest LOL Moments 2020 (-200IQ Plays, Bronze Teleport, Funny Fails...)",
+        "description": "Funniest LOL Moments 2020 (-200IQ Plays, Bronze Teleport, Funny Fails...) - Best Fail and WTF Moments in a League of Legends Montage / Compilation\n\n🔶Don't forget to click the 🔔 Bell to get Notifications on new videos!\n🔶TFT CHANNEL: https://www.youtube.com/channel/UCNDoeaxF_O8n-cCwQTGbhuw\n\n▼Players featured in this League of Legends Montage :\n\n1) Smallcow \n2) vivi9148 \n3) riceball_lol - https://www.twitch.tv/riceball_lol\n4) SimpleLifeCCA - https://www.reddit.com/r/leagueoflegends/comments/ead622/karma_is_a_swift_killer/\n5) TooAverageGaming - https://www.twitch.tv/tooaveragegaming\n6) Roman Xxl - https://www.youtube.com/watch?v=IqlKiZFEngA\n7) Tsunami EX - https://www.youtube.com/watch?v=vj5LBos2TeM\n8) The SoloQ Animal - https://www.youtube.com/watch?v=XNkRysoXti8\n9) BAS Gamkes - https://www.youtube.com/watch?v=Nl3STAUdADY\n10) Edgaras Isacenko - https://www.youtube.com/watch?v=wnK9hQlasQk\n11) snowparallax - https://www.twitch.tv/snowparallax\n12) おむらいす - https://medal.tv/users/1970774\n13) chumang - https://medal.tv/clips/11942019/L7FosLmTcOYi\n14) Ipfactory - https://medal.tv/clips/10627344/ACTTnS295Y32\n15) DoubleFreak - https://medal.tv/clips/11026146/DLkJs1VPBgec\n16) Koitp - https://medal.tv/clips/12747806/XIBa4s52ywxr\n17) Biggiecheese36 - https://medal.tv/clips/12737429/ZZyStnEpLUTh\n18) Thank you next - https://medal.tv/clips/12518126/r0XL3T32MH5n\n19) Palmby - https://medal.tv/clips/11208003/yn3MoYjKfgvB\n20) Jaxymus - https://medal.tv/clips/10735536/jsu7TcOkb9Ru\n21) Orgaraxx - https://medal.tv/clips/12345594/p73KspJem1AJ\n\nMusic in this LoL Montage:\n\n1) Music provided by Monstercat: \nKoven - Followers\nhttps://youtube.com/monstercat \nhttps://youtube.com/monstercatinstinct\n2) Music provided by Monstercat: \nKUUROClockvice - All Night\nhttps://youtube.com/monstercat \nhttps://youtube.com/monstercatinstinct\n3) Music provided by Monstercat: \nKoven - All for Nothing\nhttps://youtube.com/monstercat \nhttps://youtube.com/monstercatinstinct",
+        "videoId": "bev1hAv1CLc",
+        "preview": "https://i.ytimg.com/vi/bev1hAv1CLc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "Karma Support Guide with Cloud9 Hai - Season 6 | League of Legends",
+        "description": "Subscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\nLike Us on Facebook: https://facebook.com/LolClasscom\n\nCheckout more Videos on: http://www.lolclass.com\n\nTwitter: https://twitter.com/LolClassCom\nGoogle+: https://google.com/+LolClass",
+        "videoId": "FbrMRRG911Y",
+        "preview": "https://i.ytimg.com/vi/FbrMRRG911Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "Karma Mid Utility Guide by PowerOfEvil - Season 6 | League of Legends",
+        "description": "Karma is one of the most flexible mages in League, with her high output damage and life-saving shields. PowerOfEvil breaks down the keys to success as AP Karma Mid.\n\nSubscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\nLike Us on Facebook: https://facebook.com/LolClasscom\n\nCheckout more Videos on: http://www.lolclass.com\n\nTwitter: https://twitter.com/LolClassCom\nGoogle+: https://google.com/+LolClass",
+        "videoId": "NMGUzlHxURU",
+        "preview": "https://i.ytimg.com/vi/NMGUzlHxURU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "[9.1] Season 9 Challenger Support Karma Commentary",
+        "description": "Sign up below for $5 off 1 on 1 coaching lessons with me:\nhttps://www.gamersensei.com/r/328517",
+        "videoId": "nXATp8ImeWA",
+        "preview": "https://i.ytimg.com/vi/nXATp8ImeWA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "My thoughts on Karma's upcoming rework",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517\n\nI wanted to do a brain dump on my thoughts on Karma's potential rework. I talk a bit about what I think of Karma's current state, and both good/bad things about it. Let me know your thoughts about it too.",
+        "videoId": "A_l9V8S1UoI",
+        "preview": "https://i.ytimg.com/vi/A_l9V8S1UoI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "[S8] Challenger Karma Gameplay Highlights",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517\n\nTaken from my stream https://www.twitch.tv/menohaxor",
+        "videoId": "HondTydcUKM",
+        "preview": "https://i.ytimg.com/vi/HondTydcUKM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "[8.9] Challenger Support Karma Commentary [vs Aphromoo]",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517",
+        "videoId": "1lx5eoQYOM0",
+        "preview": "https://i.ytimg.com/vi/1lx5eoQYOM0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "[8.6] Challenger Support Karma Commentary",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517",
+        "videoId": "jLD-h5DH7wU",
+        "preview": "https://i.ytimg.com/vi/jLD-h5DH7wU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "Pre-S8 Challenger Karma Commentary [vs Doublelift/Smoothie]",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517\n\nRunes: https://i.gyazo.com/d2f9f5fcc810ee8338e9183db7441c4d.png",
+        "videoId": "iCx7QqHJkds",
+        "preview": "https://i.ytimg.com/vi/iCx7QqHJkds/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "MeNoHaxor LoL Coaching #4 - Support Karma [Plat]",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517",
+        "videoId": "dnbBqYRZPsU",
+        "preview": "https://i.ytimg.com/vi/dnbBqYRZPsU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "[6.22] Challenger Support Karma Commentary",
+        "description": "Runes: https://i.gyazo.com/ea3de39799eeacc01c59a9a5f69462bf.png\nMasteries: https://i.gyazo.com/d85ba7611165a4d5456691ef289704ff.png",
+        "videoId": "sH6d-8uxqfE",
+        "preview": "https://i.ytimg.com/vi/sH6d-8uxqfE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-05T15:00:08Z",
+        "title": "THEY BUFFED MY KARMA TWICE! THIS *NEW* FULL AP KARMA DAMAGE IS INSANE! KARMA SUPPORT BUILD S10",
+        "description": "FULL AP KARMA IS *BACK*!  THESE TWO NEW BUFFS TAKE FULL DAMAGE KARMA TO THE NEXT LEVEL IN SEASON 10!\n\nUSE THIS VIDEO AS A GUIDE FOR KARMA SUPPORT IN SEASON 10!\n\n=====================\n\nInstant Gaming: https://www.instant-gaming.com/igr/gamer-a23531/ \n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "_oaAd4FsIw0",
+        "preview": "https://i.ytimg.com/vi/_oaAd4FsIw0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-01-22T06:38:05Z",
+        "title": "Patch 10.2 Rundown - Karma For Yasuo's Broken Ankles.",
+        "description": "Karma is by far and away the biggest change of the patch, as she's a meta shaper and singlehandedly can warp things around her. Be on the look out for if the last two changes she got is enough to propel her back into the spotlight. Riot clearly playing it safe before pro leagues resume. \n\n\n∙Join my discord for coaches, announcements and more: \nhttps://discord.gg/ZF3rxry\n\n∙Want access to tier lists that are exclusive from the video? Join my Patreon: \nhttps://www.patreon.com/lsxyz9\n\n∙Download Blitz.gg , the app that lets you gain insight into your teammates so that you \nknow when to avoid lobbies in League of Legends ;)\nhttps://invite.blitz.gg/imls\n\n\nFollow my socials here:\n____________________\n→Twitter: http://twitter.com/LSXYZ9 \n→Twitch: http://twitch.tv/imls \n→Facebook: http://facebook.com/nick.decesare.7 \n→Instagram: https://www.instagram.com/lsxyz_9/\n\nFor Business inquiries ONLY: LS@afkcreators.com",
+        "videoId": "8_QkncJVriU",
+        "preview": "https://i.ytimg.com/vi/8_QkncJVriU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-12-08T23:28:47Z",
+        "title": "Dawnbringer Karma Skin Spotlight - League of Legends",
+        "description": "League of Legends Dawnbringer Karma Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on their Dawnbringer Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "a2c6eATj1Fc",
+        "preview": "https://i.ytimg.com/vi/a2c6eATj1Fc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-11-26T21:08:08Z",
+        "title": "Dawnbringer Karma Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Dawnbringer Karma with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 1350RP\n\nSkin name is CONFIRMED as Dawnbringer Karma, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "fK2Md44i9hE",
+        "preview": "https://i.ytimg.com/vi/fK2Md44i9hE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-11-18T20:38:52Z",
+        "title": "Ionian Card Special Interactions - Yasuo, Zed, Karma, Shen, Yone etc",
+        "description": "6 Interactions were missed due to an issue with my tools, you can check them out here: https://youtu.be/uYiJFmz914o\nSpecial/Hidden/Secret Interactions for the Ionian Cards in Legends of Runeterra.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows Arrival interactions as well as deaths and victory of cards from Ionia such as Yasuo, Zed, Karma and Shen.\n\nThe interactions trigger by the left card being in play and then the card on the right arriving.\nYasuo, Zed, Karma, Shen and other cards from Ionia will appear in other region videos as they have other unique lines for when other cards in play first and they arrive onto the board.\n\nStay upto date with information by following me on twitter:\nhttps://twitter.com/SkinSpotlights",
+        "videoId": "Dys2ng07YGY",
+        "preview": "https://i.ytimg.com/vi/Dys2ng07YGY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-11-12T10:07:34Z",
+        "title": "MACAIYLA ALMOST GOT TYLER1 BANNED AGAIN | YASSUO ON OFFLINE TV DRAMA | TRICK2G | LOL MOMENTS",
+        "description": "Help me reach 250.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nBusines inquiries: funoflegends@hotmail.com\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\nOutro Music: https://www.youtube.com/watch?v=iScT5IfgG-Q\n\n\n---\nCREDITS:\nYourPrincess: https://www.twitch.tv/YourPrincess\nBoxBox: https://goo.gl/LTrb4u\nPobelter: https://goo.gl/lqRQq8\nYassuo: https://www.twitch.tv/Yassuo\nlolTyler1: https://www.twitch.tv/lolTyler1\nTrick2G: https://www.twitch.tv/Trick2G\nTFBlade: https://www.twitch.tv/TFBlade\n1AdrianAries1: https://www.twitch.tv/1AdrianAries1\nBelkarama: https://www.twitch.tv/Belkarama\nCheesekit: https://www.twitch.tv/Cheesekit\nCloud9: https://www.twitch.tv/Cloud9\nDrunkev: https://www.twitch.tv/Drunkev\nGnasuchi: https://www.twitch.tv/Gnasuchi\nImCarsonLoL: https://www.twitch.tv/ImCarsonLoL\nKarmafull: https://www.twitch.tv/Karmafull\nMattbgames: https://www.twitch.tv/Mattbgames\nMetaphor: https://www.twitch.tv/Metaphor\nMistagori: https://www.twitch.tv/Mistagori\nSaltyTeemo: https://www.twitch.tv/SaltyTeemo\nShayden: https://www.twitch.tv/Shayden\nSzochs: https://www.twitch.tv/Szochs\nTavinIsBoosted: https://www.twitch.tv/TavinIsBoosted",
+        "videoId": "lcdKgg7LwN0",
+        "preview": "https://i.ytimg.com/vi/lcdKgg7LwN0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-17T13:00:08Z",
+        "title": "HANJARO | HOW TO BEAT KARMA AS PYKE | MASTERING THE ENEMY - League of Legends",
+        "description": "HANJARO | HOW TO BEAT KARMA AS PYKE | MASTERING THE ENEMY - League of Legends\n\nWelcome to the Mastering Your Enemy Series. In this series we show how to properly win lane against any champion as Pyke. This series is intended to show the viewers how to play just like the Rank 1 Pyke.\n\nRank 1 Pyke in Season 9 shows the perfect way to beating Karma. A step by step guide is provided in Patch 9.18 to show Pyke vs Karma. This is a Full Game Commentary in Challenger.\n\n------------------------------------------\n\nCheck out my Mobafire Guides:\n→https://www.mobafire.com/profile/hanjaro-540658/content/builds\n\n------------------------------------------\nIKON is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\nEditor - PJINC\n\n#BestPyke #SupportPyke #Rank1Pyke",
+        "videoId": "do-VRm9GR-M",
+        "preview": "https://i.ytimg.com/vi/do-VRm9GR-M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-24T01:38:41Z",
+        "title": "SHORTEST LEC INTERVIEW EVER ON LEAGUE OF LEGENDS | YASSUO ON WHY HE LOOKS LIKE HOMELESS |TRICK2G|LOL",
+        "description": "Help me reach 250.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nBusines inquiries: funoflegends@hotmail.com\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\nOutro Music: https://www.youtube.com/watch?v=iScT5IfgG-Q\n\n\n---\nCREDITS:\nYourPrincess: https://www.twitch.tv/YourPrincess\nBoxBox: https://goo.gl/LTrb4u\nIWDominate: https://goo.gl/VlPyhA\nFroggen: https://goo.gl/FzkhNe\nYassuo: https://www.twitch.tv/Yassuo\nTobiasFate: https://www.twitch.tv/tobiasfate\nTrick2G: https://www.twitch.tv/Trick2G\nRiotGames: https://www.twitch.tv/RiotGames\nBalori: https://www.twitch.tv/Balori\nBlazikenX23: https://www.twitch.tv/BlazikenX23\nBody_those_fools: https://www.twitch.tv/Body_those_fools\nFoggedftw2: https://www.twitch.tv/Foggedftw2\nHotchelli: https://www.twitch.tv/Hotchelli\nJasonjungle: https://www.twitch.tv/Jasonjungle\nJoopstv: https://www.twitch.tv/Joopstv\nJuliostito: https://www.twitch.tv/Juliostito\nKatevolved: https://www.twitch.tv/Katevolved\nKazelenners: https://www.twitch.tv/Kazelenners\nLCK: https://www.twitch.tv/LCK\nLuqoM: https://www.twitch.tv/LuqoM\nMcscorcher: https://www.twitch.tv/Mcscorcher\nMezokarma: https://www.twitch.tv/Mezokarma\nRTO_LoL: https://www.twitch.tv/RTO_LoL\nSoazed: https://www.twitch.tv/Soazed\nZwag: https://www.twitch.tv/Zwag",
+        "videoId": "2RLLR6scZOw",
+        "preview": "https://i.ytimg.com/vi/2RLLR6scZOw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-19T18:10:32Z",
+        "title": "PRO LCS PYKE PLAYS!?! YOU'VE NEVER SEEN HANJARO LIKE THIS!!! LEAGUE OF LEGENDS",
+        "description": "PRO LCS PYKE PLAYS!?! YOU'VE NEVER SEEN HANJARO LIKE THIS!!! LEAGUE OF LEGENDS\n\nSeason 9 Pyke How to play perfectly vs Karma as Pyke. High elo ranked game against Karma. Full game Commentary in Masters Patch 9.16.\n\n------------------------------------------\n\nQuarterback is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\nEditor - PJINC\n\n#BestPyke #JunglePyke #Rank1Pyke",
+        "videoId": "YuG5oFSj2qw",
+        "preview": "https://i.ytimg.com/vi/YuG5oFSj2qw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-17T13:00:06Z",
+        "title": "NOT EVEN PROS CAN BEAT THIS KARMA+GAREN BOTLANE STRAT! THE *MOST* BROKEN COMBO!",
+        "description": "THIS GAREN AND KARMA BOTLANE HAS *ZERO* COUNTERPLAY!  LITERALLY PROFESSIONAL PLAYERS COULDN'T BEAT THIS IF PRO TEAMS WOULD USE IT!  THIS GAREN+ (ANY ENCHANTER) META IS INSANE!  ABUSE THIS BEFORE IT GETS NERFED!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "DvvCNhLfaJo",
+        "preview": "https://i.ytimg.com/vi/DvvCNhLfaJo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-19T18:00:02Z",
+        "title": "BRAND NEW BUFFED PYKE BUILD!?! GUARDIAN'S ANGEL IS SO BROKEN ON PYKE!!! PATCH 9.14",
+        "description": "BRAND NEW BUFFED PYKE BUILD!?! GUARDIAN'S ANGEL IS SO BROKEN ON PYKE!!! PATCH 9.14\n\nSeason 9 Pyke How to play perfectly vs Karma as Pyke. High elo ranked game against Karma. Full game Commentary in Masters Patch 9.14.\n\n------------------------------------------\n\nQuarterback is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\nEditor - PJINC\n\n#BestPyke #JunglePyke #Rank1Pyke",
+        "videoId": "LmRF-v-EmWs",
+        "preview": "https://i.ytimg.com/vi/LmRF-v-EmWs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-17T01:20:32Z",
+        "title": "Patch 9.14 Rundown - Truly a Low Standards Patch",
+        "description": "TIMESTAMPS\n\nTeamfight Tactics Patch Notes - 0:19 (Mex will be doing them in the next video)\n\nAnti-Shielding Champions - 0:44\nBlitzcrank - 0:50\nRenekton - 1:29\n\nAnti-Healing Champions - 2:12\nKatarina - 2:25\nKled - 2:53\n\nFlat Damage Reduction Champions - 3:09\nFizz - 3:18\nLeona - 4:13\n\nTrue Sight Champions - 5:26\nKarma - 5:28\nLeBlanc - 6:03\nMorgana - 6:50\n\nAnti-Mobility Champions + Cass buffs - 6:59\nAhri - 7:14\nCassiopeia - 8:29 (New Queen of mid lane.)\nPoppy - 12:29\n\nCHAMPION BALANCE - 13:08\nAYAYAtrox - 13:09\nAkali - 16:43\nAlistar - 19:53\nAurelion Sol - 20:16\nBard - 21:27\nDiana - 22:33\nGalio (Toilet King) - 24:35\nJhin - 27:50\nLux - 29:01\nMalphite - 31:27\nMordekaiser - 33:35\nNidalee - 36:29\nPyke - 36:50\nRyze - 38:09\nSinged - 38:58\nSwain - 39:04\nSylas - 43:10\nTahm Thomas Kench (PepeLaugh) - 45:07\nUrgot - 47:13\nYuumi - 47:22\n\nRanged Top Laners - 48:21\nJayce - 48:23\nKennen - 49:39\nNeeko - 50:46\n\nMisc - 52:46\nARAM Balance Changes - 52:47\nNew Death Recap - 52:50\nShow [Allied] Chat - 52:53\nBugfixes - 53:02\n\nUpcoming Skins & Chromas - 53:14\n\nRecap, Summary, TL;DR, You name it. - 55:45\n\n\nThis patch is so laughably confusing. The intended buffs are often nerfs, and the intended nerfs are often buffs. Tahm will still probably be played in the support role, galio stuck in the toilet. Very little competitive/soloq shifting is done this patch, but I'm sure some placebo's will cause % increases up and down on a few champs. Cassiopeia should be the queen of mid/top now, and Neeko/Jayce should go on to dominate top competitive play. \n\nYou can help the Youtube channel by supporting on Patreon: https://www.patreon.com/lsxyz9 \n\nFollow me: Twitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls \nFacebook: http://facebook.com/nick.decesare.7 \nStream: http://twitch.tv/imls \nInstagram: http://instagram.com/LSXYZ9 \nBusiness E-mail: Nicholas.a.decesare at gmail dot com\nhttps://store.clgaming.net/collection...",
+        "videoId": "fR3ekEgOZA4",
+        "preview": "https://i.ytimg.com/vi/fR3ekEgOZA4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-10T18:00:00Z",
+        "title": "BETTER BOT LANE WINS!?! Pyke is STILL VIABLE!!! Patch 9.13",
+        "description": "BETTER BOT LANE WINS!?! Pyke is STILL VIABLE!!! Patch 9.13\n\nSeason 9 Pyke How to play perfectly vs Karma as Pyke. High elo ranked game against Karma. Full game Commentary in Masters Patch 9.13.\n\n------------------------------------------\n\nQuarterback is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\nEditor - PJINC\n\n#BestPyke #JunglePyke #Rank1Pyke",
+        "videoId": "77GzZOdvg-0",
+        "preview": "https://i.ytimg.com/vi/77GzZOdvg-0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-05T18:00:04Z",
+        "title": "THIS IS HOW YOU GET AHEAD IN LANE AS PYKE!?! NEVER LOSE LANE AGAIN!!! PATCH 9.13",
+        "description": "THIS IS HOW YOU GET AHEAD IN LANE AS PYKE!?! NEVER LOSE LANE AGAIN!!! PATCH 9.13\n\nSeason 9 Pyke How to play perfectly vs Karma as Pyke. High elo ranked game against Karma. Full game Commentary in Masters Patch 9.13.\n\n------------------------------------------\n\nQuarterback is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\nEditor - PJINC\n\n#BestPyke #JunglePyke #Rank1Pyke",
+        "videoId": "rxi5P7t8ipo",
+        "preview": "https://i.ytimg.com/vi/rxi5P7t8ipo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-06-22T14:00:06Z",
+        "title": "RANK 1 PYKE TRIES OUT KARMA!?! LETS SEE HOW THIS GOES!!! KARMA VS LUX! PATCH 9.12",
+        "description": "RANK 1 PYKE TRIES OUT KARMA!?! LETS SEE HOW THIS GOES!!! KARMA VS LUX! PATCH 9.12\n\nSeason 9 Karma How to play perfectly vs Lux as Karma. High elo ranked game against Lux. Full game Commentary in Masters Patch 9.12.\n\n------------------------------------------\n\nQuarterback is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/hanjaro\n\nEditor - PJINC\n\n#BestPyke #JunglePyke #Rank1Pyke",
+        "videoId": "lIWbStnpLkM",
+        "preview": "https://i.ytimg.com/vi/lIWbStnpLkM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-06-18T17:33:08Z",
+        "title": "New Best Champions for Patch 9.12 Season 9 for Climbing in EVERY ROLE",
+        "description": "Timestamps / list of champions down below!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nMid = start\nJungle = 2:43\nTop = 4:56\nSupport = 7:02\nADC = 9:19\n\nMid \n1 = Zed\n2 = Ahri\n3 = Ryze\nHM/Low = Fizz\n\nJungle\n1 = Hecarim \n2 = Sejuani \n3 = Vi \nHM/Low = Amumu \n\nTop \n1 = Morde \n2 = Darius\n3 = Riven \nHM/Low = Volibear\n\nSupport \n1 = Karma \n2 = Lux\n3 = Janna\nHM = Zyra\n\nADC\n1 = Sivir\n2 = Jinx\n3 = Xayah\nHM = Caitlyn\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.12 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "hjU3251e9Fc",
+        "preview": "https://i.ytimg.com/vi/hjU3251e9Fc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-06-10T18:53:11Z",
+        "title": "Dark Star Karma Skin Spotlight - League of Legends",
+        "description": "League of Legends Dark Star Karma Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on their Dark Star Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "Tv3g-VQGfKI",
+        "preview": "https://i.ytimg.com/vi/Tv3g-VQGfKI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-29T21:10:58Z",
+        "title": "Dark Star Karma Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Dark Star Karma with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 1350RP\n\nSkin name is CONFIRMED as Dark Star Karma, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "UdnskRsB_sk",
+        "preview": "https://i.ytimg.com/vi/UdnskRsB_sk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-05T13:00:04Z",
+        "title": "BEST PYKE NA TRIES FULL AD BUILD!!! NEW SECRET OP BUILD!?! PATCH 9.8 - League of Legends",
+        "description": "Season 9 Pyke How to play perfectly vs Karma as Pyke. High elo ranked game against Karma.. Full game Commentary in Masters Patch 9.9.\n\n------------------------------------------\n\nQuarterback is a Riot endorsed challenge-based program that lets you earn ingame rewards such as champions and skins for performing well in game and competing with others to complete challenges like Highest CS/Highest KDA/etc. \n\n----------------------------------------\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n----------------------------------------\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/Hanjarolol\n\nEditor - PJEdits\n\n#Rank1Pyke #BestPykeNA #PerfectGame",
+        "videoId": "R2Ho3niXBEU",
+        "preview": "https://i.ytimg.com/vi/R2Ho3niXBEU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-04-12T19:01:00Z",
+        "title": "10 Weird Troll Builds from Korean Challenger Grandmaster that actually work",
+        "description": "Shout outs to TheMainStayz and Kled Kled for guessing 2 of these picks in the video!\nAP nautilus – https://lol.mobalytics.gg/summoner/kr/by%20%EB%B6%88%EB%B9%84/match-history \nAftershock lux – https://lol.mobalytics.gg/summoner/kr/ililiiiilijlilii/match-details/13/3617986821/builds \nArdent Morde – https://lol.mobalytics.gg/summoner/kr/reset9/match-history/match-details/13/3617097074/builds \nPredator AP Nunu – https://lol.mobalytics.gg/summoner/kr/%EC%9D%B5%EC%82%B0%EB%88%84%EB%88%84?season=13 \nTop Tahm – https://lol.mobalytics.gg/summoner/kr/%ED%83%90%20%EC%8B%A0?season=13 \nKarma GLP Ardent – https://lol.mobalytics.gg/summoner/kr/sevenyears?season=13 \nVolibear Top – https://lol.mobalytics.gg/summoner/kr/league%20of%20heroes \nVolibear Support – https://lol.mobalytics.gg/summoner/kr/jin%20air%20kellin?season=13 \nPoppy Conq – https://lol.mobalytics.gg/summoner/kr/%EC%B9%BC%EA%B3%BC%20%EC%B0%BD%20%EB%B0%A9%ED%8C%A8?season=13 \nGlacial builds – https://lol.mobalytics.gg/summoner/kr/%ED%94%84%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%86%A4?season=13  \n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n10 Weird Troll Builds from Korean Challenger Grandmaster that actually work",
+        "videoId": "khBWXKDDUfo",
+        "preview": "https://i.ytimg.com/vi/khBWXKDDUfo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-03-24T19:21:23Z",
+        "title": "TELEPORT KARMA SUPPORT | INFINITE GANKS! WIN ALL 3 LANES EVERY GAME! | Karma Support Season 9",
+        "description": "IS THIS THE NEXT BIG THING IN SEASON 9 META? TAKING SUMMONER SPELL TELEPORT ON KARMA IS ACTUALLY OP!  GANK ALL 3 LANES (INCLUDING YOUR OWN!) AND WIN EVERY LANE WITH INSANE PRESENCE ON THE MAP.  USE THIS VIDEO TO LEARN MACRO AND AS A GUIDE FOR KARMA SUPPORT IN SEASON 9!\n\nTHIS IS THE BEST KARMA BUILD IN SEASON 9!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "9MKyz0l55fI",
+        "preview": "https://i.ytimg.com/vi/9MKyz0l55fI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-02-26T14:00:05Z",
+        "title": "CAN KARMA REALLY CARRY AS SUPPORT IN SEASON 9?!? LEAGUE OF LEGENDS GAMEPLAY",
+        "description": "CAN KARMA REALLY CARRY AS SUPPORT IN SEASON 9?!? LEAGUE OF LEGENDS GAMEPLAY\n\nKarma Vs Pyke. Can Karma really carry. Full Game VOD with Commentary in Grandmasters during Season 9. How to play Karma \n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here → https://partners.leagueoflegends.com/...\n\nLike and Subscribe for more quality League of Legends Content.\n----------------------------------------\n\nFollow Me:\n→ https://www.twitch.tv/hanjarolol\n→ https://twitter.com/Hanjarolol\n\nEditor - PJEdits\n\n#Hanjaro #HanjaroLOL #BestPyke",
+        "videoId": "xwf9fs1xEfQ",
+        "preview": "https://i.ytimg.com/vi/xwf9fs1xEfQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-26T01:02:21Z",
+        "title": "[9.1] Season 9 Challenger Support Karma Commentary",
+        "description": "Sign up below for $5 off 1 on 1 coaching lessons with me:\nhttps://www.gamersensei.com/r/328517",
+        "videoId": "nXATp8ImeWA",
+        "preview": "https://i.ytimg.com/vi/nXATp8ImeWA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "xfsn_saber",
+        "displayName": "xFSN Saber",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzCstYYvZDmKVT0hD7S4YwXrKKTag4m_g-Kn31z=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-10T20:00:00Z",
+        "title": "[Gold 4] Lucian Coaching | How to Not Autopilot ft. Karmasan",
+        "description": "I’m part of the official League\nPartner Program with Riot Games. You can read about the program here:\nhttps://partners.leagueoflegends.com/en_US/\n\nIf you would like to support my videos, check out my Patreon: https://www.patreon.com/xfsn_saber\n\n►Message me for coaching! - https://discord.gg/avgqmYq\n\nFollow me!\n►TWITCH - http://twitch.tv/xfsn_saber\n►TWITTER - https://twitter.com/xFSN_Saber",
+        "videoId": "CLQlIleoLpI",
+        "preview": "https://i.ytimg.com/vi/CLQlIleoLpI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-10-26T19:15:49Z",
+        "title": "My thoughts on Karma's upcoming rework",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517\n\nI wanted to do a brain dump on my thoughts on Karma's potential rework. I talk a bit about what I think of Karma's current state, and both good/bad things about it. Let me know your thoughts about it too.",
+        "videoId": "A_l9V8S1UoI",
+        "preview": "https://i.ytimg.com/vi/A_l9V8S1UoI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-09-16T19:05:21Z",
+        "title": "[S8] Challenger Karma Gameplay Highlights",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517\n\nTaken from my stream https://www.twitch.tv/menohaxor",
+        "videoId": "HondTydcUKM",
+        "preview": "https://i.ytimg.com/vi/HondTydcUKM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-09-06T15:00:02Z",
+        "title": "Hanjaro Stream Recap 11: He Took It - League of Legends",
+        "description": "League of Legends Season 8 Support Master. Stream Recap 11 of September 5th 2018, Gained 90LP throughout the day, landed some juicy hooks on thresh and overall good fun, Supports featured in this Stream Recap: Pyke, Thresh, Karma, Bard\n\nMake sure to like and subscribe for more videos!\n\nCome chat with me!\n► https://www.discord.gg/nakrNw7\n\nLooking for more Stream Recaps or Support Guides?\n► Stream Recap Playlist - https://www.youtube.com/playlist?list=PLbgl8UGfpbcqV_RmG8DUp0ofyLk7tsakK\n► Support Guide Playlist - https://www.youtube.com/playlist?list=PLbgl8UGfpbcqmUBvZqhvZY7haPcghM6Sy\n\nFollow me!\n►TWITCH - https://www.twitch.tv/hanjarolol\n►TWITTER - https://www.twitter.com/hanjarolol\n\n#hanjaro #support #recap",
+        "videoId": "PkyL57qgIto",
+        "preview": "https://i.ytimg.com/vi/PkyL57qgIto/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-08-17T15:00:00Z",
+        "title": "Hanjaro Stream Recap 4: Work Out  - League of Legends",
+        "description": "League of Legends Season 8 Support Master. Stream recap of August 16th 2018, Supports shown in this recap are Pyke, Karma, Bard, Shen while having a good laugh and some pretty silly moments.\n\nMake sure to like and subscribe for more videos!\n\nCome chat with me!\n► https://www.discord.gg/nakrNw7\n\nLooking for more Stream Recaps or Support Guides?\n► Stream Recap Playlist - https://www.youtube.com/playlist?list=PLbgl8UGfpbcqV_RmG8DUp0ofyLk7tsakK\n► Support Guide Playlist - https://www.youtube.com/playlist?list=PLbgl8UGfpbcqmUBvZqhvZY7haPcghM6Sy\n\nFollow me!\n►TWITCH - https://www.twitch.tv/hanjarolol\n►TWITTER - https://www.twitter.com/hanjarolol\n\n#hanjaro #support #recap",
+        "videoId": "5gDGutRSiOU",
+        "preview": "https://i.ytimg.com/vi/5gDGutRSiOU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-08-16T15:00:09Z",
+        "title": "Hanjaro Stream Recap 3: Game On - League of Legends",
+        "description": "League of Legends Season 8 Support Master. Stream recap of August 15th 2018, Mainly Support Pyke, and a game of Thresh and Karma mixed in there.\n\nMake sure to like and subscribe for more videos!\n\nCome chat with me!\n► https://www.discord.gg/nakrNw7\n\nLooking for more Stream Recaps or Support Guides?\n► Stream Recap Playlist - https://www.youtube.com/playlist?list=PLbgl8UGfpbcqV_RmG8DUp0ofyLk7tsakK\n► Support Guide Playlist - https://www.youtube.com/playlist?list=PLbgl8UGfpbcqmUBvZqhvZY7haPcghM6Sy\n\nFollow me!\n►TWITCH - https://www.twitch.tv/hanjarolol\n►TWITTER - https://www.twitter.com/hanjarolol\n\n#hanjaro #support #recap",
+        "videoId": "l0tADtxsiPg",
+        "preview": "https://i.ytimg.com/vi/l0tADtxsiPg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-08-03T15:40:43Z",
+        "title": "HOW TO WIN AS KARMA!! || High ELO Coaching",
+        "description": "ULTIMATE LEONA TOP BUILD/STRATEGY: \nhttps://www.youtube.com/watch?v=kQiMuXYHLrk\n\n --~--\nIn this paid coaching session, I go over Gold Karma player's gameplay and help him correct his bad solo queue habits.  Topics covered in this video include: itemization, LEADING YOUR TEAM IN SOLO QUEUE, and MORE!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "KHkxW0-jSbY",
+        "preview": "https://i.ytimg.com/vi/KHkxW0-jSbY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "tbskyen",
+        "displayName": "T B Skyen",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyshPYFo6beJdHT__q8zRw6nZd_6qJO0Jx_bk9rUg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-07-30T18:21:33Z",
+        "title": "The New Soul of Ionia || Lore update analysis & discussion",
+        "description": "Join the channel discord: https://discord.gg/SWZ8zYv (25 uses only)\n\n---\n*Hail Necrit, Lord of Ionia! Long may he rule the First Lands!*\n---\n\nRiot, having no chill of any kind whatsoever, dumped a TON of Ionian lore updates on us all of a sudden, updating all of the Kinkou associated ninjas (as well as Master Yi and Karma), and clarifying the overarching theme that Ionia is meant to embody within the lore of League of Legends.\n\nSo! Let's go through all of the updates and talk about the grand narrative theme of the region and how it all fits into the lore of its various champions.\n\n-----\n\nTwitter: http://twitter.com/tbskyen\nPatreon: http://patreon.com/castercomix",
+        "videoId": "mBp6w3zSJR8",
+        "preview": "https://i.ytimg.com/vi/mBp6w3zSJR8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-07-17T20:54:19Z",
+        "title": "Patch 8.14 Rundown - A pointless patch.",
+        "description": "100 cast range added to Gravity Field? Please, you're too generous. I actually can't understand what conversations are being had when some of these changes are decided. This is basically a dead patch. They could've easily \"hotfixed\" the jungle change and not wasted this entire patch with these changes. Very little will come from this patch.  \n\n0:12  - Aatrox\n4:59  - Fizz\n8:14  - Jinx\n8:28  - Karma\n10:13  - Sion\n11:01 - Twitch\n11:23 - Ahri\n12:51 - Cassiopeia\n13:37 - Elise\n13:57 - Nasus\n14:50 - Pantheon\n15:59 - Rek'Sai\n17:29 - Sivir\n19:04 - Vel'Koz\n20:19 - Vayne\n20:52 - Vi\n21:53 - Viktor\n24:18 - Dr. Mundo\n24:46 - Rakan\n25:18 -Sejuani\n25:48 - Shen\n26:27  - Swain\n26:30 - Talon\n27:14 - Wukong\n27:48 - Zoe\n--------------------------------------------------------------------\n28:38 - Hunters Machete/Hunters talisman\n29:31 - Teleport\n31:19 - Conqueror\n31:24 - Ghost poro\n31:25 - Zombie ward\n32:28 - Cursor update\n32:45 - UPCOMING SKINS\n=================================\n34:12 - RECAP\n\nYou can help the Youtube channel by supporting on Patreon: https://www.patreon.com/lsxyz9\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "a26aYQqiyK0",
+        "preview": "https://i.ytimg.com/vi/a26aYQqiyK0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-07-10T16:10:35Z",
+        "title": "WTF! RIOT 100% OVERBUFFED KARMA WITH THESE NEW BUFFS! KARMA SUPPORT GAMEPLAY [PBE]",
+        "description": "\"HOW TO OPTIMIZE YOUR COMBOS:\" \nhttps://www.youtube.com/watch?v=EQsFjxXdGBU --~--\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "Y4SgtnY7qvc",
+        "preview": "https://i.ytimg.com/vi/Y4SgtnY7qvc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-06-29T02:37:36Z",
+        "title": "TYLER1 DONATES $1000 TO YASSUO | APHROMOO INSANE SHEN PLAYS | SHIPHTUR INSTANT KARMA | LOL MOMENTS",
+        "description": "Follow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nFollow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nGet Memes Apparel here: http://bit.ly/FunofLegendsMemesApparel\nGet Hip-hop Apparel here: http://bit.ly/FunofLegendsHiphopApparel\nUse code meme for an Extra 5% discount ($49+)!\nUse code memes for an Extra 10% discount ($99+)! Juxtapositions and parallels are drawn between different clips to deliver the original narrative of the video in a transformative manner that falls under Fair Use and provides unique value to my viewers. Juxtaposition is an act or instance of placing two elements close together or side by side. This is often done in order to compare/contrast the two, to show similarities or differences, etc. A video qualifies as fair use if it juxtaposes source material in a new or unexpected way for the purposes of critique, commentary or education.\n\nHelp me reach 100.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\n---\nCREDITS:\nImaqtpie: https://www.twitch.tv/Imaqtpie\nLL Stylish: https://goo.gl/e30bvV \nBoxBox: https://goo.gl/LTrb4u\nShiphtur: https://goo.gl/en426Z\nScarra: https://goo.gl/kTgyzu\nIWDominate: https://goo.gl/VlPyhA\nFroggen: https://goo.gl/FzkhNe\nHashinshin: https://www.twitch.tv/Hashinshin\nYassuo: https://www.twitch.tv/Yassuo\nBjergsen: https://www.twitch.tv/tsm_bjergsen\nAphromoo: https://www.twitch.tv/Aphromoo\nVoyBoy: https://www.twitch.tv/VoyBoy\nBustin: https://www.twitch.tv/Bustin\nIreliaCarriesU: https://www.twitch.tv/IreliaCarriesU\nLinusTheAfro: https://www.twitch.tv/LinusTheAfro\nSoloRenektonOnly: https://www.twitch.tv/SoloRenektonOnly\nTFBlade: https://www.twitch.tv/TFBlade\n\n\nFootage used in this video is protected by the Fair Use Law, section 107 used for commentary, criticism, news reporting or education for transformative use.\nhttps://www.copyright.gov/fair-use/more-info.html\nMy channel is focused on giving the best and unique moments of your favorite players. I put a lot of effort into making these videos with a lot of unique edits and personality effects on my videos. I got permissions for the content that I use and I alter them for fair use purpose and it also falls under the \"news reporting\" flag which is also considered as fair use!",
+        "videoId": "-X0x3WDPL9A",
+        "preview": "https://i.ytimg.com/vi/-X0x3WDPL9A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-05-28T23:25:56Z",
+        "title": "PYKE STRIKES AGAIN! WILL PYKE BE THE END OF THE ARDENT META?!?! PYKE SUPPORT - League of Legends",
+        "description": "Full game stream highlight. LoL Tips and tricks on how to play Support Pyke vs Morde and Karma bot lane along with commentary!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nSoraka Support FT REDMERCY 22 Kill Talon! - HanjaroLoL Stream Highlights\nhttps://www.youtube.com/watch?v=QDbwAELGo7w\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nSong: Shranay Shahane & Derex - Light Legion Link: https://youtu.be/W8ZlHkbCDdk Music promoted by FreeMusicWave.",
+        "videoId": "x1AbQcCLT-0",
+        "preview": "https://i.ytimg.com/vi/x1AbQcCLT-0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-05-10T21:31:38Z",
+        "title": "[8.9] Challenger Support Karma Commentary [vs Aphromoo]",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517",
+        "videoId": "1lx5eoQYOM0",
+        "preview": "https://i.ytimg.com/vi/1lx5eoQYOM0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-06T01:04:16Z",
+        "title": "[8.6] Challenger Support Karma Commentary",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517",
+        "videoId": "jLD-h5DH7wU",
+        "preview": "https://i.ytimg.com/vi/jLD-h5DH7wU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-02T21:59:19Z",
+        "title": "Ionia Lore Updates are Here!",
+        "description": "We finally have details on the First Lands, in addition to bio updates for Yasuo, Riven, Lee Sin, Karma, and Irelia. Check out my thoughts here!\n\nRead more GTL here: https://grabthelantern.tumblr.com",
+        "videoId": "oysFLnzfhec",
+        "preview": "https://i.ytimg.com/vi/oysFLnzfhec/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-03-18T19:00:02Z",
+        "title": "7 OP CHAMPION DESIGNS That Didn't Make It Into League of Legends",
+        "description": "League of Legends / LoL: 7 OP CHAMPION DESIGNS That Didn't Make It Into League of Legends\n➥ Fortnite Battle Royale Moments: https://goo.gl/Qo49bJ\n💙 Facebook: https://www.facebook.com/GamingCurios/💙\n\n➥ Subscribe for More League of Legends Videos!  http://bit.ly/1O7TtJh  \n\n➥ Information Sources From The Video:\n\n1. Urgot VGU:\nhttps://www.artstation.com/artwork/bx4kE\n\n2. Taric VGU:\nhttps://www.artstation.com/artwork/d4z8J\n\nBy Zeronis: https://zeronis.deviantart.com/gallery/\n\n3. Syndra\nhttps://zeronis.deviantart.com/art/Syndra-The-Dark-Sovereign-Ideation-Thumbnails-342605666\nhttps://zeronis.deviantart.com/art/Syndra-Design-Variations-1-Paul-Kwon-387570787\n\n4. Karma\nhttps://zeronis.deviantart.com/art/Karma-Thumbs-Paul-Kwon-PKfire-397149845\n\n5. Ziggs:\nhttps://vignette.wikia.nocookie.net/leagueoflegends/images/f/f8/Ziggs_concept_1.jpg/revision/latest?cb=20150307173431\nhttps://vignette.wikia.nocookie.net/leagueoflegends/images/c/c5/Ziggs_concept_4.jpg/revision/latest?cb=20150307173619\nhttps://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Ziggs_concept_3.jpg/revision/latest?cb=20150307173535\nhttps://vignette.wikia.nocookie.net/leagueoflegends/images/d/df/Ziggs_concept_0.jpg/revision/latest?cb=20140803173336\n\nBy Trent Kaniuga: https://www.artstation.com/trentkaniuga\n\n6. Shopkeepers:\nhttps://www.artstation.com/artwork/Dllz0\nhttps://www.artstation.com/artwork/QLLJd\nhttps://www.artstation.com/artwork/2ZZ4x\n\n7. Old School Beta Concepts & Various Explorations By Albert Carranza:\nhttps://www.artstation.com/artwork/km9wA\n\n✔ Video Credits:\n● Produced By: Jeremy - Gaming Curios\n● Written By: Jeremy - Gaming Curios & EdgeGaming\n● Edited By: LocusEdits",
+        "videoId": "lNPVjkGuoJw",
+        "preview": "https://i.ytimg.com/vi/lNPVjkGuoJw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-03-06T05:49:11Z",
+        "title": "S8 Coaching Gold III ELO - Karma Support - League of Legends",
+        "description": "Coaching Review for SenGamin, Ranked: Gold III. LoL Coaching Tips and tricks on how to play Karma Support in this match up against Kalista and Thresh lane!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nS8 Coaching Gold IV ELO - Bard Support - League of Legends\n\nhttps://www.youtube.com/watch?v=no9nFLHvnes\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "IgPBWIArDcw",
+        "preview": "https://i.ytimg.com/vi/IgPBWIArDcw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-24T11:37:18Z",
+        "title": "Patch 8.2 Rundown - Don't overreact to some of the changes",
+        "description": "Klepto is the big question mark now, and Relic Shield is gone. Most changes are irrelevant in the big picture. Some champs missing from nerf's continues to baffle me. Although I hope they just buff everyone.\n\nChampions truly affected by the targeted spell change imo: \nAnnie\nAkali\nCassio\nKatarina\nKarma(lane)\nLulu\nPantheon\nRyze\nVladimir\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com\n\nTempo Storm:\nhttp://tempostorm.com",
+        "videoId": "JPa1y14tk40",
+        "preview": "https://i.ytimg.com/vi/JPa1y14tk40/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "synotik",
+        "displayName": "Synotik",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx0CSwmaKYz6t-OggX_gDTI1TCpKYjxrqn-U-FoQQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-20T13:06:50Z",
+        "title": "Kayn DARK HARVEST Montage - Insane BURSTS and DELETES | League of Legends",
+        "description": "Kayn DARK HARVEST Montage - Insane BURSTS and DELETES League of Legends\n►MAKE SURE TO LEAVE A \"LIKE\" IF YOU ENJOYED THE VIDEO! \n🔥 Subscribe to my new music channel → http://bit.ly/SynMusic ♫\n\n\n➥ Send me your plays, outplays or fails → SynotikLoL@gmail.com\n➥ Join My Discord: https://discord.gg/TTaf47a\n---------------------------------------------------------------------------------------------------\n➢ Songs:\n\nNoisestorm - Escape \n\nKarma Fields - Edge of the World \n\nKarma Fields - Build The Cities (feat. Kerli) \n\n---------------------------------------------------------------------------------------------------\n✔️ FOLLOW ME ON SOCIAL MEDIA:\n● Twitter: https://twitter.com/iSynotik\n● Twitch: http://www.twitch.tv/iSynotik\n● Facebook: https://www.facebook.com/SynotikLoL\n----------------------------------------­­---------------------------------------­--------------------",
+        "videoId": "b3eh6bZFE8U",
+        "preview": "https://i.ytimg.com/vi/b3eh6bZFE8U/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-20T08:55:55Z",
+        "title": "Scarra Doesn't Like This Karma | Pobelter 10 IQ Flash Play With Malzahar | Aphromoo's Teammate | LoL",
+        "description": "Follow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nFollow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nGet Memes Apparel here: http://bit.ly/FunofLegendsMemesApparel\nGet Hip-hop Apparel here: http://bit.ly/FunofLegendsHiphopApparel\nUse code meme for an Extra 5% discount ($49+)!\nUse code memes for an Extra 10% discount ($99+)! Juxtapositions and parallels are drawn between different clips to deliver the original narrative of the video in a transformative manner that falls under Fair Use and provides unique value to my viewers. Juxtaposition is an act or instance of placing two elements close together or side by side. This is often done in order to compare/contrast the two, to show similarities or differences, etc. A video qualifies as fair use if it juxtaposes source material in a new or unexpected way for the purposes of critique, commentary or education.\n\nHelp me reach 50.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment! ALSO:\n\n---\n\nHello there,\n\nLeague of Legends stream moments and plays!\n\nHighlights of many streamers(Sneaky, Bjergsen, Imaqtpie, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\nIf you did please subscribe to my channel and smash that like button =)\n\n\n---\n\nOUTRO SONG: Electric Joy Ride \nLink: https://goo.gl/Be6AXV\nThe Version I used: https://goo.gl/VkMEfD (00:42 - 01:05)\n\nBest Music: https://goo.gl/T1e3eJ\n---\n\nThank you guys A LOT!!!\n\nPlease subscribe: https://goo.gl/I3gB3L\nFacebook Page: https://goo.gl/I3gB3L\n\n---\nCREDITS:\nImaqtpie: https://goo.gl/kNE42k\nGosu: https://goo.gl/Wjjbvf\nPobelter: https://goo.gl/lqRQq8\nShiphtur: https://goo.gl/en426Z\nScarra: https://goo.gl/kTgyzu\nDekar173: https://goo.gl/R8hvpt\nIWDominate: https://goo.gl/VlPyhA\nYassuo: https://www.twitch.tv/Yassuo\nAphromoo: https://www.twitch.tv/Aphromoo\nVoyBoy: https://www.twitch.tv/VoyBoy\nLourlo: https://www.twitch.tv/Lourlo\nAkaadian: https://www.twitch.tv/Akaadian\nCompeteleague: https://www.twitch.tv/Competeleague\nGrossie_Gore: https://www.twitch.tv/Grossie_Gore\nKatEvolved: https://www.twitch.tv/KatEvolved\nMicronen: https://www.twitch.tv/Micronen\nMetaphor: https://www.twitch.tv/Metaphor\nTFBlade: https://www.twitch.tv/TFBlade\nTrick2G: https://www.twitch.tv/Trick2G\nVisaden: https://www.twitch.tv/Visaden\nWickd: https://www.twitch.tv/Wickd\nZeful1: https://www.twitch.tv/Zeful1\n\n\nFootage used in this video is protected by the Fair Use Law, section 107 used for commentary, criticism, news reporting or education for transformative use.\nhttps://www.copyright.gov/fair-use/more-info.html\nMy channel is focused on giving the best and unique moments of your favorite players. I put a lot of effort into making these videos with a lot of unique edits and personality effects on my videos. I got permissions for the content that I use and I alter them for fair use purpose and it also falls under the \"news reporting\" flag which is also considered as fair use!",
+        "videoId": "KXw9d8gybNM",
+        "preview": "https://i.ytimg.com/vi/KXw9d8gybNM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-17T19:10:17Z",
+        "title": "Pre-S8 Challenger Karma Commentary [vs Doublelift/Smoothie]",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517\n\nRunes: https://i.gyazo.com/d2f9f5fcc810ee8338e9183db7441c4d.png",
+        "videoId": "iCx7QqHJkds",
+        "preview": "https://i.ytimg.com/vi/iCx7QqHJkds/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-11T01:59:51Z",
+        "title": "[Season 8] Runes For ALL Champions (500+ Rune Pages)",
+        "description": "Huge thanks to all of the pro players and challengers who helped in the discussion leading to the creation of these pages. Some pages on the rune video might have errors / extra pages (alternatives) missing, this was an oversight due to the amount of time it took sorry. \nTimestamps: \n\n00:00 Aatrox\n00:05 Ahri\n00:17 Akali\n00:21 Alistar\n00:33 Amumu\n00:42 Anivia\n00:49 Annie\n00:56 Ashe\n01:01 Aurelion\n01:12 Azir\n01:17 Bard\n01:36 Blitzcrank\n01:45 Braum\n01:50 Brand\n02:04 Caitlyn\n02:09 Camille\n02:18 Cassio\n02:23 Cho'Gath\n02:33 Corki\n02:37 Darius\n02:55 Diana\n03:07 Draven\n03:12 Dr.Mundo\n03:28 Ekko\n03:51 Elise\n03:54 Evelynn\n03:56 Ezreal\n04:05 Fiddlesticks\n04:12 Fiora\n04:17 Fizz\n04:24 Galio\n04:29 Gangplank\n04:43 Garen\n04:50 Gnar\n04:52 Gragas\n05:04 Graves\n05:06 Hecarim\n05:11 Heimerdinger\n05:20 Illaoi\n05:39 Irelia\n05:55 Ivern\n06:11 Janna\n06:25 Jarvan\n06:35 Jax\n06:51 Jayce\n06:56 Jhin\n07:03 Jinx - Slight error, Press the Attack not comet tree is hers. Comet is Jhin's+Press the Attack\n07:06 Kalista\n07:08 Karma\n07:31 Karthus\n07:33 Kassadin\n07:52 Katarina\n08:01 Kayle\n08:03 Kayn\n08:13 Kennen\n08:17 Kha'Zix\n08:22 Kindred\n08:27 Kled\n08:31 Kog'Maw\n08:36 Leblanc\n08:48 Lee Sin\n08:54 Leona\n09:04 Lissandra\n09:11 Lucian\n09:16 Lulu\n09:34 Lux\n09:46 Malphite\n09:52 Malzahar\n10:00 Maokai\n10:03 Master Yi\n10:12 Miss Fortune\n10:23 Mordekaiser\n10:28 Morgana\n10:33 Nami\n10:44 Nasus\n11:03 Nautilus\n11:12 Nidalee\n11:15 Nocturne\n11:40 Nunu\n11:55 Olaf\n12:06 Orianna\n12:18 Ornn\n12:23 Pantheon\n12:30 Poppy\n12:36 Quinn\n12:39 Rakan\n12:44 Rammus\n12:50 Reksai\n12:55 Renekton\n13:07 Rengar\n13:16 Riven\n13:30 Rumble\n13:33 Ryze\n13:35 Sejuani\n13:39 Shaco\n13:49 Shen\n13:53 Shyvana\n14:00 Singed\n14:22 Sion\n14:26 Sivir\n14:29 Skarner\n14:35 Sona\n14:50 Soraka\n15:03 Swain\n15:09 Syndra\n15:13 Tahm\n15:29 Taliyah\n15:38 Talon\n15:43 Taric\n15:48 Teemo\n15:59 Twisted Fate\n16:11 Thresh\n16:13 Tristana\n16:18 Trundle\n16:32 Tryndamere\n16:34 Twitch\n16:39 Udyr\n16:46 Urgot\n16:49 Varus\n16:53 Vayne\n16:56 Veigar\n17:05 Vel'Koz\n17:16 Vi\n17:26 Viktor\n17:40 Vladimir\n17:45 Volibear\n17:54 Warwick\n18:06 Wukong\n18:17 Xayah\n18:20 Xerath\n18:31 Xin Zhao\n18:38 Yasuo\n18:48 Yorick\n18:55 Zac\n19:04 Zed\n19:09 Ziggs\n19:15 Zilean\n19:27 Zoe\n19:32 Zyra\n\nPLEASE NOTE :\n\nThe outlined but gray icon in the primary tree means that it is a possible alternative, although the colored path is preferred. In the secondary tree the outline stands for alternatives aswell, but it also shows what you can actually swap out and what is mandatory.\n\nAll of the rune pages that are seen in this video are not only created through my own thoughts, but dozens of pro and high elo players were involved in coming to conclusions when doing these rune pages.\n\nHuge shout-outs to everyone who participated in working on these.\n\nBGM : https://www.youtube.com/watch?v=_rbVt0z6NLM",
+        "videoId": "X6uxG09qN0s",
+        "preview": "https://i.ytimg.com/vi/X6uxG09qN0s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-29T20:00:01Z",
+        "title": "DON'T WORRY TEAM, I GOT IT ! - THRESH SUPPORT - League of Legends",
+        "description": "Full game stream highlight. LoL Tips and tricks on how to play Support Thresh in this match up against Soraka and Kogmaw along with commentary!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nWHAT DID FIDDLE DO?! - SUPPORT KARMA - League of Legends:\nhttps://youtu.be/jeoQJy1jexI\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "Ma6xi-iahYw",
+        "preview": "https://i.ytimg.com/vi/Ma6xi-iahYw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-28T19:00:01Z",
+        "title": "WHAT DID FIDDLE DO?! - SUPPORT KARMA - League of Legends",
+        "description": "Full game stream highlight. LoL Tips and tricks on how to play Support Karma in this match up against Soraka and Ashe along with commentary!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nI'M GANKING EVERYONE ! - TOP D DUOS EPISODE 10 - League of Legends:\nhttps://youtu.be/aUa73M90QuQ\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "jeoQJy1jexI",
+        "preview": "https://i.ytimg.com/vi/jeoQJy1jexI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-10T18:13:10Z",
+        "title": "STERAKS REWORK! New OP CHAMPS IN 7.20 - Biggest Changes (League of Legends)",
+        "description": "Let's go over the new op stuff coming in 7.20!\nChanges = http://euw.leagueoflegends.com/en/news/game-updates/patch/patch-720-notes\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChanges\n-Janna hotfix\n-Steraks buff\n-Eve rework\n-Brand buff\n-Graves buff\n-Ornn buff\n-Karma buff\n-Tahm buff\n-Support items\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nSTERAKS REWORK! New OP CHAMPS IN 7.20 - Biggest Changes (League of Legends)",
+        "videoId": "YYj3XO3IQL0",
+        "preview": "https://i.ytimg.com/vi/YYj3XO3IQL0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-09-30T20:00:01Z",
+        "title": "FF THIS TRIST WANTS TO LOSE! CAN LULU RALLY THIS TEAM TO A WIN?! - League of Legends",
+        "description": "Full game stream highlight. LoL Tips and tricks on how to play Lulu Support in this match up against Karma and Lucian (Tyler1)... along with commentary!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nRETURN OF THE BRAD! COME WATCH THE MAGICAL JOURNEY TO VICTORY! - League of Legends: \nhttps://youtu.be/LO8hm8RJNNo\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "kSJ3_Wu6tSs",
+        "preview": "https://i.ytimg.com/vi/kSJ3_Wu6tSs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-09-29T15:15:03Z",
+        "title": "MeNoHaxor LoL Coaching #4 - Support Karma [Plat]",
+        "description": "Use the link below to get $5 off your first 1 on 1 coaching lesson with me:\nhttps://www.gamersensei.com/r/328517",
+        "videoId": "dnbBqYRZPsU",
+        "preview": "https://i.ytimg.com/vi/dnbBqYRZPsU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-09-10T19:00:03Z",
+        "title": "Top 9 Crazy Fan Skins! - League of Legends",
+        "description": "League of Legends / LoL: Top 9 Crazy Fan Skins! We take a look at some of the coolest and craziest skins from the LoL Community.\n➥ GGEsports GIVEAWAY: https://www.facebook.com/ggesportsEN/photos/a.615114518682821.1073741828.588413874686219/705879232939682/?type=3\n🔴 GGEsports - Play For Free And Win Prizes! : http://www.ggesports.com/\n\n► Ironside Computers - Click Here to Customize Your Own PC: http://ironsidecomputers.com/page.php?load=index\n\n➥ Information Sources From The Video:\n\n1. Angel Of Death Kayle By Ann Marie Cochran\nhttps://www.artstation.com/artwork/wqbnV\n\n2. Oni Poppy By Noah Warner\nhttps://www.artstation.com/artwork/r5NO2\n\n3. Midnight Soraka By Jean Lee\nhttps://www.artstation.com/artwork/Gm2zN\n\n4. Popstar Sona By Jean Lee\nhttps://www.artstation.com/artwork/EN29n\n\n5. Bride Katarina By PentheSilence\nhttp://penthesilence.tumblr.com/post/154226276330/bride-katarina\n\n6. Project Diana By Maja Deke\nhttps://www.artstation.com/artwork/bdkRr\n\n7. Academy Taric By Maja Deke\nhttps://www.artstation.com/artwork/bdkRr\n\n8. Gatekeeper Karma By Vlad Bacescu\nhttps://www.artstation.com/artwork/02xA4\n\n9. Pulsefire Jhin By Vlad Bacescu\nhttps://www.artstation.com/artwork/GKZd3\n\nProduction Music Courtesy of Epidemic Sound: http://www.epidemicsound.com\n\n✔ Video Credits:\n● Produced By: Jeremy \"Gaming Curios\"\n● Written By: Jeremy \"Gaming Curios\" & Edge\n● Edited By: LocusEdits",
+        "videoId": "sAT2YPacThc",
+        "preview": "https://i.ytimg.com/vi/sAT2YPacThc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-08-25T02:09:27Z",
+        "title": "MENTAL FORTITUDE! WEAK MINDS LIKE THIS MAKE WINNING AT LEAGUE EASY! NAMI SUPPORT - League of Legends",
+        "description": "Full game stream highlight. LoL Tips and tricks on how to play Nami Support in this match up against Karma and Sivir along with commentary!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nAMERICAN SNIPER ASHE! HAS THE QUEEN OF FRELJORD RETURNED?! - League of Legends: \nhttps://www.youtube.com/watch?v=s85awciSzZw\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "xw0isfqBeIc",
+        "preview": "https://i.ytimg.com/vi/xw0isfqBeIc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-08-11T15:23:41Z",
+        "title": "S7 LoL Coaching #51 - Karma (Gold)",
+        "description": "Support mids? Can they still work or are they too team reliant? We talk about that in this coaching! -- Watch live at https://www.twitch.tv/neace",
+        "videoId": "2Aaqzl3s2Qw",
+        "preview": "https://i.ytimg.com/vi/2Aaqzl3s2Qw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-06-16T12:10:10Z",
+        "title": "Patch 7.12 Rundown",
+        "description": "For the most part the changes are all good. Expect to see Zac nerfed after SKT Zac skin is released and not a second before. Only thing that makes sense when you see the attempted \"nerfs\" to him.\n\nTimestamps:\n0:19 Camille\n1:15 Corki\n2:30 Ivern\n4:08 Jax\n4:30 Jhin\n5:32 Karma\n6:16 Kindred\n7:01 Malzahar\n8:12 Rakan\n8:18 Rek sai\n9:00 Rumble\n11:08 Xayah\n11:20 Zac\n12:53 Locket of the iron solari\n13:31 Redemption\n14:10 Zeke's convergence\n15:12 Athene's unholy grail\n16:26 Knights wow\n16:48 Righteous glory\n16:55 glacial shroud\n17:27 Raptor cloak\n17:33 Talisman of accension\n17:43 Dorans ring\n18:59 dorans shield\n\nKayle Syndrome = The overreaction to changes/nerfs to a champion, thinking it will be completely unviable despite that not being the case.\n\nGet the Tempo Storm  LS edition jersey:  https://metathreads.com/collections/tempo-storm/products/copy-of-tempo-storm-jersey\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "lfWiD-Lhmyk",
+        "preview": "https://i.ytimg.com/vi/lfWiD-Lhmyk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-24T18:50:20Z",
+        "title": "NEW BEST CHAMPIONS IN 7.10 to CARRY for every role (League of Legends)",
+        "description": "Quite a lot has actually changed since the last patch so time to look at the best champions in every role to carry your games!\nOP Champs in Korea in 7.10 = https://youtu.be/pnsMrTuzfHw\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames.\n\nTimestamps \nTop = Start of video\nJungle = 2:34\nMid = 4:01\nSupport = 7:14\nADC = 9:19\n\nChampions - builds etc are in the video!\nTop = Riven / Yasuo\nJungle = Zac / Kha'Zix\nMid = (Ahri) Syndra / Kassadin\nADC = Caitlyn / Twitch\nSupport = Thresh / Karma\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNEW BEST CHAMPIONS IN 7.10 to CARRY for every role (League of Legends)",
+        "videoId": "ZTJkk_FZ_DE",
+        "preview": "https://i.ytimg.com/vi/ZTJkk_FZ_DE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "synotik",
+        "displayName": "Synotik",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx0CSwmaKYz6t-OggX_gDTI1TCpKYjxrqn-U-FoQQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-17T11:00:02Z",
+        "title": "SKT Huni Montage - The HoloMaster | League Of Legends Montage",
+        "description": "SKT Huni Montage - The HoloMaster \nSeung \"Huni\" Hoon Heo (허승훈) is the Top Laner for SK Telecom T1.\n►MAKE SURE TO LEAVE A \"LIKE\" IF YOU ENJOYED THE VIDEO ^-^\n\n🔵 500$ RP GIVEAWAY →  https://gleam.io/dHgcB/500-rp-giveaway\n\n➥ Send me your plays, outplays or fails → SynotikLoL@gmail.com\n---------------------------------------------------------------------------------------------------\n➢ CREDITS: \n\nhttps://twitter.com/SKT_Huni\n\nhttps://twitter.com/sktelecom_t1\n\nhttps://www.twitch.tv/huni\n\n\nLoL Esports\nhttps://www.youtube.com/user/LoLChampSeries\n\n➢ Songs:\n\nDistrion & Electro-Light - You And Me (feat. Ke'nekt) [NCS Release]\n\nTristam x Karma Fields - Build The Cities (Empire Of Sound) [feat. Kerli] [Monstercat Release]\n\nJim Yosef - Can't Wait (feat. Anna Yvette) [NCS Release]\n\n---------------------------------------------------------------------------------------------------\n● Twitter: https://twitter.com/iSynotik\n● Twitch: http://www.twitch.tv/iSynotik\n● Facebook: https://www.facebook.com/SynotikLoL\n----------------------------------------­­---------------------------------------­--------------------\n✖ If I forgot your credit only just leave a comment! Or send me a email! [Contact@Synotik.Com]",
+        "videoId": "QeQ9_N_Ku4Y",
+        "preview": "https://i.ytimg.com/vi/QeQ9_N_Ku4Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-04T22:07:12Z",
+        "title": "Phreak TELLS THE ODDS OF TYLER1 UNBAN | 500 IQ KARMA | Best LoL Stream Moments",
+        "description": "Follow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nFollow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nGet Memes Apparel here: http://bit.ly/FunofLegendsMemesApparel\nGet Hip-hop Apparel here: http://bit.ly/FunofLegendsHiphopApparel\nUse code meme for an Extra 5% discount ($49+)!\nUse code memes for an Extra 10% discount ($99+)! Juxtapositions and parallels are drawn between different clips to deliver the original narrative of the video in a transformative manner that falls under Fair Use and provides unique value to my viewers. Juxtaposition is an act or instance of placing two elements close together or side by side. This is often done in order to compare/contrast the two, to show similarities or differences, etc. A video qualifies as fair use if it juxtaposes source material in a new or unexpected way for the purposes of critique, commentary or education.\n\nHelp me reach 30.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment! ALSO:\n\nCheck out my sister's channel!: https://goo.gl/MVrJIa\nand\n\nMy Friend's Channel: https://goo.gl/gC20OJ\n\nMy friend RoyalCheetah's Twitch(Please Follow Her): https://goo.gl/vCBVcf\n\n---\n\nHello there,\n\nLeague of Legends stream moments and plays!\n\nHighlights of many streamers(Sneaky, Bjergsen, Imaqtpie, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\nIf you did please subscribe to my channel and smash that like button =)\n\n\n---\n\nOUTRO SONG: Electric Joy Ride \nLink: https://goo.gl/Be6AXV\nThe Version I used: https://goo.gl/VkMEfD (00:42 - 01:05)\n\nBest Music: https://goo.gl/T1e3eJ\n---\n\nThank you guys A LOT!!!\n\nPlease subscribe: https://goo.gl/I3gB3L\nFacebook Page: https://goo.gl/I3gB3L\n\n---\nCREDITS:\nRoyalCheetah: https://goo.gl/vCBVcf\nLL Stylish: https://goo.gl/e30bvV \nBoxBox: https://goo.gl/LTrb4u\nImaqtpie: https://goo.gl/4Awhzg\nPobelter: https://goo.gl/lqRQq8\nShiphtur: https://goo.gl/en426Z\nDyrus: https://goo.gl/CCtHlq\nDekar173: https://goo.gl/R8hvpt\nIWDominate: https://goo.gl/VlPyhA\nJankos: https://goo.gl/1tLcxs\n3in1warrior: https://goo.gl/SCUN50\nPhreak: https://goo.gl/4PDlcf\nPokimane: https://goo.gl/RCm5Up\nSummit1G: https://goo.gl/dQgmRH\nTemperStorm: https://goo.gl/uD6QXj\nWeekndNA: https://goo.gl/z4Nr9a\nXellosBrah: https://goo.gl/DkhzCt\n\n\nFootage used in this video is protected by the Fair Use Law, section 107 used for commentary, criticism, news reporting or education for transformative use.\nhttps://www.copyright.gov/fair-use/more-info.html\nMy channel is focused on giving the best and unique moments of your favorite players. I put a lot of effort into making these videos with a lot of unique edits and personality effects on my videos. I got permissions for the content that I use and I alter them for fair use purpose and it also falls under the \"news reporting\" flag which is also considered as fair use!",
+        "videoId": "2pO40aq6lnY",
+        "preview": "https://i.ytimg.com/vi/2pO40aq6lnY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-17T15:52:57Z",
+        "title": "Conqueror Karma Skin Spotlight - League of Legends",
+        "description": "League of Legends Conqueror Karma Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on their Conqueror Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "8LyZrnErEWA",
+        "preview": "https://i.ytimg.com/vi/8LyZrnErEWA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "synotik",
+        "displayName": "Synotik",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx0CSwmaKYz6t-OggX_gDTI1TCpKYjxrqn-U-FoQQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-06T11:00:03Z",
+        "title": "SAVE Montage - Amazing SAVES Plays | League Of Legends Montage",
+        "description": "SAVE Montage - Unbelievable SAVES 2015 - 2017\nft. Shen, Thresh, Trundle, Ezreal, Graves, Lee Sin, Karma And More!\n➥ Send me your plays, outplays or fails → SynotikLoL@gmail.com\n\n\n►MAKE SURE TO LEAVE A \"LIKE\" IF YOU ENJOYED THE VIDEO ^-^\n---------------------------------------------------------------------------------------------------\n➢ CREDITS: (Special THANKS to all who send me their plays ❤)\n\nLeague of Legends\nhttps://www.youtube.com/user/RiotGamesInc\n\nLoL Esport\nhttps://www.youtube.com/user/LoLChampSeries\n\nSneaky:\nhttps://www.youtube.com/channel/UCXEYKr8jSDw9urOPR917LOQ\n\nVoyBoy\nhttps://www.youtube.com/user/LoLVoyboy\n\nLOL PRO Replays\nhttps://www.youtube.com/user/seindkr\n\n➢ Songs:\n\nAxtasia - Light Up The Sky (feat. Soundr) \n\n3rd Prototype - Together \n\nAnevo - Don't Shoot Me Down (feat. Jae-Mi) \n\n---------------------------------------------------------------------------------------------------\n● Twitter: https://twitter.com/iSynotik\n● Twitch: http://www.twitch.tv/iSynotik\n● Facebook: https://www.facebook.com/SynotikLoL\n----------------------------------------­­---------------------------------------­--------------------\n✖ If I forgot your credit only just leave a comment! Or send me a email! [Contact@Synotik.Com]",
+        "videoId": "Mw2CZ0pf1RU",
+        "preview": "https://i.ytimg.com/vi/Mw2CZ0pf1RU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-04T23:23:17Z",
+        "title": "Conqueror Karma Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Conqueror Karma with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 975RP\n\nSkin name is CONFIRMED as Conqueror Karma, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "NtxOwyzmnWM",
+        "preview": "https://i.ytimg.com/vi/NtxOwyzmnWM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-01-14T05:11:48Z",
+        "title": "Why generalists are bad",
+        "description": "Champions like Lee Sin and Karma bring a little too much to the table, despite how fun they might be to play. Today, we discuss why generalists are bad for the game and how they might be changed for the better.",
+        "videoId": "8gLlYe9k3Ys",
+        "preview": "https://i.ytimg.com/vi/8gLlYe9k3Ys/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-16T21:59:20Z",
+        "title": "Snowdown - 360 Video VR Experience",
+        "description": "Snowdown is upon us, all the champions who celebrate snowdown have gathered alongside some poros!\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nGet into the fesitive cheer with this 360 video showing the latest 3 new skins, Santa Braum, Winter Wonder Karma and Snow Day Graves and showing some of the older skins released for the Snowdown.\n\nExperience League of Legends like never before in immersive 360 video and if you have a head mounted display experience it in VR!\n\nTwitter\nhttps://twitter.com/SkinSpotlights\n\nFacebook:\nhttps://www.facebook.com/Skinspotlights",
+        "videoId": "Ygq6xN8P_nE",
+        "preview": "https://i.ytimg.com/vi/Ygq6xN8P_nE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-07T03:00:01Z",
+        "title": "Preseason 7 LoL Coaching #14 - Katarina Mid (Platinum 4)",
+        "description": "Another Katarina game, sorry fam!  Katarina mid vs Karma.  N3ac3y talks about team fight play, laning, trading, and all-in spots.\n\nFF@20$ Replay Reviews on twitch.tv/n3ac3y \nCome in, have a replay ready to review, donate 20$, \nand get your gameplay reviewed live on stream Mondays.\n\n\nAlso, be sure to follow:\n►TWITTER:   https://twitter.com/n3ac3y\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\n►OP.GG: http://goo.gl/43igza \n►LOLKING:   http://www.lolking.net/summoner/na/54794681\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "VRjmmksmx7Q",
+        "preview": "https://i.ytimg.com/vi/VRjmmksmx7Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-05T16:12:39Z",
+        "title": "Winter Wonder Karma Skin Spotlight - League of Legends",
+        "description": "League of Legends Winter Wonder Karma Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on their Winter Wonder Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "zTU2BhpmMQ4",
+        "preview": "https://i.ytimg.com/vi/zTU2BhpmMQ4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-29T06:06:04Z",
+        "title": "Masters Coaching #89 - Draven Bot (Silver 5)",
+        "description": "Draven Bot w/ Lulu vs. Sivir + Karma.  We focus on early laning, itemization, positioning, and team fight priorities.\n\nFF@20$ Replay Reviews on twitch.tv/n3ac3y \nCome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\n\nAlso, be sure to follow:\n►TWITTER:   https://twitter.com/n3ac3y\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\n►LOLKING:   http://www.lolking.net/summoner/na/54794681\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "JGu7-RdpudA",
+        "preview": "https://i.ytimg.com/vi/JGu7-RdpudA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-24T15:40:48Z",
+        "title": "Preseason 7 Masters Coaching #2 - Vayne ADC",
+        "description": "We got Vayne + Karma vs. Jhin + Brand, and a tiny dash of Talon jungle.  N3ac3y goes in-depth in this long replay, focusing on the new season, early game play with Vayne, team fighting, and macro decisions.\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y \r\nCome in, have a replay ready to review, donate 20$, \r\nand get your gameplay reviewed live on stream.\r\n\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►OP.GG: http://goo.gl/43igza \r\n►LOLKING:   http://www.lolking.net/summoner/na/54794681\r\n -- Watch live at https://www.twitch.tv/n3ac3y\r\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "kJ7wDB9lrkM",
+        "preview": "https://i.ytimg.com/vi/kJ7wDB9lrkM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "menohaxor",
+        "displayName": "MeNoHaxor",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-23T19:45:55Z",
+        "title": "[6.22] Challenger Support Karma Commentary",
+        "description": "Runes: https://i.gyazo.com/ea3de39799eeacc01c59a9a5f69462bf.png\nMasteries: https://i.gyazo.com/d85ba7611165a4d5456691ef289704ff.png",
+        "videoId": "sH6d-8uxqfE",
+        "preview": "https://i.ytimg.com/vi/sH6d-8uxqfE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-21T23:05:33Z",
+        "title": "Winter Wonder Karma Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Winter Wonder Karma with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nPrice: 1350RP\nSkin name is CONFIRMED as Winter Wonder Karma, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "thTQgAhm89w",
+        "preview": "https://i.ytimg.com/vi/thTQgAhm89w/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-12T19:22:48Z",
+        "title": "Top 12 TOP LANERS RANKED for Pre-Season 7! With new MASTERIES / BUILDS / RUNES (League of Legends)",
+        "description": "Looking at the top 12 Top Laners right now for Preseason! Some you aren't expecting too.\nADC = https://youtu.be/RsQ3ADpSIDA // Mid = https://youtu.be/cDgyGSappCg\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTank Karma Montage - https://www.youtube.com/watch?v=XX9VMlpqchs\nTank Karma Guide - http://www.lolking.net/guides/388848\n\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nTop 12 TOP LANERS RANKED for Pre-Season 7! With new MASTERIES / BUILDS / RUNES (League of Legends)",
+        "videoId": "MNT3OaJb4p8",
+        "preview": "https://i.ytimg.com/vi/MNT3OaJb4p8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-10T04:51:22Z",
+        "title": "[Season 7] Masteries For Almost All Champions",
+        "description": "Some masteries reflect personal viewpoints on the game and are aimed specifically at lane/control advantages and edges. This wasn't a planned video and also there are more variations to some champs than just what was shown as possibilities in this video.\nTIMESTAMPS: \n\nADC\n\n 00:00 Ashe\n00:04 Caitlyn\n00:10 Draven\n00:14 Ezreal\n00:19 Jhin\n00:25 Jinx\n00:29 Varus\n00:35 Vayne\n00:38 Kalista\n00:42 Tristana\n00:47 Twitch \n\nSupport\n00:50 Taric\n00:55 Thresh\n01:00 Zyra\n01:05 Braum\n01:10 Leona\n01:15 Nami\n01:19 Nautilus(top error)\n01:23 Soraka \n01:27 Karma\n01:32 Tahm Kench\n\nMid\n\n01:37 Ahri\n01:42 Annie\n01:47 Ekko\n01:50 Aurelion Sol\n01:55 Brand\n02:00 Cassiopeia\n02:04 Fizz\n02:10 Jhin\n02:XX Karthus RENDER ERROR 18/12/0\n02:14 Kassadin RENDER ERROR 12/18/0 TLD/DG/Feast\n02:19 Katarina\n02:23 Leblanc\n02:27 Lissandra\n02:32 Lux\n02:38 Malzahar\n02:41 Orianna\n02:46 Pantheon\n02:51 Ryze\n02:55 Syndra\n03:00 Talon\n03:05 Twisted Fate\n03:10 Varus\n03:14 Vel'Koz\n03:18 Viktor\n03:23 Vladimir\n03:28 Zed\n03:32 Zilean\n\nJungle\n\n03:37 Amumu\n03:42 Elise\n03:47 Evelynn\n03:50 0/18/12 render bug\n03:55 Ivern\n04:01 Jarvan 4\n04:05 Kha'Zix\n04:10 Kindred\n04:14 LeeSin \n04:18 Nautilus shared top\n04:23 Nidalee\n04:27 Nunu TWO pages\n04:36 Pantheon\n04:40 Rammus\n04:45 Rek'Sai\n04:50 Sejuani\n04:55 Shaco\n05:00 Skarner\n05:04 Vi\n05:09 Zac\n\nTop:\n\n05:13 Ekko\n05:18 Gangplank\n05:23 Darius AD\n05:27 Mundo\n05:32 Fiora\n05:36 Fizz\n05:42 Jax\n05:46 Jayce\n05:50 Kennen\n05:55 Lissandra\n06:00 Malphite\n06:05 Maokai\n06:09 Mordekaiser TWO pages\n06:17 Nasus\n06:22 Nautilus\n06:27 Pantheon\n06:31 Poppy\n06:36 Renekton\n06:40 Riven\n06:45 Rumble\n06:50 Ryze\n06:55 Swain\n07:00 Tahm Kench\n07:05 Akali\n07:10 Karma Tank\n07:12 Colo renekton\n07:17 Colo darius\n07:22 Colo Irelia\n07:26 God\n07:30 Trundle\n07:35 Tryndamere\n\nPlease note that not all champions were done, as this took a while answering questions on stream and then I decided to turn it into a video. If you have some questions on specific champions then feel free to comment below and I can probably post an imgur screenshot of their masteries or something. SOME MASTERIES SEEN HERE do somewhat reflect personal view/emphasis on lane+game advantage/edges. Thanks for watching\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "u1koHz0Et4A",
+        "preview": "https://i.ytimg.com/vi/u1koHz0Et4A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-07-25T21:28:14Z",
+        "title": "Patch 6.15 rundown",
+        "description": "Timestamps :\n\n00:00 Introduction\n00:18 Braum\n01:27 Corki\n02:22 Hecarim\n03:02 illaoi\n03:10 Jarvan IV\n04:05 Karma\n04:54 Kassadin\n06:39 Malzahar\n07:25 Nidalee\n09:05 Renekton\n10:08 Shen\n10:42 Shyvana\n11:18 Sona\n12:10 Taliyah\n12:37 Vayne\n13:00 Viktor\n13:27 Vladimir\n14:01 Zac\n14:10 Zyra\n14:43 Ardent Censer\n14:51 Mikael's Crucible\n15:03 Outer Turrets\n18:15 Siege Minions\n\nFollow me at the links below:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "TELVm84RP20",
+        "preview": "https://i.ytimg.com/vi/TELVm84RP20/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-07-04T19:47:07Z",
+        "title": "Karma Support Guide with Cloud9 Hai - Season 6 | League of Legends",
+        "description": "Subscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\nLike Us on Facebook: https://facebook.com/LolClasscom\n\nCheckout more Videos on: http://www.lolclass.com\n\nTwitter: https://twitter.com/LolClassCom\nGoogle+: https://google.com/+LolClass",
+        "videoId": "FbrMRRG911Y",
+        "preview": "https://i.ytimg.com/vi/FbrMRRG911Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-06-10T21:12:58Z",
+        "title": "10 Cancelled Skins That Didn't Make it Into League of Legends",
+        "description": "Today we're showing off 10 Cancelled Skins That Didn't Make it Into League of Legends, we hope you enjoy!\n➥ Come to Gexcon! https://www.esportshq.com/gexcon/\n● Subscribe: http://bit.ly/1O7TtJh ►Overwatch Channel: http://bit.ly/1NvJ7qi\n\n►Image Sources:\n\nShiNaa's Crimson Elite Kat\nhttp://shinaa.deviantart.com/art/Crimson-Elite-skins-407021005\nhttp://shinaa.deviantart.com/art/Patreon-reward-Crimson-elite-unit-2-527036578\n\nCyber Katarina Particles by LoLeaks\nhttps://www.youtube.com/watch?v=lG8tWqiPS4Q\n\nking of clubs morde:\nhttp://www.modskinlol.vn/skin-king-of-clubs-mordekaiser\n\nking knight:\nhttp://shovelknight.wikia.com/wiki/King_Knight\n\ncelestine soraka:\nhttps://i.ytimg.com/vi/HbEphNTUk5E/maxresdefault.jpg\n\nnightmare tryn:\nhttp://lolfreegiveaway.altervista.org/get-free-nightmare-tryndamere/\n\nkarma render:\nhttp://leagueoflegends.wikia.com/wiki/Karma/Background\n\nproject zed:\nhttp://imgur.com/QVdgoUs\n\nproxy zed:\nhttp://forums.euw.leagueoflegends.com/board/showthread.php?t=1336094\nhttp://imgur.com/6tTVhmd\nhttps://www.reddit.com/r/leagueoflegends/comments/1n68rd/possibly_new_zed_skins/\n\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\n►Outro Song: https://youtu.be/b36r3JWGxcI\n\nChiptune Background Music Tracks by Jredd: https://soundcloud.com/jredd\n\nAdditional Production (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\n\n\n✔ Video Credits:\n● Produced By: Jeremy \"Gaming Curios\"\n● Written By: Jeremy \"Gaming Curios\" and Edge\n● Performed By: Jeremy \"Gaming Curios\"\n● Edited By: Leon \"Xl3y\" - League of Editing",
+        "videoId": "i6XT6mspeh8",
+        "preview": "https://i.ytimg.com/vi/i6XT6mspeh8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-05-20T15:00:02Z",
+        "title": "Karma Mid Utility Guide by PowerOfEvil - Season 6 | League of Legends",
+        "description": "Karma is one of the most flexible mages in League, with her high output damage and life-saving shields. PowerOfEvil breaks down the keys to success as AP Karma Mid.\n\nSubscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\nLike Us on Facebook: https://facebook.com/LolClasscom\n\nCheckout more Videos on: http://www.lolclass.com\n\nTwitter: https://twitter.com/LolClassCom\nGoogle+: https://google.com/+LolClass",
+        "videoId": "NMGUzlHxURU",
+        "preview": "https://i.ytimg.com/vi/NMGUzlHxURU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-04-16T17:00:00Z",
+        "title": "TANK FIZZ IS SO BUSTED! - League of Legends",
+        "description": "Tank Fizz Is So Broken, This Meta Makes Me Sad... 'Like' if you enjoyed & want MORE 💙\n→Is Karma OP RIght Now? http://bit.ly/1Taqp97\n→Subscribe For More!: http://full.sc/1gukNqq\n\nFollow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n→Facebook: https://www.facebook.com/RedmercyLoL\n→My Instagram: http://instagram.com/redmercylol\n→My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n→Snapchat: Redmercy1337\n\nRUNES/MASTERIES:\nhttps://gyazo.com/b75f5fd3e081a2825d492b2a2789ddc7\n\nRedmercy Merchandising Now Available!\n→Redmercy Store: http://tinyurl.com/qb3zjdc\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "NuADbUR-suc",
+        "preview": "https://i.ytimg.com/vi/NuADbUR-suc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-04-15T18:44:00Z",
+        "title": "HOW STRONG IS KARMA RIGHT NOW? - League of Legends",
+        "description": "AP Karma Mid Guide, Build, Is She The New OP? League of Legends. 'Like' if you enjoyed 💙\n→Hexakill 6v6 New Mode: http://bit.ly/1ScWgpI\n→Subscribe For More!: http://full.sc/1gukNqq   \n\nFollow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n→Facebook: https://www.facebook.com/RedmercyLoL\n→My Instagram: http://instagram.com/redmercylol\n→My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nRedmercy Merchandising Now Available!\n→Redmercy Store: http://tinyurl.com/qb3zjdc\n\nSong Used From Monstercat:\nhttps://www.youtube.com/watch?v=riezARcGZtk\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "5woLAqHHUwM",
+        "preview": "https://i.ytimg.com/vi/5woLAqHHUwM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "synotik",
+        "displayName": "Synotik",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx0CSwmaKYz6t-OggX_gDTI1TCpKYjxrqn-U-FoQQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-04-15T13:03:17Z",
+        "title": "Best of xFace - BEST ZED PLAYS | League of Legends Montage",
+        "description": "Best of xFace - BEST ZED PLAYS | League of Legends Montage\n►Help me reach to 50.000 subscribers: http://bit.ly/1NcoznP ❤ \n\n\n\n➥ Credits:\n\n► xFace\n- Youtube: https://www.youtube.com/user/xFaceGamer\n- Twitter: https://twitter.com/xFaceLoL\n- Twitch: https://www.twitch.tv/xfacegamer\n\n\nFan art by: http://orekigenya.deviantart.com/\n\n➥ Song:\n\nDash Berlin - Heroes of the Storm\n\nTristam x Karma Fields - Build The Cities (Empire Of Sound) [feat. Kerli] \n---------------------------------------------------------------------------------------------------\n✖ Welcome To My Channel:\n➥This is my channel of league of legends, i make video about: Top       5 Best Plays, Montages, Highlight, Best Mechanics Plays, Montage of pros etc.\n---------------------------------------------------------------------------------------------------\n----------------------------------------­­---------------------------------------­--------------------\nRecommended Videos:\n\n► 10 FUNNY Competitive FAILS → https://youtu.be/uc6c4XXtsWk\n► Snipe Montage → https://youtu.be/YH3PoAYhH2o\n► Prediction Montage → https://youtu.be/svDmqrfhGU4\n► Best Escapes Compilation → https://youtu.be/LsvuIP4Hggg\n► SKT T1 Faker Montage → https://youtu.be/R9Z_DsK4ncI\n----------------------------------------­­---------------------------------------­-----------------\n➥Facebook: https://www.facebook.com/iSynotik\n➥Twitter: https://twitter.com/iSynotik\n➥Twitch: http://www.twitch.tv/iSynotik\n----------------------------------------­­---------------------------------------­-----------------\n\n✖ Send me your Plays, Bugs, Escapes , WTF’s, Fails, pentakills, wins, epics plays or Glitches to: Contact@Synotik.com\n\n✖ If I forgot your credit only just leave a comment! Or send me a email! [Contact@Synotik.Com]",
+        "videoId": "SgfCqOl8NlU",
+        "preview": "https://i.ytimg.com/vi/SgfCqOl8NlU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-12-06T20:40:15Z",
+        "title": "League of Legends Historical Timeline 2006-2016",
+        "description": "● Some of the dates may be off by a day or two, but the general timeline of things is definitely accurate!\n● Shoutout to Silentc0re for the inspiration behind this video: https://www.youtube.com/user/silentc0re\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n►Outro Song:\nSuper Galaxy Rumble Login Music:\nhttps://www.youtube.com/watch?v=y_khi...\n\n►Background music from League of Legends:\nNormal Draft Champion Select\nDominion Draft Champion Select\nDominion Blind Pick Champion Select\nOriginal Login Music:\nhttps://www.youtube.com/watch?v=AllLu...\nDominion Login Music:\nhttps://www.youtube.com/watch?v=mNFCi...\n\n►Thumbnail Source:\nhttp://riot.com/1NDrS6O\n\n►Video Clip Sources:\n\nWelcome to League of Legends (Intro):\nhttps://www.youtube.com/watch?v=IzMnC...\n\nBrandon Beck and Marc Merril: \nhttp://www.ongamers.com/articles/riot...\n\nDefense of the Ancients:\nhttps://www.youtube.com/watch?v=twvEQ...\n\nLeague of Legends Clash of Fates Trailer:\nhttps://www.youtube.com/watch?v=RprbA...\n\nSinged Champion Spotlight:\nhttps://www.youtube.com/watch?v=ZOpT_...\n\nSummoner's Rift Winter Map:\nhttps://www.youtube.com/watch?v=qYEuP...\n\nLeague of Legends Walkthrough Trailer:\nhttps://www.youtube.com/watch?v=RYc8C...\n\nTwisted Treeline Trailer:\nhttps://www.youtube.com/watch?v=sG_Vc...\n\nVladimir Champion Spotlight:\nhttps://www.youtube.com/watch?v=eiUgr...\n\nKayle Champion Spotlight:\nhttps://www.youtube.com/watch?v=kn-Y6...\n\nSummoner's Rift ARAM:\nhttps://www.youtube.com/watch?v=YrKOX...\n\nJournal of Justice:\nhttps://littlebirdgamereviews.wordpre...\n\nHarrowing Summoner's Rift Map:\nhttps://www.youtube.com/watch?v=CWwDK...\n\nCo-Op vs AI:\nhttps://www.youtube.com/watch?v=Kxs3V...\n\nThe Tribunal:\nhttps://www.youtube.com/watch?v=Pnkal...\n\nSeason One World Championship:\nhttps://www.youtube.com/watch?v=KwrPH...\n\nDominion:\nhttps://www.youtube.com/watch?v=cuINb...\n\n11.5M Players:\nhttps://www.youtube.com/watch?v=ZRSiE...\n\nSeason 2 Begins:\nhttps://www.youtube.com/watch?v=JAFJH...\n\nColorblind Mode:\nhttps://www.youtube.com/watch?v=BHXsh...\n\nRemoval of Dodge:\nhttps://www.youtube.com/watch?v=SWZdJ...\n\nSpectator Mode pt 1:\nhttps://www.youtube.com/watch?v=oqT14...\n\nSpectator Mode pt 2:\nhttps://www.youtube.com/watch?v=IAtXB...\n\nFirst graphical update:\nhttps://www.youtube.com/watch?v=1sVap...\n\nPulsefire Ezreal:\nhttps://www.youtube.com/watch?v=7ebQT...\n\nJayce Champion Spotlight:\nhttps://www.youtube.com/watch?v=p2Yuy...\n\nKha'Zix Champion Spotlight:\nhttps://www.youtube.com/watch?v=jKLK9...\n\nTwisted Treeline Update:\nhttps://www.youtube.com/watch?v=3oLAZ...\n\nPreseason to Season 3:\nhttps://www.youtube.com/watch?v=drNRC...\n\nSeason 3 Begins:\nhttps://www.youtube.com/watch?v=EevdE...\n\nWelcome to the LCS:\nhttps://www.youtube.com/watch?v=4Vy2z...\n\nReplay announcement:\nhttps://www.youtube.com/watch?v=2G0e-...\n\nLeague of Legends for Mac:\nhttps://www.youtube.com/watch?v=qbPuz...\n\nKarma Champion Spotlight:\nhttps://www.youtube.com/watch?v=lWIj3...\n\nHowling Abyss Patch Preview:\nhttps://www.youtube.com/watch?v=9nVa8...\n\nTeamwork OP:\nhttps://www.youtube.com/watch?v=ugXC7...\n\nRoad to the Cup:\nhttps://www.youtube.com/watch?v=PX_IQ...\n\nOne for all:\nhttps://www.youtube.com/watch?v=OQPye...\n\nPreseason to Season 4:\nhttps://www.youtube.com/watch?v=-C8e7...\n\nA Twist of Fate Cinematic:\nhttps://www.youtube.com/watch?v=tEnsq...\n\nYasuo Champion Spotlight:\nhttps://www.youtube.com/watch?v=fkM20...\n\nLoL Challenger Series:\nhttps://www.youtube.com/watch?v=am2GF...\n\nTeam Builder:\nhttps://www.youtube.com/watch?v=AkNYb...\n\nUltra Rapid Fire Game Mode:\nhttps://www.youtube.com/watch?v=misAy...\n\nRandom Clip chosen for master tier:\nhttps://www.youtube.com/watch?v=S6e0B...\n\nSeason 4 World Championship:\nhttps://www.youtube.com/watch?v=fmI_N...\n\nSummoner's Rift Preview:\nhttps://www.youtube.com/watch?v=FiSNH...\n\nPreseason to Season 5:\nhttps://www.youtube.com/watch?v=aKL6F...\n\nNew HUD:\nhttp://na.leagueoflegends.com/en/page...\n\nSeason 5 Worlds:\nhttps://www.youtube.com/watch?v=RjWvr...\n\nPreseason to Season 6:\nhttp://na.leagueoflegends.com/en/site...\n\nNew Client:\nhttp://na.leagueoflegends.com/en/site...\n\nNew Champion Select:\nhttps://www.youtube.com/watch?v=Qe4hM...\n\nDynamic Groups:\nhttp://na.leagueoflegends.com/en/site...\n\nHextech Crafting:\nhttp://na.leagueoflegends.com/en/site...",
+        "videoId": "z65iIwYdrCw",
+        "preview": "https://i.ytimg.com/vi/z65iIwYdrCw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zach",
+        "displayName": "Лига Легенд и TFT от Зака: Гайды, Стримы, Обзоры",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxB3wok5mrNroeSn6P20K3FAJ_7nPVkbWdzYM_SEA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-11-28T18:22:12Z",
+        "title": "[Patch 5.23] Гайд по джангл Раммусу от Зака",
+        "description": "Группа вконтакте: vk.com/zakland\n\nПоддержать проект можно через Qiwi, webmoney и yandex:\nqiwi - +79834424516\nwebmoney - R239173096410\nyandex - 41001737292271\n\nМузыка:\nChamillionaire - Ridin\nDelain - Control The Storm\nKamelot - Karma\n\nТайминги:\n1:41 - таланты\n4:02 - предметы\n6:13 - скилы\n6:36 - руны",
+        "videoId": "9kQGovAHD9g",
+        "preview": "https://i.ytimg.com/vi/9kQGovAHD9g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-11-22T14:00:00Z",
+        "title": "Top 10 Most Underpowered Champions in League of Legends History",
+        "description": "►Top 10 Most Overpowered Champions: https://youtu.be/r-D0tMQjiFY\n►►10 Items You Probably Never Knew Existed in League of Legends: https://youtu.be/YubY3jgyu5U\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\nProduction (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nAdditional background music tracks acquired from Sony Vegas Pro 12 and come with the purchase of the program.\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Zilean/SkinsTrivia\n\nVideo Clip Sources:\n\nBard 0:13 - http://www.youtube.com/watch?v=ZFqHYEuDLZ8\n\nKassadin 0:19 - http://www.youtube.com/watch?v=2RrAcKiYPig\n\nOlaf 0:26 - http://www.youtube.com/watch?v=tDm-GtPeCdY\n\nVeigar 0:32 - http://www.youtube.com/watch?v=IYkbLktoaYA\n\nRengar 1:08 - http://www.youtube.com/watch?v=6CrSMVuaLXI\n\nRengar 1:23 - http://www.youtube.com/watch?v=4fg5sw1LJj4\n\nUrgot 1:57 - http://www.youtube.com/watch?v=uFDYWeste28\n\nUrgot 2:11 - http://www.youtube.com/watch?v=cQfW2kTa8Vs\n\nLucian 2:43 - http://www.youtube.com/watch?v=E0NY1yLx0nc\n\nLucian 2:57 - http://www.youtube.com/watch?v=mCAo861xhGo\n\nTwitch 3:19 - http://www.youtube.com/watch?v=tJ9O0oCS9ek\n\nTwitch 3:54 - http://www.youtube.com/watch?v=74ZDsujwom8\n\nZilean 4:10 - http://www.youtube.com/watch?v=CyIRVHbWnYI\n\nKarma 4:58 - http://www.youtube.com/watch?v=3zMm4oCsagM\n\nYorick 5:40 - http://www.youtube.com/watch?v=0_mP8aWySU4\n\nYorick 5:58 - http://www.youtube.com/watch?v=rcPBjUQ-0ls\n\nEvelynn 6:27 - http://www.youtube.com/watch?v=GRYE0ktRNFc\n\nSyndra 7:15 - http://www.youtube.com/watch?v=hx5snMIf_-w\n\nSyndra 7:46 - http://www.youtube.com/watch?v=tHYcljzRzSI",
+        "videoId": "5_topigLEqY",
+        "preview": "https://i.ytimg.com/vi/5_topigLEqY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-11-03T23:37:56Z",
+        "title": "Karma vs Thresh Support Master Tier Patch 5.21",
+        "description": "Follow me at:\r\nwww.twitch.tv/hanjarolol\r\nwww.twitter.com/hanjarolol -- Watch live at http://www.twitch.tv/hanjarolol",
+        "videoId": "_rXWqiA6DXQ",
+        "preview": "https://i.ytimg.com/vi/_rXWqiA6DXQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-09-26T00:46:37Z",
+        "title": "Warden Karma Skin Spotlight - League of Legends",
+        "description": "League of Legends Warden Karma Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on their Warden Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "11W6TfjbWWk",
+        "preview": "https://i.ytimg.com/vi/11W6TfjbWWk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-09-15T22:16:49Z",
+        "title": "Warden Karma Skin Spotlight - Pre-Release - League of Legends",
+        "description": "Note: Yes its bugged right now, welcome to what sometimes can happen with PRE-RELEASE content.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nThis is a teaser spotlight of Warden Karma with ingame gameplay! \n\nPrice: 750RP\nSkin name is CONFIRMED as Warden Karma, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "3NJiPvBlVQs",
+        "preview": "https://i.ytimg.com/vi/3NJiPvBlVQs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-09-10T13:00:01Z",
+        "title": "Top 10 Lowest Win Rates in League of Legends History",
+        "description": "►Top 10 Highest Win Rates: https://youtu.be/1HsPdChstHI\n►►Top 5 Buffs That Were Meant to be Nerfs: https://youtu.be/PQdaQXup6A4\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\nOUTRO SONG: https://www.youtube.com/watch?v=QgnTdj23DIk\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Karma/SkinsTrivia\n\nVideo Clip Sources:\n\n10.\nhttps://www.youtube.com/watch?v=c6OkeeOSkaM\n\n9.\nhttps://www.youtube.com/watch?v=fG5iqLRoGgo\n\n8.\nhttps://www.youtube.com/watch?v=SNFRZlHy5-I\n\n7.\nhttps://www.youtube.com/watch?v=jAKvSWuJPhE\n\n6.\nhttps://www.youtube.com/watch?v=8y60rpDddWM\n\n5.\nhttps://www.youtube.com/watch?v=3CP1PF67UVc\n\n4.\nhttps://www.youtube.com/watch?v=GRYE0ktRNFc\n\n3.\nhttps://www.youtube.com/watch?v=FHF0vmmLAM8\n\n2.\nhttps://www.youtube.com/watch?v=LWmL5536ZDc\n\n1.\nhttps://www.youtube.com/watch?v=Xwxlsngb-so\nhttps://www.youtube.com/watch?v=KkDa5IF1wns",
+        "videoId": "uPenzNoq97E",
+        "preview": "https://i.ytimg.com/vi/uPenzNoq97E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-06-11T13:00:01Z",
+        "title": "Top 10 Best Champion Reworks in League of Legends History",
+        "description": "►Top 10 Best Changes in League of Legends History: https://youtu.be/h7H5fjq12t0\n►►Top 10 Most Overdue Changes to League of Legends: https://youtu.be/bOhrGs4Pngc\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://artgerm.deviantart.com/art/League-of-Legends-Katarina-437999748\n\nVIDEO CLIP SOURCES:\n\nAshe Source: https://www.youtube.com/watch?v=xRLlZSiOqIA\n\nSivir Source: https://www.youtube.com/watch?v=l7C3iS4luro\n\nHeimerdinger Source: https://www.youtube.com/watch?v=jBqxhXboTNE\n\nRyze Source: https://www.youtube.com/watch?v=US6eZfskSBU\n\nViktor Source: https://www.youtube.com/watch?v=1wjYy98ePXQ\n\nXerath Source: https://www.youtube.com/watch?v=ee0gVZYhjis\n\nKarma Source: https://www.youtube.com/watch?v=bMgB4ve8tBo\n\nKatarina Source: https://www.youtube.com/watch?v=YSBdkyRr1bk\n\nSion Source: https://www.youtube.com/watch?v=wFDLUIfrY1w\n\nEvelynn Source Part 1: https://www.youtube.com/watch?v=oRYu74necv4\n\nEvelynn Source Part 2: https://www.youtube.com/watch?v=a9bxkmNpHsI",
+        "videoId": "ftcAgzwm_x8",
+        "preview": "https://i.ytimg.com/vi/ftcAgzwm_x8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-05-27T21:54:07Z",
+        "title": "Patch 5.10 Rundown and Analysis of All Major Changes | League of Legends LoL",
+        "description": "What do YOU think about Patch 5.10?\n\n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nFollow Me on Twitter: @GamingCurios\n\nSend any questions to me via YouTube PM!\n\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://vegacolors.deviantart.com/art/Karma-366924107",
+        "videoId": "kklwQ7ukhTo",
+        "preview": "https://i.ytimg.com/vi/kklwQ7ukhTo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-03-23T10:38:04Z",
+        "title": "Luden's Echo - Why Luden clearly didn't last long in the Fields of Justice.",
+        "description": "Luden must've been a really bad mage, because if this is his echo it's no wonder he must be dead.\n\nTL:DW? - Most champions can't neglect the items which they must already prioritize without really hindering themselves or their team. The AP ratio of most champions don't benefit solely from the 120ap enough to make the slight movespeed/passive worth it for them over items which give them more raw utility or damage. If you actually want to understand more than just beyond this, watch the video.\n\n*Luden's can be built on champions who use Lich Bane as a 6th item if you sell your boots.\n\nThe following champions are the only ones I currently think Luden's may be good on:\nCassiopeia (Roa/Rylai form)\nLulu\nKatarina\nKarma\nAkali\nRyze (6th item)\nAhri\n\nLooking for your champion?\n2:52 - Lulu\n4:11 - Lux\n5:37 - Morgana\n6:11 - Nidalee\n7:30 - Orianna\n8:24 - Ryze\n9:22 - Annie\n10:29 - Syndra\n11:08 - God\n11:47 - Twisted Fate\n12:13 - Veigar\n12:19 - Vel'Koz\n12:55 - Xerath\n13:08 - Ziggs\n13:25 - Zyra\n13:37 - Ahri\n14:27 - Akali\n15:08 - Cassiopeia\n15:34 - Diana\n16:32 - Elise\n16:42 - Fizz\n17:01 - Karma\n17:33 - Karthus\n17:45 - Kassadin\n18:00 - Katarina\n18:37 - Kayle\n19:03 - Kennen\n19:13 - Kog'Maw\n19:28 - LeBlanc\n19:51 - Lissandra\n\nChampions accidentally not mentioned: \nRumble - (can't neglect the zhonya/liandry/void rush)\nViktor - (needs too many items, very expensive ramp up and timings)\nVladimir - (his E at 4 stacks already is far superior of wave clear than he'll ever need. Outside of this he needs his other few items MAYBE it could be a 6th item depending on team comps)\nAnivia - Spells not reliable enough, poor AP ratios.\nMordekaiser - Way too reliant on his other items\n\nI'm the the head coach of NA LCS Team Gravity.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nTwitch: http://twitch.tv/imls",
+        "videoId": "l9Mk1D9hYMU",
+        "preview": "https://i.ytimg.com/vi/l9Mk1D9hYMU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-23T00:22:14Z",
+        "title": "Order of the Lotus Karma League of Legends Skin Spotlight",
+        "description": "League of Legends Order of the Lotus Karma Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on their Order of the Lotus Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nPlease feel free to subscribe for more Skin Spotlights and to leave a like!",
+        "videoId": "Bfgi6wkkYOQ",
+        "preview": "https://i.ytimg.com/vi/Bfgi6wkkYOQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-09T21:03:52Z",
+        "title": "Pre-Release Teaser - Order of the Lotus Karma Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin Price: 975RP\nSkin name is CONFIRMED as Order of the Lotus Karma, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/ \n\nPlease feel free to subscribe for more Skin Spotlights!",
+        "videoId": "ZRCFuKD0-yo",
+        "preview": "https://i.ytimg.com/vi/ZRCFuKD0-yo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-08-17T23:09:03Z",
+        "title": "[Tierlist] Patch 4.14",
+        "description": "http://twitter.com/im_ls + http://facebook.com/nick.decesare.7\n\nI'm the former Coach of EU LCS Team MYM. I'm a former Samsung Ozone/Blue house member, and Diamond 1 Korea server. In this video I give a rundown on my opinion for a tierlist for Patch 4.14 (gnar) in League of Legends \n\nFollow me:\nhttp://twitter.com/im_ls\nhttp://twitch.tv/imls\nhttp://facebook.com/nick.decesare.7\nhttps://www.facebook.com/pages/ls/267710736646000\n\n\nTIERLIST TEXT: \nPATCH 4.14 TIER LIST(August 18th, 2014):\n\n\nMID\nTier 1: Orianna, Syndra, Twisted Fate, Ahri, Ryze, Yasuo, Kassadin\nTier 2: Lulu, Fizz, Xerath, Karthus, Ziggs, Jayce, Zed\nTier 2.5: Talon, Kayle, Lucian\nTier 3: Anivia, Riven, Ezreal, Akali, Leblanc, Annie, Teemo, Morgana\nTier 3.5: AP Kog’Maw, Karma\nTier 4: Katarina, Heimerdinger, Cassiopeia, AP Tristana, Sion, Mordekaiser, Brand\nTier 5: All other non-named kids\nTier 6: Viktor\n\nTOP\nTier 0: Maokai\nTier 1: Gragas, Ryze, Alistar, Shyvanna\nTier 2: Nidalee, Renekton, Shen, Irelia, Lulu, Gnar (?), Jayce\nTier 2.5: Zac, Mundo, Teemo, Lee Sin\nTier 3: Yasuo, Jax, Kayle, Rengar, Lissandra, Swain, Rumble, Akali, Riven, Zed, Tryndamere, Hecarim\nTier 4: Darius, Gangplank, Poppy, Kha’Zix, Elise, Vladimir, Quinn, Aatrox, Trundle, Heimerdinger, Yorick, Nasus, Singed, Olaf, Kennen, Fiora\nTier 5: Rammus, Nunu, Sion, Garen, Xin Zhao, WuKong\nTier 6: All other non-named tops\n\nJUNGLE\nTier 1: Rengar, Lee Sin, Elise\nTier 1.5: Evelynn, Jarvan 4\nTier 2: Vi, Kha’Zix, Maokai\nTier 2.5: Nocturne\nTier 3: Pantheon, Zed, Fiddlesticks, Kayle, Amumu\nTier 3.5: Riven, Warwick, Yi, Shaco\nTier 4: Wukong, Jax*, Gragas, Zac, Xin Zhao\nTier 5: All other non-named jungles\n\nADC/MARKSMAN\nTier 1: Tristana, Corki, Kog’Maw\nTier 2: Twitch, Lucian\nTier 3: Caitlyn, Vayne, Jinx, Ezreal, Blue-Ezreal, Draven\nTier 4: Sivir, Varus, Miss Fortune\nTier 5: Ashe, Graves\nTier 6: Quinn, Urgot\nTier 7: All other non-named ADC’s\n\nSUPPORT\nTier 1: Morgana, Nami, Thresh, Braum\nTier 2: Alistar, Leona\nTier 3: Lulu, Sona, Zilean\nTier 4: Annie, Karma, Soraka, Blitzcrank, Lissandra, Nunu, Zyra\nTier 5: All other non-named/abstract supports",
+        "videoId": "JXFsx1i_D50",
+        "preview": "https://i.ytimg.com/vi/JXFsx1i_D50/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-07-09T22:00:02Z",
+        "title": "Solo Queue Support Tier List Patch 4.11 | League of Legends LoL",
+        "description": "Tier 3: Kayle, Soraka, Nunu, Lux, Alistar, Taric\nTier 2: Fiddlesticks, Blitzcrank, Gragas, Janna, Lulu, Karma\nTier1: Sona, Annie, Zyra, Leona, Nami, Morgana, Braum, Thresh \n\n\n\n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://www.baconcape.com/gaming-wallpapers/attachment/league-of-legends-support-wallpaper/",
+        "videoId": "WQ5m-lqchk4",
+        "preview": "https://i.ytimg.com/vi/WQ5m-lqchk4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-06-13T14:51:23Z",
+        "title": "3.8 Patch Analysis - Bot and Mid Changes",
+        "description": "I'm sorry it's so long but i've included time stamps below so you can skip to areas you are interested in. Also there was an issue editing the file so the quality isn't that great but will be fixed for future videos.\n\nBig changes this patch are Ashe, Kha'Zix, Sona.\n\nTime Stamps :\n\nAnnie : 0:29 \nAshe : 1:00 \nKarma : 2:58 \nKha'Zix : 5:24 \nLissandra : 9:12\nSona : 12:52 \nAoe slow change (varus) and items : 17:51 \n\nPlease leave any feedback you have for me.\n\nPlease subscribe to me if you enjoyed!\nLike me on Facebook : https://www.facebook.com/phylol\nFollow me on Twitch : http://www.twitch.tv/phy_lol\n\n3.8 Patch Analysis",
+        "videoId": "vOkiG0WXFS8",
+        "preview": "https://i.ytimg.com/vi/vOkiG0WXFS8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-03-28T22:31:36Z",
+        "title": "Full - Traditional Karma League of Legends Skin Spotlight",
+        "description": "League of Legends Traditional Karma Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on her Traditional Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "vyuR9JkcHyE",
+        "preview": "https://i.ytimg.com/vi/vyuR9JkcHyE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-03-28T22:26:37Z",
+        "title": "Full - Sakura Karma League of Legends Skin Spotlight",
+        "description": "League of Legends Sakura Karma Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on her Sakura Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "jL-n8PwXl48",
+        "preview": "https://i.ytimg.com/vi/jL-n8PwXl48/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-03-28T22:23:18Z",
+        "title": "Full - Sun Goddess Karma League of Legends Skin Spotlight",
+        "description": "League of Legends Sun Goddess Karma Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on her Sun Goddess Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "Al-y-ZjKLa8",
+        "preview": "https://i.ytimg.com/vi/Al-y-ZjKLa8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-03-20T02:50:41Z",
+        "title": "Pre-Release Teaser - Sun Goddess Karma (2013 Rework) Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is confirmed as Sun Goddess Karma, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "hj9e7Xzqqpw",
+        "preview": "https://i.ytimg.com/vi/hj9e7Xzqqpw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-03-20T02:29:37Z",
+        "title": "Pre-Release Teaser - Sakura Karma (2013 Rework) Skin - League of Legends",
+        "description": "Note: The skin has been fixed all info here: http://www.surrenderat20.net/2013/03/wip-0320-pbe-update.html\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nThe video will be updated when the Karma rework hits live and Full spotlights are made. \n\nThis is a teaser! \nSkin name is confirmed as Sakura Karma, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "FMdunTRx4QA",
+        "preview": "https://i.ytimg.com/vi/FMdunTRx4QA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-03-20T02:18:53Z",
+        "title": "Pre-Release Teaser - Traditional Karma (2013 Rework) Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is confirmed as Traditional Karma, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "dIqvAfsx-MU",
+        "preview": "https://i.ytimg.com/vi/dIqvAfsx-MU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-03-20T01:33:17Z",
+        "title": "Classic Karma (2013 Rework) - Ability Preview - League of Legends",
+        "description": "These may not be the final particles (Q Ability Particle is incomplete) for her classic skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nKarma, the Enlightened One 2013 Rework Ability Preview\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "L2FTAG4jkQc",
+        "preview": "https://i.ytimg.com/vi/L2FTAG4jkQc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-02-26T12:37:17Z",
+        "title": "(OLD) Sun Goddess Karma League of Legends Skin Spotlight",
+        "description": "League of Legends Sun Goddess Karma Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on her Sun Goddess Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "2PwXGHXRt88",
+        "preview": "https://i.ytimg.com/vi/2PwXGHXRt88/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-02-26T02:40:35Z",
+        "title": "(OLD) Sakura Karma League of Legends Skin Spotlight",
+        "description": "League of Legends Sakura Karma Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Karma on her Sakura Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "6yrtZMZiZV0",
+        "preview": "https://i.ytimg.com/vi/6yrtZMZiZV0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-11-08T23:57:03Z",
+        "title": "Wriggles Skarner Jungle + Karma Mid",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "s5n87_9St6U",
+        "preview": "https://i.ytimg.com/vi/s5n87_9St6U/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2011-11-20T20:57:43Z",
+        "title": "HACKED BY POODLECORP twitter.com/poodlecorp",
+        "description": "DONT FORGET TO WATCH IN HD AND SUBSCRIBE! Don't forget to comment, rate, and be subscribed to get a chance to get added on my friends list! Also do not forget to like me on FACEBOOK as that is where I also will announce when I am playing with subs!\n\nTier List that I make for LoL. These are meant to be only for fun and not taken 100% seriously. These are also solely my opinions!\n\n1) Akali, amumu, annie, brand, cait, trist, cass, cho'gath, karthus, Kassadin, Lee, Morg, nasus, noc, rammus, ryze, shyvana, skarner, talon, trynd, udyr, vayne, xerath, zilean\n2) Alistar, Anivia, Corki, Ezreal, Fiddle, Fizz, GP, Gragas, Graves, Irelia, Janna,  katarina, Kennen, Malphite, Malz, MF,  Olaf, Riven, Rumble, Shaco, Soraka, Teemo, Trundle, TF, veigar, Wukong, \n3) Ashe, Blitz, Garen, Heimer, J4, Kog, LeBlanc, Nid, Orianna, Panth, Shen, Nunu, Singed, Sion, Sivir, Sona, Swain, Taric, Urgot, Warwick, Jax, Vlad, Yorick\n4) Galio, Kayle, Leona, Lux, Moakai, Poppy, Twitch,  xin\n5) Mundo, Eve, Karma, Yi, Morde\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nSkype:\nredmercy1337\n\nMy Stream:\nhttp://www.justin.tv/red_mercy\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=N3FA-j7Dh6Q&feature=channel_video_title\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "NAqAlajZqGE",
+        "preview": "https://i.ytimg.com/vi/NAqAlajZqGE/mqdefault.jpg"
+      }
+    }
+  ]
+}

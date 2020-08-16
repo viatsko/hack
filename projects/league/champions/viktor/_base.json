@@ -1,0 +1,1693 @@
+{
+  "id": "viktor",
+  "key": "112",
+  "name": "Viktor",
+  "title": "the Machine Herald",
+  "tags": [
+    "Mage"
+  ],
+  "stats": {
+    "hp": 530,
+    "hpperlevel": 90,
+    "mp": 405,
+    "mpperlevel": 25,
+    "movespeed": 335,
+    "armor": 23,
+    "armorperlevel": 4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 8,
+    "hpregenperlevel": 0.65,
+    "mpregen": 8,
+    "mpregenperlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.11,
+    "attackspeed": 0.658
+  },
+  "icon": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/champion/Viktor.png",
+  "sprite": {
+    "url": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/sprite/champion4.png",
+    "x": 96,
+    "y": 48
+  },
+  "description": "The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology...",
+  "redditUrl": "Viktormains",
+  "videos": [
+    {
+      "profile": {
+        "slug": "coach_curtis",
+        "displayName": "Coach Curtis",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ1Gi5TVL30rvgLwqgjtl2oRfPRdddhxr-_JQw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-10T14:30:09Z",
+        "title": "Solo Queue Concepts Ep.2 : Importance of Skirmishing - Improving Team Fighting",
+        "description": "Solo Queue Concepts Episode 2 // Sorry for the lack of content recently, just finished moving into my new place so I’ve been really busy recently, now I can really begin to start pumping out videos! This has been a topic I’ve wanted to cover for quite awhile since no one talks about how important it is, the small details seriously are game changing and across the course of a game have MASSIVE implications on whether or not you win and get that LP. Hopefully you guys can take something away from this one! Cheers :)\n\n00:00 - 03:04 // Introduction\n03:04 - 07:28 // What Is Efficient Usage of Abilities?\n07:28 - 17:26 // Example 1 : Fizz Poorly Played Skirmish (Lack of Champion Mastery)\n17:26 - 25:47 // Example 2 : Fizz Poorly Played Skirmish (Champ Identity Knowledge)\n25:47 - 31:29 // Example 3 :  Fizz Poorly Played Skirmish (Not Assessing Variables)\n31:29 - 37:53 // Gold Cassiopeia Example 4 : Cassio (Micro Problem/Champ Mastery)\n37:53 - 45:03 // Gold Cassiopeia Example 5 : Cassio (Micro Problem)\n45:03 - 47:51 // Example 6 : Well Played Viktor Skirmish (Champion Mastery)\n47:51 - 52:23 // Example 7 : Well Played Viktor Skirmish (Variable Assessment)\n52:23 - 56:26 // Example 8 : Decent Galio Skirmish (Variable Assessment)\n56:26 - 01:00:50 // Example 9 : Very Good Galio Skirmish (Champ Mastery)\n01:00:50 - 01:06:53 // Summary Of Key Points + Outro\n\nSupport me here: https://www.patreon.com/CoachCurtislol\n\n--------------------------------------------------------------------------------\n\nMy OPGG: https://oce.op.gg/summoner/userName=Coach%20Curtis\n\n-------------------------------------------------------\n\nInstagram: https://www.instagram.com/coachcurtiscc/\n\n-------------------------------------------------\n\nDiscord Invite Link: https://discord.gg/rUWt52p\n\n------------------------------------------------\n\nStreaming: https://twitch.tv/coachcurtis\n\n-------------------------------------------------------------\n\nSay hi on Twitter: https://twitter.com/CoachCurtislol\n\n--------------------------------------------------------\n#Skirmishing #CoachCurtis #LeagueOfLegends",
+        "videoId": "pJW5wsOhECw",
+        "preview": "https://i.ytimg.com/vi/pJW5wsOhECw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-23T12:33:40Z",
+        "title": "How to Create CHAOS Like G2 Caps! League of Legends Season 10",
+        "description": "Join SKILL CAPPED Today!\n►Get the RANK You’ve Always Wanted: https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\nConcepts: G2 Caps, Caps, G2 esports, League of Legends, mid guides, how to mid, skill-capped, skill capped, pro guides, proguides, mobalytics, how to macro. Macro guide, macro lol, lol tricks, lol tips, lol guides, lol esports, lec, perkz, bjergsen, nisqy, challenger guide, challenger, how to climb, challenger macro, bounce back with macro, dopa, apdo,. How to carry, how to teamfight, feamfight lol, teamfighting guide, split push, split push guide, how to split push, cassiopeia, ryze, fizz, viktor mid, 10.13, lol 10.13.",
+        "videoId": "vOgRC5rKGQA",
+        "preview": "https://i.ytimg.com/vi/vOgRC5rKGQA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-23T12:33:39Z",
+        "title": "How to Create CHAOS Like G2 Caps! League of Legends Season 10",
+        "description": "Join SKILL CAPPED Today!\n►Get the RANK You’ve Always Wanted: https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\nConcepts: G2 Caps, Caps, G2 esports, League of Legends, mid guides, how to mid, skill-capped, skill capped, pro guides, proguides, mobalytics, how to macro. Macro guide, macro lol, lol tricks, lol tips, lol guides, lol esports, lec, perkz, bjergsen, nisqy, challenger guide, challenger, how to climb, challenger macro, bounce back with macro, dopa, apdo,. How to carry, how to teamfight, feamfight lol, teamfighting guide, split push, split push guide, how to split push, cassiopeia, ryze, fizz, viktor mid, 10.13, lol 10.13.",
+        "videoId": "vOgRC5rKGQA",
+        "preview": "https://i.ytimg.com/vi/vOgRC5rKGQA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-16T17:00:13Z",
+        "title": "PHASE RUSH / GHOST VIKTOR IS CRAZY! - Iron to Master S10 | League of Legends",
+        "description": "Welcome back to Iron to Master! Today we've jumped on Viktor and we're checking out the new Ghost buff combined with Phase Rush! You become insanely fast with Viktor which gives him a lot of pressure! Like, Comment & Subscribe! League of Legends Viktor Mid Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nPHASE RUSH / GHOST VIKTOR IS CRAZY! - Iron to Master S10 | League of Legends",
+        "videoId": "Q6mCWCgvT0c",
+        "preview": "https://i.ytimg.com/vi/Q6mCWCgvT0c/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-09T23:00:09Z",
+        "title": "GHOST IS GONNA BE SCARY! FINALLY VIKTOR BUFFS! Patch Note Breakdown! | League of Legends",
+        "description": "Another Patch is here and it actually brings quite a lot of changes! Some Buffs / Nerfs and once again maybe some champions have avoided the nerf hammer. Like, Comment & Subscribe! League of Legends Patch Note Breakdown.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nGHOST IS GONNA BE SCARY! FINALLY VIKTOR BUFFS! Patch Note Breakdown! | League of Legends",
+        "videoId": "_ZCMQldjR3E",
+        "preview": "https://i.ytimg.com/vi/_ZCMQldjR3E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "coach_curtis",
+        "displayName": "Coach Curtis",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ1Gi5TVL30rvgLwqgjtl2oRfPRdddhxr-_JQw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-04T22:15:46Z",
+        "title": "Why You Aren’t Climbing - Mid Lane Coaching - Ep.7 Gold Viktor",
+        "description": "WHY YOU AREN’T CLIMBING EPISODE 7 // Today’s session with Alex was super unique, I’ve never seen a gold mid laner with such refined lane fundamentals. His micro was clean, his CSing was really really nice and overall just dumpstered a tough matchup. So today we focused on refining and a lot of mid game macro stuff. Super interesting session, hope you guys enjoy! Cheers\n\n00:00 - 07:30 // Intro, OPGG, Goals etc.\n07:30 - 01:18:24 // Coaching\n01:18:24 - 01:26:30 // Setting Direction and Summarizing\n\nSupport me here: https://www.patreon.com/CoachCurtislol\n\n--------------------------------------------------------------------------------\n\nInstagram: https://www.instagram.com/coachcurtiscc/\n\n-------------------------------------------------\n\nMy OPGG: https://oce.op.gg/summoner/userName=Coach%20Curtis\n\n-------------------------------------------------------\n\nDiscord Invite Link: https://discord.gg/rUWt52p\n\n------------------------------------------------\n\nStreaming: https://twitch.tv/coachcurtis\n\n-------------------------------------------------------------\n\nSay hi on Twitter: https://twitter.com/CoachCurtislol\n\n--------------------------------------------------------\n#Coaching #CoachCurtis #LeagueOfLegends",
+        "videoId": "_vGicnAxod0",
+        "preview": "https://i.ytimg.com/vi/_vGicnAxod0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-02T14:00:30Z",
+        "title": "This game was doomed... until I started the REVOLUTION as Viktor Support 😮",
+        "description": "VIKTOR SUPPORT IS THE MOST REVOLUTIONARY SUPPORT OF ALL OF SEASON 10!  USE THIS VIDEO AS A GUIDE FOR VIKTOR SUPPORT IN SEASON 10!\n\n=====================\n\nCheck out Instant-Gaming: https://www.instant-gaming.com/en/?igr=gamer-a23531\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "q6mkISC1MEk",
+        "preview": "https://i.ytimg.com/vi/q6mkISC1MEk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sneaky",
+        "displayName": "Sneaky",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy2sIoWZEf-_iN36J-h-b-yC4q7jm7NVmBEaR4j=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-19T07:00:00Z",
+        "title": "How to play 1v2 in the Bot-Lane? (Support perma-roaming & Wave Management)",
+        "description": "Sneaky talks about wave management and dealing with 1v2s in the bottom lane, whenever your support roams. It is to be noted that mages are MUCH better than the typical Marksmen in these situations, but the concept and idea is still applicable...\n\nFootage from: May 7, 2020\n\n\n▼ Editor\n\nhttps://Twitter.com/SnipingHobo\n\n\n▼ Time Stamps\n\n[0:00] Sneaky talks about ADC vs Mages\n[3:02] Game Start (Viktor)\n\n\n▼ Editor's Added Music\n\n[14:33] Mentos Theme\n\n\n\n▼ Join Sneaky's Discord\n\nhttps://discord.gg/Y9mRBQ6\n\n\n\n▼ Follow Sneaky:\n\nTwitter: https://www.Twitter.com/Sneaky\nTwitch: https://www.Twitch.tv/SneakyLoL",
+        "videoId": "5R3VQX_A9C8",
+        "preview": "https://i.ytimg.com/vi/5R3VQX_A9C8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sneaky",
+        "displayName": "Sneaky",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy2sIoWZEf-_iN36J-h-b-yC4q7jm7NVmBEaR4j=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-19T07:00:00Z",
+        "title": "ADC and CS'ing in the Late Game... 🤔 (Viktor Bot Gameplay)",
+        "description": "How do ADCs keep up their CS come the mid and late stages of the match? What are lane assignments? Snacky explains...\n\nDid you know: Viktor is currently ranked 8th for average most damage dealt to champions? The second in the category of \"Battlemage\"/Control Mage, after Karthus.\n\nFootage from: April 25, 2020\n\n\n\n▼ Editor\n\nhttps://Twitter.com/SnipingHobo\n\n\n▼ Time Stamps\n\n[0:00] Mages and Bot Lane Discussion\n[3:59] In-Game Start (Viktor Bot)\n[7:07] The Question: How to CS as ADC after laning phase\n\n\n▼ Editor's Added Music\n\n[20:28] Mentos Theme\n\n\n\n▼ Join Sneaky's Discord\n\nhttps://discord.gg/Y9mRBQ6\n\n\n\n▼ Follow Sneaky:\n\nTwitter: https://www.Twitter.com/Sneaky\nTwitch: https://www.Twitch.tv/SneakyLoL",
+        "videoId": "V7MYfFBQbsk",
+        "preview": "https://i.ytimg.com/vi/V7MYfFBQbsk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "TERRIBLE Teammates? Ditch Them to Start Carrying! | Skill Capped",
+        "description": "CARRY FEEDERS! Identify Then Carry - Learn How! \nhttp://www.skill-capped.com/lol\nSubscribe: http://goo.gl/kGvFCu\n\nLoL Guide Description: In this game Mcbaze tried to play the game correctly, but soon realised his teammates weren't up to the task. When this happens, you need to change your play-style to carry in a different way. Learn how!\n\nConcepts Featured: Macro, Diana, How to Macro, Challenger Macro, Carry Low Elo, Carry Bad Teammates, Carry Feeders, Win from Behind, How to Play Mid Game, How to Side Lane, Diana guide, Viktor Guide, Viktor Counter, Diana Split Push, How to Split Push, Basics of Split Pushing, Skill-Capped, Patch 10.4, 10.4, League of Legends, Riot Games, LoL Guide, How to Mid, Mid Guide, LoL Tips, LoL Tricks, 10.4 changes, runes, diana runes, diana build. \n \n \nLearn to Master the Game: https://www.skill-capped.com\nLike us on Facebook: https://www.facebook.com/skillcapped\nFollow us on Twitter: https://twitter.com/skillcapped",
+        "videoId": "Zr4ho4qVPM8",
+        "preview": "https://i.ytimg.com/vi/Zr4ho4qVPM8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "Top 5 SECRET Trading Tricks You NEED to Know! | Skill Capped",
+        "description": "5 Trading TRICKS You NEED to Know to CLIMB in Season 10! \nhttp://www.skill-capped.com/lol\nSubscribe: http://goo.gl/kGvFCu\n\nLoL Guide Description: In this guide we teach you the secret trading fundamentals that are unseen to most players. We break them down into simple concepts you can better understand and apply to your own games. Enjoy! \n\nConcepts Featured: Spacing, Tethering, Input Buffering, Zoning, Trading, Movement, Laning, Season 10, How to Trade, How to Win Trades, Challenger Trading, How to Win Lane, LoL Pro Guides, Challenger Trading, League of Legends, league of legends season 10, season 10 guide, Orianna guide, Twisted fate guide, Annie guide, Caitlyn guide, Vayne guide, Viktor guide. \n \nLearn to Master the Game: https://www.skill-capped.com\nLike us on Facebook: https://www.facebook.com/skillcapped\nFollow us on Twitter: https://twitter.com/skillcapped",
+        "videoId": "cKjY1WKL2gI",
+        "preview": "https://i.ytimg.com/vi/cKjY1WKL2gI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "protatomonster",
+        "displayName": "Protatomonster",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy8_DuYOHahL4miEDAeQ--XqKSv2wdBrh1BDDG4=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-13T07:00:00Z",
+        "title": "BEST CHALLENGER PENTAKILL MOMENTS (Kassadin 17R Pentakill, Insane Lissandra 1v5...)",
+        "description": "BEST CHALLENGER PENTAKILL MOMENTS (Kassadin 17R Pentakill, Insane Lissandra 1v5...) - League of Legends / LoL Pro Penta Montage #1\n\n🔶Don't forget to click the 🔔 Bell to get Notifications on new videos!\n🔶TFT CHANNEL: https://www.youtube.com/channel/UCNDoeaxF_O8n-cCwQTGbhuw\n\n▼Players featured in this League of Legends Montage :\n\n1) 0bey2Vernich10\n2) AnnieX33 - https://www.reddit.com/r/leagueoflegends/comments/fg9uxb/1v5_pentakill/\n3) XIII VIII MMI\n4) SoulRescurer - https://medal.tv/clips/20230636/5x6dGrUn2jXt\n5) Viktory\n6) bryndegila\n7) Catholit\n8) hashinshin - https://www.twitch.tv/hashinshin\n9) M0SbR1cKA\n10) DΣJV\n11) brohjob\n12) ill keep u safe\n13) duyaaaa\n14) bankai7777\n15) GFEX Slypher\n16) silenceedgaf - https://www.twitch.tv/silenceedgaf\n17) IMT Apollo \n18) GrandMasterWuju\n19) yuragi\n20) Kiyro\n21) AutumunMobster\n22) Sylune\n23) Robdibble - https://www.youtube.com/watch?v=Jrrvstcp34A&feature=emb_title\n24) yuzurenay\n25) menudobeta\n26) Mervecik\n27) pickleman68 - https://www.twitch.tv/pickleman68\n28) lìonheart\n29) Deuxieme Deja Vu - https://www.youtube.com/watch?v=JB9kmFnFtfA\n30) Akikano\n\nMusic in this LoL Montage:\n\n1) Music provided by Monstercat: \nTut Tut Child - Power Fracture\nhttps://youtube.com/monstercat \nhttps://youtube.com/monstercatinstinct\n2) Music provided by Monstercat: \nGrant Bowtie - Reach\nhttps://youtube.com/monstercat \nhttps://youtube.com/monstercatinstinct\n3) Music provided by Monstercat: \nHaywyre - Sculpted\nhttps://youtube.com/monstercat \nhttps://youtube.com/monstercatinstinct\n4) Music provided by Monstercat: \nEminence - Modern Love\nhttps://youtube.com/monstercat \nhttps://youtube.com/monstercatinstinct",
+        "videoId": "I06tjp3FFLY",
+        "preview": "https://i.ytimg.com/vi/I06tjp3FFLY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zencoaching",
+        "displayName": "Zen Coaching",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzIrkYXSPypRiZLBocp_swTchaaw8ArArGPe0DxNA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-12T07:00:00Z",
+        "title": "[Stream-Coaching] Coaching Silver Midlane | Don't play Viktor & save your LP",
+        "description": "TWITCH: https://www.twitch.tv/zencoaching \nDiscord: https://discord.gg/gDHfKVs \n\nDon't play viktor in silver. Also go follow me on twitch and support the channel thank you : )",
+        "videoId": "OA-5_vPxBhg",
+        "preview": "https://i.ytimg.com/vi/OA-5_vPxBhg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sneaky",
+        "displayName": "Sneaky",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy2sIoWZEf-_iN36J-h-b-yC4q7jm7NVmBEaR4j=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-09T19:00:03Z",
+        "title": "How to play 1v2 in the Bot-Lane? (Support perma-roaming & Wave Management)",
+        "description": "Sneaky talks about wave management and dealing with 1v2s in the bottom lane, whenever your support roams. It is to be noted that mages are MUCH better than the typical Marksmen in these situations, but the concept and idea is still applicable...\n\nFootage from: May 7, 2020\n\n\n▼ Editor\n\nhttps://Twitter.com/SnipingHobo\n\n\n▼ Time Stamps\n\n[0:00] Sneaky talks about ADC vs Mages\n[3:02] Game Start (Viktor)\n\n\n▼ Editor's Added Music\n\n[14:33] Mentos Theme\n\n\n\n▼ Join Sneaky's Discord\n\nhttps://discord.gg/Y9mRBQ6\n\n\n\n▼ Follow Sneaky:\n\nTwitter: https://www.Twitter.com/Sneaky\nTwitch: https://www.Twitch.tv/SneakyLoL",
+        "videoId": "5R3VQX_A9C8",
+        "preview": "https://i.ytimg.com/vi/5R3VQX_A9C8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Twitch Prime Rewards ! Valkrin Plays Bot Lane !",
+        "description": "LIKE, SUBSCRIBE, and make sure to hit that bell icon to stay notified on the latest videos !\n\n\"New KOREAN OP ! Tank Viktor Top Lane ?!\": https://youtu.be/heGITd3sXHs\n\nWant to watch Valkrin play live and chat with him ? Follow him at: https://www.twitch.tv/valkrin\n\nBuy some limited time only Valkrin/Chewy themed merchandise at:\nhttps://merch.streamelements.com/collections/valkrin\n\nJoin the community Discord: https://discord.gg/3ZKrxVc\n\nFacebook: https://www.facebook.com/Valkrin\nTwitter: https://twitter.com/Valkrin\n\nEditor: https://twitter.com/Happyface3739",
+        "videoId": "ouOD54GGv1g",
+        "preview": "https://i.ytimg.com/vi/ouOD54GGv1g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "New KOREAN OP ! Tank Viktor Top Lane ?!",
+        "description": "LIKE, SUBSCRIBE, and make sure to hit that bell icon to stay notified on the latest videos !\n\nWant to watch Valkrin play live and chat with him ? Follow him at: https://www.twitch.tv/valkrin\n\nBuy some limited time only Valkrin/Chewy themed merchandise at:\nhttps://merch.streamelements.com/collections/valkrin\n\nJoin the community Discord: https://discord.gg/3ZKrxVc\n\nFacebook: https://www.facebook.com/Valkrin\nTwitter: https://twitter.com/Valkrin\n\nEditor: https://twitter.com/Happyface3739",
+        "videoId": "heGITd3sXHs",
+        "preview": "https://i.ytimg.com/vi/heGITd3sXHs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "sneaky",
+        "displayName": "Sneaky",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy2sIoWZEf-_iN36J-h-b-yC4q7jm7NVmBEaR4j=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-26T19:00:08Z",
+        "title": "ADC and CS'ing in the Late Game... 🤔 (Viktor Bot Gameplay)",
+        "description": "How do ADCs keep up their CS come the mid and late stages of the match? What are lane assignments? Snacky explains...\n\nDid you know: Viktor is currently ranked 8th for average most damage dealt to champions? The second in the category of \"Battlemage\"/Control Mage, after Karthus.\n\nFootage from: April 25, 2020\n\n\n\n▼ Editor\n\nhttps://Twitter.com/SnipingHobo\n\n\n▼ Time Stamps\n\n[0:00] Mages and Bot Lane Discussion\n[3:59] In-Game Start (Viktor Bot)\n[7:07] The Question: How to CS as ADC after laning phase\n\n\n▼ Editor's Added Music\n\n[20:28] Mentos Theme\n\n\n\n▼ Join Sneaky's Discord\n\nhttps://discord.gg/Y9mRBQ6\n\n\n\n▼ Follow Sneaky:\n\nTwitter: https://www.Twitter.com/Sneaky\nTwitch: https://www.Twitch.tv/SneakyLoL",
+        "videoId": "V7MYfFBQbsk",
+        "preview": "https://i.ytimg.com/vi/V7MYfFBQbsk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-09T12:24:21Z",
+        "title": "YASSUO MASTERS THE HARD/UNDERPOWERED CHAMP APHELIOS | XPEKE'S VIKTOR VS ENEMY TEAM | LOL MOMENTS",
+        "description": "Help me reach 250.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nBusines inquiries: funoflegends@hotmail.com\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\nOutro Music: https://www.youtube.com/watch?v=iScT5IfgG-Q\n\n\n---\nCREDITS:\nYourPrincess: https://www.twitch.tv/YourPrincess\nBoxBox: https://goo.gl/LTrb4u\nDekar173: https://goo.gl/R8hvpt\nYassuo: https://www.twitch.tv/Yassuo\nlolTyler1: https://www.twitch.tv/lolTyler1\nTrick2G: https://www.twitch.tv/Trick2G\n1AdrianAries1: https://www.twitch.tv/1AdrianAries1\nBestDongerKR: https://www.twitch.tv/BestDongerKR\nDekar173: https://www.twitch.tv/Dekar173\nFoggedftw2: https://www.twitch.tv/Foggedftw2\nHoboShoes: https://www.twitch.tv/HoboShoes\nImls: https://www.twitch.tv/Imls\nLCS: https://www.twitch.tv/LCS\nLEC: https://www.twitch.tv/LEC\nSivHD: https://www.twitch.tv/SivHD\nTasticc: https://www.twitch.tv/Tasticc\nxPeke: https://www.twitch.tv/xPeke\nxQcOW: https://www.twitch.tv/xQcOW\nYamikazexz: https://www.twitch.tv/Yamikazexz",
+        "videoId": "c1Axr5DOZDY",
+        "preview": "https://i.ytimg.com/vi/c1Axr5DOZDY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "coach_curtis",
+        "displayName": "Coach Curtis",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ1Gi5TVL30rvgLwqgjtl2oRfPRdddhxr-_JQw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-01-06T17:00:19Z",
+        "title": "Viktor Mid Lane Guide - How To Carry - Step By Step",
+        "description": "Viktor Mid lane Guide / In this video I show you the optimal runes / build path and information about Viktor matchups. I then take you through a game with commentary and step by step show the objectives and boxes you need to tick off when winning a game with Viktor in solo queue. I try to make it as easy to follow and replicable as possible for you all, if you have any questions about anything you see leave them below or in the discord. \n--------------------------------------------------------\nDiscord Invite Link: https://discord.gg/rUWt52p\n--------------------------------------------------------\nSay hi on Twitter: https://twitter.com/CoachCurtislol\n––––––––––––––––––––––––––––––\nMorning Routine by Ghostrifter Official https://soundcloud.com/ghostrifter-of...\nCreative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: https://bit.ly/_morning-routine\nMusic promoted by Audio Library https://youtu.be/lsbbGAKhxLI\n––––––––––––––––––––––––––––––\nStill Awake by Ghostrifter Official https://soundcloud.com/ghostrifter-of...\nCreative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0 \nFree Download / Stream: https://bit.ly/still-awake\nMusic promoted by Audio Library https://youtu.be/6s1z_r_kVjU\n––––––––––––––––––––––––––––––\n#Viktor #LeagueOfLegends #CoachCurtis",
+        "videoId": "oGXnvbtGOdU",
+        "preview": "https://i.ytimg.com/vi/oGXnvbtGOdU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "coach_curtis",
+        "displayName": "Coach Curtis",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ1Gi5TVL30rvgLwqgjtl2oRfPRdddhxr-_JQw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-11-18T16:00:06Z",
+        "title": "Viktor Deep Dive (Tips/Tricks/Discussion)",
+        "description": "In this video I talk through a recent game I played on Viktor, having been a Viktor main in the past when I was a pro player. I try and cover some overall key concepts with Viktor that can get you into a favorable position to carry the game. \n\n--------------------------------------------------------------\n\nTwitter: https://twitter.com/CoachCurtislol",
+        "videoId": "GZ3yB9EpfH0",
+        "preview": "https://i.ytimg.com/vi/GZ3yB9EpfH0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-10-25T16:14:31Z",
+        "title": "This champion is FINALLY OP now after years.. (NEW BUFFS) - Journey To Challenger | LoL",
+        "description": "LEAVE A \"LIKE\" IF YOU ENJOYED THE VID!! Viktor is now OP over a year later in League of Legends!\n→Journey To GM/Challenger Playlist: https://bit.ly/2Lr6ANp\n→AAHHH NNOOO: https://bit.ly/2Pj9h7F\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n→My Merch Store: http://bit.ly/2nJDZdO \n \n Follow me here!\n→My Stream: https://www.facebook.com/RedmercyLoL\n→My Public Discord: discord.gg/YAay9Hc \n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nEdited By: https://twitter.com/WYuezhong\n \nHope you enjoy and please sub rate and comment!!! :)\n\nThis champion is now OP 1 year later after getting buffs - Journey To Challenger | LoL\n\n#lol #redmercy #leagueoflegends",
+        "videoId": "Qb9dQasc0bU",
+        "preview": "https://i.ytimg.com/vi/Qb9dQasc0bU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-10-08T20:11:15Z",
+        "title": "Patch 9.20 Rundown - POSSIBLY the Best Patch of Season 9",
+        "description": "This patch features two potential major resurrections for Viktor/Shaco, and that alone probably makes it overall the best patch this season has seen. Alongside some placebo changes, nothing really misses here. Sadly this is the patch after worlds LOL. \n\nYou can help the Youtube channel by supporting on Patreon AND GET THE SOLO-Q TIERLIST: https://www.patreon.com/lsxyz9 \n\nFollow me: Twitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls \nFacebook: http://facebook.com/nick.decesare.7 \nStream: http://twitch.tv/imls \nInstagram: http://instagram.com/LSXYZ9 \nBusiness E-mail: Nicholas.a.decesare at gmail dot com\nhttps://store.clgaming.net/collection...",
+        "videoId": "yNZ7qeDrlYQ",
+        "preview": "https://i.ytimg.com/vi/yNZ7qeDrlYQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-10-08T20:08:02Z",
+        "title": "GTL 9.20 Patch Note Rundown",
+        "description": "9.20 is pretty light, but has substantial changes to Garen, Shaco, and Viktor among others.",
+        "videoId": "1W-qITgMUTY",
+        "preview": "https://i.ytimg.com/vi/1W-qITgMUTY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-11T15:00:14Z",
+        "title": "So I broke up with my gf for this... 0 SECOND ULT CD MASTER YI CRIT BUILD 1v9- RIOT FIX YOUR GAME!?!",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://www.youtube.com/watch?v=KRgjAfj0MCA\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: MY 100% WINRATE TRYNDAMERE JUNGLE 1v9 NEXUS SAVE | 100% CRIT 40% CDR BUILD | SECRET NOCTURNE COMBO!! https://youtu.be/KRgjAfj0MCA\n\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "yrKJ5kv07Ak",
+        "preview": "https://i.ytimg.com/vi/yrKJ5kv07Ak/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-09-02T15:00:00Z",
+        "title": "MY GIRLFRIEND EXPOSES ME TO 10,000 VIEWERS LIVE | NEW STAR GUARDIAN XAYAH | THE MOST INSANE BUILD",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nMy stream: https://www.twitch.tv/nightblue3 Lia's stream: https://www.twitch.tv/liawaifu\n🔷 Check out our previous video: https://www.youtube.com/watch?v=y4HH3TJ9eJM\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: THE DYNAMIC DUO 2v9!!! THE MOST BROKEN JUNGLER IS ACTUALLY VOLIBEAR !!! WHAT IS THIS DAMAGE ?? https://youtu.be/y4HH3TJ9eJM\n\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "50RaeYLEODs",
+        "preview": "https://i.ytimg.com/vi/50RaeYLEODs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-26T15:00:10Z",
+        "title": "NEW ELDERWOOD AHRI JUNGLE | CONE PENTAKILL WITH CRIT VI BUILD | YOU CAN'T OUTPLAY THE BEST JUNGLE NA",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://youtu.be/TQsHZPxE9eA\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: NOTHING WILL SURVIVE MY TRIPLE Q!!! NEW RENGAR SETUP | I FINALLY GET SERIOUS... WE MASTERS NOW! https://www.youtube.com/watch?v=TQsHZPxE9eA \n\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "mcMi_no30fg",
+        "preview": "https://i.ytimg.com/vi/mcMi_no30fg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-25T15:00:04Z",
+        "title": "NOTHING WILL SURVIVE MY TRIPLE Q!!! NEW RENGAR SETUP | I FINALLY GET SERIOUS... WE MASTERS NOW!",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://youtu.be/oyy4ovu7zrY\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: NEW ELDERWOOD NOCTURNE WITH ETERNALS ACHIEVEMENTS | RIOT WANTS US TO PAY FOR THIS?!? BEST NOC SKIN https://www.youtube.com/watch?v=oyy4ovu7zrY \n\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "TQsHZPxE9eA",
+        "preview": "https://i.ytimg.com/vi/TQsHZPxE9eA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-08-06T20:31:22Z",
+        "title": "Nightblue3 - NEW PRESTIGE PROJECT: IRELIA !! THE BEST IRELIA SKIN AND THE BEST IRELIA WORLD",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://www.youtube.com/watch?v=qjkqN4yQ-K4\n\n🔶WATCH MY LIVE CONTENT HERE ► https://bit.ly/1TM5vfa ◄ (◕ ˬ ◕✿)\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\n\nPrevious Video: NEW PANTHEON REWORK IS AMAZING | THIS IS WHY I JUNGLE AGAIN - https://youtu.be/qjkqN4yQ-K4\n\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "XIdr24jQtGI",
+        "preview": "https://i.ytimg.com/vi/XIdr24jQtGI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-18T19:49:34Z",
+        "title": "Nightblue3 - NEW PROJECT: Pyke Jungle | NOW THAT'S A LOTTA DAMAGE",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://www.youtube.com/watch?v=qlo38b3sE3Y\n\n🔶WATCH MY LIVE CONTENT HERE ► https://bit.ly/1TM5vfa ◄ (◕ ˬ ◕✿)\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\n\nPrevious Video: This is what we do to Teemo Players... - https://youtu.be/qlo38b3sE3Y\n\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "QhYPbysdS50",
+        "preview": "https://i.ytimg.com/vi/QhYPbysdS50/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-07-11T09:00:02Z",
+        "title": "Nightblue3 - Viewers FORCED me to do this!!!",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://www.youtube.com/watch?v=itddowappks \n\n🔶WATCH MY LIVE CONTENT HERE ► https://bit.ly/1TM5vfa ◄ (◕ ˬ ◕✿)\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\n\nPrevious Video: You will NEVER lose a game again if you do this or your money back!!! PENTAKILL -UUUUUU - https://youtu.be/itddowappks\n\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "58rbrwvg588",
+        "preview": "https://i.ytimg.com/vi/58rbrwvg588/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-29T20:02:59Z",
+        "title": "NEW NASUS IS AN ABSOLUTE MONSTER!! 1300+ STACKS 1v9 JUNGLE | BEST JUNGLER IN THE GAME",
+        "description": "Remember to leave a like and subscribe for more content. Thank you so much 💙 \n► Check out our previous video: https://youtu.be/XpN4Do2nU88\n► For live content you can follow me on Twitch (◕ ˬ ◕✿) https://www.twitch.tv/nightblue3 \n► SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! \n\nPrevious Video: RIOT WENT TOO FAR!! NEW LUNAR WRAITH SYLAS JUNGLE SPOTLIGHT | MOST BROKEN ULTIMATE EVER ► https://youtu.be/XpN4Do2nU88  ◄\n\nSocials:\n► Discord - https://discord.gg/vpx36qH\n► Twitter - https://twitter.com/Nightbloo\n► Facebook - https://www.facebook.com/Nightblue3LoL\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/Ryc2cCzUHfQ\n\n#LEAGUEOFLEGENDS #NASUS #NIGHTBLUE3",
+        "videoId": "N7AOk0Aidhs",
+        "preview": "https://i.ytimg.com/vi/N7AOk0Aidhs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-11-27T18:02:21Z",
+        "title": "New Best Champions in Patch 8.23 PRESEASON for Climbing in EVERY ROLE",
+        "description": "Check out U.GG yourself for other champions! = https://bit.ly/2P7JfVq\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Follow my Stream → http://www.twitch.tv/phy_games\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor - https://twitter.com/ToxOnPC\n\nTimestamps\nADC - start\nMid - 2:42\nJungle - 4:35\nSupport - 6:27\nTop - 8:09\n\nADC \n-Best = Lucian\n-Runner up = Miss Fortune (dh)\n-New = Kog'maw\n-New = Vayne (Klepto)\n-New = Jhin (dh)\n\nMid \n-Best = Kassadin\n-Runner up = Lissandra\n-New = Pyke\n-New = Karthus (dh)\n-New = Katarina (dh)\n\nJungle\n-Best = Kha'Zix\n-Runner up = Shaco\n-New = Elise (dh)\n-New = Amumu (liandries)\n-New = Wukong (dh)\n\nSupport\n-Best = Zyra \n-Runner up = Thresh\n-New = Lux (dh)\n-New = Taric (shield bash)\n-New = Brand (dh)\n\nTop lane\n-Best = Jax\n-Runner up = Viktor \n-New = Fiora (klepto)\n-New = Teemo (dh liandries)\n-New = Riven (klepto)\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions in Patch 8.23 PRESEASON for Climbing in EVERY ROLE",
+        "videoId": "dhfNM9FT1nQ",
+        "preview": "https://i.ytimg.com/vi/dhfNM9FT1nQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-11-11T00:43:30Z",
+        "title": "WHEN TYLER1 GOOGLES \"WEIRD HEAD SHAPES\" | YASSUO'S GOT 'OUTPLAYED' BY VIKTOR | TFBLADE | LOL MOMENTS",
+        "description": "Follow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nFollow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nGet Memes Apparel here: http://bit.ly/FunofLegendsMemesApparel\nGet Hip-hop Apparel here: http://bit.ly/FunofLegendsHiphopApparel\nUse code meme for an Extra 5% discount ($49+)!\nUse code memes for an Extra 10% discount ($99+)! Juxtapositions and parallels are drawn between different clips to deliver the original narrative of the video in a transformative manner that falls under Fair Use and provides unique value to my viewers. Juxtaposition is an act or instance of placing two elements close together or side by side. This is often done in order to compare/contrast the two, to show similarities or differences, etc. A video qualifies as fair use if it juxtaposes source material in a new or unexpected way for the purposes of critique, commentary or education.\n\nHelp me reach 150.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\n---\nCREDITS:\nFaker: https://goo.gl/aVxkJf\nGosu: https://goo.gl/Wjjbvf\nPobelter: https://goo.gl/lqRQq8\nScarra: https://goo.gl/kTgyzu\nDekar173: https://goo.gl/R8hvpt\nIWDominate: https://goo.gl/VlPyhA\nHashinshin: https://www.twitch.tv/Hashinshin\nYassuo: https://www.twitch.tv/Yassuo\nVoyBoy: https://www.twitch.tv/VoyBoy\nlolTyler1: https://www.twitch.tv/lolTyler1\nDisguisedToastHS: https://www.twitch.tv/DisguisedToastHS\nDragoonsmashlol: https://www.twitch.tv/Dragoonsmashlol\nImls: https://www.twitch.tv/Imls\nLourlo: https://www.twitch.tv/Lourlo\nMabarry3: https://www.twitch.tv/Mabarry3\nMagifelix: https://www.twitch.tv/Magifelix\noScorpz: https://www.twitch.tv/oScorpz\nRezoneGames: https://www.twitch.tv/RezoneGames\nSerinide: https://www.twitch.tv/Serinide\nStanLucky: https://www.twitch.tv/StanLucky\nTFBlade: https://www.twitch.tv/TFBlade\nThaldrinLoL: https://www.twitch.tv/ThaldrinLoL\nTrick2G: https://www.twitch.tv/Trick2G\n\n\nFootage used in this video is protected by the Fair Use Law, section 107 used for commentary, criticism, news reporting or education for transformative use.\nhttps://www.copyright.gov/fair-use/more-info.html\nMy channel is focused on giving the best and unique moments of your favorite players. I put a lot of effort into making these videos with a lot of unique edits and personality effects on my videos. I got permissions for the content that I use and I alter them for fair use purpose and it also falls under the \"news reporting\" flag which is also considered as fair use!",
+        "videoId": "lwOYr2i0K1k",
+        "preview": "https://i.ytimg.com/vi/lwOYr2i0K1k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-11-01T06:55:23Z",
+        "title": "Twitch Prime Rewards ! Valkrin Plays Bot Lane !",
+        "description": "LIKE, SUBSCRIBE, and make sure to hit that bell icon to stay notified on the latest videos !\n\n\"New KOREAN OP ! Tank Viktor Top Lane ?!\": https://youtu.be/heGITd3sXHs\n\nWant to watch Valkrin play live and chat with him ? Follow him at: https://www.twitch.tv/valkrin\n\nBuy some limited time only Valkrin/Chewy themed merchandise at:\nhttps://merch.streamelements.com/collections/valkrin\n\nJoin the community Discord: https://discord.gg/3ZKrxVc\n\nFacebook: https://www.facebook.com/Valkrin\nTwitter: https://twitter.com/Valkrin\n\nEditor: https://twitter.com/Happyface3739",
+        "videoId": "ouOD54GGv1g",
+        "preview": "https://i.ytimg.com/vi/ouOD54GGv1g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-10-26T16:48:22Z",
+        "title": "New Best Champions in Patch 8.21 SEASON 8 for Climbing in EVERY ROLE",
+        "description": "Check out U.GG yourself! = https://bit.ly/2P7JfVq\nLet me know what you think of doing it this way :)\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nADC = start\nMid = 2:56\nJungle = 5:19\nSupport = 7:49\nTop = 9:58\n\nADC \n-Best = Lucian\n-Runner up = Ezreal\n-Underrated = Ashe\n-Best below plat = Sivir / MF\n\nMid \n-Best = Leblanc\n-Runner up = Kassadin\n-Underrated = Talon\n-Best below plat = Malz / Ahri\n\nJungle\n-Best = Xin Zhao\n-Runner up = Kha'Zix\n-Underrated = Pantheon\n-Best below plat = Nocturne / Rammus\n\nSupport\n-Best = Thresh\n-Runner up = Pyke\n-Underrated = Fiddle\n-Best below plat = Zyra / Blitz\n\nTop lane\n-Best = Viktor\n-Runner up = Urgot\n-Underrated = Kled\n-Best below plat = Garen / Jax\n\nEditor - https://twitter.com/ToxOnPC\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions in Patch 8.21 SEASON 8 for Climbing in EVERY ROLE",
+        "videoId": "ei1LMl1bt0s",
+        "preview": "https://i.ytimg.com/vi/ei1LMl1bt0s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-10-21T02:28:54Z",
+        "title": "New KOREAN OP ! Tank Viktor Top Lane ?!",
+        "description": "LIKE, SUBSCRIBE, and make sure to hit that bell icon to stay notified on the latest videos !\n\nWant to watch Valkrin play live and chat with him ? Follow him at: https://www.twitch.tv/valkrin\n\nBuy some limited time only Valkrin/Chewy themed merchandise at:\nhttps://merch.streamelements.com/collections/valkrin\n\nJoin the community Discord: https://discord.gg/3ZKrxVc\n\nFacebook: https://www.facebook.com/Valkrin\nTwitter: https://twitter.com/Valkrin\n\nEditor: https://twitter.com/Happyface3739",
+        "videoId": "heGITd3sXHs",
+        "preview": "https://i.ytimg.com/vi/heGITd3sXHs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-08-21T18:30:17Z",
+        "title": "RIOT PUT US IN THE GAME!! 1000+ AP NEW NUNU BOT REWORK SPOTLIGHT | THIS SKIN IS TOXIC AND AMAZING",
+        "description": "LIKE & SUBSCRIBE AND I WILL PERSONALLY DELIVER YOU THIS COOKIE 🍪⊂(ʘ‿ʘ✿)\n► Check out our previous video: https://www.youtube.com/watch?v=Wu5pPkzQiIk\n► SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! \n\nPrevious Video: *NEW* POOL PARTY ZOE JUNGLE IS SO BROKEN | BEST GANKS IN THE GAME | ZERO COUNTERPLAY ENEMY RAGEQUIT ► https://youtu.be/Wu5pPkzQiIk ◄\n\n► Check out my Full Gameplays Channel - https://www.youtube.com/channel/UCJ8YqaXFORvO-u3iAuqV3Yg?sub_confirmation=1 \n► For more content you can follow me on Twitch (◕ ˬ ◕✿) https://www.twitch.tv/nightblue3 \n\nSocials:\n► Twitter - https://twitter.com/Nightbloo\n► Facebook - https://www.facebook.com/Nightblue3LoL\n► Instagram - https://www.instagram.com/nightblue_ig/\n► Website - http://nightblue3.net/\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song:  https://youtu.be/fL1pnzQj5j8",
+        "videoId": "TGPDZU5PSU4",
+        "preview": "https://i.ytimg.com/vi/TGPDZU5PSU4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-07-17T20:54:19Z",
+        "title": "Patch 8.14 Rundown - A pointless patch.",
+        "description": "100 cast range added to Gravity Field? Please, you're too generous. I actually can't understand what conversations are being had when some of these changes are decided. This is basically a dead patch. They could've easily \"hotfixed\" the jungle change and not wasted this entire patch with these changes. Very little will come from this patch.  \n\n0:12  - Aatrox\n4:59  - Fizz\n8:14  - Jinx\n8:28  - Karma\n10:13  - Sion\n11:01 - Twitch\n11:23 - Ahri\n12:51 - Cassiopeia\n13:37 - Elise\n13:57 - Nasus\n14:50 - Pantheon\n15:59 - Rek'Sai\n17:29 - Sivir\n19:04 - Vel'Koz\n20:19 - Vayne\n20:52 - Vi\n21:53 - Viktor\n24:18 - Dr. Mundo\n24:46 - Rakan\n25:18 -Sejuani\n25:48 - Shen\n26:27  - Swain\n26:30 - Talon\n27:14 - Wukong\n27:48 - Zoe\n--------------------------------------------------------------------\n28:38 - Hunters Machete/Hunters talisman\n29:31 - Teleport\n31:19 - Conqueror\n31:24 - Ghost poro\n31:25 - Zombie ward\n32:28 - Cursor update\n32:45 - UPCOMING SKINS\n=================================\n34:12 - RECAP\n\nYou can help the Youtube channel by supporting on Patreon: https://www.patreon.com/lsxyz9\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "a26aYQqiyK0",
+        "preview": "https://i.ytimg.com/vi/a26aYQqiyK0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-07-03T20:48:17Z",
+        "title": "*NEW* SSG TALIYAH JUNGLE SPOTLIGHT 21 kilIs | 1100+ AP SPAWN KilI | WE NEED TO BUILD A WALL!!",
+        "description": "🌟 OUR SECOND CHANNEL - https://www.youtube.com/channel/UCJ8YqaXFORvO-u3iAuqV3Yg?sub_confirmation=1🌟 \n► If you enjoyed the video, be sure to hit like & subscribe! Thank you so much for all of your support 💙  \n► Check out our previous video: https://www.youtube.com/watch?v=US_TQ-8QsQ4\n\nPrevious Video: THIS WILL MAKE YOU CLIMB ELO!! FREE WINS FASTEST ROAM STRATEGY | CRIT QUINN | THIS DAMAGE IS NOT OK ► https://youtu.be/US_TQ-8QsQ4 ◄\n► SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! \n► For more content you can follow me on Twitch (◕ ˬ ◕✿) https://www.twitch.tv/nightblue3 \n\n\nSocials:\n► Twitter - https://twitter.com/Nightbloo\n► Facebook - https://www.facebook.com/Nightblue3LoL\n► Instagram - https://www.instagram.com/nightblue_ig/\n► Website - http://nightblue3.net/\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/t70pOIYBqaU",
+        "videoId": "ZBH-AGtlfN4",
+        "preview": "https://i.ytimg.com/vi/ZBH-AGtlfN4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-06-29T00:12:27Z",
+        "title": "THIS WILL MAKE YOU CLIMB ELO!! FREE WINS FASTEST ROAM STRATEGY | CRIT QUINN | THIS DAMAGE IS NOT OK",
+        "description": "✨ Check out our NEW Nightblue3 Full Gameplay Channel - https://youtu.be/u0281XyPxzU ✨\nEnjoyed the video? Be sure to click 👍 \"LIKE\" 👍 & SUBSCRIBE - Thank you so much 💙 \n► Check out our previous video: https://www.youtube.com/watch?v=Hd7ijWbXW5Y\n\nPrevious Video: *NEW* GOD KING GAREN JUNGLE PENTAKILL (SPOTLIGHT) | 30 kilIs CRIT BUILD | THE BEST SKIN EVER?! ► https://youtu.be/Hd7ijWbXW5Y ◄\n\n\n► SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! \n► For more content you can follow me on Twitch (◕ ˬ ◕✿) https://www.twitch.tv/nightblue3 \n\n\nSocials:\n► Twitter - https://twitter.com/Nightbloo\n► Facebook - https://www.facebook.com/Nightblue3LoL\n► Instagram - https://www.instagram.com/nightblue_ig/\n► Website - http://nightblue3.net/\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/zrE4dNkrKXw\n►Thumbnail Art: https://bit.ly/2KvSEAv",
+        "videoId": "US_TQ-8QsQ4",
+        "preview": "https://i.ytimg.com/vi/US_TQ-8QsQ4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-06-19T20:10:45Z",
+        "title": "RIOT DEFINITELY WENT TOO FAR!! NEW AATROX REWORK JUNGLE SPOTLIGHT (23 kilIs) THE MOST BROKEN REWORK",
+        "description": "► For more content you can follow me on Twitch (◕ ˬ ◕✿) https://www.twitch.tv/nightblue3 \n⭐ Enjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE - Thank you so much 💙 \n► Check out our previous video: https://www.youtube.com/watch?v=Tf8hmn-vw4U\n► SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! \n\nPrevious Video: PYKE GOES UNDER THE SEA!! THE BEST BUILD | *NEW* SPEAR OF SHOJIN PYKE JUNGLE | EZREAL CYBERBULLIED ► https://youtu.be/Tf8hmn-vw4U ◄\n\nSocials:\n► Twitter - https://twitter.com/Nightbloo\n► Facebook - https://www.facebook.com/Nightblue3LoL\n► Instagram - https://www.instagram.com/nightblue_ig/\n► Website - http://nightblue3.net/\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/t70pOIYBqaU",
+        "videoId": "VJruZTdilHE",
+        "preview": "https://i.ytimg.com/vi/VJruZTdilHE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-06-10T22:40:51Z",
+        "title": "1300+ AP *NEW* META RYZE JUNGLE IS DISGUSTING | RYZE TO THE TOP WITH THIS TOP TIER JUNGLER",
+        "description": "⭐ Enjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE - Thank you so much 💙 \n► Check out our previous video: https://www.youtube.com/watch?v=di2BB0hd87Q\n► SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! \n\nPrevious Video: *NEW* 1200+ AP SWEEPER RAMMUS JUNGLE SPOTLIGHT (25 kilIs) | THE BEST RAMMUS SKIN EVER - Nightblue3 ► https://youtu.be/di2BB0hd87Q ◄\n\nI'll be LIVE at https://www.twitch.tv/nightblue3 everyday at 6 AM EST ~ You'll be able to watch full games, highlights, tips, and funny moments not available on the YouTube channel!\n\nSocials:\n► Twitter - https://twitter.com/Nightbloo\n► Facebook - https://www.facebook.com/Nightblue3LoL\n► Instagram - https://www.instagram.com/nightblue_ig/\n► Website - http://nightblue3.net/\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/QkJIaJFdzaU",
+        "videoId": "cVM6E0Kvpug",
+        "preview": "https://i.ytimg.com/vi/cVM6E0Kvpug/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-06-03T22:21:49Z",
+        "title": "NEW DARK STAR CHO'GATH JUNGLE SPOTLIGHT 31 kilIs | OVER 21,000 HEALTH | 2200+ TRUE DAMAGE FEAST",
+        "description": "⭐ Enjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE - Thank you so much 💙 \n► Check out our previous video: https://www.youtube.com/watch?v=kcioA_ZHm-4\n► SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! \n\nPrevious Video: *NEW* DARK WATERS DIANA PENTAKILL JUNGLE SPOTLIGHT | THE MOST DISGUSTING COMBO | YASUO APOLOGIZING?! ► https://youtu.be/kcioA_ZHm-4 ◄\n\nI'll be LIVE at https://www.twitch.tv/nightblue3 everyday at 6 AM EST ~ You'll be able to watch full games, highlights, tips, and funny moments not available on the YouTube channel!\n\nSocials:\n► Twitter - https://twitter.com/Nightbloo\n► Facebook - https://www.facebook.com/Nightblue3LoL\n► Instagram - https://www.instagram.com/nightblue_ig/\n► Website - http://nightblue3.net/\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/EII8XKJjeNs",
+        "videoId": "lpNKmZPY0Uw",
+        "preview": "https://i.ytimg.com/vi/lpNKmZPY0Uw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-05-24T19:00:03Z",
+        "title": "Top 8 INSANE Fan Skins VFX! - League of Legends",
+        "description": "League of Legends / LoL: Top 8 INSANE Fan Skins With ABILITIES! A look at some insane fan-skins with VFX designed for the abilities!\n💙 Subscribe for More League of Legends Videos!  http://bit.ly/1O7TtJh  \n\n➥ Information Sources From The Video:\n\n1. Cosmic Reaver Viktor by Kevin Leeroy (He's now an official Riot VFX Artist)\nhttps://www.artstation.com/artwork/2eDmK\n\n2. Star Guardian Vel'Koz by Kevin Leeroy\nhttps://www.artstation.com/artwork/VK56R\n\n3. Shurima Lissandra by Augusto Godinho:\nhttps://www.artstation.com/artwork/3GNwJ\n\n4. Blood Moon Lux by Augustus Allen:\nhttps://www.artstation.com/artwork/nbQZX\n\n5. Not a fan-made piece but some super cool VFXconcepts by Samuel Thompson, some of which made it into the game, some did not:\nhttps://www.artstation.com/artwork/5KQyW\n\n6. Farmer Nasus by Kevin Leeroy:\nhttps://www.artstation.com/artwork/K8Xby\n\n7. Star Tyrant Syndra by Kevin Leeroy: \nhttps://www.artstation.com/artwork/6y96O\n\n8. Chinese New Year Aurelion Sol by Bryan Cisneros:\nhttps://www.artstation.com/artwork/LB86l\n\n✔ Video Credits:\n● Produced By: Jeremy - Gaming Curios\n● Written By: Jeremy - Gaming Curios & EdgeGaming\n● Edited By: Ewcom",
+        "videoId": "uIV3eLWG9xU",
+        "preview": "https://i.ytimg.com/vi/uIV3eLWG9xU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-05-21T18:22:59Z",
+        "title": "IMAQTPIE REACTS TO NIGHTBLUE'S TWEET ABOUT HIM | SHIPHTUR'S VIKTOR INSANE | LOL MOMENTS",
+        "description": "Follow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nFollow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nGet Memes Apparel here: http://bit.ly/FunofLegendsMemesApparel\nGet Hip-hop Apparel here: http://bit.ly/FunofLegendsHiphopApparel\nUse code meme for an Extra 5% discount ($49+)!\nUse code memes for an Extra 10% discount ($99+)! Juxtapositions and parallels are drawn between different clips to deliver the original narrative of the video in a transformative manner that falls under Fair Use and provides unique value to my viewers. Juxtaposition is an act or instance of placing two elements close together or side by side. This is often done in order to compare/contrast the two, to show similarities or differences, etc. A video qualifies as fair use if it juxtaposes source material in a new or unexpected way for the purposes of critique, commentary or education.\n\nHelp me reach 75.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment!\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\n---\nCREDITS:\nImaqtpie: https://www.twitch.tv/Imaqtpie\nFaker: https://goo.gl/aVxkJf\nLL Stylish: https://goo.gl/e30bvV \nGosu: https://goo.gl/Wjjbvf\nShiphtur: https://goo.gl/en426Z\nScarra: https://goo.gl/kTgyzu\nIWDominate: https://goo.gl/VlPyhA\nFroggen: https://goo.gl/FzkhNe\nHashinshin: https://www.twitch.tv/Hashinshin\nAphromoo: https://www.twitch.tv/Aphromoo\nCowsep: https://www.twitch.tv/Cowsep\nKingrat88: https://www.twitch.tv/Kingrat88\nRiotGames: https://www.twitch.tv/RiotGames\nRisti: https://www.twitch.tv/Risti\nSLICKTV: https://www.twitch.tv/SLICKTV\nSoloRenektonOnly: https://www.twitch.tv/SoloRenektonOnly\nTFBlade: https://www.twitch.tv/TFBlade\nThe_Most_Fragile: https://www.twitch.tv/The_Most_Fragile\n\n\nFootage used in this video is protected by the Fair Use Law, section 107 used for commentary, criticism, news reporting or education for transformative use.\nhttps://www.copyright.gov/fair-use/more-info.html\nMy channel is focused on giving the best and unique moments of your favorite players. I put a lot of effort into making these videos with a lot of unique edits and personality effects on my videos. I got permissions for the content that I use and I alter them for fair use purpose and it also falls under the \"news reporting\" flag which is also considered as fair use!",
+        "videoId": "0MKFh1hUSI0",
+        "preview": "https://i.ytimg.com/vi/0MKFh1hUSI0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "tbskyen",
+        "displayName": "T B Skyen",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyshPYFo6beJdHT__q8zRw6nZd_6qJO0Jx_bk9rUg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-27T23:41:25Z",
+        "title": "What's the deal with Viktor? || Character design & lore discussion",
+        "description": "VOTE ON VIDEO TOPICS: https://www.patreon.com/posts/18439272\n-----\nI am nothing if not vulnerable to suggestion! Let's have a look at The Machine Herald, his aging character design and his brand new lore, and figure out what's what.\n-----\nSubscribe to Necrit: https://www.youtube.com/channel/UCiUHGAbtjCrLO3ZPrTfle3Q\n---\nRead Viktor's Bio: https://universe.leagueoflegends.com/en_US/story/champion/viktor/\nColor story: https://universe.leagueoflegends.com/en_US/story/viktor-color-story/\n---\nFollow me on Twitter: http://twitter.com/tbskyen\nSupport the videos on Patreon: http://patreon.com/castercomix",
+        "videoId": "AQRhXhDZW8k",
+        "preview": "https://i.ytimg.com/vi/AQRhXhDZW8k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "fun_of_legends",
+        "displayName": "Fun of Legends",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFeU9_qAu4IFQTPi9Z5q1MMtDL06hp0lL_a42U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-03-16T16:27:05Z",
+        "title": "Imaqtpie Is Crying On Stream | Faker Got Stuck Azir | Shiphtur's Insane Viktor Outplay | LoL Moments",
+        "description": "Follow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nFollow my playlist. \n\nhttps://www.youtube.com/watch?v=t3S_KnZIbHI&list=PLHSIsbaZcw6u7zxtKFoxyUKWdtN1YFgSb&index=2&t\n\nGet Memes Apparel here: http://bit.ly/FunofLegendsMemesApparel\nGet Hip-hop Apparel here: http://bit.ly/FunofLegendsHiphopApparel\nUse code meme for an Extra 5% discount ($49+)!\nUse code memes for an Extra 10% discount ($99+)! Juxtapositions and parallels are drawn between different clips to deliver the original narrative of the video in a transformative manner that falls under Fair Use and provides unique value to my viewers. Juxtaposition is an act or instance of placing two elements close together or side by side. This is often done in order to compare/contrast the two, to show similarities or differences, etc. A video qualifies as fair use if it juxtaposes source material in a new or unexpected way for the purposes of critique, commentary or education.\n\nLeague of Legends stream moments and plays by (Imaqtpie, Trick2G, Froggen, Aphromoo, VoyBoy, Nightblue3, Sneaky, Bjergsen, PinkWard, Tobias Fate, Doublelift, Pobelter, Shiphtur, KayPea, BoxBox, VoyBoy, LL Stylish, Dyrus, Faker, Scarra, Pokimane, Bjergsen, IWDominate, Gripex,) and anonymous League of Legends players. Funny moments and outplays. I hope you'll enjoy the video!\n\n\n\n\nHelp me reach 60.000 subs :^)! https://goo.gl/ey4a2G If you like the video please leave a like, share and comment! ALSO:\n\n\n\n\n\n\n---\nCREDITS:\nFaker: https://goo.gl/aVxkJf\nLL Stylish: https://goo.gl/e30bvV \nBoxBox: https://goo.gl/LTrb4u\nImaqtpie: https://goo.gl/kNE42k\nGosu: https://goo.gl/Wjjbvf\nShiphtur: https://goo.gl/en426Z\nIWDominate: https://goo.gl/VlPyhA\nFroggen: https://goo.gl/FzkhNe\nHashinshin: https://www.twitch.tv/Hashinshin\nYassuo: https://www.twitch.tv/Yassuo\nAphromoo: https://www.twitch.tv/Aphromoo\nTobiasFate: https://www.twitch.tv/tobiasfate\nKrezio: https://www.twitch.tv/Krezio\nMidbeastlol: https://www.twitch.tv/Midbeastlol\nPantsAreDragon: https://www.twitch.tv/PantsAreDragon\n\n\nFootage used in this video is protected by the Fair Use Law, section 107 used for commentary, criticism, news reporting or education for transformative use.\nhttps://www.copyright.gov/fair-use/more-info.html\nMy channel is focused on giving the best and unique moments of your favorite players. I put a lot of effort into making these videos with a lot of unique edits and personality effects on my videos. I got permissions for the content that I use and I alter them for fair use purpose and it also falls under the \"news reporting\" flag which is also considered as fair use!",
+        "videoId": "T4B1h8dZsSo",
+        "preview": "https://i.ytimg.com/vi/T4B1h8dZsSo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-03-13T22:11:16Z",
+        "title": "S8 COACHING GOLD II ELO - SWAIN MID - Leauge of Legends",
+        "description": "Coaching Review for Le Lightside, Ranked: Gold II. LoL Coaching Tips and tricks on how to play Swain mid in this match up against Viktor!\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nS8 Coaching Gold IV ELO - Bard Support - League of Legends\n\nhttps://www.youtube.com/watch?v=no9nFLHvnes\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "vCoW6uFgRFc",
+        "preview": "https://i.ytimg.com/vi/vCoW6uFgRFc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-03-04T19:41:20Z",
+        "title": "HOW TO MAKE ENEMY JUNGLE RAGEQUIT | AP EZREAL JUNGLE IS LEGENDARY | 200 IQ IDEA | NO COUNTER 1-SHOT",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\nPreviously: THE LEGENDARY PIRATE KING IS BACK ► https://youtu.be/dKYHMksKrts ◄\n\n🔷 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! 🔷\n\n►ALL of my newest League of Legends videos - https://www.youtube.com/playlist?list=PLEgNqLmZpLuK-kJyEPi8cM_uBhJqrUi0-\n\nFollow me here for more content and daily updates 😊\nLive stream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/OTyKLONPzFQ\n►Thumbnail Art: http://bit.ly/2FfdtBC",
+        "videoId": "F9vT5be_tW8",
+        "preview": "https://i.ytimg.com/vi/F9vT5be_tW8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-02-25T16:05:24Z",
+        "title": "8 New OP Builds and Champions in Korea Patch 8.4 SO FAR (League of Legends)",
+        "description": "8.4 was a big patch so let's see what Korea are using so far!\nWhat have you noticed working a lot better?\n\n♦ Follow me on Instagram → https://www.instagram.com/phygaming/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChampions\n-Volibear\n-Cassiopeia\n-Jinx\n-Ekko\n-Darius\n-Brand support (mid a little)\n-Rek'Sai\n-Viktor\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n8 New OP Builds and Champions in Korea Patch 8.4 SO FAR (League of Legends)",
+        "videoId": "rw5aKZhszxc",
+        "preview": "https://i.ytimg.com/vi/rw5aKZhszxc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-02-25T11:52:28Z",
+        "title": "THE BEST JUNGLER EVER CREATED | NEW KAI'SA JUNGLE SPOTLIGHT (1v9 FULL AD KAI'SA JUNGLE) - Nightblue3",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you! \n\nPreviously: WHAT IS THIS DAMAGE ?? FULL AP VARUS ► https://youtu.be/P8jcAtcJz0Y ◄\n\n🔷 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! 🔷\n\n►ALL of my newest League of Legends videos - https://www.youtube.com/playlist?list=PLEgNqLmZpLuK-kJyEPi8cM_uBhJqrUi0-\n\nFollow me here for more content and daily updates 😊\nLive stream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/WB1YJjQuSms",
+        "videoId": "1GSYDdCbgSA",
+        "preview": "https://i.ytimg.com/vi/1GSYDdCbgSA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-02-12T15:03:11Z",
+        "title": "3.71 ATTACK SPEED TWITCH JUNGLE | HE GOT A 222 GAME CHAT RESTRICTION AFTER THIS ONE | NEVER GIVE UP",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\nPreviously: GLOBAL ULTS TEAM 2018 | MOST BROKEN ► https://youtu.be/YZPCUYnXCZQ ◄\n\n🔷 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! 🔷\n\n🌟 Watch me LIVE - http://bit.ly/1f6UNi2 🌟\n\n►ALL of my newest League of Legends videos - https://www.youtube.com/playlist?list=PLEgNqLmZpLuK-kJyEPi8cM_uBhJqrUi0-\n\nFollow me here for more content and daily updates 😊\nLive stream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/_Np_pWx98Oo",
+        "videoId": "xSW3iM7PSTU",
+        "preview": "https://i.ytimg.com/vi/xSW3iM7PSTU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-02-08T18:59:25Z",
+        "title": "New in Patch 8.3 - Big balance changes and new Swain! (League of Legends)",
+        "description": "Still ill but I really wanted to get this video out and talk about some of the smaller buffs that will really make a difference (Kog'maw!)\nPatch notes = https://na.leagueoflegends.com/en/news/game-updates/patch/patch-83-notes\nRiot Swain video = https://www.youtube.com/watch?v=Utt-sd2FJNY\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nRunes first\nADC = 2:03\nMid = 3:27\nJungle = 5:53\nTop = 6:43\nSupport = no direct changes\nSwain = 7:11\n\nChanges (incase you'd rather read than listen to my dead voice!)\n-Unsealed Spellbook nerfed\n-Magical Footwear nerfed and moved to Tier 1\n-Perfect timing nerfed\n-Biscuits moved to Tier 2\nADC\n-Jhin buff\n-Kog nerf\n-Lucian buff\nMid\n-Azir nerf\n-Katarina nerf\n-Ryze nerf\n-Viktor buff\n-Zoe “nerf”\nJungle\n-Jarvan “nerf”\n-Master Yi buff\n-Sejuani nerf\nTop\n-Tryndamere buff\nSupport\n-No changes\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew in Patch 8.3 - Big balance changes and new Swain! (League of Legends)",
+        "videoId": "uT2J4qa8bz8",
+        "preview": "https://i.ytimg.com/vi/uT2J4qa8bz8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-02-04T11:56:29Z",
+        "title": "MEET MY CRAZY UNCLE JAMAL!! THE MOST TROLL GAME EVER | I MAKE CHALLENGERS LOOK BRONZE SKARNER JUNGLE",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\nPreviously: 1v9 MAX ATTACK LETHAL TEMPO TEEMO ► https://youtu.be/ng52MPtniH4 ◄\n\n🔷 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! 🔷\n\n🌟 Watch me LIVE - http://bit.ly/1f6UNi2 🌟\n\n►ALL of my newest League of Legends videos - https://www.youtube.com/playlist?list=PLEgNqLmZpLuK-kJyEPi8cM_uBhJqrUi0-\n\nFollow me here for more content and daily updates 😊\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/Lz49d94NLzc\n►Thumbnail Art: http://bit.ly/2E1Q95w",
+        "videoId": "nTLr9aLAhT0",
+        "preview": "https://i.ytimg.com/vi/nTLr9aLAhT0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-28T20:49:04Z",
+        "title": "WHAT IS THIS DAMAGE ?? NEW FULL AP INFERNAL DIANA JUNGLE IS INSANE!! CRAZY 1-SHOT ASSASSIN BUILD",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\nPreviously: THE BEST JUNGLER EVER?! NEW SWAIN ► https://youtu.be/iYC6Gz0cEG8 ◄\n\n🔷 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos! 🔷\n\n🌟 Watch me LIVE - http://bit.ly/1f6UNi2 🌟\n\n►ALL of my newest League of Legends videos - https://www.youtube.com/playlist?list=PLEgNqLmZpLuK-kJyEPi8cM_uBhJqrUi0-\n\nFollow me here for more content and daily updates 😊\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/ZEUYEpEp7SA",
+        "videoId": "s1F-9JEZbq0",
+        "preview": "https://i.ytimg.com/vi/s1F-9JEZbq0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-21T09:00:09Z",
+        "title": "WHAT IS THIS DAMAGE ?? ASSASSIN JAYCE JUNGLE IS INSANE | CRAZY BUILD | 1-SHOT SLAM JAM - Nightblue3",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\n LIKE, COMMENT, SUBSCRIBE TO HELP A WEEB OUT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n► THE CRAZIEST 1-SHOT EVER | FULL AP PANTHEON IS ACTUALLY SO BROKEN | SHE QUIT THE GAME AFTER THIS ONE https://youtu.be/qZtHjWhQsNc  \n► HOW IS THIS ACTUALLY OP?? NEW IN-GAME CROWN | NEVER GIVE UP | LISSANDRA JUNGLE (25 KıLLS) https://youtu.be/fbsdT1KXZwE\n\n🔶 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos 🔶\n\n🌟 FOLLOW ME HERE ►► http://bit.ly/1f6UNi2 ◄◄ FOR LIVE CONTENT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 🌟\n\nFollow me here for more content and daily updates 😊\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Edited by: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts\n►Outro song: https://youtu.be/DqPo-9b-NJY",
+        "videoId": "xSs-H3BDIJw",
+        "preview": "https://i.ytimg.com/vi/xSs-H3BDIJw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-14T02:22:49Z",
+        "title": "TAHM KENCH JUNGLE IS ACTUALLY BROKEN!! NEW META CRIT BUILD | IS THERE ANY COUNTERPLAY?! - Nightblue3",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\n LIKE, COMMENT, SUBSCRIBE TO HELP A WEEB OUT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n► 1000+ AP NEW LUNAR EMPRESS LUX JUNGLE | CRAZY DOUBLE 1-SHOT | MOST INSANE JUKE | FUNNY HIGHLIGHTS https://youtu.be/cPCebieEaAg\n► NEW META LUCIAN JUNGLE IS THE FUTURE | HOW DOES RIOT ALLOW THAT?! TEAM IS ACTUALLY WINTRADING https://youtu.be/pyn5cOO9P60\n\n🔶 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos 🔶\n\n🌟 FOLLOW ME HERE ►► http://bit.ly/1f6UNi2 ◄◄ FOR LIVE CONTENT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 🌟\n\nFollow me here for more content and daily updates 😊\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Editor: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts\n►Outro song: https://youtu.be/eHGlbaWdc9c\n►Thumbnail Art: http://bit.ly/2FA0iri",
+        "videoId": "C-J_7rUuRZw",
+        "preview": "https://i.ytimg.com/vi/C-J_7rUuRZw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-08T02:27:12Z",
+        "title": "I DO A MAGIC TRICK | THE LEGENDARY ONE AUTO KILL!! MOST BROKEN 1-SH0T EVER | NEW BUILD KAYN JUNGLE",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\n To support the channel be sure to leave a \"Like/Comment,\" share with a friend, and SUBSCRIBE! Thank you so much everyone 💙\n\n► I LITERALLY DID THIS ON ACCIDENT !! THE MOST INSANE HEIMERDINGER JUNGLE | NEW META LEAGUE OF LEGENDS https://youtu.be/Ia-6-41GGs4\n► KINDRED JUNGLE IS BACK BABY!! THE MOST UNREAL SAVE | NEW CLEAR | INSANE DAMAGE - LEAGUE OF LEGENDS https://youtu.be/y-xi8gdyYE4\n\n🔶 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos 🔶\n\n🌟 FOLLOW MY STREAM HERE ►► http://bit.ly/1f6UNi2 ◄◄ FOR LIVE CONTENT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 🌟\n\nFollow me here for more content and daily updates 😊\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Editor: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts\n►Outro song: https://youtu.be/WqZCQcNIVOI\n►Thumbnail Art: http://bit.ly/2Cmx3u4",
+        "videoId": "RwqOW1O2IuY",
+        "preview": "https://i.ytimg.com/vi/RwqOW1O2IuY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-27T01:31:46Z",
+        "title": "NEW AMBITIOUS ELF JINX JUNGLE SPOTLIGHT | 4.00 ATTACK SPEED LETHAL TEMPO | FaZe SNIPER?! Nightblue3",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\n LIKE, COMMENT, SUBSCRIBE TO HELP A WEEB OUT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n► $300 SKIN!! 1 VERSUS 5 PENTAKILL | NEW HEXTECH KOG'MAW JUNGLE SPOTLIGHT | 3.78 ATTACK https://youtu.be/3rCT2sFYTSo\n► NEW LETHAL TEMPO TWISTED FATE JUNGLE | 3.05 ATTACK SPEED 100% CRIT | THE DAMAGE IS INSANE https://youtu.be/G708C7wN80o\n\n🌟 To see future video content LIVE you can follow my stream here: http://bit.ly/1f6UNi2 🌟\n\n🔶 SUBSCRIBE to the channel for more videos: http://bit.ly/1J0L3TS 🔶\n🎵 CHECK OUT OUR NEW MUSIC UPLOAD ^‿^ https://youtu.be/XtPh9ByRupY 🎵\n\nFollow me here for more content and daily updates (✿ ◕‿◕)\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Editor: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/XtPh9ByRupY",
+        "videoId": "cvmDfrv3BFU",
+        "preview": "https://i.ytimg.com/vi/cvmDfrv3BFU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-20T21:06:21Z",
+        "title": "NEW DARK HARVEST KAYN JUNGLE IS BROKEN | THE MOST EMBARRASSING CLIP | WILL 100% BE NERFED Nightblue3",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\n LIKE, COMMENT, SUBSCRIBE TO HELP A WEEB OUT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n► 1000 AD NEW PROJECT: JHIN JUNGLE SPOTLIGHT | THE LEGENDARY 1 SHOT |HOW IS THIS POSSIBLE?! https://youtu.be/SCOUkCUQbOs\n► THE MOST BROKEN VIDEO I'VE EVER DONE | PENTAKILL RAGE | NEW 100% CRIT VICTORIOUS GRAVES https://youtu.be/9xdHPxAGBLc\n\n🌟 To see future video content LIVE you can follow my stream here: http://bit.ly/1f6UNi2 🌟\n\n🔶 SUBSCRIBE to the channel for more videos: http://bit.ly/1J0L3TS 🔶\n🎵 CHECK OUT OUR NEW MUSIC UPLOAD ^‿^ https://youtu.be/AU7_jSfIuu0 🎵\n\nFollow me here for more content and daily updates (✿ ◕‿◕)\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Editor: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/AU7_jSfIuu0",
+        "videoId": "jAef5Bv8di8",
+        "preview": "https://i.ytimg.com/vi/jAef5Bv8di8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-14T01:16:34Z",
+        "title": "1000+ AP THE BEST JUNGLER EVER CREATED | NEW ZOE JUNGLE SPOTLIGHT | WHAT IS THIS DAMAGE?? Nightblue3",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\n LIKE, COMMENT, SUBSCRIBE TO HELP A WEEB OUT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n► NEW LANCER PARAGON BLITZCRANK JUNGLE SPOTLIGHT (ASSASSIN) | HOW IS THIS ACTUALLY OP??  https://youtu.be/FXpvLgrTjAQ\n► THIS WILL 100% BE NERFED!! 55% CDR | 54 kilIs | THE SALTIEST JHIN VS NEW RENGAR JUNGLE - https://youtu.be/zUEy0kWbzis\n\n🌟 To see future video content LIVE you can follow my stream here: http://bit.ly/1f6UNi2 🌟\n\n🔶 SUBSCRIBE to the channel for more videos: http://bit.ly/1J0L3TS 🔶\n🎵 CHECK OUT OUR NEW MUSIC UPLOAD ^‿^ https://youtu.be/miQnXFUzqk4 🎵\n\nFollow me here for more content and daily updates (✿ ◕‿◕)\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Editor: https://twitter.com/viktorptacek\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/CVc8Rub6oVA",
+        "videoId": "bt8po2zJP2g",
+        "preview": "https://i.ytimg.com/vi/bt8po2zJP2g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-11T01:59:51Z",
+        "title": "[Season 8] Runes For ALL Champions (500+ Rune Pages)",
+        "description": "Huge thanks to all of the pro players and challengers who helped in the discussion leading to the creation of these pages. Some pages on the rune video might have errors / extra pages (alternatives) missing, this was an oversight due to the amount of time it took sorry. \nTimestamps: \n\n00:00 Aatrox\n00:05 Ahri\n00:17 Akali\n00:21 Alistar\n00:33 Amumu\n00:42 Anivia\n00:49 Annie\n00:56 Ashe\n01:01 Aurelion\n01:12 Azir\n01:17 Bard\n01:36 Blitzcrank\n01:45 Braum\n01:50 Brand\n02:04 Caitlyn\n02:09 Camille\n02:18 Cassio\n02:23 Cho'Gath\n02:33 Corki\n02:37 Darius\n02:55 Diana\n03:07 Draven\n03:12 Dr.Mundo\n03:28 Ekko\n03:51 Elise\n03:54 Evelynn\n03:56 Ezreal\n04:05 Fiddlesticks\n04:12 Fiora\n04:17 Fizz\n04:24 Galio\n04:29 Gangplank\n04:43 Garen\n04:50 Gnar\n04:52 Gragas\n05:04 Graves\n05:06 Hecarim\n05:11 Heimerdinger\n05:20 Illaoi\n05:39 Irelia\n05:55 Ivern\n06:11 Janna\n06:25 Jarvan\n06:35 Jax\n06:51 Jayce\n06:56 Jhin\n07:03 Jinx - Slight error, Press the Attack not comet tree is hers. Comet is Jhin's+Press the Attack\n07:06 Kalista\n07:08 Karma\n07:31 Karthus\n07:33 Kassadin\n07:52 Katarina\n08:01 Kayle\n08:03 Kayn\n08:13 Kennen\n08:17 Kha'Zix\n08:22 Kindred\n08:27 Kled\n08:31 Kog'Maw\n08:36 Leblanc\n08:48 Lee Sin\n08:54 Leona\n09:04 Lissandra\n09:11 Lucian\n09:16 Lulu\n09:34 Lux\n09:46 Malphite\n09:52 Malzahar\n10:00 Maokai\n10:03 Master Yi\n10:12 Miss Fortune\n10:23 Mordekaiser\n10:28 Morgana\n10:33 Nami\n10:44 Nasus\n11:03 Nautilus\n11:12 Nidalee\n11:15 Nocturne\n11:40 Nunu\n11:55 Olaf\n12:06 Orianna\n12:18 Ornn\n12:23 Pantheon\n12:30 Poppy\n12:36 Quinn\n12:39 Rakan\n12:44 Rammus\n12:50 Reksai\n12:55 Renekton\n13:07 Rengar\n13:16 Riven\n13:30 Rumble\n13:33 Ryze\n13:35 Sejuani\n13:39 Shaco\n13:49 Shen\n13:53 Shyvana\n14:00 Singed\n14:22 Sion\n14:26 Sivir\n14:29 Skarner\n14:35 Sona\n14:50 Soraka\n15:03 Swain\n15:09 Syndra\n15:13 Tahm\n15:29 Taliyah\n15:38 Talon\n15:43 Taric\n15:48 Teemo\n15:59 Twisted Fate\n16:11 Thresh\n16:13 Tristana\n16:18 Trundle\n16:32 Tryndamere\n16:34 Twitch\n16:39 Udyr\n16:46 Urgot\n16:49 Varus\n16:53 Vayne\n16:56 Veigar\n17:05 Vel'Koz\n17:16 Vi\n17:26 Viktor\n17:40 Vladimir\n17:45 Volibear\n17:54 Warwick\n18:06 Wukong\n18:17 Xayah\n18:20 Xerath\n18:31 Xin Zhao\n18:38 Yasuo\n18:48 Yorick\n18:55 Zac\n19:04 Zed\n19:09 Ziggs\n19:15 Zilean\n19:27 Zoe\n19:32 Zyra\n\nPLEASE NOTE :\n\nThe outlined but gray icon in the primary tree means that it is a possible alternative, although the colored path is preferred. In the secondary tree the outline stands for alternatives aswell, but it also shows what you can actually swap out and what is mandatory.\n\nAll of the rune pages that are seen in this video are not only created through my own thoughts, but dozens of pro and high elo players were involved in coming to conclusions when doing these rune pages.\n\nHuge shout-outs to everyone who participated in working on these.\n\nBGM : https://www.youtube.com/watch?v=_rbVt0z6NLM",
+        "videoId": "X6uxG09qN0s",
+        "preview": "https://i.ytimg.com/vi/X6uxG09qN0s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-25T04:15:03Z",
+        "title": "Patch 7.21 Rundown - The jungle boy in shurima who stole ardent from the crab.",
+        "description": "In this patch we get to see Jungle ekko probably become viable again, which is a nice change as we've missed him in other roles. Urgot gets a really nice buff and it might propel him into being useful. Galio changes are all okay as it just means he itemizes differently and he'll be fine. Buy the Viktor skin (not paid by riot).\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Coaching is not available at this time\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "AUdgTgVqVII",
+        "preview": "https://i.ytimg.com/vi/AUdgTgVqVII/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-23T19:38:33Z",
+        "title": "Death Sworn Viktor Skin Spotlight - League of Legends",
+        "description": "League of Legends Death Sworn Viktor Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Viktor on their Death Sworn Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "fNfkboNX3ro",
+        "preview": "https://i.ytimg.com/vi/fNfkboNX3ro/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-17T13:00:09Z",
+        "title": "NEACE: VIKTOR MID COACHING 84, DIAMOND, APPLY MORE PRESSURE ON YOUR LANE TO WIN MORE GAMES",
+        "description": "Viktor diamond coaching! In this coaching there were some good roams and picks made by the viktor, we go onto discuss how to maintain more pressure on the lane to open up more roaming and pick potential. Enjoy! -- Watch live at https://www.twitch.tv/neace",
+        "videoId": "n0FpJPaesVg",
+        "preview": "https://i.ytimg.com/vi/n0FpJPaesVg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-10T19:00:03Z",
+        "title": "Death Sworn Viktor Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Death Sworn Viktor with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 1350RP\n\nSkin name is CONFIRMED as Death Sworn Viktor, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "tMTt8W5wDMs",
+        "preview": "https://i.ytimg.com/vi/tMTt8W5wDMs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-09-12T23:20:49Z",
+        "title": "IT WAS THE ULTI FOR THE AGES! COME WATCH THE TOP D DUOS! VIKTOR KENNEN BOT LANE - LEAGUE OF LEGENDS",
+        "description": "Weekly Top Donator duo game with oZown featuring Viktor and Kennen in bot lane! This is part of a new series where our top donator on stream (weekly and monthly) gets to play a duo game with me, Hanjaro. Fun picks are highly encouraged, make it as silly as you want! \n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nTOO MANY BALLS DEEP! TARIC + QUINN GOING BALLS DEEP! - LEAGUE OF LEGENDS:\nhttps://www.youtube.com/watch?v=r4DGHFA2INs\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: Nitro Fun - Home [Monstercat Release] \n- Track link:  https://www.youtube.com/watch?v=upukkyTWwoQun",
+        "videoId": "8ytSus3iEPA",
+        "preview": "https://i.ytimg.com/vi/8ytSus3iEPA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "synotik",
+        "displayName": "Synotik",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx0CSwmaKYz6t-OggX_gDTI1TCpKYjxrqn-U-FoQQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-06-10T11:00:03Z",
+        "title": "DELETE Montage [Vol.2] - Unbelievable BURSTS 2016 - 2017 | League Of Legends Montage",
+        "description": "DELETE Montage [Vol.2] - Unbelievable BURSTS 2016 - 2017\nft. Kalista, Viktor, Rengar, Syndra, Zed, Zyra, Talon And More!\n►MAKE SURE TO LEAVE A \"LIKE\" IF YOU ENJOYED THE VIDEO ^-^\n\n➥ Send me your plays, outplays or fails → SynotikLoL@gmail.com\n---------------------------------------------------------------------------------------------------\n➢ CREDITS: (Special THANKS to all who send me their plays ❤)\n\nLeague of Legends\nhttps://www.youtube.com/user/RiotGamesInc\n\nLoL Esports\nhttps://www.youtube.com/user/LoLChampSeries\n\nTekuMeku\nhttp://plays.tv/video/58cd78f3f0545583d6/gangplank-pls-gangplank-barrels-oneshot\n\nMue mme\nhttps://www.youtube.com/watch?v=zAzw4aoRiLY\n\nDoubleLift\nhttps://www.youtube.com/channel/UCrPCP1oaOr0AEs2JdxzfOFA\n\nBjergsen\nhttps://www.twitch.tv/tsm_bjergsen\n\nSneaky:\nhttps://www.youtube.com/channel/UCXEYKr8jSDw9urOPR917LOQ\n\nImaqtpie\nhttps://www.youtube.com/user/killertoast949\n\nAphromoo\nhttps://www.twitch.tv/aphromoo\n\nNightblue3\nhttps://www.twitch.tv/nightblue3\n\nMeteos\nhttps://www.twitch.tv/meteos\n\nScarra\nhttps://www.twitch.tv/scarra\n\n\n➢ Songs:\n\nT & Sugah - Sleepless (feat. MVE)\n\nFluex - Wings To Fly\n\nUmpire - Collins Ave.\n\n\n---------------------------------------------------------------------------------------------------\n✔️ FOLLOW ME ON SOCIAL MEDIA:\n● Twitter: https://twitter.com/iSynotik\n● Twitch: http://www.twitch.tv/iSynotik\n● Facebook: https://www.facebook.com/SynotikLoL\n----------------------------------------­­---------------------------------------­--------------------\n✖ If I forgot your credit only just leave a comment! Or send me a email! [Contact@Synotik.Com]",
+        "videoId": "L6WjPZtfsTA",
+        "preview": "https://i.ytimg.com/vi/L6WjPZtfsTA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-03T13:00:00Z",
+        "title": "S7 LoL Coaching #31 - Jayce Mid vs. Viktor (Silver 2)",
+        "description": "Neace coaches a Silver 2 Jayce player on how to transition a lane lead into winning a game.\n\nSeason 7 LoL Coaching is Back!  http://www.twitch.tv/neace\n\n$30 Replay Reviews\n$40 Duo Game (Neace plays with you and coaches you live)\n$50 Live Spectate (Neace watches and coaches you live)\n$100 1 Hour Private Coaching\n\nFor more details, come to stream http://www.twitch.tv/neace\n\nAlso, be sure to follow:\n►TWITTER: https://twitter.com/neacetweets\n►FACEBOOK: https://www.facebook.com/neaceofficial\n►MY LIVESTREAM: http://www.twitch.tv/neace\n►DISCORD: http://discord.gg/neace\n►PATREON: https://www.patreon.com/neace\n\nTelestrator: http://epic-pen.com/\n\nProduction: Phreo\n\nBroadcasted live on Twitch -- Watch live at https://www.twitch.tv/neace",
+        "videoId": "ADyxzv7cf_4",
+        "preview": "https://i.ytimg.com/vi/ADyxzv7cf_4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-02-23T05:27:58Z",
+        "title": "Recalls - Champion Updates | All Champions who didn't have recalls now do!",
+        "description": "List and timestamps below! All old champions which haven't had recalls now have them, 74 bases, 351 skins will now have recalls.  This video will show all the base champions which have been changed.\n\nMore information Here:\nhttp://boards.na.leagueoflegends.com/en/c/story-art/IngzHFRs-adding-simple-recalls-to-older-champs\n\nFull List of Champions and what animations they use for the recall:\nhttp://boards.pbe.leagueoflegends.com/en/c/champions-gameplay-feedback/AOE2y1J5-adding-simple-recalls-soon-on-pbe\n\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nTime Stamps:\nAhri - 00:04\nAkali - 00:14\nAlistar - 00:26\nAmumu - 00:37\nAnivia - 00:47\nAshe - 00:57\nBlitzcrank - 01:07\nBrand - 01:18\nCaitlyn - 01:28\nCassiopeia - 01:40\nCho'Gath - 01:50\nCorki - 02:00\nDr. Mundo - 02:11\nEvelynn - 02:21\nEzreal - 02:31\nFiddlesticks - 02:41\nFiora - 02:52\nFizz - 03:01\nGalio - 03:12\nGragas - 03:22\nGraves - 03:32\nHecarim - 03:43\nIrelia - 03:53\nJanna - 04:03\nJarvan IV - 04:13\nJax - 04:25\nKassadin - 04:35\nKayle - 04:45\nKennen - 04:56\nKog'Maw - 05:06\nLeblanc - 05:16\nLee Sin - 05:27\nLeona - 05:37\nLulu - 05:48\nLux - 05:59\nMalphite - 06:09\nMalzahar - 06:18\nMaokai - 06:28\nMiss Fortune - 06:41\nMordekaiser - 06:50\nMorgana - 07:00\nNautilus - 07:10\nNocturne - 07:20\nNunu - 07:32\nOlaf - 07:42\nOrianna - 07:53\nPantheon - 08:02\nRammus - 08:11\nRenekton - 08:21\nRiven - 08:30\nRumble - 08:40\nShaco - 08:50\nShen - 09:00\nShyvana - 09:08\nSinged - 09:29\nSkarner - 09:39\nSona - 09:48\nSwain - 09:57\nTalon - 10:07\nTeemo - 10:16\nTryndamere - 10:25\nUdyr - 10:35\nUrgot - 10:44\nVarus - 10:54\nVayne - 11:03\nVeigar - 11:12\nViktor - 11:21\nVladimir - 11:32\nVolibear - 11:42\nWukong - 11:51\nXerath - 12:00\nXin Zhao - 12:09\nZiggs - 12:20\nZilean - 12:30\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "zhUAc86A_uE",
+        "preview": "https://i.ytimg.com/vi/zhUAc86A_uE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-01-04T19:00:03Z",
+        "title": "NEW META: AP ADC BOT LANE | Ziggs + Viktor?? - League of Legends",
+        "description": "A New Meta In League of Legends Is Here, AP ADC Bot, Playing Mages In The ADC/Marksman Role!! 'Like' if you enjoyed & want MORE _�ժ\n���Best Of Redmercy 2016: http://bit.ly/2iChOQR\n���Subscribe For More!: http://full.sc/1gukNqq ���My OVERWATCH Channel: http://bit.ly/1EAvIuW\n\nFollow me here!\n���My Stream: http://twitch.tv/redmercylol\n���My Twitter: http://twitter.com/RedmercyLoL\n���Facebook: https://www.facebook.com/RedmercyLoL\n���My Instagram: http://instagram.com/redmercylol\n���My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nRedmercy Merchandising Now Available!\n���Redmercy Store: http://tinyurl.com/qb3zjdc\n\nAll music from Monstercat:\nhttps://www.youtube.com/user/MonstercatMedia\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "nY8shu90dIc",
+        "preview": "https://i.ytimg.com/vi/nY8shu90dIc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-20T23:30:00Z",
+        "title": "Preseason 7 LoL Coaching #28 - LeBlanc Mid (S6 Gold)",
+        "description": "We got that new Leblanc vs. Viktor in the mid lane.  n3ac3y focuses on having a plan, confidence, and how to snowball an assassin and the game.\n\nFF@20$ Replay Reviews on http://twitch.tv/n3ac3y\nUse http://op.gg or http://replay.gg to record your games.   Come in, have a replay ready to review, donate 20$, and get your gameplay reviewed live on stream on Mondays. $50 on demand.\n\nAlso, be sure to follow:\n►TWITTER: https://twitter.com/n3ac3y\n►FACEBOOK: https://www.facebook.com/bingegaming.tv\n►MY LIVESTREAM: http://www.twitch.tv/n3ac3y\n►DISCORD: http://discord.gg/n3ac3y\n►PATREON: https://www.patreon.com/n3ac3y\n►OP.GG: http://goo.gl/43igza\n►LOLKING:   http://www.lolking.net/summoner/na/54794681\n\nTelestrator: http://epic-pen.com/\nRender: http://aliceemad.deviantart.com/art/Prestigious-LeBlanc-Render-League-of-Legends-622958650\nProduction: Phreo -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "QwhdKr5eB9s",
+        "preview": "https://i.ytimg.com/vi/QwhdKr5eB9s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-11T21:00:00Z",
+        "title": "Preseason 7 LoL Coaching #19 - Viktor Mid (S6 Diamond)",
+        "description": "Viktor mid vs. Ziggs.  n3ac3y focuses on the ideas of controlling the game, transitioning a lead into mid/late game, and playing within your champion/role.\n\nFF@20$ Replay Reviews on http://twitch.tv/n3ac3y    Use http://op.gg or http://replay.gg to record your games.   Come in, have a replay ready to review, donate 20$, and get your gameplay reviewed live on stream on Mondays. $50 on demand.\n\nAlso, be sure to follow:\n►TWITTER: https://twitter.com/n3ac3y\n►FACEBOOK: https://www.facebook.com/bingegaming.tv\n►MY LIVESTREAM: http://www.twitch.tv/n3ac3y\n►DISCORD: http://discord.gg/n3ac3y\n►PATREON: https://www.patreon.com/n3ac3y\n►OP.GG: http://goo.gl/43igza\n►LOLKING:   http://www.lolking.net/summoner/na/54794681\n\nTelestrator: http://epic-pen.com/\nRender: http://www.deviantart.com/morelikethis/610884576\nProducer: Phreo\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "0nXaF3hrVE4",
+        "preview": "https://i.ytimg.com/vi/0nXaF3hrVE4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-10T02:20:23Z",
+        "title": "The Viktor Controversy",
+        "description": "People aren't happy with how the Machine Herald's been portrayed in recent stories, and I talk about how Riot isn't actually in the wrong on this one. \n\nRead more GTL: https://grabthelantern.tumblr.com",
+        "videoId": "Ppt9nRlvR1Q",
+        "preview": "https://i.ytimg.com/vi/Ppt9nRlvR1Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-01T22:08:49Z",
+        "title": "Battlecast - 360 Video VR Experience",
+        "description": "Watch the rise and fall of Viktors Battlecast creations!\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nExperience League of Legends like never before in immersive 360 video and if you have a head mounted display experience it in VR!\n\nTwitter\nhttps://twitter.com/SkinSpotlights\n\nFacebook:\nhttps://www.facebook.com/Skinspotlights",
+        "videoId": "9Ft73eYRfro",
+        "preview": "https://i.ytimg.com/vi/9Ft73eYRfro/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-10T04:51:22Z",
+        "title": "[Season 7] Masteries For Almost All Champions",
+        "description": "Some masteries reflect personal viewpoints on the game and are aimed specifically at lane/control advantages and edges. This wasn't a planned video and also there are more variations to some champs than just what was shown as possibilities in this video.\nTIMESTAMPS: \n\nADC\n\n 00:00 Ashe\n00:04 Caitlyn\n00:10 Draven\n00:14 Ezreal\n00:19 Jhin\n00:25 Jinx\n00:29 Varus\n00:35 Vayne\n00:38 Kalista\n00:42 Tristana\n00:47 Twitch \n\nSupport\n00:50 Taric\n00:55 Thresh\n01:00 Zyra\n01:05 Braum\n01:10 Leona\n01:15 Nami\n01:19 Nautilus(top error)\n01:23 Soraka \n01:27 Karma\n01:32 Tahm Kench\n\nMid\n\n01:37 Ahri\n01:42 Annie\n01:47 Ekko\n01:50 Aurelion Sol\n01:55 Brand\n02:00 Cassiopeia\n02:04 Fizz\n02:10 Jhin\n02:XX Karthus RENDER ERROR 18/12/0\n02:14 Kassadin RENDER ERROR 12/18/0 TLD/DG/Feast\n02:19 Katarina\n02:23 Leblanc\n02:27 Lissandra\n02:32 Lux\n02:38 Malzahar\n02:41 Orianna\n02:46 Pantheon\n02:51 Ryze\n02:55 Syndra\n03:00 Talon\n03:05 Twisted Fate\n03:10 Varus\n03:14 Vel'Koz\n03:18 Viktor\n03:23 Vladimir\n03:28 Zed\n03:32 Zilean\n\nJungle\n\n03:37 Amumu\n03:42 Elise\n03:47 Evelynn\n03:50 0/18/12 render bug\n03:55 Ivern\n04:01 Jarvan 4\n04:05 Kha'Zix\n04:10 Kindred\n04:14 LeeSin \n04:18 Nautilus shared top\n04:23 Nidalee\n04:27 Nunu TWO pages\n04:36 Pantheon\n04:40 Rammus\n04:45 Rek'Sai\n04:50 Sejuani\n04:55 Shaco\n05:00 Skarner\n05:04 Vi\n05:09 Zac\n\nTop:\n\n05:13 Ekko\n05:18 Gangplank\n05:23 Darius AD\n05:27 Mundo\n05:32 Fiora\n05:36 Fizz\n05:42 Jax\n05:46 Jayce\n05:50 Kennen\n05:55 Lissandra\n06:00 Malphite\n06:05 Maokai\n06:09 Mordekaiser TWO pages\n06:17 Nasus\n06:22 Nautilus\n06:27 Pantheon\n06:31 Poppy\n06:36 Renekton\n06:40 Riven\n06:45 Rumble\n06:50 Ryze\n06:55 Swain\n07:00 Tahm Kench\n07:05 Akali\n07:10 Karma Tank\n07:12 Colo renekton\n07:17 Colo darius\n07:22 Colo Irelia\n07:26 God\n07:30 Trundle\n07:35 Tryndamere\n\nPlease note that not all champions were done, as this took a while answering questions on stream and then I decided to turn it into a video. If you have some questions on specific champions then feel free to comment below and I can probably post an imgur screenshot of their masteries or something. SOME MASTERIES SEEN HERE do somewhat reflect personal view/emphasis on lane+game advantage/edges. Thanks for watching\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "u1koHz0Et4A",
+        "preview": "https://i.ytimg.com/vi/u1koHz0Et4A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-09-29T02:51:07Z",
+        "title": "Masters Coaching #44 - Twisted Fate Mid (Silver 4)",
+        "description": "Twisted Fate Mid vs. Viktor - new haircut, pushing, ults, and more.\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n►LOLKING:   http://www.lolking.net/summoner/na/25...\r\n -- Watch live at https://www.twitch.tv/n3ac3y -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "OE1Ht23vQyI",
+        "preview": "https://i.ytimg.com/vi/OE1Ht23vQyI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-09-23T13:02:12Z",
+        "title": "Masters Coaching #33 - Viktor Mid (Bronze 1)",
+        "description": "A bronze Viktor mid, let's see if we can help our homie out here!\r\n\r\nFF@20$ Replay Reviews on twitch.tv/n3ac3y\r\ncome in, have a replay ready to review, donate 20$ and get your gameplay reviewed live on stream.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER:   https://twitter.com/n3ac3y\r\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\r\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "ub9P3c6Fmx0",
+        "preview": "https://i.ytimg.com/vi/ub9P3c6Fmx0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "synotik",
+        "displayName": "Synotik",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx0CSwmaKYz6t-OggX_gDTI1TCpKYjxrqn-U-FoQQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-08-11T13:00:01Z",
+        "title": "ONE-SHOT Montage - Insane One-Shots 2015 - 2016 | League Of Legends Montage",
+        "description": "ONE-SHOT Montage - Insane One-Shot 2015 - 2016 | LoL Montage\nFt. Rengar, Jarvan IV, Viktor, Rammus, Ekko, Jhin, Graves and more!\n\n►MAKE SURE TO LEAVE A \"LIKE\" IF YOU ENJOYED THE VIDEO ^-^\n➥ Help me reach to 100.000 subscribers: http://bit.ly/1NcoznP 💕\n➥ Submit your plays, outplays or fails to: Contact@Synotik.com\n---------------------------------------------------------------------------------------------------\n➢ CREDITS: (Special THANKS to all who send me their plays ❤)\n\nLoLEsports:\nhttps://www.youtube.com/user/LoLChampSeries\n\nCowsep:\nhttps://www.youtube.com/user/sepimnida\n\nImaqtpie\nhttps://www.youtube.com/user/killertoast949\n\nHi im Gosu:\nhttps://www.youtube.com/user/LeagueOfGosu\n\nSirhcEz:\nhttps://www.youtube.com/user/SirhcEz\n(Best Nasus player ever)\n\n➢ Song:\n\nExtan - Shades of Being\nRameses B - Neon Rainbow (feat. Anna Yvette)\n\n---------------------------------------------------------------------------------------------------\n● Twitter: https://twitter.com/iSynotik\n● Twitch: http://www.twitch.tv/iSynotik\n● Facebook: https://www.facebook.com/iSynotik\n----------------------------------------­­---------------------------------------­--------------------\n✖ If I forgot your credit only just leave a comment! Or send me a email! [Contact@Synotik.Com]",
+        "videoId": "0MX03kLe228",
+        "preview": "https://i.ytimg.com/vi/0MX03kLe228/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-08-08T18:20:10Z",
+        "title": "SONA/VIKTOR/IRELIA NERFS - STRONGEST CHAMPS IN 6.16? (League of Legends)",
+        "description": "The new patch is about to hit so let's go over the big nerfs and who I think is going to be the strongest in 6.16.\nDuskblade/Ghostblade maybe melee only? - https://youtu.be/NP8LF1dPQFI\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nPBE Changes - http://www.surrenderat20.net/p/current-pbe-balance-changes.html#balance\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nSONA/VIKTOR/IRELIA NERFS - STRONGEST CHAMPS IN 6.16? (League of Legends)",
+        "videoId": "OL6x3NpW1lA",
+        "preview": "https://i.ytimg.com/vi/OL6x3NpW1lA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-08-08T15:00:00Z",
+        "title": "6 BIG CHANGES & NEW OP CHAMPS - Patch 6.16 - League of Legends",
+        "description": "Biggest changes of Patch 6.16|Naut/Viktor/Sona still seem OP with Kled. League of Legends! \"Like\" if you want more!\n→My Secret Weapon: http://bit.ly/2aN87ds\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n\nSkinspotlight's SKT Azir Video: https://www.youtube.com/watch?v=mTjeKbQRMAM\n\nRiot's Kled Trailer: https://www.youtube.com/watch?v=Xw46WPuXMk0\n\nhttp://www.surrenderat20.net/p/616-pbe-cycle.html#balance\n\nFollow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n→Facebook: https://www.facebook.com/RedmercyLoL\n→My Instagram: http://instagram.com/redmercylol\n→My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nRedmercy Merchandising Now Available!\n→Redmercy Store: http://tinyurl.com/qb3zjdc\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "54ofBMuw5IM",
+        "preview": "https://i.ytimg.com/vi/54ofBMuw5IM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-08-08T07:39:01Z",
+        "title": "Apdo Viktor gameplay VOD review",
+        "description": ".Follow me:\r\nTwitter: http://twitter.com/LSXYZ9\r\nTwitch: http://twitch.tv/imls\r\nFacebook: http://facebook.com/nick.decesare.7\r\nStream: http://twitch.tv/imls\r\nInstagram: http://instagram.com/LSXYZ9\r\nCoaching Skype: Lsxyzcoaching\r\nBusiness E-mail: Nicholas.a.decesare at gmail dot com -- Watch live at https://www.twitch.tv/imls",
+        "videoId": "_cfAat-gq3A",
+        "preview": "https://i.ytimg.com/vi/_cfAat-gq3A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-07-25T21:28:14Z",
+        "title": "Patch 6.15 rundown",
+        "description": "Timestamps :\n\n00:00 Introduction\n00:18 Braum\n01:27 Corki\n02:22 Hecarim\n03:02 illaoi\n03:10 Jarvan IV\n04:05 Karma\n04:54 Kassadin\n06:39 Malzahar\n07:25 Nidalee\n09:05 Renekton\n10:08 Shen\n10:42 Shyvana\n11:18 Sona\n12:10 Taliyah\n12:37 Vayne\n13:00 Viktor\n13:27 Vladimir\n14:01 Zac\n14:10 Zyra\n14:43 Ardent Censer\n14:51 Mikael's Crucible\n15:03 Outer Turrets\n18:15 Siege Minions\n\nFollow me at the links below:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "TELVm84RP20",
+        "preview": "https://i.ytimg.com/vi/TELVm84RP20/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-05-05T18:59:05Z",
+        "title": "Patch 6.9 huge rundown (long)",
+        "description": "TIMESTAMPS:\n0:00 Vladimir\n5:37 Malzahar\n13:17 Cassiopeia\n19:06 Zyra\n23:34 Brand\n26:40 Vel'koz\n28:10 Anivia\n31:14 Annie\n36:45 Fiddlesticks\n39:11 Kennen\n40:40 Swain\n44:34 Syndra\n47:05 Veigar\n49:14 Viktor\n52:24 Xerath\n54:35 Ziggs\n56:17 Tear of the Goddess\n56:54 Catalyst of the Aeons\n58:08 Chalice of Harmony\n59:02 Lost Chapter\n59:48 Fiendish Codex\n1:00:24 Will of the Ancients\n1:00:28 Rod of Ages\n1:01:57 Morellonomicon\n1:03:11 Athene's Unholy Grail\n1:05:04 Mikael's Crucible\n1:05:55 Tear of the Goddess Upgrades\n1:06:25 Abyssal Sceptre\n1:09:19 Zhonya's Hourglass\n1:10:13 Hextech Items\n1:16:01 Elemental Dragons\n1:22:01 Rift Herald\n1:24:15 Baron Nashor \n1:24:20 Red and Blue Buffs\n1:26:03 Jungle Timers\n1:26:44 Turrets\n1:28:57 Death Timers\n1:29:17 Homeguard\n1:29:39 Azir\n1:30:16 Illaoi\n1:31:43 Kindred\n1:32:32 Mordekaiser\n1:32:41 Nidalee\n1:33:11 Rengar\n1:34:15 Soraka\n1:34:43 Taric\n1:35:30 Teemo\n1:36:50 Zac\n1:37:31 Guinsoo's Rageblade\n1:38:34 Enchantment: Bloodrazor\n1:38:54 Black Cleaver\n1:39:24 Spectre's Cowl\n1:39:41 Banshee's Veil\n1:40:37 Spirit Visage\n1:41:33 Guardian Angel\n1:42:15 QSS + Scimitar \n1:42:37 Bami's Cinder + Sunfire Cape\n1:42:54 Enchantment Cinderhulk \n1:43:32 Vision Ward + Farsight Alteration\n1:44:14 Righteous Glory\n1:45:00 Warmog's Armour\n1:45:39 Relic Shield\n1:46:36 Spellthief's Edge\n1:46:44 Grievous Wounds\n\nThis video is a huge rundown on patch 6.9, the midseason mage update. The length is mostly due to going over everything in full rather than just talking about my brief opinions on the patch which will come in a later video. The patch has only been out just over 50hrs for me and I only have around 60games in so far, so the next video will be more simple and condensed. Thanks for watching.\n\nThe only thing I'm uncomfortable with not having touched more on is Protobelt. While I still think often it'll be bad, it can be super good in very specific situations / on very specific champions, but the pathing to build it still might be awkward. I view it as a weird DFG, and thus I think if it's seen, it'll be on the old 'dfg' champs.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nbusiness e-mail: nicholas.a.decesare@gmail.com",
+        "videoId": "6ZaI55g1TY4",
+        "preview": "https://i.ytimg.com/vi/6ZaI55g1TY4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-04-19T22:36:05Z",
+        "title": "[Gameplay Commentary] Viktor - Master Korea",
+        "description": "Hey everyone, it's been a long time since I last did a commentary gameplay video. This game was played yesterday, April 19th, and it was the final game of master promotions. I felt like there was a lot of key things I could talk about it in and some people in twitch chat suggested I do something like this. I'm still a little rusty on Viktor but I had a lot of fun vs the Ekko player whoever he is and I hope you guys can learn some things.\n\nI'll probably aim to do more of these in the future. Thanks for watching.\n\n\n\nFollow me at the links below:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "O8SehUt1OjE",
+        "preview": "https://i.ytimg.com/vi/O8SehUt1OjE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-04-13T19:00:02Z",
+        "title": "7 CHAMPIONS THAT COULD EXIST ONE DAY in League of Legends",
+        "description": "Was messing around with new ideas, and came up with 7 champions That COULD EXIST One Day in League of Legends!\n➥ Thumbnail Art Source: http://trungth.deviantart.com/art/Dota-2-Templar-Assassin-loading-screen-503282084\n● Subscribe: http://bit.ly/1O7TtJh ►Overwatch Channel: http://bit.ly/1NvJ7qi\n\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\n\n►Outro Song: https://youtu.be/b36r3JWGxcI\n\nChiptune Background Music Tracks by Jredd: https://soundcloud.com/jredd\n\nAdditional Production (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\n►Video Clip Sources:\n\nHow to counter jungle with Syndra\nhttps://www.youtube.com/watch?v=IHxSdSY1gys\n\nTDK (Ninja Viktor) VS TSM (Bjergsen Ezreal) Highlights {EPIC} - 2015 NA LCS Summer W6D1\nhttps://www.youtube.com/watch?v=lhmgeGPfHY0\n\n✔ Video Credits:\n● Produced By: Jeremy GC\n● Written By: Jeremy GC\n● Edited By: Leon \"Xl3y\" -  League of Editing",
+        "videoId": "sTAHolPLhPs",
+        "preview": "https://i.ytimg.com/vi/sTAHolPLhPs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-03-30T20:52:08Z",
+        "title": "Animation canceling Viktors Q - 1/4th speed increase",
+        "description": "Hey everyone, credit for this technique goes to the Viktor player who I first saw do this. I've forgotten his name but I wouldn't have done this without having seen him do it. The technique is a little difficult to replicate but I think with enough practice anyone can do it. I also believe this can be done a hair faster than shown in the video.  \n\nHow to do it: Q - move command - AA - X within the time frame given\n\nFollow me at the links below:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "ePgAsicZsIY",
+        "preview": "https://i.ytimg.com/vi/ePgAsicZsIY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-03-13T19:10:18Z",
+        "title": "5 Lore Characters That Could Be Champions in League of Legends ft Necrit",
+        "description": "►Check out Necrit's Channel: http://bit.ly/1OXOk6C \n►►How Long Does it Take to Learn a Hard Champion? https://youtu.be/UBtyESrpbxo\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\n\n►Outro Song: https://youtu.be/b36r3JWGxcI\n\nChiptune Background Music Tracks by Jredd: https://soundcloud.com/jredd\n\nAdditional Production (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\n►Video Clip Sources:\n\nhttps://vimeo.com/100165674 Imaginary Forces - Swamp Murders\n\nhttps://www.youtube.com/watch?v=aQ0jeLhM7KA Spirit Guard Udyr Comic\n\nhttps://www.youtube.com/watch?v=CAAnY_L4Pp4 Aurelion Sol: The Star Forger Returns\n\nhttps://www.youtube.com/watch?v=B4-BgDEy2AE Mind of the Virtuoso\nSpirit Guard Udyr Comic: http://promo.leagueoflegends.com/en/spirit-guard-udyr/comic/\n\nRafen Images:\nhttps://lol.garena.ph/site/en/bilgewater/\nhttp://na.leagueoflegends.com/en/site/bilgewater/\nhttp://na.leagueoflegends.com/en/site/bilgewater/\n\nRafen Fan Art:\nhttp://www.deviantart.com/art/This-Zed-353657241\n\nTahm Kench Fan Art: \nhttps://twitter.com/ErinKays327/status/613555750401478656\n\nProject: Overdrive:\nhttps://www.youtube.com/watch?v=jB1XvMyEBNA\n\nZaun:\nhttp://leagueoflegends.wikia.com/wiki/Zaun\n\nBlitzcrank:\nhttp://sh4rkcc.deviantart.com/art/Zaun-Blitzcrank-580613363\n\nViktor:\nhttp://zirngibl.deviantart.com/art/Viktor-Fullmachine-Splash-277492494\n\nThe Ruined King:\nhttp://artcobain.deviantart.com/art/hero-181895650\n\nThe Shadow Isles:\nhttp://leagueoflegends.wikia.com/wiki/File:Shadow_Isles_landscape_2.jpg\n\npt2: https://www.youtube.com/watch?v=U_dZj0excoI\n\nMordekaiser:\nhttp://dismalfiction.deviantart.com/art/Mordekaiser-309337333\n\nGeneral Du Couteau:\nhttp://runescratch.tumblr.com/post/52452277495/more-general-du-couteau-stuff-i-think-this-is-his\n\nChinese Talon:\nhttp://leagueoflegends.wikia.com/wiki/Talon/SkinsTrivia\n\nCrimson Elite Talon:\nhttp://gameinfo.na.leagueoflegends.com/en/game-info/champions/talon/\n\n✔ Video Credits:\n● Produced By: Jeremy GC\n● Written By: Jeremy GC\n● Edited By: Ewcom",
+        "videoId": "sQIFphGVn7E",
+        "preview": "https://i.ytimg.com/vi/sQIFphGVn7E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-07T00:39:20Z",
+        "title": "[Coaching-Mid] Viktor Diamond IV",
+        "description": "Interested in being coached? Read here for more information: https://www.facebook.com/notes/nick-de-cesare/updated-coaching-and-availability-effective-july-25th-2015/713698675426250?pnref=story\n\nThis video features a live coaching session followed by a detailed VOD review after the game. A lot of Viktor's mechanics are addressed and some thought processes for mid lane. Also discussion about the players ping/issues with not using smartcast and how it's negatively impacting him.\n\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls",
+        "videoId": "bqUb4t2K6_Q",
+        "preview": "https://i.ytimg.com/vi/bqUb4t2K6_Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-07T00:39:20Z",
+        "title": "[Coaching-Mid] Viktor Diamond I",
+        "description": "Interested in being coached? Read here for more information: https://www.facebook.com/notes/nick-de-cesare/updated-coaching-and-availability-effective-july-25th-2015/713698675426250?pnref=story\n\nThis video features both live-coaching and a detailed VOD review at the end of the game. This is the second of two coaching sessions, the previous one being Ahri. The coaching sessions focus on decision making and mapmovement choices the player is having difficulty with. \n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls",
+        "videoId": "mU9n5Lxcljw",
+        "preview": "https://i.ytimg.com/vi/mU9n5Lxcljw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-07T00:39:20Z",
+        "title": "[Coaching-Mid] Ahri Diamond I",
+        "description": "Interested in being coached? Read here for more information: https://www.facebook.com/notes/nick-de-cesare/updated-coaching-and-availability-effective-july-25th-2015/713698675426250?pnref=story\n\nThis video features both live-coaching and a detailed VOD review at the end of the game. This is the first of two coaching sessions, the latter one being the Diamond I Viktor following this video. The coaching sessions focus on decision making and mapmovement choices the player is having difficulty with. \n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls",
+        "videoId": "QhbTvsNEAr8",
+        "preview": "https://i.ytimg.com/vi/QhbTvsNEAr8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-04T13:00:03Z",
+        "title": "Power Creep in League of Legends and What it Means for the Game and its Meta",
+        "description": "What do YOU think about power creep in LoL?\nAll clips in this video are credited lower in the description!\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\nStay connected at: https://www.facebook.com/GamingCurios\nFollow Me on Twitter: @GamingCurios\n\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Viktor/SkinsTrivia\n\nVideo Clip Sources:\n\nEkko Clip Source: https://www.youtube.com/watch?v=eWhNEbdkyF4\n\nAnivia/Viktor Clip Source: https://www.youtube.com/watch?v=zsleCC2Pz5Y\n\nAzir Clip Source: https://www.youtube.com/watch?v=by5kmWvyvfA\n\nWarwick Clip Source: https://www.youtube.com/watch?v=MhvylVzZxOU\n\nKalista Clip Source Part 1: https://www.youtube.com/watch?v=Zm_98NjwGyE\n\nAyy LMaokai Clip Source: https://www.youtube.com/watch?v=Gw8f-VqAcQo\n\nZed Clip Source Part 1: https://www.youtube.com/watch?v=W5nCMf_lSdE\n\nFNC vs OG Clip Source: https://www.youtube.com/watch?v=hZezP78yN_I\n\nKalista Source Part 2: https://www.youtube.com/watch?v=0HgGnQWcGvo\n\nUrgot Clip Source: https://www.youtube.com/watch?v=WW7rVvxFxI0\n\nZed Source Part 2: https://www.youtube.com/watch?v=o8vGaC4OZIs",
+        "videoId": "rGCLIiiPVgM",
+        "preview": "https://i.ytimg.com/vi/rGCLIiiPVgM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-17T05:35:04Z",
+        "title": "Reddit thread Viktor VOD Review (Masters/Diamond1)",
+        "description": "Interested in being coached? Read here for more information: \n\nhttps://www.facebook.com/notes/nick-de-cesare/updated-coaching-and-availability-effective-july-25th-2015/713698675426250?pnref=story\nThis VOD review is the captured gameplay ripped from the twitch which I failed to record at the time. We spend a lot of time going over everything inside of the game, to correcting misunderstandings, to reading and answering some of the reddit questions who were wrote to him etc. I understand the video is long, but it covers a ton of detail. Highly recommended.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls",
+        "videoId": "BTlFgp1Xi3A",
+        "preview": "https://i.ytimg.com/vi/BTlFgp1Xi3A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-16T02:10:14Z",
+        "title": "[Coaching-Mid] Viktor Masters/Diamond I",
+        "description": "Interested in being coached? Read here for more information: \n\nhttps://www.facebook.com/notes/nick-de-cesare/updated-coaching-and-availability-effective-july-25th-2015/713698675426250?pnref=story\nThis video is the second game of 2 live coaching sessions. The goal of the session is to find out why the player just can't seem to win and goes over how important a refinement of the basics is / foresight. Game one of the session featuring Vladimir gameplay and mini-VOD reviewal can be found here: https://www.youtube.com/watch?v=YTSYU-hohzk .\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls",
+        "videoId": "iicIDSLomnY",
+        "preview": "https://i.ytimg.com/vi/iicIDSLomnY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-10T23:10:54Z",
+        "title": "[Coaching-Mid] Viktor Diamond IV",
+        "description": "Interested in being coached? Read here for more information: https://www.facebook.com/notes/nick-de-cesare/coaching-and-availability-effective-july-2015/704785969650854?pnref=lhc\n\nThis video is a live-coaching session of the same player who received the verbal coaching session seen in this video: https://www.youtube.com/watch?v=yQ7CVg1ivsU  . We discuss how the verbal coaching session affected him so far and see how he's coming along despite the game only being slightly more than 24hrs post-session.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls",
+        "videoId": "SS7s8Iu3vzs",
+        "preview": "https://i.ytimg.com/vi/SS7s8Iu3vzs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-06-11T13:00:01Z",
+        "title": "Top 10 Best Champion Reworks in League of Legends History",
+        "description": "►Top 10 Best Changes in League of Legends History: https://youtu.be/h7H5fjq12t0\n►►Top 10 Most Overdue Changes to League of Legends: https://youtu.be/bOhrGs4Pngc\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://artgerm.deviantart.com/art/League-of-Legends-Katarina-437999748\n\nVIDEO CLIP SOURCES:\n\nAshe Source: https://www.youtube.com/watch?v=xRLlZSiOqIA\n\nSivir Source: https://www.youtube.com/watch?v=l7C3iS4luro\n\nHeimerdinger Source: https://www.youtube.com/watch?v=jBqxhXboTNE\n\nRyze Source: https://www.youtube.com/watch?v=US6eZfskSBU\n\nViktor Source: https://www.youtube.com/watch?v=1wjYy98ePXQ\n\nXerath Source: https://www.youtube.com/watch?v=ee0gVZYhjis\n\nKarma Source: https://www.youtube.com/watch?v=bMgB4ve8tBo\n\nKatarina Source: https://www.youtube.com/watch?v=YSBdkyRr1bk\n\nSion Source: https://www.youtube.com/watch?v=wFDLUIfrY1w\n\nEvelynn Source Part 1: https://www.youtube.com/watch?v=oRYu74necv4\n\nEvelynn Source Part 2: https://www.youtube.com/watch?v=a9bxkmNpHsI",
+        "videoId": "ftcAgzwm_x8",
+        "preview": "https://i.ytimg.com/vi/ftcAgzwm_x8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-05-30T13:00:00Z",
+        "title": "Top 20 Most Overpowered Bugs in League of Legends History",
+        "description": "►Part 2: https://www.youtube.com/watch?v=xeFJvdSnB9o\n►►Top 10 Most Fun Champions: https://youtu.be/jghp7WFx5KY\n➥ Subscribe: http://bit.ly/1O7TtJh\n\n►Second Channel: http://bit.ly/1NvJ7qi\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Elise/SkinsTrivia\n\n\nVIDEO CLIPS SOURCE:\n\nDarius Footage Source: https://www.youtube.com/watch?v=NovYokP4s4g\n\nGolden Jax Source:  https://www.youtube.com/watch?v=mwzpbXe6tMc\n\nRevive Bug Source Part 1: https://www.youtube.com/watch?v=X7txo5lzMmA\n\nRevive Bug Source Part 2:  https://www.youtube.com/watch?v=mzGqDVJ0NVA\n\nMinion Swarm Source: https://www.youtube.com/watch?v=tvugzSQwaso\n\nViktor Ult Source: https://www.youtube.com/watch?v=2qkkN9Pwld4\n\nKha'zix Jump Source: https://www.youtube.com/watch?v=jUo6ME-o-po\n\nSkarner Cleanse Source Part 1: https://www.youtube.com/watch?v=Acb7mVM1nVs\n\nSkarner Cleanse Source Part 2: https://www.youtube.com/watch?v=kTIBNwieBvU\n\nBrand Ult Source:  https://www.youtube.com/watch?v=M0EL5D2Yhx0\n\nVayne Condemn Source:  https://www.youtube.com/watch?v=Pbn8Od_22N8\n\nShaco Source:  https://www.youtube.com/watch?v=vaDmC0SsT4g",
+        "videoId": "FONaxwRHrtw",
+        "preview": "https://i.ytimg.com/vi/FONaxwRHrtw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-03-25T16:23:29Z",
+        "title": "What's Hot : Viktor In-depth Guide",
+        "description": "New series on \"op\" or really strong champions right now. Let me know what you think!\n\nFantasy LCS use code \"ThePhy\" for up to $50 bonus! https://vulcun.com/affiliate/ThePhy\n\n♦ Enjoy the video? Please Like and Subscribe! → http://bit.ly/16ZV8Mr\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Follow my STREAM → http://www.twitch.tv/phy_lol\n♦ Like me on Facebook → https://www.facebook.com/phylol \n♦ Follow me on Twitter → https://twitter.com/thephylol\n\nTitle: Project 46 - Wut!\nLabel Channel: http://www.youtube.com/monstercat\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nWhat's Hot : Viktor In-depth Guide",
+        "videoId": "r816dH-pbC4",
+        "preview": "https://i.ytimg.com/vi/r816dH-pbC4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-03-23T10:38:04Z",
+        "title": "Luden's Echo - Why Luden clearly didn't last long in the Fields of Justice.",
+        "description": "Luden must've been a really bad mage, because if this is his echo it's no wonder he must be dead.\n\nTL:DW? - Most champions can't neglect the items which they must already prioritize without really hindering themselves or their team. The AP ratio of most champions don't benefit solely from the 120ap enough to make the slight movespeed/passive worth it for them over items which give them more raw utility or damage. If you actually want to understand more than just beyond this, watch the video.\n\n*Luden's can be built on champions who use Lich Bane as a 6th item if you sell your boots.\n\nThe following champions are the only ones I currently think Luden's may be good on:\nCassiopeia (Roa/Rylai form)\nLulu\nKatarina\nKarma\nAkali\nRyze (6th item)\nAhri\n\nLooking for your champion?\n2:52 - Lulu\n4:11 - Lux\n5:37 - Morgana\n6:11 - Nidalee\n7:30 - Orianna\n8:24 - Ryze\n9:22 - Annie\n10:29 - Syndra\n11:08 - God\n11:47 - Twisted Fate\n12:13 - Veigar\n12:19 - Vel'Koz\n12:55 - Xerath\n13:08 - Ziggs\n13:25 - Zyra\n13:37 - Ahri\n14:27 - Akali\n15:08 - Cassiopeia\n15:34 - Diana\n16:32 - Elise\n16:42 - Fizz\n17:01 - Karma\n17:33 - Karthus\n17:45 - Kassadin\n18:00 - Katarina\n18:37 - Kayle\n19:03 - Kennen\n19:13 - Kog'Maw\n19:28 - LeBlanc\n19:51 - Lissandra\n\nChampions accidentally not mentioned: \nRumble - (can't neglect the zhonya/liandry/void rush)\nViktor - (needs too many items, very expensive ramp up and timings)\nVladimir - (his E at 4 stacks already is far superior of wave clear than he'll ever need. Outside of this he needs his other few items MAYBE it could be a 6th item depending on team comps)\nAnivia - Spells not reliable enough, poor AP ratios.\nMordekaiser - Way too reliant on his other items\n\nI'm the the head coach of NA LCS Team Gravity.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nFacebook: http://facebook.com/nick.decesare.7\nTwitch: http://twitch.tv/imls",
+        "videoId": "l9Mk1D9hYMU",
+        "preview": "https://i.ytimg.com/vi/l9Mk1D9hYMU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-03-11T18:30:00Z",
+        "title": "The Final Evolution - Viktor Full Gameplay - League of Legends",
+        "description": "→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\n→Subscribe Here: http://full.sc/1gukNqq\n→Alphadraft, win prizes by drafting an LCS team: http://alphadraft.com/?redmercy\n\nFollow me here!\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Twitter: http://twitter.com/RedmercyLoL\n→Facebook: https://www.facebook.com/RedmercyLoL\n→My Instagram: http://instagram.com/redmercylol\n→https://www.youtube.com/redmercygaming\n\nRedmercy Merchandising Now Available!\n→Redmercy Store: http://tinyurl.com/qb3zjdc\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "ccp3oayzkBM",
+        "preview": "https://i.ytimg.com/vi/ccp3oayzkBM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-23T00:22:14Z",
+        "title": "Prototype Viktor (2014 Update) League of Legends Skin Spotlight",
+        "description": "League of Legends Prototype Viktor Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Viktor on their Prototype Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nPlease feel free to subscribe for more Skin Spotlights and to leave a like!",
+        "videoId": "6fJARDcVfKc",
+        "preview": "https://i.ytimg.com/vi/6fJARDcVfKc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-23T00:22:14Z",
+        "title": "Full Machine Viktor (2014 Update) League of Legends Skin Spotlight",
+        "description": "League of Legends Full Machine Viktor Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Viktor on their Full Machine Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nPlease feel free to subscribe for more Skin Spotlights and to leave a like!",
+        "videoId": "zim9VD3iy3k",
+        "preview": "https://i.ytimg.com/vi/zim9VD3iy3k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-23T00:22:14Z",
+        "title": "Creator Viktor (2014 Update) Skin Spotlight League of Legends",
+        "description": "League of Legends Creator Viktor Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Viktor on their Creator Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nPlease feel free to subscribe for more Skin Spotlights and to leave a like!",
+        "videoId": "48bs6G4YiKE",
+        "preview": "https://i.ytimg.com/vi/48bs6G4YiKE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-17T19:00:06Z",
+        "title": "New Viktor Rework Full Gameplay PBE - League of Legends",
+        "description": "New Viktor Rework, PBE Full Gameplay/Spotlight!\n→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\n→Subscribe Here: http://full.sc/1gukNqq\n→Facebook: https://www.facebook.com/RedmercyLoL\n→Twitter: http://twitter.com/RedmercyLoL\n→My Stream: http://www.twitch.tv/RedmercyLoL\n\n→Anook: http://www.anook.com/redmercy\n→2nd YouTube Channel! : https://www.youtube.com/redmercygaming\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "-Jr-TQZ2bxs",
+        "preview": "https://i.ytimg.com/vi/-Jr-TQZ2bxs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-11T02:28:17Z",
+        "title": "Pre-Release Teaser - Creator Viktor (2014 Update) Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSkin name is CONFIRMED as Creator Viktor, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/ \n\nPlease feel free to subscribe for more Skin Spotlights!",
+        "videoId": "oL8dLLVi77s",
+        "preview": "https://i.ytimg.com/vi/oL8dLLVi77s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-11T01:48:49Z",
+        "title": "Pre-Release Teaser - Prototype Viktor (2014 Update) Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSkin name is CONFIRMED as Prototype Viktor, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/ \n\nPlease feel free to subscribe for more Skin Spotlights!",
+        "videoId": "k3MjY1CTtAU",
+        "preview": "https://i.ytimg.com/vi/k3MjY1CTtAU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-11T01:22:17Z",
+        "title": "Pre-Release Teaser - Full Machine Viktor (2014 Update) Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSkin name is CONFIRMED as Full Machine Viktor, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/ \n\nPlease feel free to subscribe for more Skin Spotlights!",
+        "videoId": "Wie41P9aWH0",
+        "preview": "https://i.ytimg.com/vi/Wie41P9aWH0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-11T01:14:21Z",
+        "title": "Classic Viktor (2014 Update), the Machine Herald - Ability Preview - League of Legends",
+        "description": "Viktor, the Machine Herald Ability Preview.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/ \n\nPlease feel free to subscribe for more Skin Spotlights!\n\nIf you appreciate what I do you can support me by disabling ad block.",
+        "videoId": "k00KVcjyMQU",
+        "preview": "https://i.ytimg.com/vi/k00KVcjyMQU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-08-17T23:09:03Z",
+        "title": "[Tierlist] Patch 4.14",
+        "description": "http://twitter.com/im_ls + http://facebook.com/nick.decesare.7\n\nI'm the former Coach of EU LCS Team MYM. I'm a former Samsung Ozone/Blue house member, and Diamond 1 Korea server. In this video I give a rundown on my opinion for a tierlist for Patch 4.14 (gnar) in League of Legends \n\nFollow me:\nhttp://twitter.com/im_ls\nhttp://twitch.tv/imls\nhttp://facebook.com/nick.decesare.7\nhttps://www.facebook.com/pages/ls/267710736646000\n\n\nTIERLIST TEXT: \nPATCH 4.14 TIER LIST(August 18th, 2014):\n\n\nMID\nTier 1: Orianna, Syndra, Twisted Fate, Ahri, Ryze, Yasuo, Kassadin\nTier 2: Lulu, Fizz, Xerath, Karthus, Ziggs, Jayce, Zed\nTier 2.5: Talon, Kayle, Lucian\nTier 3: Anivia, Riven, Ezreal, Akali, Leblanc, Annie, Teemo, Morgana\nTier 3.5: AP Kog’Maw, Karma\nTier 4: Katarina, Heimerdinger, Cassiopeia, AP Tristana, Sion, Mordekaiser, Brand\nTier 5: All other non-named kids\nTier 6: Viktor\n\nTOP\nTier 0: Maokai\nTier 1: Gragas, Ryze, Alistar, Shyvanna\nTier 2: Nidalee, Renekton, Shen, Irelia, Lulu, Gnar (?), Jayce\nTier 2.5: Zac, Mundo, Teemo, Lee Sin\nTier 3: Yasuo, Jax, Kayle, Rengar, Lissandra, Swain, Rumble, Akali, Riven, Zed, Tryndamere, Hecarim\nTier 4: Darius, Gangplank, Poppy, Kha’Zix, Elise, Vladimir, Quinn, Aatrox, Trundle, Heimerdinger, Yorick, Nasus, Singed, Olaf, Kennen, Fiora\nTier 5: Rammus, Nunu, Sion, Garen, Xin Zhao, WuKong\nTier 6: All other non-named tops\n\nJUNGLE\nTier 1: Rengar, Lee Sin, Elise\nTier 1.5: Evelynn, Jarvan 4\nTier 2: Vi, Kha’Zix, Maokai\nTier 2.5: Nocturne\nTier 3: Pantheon, Zed, Fiddlesticks, Kayle, Amumu\nTier 3.5: Riven, Warwick, Yi, Shaco\nTier 4: Wukong, Jax*, Gragas, Zac, Xin Zhao\nTier 5: All other non-named jungles\n\nADC/MARKSMAN\nTier 1: Tristana, Corki, Kog’Maw\nTier 2: Twitch, Lucian\nTier 3: Caitlyn, Vayne, Jinx, Ezreal, Blue-Ezreal, Draven\nTier 4: Sivir, Varus, Miss Fortune\nTier 5: Ashe, Graves\nTier 6: Quinn, Urgot\nTier 7: All other non-named ADC’s\n\nSUPPORT\nTier 1: Morgana, Nami, Thresh, Braum\nTier 2: Alistar, Leona\nTier 3: Lulu, Sona, Zilean\nTier 4: Annie, Karma, Soraka, Blitzcrank, Lissandra, Nunu, Zyra\nTier 5: All other non-named/abstract supports",
+        "videoId": "JXFsx1i_D50",
+        "preview": "https://i.ytimg.com/vi/JXFsx1i_D50/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-07-27T15:00:13Z",
+        "title": "Viktor - Did You Know? EP60 - League of Legends",
+        "description": "→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\n→Subscribe Here: http://full.sc/1gukNqq\n→Did You Know Playlist: http://full.sc/1bCtY0m\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Twitter: http://twitter.com/RedmercyLoL\n→Facebook: https://www.facebook.com/RedmercyLoL\n\nCool Facts/Information/Lore about Viktor!\n\nIf you like my videos, and want to help out more, donations are accepted! Thanks!\nhttps://www.streamdonations.net/c/redmercylol\n\n→Anook: http://www.anook.com/redmercy\n→2nd YouTube Channel! : https://www.youtube.com/redmercygaming\n\nMonstercat Music(Subformat - More (feat. Charli Brix))\nhttps://www.youtube.com/watch?v=LKZWZtRUPVY\n\nHope you enjoy and please sub rate and comment!!! :) Test",
+        "videoId": "-4KNdZzDEyg",
+        "preview": "https://i.ytimg.com/vi/-4KNdZzDEyg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-06-26T13:00:02Z",
+        "title": "Guide to Rotations: Tips for Maximizing Your Objectives | League of Legends LoL",
+        "description": "Or maybe its translations? \n\n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://anarki3000.deviantart.com/art/Viktor-S3-352877555",
+        "videoId": "uwMIblEBhDM",
+        "preview": "https://i.ytimg.com/vi/uwMIblEBhDM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-10-01T18:32:48Z",
+        "title": "(OLD) Creator Viktor League of Legends Skin Spotlight",
+        "description": "League of Legends Creator Viktor Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Viktor on his Creator Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "_xzVmnnOpxw",
+        "preview": "https://i.ytimg.com/vi/_xzVmnnOpxw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-09-05T23:32:22Z",
+        "title": "Pre-Release Teaser - Creator Viktor Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSkin name is confirmed as Creator Viktor, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "ivbbwmxN5GQ",
+        "preview": "https://i.ytimg.com/vi/ivbbwmxN5GQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-08-22T04:28:37Z",
+        "title": "A sick outplay!",
+        "description": "Viktor vs Lux, Sweet outplay ^^ -- www.twitch.tv/n3ac3y/c/2794572&utm_campaign=archive_export&utm_source=n3ac3y&utm_medium=youtube",
+        "videoId": "ZJcY13ELdlc",
+        "preview": "https://i.ytimg.com/vi/ZJcY13ELdlc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-02-24T09:26:10Z",
+        "title": "(OLD) Prototype Viktor League of Legends Skin Spotlight",
+        "description": "League of Legends Prototype Viktor Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Viktor on his Prototype Skin.\n\nAll footage was taken in game.",
+        "videoId": "kghnPiNJYO4",
+        "preview": "https://i.ytimg.com/vi/kghnPiNJYO4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-02-23T22:17:51Z",
+        "title": "(OLD) Full Machine Viktor League of Legends Skin Spotlight",
+        "description": "League of Legends Full Machine Viktor Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Viktor on his Full Machine Skin.\n\nAll footage was taken in game.",
+        "videoId": "SFU-Dzl_wxU",
+        "preview": "https://i.ytimg.com/vi/SFU-Dzl_wxU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-01-01T22:40:25Z",
+        "title": "HACKED BY POODLECORP twitter.com/poodlecorp",
+        "description": "DONT FORGET TO WATCH IN HD AND SUBSCRIBE! Don't forget to comment, thumbs up, and subscribe!! Also do not forget to like me on FACEBOOK.\n\nAre you an aspiring League of Legends Youtuber? Do you want a bit of a jump start to your channel? Watch this video, follow the instructions, and maybe I can help you out! :)\n\n****************************************************************************************\nHOW TO ENTER:\nDownload this video using a youtube video downloading software. Remove my intro and audio, and put in your own commentary on both of the clips. (Viktor and Malzahar clips). Once you feel you did a good enough job, upload the video to your own channel, while ALSO posting it as a video reply to my video. I will look through the submissions and the one I like most I will help promote by uploading YOUR version of the commentary on my channel, linking your youtube channel, etc! GOODLUCK!!! \n\nDEADLINE: ~15th OF JANUARY 2012!!! \n****************************************************************************************\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nSkype:\nredmercy1337\n\nMy Stream:\nhttp://www.justin.tv/red_mercy\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=R15SvBimFT0&feature=channel_video_title\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "BxJEn8eMh-Y",
+        "preview": "https://i.ytimg.com/vi/BxJEn8eMh-Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2011-12-30T15:38:36Z",
+        "title": "HACKED BY POODLECORP twitter.com/poodlecorp",
+        "description": "DONT FORGET TO WATCH IN HD AND SUBSCRIBE! Don't forget to comment, rate, and be subscribed to get a chance to get added on my friends list! Also do not forget to like me on FACEBOOK as that is where I also will announce when I am playing with subs!\n\nViktor Rating System:\nCC Offered: 7\nEase to Play: 6\nCarry Potential: 8\nTeam Usefulness: 7\nLaning Ease: 7.5\nEarly Power: 7\nMid Power: 8\nLate Power: 8\nOVERALL: 7.3\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nSkype:\nredmercy1337\n\nCheck out my Gankplank video on  MachinimaRealm:\nhttp://www.youtube.com/watch?v=pFcKduXtCVw\n\nCheck out my Akali video on MachinimaRealm:\nhttp://www.youtube.com/watch?v=d0Wb9ucgsSM\n\nCheck out my DotA 2 top 5 video on MachinimaRealm:\nhttp://www.youtube.com/watch?v=nKWveI3Nuk8&list=LLUf53DHwoQw4SvETXZQ2Tmg&index=7\n\nCheck out my Irelia video on MachinimaRealm: \nhttp://www.youtube.com/watch?v=uG7Gt9nn9Fk\n\nCheck out my Wukong video on MachinimaRealm:\nhttp://www.youtube.com/watch?v=FhqvpxXknsc&feature=mh_lolz&list=FLM2GFCfSAtKA\n\nCheck out my Trolol video on MachinimaRealm:\nhttp://www.youtube.com/watch?v=kAVJWfJyJ7c&feature=mh_lolz&list=FLM2GFCfSAtKA\n\nCheck out the previous game of this series:\nhttp://www.youtube.com/watch?v=m7Q_f6-cCZg\n\nMy Stream:\nhttp://www.own3d.tv/live/71680/Redmercy\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=N3FA-j7Dh6Q&feature=channel_video_title\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "q2VE4Q1JDB8",
+        "preview": "https://i.ytimg.com/vi/q2VE4Q1JDB8/mqdefault.jpg"
+      }
+    }
+  ]
+}

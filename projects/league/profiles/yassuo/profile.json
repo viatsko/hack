@@ -1,0 +1,66 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "N74YgRCQvIffVScVlTq9y7iQXzs",
+      "id": "UCO4NTLDIYKEV_sEwjZq7ghw",
+      "snippet": {
+        "title": "Yassuo",
+        "description": "Hey my name is Moe and i'm currently the best Yasuo in NA :) Hope You Enjoy!",
+        "customUrl": "yassuo",
+        "publishedAt": "2016-05-15T15:19:34Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzJjF55o77kWLs5L5yymE9oKSLopNYqqCbKlOH8=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzJjF55o77kWLs5L5yymE9oKSLopNYqqCbKlOH8=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzJjF55o77kWLs5L5yymE9oKSLopNYqqCbKlOH8=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Yassuo",
+          "description": "Hey my name is Moe and i'm currently the best Yasuo in NA :) Hope You Enjoy!"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UUO4NTLDIYKEV_sEwjZq7ghw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUO4NTLDIYKEV_sEwjZq7ghw"
+  },
+  "displayName": "Yassuo",
+  "description": "Hey my name is Moe and i'm currently the best Yasuo in NA :) Hope You Enjoy!",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzJjF55o77kWLs5L5yymE9oKSLopNYqqCbKlOH8=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzJjF55o77kWLs5L5yymE9oKSLopNYqqCbKlOH8=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzJjF55o77kWLs5L5yymE9oKSLopNYqqCbKlOH8=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

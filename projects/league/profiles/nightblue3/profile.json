@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "W9PsO8rPYVdy_eWSug8SaSq6ruU",
+      "id": "UCN078UFNwPgwWlU_V5WCTNw",
+      "snippet": {
+        "title": "Nightblue3",
+        "description": "I make cool videos ( ಠ ͜ʖಠ) currently focused on League of Legends!",
+        "publishedAt": "2008-04-20T03:24:22Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Nightblue3",
+          "description": "I make cool videos ( ಠ ͜ʖಠ) currently focused on League of Legends!"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "LLN078UFNwPgwWlU_V5WCTNw",
+          "favorites": "",
+          "uploads": "UUN078UFNwPgwWlU_V5WCTNw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUN078UFNwPgwWlU_V5WCTNw"
+  },
+  "displayName": "Nightblue3",
+  "description": "I make cool videos ( ಠ ͜ʖಠ) currently focused on League of Legends!",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

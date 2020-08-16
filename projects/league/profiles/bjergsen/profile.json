@@ -1,0 +1,66 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "V2DDd6gZPGWdPp3WpRUkCMUU_EQ",
+      "id": "UCejjkETjJXop6MP8eMjYL3g",
+      "snippet": {
+        "title": "Bjergsen Stream",
+        "description": "Hello \nWelcome to Bjergsen VODs Channel. In my channel you can find best replays solo queue of Bjergsen and some league of legends events like LCS, MSI & Worlds.  I hope you will like the contents and maybe learn something new on League of Legends.",
+        "customUrl": "bjergsenstream",
+        "publishedAt": "2014-08-18T11:49:27Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwsgszLRQqXh727jjhzXBi9jb7xkAjajdK2IHrVlQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwsgszLRQqXh727jjhzXBi9jb7xkAjajdK2IHrVlQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwsgszLRQqXh727jjhzXBi9jb7xkAjajdK2IHrVlQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Bjergsen Stream",
+          "description": "Hello \nWelcome to Bjergsen VODs Channel. In my channel you can find best replays solo queue of Bjergsen and some league of legends events like LCS, MSI & Worlds.  I hope you will like the contents and maybe learn something new on League of Legends."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "LLejjkETjJXop6MP8eMjYL3g",
+          "favorites": "",
+          "uploads": "UUejjkETjJXop6MP8eMjYL3g",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUejjkETjJXop6MP8eMjYL3g"
+  },
+  "displayName": "Bjergsen Stream",
+  "description": "Hello \nWelcome to Bjergsen VODs Channel. In my channel you can find best replays solo queue of Bjergsen and some league of legends events like LCS, MSI & Worlds.  I hope you will like the contents and maybe learn something new on League of Legends.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwsgszLRQqXh727jjhzXBi9jb7xkAjajdK2IHrVlQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwsgszLRQqXh727jjhzXBi9jb7xkAjajdK2IHrVlQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwsgszLRQqXh727jjhzXBi9jb7xkAjajdK2IHrVlQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "gn0JHesYZK1qsFiMlQqAsEgy_m4",
+      "id": "UCmEu9Y8nodUV0jvsR9NYLJA",
+      "snippet": {
+        "title": "IWDominate",
+        "description": "Former LCS Player for Complexity Gaming, Team Dignitas, Curse, and Team Liquid.  Current streamer on Twitch and Content creator with Team Liquid.",
+        "customUrl": "iwdominatelol",
+        "publishedAt": "2013-03-20T19:32:05Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwEHv4xR8z87KzFwmD43ko_3pEzQABmcZkTkvRHbg=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwEHv4xR8z87KzFwmD43ko_3pEzQABmcZkTkvRHbg=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwEHv4xR8z87KzFwmD43ko_3pEzQABmcZkTkvRHbg=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "IWDominate",
+          "description": "Former LCS Player for Complexity Gaming, Team Dignitas, Curse, and Team Liquid.  Current streamer on Twitch and Content creator with Team Liquid."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UUmEu9Y8nodUV0jvsR9NYLJA",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUmEu9Y8nodUV0jvsR9NYLJA"
+  },
+  "displayName": "IWDominate",
+  "description": "Former LCS Player for Complexity Gaming, Team Dignitas, Curse, and Team Liquid.  Current streamer on Twitch and Content creator with Team Liquid.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwEHv4xR8z87KzFwmD43ko_3pEzQABmcZkTkvRHbg=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwEHv4xR8z87KzFwmD43ko_3pEzQABmcZkTkvRHbg=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwEHv4xR8z87KzFwmD43ko_3pEzQABmcZkTkvRHbg=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

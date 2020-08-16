@@ -1,0 +1,1596 @@
+{
+  "id": "sejuani",
+  "key": "113",
+  "name": "Sejuani",
+  "title": "Fury of the North",
+  "tags": [
+    "Tank",
+    "Fighter"
+  ],
+  "stats": {
+    "hp": 560,
+    "hpperlevel": 100,
+    "mp": 400,
+    "mpperlevel": 40,
+    "movespeed": 340,
+    "armor": 34,
+    "armorperlevel": 4.25,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 150,
+    "hpregen": 8.5,
+    "hpregenperlevel": 1,
+    "mpregen": 7,
+    "mpregenperlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 4,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.688
+  },
+  "icon": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/champion/Sejuani.png",
+  "sprite": {
+    "url": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/sprite/champion3.png",
+    "x": 432,
+    "y": 0
+  },
+  "description": "Sejuani is the brutal, unforgiving Iceborn warmother of the Winter's Claw, one of the most feared tribes of the Freljord. Her people's survival is a constant, desperate battle against the elements, forcing them to raid Noxians, Demacians, and Avarosans...",
+  "redditUrl": "Sejuanimains",
+  "videos": [
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-08T13:14:30Z",
+        "title": "5 BROKEN Korean Jungle Routes CRUSHING Solo Queue! Patch 10.14",
+        "description": "Join SKILL CAPPED Today! https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\nConcepts: strategies, op korean jungle routes, jungle kr, skillcapped, proguides, gameleap, mobalytics, lol guides, lol meta, jungle meta, korean jungle Concepts: best junglers 10.14,10.14 lol, 10.14 changes, Skarner buffs 10.14, karthus buffs 10.14, volibear nerfs 10.14, Trundle nerfs 10.14, Kha'zix buffs 10.14, Sejuani buffs 10.14, Predator buffs 10.14, korean challenger, korean jungle routes, predator route, invade, lol invade, invades, skill capped challenger lol guides, top 5 jungle mechanics, kingstix, virkayu, tarzaned, iwd",
+        "videoId": "a_iWWh9FYLk",
+        "preview": "https://i.ytimg.com/vi/a_iWWh9FYLk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-08T13:14:30Z",
+        "title": "5 BROKEN Korean Jungle Routes CRUSHING Solo Queue! Patch 10.14",
+        "description": "Join SKILL CAPPED Today! https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\nConcepts: strategies, op korean jungle routes, jungle kr, skillcapped, proguides, gameleap, mobalytics, lol guides, lol meta, jungle meta, korean jungle Concepts: best junglers 10.14,10.14 lol, 10.14 changes, Skarner buffs 10.14, karthus buffs 10.14, volibear nerfs 10.14, Trundle nerfs 10.14, Kha'zix buffs 10.14, Sejuani buffs 10.14, Predator buffs 10.14, korean challenger, korean jungle routes, predator route, invade, lol invade, invades, skill capped challenger lol guides, top 5 jungle mechanics, kingstix, virkayu, tarzaned, iwd",
+        "videoId": "a_iWWh9FYLk",
+        "preview": "https://i.ytimg.com/vi/a_iWWh9FYLk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-01T14:00:17Z",
+        "title": "(IS THIS THE NEW LEONA?) SEJUANI SUPPORT IS 100% BUSTED IN ANY ELO! SEJUANI/YASUO BOTLANE IS TOO OP",
+        "description": "(IS THIS THE NEW LEONA?) SEJUANI SUPPORT IS 100% BUSTED IN ANY ELO! SEJUANI/YASUO BOTLANE IS TOO OP\n\n=====================\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "P5KDEG10pA4",
+        "preview": "https://i.ytimg.com/vi/P5KDEG10pA4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-07-01T14:00:17Z",
+        "title": "(IS THIS THE NEW LEONA?) SEJUANI SUPPORT IS 100% BUSTED IN ANY ELO! SEJUANI/YASUO BOTLANE IS TOO OP",
+        "description": "(IS THIS THE NEW LEONA?) SEJUANI SUPPORT IS 100% BUSTED IN ANY ELO! SEJUANI/YASUO BOTLANE IS TOO OP\n\n=====================\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "P5KDEG10pA4",
+        "preview": "https://i.ytimg.com/vi/P5KDEG10pA4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-30T12:48:55Z",
+        "title": "How this Jungler Reaches Challenger with 80% Win Rates!",
+        "description": "Join SKILL CAPPED Today! https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\n#skillcapped #lolguides #leagueoflegends\n\nConcepts: jungle guide, challenger jungle, how to get challenger, challenger climb, challenger smurf, best jungler, top 5 jungle mechanics, skillcapped, skill capped pro guides, pro guides, nightblue3, tarzaned, jankos, mobalytics, how to win, how to carry, karasmai, op jungle routes, jungle routes, jungle pathing, korean jungle routes, korean jungle, best jungle champions to climb, best junglers\n\nConcepts: Best ADC 10.14, Best support 10.14, best mid laners 10.14, best junglers 10.14, best top laners 10.14 patch 10.14 rundown, 10.14 lol, 10.14 changes, Skarner buffs 10.14, Tahm kench buffs 10.14, karthus buffs 10.14, Pyke buffs 10.14, Swain buffs 10.14, volibear nerfs 10.14, Varus nerfs 10.14, pyke nerfs 10.14, Wukong nerfs 10.14, Trundle nerfs 10.14, Ezreal nerfs 10.14, Kha'zix buffs 10.14, Sejuani buffs 10.14, Zed buffs 10.14, Alistar buffs 10.14, Ghost buffs 10.14, Predator buffs 10.14",
+        "videoId": "SViP9MEFG9E",
+        "preview": "https://i.ytimg.com/vi/SViP9MEFG9E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-30T12:48:54Z",
+        "title": "How this Jungler Reaches Challenger with 80% Win Rates!",
+        "description": "Join SKILL CAPPED Today! https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\n#skillcapped #lolguides #leagueoflegends\n\nConcepts: jungle guide, challenger jungle, how to get challenger, challenger climb, challenger smurf, best jungler, top 5 jungle mechanics, skillcapped, skill capped pro guides, pro guides, nightblue3, tarzaned, jankos, mobalytics, how to win, how to carry, karasmai, op jungle routes, jungle routes, jungle pathing, korean jungle routes, korean jungle, best jungle champions to climb, best junglers\n\nConcepts: Best ADC 10.14, Best support 10.14, best mid laners 10.14, best junglers 10.14, best top laners 10.14 patch 10.14 rundown, 10.14 lol, 10.14 changes, Skarner buffs 10.14, Tahm kench buffs 10.14, karthus buffs 10.14, Pyke buffs 10.14, Swain buffs 10.14, volibear nerfs 10.14, Varus nerfs 10.14, pyke nerfs 10.14, Wukong nerfs 10.14, Trundle nerfs 10.14, Ezreal nerfs 10.14, Kha'zix buffs 10.14, Sejuani buffs 10.14, Zed buffs 10.14, Alistar buffs 10.14, Ghost buffs 10.14, Predator buffs 10.14",
+        "videoId": "SViP9MEFG9E",
+        "preview": "https://i.ytimg.com/vi/SViP9MEFG9E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-17T18:06:21Z",
+        "title": "2020 Sejuani Jungle Gameplay Guide - League of Legends",
+        "description": "Download at draftbuff.com and click this link to play with me!  https://draftbuff.com/tournament/join/228baa54-527c-47fa-8a2c-2201021b9b2f \n➥Rammus! https://www.youtube.com/watch?v=TS70VFOM8VI\r\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow my stream: https://www.twitch.tv/foxdrop\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "x-gB9CQG8Ic",
+        "preview": "https://i.ytimg.com/vi/x-gB9CQG8Ic/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-17T18:06:21Z",
+        "title": "2020 Sejuani Jungle Gameplay Guide - League of Legends",
+        "description": "Download at draftbuff.com and click this link to play with me!  https://draftbuff.com/tournament/join/228baa54-527c-47fa-8a2c-2201021b9b2f \n➥Rammus! https://www.youtube.com/watch?v=TS70VFOM8VI\r\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow my stream: https://www.twitch.tv/foxdrop\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "x-gB9CQG8Ic",
+        "preview": "https://i.ytimg.com/vi/x-gB9CQG8Ic/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-19T13:22:37Z",
+        "title": "Set 2 Card Special Interactions - Vi, Swain, Lee Sin, Quinn, Sejuani, Maokai etc",
+        "description": "Special/Hidden/Secret Interactions for the Remaining Set 2 Cards in Legends of Runeterra.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows Arrival interactions as well as deaths and victory of cards from Set 2 such as Vi, Swain, Lee Sin Quinn and Sejuani.\n\nThe interactions trigger by the left card being in play and then the card on the right arriving.\nVi, Swain, Lee Sin, Quinn, Sejuani and other cards from Set 2 will appear in other region videos as they have other unique lines for when other cards in play first and they arrive onto the board.\n\nStay upto date with information by following me on twitter:\nhttps://twitter.com/SkinSpotlights",
+        "videoId": "_p2_hfEC1ZI",
+        "preview": "https://i.ytimg.com/vi/_p2_hfEC1ZI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "protatomonster",
+        "displayName": "Protatomonster",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy8_DuYOHahL4miEDAeQ--XqKSv2wdBrh1BDDG4=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-13T07:00:00Z",
+        "title": "BEST ARURF MOMENTS 2020 (Super Tank Leona, URF Zed Insane Outplays, AP Volibear Oneshots...)",
+        "description": "BEST ARURF MOMENTS 2020 (Super Tank Leona, URF Zed Insane Outplays, AP Volibear Oneshots...) - League of Legends / LoL Moments Montage\n\n🔶Don't forget to click the 🔔 Bell to get Notifications on new videos!\n🔶TFT CHANNEL: https://www.youtube.com/channel/UCNDoeaxF_O8n-cCwQTGbhuw\n\n▼Players featured in this League of Legends Montage:\n\n1) Darc - https://medal.tv/clips/17386063/aHfcEd7CimyH\n2) GameSensation - https://www.reddit.com/r/leagueoflegends/comments/f0hfe2/urf_leona_just_doesnt_die/\n3) StrandedSandor - https://www.reddit.com/r/leagueoflegends/comments/f0pjnl/ap_voli_stomp_in_urf/\n4) Lovecrank - https://www.youtube.com/watch?v=TWoqhfdEeGs\n5) dvid - https://www.reddit.com/r/leagueoflegends/comments/eqds3r/nunu_in_urf_is_disgusting/\n6) TheMatea - https://www.reddit.com/r/leagueoflegends/comments/et8yze/run_cow_run_urf/\n7) brotherzatch - https://www.youtube.com/watch?v=4cOzDit2ZQE\n8) MadDoughnutz - https://medal.tv/clips/12946400/eoLQMRzUv5c9\n9) Vilestench - https://www.youtube.com/watch?v=uSpLp_EPB8c\n10) beandowng - https://www.reddit.com/r/leagueoflegends/comments/erkyw6/gotta_love_urf/\n11) Mist - https://medal.tv/clips/18820987/DPoLyL93kMMD\n12) StygianLux - https://www.reddit.com/r/leagueoflegends/comments/esanlo/sejuani_is_mega_fun_in_urf/\n13) Danny Phantom - https://www.reddit.com/r/leagueoflegends/comments/ev90fe/so_apparently_gankplank_barrel_damage_stacks_in/\n14) PANDUUM - https://medal.tv/clips/16500615/3dDjjR7y5gVL\n15) am i poggers mom - https://www.reddit.com/r/leagueoflegends/comments/ezdyj2/ivern_in_urf_certainly_seems_interesting/ \n16) Most - https://medal.tv/clips/17659428/J8ADDk6MAv8R\n17) DubbleFreak - https://medal.tv/clips/16763978/m1wO4x5bGbcL\n18) XoXoBOSSXoXo - https://medal.tv/clips/16553006/OBrK71iCTuMh\n19) SlayYourPrayers - https://www.reddit.com/r/fizzmains/comments/eprak0/fizz_urf_is_so_much_fun/\n20) Mist(1) - https://medal.tv/clips/18614576/EalwcoaR68mM\n21) LL Sylas - https://medal.tv/clips/16514747/orIo834JTb3z\n22) CroIsSad - https://medal.tv/clips/18694491/WJZZHS6ConLt\n23) ÇiYASUO - https://www.reddit.com/r/leagueoflegends/comments/eq3ltp/lifesteal_in_urf_is_hilarious/\n24) peanutog - https://www.reddit.com/r/leagueoflegends/comments/ercxr6/zed_urf_shenanigans/\n25) Palmby - https://medal.tv/clips/18842813/RK6oY216Z6yS\n26) Proxer - https://www.reddit.com/r/leagueoflegends/comments/epezle/why_is_this_even_allowed_in_urf/\n27) BlueFlameOtaku - https://www.reddit.com/r/leagueoflegends/comments/epqnak/my_friends_vayne_1v4_in_urf/\n28) Camp Rock - https://www.reddit.com/r/leagueoflegends/comments/f0up0c/im_pretty_proud_of_this_lee_sin_urf_play_i_made/\n29) heyyoitsjojo - https://www.reddit.com/r/leagueoflegends/comments/etue5d/urf_sylas_is_a_monster/\n30) Deichstep\n31) WAIFU MASTR 420 - https://www.youtube.com/watch?v=-gez0_Ozsss \n\nMusic in this LoL Montage provided by NoCopyrightSounds:\n\n1) Dirty Palm - To The Back (feat. Purple Velvet Curtains) [NCS Release]\n2) Lost Sky - Where We Started (feat. Jex) [NCS Release]\n3) Mendum - You (with Brenton Mattheus) [NCS Release]\n4) MIDNIGHT CVLT & Titus1 - Better Days [NCS Release]\n5) Mountkid - Jellyfish Party (NCS Release) [NCS Release]",
+        "videoId": "fYlgXIUAxmM",
+        "preview": "https://i.ytimg.com/vi/fYlgXIUAxmM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "rezzy",
+        "displayName": "Rezzy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyZ8pTkyIGIyIWI5aD0ky_Oe2RHt4B3NYPYd0jy=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-13T07:00:00Z",
+        "title": "LEAGUE SUCCESS STORIES:  SILVER SEJUANI NOW GOLD",
+        "description": "Once you contol the mind, you control everything\nJoin our live streams with the link below, join our discord too, and join the GA7 Gang, join the community. Also if you're reading this still, put a RezzyLUL in the comments otherwise you have a small dick\n\n-----------------------------------------------------------------------------------------------------------\n\nTWITCH:  twitch.tv/youngrezzy\n\nDISCORD:  https://discord.gg/92czGh2\n\nTWITTER: https://twitter.com/youngrezzyLOL\n\n-----------------------------------------------------------------------------------------------------------",
+        "videoId": "hkeitJVVPLM",
+        "preview": "https://i.ytimg.com/vi/hkeitJVVPLM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "randomonium",
+        "displayName": "Randomonium",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxHfeR4Scoojg8gwnM5HYhg1LNs6Nq17c4wV8zvag=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-21T07:00:00Z",
+        "title": "Tank Meta Is Back! (9.8 patch notes)",
+        "description": "Amumu, Nautilus, Ornn, Singed and Sejuani buffs incoming.  What's not to like?\n\nDiscord: https://discord.gg/T2nRrfM\nPatreon: https://www.patreon.com/Randomonium\n\nI am a member of the League Partner Program.  To learn more about the League Partner Program visit https://partners.leagueoflegends.com/\n\n#leagueoflegends\n#LPP\n#leaguepartnerprogram",
+        "videoId": "Pc1lE0TYPi4",
+        "preview": "https://i.ytimg.com/vi/Pc1lE0TYPi4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-09T07:00:00Z",
+        "title": "Sejuani Rework Tips and Tricks Guide | League of Legends",
+        "description": "Of the 3 tanks that got reworks for the Mid-Season 2017 patch, Sejuani received the biggest changes and has real potential to be incredibly strong so we decided to kick things off with some tips and tricks on her first.\n\nSubscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\n\nFacebook: https://facebook.com/LolClasscom\nWebsite: http://www.lolclass.gg\nTwitter: https://twitter.com/LolClassCom",
+        "videoId": "AA-MikgGxaM",
+        "preview": "https://i.ytimg.com/vi/AA-MikgGxaM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-29T19:47:57Z",
+        "title": "Hextech Sejuani Skin Spotlight - League of Legends",
+        "description": "League of Legends Hextech Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Hextech Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "w0yNtSTFRwE",
+        "preview": "https://i.ytimg.com/vi/w0yNtSTFRwE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-02-19T20:37:51Z",
+        "title": "Hextech Sejuani Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Hextech Sejuani with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 10 Gemstones\n\nSkin name is CONFIRMED as Hextech Sejuani, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "U40C6vdMMzY",
+        "preview": "https://i.ytimg.com/vi/U40C6vdMMzY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-06-18T17:33:08Z",
+        "title": "New Best Champions for Patch 9.12 Season 9 for Climbing in EVERY ROLE",
+        "description": "Timestamps / list of champions down below!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nMid = start\nJungle = 2:43\nTop = 4:56\nSupport = 7:02\nADC = 9:19\n\nMid \n1 = Zed\n2 = Ahri\n3 = Ryze\nHM/Low = Fizz\n\nJungle\n1 = Hecarim \n2 = Sejuani \n3 = Vi \nHM/Low = Amumu \n\nTop \n1 = Morde \n2 = Darius\n3 = Riven \nHM/Low = Volibear\n\nSupport \n1 = Karma \n2 = Lux\n3 = Janna\nHM = Zyra\n\nADC\n1 = Sivir\n2 = Jinx\n3 = Xayah\nHM = Caitlyn\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.12 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "hjU3251e9Fc",
+        "preview": "https://i.ytimg.com/vi/hjU3251e9Fc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-06-04T17:54:51Z",
+        "title": "New Best Champions for Patch 9.11 Season 9 for Climbing in EVERY ROLE",
+        "description": "Let's check out the best champs for 9.11 with builds and runes!\nThanks to mobalytics for creating the graphics - https://moba.lol/2Glq8Rk\n\nTimestamps\nADC - start\nMid – 2:32\nJungle – 4:48 \nTop – 7:13\nSupport - 9:30\n\nADC\n1 = Sivir\n2 = Jinx\n3 = Xayah\nHM = Kai'sa\n\nMid \n1 = Sylas \n2 = Zed\n3 = Katarina\nHM = Malzahar\n\nJungle\n1 = Hecarim \n2 = Sejuani \n3 = Kayn \nHM = Elise \n\nTop \n1 = Aatrox \n2 = Darius\n3 = Tahm \nHM = Urgot\n\nSupport \n1 = Nautilus \n2 = Janna\n3 = Lux\nHM = Nami\n\n-------------------------------------------------------------------------\n♦ Streaming! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n-------------------------------------------------------------------------\nChannel partners\nMerch - https://phymerch.com/\nImprove your game with Mobalytics - https://moba.lol/2IzxqUf \nCheck out my exclusive videos on HLG - http://bit.ly/2E4f9vd\nCustomize your own Ironside PC here and use code PHY5 to save 5% - https://ironsidecomputers.com/ \nLights I use in the background - https://uk.lifx.com/\n-------------------------------------------------------------------------\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n-------------------------------------------------------------------------\nNew Best Champions for Patch 9.11 Season 9 for Climbing in EVERY ROLE",
+        "videoId": "lQrNfYVMnn0",
+        "preview": "https://i.ytimg.com/vi/lQrNfYVMnn0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-24T19:00:09Z",
+        "title": "Top 10 Amazing Fan Reworks! - League of Legends",
+        "description": "Top 10 Amazing Fan Reworks! - League of Legends\n➥ Try Rivals - The Esports Moba Manager for FREE: https://go.onelink.me/ErBr/Jeremy \n\n\n#LeagueofLegends\n#LoL\n#League\n\n➥ Information Sources From The Video:\n\n\n1. Taric by Turret:\nhttps://polycount.com/discussion/142177/riot-art-contest-taric\n\n2. Sejuani by Mafubash\nhttps://polycount.com/discussion/141173/riot-art-contest-sejuani\n\n3. Syndra by Tudorfat\nhttps://polycount.com/discussion/142451/riot-art-contest-syndra\n\n4. Nunu by FrankieD\nhttps://polycount.com/discussion/141352/riot-art-contest-nunu\n\n5. Shyvana by JimmyRustler (Scroll Down)\nhttps://polycount.com/discussion/141953/riot-art-contest-shyvana\n\n6. Lee Sin by Stickpye\nhttps://polycount.com/discussion/145470/riot-art-contest-lee-sin\n\n7. Cho'Gath by JRancourt\nhttps://polycount.com/discussion/141474/riot-art-contest-chogath-redesign\n\n8. Caitlyn by DmitryGrebenkov\nhttps://polycount.com/discussion/141885/riot-art-contest-caitlyn\n\n9. Kha'Zix by lunahod\nhttps://polycount.com/discussion/141623/riot-art-contest-khazix/p2\n\n10. Kassadin by Darknavigator\nhttps://polycount.com/discussion/141677/riot-art-contest-kassadin-redesign\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n➥ DISCLAIMER: In our videos, we may use clips that were not created by us. For ALL of our clips, we obtain permission with proof, and/or are allowed to use them under Fair Use. \n\n➥ Every clip used in this video that was not recorded ourselves, we obtained permission for, and/or is considered fair use, and we provide source & credit for all footage - you can find the links to all original sources & music in the rest of the description. If someone submitted a clip on your behalf pretending to have rights to it, please send us a message or email!\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🔶 Check Out Our NEW Channels: 🔶\n\n➥ Evolution of Games: - How Games Evolved Over the Years:\nhttps://www.youtube.com/channel/UCy52QBC_jHCqWa6W_LlhRCw\n\n➥ Apex Legends Funny Moments:\nhttps://www.youtube.com/channel/UCVSav0Fu3XTGRgl_7KOkv4Q\n\n➥ Brawl Stars Funny Moments:\nhttps://www.youtube.com/channel/UCt5A9Y-b_TnvG6SKYpcPu3g\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nThis Channel is Owned & Operated by Gaming Curios. At Gaming Curios we run a variety of channels on YouTube spanning a bunch of games and genres of content. We are starting new channels all the time and making lots of videos, that we hope you can all enjoy! \n\n➥ You can find links to our most prominent channels here: http://www.gamingcurios.com/\n\n➥ Also Check Out Our Overwatch Tshirts & Apparel!\n https://teespring.com/stores/gaming-curios\n\n\nGaming Curios is owned and operated by Jeremy, who you can follow here:\n➥ https://twitter.com/GamingCurios\n➥ https://www.facebook.com/JeremyGamingCurios/\n➥ https://www.instagram.com/gamingcurios/\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n\n✔ Video Credits:\n● Produced By: Jeremy - Gaming Curios\n● Written By: Jeremy - Gaming Curios & Omar H.\n● Edited By:",
+        "videoId": "ZEIb-VNR8EM",
+        "preview": "https://i.ytimg.com/vi/ZEIb-VNR8EM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "tbskyen",
+        "displayName": "T B Skyen",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyshPYFo6beJdHT__q8zRw6nZd_6qJO0Jx_bk9rUg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-04-23T17:48:29Z",
+        "title": "What did they do to Volibear? || Silence for the Damned lore analysis",
+        "description": "Donate: https://streamlabs.com/TBSkyen\nTip me on Ko-Fi: https://ko-fi.com/TBSkyen\nSupport the channel on Patreon: Patreon: http://patreon.com/castercomix\n---\nVlog channel: https://www.youtube.com/channel/UCLid2gDn3uhmyGLycvHOLFw\nTwitter: http://twitter.com/tbskyen\nJoin the channel discord: (limited use)\n--------\n\nREAD THE STORY: https://universe.leagueoflegends.com/en_US/story/silence-for-the-damned/\n\nSooooo... Volibear showed up in a short story recently. At least I think it's Volibear. I'm reasonably sure. Did, uh... did Volibear always have twelve eyes and mind control powers? Cause he's got them now. It might be more than twelve eyes.\n\nOh and also Udyr is Sejuani's dad, so THAT's a thing. Let's discuss!",
+        "videoId": "BvweRV6stNM",
+        "preview": "https://i.ytimg.com/vi/BvweRV6stNM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "rezzy",
+        "displayName": "Rezzy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyZ8pTkyIGIyIWI5aD0ky_Oe2RHt4B3NYPYd0jy=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-02-19T23:00:03Z",
+        "title": "LEAGUE SUCCESS STORIES:  SILVER SEJUANI NOW GOLD",
+        "description": "Once you contol the mind, you control everything\nJoin our live streams with the link below, join our discord too, and join the GA7 Gang, join the community. Also if you're reading this still, put a RezzyLUL in the comments otherwise you have a small dick\n\n-----------------------------------------------------------------------------------------------------------\n\nTWITCH:  twitch.tv/youngrezzy\n\nDISCORD:  https://discord.gg/92czGh2\n\nTWITTER: https://twitter.com/youngrezzyLOL\n\n-----------------------------------------------------------------------------------------------------------",
+        "videoId": "hkeitJVVPLM",
+        "preview": "https://i.ytimg.com/vi/hkeitJVVPLM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "gripex",
+        "displayName": "Gripex",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx4iXkinsmifsYb1hlwy63ccyi0qELaLAWvIfEe=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-02-16T10:16:14Z",
+        "title": "Gripex - WHEN ENEMY UNINTENTIONALLY HELPS YOU WITH THE KICK!",
+        "description": "Gripex gets some help from Sejuani to hit the Lee Sin kick\n\n►Join my discord! https://discord.gg/d5rCJca\n\nFollow me:\n► Twitch: https://www.twitch.tv/gripex90\n► Twitter: https://twitter.com/GripexJ\n► Facebook: https://www.facebook.com/Gripex90\n\nEditor :\n►Twitter: https://twitter.com/JKHighLight\n►YouTube: https://www.youtube.com/channel/UCaGE2JOeHSXJmR6Uw4Ro0zA\n\nIntro: https://www.youtube.com/watch?v=Z0f76Q5CAds\n\nOutro Song : Fivefold - All Of Me: https://www.youtube.com/watch?v=wyajPVXczgA",
+        "videoId": "yOlGCFmu1Lg",
+        "preview": "https://i.ytimg.com/vi/yOlGCFmu1Lg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-02-08T16:54:58Z",
+        "title": "Neace Is The BIGGEST Piggy | Sejuani Full Gameplay",
+        "description": "Neace is LIVE at 9 AM est this morning :) If you're watching after that time click the link below to watch him live and come back later! Enjoy!\nFollow Neace on Twitch\nhttps://www.twitch.tv/neace\n\nFollow Neace on Twitter\nhttps://twitter.com/NEACETWEETS?lang=en",
+        "videoId": "wAfCQGool04",
+        "preview": "https://i.ytimg.com/vi/wAfCQGool04/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "tbskyen",
+        "displayName": "T B Skyen",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyshPYFo6beJdHT__q8zRw6nZd_6qJO0Jx_bk9rUg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-02-07T20:00:03Z",
+        "title": "Six lore updates, one video (the Sejuani one is good) || League of Legends lore discussion",
+        "description": "Join the channel discord: https://discord.gg/JY3NcGp (25 uses only)\n---\nPatreon: http://patreon.com/castercomix\nKo-Fi: https://ko-fi.com/TBSkyen\nVlog channel: https://www.youtube.com/channel/UCLid2gDn3uhmyGLycvHOLFw\nTwitter: http://twitter.com/tbskyen\n-----\n\nPatch 9.3 Lore Patch Notes: https://na.leagueoflegends.com/en/news/champions-skins/creative-spotlight/patch-93-notes-lore-edition  (contains links to all the stories mentioned in the video)\n\nRiot have been hitting hard on the lore anvil lately, which is great for me because it's plenty of material for videos, but also kind of bad for me because I can't dedicate full videos to each piece without falling HORRIBLY behind.\n\nStill, beggars and choosers and all that - let's dive into it!",
+        "videoId": "qE4d-4aJSNU",
+        "preview": "https://i.ytimg.com/vi/qE4d-4aJSNU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-29T18:41:00Z",
+        "title": "New Best Champions for Season 9 Patch 9.2 for Climbing in EVERY ROLE",
+        "description": "GIVEAWAY LINK!! = https://gleam.io/dRiXd/season-9-giveaway\nLinks to the profiles on Mobalytics for more info:\n-Sign up to Mobalytics! = https://moba.lol/2TqpjvT\n-Doublelift Lucian = https://lol.mobalytics.gg/summoner/na/doublelift\n-Bobqin Leblanc = https://lol.mobalytics.gg/summoner/na/twitch%20bobqinxd (twitch = https://www.twitch.tv/bobqinxd)\n-Tank Jarvan = https://lol.mobalytics.gg/summoner/kr/%EB%AC%B4%EC%8A%A8%EB%B9%B5%EC%9C%BC%EB%A1%9C%EC%82%AC%EC%98%AC%EA%B9%8C\n-Sona = https://lol.mobalytics.gg/summoner/euw/elementrax/\n-Klepto Vlad = https://lol.mobalytics.gg/summoner/kr/2019%20%EC%83%88%EB%A3%A8/match-history\n\n♦ Streaming diamond promos today! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTimestamps\nADC - start\nMid - 2:49\nJungle - 4:55\nSupport - 7:22 \nTop - 9:25\n\n\nADC\n-Best = Lucian\n-Runner up = Ezreal\n-Runner up = Vayne\n-Runner up = Draven\n-Underrated = Jinx\n\nMid\n-Best = Leblanc\n-Runner up = Lissandra\n-Runner up = Zoe\n-Runner up = Ahri\n-Underrated = Vel'Koz\n\nJungle\n-Best = Xin Zhao\n-Runner up = Jarvan\n-Runner up = Sejuani\n-Runner up = Kayn\n-Underrated = Shyvana\n\nSupport\n-Best = Thresh\n-Runner up = Sona\n-Runner up = Zyra\n-Runner up = Nami\n-Underrated = Blitzcrank\n\nTop lane\n-Best = Vlad\n-Runner up = Sion \n-Runner up = Riven\n-Runner up = Darius\n-Underrated = Yorick\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions for Season 9 Patch 9.2 for Climbing in EVERY ROLE",
+        "videoId": "Z9Teoj8bylI",
+        "preview": "https://i.ytimg.com/vi/Z9Teoj8bylI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-23T14:05:38Z",
+        "title": "Firecracker Sejuani Skin Spotlight - League of Legends",
+        "description": "League of Legends Firecracker Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Firecracker Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "aQi92f-t8oM",
+        "preview": "https://i.ytimg.com/vi/aQi92f-t8oM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-18T19:00:10Z",
+        "title": "Firecracker Sejuani Chroma Skins",
+        "description": "6 New Chroma skins available for Firecracker Sejuani.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "rmOMTIw8BnA",
+        "preview": "https://i.ytimg.com/vi/rmOMTIw8BnA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-15T18:55:14Z",
+        "title": "New Best Champions for Season 9 Patch 9.1 for Climbing in EVERY ROLE",
+        "description": "Let's see what the meta is like moving into the new season!\nCheck out your GPI ready for next season! = https://moba.lol/2QHIHac\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nADC\n-Best = Lucian \n-Runner up = Vayne \n-Runner up = Kai'sa \n-New = Jinx \n-New = Sivir \n\nMid\n-Best = Galio \n-Runner up \n-Runner up \n-New = Katarina \n-Underrated = Malz\n\nJungle\n-Best = Kha'zix \n-Runner up = Camille \n-Runner up = Jax \n-New = Sejuani \n-underrated = Elise\n\nSupport\n-Best = Thresh\n-Runner up = Nami\n-Runner up = Zyra \n-New = Fiddle\n-Underrated = Sona\n\nTop Lane\n-Best = Jax\n-Runner up = Riven\n-Runner up = Aatrox \n-New = Nasus \n-New = Vlad\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions for Season 9 Patch 9.1 for Climbing in EVERY ROLE",
+        "videoId": "z2EMs_bbiwo",
+        "preview": "https://i.ytimg.com/vi/z2EMs_bbiwo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-08T21:53:52Z",
+        "title": "Firecracker Sejuani Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Firecracker Sejuani with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 1350RP\n\nSkin name is CONFIRMED as Firecracker Sejuani, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "kqaisykkxio",
+        "preview": "https://i.ytimg.com/vi/kqaisykkxio/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-08T20:43:30Z",
+        "title": "Patch 9.1 Rundown - FeelsBadMan",
+        "description": "Have to wait until 9.2 to see actual changes I guess, outside of the Sejuani bomb and possibly Ornn jungle. Really sad to see this given KespaCup provided a lot of valuable information I'd have thought.\n\nYou can help the Youtube channel by supporting on Patreon: https://www.patreon.com/lsxyz9 \n\nFollow me: Twitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls \nFacebook: http://facebook.com/nick.decesare.7 \nStream: http://twitch.tv/imls \nInstagram: http://instagram.com/LSXYZ9 \nBusiness E-mail: Nicholas.a.decesare at gmail dot com\nhttps://store.clgaming.net/collections/apparel",
+        "videoId": "TCMl8r52G1E",
+        "preview": "https://i.ytimg.com/vi/TCMl8r52G1E/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-04T06:28:24Z",
+        "title": "DYR JUNGLE... I SHOULD HAVE ENDED WHEN I HAD THE CHANCE! - Trick2g",
+        "description": "Don't forget to leave a like and \"LATA\" in the comments!! Likes really help guys ty... 😍\nSub for DAILY uploads: http://bit.ly/YTTrick2g\nClick the 🔔 for notifications! NOW\n\n\n\nFurther support me & the channel:\nNeed a new headset?!?! Get the best gaming headsets by Sennheiser ➡️ http://sennheiser.evyy.net/c/254410/244439/4104\n\n\nFollow #Trick2g here: \nTwitter: https://twitter.com/Trick2g\nInstagram for daily posts: https://www.instagram.com/trick2g/\nTwitch: https://www.twitch.tv/trick2g\n\n\nSend fan mail:\nTrick2G LLC \nP.O. Box 38384 \nHenrico, VA 23231\n*Size M/L for clothes*\n\n\nCredits:\nEditor ➡️  Jiggy http://bit.ly/JiggyPuffFridays\nThumbnail ➡️  Lilly https://twitter.com/Lillyvnv\nIntro song ➡️  \"Broken\" https://soundcloud.com/alasen\nOutro song ➡️ https://www.youtube.com/watch?v=ZdYBNNfhVN0\n\n\nContribute & translate my videos ➡️  http://bit.ly/2h94lj8\n\nI LOVE YOU\n#Gameplay #Udyr Udyr jungle, Sejuani Trick2g Sejuani Jungle, dexters lab intro trick2g",
+        "videoId": "qMW2S6GWh50",
+        "preview": "https://i.ytimg.com/vi/qMW2S6GWh50/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-11-13T01:40:04Z",
+        "title": "Tank Change Breakdown - Galio, Sejuani, Ornn",
+        "description": "A few popular pro tanks are receiving some big changes in the next couple patches aimed at making them less generalist and easier to balance. Today's video breaks down these changes and covers what each of them really needs to make them feel better to play.\n\nRead more GTL here: https://grabthelantern.tumblr.com",
+        "videoId": "-87jwuupQdc",
+        "preview": "https://i.ytimg.com/vi/-87jwuupQdc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-07-17T20:54:19Z",
+        "title": "Patch 8.14 Rundown - A pointless patch.",
+        "description": "100 cast range added to Gravity Field? Please, you're too generous. I actually can't understand what conversations are being had when some of these changes are decided. This is basically a dead patch. They could've easily \"hotfixed\" the jungle change and not wasted this entire patch with these changes. Very little will come from this patch.  \n\n0:12  - Aatrox\n4:59  - Fizz\n8:14  - Jinx\n8:28  - Karma\n10:13  - Sion\n11:01 - Twitch\n11:23 - Ahri\n12:51 - Cassiopeia\n13:37 - Elise\n13:57 - Nasus\n14:50 - Pantheon\n15:59 - Rek'Sai\n17:29 - Sivir\n19:04 - Vel'Koz\n20:19 - Vayne\n20:52 - Vi\n21:53 - Viktor\n24:18 - Dr. Mundo\n24:46 - Rakan\n25:18 -Sejuani\n25:48 - Shen\n26:27  - Swain\n26:30 - Talon\n27:14 - Wukong\n27:48 - Zoe\n--------------------------------------------------------------------\n28:38 - Hunters Machete/Hunters talisman\n29:31 - Teleport\n31:19 - Conqueror\n31:24 - Ghost poro\n31:25 - Zombie ward\n32:28 - Cursor update\n32:45 - UPCOMING SKINS\n=================================\n34:12 - RECAP\n\nYou can help the Youtube channel by supporting on Patreon: https://www.patreon.com/lsxyz9\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "a26aYQqiyK0",
+        "preview": "https://i.ytimg.com/vi/a26aYQqiyK0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-06-26T17:46:54Z",
+        "title": "7 Weird Challenger/Master builds that actually work",
+        "description": "I've found some more builds that are pretty fun and actually work! Let me know which is your favourite\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Follow my Stream → http://www.twitch.tv/phy_games\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nLethality Xayah - http://www.op.gg/summoner/userName=mvpmaha\nTalon jungle - http://euw.op.gg/summoner/userName=kaosmalthael\nSejuani mid - http://www.op.gg/summoner/userName=%EA%B2%80%EC%9D%80%EB%A8%B8%EB%A6%AC%EC%82%AC%EB%82%98%EC%9D%B4\nXayah/Rakan mid - http://www.op.gg/summoner/userName=mimimimmm\nKennen - http://na.op.gg/summoner/userName=ggeastrompest\nGragas support - http://www.op.gg/summoner/userName=lehends\n\nCheck out Neubria! Neubria Zone - https://bit.ly/2szPeF8 // Neubria Charge - https://bit.ly/2J7rOOo\n\nEditor - https://twitter.com/ToxOnPC\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n7 Weird Challenger/Master builds that actually work",
+        "videoId": "z4g1oz13lBQ",
+        "preview": "https://i.ytimg.com/vi/z4g1oz13lBQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-04-11T20:38:24Z",
+        "title": "[Coaching-Mid/Jungle] Cassiopeia / Sejuani Platinum",
+        "description": "You can help the Youtube channel by supporting on Patreon: https://www.patreon.com/lsxyz9\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "Hu6gXE7xYRc",
+        "preview": "https://i.ytimg.com/vi/Hu6gXE7xYRc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-02-08T18:59:25Z",
+        "title": "New in Patch 8.3 - Big balance changes and new Swain! (League of Legends)",
+        "description": "Still ill but I really wanted to get this video out and talk about some of the smaller buffs that will really make a difference (Kog'maw!)\nPatch notes = https://na.leagueoflegends.com/en/news/game-updates/patch/patch-83-notes\nRiot Swain video = https://www.youtube.com/watch?v=Utt-sd2FJNY\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nRunes first\nADC = 2:03\nMid = 3:27\nJungle = 5:53\nTop = 6:43\nSupport = no direct changes\nSwain = 7:11\n\nChanges (incase you'd rather read than listen to my dead voice!)\n-Unsealed Spellbook nerfed\n-Magical Footwear nerfed and moved to Tier 1\n-Perfect timing nerfed\n-Biscuits moved to Tier 2\nADC\n-Jhin buff\n-Kog nerf\n-Lucian buff\nMid\n-Azir nerf\n-Katarina nerf\n-Ryze nerf\n-Viktor buff\n-Zoe “nerf”\nJungle\n-Jarvan “nerf”\n-Master Yi buff\n-Sejuani nerf\nTop\n-Tryndamere buff\nSupport\n-No changes\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew in Patch 8.3 - Big balance changes and new Swain! (League of Legends)",
+        "videoId": "uT2J4qa8bz8",
+        "preview": "https://i.ytimg.com/vi/uT2J4qa8bz8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-12-09T17:54:36Z",
+        "title": "9 New OP Builds & Champs in Korea Patch 7.24 PRESEASON so far (League of Legends)",
+        "description": "Let's check out some new picks over in Korea since the new patch!\nOP.GG has a lot of these if you want to look properly = http://www.op.gg/champion/statistics\nThanks for the likes and subscribing! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nPicks\n-Leona/Rammus/Malz/Shyvana for lower ranks\n-Morgana Mid\n-Corki Fleet Footwork\n-Sion Arcane Comet\n-Kalista\n-Nautilus Support\n-Nasus Kleptomancy/Ancient Coin\n-Sejuani \n-Katarina (early game)\n-Olaf Jungle\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n9 New OP Builds in Korea Patch 7.24 PRESEASON so far (League of Legends)",
+        "videoId": "TjoNOxZw5R4",
+        "preview": "https://i.ytimg.com/vi/TjoNOxZw5R4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-11T01:59:51Z",
+        "title": "[Season 8] Runes For ALL Champions (500+ Rune Pages)",
+        "description": "Huge thanks to all of the pro players and challengers who helped in the discussion leading to the creation of these pages. Some pages on the rune video might have errors / extra pages (alternatives) missing, this was an oversight due to the amount of time it took sorry. \nTimestamps: \n\n00:00 Aatrox\n00:05 Ahri\n00:17 Akali\n00:21 Alistar\n00:33 Amumu\n00:42 Anivia\n00:49 Annie\n00:56 Ashe\n01:01 Aurelion\n01:12 Azir\n01:17 Bard\n01:36 Blitzcrank\n01:45 Braum\n01:50 Brand\n02:04 Caitlyn\n02:09 Camille\n02:18 Cassio\n02:23 Cho'Gath\n02:33 Corki\n02:37 Darius\n02:55 Diana\n03:07 Draven\n03:12 Dr.Mundo\n03:28 Ekko\n03:51 Elise\n03:54 Evelynn\n03:56 Ezreal\n04:05 Fiddlesticks\n04:12 Fiora\n04:17 Fizz\n04:24 Galio\n04:29 Gangplank\n04:43 Garen\n04:50 Gnar\n04:52 Gragas\n05:04 Graves\n05:06 Hecarim\n05:11 Heimerdinger\n05:20 Illaoi\n05:39 Irelia\n05:55 Ivern\n06:11 Janna\n06:25 Jarvan\n06:35 Jax\n06:51 Jayce\n06:56 Jhin\n07:03 Jinx - Slight error, Press the Attack not comet tree is hers. Comet is Jhin's+Press the Attack\n07:06 Kalista\n07:08 Karma\n07:31 Karthus\n07:33 Kassadin\n07:52 Katarina\n08:01 Kayle\n08:03 Kayn\n08:13 Kennen\n08:17 Kha'Zix\n08:22 Kindred\n08:27 Kled\n08:31 Kog'Maw\n08:36 Leblanc\n08:48 Lee Sin\n08:54 Leona\n09:04 Lissandra\n09:11 Lucian\n09:16 Lulu\n09:34 Lux\n09:46 Malphite\n09:52 Malzahar\n10:00 Maokai\n10:03 Master Yi\n10:12 Miss Fortune\n10:23 Mordekaiser\n10:28 Morgana\n10:33 Nami\n10:44 Nasus\n11:03 Nautilus\n11:12 Nidalee\n11:15 Nocturne\n11:40 Nunu\n11:55 Olaf\n12:06 Orianna\n12:18 Ornn\n12:23 Pantheon\n12:30 Poppy\n12:36 Quinn\n12:39 Rakan\n12:44 Rammus\n12:50 Reksai\n12:55 Renekton\n13:07 Rengar\n13:16 Riven\n13:30 Rumble\n13:33 Ryze\n13:35 Sejuani\n13:39 Shaco\n13:49 Shen\n13:53 Shyvana\n14:00 Singed\n14:22 Sion\n14:26 Sivir\n14:29 Skarner\n14:35 Sona\n14:50 Soraka\n15:03 Swain\n15:09 Syndra\n15:13 Tahm\n15:29 Taliyah\n15:38 Talon\n15:43 Taric\n15:48 Teemo\n15:59 Twisted Fate\n16:11 Thresh\n16:13 Tristana\n16:18 Trundle\n16:32 Tryndamere\n16:34 Twitch\n16:39 Udyr\n16:46 Urgot\n16:49 Varus\n16:53 Vayne\n16:56 Veigar\n17:05 Vel'Koz\n17:16 Vi\n17:26 Viktor\n17:40 Vladimir\n17:45 Volibear\n17:54 Warwick\n18:06 Wukong\n18:17 Xayah\n18:20 Xerath\n18:31 Xin Zhao\n18:38 Yasuo\n18:48 Yorick\n18:55 Zac\n19:04 Zed\n19:09 Ziggs\n19:15 Zilean\n19:27 Zoe\n19:32 Zyra\n\nPLEASE NOTE :\n\nThe outlined but gray icon in the primary tree means that it is a possible alternative, although the colored path is preferred. In the secondary tree the outline stands for alternatives aswell, but it also shows what you can actually swap out and what is mandatory.\n\nAll of the rune pages that are seen in this video are not only created through my own thoughts, but dozens of pro and high elo players were involved in coming to conclusions when doing these rune pages.\n\nHuge shout-outs to everyone who participated in working on these.\n\nBGM : https://www.youtube.com/watch?v=_rbVt0z6NLM",
+        "videoId": "X6uxG09qN0s",
+        "preview": "https://i.ytimg.com/vi/X6uxG09qN0s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-04T18:20:41Z",
+        "title": "19 of the Best OFF META picks and builds from Season 7 (League of Legends)",
+        "description": "There were a bunch of good off-meta picks this season so I've round up my top 19!\nOP.GGs for ones I have below if you want to look at them!\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nAP Rakan = https://www.twitch.tv/xayoo_/ or http://euw.op.gg/summoner/userName=cozicossack\nAD Sion = http://eune.op.gg/summoner/userName=thebausffs\nAP Shyvana/AP Rengar = http://na.op.gg/summoner/userName=p1\nAD Jungle Malz = http://na.op.gg/summoner/userName=Aquadragon\nJungle Leona / Support Sejuani = http://euw.op.gg/summoner/userName=ForceObscure\nAD Leblanc = http://euw.op.gg/summoner/userName=Tibbers+Hug\nLethality Poppy = http://euw.op.gg/summoner/userName=swcodebarres\nAD Blitzcrank = http://euw.op.gg/summoner/userName=Prim0\nNocturne Mid = http://www.op.gg/summoner/userName=%EC%8F%98%ED%95%AB%ED%8A%B8\nHybrid Shaco = http://na.op.gg/summoner/userName=extreme+person\nAD Bard = http://na.op.gg/summoner/userName=p1picc\nMid/Top Evelynn = http://eune.op.gg/summoner/userName=hiiuii\nMid/Top Sona = http://na.op.gg/summoner/userName=rappinghipster\nAP Gragas = http://na.op.gg/summoner/userName=nikkonikkonii\nFiddlesticks Mid = http://na.op.gg/summoner/userName=thedongleader\nAP nasus = https://www.youtube.com/watch?v=cjRQ0_hPERg\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n20 of the Best OFF META picks and builds from Season 7 (League of Legends)",
+        "videoId": "c-3vg0QMLqc",
+        "preview": "https://i.ytimg.com/vi/c-3vg0QMLqc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-24T18:21:24Z",
+        "title": "END OF CENSER META!! 7.21 New OP CHAMPS- Biggest Changes (League of Legends)",
+        "description": "Time to go over all the massive meta changes in 7.21!\nPatch notes = http://na.leagueoflegends.com/en/news/game-updates/patch/patch-721-notes\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChanges\n-Censer nerf\n-Azir nerf\n-Galio AP buffs\n-Sejuani nerfs\n-Rammus nerf/buff\n-Evelynn buff\n-Ekko Jungle buff\n-Gangplank buff\n-Urgot nerf/buff\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nEND OF CENSER META!! 7.21 New OP CHAMPS- Biggest Changes (League of Legends)",
+        "videoId": "yM0rgn6XN8o",
+        "preview": "https://i.ytimg.com/vi/yM0rgn6XN8o/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-18T10:05:07Z",
+        "title": "MY WHOLE TEAM IS BOOSTED! | SEJUANI JUNGLE - Trick2G",
+        "description": "THAT BOAR!!! LEAVE A LIKE + COMMENT + SUB!!! TYSM\n\n\nJOIN SUBWARS!!!!! → http://bit.ly/2tlx1gH\n\nWATCH LIVE → http://twitch.tv/trick2g\n\nCHECK EM OUT\n● 🎧 Buy the finest gaming headsets from Sennheiser 🎧  → http://bit.ly/1SKGjVU\n● 🖥 Cyberpower PC use code 'TRK' for 5% off above 1.299$  → http://bit.ly/1R2Yqd9\n● 😎 👓 Get the BEST gaming glasses from Gunnar using discount code TRK → http://bit.ly/2bgV3lp\n● 🖱 Syber Gaming →http://bit.ly/1OCN0Zf\n\n\n● COME AND JOIN MY DISCORD!! → discord.gg/trick2g\n\n\nSpecial thanks to:\nEditor: http://bit.ly/2eTGEOz\nThumbnail: http://bit.ly/2faOvUR\nIntro & Outro Song: http://bit.ly/2wjO99d\n\n\n\n\nIf you have extra time and would like to contribute! Go here: \nhttp://www.youtube.com/timedtext_cs_panel?c=UCuSrv3qgQA7SSi6R9bWag5A&tab=2\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "qZb6EdukjC8",
+        "preview": "https://i.ytimg.com/vi/qZb6EdukjC8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-04T17:59:49Z",
+        "title": "Patch 7.19 NEW Best Champions to carry with for EVERY Role (League of Legends)",
+        "description": "Trying to have more picks in these videos now to make it more interesting, let me know what you think!\nThanks for liking and subscribing! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps \nADC = start of the video\nMid = 3:02\nTop = 5:37\nJungle = 7:30\nSupport = 9:43\n\nChampions - builds etc are in the video!\n-ADC = Tristana, Vayne // A- Twitch, Draven\n-Mid = Talon, Twisted Fate // A – Azir, Veigar\n-Top = Riven, Fiora // A – Singed, Jax\n-Jungle = Sejuani, Rammus // A- Nidalee, Kayn\n-Support =Janna, Rakan // A – Lulu, Soraka\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nPatch 7.19 NEW Best Champions to carry with for EVERY Role (League of Legends)",
+        "videoId": "Fhab9bOjnMQ",
+        "preview": "https://i.ytimg.com/vi/Fhab9bOjnMQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-08-25T17:01:06Z",
+        "title": "Patch 7.17 NEW Best Champions to carry with for EVERY Role (League of Legends)",
+        "description": "Bit earlier this time but we have even more picks to talk about!\nLet me know what you think of this slightly different format covering more per role.\nThanks for liking and subscribing! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps \nADC = start of the video\nJungle = 2:31\nMid = 4:41\nTop = 6:41\nSupport = 8:52\n\nChampions - builds etc are in the video!\n-ADC =S- Tristana, Twitch // =A- Jhin, Vayne\n-Jungle =Tank – Sejuani, Cho'Gath // =Carry – Jarvan, Shyvana\n-Mid = S- Twisted Fate, Malzahar // A – Talon, Anivia \n-Top = S- Riven, Jarvan // A – Maokai, Gangplank\n-Support = S- Janna, Thresh // A – Rakan, Soraka\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nPatch 7.17 NEW Best Champions to carry with for EVERY Role (League of Legends)",
+        "videoId": "65Rxt648WvQ",
+        "preview": "https://i.ytimg.com/vi/65Rxt648WvQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-08-13T17:06:23Z",
+        "title": "VAYNE is back? 8 New OP Champs & Builds in Korea 7.16 SO FAR (League of Legends)",
+        "description": "Been stalking Korea since the patch as usual and we've got 8 new picks that are doing a lot better since it dropped last week!\nThanks for liking and subscribing!\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChamps in this video\n-Vayne (especially lower ranks)\n-Gangplank (with duskblade?)\n-Nocturne\n-Vel'Koz\n-Sona\n-Sejuani\n-Singed\n-Vi\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nVAYNE is back? 8 New OP Champs & Builds in Korea 7.16 SO FAR (League of Legends)",
+        "videoId": "b5AFNbY6W5o",
+        "preview": "https://i.ytimg.com/vi/b5AFNbY6W5o/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-08-01T17:40:57Z",
+        "title": "Patch 7.15 NEW Best Champions to carry with for EVERY Role (League of Legends)",
+        "description": "Apart from a few things the meta is pretty good in 7.15 but there are still a few picks that are doing much better!\nCheck out what's op in Korea = https://youtu.be/NK6MUAryqY4\nThanks for liking and subscribing! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps \nADC = Start of video\nMid = 2:02\nJungle = 4:12\nSupport = 6:15\nTop = 8:10\n\nChampions - builds etc are in the video!\nADC = 1 = Twitch. 2 = Sivir\nMid = 1 = Twisted Fate. 2 = Kassadin / Zed (Ori/Malz still busted)\nJungle = 1 = Maokai. 2 = Sejuani (Cho is still pretty broken tho)\nSupport = 1 = Janna. 2 = Taric\nTop = 1 = Jarvan. 2 low elo = Nasus. 2 high = Maokai\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nThumbnail Art\nhttp://popokupingupop90.deviantart.com/art/League-of-Legends-Twisted-Fate-Render-617660269\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nPatch 7.15 NEW Best Champions to carry with for EVERY Role (League of Legends)",
+        "videoId": "GNTzlWhnj98",
+        "preview": "https://i.ytimg.com/vi/GNTzlWhnj98/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-07-04T15:49:39Z",
+        "title": "TRINITY FIORA? 9 NEW OP PICKS IN Korea Patch 7.13 SO FAR (League of Legends)",
+        "description": "Quite a lot changed this patch so let's go over the new stuff in Korea!\nRemember to enter the giveaway, just leave a comment and like the video if you do!\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChamps in this video\n-Kassadin / Caitlyn (strongest 2 champs)\n-Fiora (trinity force build)\n-Maokai\n-Sejuani\n-Jax\n-Taric\n-Warwick\n-Rammus\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nTRINITY FIORA? 9 NEW OP PICKS IN Korea Patch 7.13 SO FAR (League of Legends)",
+        "videoId": "jKf2ogqAGbc",
+        "preview": "https://i.ytimg.com/vi/jKf2ogqAGbc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-06-30T18:46:23Z",
+        "title": "Stream Highlight! \"Well if you're going to spoon feed me\" American Sniper Jhin - League of Legends",
+        "description": "Short fun edit, stream highlight. LoL Tips and tricks featuring Jhin, Thresh, Tahm Kench and Sejuani.\n\nHi I'm Hanjaro - The bald is beautiful, bearded wonder, High Elo League of Legends Support Main! I stream daily and answer any/most questions that are asked by viewers regarding the support role. I also offer coaching for those interested and upload the full reviews on Youtube so you can watch back the footage and take notes if necessary.\n\nFollow me over at twitch and get notified when I go live!\n- https://www.twitch.tv/hanjarolol\n\nSubscribe to my channel and follow me on twitter to see when I upload a new video:\n- https://www.youtube.com/channel/UC3HtTt5mzYsAXXxpH0ak37A?sub_confirmation=1\n- https://twitter.com/hanjarolol\n\nPrevious video:\nS7 Coaching - Silver II - Thresh Support:\nhttps://youtu.be/UdrAdlTXvDg\n\nCurrent running series:\n- Top D Duo's: https://www.youtube.com/playlist?list=PLbgl8UGfpbcrtmY3DsarSFFN35y7YHbJV\n- Stream Highlights: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr-XETzjbyk35scK2EAqgOP\n- Coaching Sessions: https://www.youtube.com/playlist?list=PLbgl8UGfpbcr1JoOXAX2PCvHXckFJoLg3\n\n-----------------------\n\nMusic provided by Monstercat\n- Track name: [Electro] - Pegboard Nerds - Emergency [Monstercat Release]\n- Track link: https://www.youtube.com/watch?v=B88mv0dhYwc&index=47&list=PL21A7A915E7020E73\n\nMusic provided by Monstercat\n-Track name: WRLD - Drift Away [Monstercat Release] \n- Track link: https://www.youtube.com/watch?v=fxOjcjl3TFU\n\nMusic provided by Monstercat\n- Track name: Robotaki - Automaton [Monstercat Release]\n- Track link: https://www.youtube.com/watch?v=HJLaDoQzj_Q&list=RDNFB6Y2Qt8ag&index=28",
+        "videoId": "3meNaAMq_iQ",
+        "preview": "https://i.ytimg.com/vi/3meNaAMq_iQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-06-18T15:05:46Z",
+        "title": "8 NEW OP PICKS IN Korea Patch 7.12 SO FAR (League of Legends)",
+        "description": "Back stalking some more koreans so lets see what they are up to in 7.12!\nRemember to try Haste! - http://bit.ly/phyhaste\n5 Biggest Changes since 7.12 = https://youtu.be/v53QLQmpWaM\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChamps in this video\n-Zac support\n-Shaco\n-MF\n-Jinx\n-Evelynn\n-Sejuani top\n-Swain\n-Morde top\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n8 NEW OP PICKS IN Korea Patch 7.12 SO FAR (League of Legends)",
+        "videoId": "5LyJBAjK4WI",
+        "preview": "https://i.ytimg.com/vi/5LyJBAjK4WI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-16T20:04:48Z",
+        "title": "Patch 7.10 Rundown",
+        "description": "0:12 - Heimerdinger\n4:42 - Rammus\n9:25 - Cassiopeia\n9:30 - Fizz\n12:12 - Graves\n15:10 - Jax\n15:22 - Ivern\n19:25 - Lee Sin\n20:35 - Lulu\n21:05 - Kassadin\n21:56 - Maokai\n23:17 - Rakan\n25:53 - Renekton\n26:00 - Riven\n27:16 - Sejuani\n28:04 - Udyr\n28:22 - Yorick\n29:07 - Zac\n\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Not available at this time\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "uTZws9sxZE4",
+        "preview": "https://i.ytimg.com/vi/uTZws9sxZE4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-16T17:22:26Z",
+        "title": "LEE SIN & GRAVES NERFS? NEW OP CHAMPS IN 7.10 - Champs to watch / Nerfs / Buffs",
+        "description": "Time to check out all of the new changes and what they actually mean for the game moving forward in 7.10!\nCome and watch me stream right now! → http://www.twitch.tv/phy_lol\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChanges = http://www.surrenderat20.net/p/current-pbe-balance-changes.html#balance\nRezone for the heimer stuff = https://www.youtube.com/user/RezoneGAMES\n\nList of changes\n-Fizz w buffs/nerfs\n-Lee Sin nerf\n-Graves nerf\n-Ivern nerf\n-Sejuani nerf\n-Zac buff?\n-Rammus rework\n-Lulu nerf\n-Maokai buffs/nerfs\n-Rakan buffs/nerfs\n-Ancient coin buffs\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nLEE SIN & GRAVES NERFS? NEW OP CHAMPS IN 7.10 - Champs to watch / Nerfs / Buffs",
+        "videoId": "iDU8EgJz5-g",
+        "preview": "https://i.ytimg.com/vi/iDU8EgJz5-g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-15T17:38:43Z",
+        "title": "NEW TOP 5 JUNGLERS in Patch 7.9 Mid-Season to climb with (League of Legends)",
+        "description": "Let's check out the best junglers you can play right now if you want to actually carry and climb!\nBest Champions in every role 7.9 = https://youtu.be/ricCyW7eI7w\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTop 5 ADC = https://youtu.be/fbzZTlrEQ6I\nTop 5 Mid = https://youtu.be/RhFvSFTHrrs\n\nJunglers in this video\n1 = Ivern\n2 = Sejuani\n3 = Warwick\n4 = Low = Xin Zhao - High = Elise\n5 = Low = Amumu - High = Graves\n\nHM = Lee Sin\nWatch = Nunu (Soft Ivern counter)\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNEW TOP 5 JUNGLERS in Patch 7.9 Mid-Season to climb with (League of Legends)",
+        "videoId": "Wby9R7-6oPM",
+        "preview": "https://i.ytimg.com/vi/Wby9R7-6oPM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-13T04:08:06Z",
+        "title": "Off-Meta Picks",
+        "description": "Anivia support and Sejuani top aren't necessarily troll - the champions still bring value to their team and can contribute to a win. Evaluating champions based on what they bring to the table and not necessarily where they've been historically played is a better mindset to have, especially in solo queue.\n\nRead more GTL here: https://grabthelantern.tumblr.com",
+        "videoId": "46Dn0vA9duU",
+        "preview": "https://i.ytimg.com/vi/46Dn0vA9duU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-09T03:11:54Z",
+        "title": "Tank Rework Retrospective",
+        "description": "Sejuani, Maokai, and Zac all got some substantial changes in the midseason patch. While it's still early, I give my first impressions on those champs in today's video.\n\nRead more GTL here: https://grabthelantern.tumblr.com",
+        "videoId": "fNLaZHykTuY",
+        "preview": "https://i.ytimg.com/vi/fNLaZHykTuY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-08T19:14:21Z",
+        "title": "NEW BEST CHAMPIONS IN 7.9 Mid-Season for every role (League of Legends)",
+        "description": "Looking at the new best champions in each role for the mid-season patch 7.9!\nThe OP picks in Korea 7.9 = https://youtu.be/hzk6VT0nibo\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nTimestamps \nTop = Start of video\nJungle = 2:50\nMid = 4:47\nADC = 7:15\nSupport = 9:52\n\nChampions - builds etc are in the video!\nTop = Yasuo / Fiora\nJungle = Sejuani / Warwick / Ivern\nMid = (Ahri) Kassadin / Ziggs\nADC = Caitlyn / (lucian) Kog'maw\nSupport = Lulu / Thresh\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNEW BEST CHAMPIONS IN 7.9 Mid-Season for every role (League of Legends)",
+        "videoId": "ricCyW7eI7w",
+        "preview": "https://i.ytimg.com/vi/ricCyW7eI7w/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-07T18:52:37Z",
+        "title": "FULL AP MAOKAI? 8 NEW OP PICKS IN Korea Patch 7.9 MID-SEASON SO FAR (League of Legends)",
+        "description": "Let's look at 8 new op champions over in Korea since 7.9 mid-season update! The new Maokai is making a return.. but not with a build you'd expect..\n$500 RP Giveaway (super easy to enter!) = https://haste.net/phylol/\n♦ Thanks for liking and subscribing! :) → http://bit.ly/phylolsub\n\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nChampions in this video\n-Maokai support\n-Sejuani top / jungle\n-Jax\n-Jinx\n-Anivia\n-Twitch\n-Master Yi / Elise\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nFULL AP MAOKAI? 8 NEW OP PICKS IN Korea Patch 7.9 MID-SEASON SO FAR (League of Legends)",
+        "videoId": "hzk6VT0nibo",
+        "preview": "https://i.ytimg.com/vi/hzk6VT0nibo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "lolclass",
+        "displayName": "LolClass",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-03T16:00:01Z",
+        "title": "Sejuani Rework Tips and Tricks Guide | League of Legends",
+        "description": "Of the 3 tanks that got reworks for the Mid-Season 2017 patch, Sejuani received the biggest changes and has real potential to be incredibly strong so we decided to kick things off with some tips and tricks on her first.\n\nSubscribe our Channel: https://youtube.com/LolClassVideos?sub_confirmation=1\n\nFacebook: https://facebook.com/LolClasscom\nWebsite: http://www.lolclass.gg\nTwitter: https://twitter.com/LolClassCom",
+        "videoId": "AA-MikgGxaM",
+        "preview": "https://i.ytimg.com/vi/AA-MikgGxaM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-01T18:34:48Z",
+        "title": "Beast Hunter Sejuani (2017) Skin Spotlight - League of Legends",
+        "description": "League of Legends Beast Hunter Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Beast Hunter Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "UudvMvnHgPM",
+        "preview": "https://i.ytimg.com/vi/UudvMvnHgPM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-01T18:34:48Z",
+        "title": "Bear Cavalry Sejuani (2017) Skin Spotlight - League of Legends",
+        "description": "League of Legends Bear Cavalry Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Bear Cavalry Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "zqCldN4RGbA",
+        "preview": "https://i.ytimg.com/vi/zqCldN4RGbA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-01T18:34:47Z",
+        "title": "Dawnchaser Sejuani (2017) Skin Spotlight - League of Legends",
+        "description": "League of Legends Dawnchaser Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Dawnchaser Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "fTW21IYe7r4",
+        "preview": "https://i.ytimg.com/vi/fTW21IYe7r4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-01T18:34:47Z",
+        "title": "Darkrider Sejuani (2017) Skin Spotlight - League of Legends",
+        "description": "League of Legends Darkrider Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Darkrider Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "Rwg0Q9PxRRg",
+        "preview": "https://i.ytimg.com/vi/Rwg0Q9PxRRg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-01T18:34:45Z",
+        "title": "Sabretusk Sejuani (2017) Skin Spotlight - League of Legends",
+        "description": "League of Legends Sabretusk Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Sabretusk Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "GVr130vQzsU",
+        "preview": "https://i.ytimg.com/vi/GVr130vQzsU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-01T18:34:45Z",
+        "title": "Poro Rider Sejuani (2017) Skin Spotlight - League of Legends",
+        "description": "League of Legends Poro Rider Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Poro Rider Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "ojOXFLFC6w8",
+        "preview": "https://i.ytimg.com/vi/ojOXFLFC6w8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-01T18:34:44Z",
+        "title": "Traditional Sejuani (2017) Skin Spotlight - League of Legends",
+        "description": "League of Legends Traditional Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Traditional Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "qDFfQWWYyDY",
+        "preview": "https://i.ytimg.com/vi/qDFfQWWYyDY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-19T16:00:04Z",
+        "title": "NEW SEJUANI REWORK IS BROKEN! Gameplay of Sej/Zac/Maokai (League of Legends)",
+        "description": "Sejunai is WAY better than people think she is right now!! Let's look at gameplay all of 3 new reworks.\n♦ Help us hit 500k subs on the channel! :) → http://bit.ly/phylolsub\n\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nTimestamps\nSejuani - at the start\nZac - 4:38\nMaokai  - 8:18\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNEW SEJUANI REWORK IS BROKEN! Gameplay of Sej/Zac/Maokai (League of Legends)",
+        "videoId": "Ka7DQv78hww",
+        "preview": "https://i.ytimg.com/vi/Ka7DQv78hww/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-19T16:00:02Z",
+        "title": "FULL AP SEJUANI REWORK LITERALLY ONE-SHOTS!! - Sejuani Gameplay - League of Legends",
+        "description": "New Sejuani Rework New Champion Gameplay Mid Lane Full AP LEGIT ONE SHOTS LOL In League of Legends! \"Like\" if you want more!\n→MAOKAI REWORK JUNGLE GAMEPLAY: http://bit.ly/2oNnJ8s\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n\n Follow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \n Redmercy Merchandising Now Available!\n →Redmercy Store: http://tinyurl.com/qb3zjdc\n \n Hope you enjoy and please sub rate and comment!!! :)\n\nFULL AP SEJUANI REWORK | LEGIT ONE-SHOTS!! - Sejuani Gameplay - League of Legends",
+        "videoId": "DT8WqAf5gSk",
+        "preview": "https://i.ytimg.com/vi/DT8WqAf5gSk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-19T14:00:07Z",
+        "title": "ZAC REWORK NEW Q IS BROKEN LOL WTF..?! - Zac Jungle Gameplay - League of Legends",
+        "description": "New Zac Rework New Champion Gameplay in Jungle In League of Legends, NEW Q IS PRETTY BUSTED!! \"Like\" if you want more!\n→AP One-Shot SEJUANI REWORK: http://bit.ly/2oNfedB\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n\n Follow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \n Redmercy Merchandising Now Available!\n →Redmercy Store: http://tinyurl.com/qb3zjdc\n \n Hope you enjoy and please sub rate and comment!!! :)\n\nZAC REWORK NEW Q IS BUSTED LOL..?! - Zac Jungle Gameplay - League of Legends",
+        "videoId": "nQ4gVFUoH9Y",
+        "preview": "https://i.ytimg.com/vi/nQ4gVFUoH9Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-19T11:45:32Z",
+        "title": "Sejuani | Midseason Update 2017 | All Skins",
+        "description": "Video shows off all the updated Sejuani skins from the 2017 Midseason Gameplay Update, Time stamps below!\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSkin Time Stamps:\n00:04 - Sabretusk Sejuani\n01:51 - Darkrider Sejuani\n03:37 - Traditional Sejuani\n05:27 - Bear Cavalry Sejuani\n07:15 - Poro Rider Sejuani\n09:06 - Beast Hunter Sejuani\n10:53 - Sejuani Dawnchaser\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights",
+        "videoId": "cRKttb8Cwig",
+        "preview": "https://i.ytimg.com/vi/cRKttb8Cwig/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-19T03:46:42Z",
+        "title": "Classic Sejuani (2017), the Winter's Wrath - Ability Preview - League of Legends",
+        "description": "Sejuani, the Winter's Wrath Ability Preview.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights!\n\nIf you appreciate what I do you can support me by disabling ad block.",
+        "videoId": "K1zm12YLOwk",
+        "preview": "https://i.ytimg.com/vi/K1zm12YLOwk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-18T22:26:39Z",
+        "title": "Midseason 2017 Thoughts",
+        "description": "Timestamps:\n0:34 - Sejuani\n4:31 - Zac\n8:09 - Maokai\n11:39 - Gargoyle Stoneplate \n15:24 - Adaptive Helm          \n17:22 - Guardian Angel          \n20:14 - Ancient Coin               \n21:22 - Relic Shield                \n21:38 - Spellthief's Edge        \n23:14 - Contribution Clarity\n23:44 - Rift Herald\n25:08 - Looking Forward\n\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "jZGqC1H61MY",
+        "preview": "https://i.ytimg.com/vi/jZGqC1H61MY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-18T21:42:39Z",
+        "title": "SEJUANI, ZAC & MAOKAI ABILITIES REVEALED!!! Rework | Midseason Update - League of Legends",
+        "description": "SEJUANI MAOKAI & ZAC REWORK ABILITIES REVEALED!! Mid-Season Tank Update Gameplay In League of Legends! \"Like\" if you want more!\n→NEW GAME MODE: http://bit.ly/2pz25VI\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n \nhttp://na.leagueoflegends.com/en/featured/midseason-2017\n\n Follow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \n Redmercy Merchandising Now Available!\n →Redmercy Store: http://tinyurl.com/qb3zjdc\n \n Hope you enjoy and please sub rate and comment!!! :)\n\nSEJUANI, ZAC & MAOKAI REWORK ABILITIES REVEALED!!! - Midseason Update - League of Legends",
+        "videoId": "LX0xQfYrAlk",
+        "preview": "https://i.ytimg.com/vi/LX0xQfYrAlk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-18T21:02:23Z",
+        "title": "Maokai, Zac & Sejuani | Tank Roster Update - Midseason 2017",
+        "description": "Midseason 2017 is here with a tank update to Maokai, Zac and Sejuani.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\n\nPart of the Midseason 2017 update was to give the Tank Roster a small gameplay update, this video will mention what is unchanged, what has updated and what is new!\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights",
+        "videoId": "MoVilNVsRPE",
+        "preview": "https://i.ytimg.com/vi/MoVilNVsRPE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-04-16T14:00:01Z",
+        "title": "NEW ZAC, MAOKAI, SEJUANI REWORKS! OWNING RIFT HERALD?! & MORE - Mid-Season League of Legends !",
+        "description": "HUGE Mid-Season Update, Maokai, Sejuani, Zac Reworks PLUS new items AND new RIFT HERALD!!  League of Legends! \"Like\" if you want more!\n→Journey To Masters #38 S7: http://bit.ly/2owna2J\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n\nhttp://euw.leagueoflegends.com/en/news/game-updates/gameplay/intro-midseason-2017\n \n Follow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \n Redmercy Merchandising Now Available!\n →Redmercy Store: http://tinyurl.com/qb3zjdc\n \n Hope you enjoy and please sub rate and comment!!! :)\n\nNEW ZAC, MAOKAI, SEJUANI REWORKS + CONTROLLING RIFT HERALD?! & MORE - Mid-Season League of Legends !",
+        "videoId": "D0GmsCMsxX4",
+        "preview": "https://i.ytimg.com/vi/D0GmsCMsxX4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-23T18:01:11Z",
+        "title": "TANKS GIVEN MORE CC? Crit/Arm Pen changes? Future changes in a few patches! (League of Legends)",
+        "description": "I've stalked and compiled everything we know on the mid season update so far that will be dropping in a few patches time!\n♦ Subscribe if you enjoyed! :) → http://bit.ly/phylolsub\n\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nLinks\nMaokai = https://boards.na.leagueoflegends.com/en/c/developer-corner/HAQtAoTH-mid-season-tanks-update-maokai\nZac = https://boards.na.leagueoflegends.com/en/c/developer-corner/vLEjALxZ-mid-season-tanks-update-zac\nSejuani = https://boards.na.leagueoflegends.com/en/c/developer-corner/pcT3hhuA-mid-season-tanks-update-sejuani\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nTANKS GIVEN MORE CC? Crit/Arm Pen changes? Future changes in a few patches! (League of Legends)",
+        "videoId": "kHdv6ZDYe2Q",
+        "preview": "https://i.ytimg.com/vi/kHdv6ZDYe2Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-02-20T18:00:00Z",
+        "title": "The Future Rework of SEJUANI - League of Legends",
+        "description": "League of Legends - The Future Rework of SEJUANI! Everything we know about her upcoming rework. (Thumbnail is at 4:24!)\n ðŸ”· RapidX - Get 10% Off Your Gaming Chair With The Code 'Curios' âž¥ https://goo.gl/KXRZeX\n \n Sejuani Update Post Link: http://boards.na.leagueoflegends.com/en/c/developer-corner/pcT3hhuA-mid-season-tanks-update-sejuani\n \n âž¥ Subscribe for More League of Legends Videos! http://bit.ly/1O7TtJh \n \n â–º Ironside Computers - Click Here to Customize Your Own PC: http://ironsidecomputers.com/page.php?load=index\n \n \n ðŸ”´ Hearthstone Curios http://bit.ly/2a2yz71\n ðŸ”´ Overwatch Curios: http://bit.ly/2fWfnaR\n ðŸ”´ League of Legends Moments: http://bit.ly/2fTp4oE\n ðŸ”´ Overwatch Moments: http://bit.ly/1NvJ7qi\n \n ðŸ”¶ Twitter: https://twitter.com/GamingCurios\n ðŸ”¶ Facebook: https://www.facebook.com/GamingCurios\n ðŸ”¶ Instagram: https://www.instagram.com/gamingcurios/\n \n \n â–ºLeague of Legends Outro Song: https://youtu.be/b36r3JWGxcI\n \n â–ºTable Scene Intro Art by Ze aka VegaColors: http://vegacolors.deviantart.com/\n â–º Library Scene Intro Art by Ze aka VegaColors: http://vegacolors.deviantart.com/\n â–ºJarvan Scene Intro Art by Ewa Labak: http://ewalabak.deviantart.com/\n \n League of Legends Chiptune Background Music Tracks by Jredd: https://soundcloud.com/jredd\n \n League of Legends Additional Production (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n \n âœ” League of Legends Video Credits:\n â— Published By: Jeremy \"Gaming Curios\"\n â— Produced By: Jeremy \"Gaming Curios\"\n â— Written By: Jeremy \"Gaming Curios\" & Edge\n â— Performed By: Jeremy \"Gaming Curios\"\n â— Edited By:",
+        "videoId": "63UIZKKMK9I",
+        "preview": "https://i.ytimg.com/vi/63UIZKKMK9I/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-02-16T16:00:02Z",
+        "title": "SEJUANI REWORK FULL, TANK CLASS UPDATE!! | League of Legends",
+        "description": "Sejuani Rework & Tank Class Update Confirmed and Incoming League of Legends!!. 'Like' if you enjoyed & want MORE ðŸ’™\n â†’PLAYING WITH CHALLENGER PLAYER: http://bit.ly/2kfYojQ\n â†’Subscribe For More!: http://full.sc/1gukNqq â†’My OVERWATCH Channel: http://bit.ly/1EAvIuW\n \n Riot's Post\n http://boards.pbe.leagueoflegends.com/en/c/champions-gameplay-feedback/HkG9bakv-mid-season-tanks-update-sejuani\n \n Follow me here!\n â†’My Stream: http://twitch.tv/redmercylol\n â†’My Twitter: http://twitter.com/RedmercyLoL\n â†’Facebook: https://www.facebook.com/RedmercyLoL\n â†’My Instagram: http://instagram.com/redmercylol\n â†’My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \n Redmercy Merchandising Now Available!\n â†’Redmercy Store: http://tinyurl.com/qb3zjdc\n \n Artwork Used:\n http://img13.deviantart.net/b6bf/i/2014/060/0/c/_lol___blackfrost__sejuani_by_zuqling-d78hz70.png\n \n Hope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "bmj9oUS3HyA",
+        "preview": "https://i.ytimg.com/vi/bmj9oUS3HyA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-21T19:53:49Z",
+        "title": "Patch 6.23 Rundown - Vayne buffs, Rengar no nerf lol, Ivern nerfs",
+        "description": "Patch 6.23 Rundown\n- Vayne is buffed because of BoTRK buff. Alongside her Ezreal/Lucian are buffed as well. This hurts some other ADCs who already got hit a few patches ago. Also before people comment that not a lot of Vayne's build it ; I think they should w/ duskblade\n- Malzahar changes were unnecessary\n- Shen buff is nice, but I don't think it'll make him 100% viable again unless as a counterpick ; Nice synergy w/ Ivern though.\n- Jungle change to exp helps some junglers (Sejuani, Skarner, Graves, Shyvanna, RekSai, Nidalee, hurts others) and nerfs Ivern.\n- Anivia change is whatever\n- Shyvanna only looks like a soloq star and not competitive, not 100% sure though.\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "pOaZWI_uYHA",
+        "preview": "https://i.ytimg.com/vi/pOaZWI_uYHA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-16T18:06:16Z",
+        "title": "SEJUANI SLIDING THROUGH - COLOSSUS SWACKAJUANI - Trick2G",
+        "description": "http://www.twitch.tv/trick2g \nFollow me @ twitter.com/trick2g for D Latest updates.\nUse Promo Code \"TRK for 3%cashback on G2A https://www.g2a.com/?reflink=t2g\n�я Sennheiser ��� http://bit.ly/1SKGjVU\n�я Cyberpower Pc use code T2G for 5% off above 1.299$ ��� http://bit.ly/1R2Yqd9\n�я Be a part of subwars ��� http://www.mysubwars.com\n�я Syber Gaming ��� http://www.sybergaming.com\n�я Gunnar use discount code TRK ��� http://bit.ly/2bgV3lp\n�я Join us on our Curse server ��� https://www.curse.com/trick2g\n�я My Youtube Channel ��� http://www.youtube.com/user/trick0850\n------------------------------------------------------------------------------\n�я Want to learn about the gates? Check out D MY WAY playlist:\nhttps://www.youtube.com/playlist?list...\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "6ZeGK6ufI1Q",
+        "preview": "https://i.ytimg.com/vi/6ZeGK6ufI1Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-10T04:51:22Z",
+        "title": "[Season 7] Masteries For Almost All Champions",
+        "description": "Some masteries reflect personal viewpoints on the game and are aimed specifically at lane/control advantages and edges. This wasn't a planned video and also there are more variations to some champs than just what was shown as possibilities in this video.\nTIMESTAMPS: \n\nADC\n\n 00:00 Ashe\n00:04 Caitlyn\n00:10 Draven\n00:14 Ezreal\n00:19 Jhin\n00:25 Jinx\n00:29 Varus\n00:35 Vayne\n00:38 Kalista\n00:42 Tristana\n00:47 Twitch \n\nSupport\n00:50 Taric\n00:55 Thresh\n01:00 Zyra\n01:05 Braum\n01:10 Leona\n01:15 Nami\n01:19 Nautilus(top error)\n01:23 Soraka \n01:27 Karma\n01:32 Tahm Kench\n\nMid\n\n01:37 Ahri\n01:42 Annie\n01:47 Ekko\n01:50 Aurelion Sol\n01:55 Brand\n02:00 Cassiopeia\n02:04 Fizz\n02:10 Jhin\n02:XX Karthus RENDER ERROR 18/12/0\n02:14 Kassadin RENDER ERROR 12/18/0 TLD/DG/Feast\n02:19 Katarina\n02:23 Leblanc\n02:27 Lissandra\n02:32 Lux\n02:38 Malzahar\n02:41 Orianna\n02:46 Pantheon\n02:51 Ryze\n02:55 Syndra\n03:00 Talon\n03:05 Twisted Fate\n03:10 Varus\n03:14 Vel'Koz\n03:18 Viktor\n03:23 Vladimir\n03:28 Zed\n03:32 Zilean\n\nJungle\n\n03:37 Amumu\n03:42 Elise\n03:47 Evelynn\n03:50 0/18/12 render bug\n03:55 Ivern\n04:01 Jarvan 4\n04:05 Kha'Zix\n04:10 Kindred\n04:14 LeeSin \n04:18 Nautilus shared top\n04:23 Nidalee\n04:27 Nunu TWO pages\n04:36 Pantheon\n04:40 Rammus\n04:45 Rek'Sai\n04:50 Sejuani\n04:55 Shaco\n05:00 Skarner\n05:04 Vi\n05:09 Zac\n\nTop:\n\n05:13 Ekko\n05:18 Gangplank\n05:23 Darius AD\n05:27 Mundo\n05:32 Fiora\n05:36 Fizz\n05:42 Jax\n05:46 Jayce\n05:50 Kennen\n05:55 Lissandra\n06:00 Malphite\n06:05 Maokai\n06:09 Mordekaiser TWO pages\n06:17 Nasus\n06:22 Nautilus\n06:27 Pantheon\n06:31 Poppy\n06:36 Renekton\n06:40 Riven\n06:45 Rumble\n06:50 Ryze\n06:55 Swain\n07:00 Tahm Kench\n07:05 Akali\n07:10 Karma Tank\n07:12 Colo renekton\n07:17 Colo darius\n07:22 Colo Irelia\n07:26 God\n07:30 Trundle\n07:35 Tryndamere\n\nPlease note that not all champions were done, as this took a while answering questions on stream and then I decided to turn it into a video. If you have some questions on specific champions then feel free to comment below and I can probably post an imgur screenshot of their masteries or something. SOME MASTERIES SEEN HERE do somewhat reflect personal view/emphasis on lane+game advantage/edges. Thanks for watching\n\nFollow me:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "u1koHz0Et4A",
+        "preview": "https://i.ytimg.com/vi/u1koHz0Et4A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-07T16:14:11Z",
+        "title": "(OLD) Sejuani Dawnchaser Skin Spotlight - League of Legends",
+        "description": "League of Legends Sejuani Dawnchaser Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Dawnchaser Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "JsUfIQ98FSQ",
+        "preview": "https://i.ytimg.com/vi/JsUfIQ98FSQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-10-18T22:35:19Z",
+        "title": "Sejuani Dawnchaser Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Dawnchaser Sejuani with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nPrice: 750RP\nSkin name is CONFIRMED as Dawnchaser Sejuani, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "JUO45LgqnHI",
+        "preview": "https://i.ytimg.com/vi/JUO45LgqnHI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-04-22T19:00:03Z",
+        "title": "10 SKINS THAT COULD EXIST IN THE FUTURE in League of Legends",
+        "description": "Last time we looked at champions, so today it's 10 skins that could exist in the future in League of Legends!\n➥ 7 CHAMPIONS THAT COULD EXIST ONE DAY: https://youtu.be/sTAHolPLhPs  ►Thumbnail Art Source: http://bit.ly/247JZZ3\n● Subscribe: http://bit.ly/1O7TtJh ►Overwatch Channel: http://bit.ly/1NvJ7qi\n\n● Twitter: https://twitter.com/GamingCurios\n● Facebook: https://www.facebook.com/GamingCurios\n● Stream: http://www.twitch.tv/Jeremy_GamingCurios\n● Instagram: https://www.instagram.com/gamingcurios/\n\n\n►Outro Song: https://youtu.be/b36r3JWGxcI\n\nChiptune Background Music Tracks by Jredd: https://soundcloud.com/jredd\n\nAdditional Production (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\n►Info Sources:\n\nFuturistic Caitlyn: http://www.surrenderat20.net/2013/07/pax-aus-art-demo-futuristic-caitlyn.html\n\nExterminator Twitch: http://lol.zones.gamebase.com.tw/skin_view/twitch_exterminator?mode=#skin\n\nPizza Delivery Sivir: http://www.surrenderat20.net/2013/09/pax-prime-monday-art-demo-pizza.html\n\nRussian Knight Olaf: http://gamezet.ru/images/upload/09185739.jpg\n\nDragon Master Swain: http://forums.na.leagueoflegends.com/board/showthread.php?t=3118000&page=15#post34582730 /\n\nBattlecast Anivia - http://riot-web-static.s3.amazonaws.com/images/news/August_2012/2012_08_01_BCPCho_Teaser/graph_Cho_battlecazst.jpg (\"also details the file name of AniviaSquare.png ANV in the top right corner, teasing at the possible expansion of the Battlecast series.\")\n\nDisco Sona - http://forums.euw.leagueoflegends.com/board/attachment.php?attachmentid=25515\n\nQueen Sejuani - http://1.bp.blogspot.com/-Ni1TeFVzUa0/UVtgTESrkSI/AAAAAAAADsI/QcfPES69zdY/s1600/IMG_03042013_014739.png\n\nSpecial Forces Miss Fortune - (silhouette in the background) - http://leagueoflegends.wikia.com/wiki/File:Gangplank_SpecialForcesSkin.jpg\n\nArm Cannon Tristana - https://www.youtube.com/watch?v=Doh8TndhvG8\n\n✔ Video Credits:\n● Produced By: Jeremy GC\n● Written By: Jeremy GC\n● Edited By: Ewcom",
+        "videoId": "u9hrqJfk1kY",
+        "preview": "https://i.ytimg.com/vi/u9hrqJfk1kY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-01-26T01:06:10Z",
+        "title": "(OLD) Beast Hunter Sejuani Skin Spotlight - League of Legends",
+        "description": "League of Legends Beast Hunter Sejuani Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Beast Hunter Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "sRjMIsbvD2A",
+        "preview": "https://i.ytimg.com/vi/sRjMIsbvD2A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-01-13T21:32:33Z",
+        "title": "Beast Hunter Sejuani Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Beast Hunter Sejuani with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nPrice: 750RP\nSkin name is CONFIRMED as Beast Hunter Sejuani, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "06vmNK6u3uE",
+        "preview": "https://i.ytimg.com/vi/06vmNK6u3uE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-10-24T18:00:01Z",
+        "title": "Notes From 10 Hours of Ranked Practice: Thoughts, Analysis, and Breakdown | League of Legends",
+        "description": "Everything used in this video is linked lower in the description.\nCheck Out my Second Channel: http://bit.ly/1NvJ7qi\n\nStream: http://www.twitch.tv/Jeremy_GamingCurios\nStay connected at: https://www.facebook.com/GamingCurios\nFollow Me on Twitter: https://twitter.com/GamingCurios\n\nProduction (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source:\nhttp://leagueoflegends.wikia.com/wiki/Sejuani/SkinsTrivia\n\nVideo Clip Sources:\nThe clips in this video were locally recorded.",
+        "videoId": "esd0_RblndI",
+        "preview": "https://i.ytimg.com/vi/esd0_RblndI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-10-22T19:00:00Z",
+        "title": "Results From 10 Hours of Practicing Gameplay in Ranked Solo Queue | League of Legends",
+        "description": "How do YOU Practice League of Legends?\n\nEverything used in this video is linked lower in the description.\nCheck Out my Second Channel: http://bit.ly/1NvJ7qi\n\nStream: http://www.twitch.tv/Jeremy_GamingCurios\nStay connected at: https://www.facebook.com/GamingCurios\nFollow Me on Twitter: https://twitter.com/GamingCurios\n\nProduction (Background) Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Sejuani/SkinsTrivia\n\nVideo Clip Sources:\n\nAll clips in this video were taken directly from my stream.",
+        "videoId": "-wAk3Q6yxw0",
+        "preview": "https://i.ytimg.com/vi/-wAk3Q6yxw0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-10-13T19:12:11Z",
+        "title": "5.19 Sejuani Gate Way",
+        "description": "Likes help me out a lot guys...  I\"m live every single day for 12 hours+ @      \n\nhttp://www.twitch.tv/trick2g \n\nFollow me @ twitter.com/trick2g for D Latest updates.\n\n\nCredits for all editing to https://twitter.com/Hypercide\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "qnrQEyR8nmk",
+        "preview": "https://i.ytimg.com/vi/qnrQEyR8nmk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-10-10T06:21:48Z",
+        "title": "5.19 Volibear Support Gateway | Next Sejuani Jungle",
+        "description": "Likes help me out a lot guys...  I\"m live every single day for 12 hours+ @      \n\nhttp://www.twitch.tv/trick2g \n\nFollow me @ twitter.com/trick2g for D Latest updates.\n\n\nCredits for all editing to https://twitter.com/Hypercide\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "tcRQLm32wdg",
+        "preview": "https://i.ytimg.com/vi/tcRQLm32wdg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-09-15T18:45:01Z",
+        "title": "The Hidden Buffs of Patch 5.18 - The Indirect Changes for Season 5 Worlds | League of Legends LoL",
+        "description": "What Hidden Buffs of Hidden Nerfs do YOU think took place in 5.18?\n\nCheck Out my Second Channel: http://bit.ly/1NvJ7qi\nAll clips in this video and outro song are linked lower in the description.\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\nStay connected at: https://www.facebook.com/GamingCurios\nFollow Me on Twitter: @GamingCurios\n\nOUTRO SONG: https://www.youtube.com/watch?v=QgnTdj23DIk\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Riven/SkinsTrivia\n\nVideo Clip Sources:\n\nJax: https://www.youtube.com/watch?v=iHMf8iNAanU\n\nSejuani: https://www.youtube.com/watch?v=w23Fk8s70uo\n\nRiven: https://www.youtube.com/watch?v=AYie29KKn5s\n\nGraves: https://www.youtube.com/watch?v=3JSCPo6Tu3s",
+        "videoId": "XZQFQoPEzL0",
+        "preview": "https://i.ytimg.com/vi/XZQFQoPEzL0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-26T05:35:45Z",
+        "title": "LoL Replay Review #21 - Sejuani Jungle",
+        "description": "How to jungle, how to teamfight, how to manbearpig -- Watch live at http://www.twitch.tv/n3ac3y",
+        "videoId": "e8vAfNoEESE",
+        "preview": "https://i.ytimg.com/vi/e8vAfNoEESE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-08-09T13:00:01Z",
+        "title": "The Effect of Hidden Buffs and Nerfs on the Meta in League of Legends",
+        "description": "What do YOU think about indirect changes?\nAll clips in this video are credited lower in the description.\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\nStay connected at: https://www.facebook.com/GamingCurios\nFollow Me on Twitter: @GamingCurios\n\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Morgana\n\nNidalee Clip:  https://www.youtube.com/watch?v=5Hh7n5jVMQQ\n\nIrelia Mid: https://www.youtube.com/watch?v=FkA7OXdVgzU\n\nMorgana Pt1: https://www.youtube.com/watch?v=sFiiiMh04HA\n\nMorgana Pt2: https://www.youtube.com/watch?v=ow6mhG4ft8g\n\nMorgana Pt3: https://www.youtube.com/watch?v=IgJjmGnb_fU\n\nSejuani: https://www.youtube.com/watch?v=sTc469c9Ghg",
+        "videoId": "TnV_tUoo3xU",
+        "preview": "https://i.ytimg.com/vi/TnV_tUoo3xU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-04-16T13:00:01Z",
+        "title": "The Tank Junglers and How They Have Influenced the Entire League of Legends Meta | LoL",
+        "description": "Watch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nFollow Me on Twitter: @GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://www.wallpaperup.com/166533/League_of_Legends_Warrior_Magical_animals_Sejuani_Games_Fantasy_Girls.html",
+        "videoId": "lFar8vufy2g",
+        "preview": "https://i.ytimg.com/vi/lFar8vufy2g/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-03-21T17:29:52Z",
+        "title": "Overpowered Champions in patch 5.5 for Solo Queue in Each Role | League of Legends LoL",
+        "description": "Earn cash for RP with Opinion Outpost: http://goo.gl/kd2Ou2 \n\n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nFollow Me on Twitter: @GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://leagueoflegends.wikia.com/wiki/Sejuani/SkinsTrivia\nThis video was sponsored by Opinion Outpost, WTFast, and Vulcun.",
+        "videoId": "2du2ciKHRuM",
+        "preview": "https://i.ytimg.com/vi/2du2ciKHRuM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-03-20T12:32:29Z",
+        "title": "Sejuani (Ice Game)",
+        "description": "- -- Watch live at http://www.twitch.tv/trick2g\n\nLikes help me out a lot guys.....LATA\n\n→Syber Gaming: https://www.sybergaming.com\n→Stream: http://www.twitch.tv/trick2g\n→Website: https://www.team2g.org\n→Twitter: https://www.twitter.com/trick2g\n→Facebook: https://www.facebook.com/Tricky2g\n→Instagram: https://www.instagram.com/Trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "I18DiwTftIY",
+        "preview": "https://i.ytimg.com/vi/I18DiwTftIY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-02-02T21:49:48Z",
+        "title": "Trick Spectates (Crimson of Rose) Playing Sejuani in Silver III",
+        "description": "-- -- Watch live at http://www.twitch.tv/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "MJDz2AOWB8Y",
+        "preview": "https://i.ytimg.com/vi/MJDz2AOWB8Y/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-01-08T14:00:05Z",
+        "title": "Tips to Use Corners to Create Picks: A Great Alternative to Bush Ganking | League of Legends LoL",
+        "description": "How do YOU like to use corners? \n\n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nFollow Me on Twitter: @GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://www.deviantart.com/art/Ashe-and-Sejuani-League-of-Legends-390877269",
+        "videoId": "4GvOztvPFc8",
+        "preview": "https://i.ytimg.com/vi/4GvOztvPFc8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-12-08T20:00:35Z",
+        "title": "Wishing you a Merry Snowdown",
+        "description": "Small cinematic style video to show off the new upcoming snowdown skins and to wish you happy holidays.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nFull Snow Day Malzahar Spotlight:\nhttps://www.youtube.com/watch?v=xVlFIonT8Jg\n\nFull Winter Wonder Orianna Spotlight:\nhttps://www.youtube.com/watch?v=qYiOXnBeVVc\n\nFull Poro Rider Sejuani Spotlight:\nhttps://www.youtube.com/watch?v=xEV_abb0los\n\nSong - Winter Wonder Orianna Login.\n\nSpecial Thanks to FrostyNinja for doing the font.\n\n1080p End Screen:\nhttp://i.imgur.com/uXoWBdj.jpg\n\nMy twitter for latest information as well as random stuff:\nhttps://twitter.com/SkinSpotlights",
+        "videoId": "PCttwb3WFYE",
+        "preview": "https://i.ytimg.com/vi/PCttwb3WFYE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-12-08T16:29:09Z",
+        "title": "(OLD) Poro Rider Sejuani League of Legends Skin Spotlight",
+        "description": "League of Legends Poro Rider Sejuani Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on their Poro Rider Skin.\n\nAll footage was taken in game, all gameplay is accurate at initial release of the skin.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nPlease feel free to subscribe for more Skin Spotlights and to leave a like!",
+        "videoId": "xEV_abb0los",
+        "preview": "https://i.ytimg.com/vi/xEV_abb0los/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-11-20T00:10:10Z",
+        "title": "Pre-Release Teaser - Poro Rider Sejuani Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPrice: 975RP\nSkin name is CONFIRMED as Poro Rider Sejuani, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights!",
+        "videoId": "WeoXqerlUB4",
+        "preview": "https://i.ytimg.com/vi/WeoXqerlUB4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zach",
+        "displayName": "Лига Легенд и TFT от Зака: Гайды, Стримы, Обзоры",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxB3wok5mrNroeSn6P20K3FAJ_7nPVkbWdzYM_SEA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-11-30T20:43:08Z",
+        "title": "Sejuani jungle guide by TMM Zanzarah (Challenger Ru)",
+        "description": "Группа вконтакте: vk.com/zakland\nСайт: splitpush.ru\n\nКстати, поддержать канал можно через Qiwi и yandex:\nqiwi - +79834424516",
+        "videoId": "3ilmn3ivPQc",
+        "preview": "https://i.ytimg.com/vi/3ilmn3ivPQc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-08-01T20:03:13Z",
+        "title": "(OLD) Bear Cavalry Sejuani Skin Spotlight League of Legends",
+        "description": "League of Legends Bear Cavalry Sejuani Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on her Bear Cavalry Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "ArsAoWPVQyw",
+        "preview": "https://i.ytimg.com/vi/ArsAoWPVQyw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-07-10T18:54:08Z",
+        "title": "Pre-Release Teaser - Bear Cavalry Sejuani Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is confirmed as Bear Cavalry Sejuani, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "-oK8J1TKPhY",
+        "preview": "https://i.ytimg.com/vi/-oK8J1TKPhY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-05-31T06:55:52Z",
+        "title": "Sejuani Jungle My Way",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "QK4a-oKnElw",
+        "preview": "https://i.ytimg.com/vi/QK4a-oKnElw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-04-30T05:35:55Z",
+        "title": "(OLD) Traditional Sejuani (2013 Visual Upgrade / Rework) League of Legends Skin Spotlight",
+        "description": "League of Legends Traditional Sejuani Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on her Traditional Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "nYe_Tz5PT6k",
+        "preview": "https://i.ytimg.com/vi/nYe_Tz5PT6k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-04-30T05:16:01Z",
+        "title": "(OLD) Sabretusk Sejuani (2013 Visual Upgrade / Rework) League of Legends Skin Spotlight",
+        "description": "League of Legends Sabretusk Sejuani Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on her Sabretusk Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "w1JTwU0uELA",
+        "preview": "https://i.ytimg.com/vi/w1JTwU0uELA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-04-30T03:38:05Z",
+        "title": "(OLD) Darkrider Sejuani (2013 Visual Upgrade / Rework) League of Legends Skin Spotlight",
+        "description": "League of Legends Darkrider Sejuani Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Sejuani on her Darkrider Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "XHrRX0d9O9w",
+        "preview": "https://i.ytimg.com/vi/XHrRX0d9O9w/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-04-13T02:39:22Z",
+        "title": "Pre-Release Teaser - Traditional Sejuani (2013 Visual Upgrade / Rework) Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is confirmed as Traditional Sejuani, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "GSQhJBJ-9fg",
+        "preview": "https://i.ytimg.com/vi/GSQhJBJ-9fg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-04-02T22:10:11Z",
+        "title": "Pre-Release Teaser - Darkrider  Sejuani (2013 Visual Upgrade) Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is confirmed as Darkrider  Sejuani, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "a9Zu8hO3Gto",
+        "preview": "https://i.ytimg.com/vi/a9Zu8hO3Gto/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-04-02T21:54:39Z",
+        "title": "Pre-Release Teaser - Sabretusk Sejuani (2013 Visual Upgrade) Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is confirmed as Sabretusk Sejuani, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "D4jtfFFt4Pk",
+        "preview": "https://i.ytimg.com/vi/D4jtfFFt4Pk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-04-02T21:10:01Z",
+        "title": "Classic Sejuani (2013 Visual Upgrade / Rework) - Ability Preview - League of Legends",
+        "description": "These may not be the final particles.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSejuani, the Winter's Wrath 2013 Visual Upgrade/Rework Ability Preview\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "0FLwa2fwhx4",
+        "preview": "https://i.ytimg.com/vi/0FLwa2fwhx4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-02-24T03:52:52Z",
+        "title": "(OLD) Sabretusk Sejuani League of Legends Skin Spotlight",
+        "description": "League of Legends Sabretusk Sejuani Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Sejuani on her Sabretusk Skin\n\nAll footage was taken in game.",
+        "videoId": "RcT6-TrIohM",
+        "preview": "https://i.ytimg.com/vi/RcT6-TrIohM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-02-23T20:19:45Z",
+        "title": "(OLD) Darkrider Sejuani League of Legends Skin Spotlight",
+        "description": "League of Legends Darkrider Sejuani Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Sejuani on her Darkrider Skin\n\nAll footage was taken in game.",
+        "videoId": "M5TeFe9xZKI",
+        "preview": "https://i.ytimg.com/vi/M5TeFe9xZKI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-01-21T13:08:02Z",
+        "title": "HACKED BY POODLECORP twitter.com/poodlecorp",
+        "description": "DONT FORGET TO WATCH IN HD AND SUBSCRIBE! Don't forget to comment, rate, and be subscribed to get a chance to get added on my friends list! Also do not forget to like me on FACEBOOK as that is where I also will announce when I am playing with subs!\n\nSejuani Rating System:\nCC Offered: 9\nEase to Play: 7\nCarry Potential: 6\nTeam Usefulness: 8\nLaning Ease: 7\nEarly Power: 6\nMid Power: 8\nLate Power: 7.5\nOVERALL: 7.35\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nSkype:\nredmercy1337\n\nCheck out the previous game of this series:\nhttp://www.youtube.com/watch?v=tZE-Oz24rhY\n\nMy Stream:\nhttp://www.own3d.tv/live/71680/Redmercy\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=N3FA-j7Dh6Q&feature=channel_video_title\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "fYZs8WbVWz8",
+        "preview": "https://i.ytimg.com/vi/fYZs8WbVWz8/mqdefault.jpg"
+      }
+    }
+  ]
+}

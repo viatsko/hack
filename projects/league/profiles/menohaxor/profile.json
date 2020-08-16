@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "NfJrjR2z9rnFcRAWjmOh8Bu7cZU",
+      "id": "UCE-b6pg2JZsYcwg_yyi2cew",
+      "snippet": {
+        "title": "MeNoHaxor",
+        "description": "Hi everybody! I'm MeNoHaxor, a Challenger support main on the NA server on League of Legends. I upload live commentaries on different champs",
+        "publishedAt": "2008-05-16T04:49:40Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MeNoHaxor",
+          "description": "Hi everybody! I'm MeNoHaxor, a Challenger support main on the NA server on League of Legends. I upload live commentaries on different champs"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UUE-b6pg2JZsYcwg_yyi2cew",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUE-b6pg2JZsYcwg_yyi2cew"
+  },
+  "displayName": "MeNoHaxor",
+  "description": "Hi everybody! I'm MeNoHaxor, a Challenger support main on the NA server on League of Legends. I upload live commentaries on different champs",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyIiNciJtCl9SotyVuZ37kKMnSpPOfpa0Mo6f7V=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

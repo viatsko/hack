@@ -1,0 +1,66 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "XRe1Q4zTEzXcu8xhk8mDaDntnX4",
+      "id": "UCd0joGpQ2FDui15Qat5XHYw",
+      "snippet": {
+        "title": "LolClass",
+        "description": "LolClass is a completely free website dedicated to provide high quality helpful videos to gamers for improving their skills in League of Legends. There are many great selections of videos, check us out at www.lolclass.gg. Partner and business inquiries please send it to support@lolclass.com",
+        "customUrl": "lolclass",
+        "publishedAt": "2013-11-15T19:30:34Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "LolClass",
+          "description": "LolClass is a completely free website dedicated to provide high quality helpful videos to gamers for improving their skills in League of Legends. There are many great selections of videos, check us out at www.lolclass.gg. Partner and business inquiries please send it to support@lolclass.com"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UUd0joGpQ2FDui15Qat5XHYw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUd0joGpQ2FDui15Qat5XHYw"
+  },
+  "displayName": "LolClass",
+  "description": "LolClass is a completely free website dedicated to provide high quality helpful videos to gamers for improving their skills in League of Legends. There are many great selections of videos, check us out at www.lolclass.gg. Partner and business inquiries please send it to support@lolclass.com",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwY8MNJDRD03GXw3QBRor-mOcGjS2C3PGYwyV2Szw=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

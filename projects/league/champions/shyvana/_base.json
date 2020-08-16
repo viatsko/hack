@@ -1,0 +1,1414 @@
+{
+  "id": "shyvana",
+  "key": "102",
+  "name": "Shyvana",
+  "title": "the Half-Dragon",
+  "tags": [
+    "Fighter",
+    "Tank"
+  ],
+  "stats": {
+    "hp": 595,
+    "hpperlevel": 95,
+    "mp": 100,
+    "mpperlevel": 0,
+    "movespeed": 350,
+    "armor": 38,
+    "armorperlevel": 3.35,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.8,
+    "mpregen": 0,
+    "mpregenperlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 3.4,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.658
+  },
+  "icon": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/champion/Shyvana.png",
+  "sprite": {
+    "url": "http://ddragon.leagueoflegends.com/cdn/10.14.1/img/sprite/champion3.png",
+    "x": 192,
+    "y": 48
+  },
+  "description": "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan...",
+  "redditUrl": "Shyvanamains",
+  "videos": [
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-29T17:00:02Z",
+        "title": "FULL AP SHYVANA JUNGLE IS BEASTLY! - Iron to Master S10 | League of Legends",
+        "description": "We're back on Shyvana Jungle today with full Ability Power! It still surprises me how much damage it deals! Like, Comment & Subscribe! League of Legends AP Shyvana Jungle Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nAP SHYVANA JUNGLE IS BEASTLY! - Iron to Master S10 | League of Legends",
+        "videoId": "258_aI5JGX4",
+        "preview": "https://i.ytimg.com/vi/258_aI5JGX4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-29T17:00:02Z",
+        "title": "FULL AP SHYVANA JUNGLE IS BEASTLY! - Iron to Master S10 | League of Legends",
+        "description": "We're back on Shyvana Jungle today with full Ability Power! It still surprises me how much damage it deals! Like, Comment & Subscribe! League of Legends AP Shyvana Jungle Gameplay.\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nAP SHYVANA JUNGLE IS BEASTLY! - Iron to Master S10 | League of Legends",
+        "videoId": "258_aI5JGX4",
+        "preview": "https://i.ytimg.com/vi/258_aI5JGX4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jaysea",
+        "displayName": "Jay Sea",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy9mrC5Q0SuPmQb-985TXsA2SbKOUb4GU_22CL2Tg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-11T13:30:01Z",
+        "title": "How to DECIMATE A GODLIKE Shyvana Main as Elise | BIGGEST Turnaround | Reclimbing to Chall #2",
+        "description": "Reclimbing to Challenger is a series where I make episodes based off games I play on stream while trying to eventually hit Challenger again!\r\n\n➤(2020) How to Play ALL CHAMPIONS! A to Z Playlist\r\n●https://www.youtube.com/watch?v=QMRUkLC1xHU&list=PLWLlskw0fR7wCaDlwdb1WGaKATfhn0dgu&index=2&t=1s\r\n\r\n➤(2019) Full Iron IV to Diamond Playlist \r\n● https://www.youtube.com/watch?v=_fRvn4ONn70&list=PLWLlskw0fR7ykcDSyQOmfIN2eRCNrgxto\r\n\r\n➤(2018) Depths of Bronze to Diamond COMPLETE Playlist! \r\n● https://www.youtube.com/watch?v=KLI6-n9FVsY&list=PLWLlskw0fR7zP1-yQ7F8H1McDvrw2P17v\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n➤ Support\r\nIf you would like to help the channel grow, please leave a like and comment and share the video with friends or your favorite online community.\r\n\r\nAlso subscribe and click the notification bell icon or follow me on Twitter to be notified when I post new content!\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n➤ Outro Music \r\n● Runescape 07 - Unknown Land (Trap Remix)\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n➤ Donations\r\n● Patreon - https://www.patreon.com/JaySeaPatreon\r\n● Paypal - https://www.paypal.me/JaySeaYouTube\r\nNote with Paypal: If you'd like to hear from me in response to your donation, be sure to include your email address in the note you send along with the donation.\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n➤ FOLLOW ME\r\n● Twitch - https://www.twitch.tv/jayseastream\r\n● Twitter - https://twitter.com/Jay_Sea_Channel\r\n● Facebook - https://www.facebook.com/JaySeaChannel\r\n● Discord - https://discord.gg/zNCnrmv\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nIf you'd like me to promote your product contact me on: YouTubeJaySea@hotmail.com\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+        "videoId": "-AOcpaJJ0oE",
+        "preview": "https://i.ytimg.com/vi/-AOcpaJJ0oE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jaysea",
+        "displayName": "Jay Sea",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy9mrC5Q0SuPmQb-985TXsA2SbKOUb4GU_22CL2Tg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-11T13:30:01Z",
+        "title": "How to DECIMATE A GODLIKE Shyvana Main as Elise | BIGGEST Turnaround | Reclimbing to Chall #2",
+        "description": "Reclimbing to Challenger is a series where I make episodes based off games I play on stream while trying to eventually hit Challenger again!\r\n\n➤(2020) How to Play ALL CHAMPIONS! A to Z Playlist\r\n●https://www.youtube.com/watch?v=QMRUkLC1xHU&list=PLWLlskw0fR7wCaDlwdb1WGaKATfhn0dgu&index=2&t=1s\r\n\r\n➤(2019) Full Iron IV to Diamond Playlist \r\n● https://www.youtube.com/watch?v=_fRvn4ONn70&list=PLWLlskw0fR7ykcDSyQOmfIN2eRCNrgxto\r\n\r\n➤(2018) Depths of Bronze to Diamond COMPLETE Playlist! \r\n● https://www.youtube.com/watch?v=KLI6-n9FVsY&list=PLWLlskw0fR7zP1-yQ7F8H1McDvrw2P17v\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n➤ Support\r\nIf you would like to help the channel grow, please leave a like and comment and share the video with friends or your favorite online community.\r\n\r\nAlso subscribe and click the notification bell icon or follow me on Twitter to be notified when I post new content!\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n➤ Outro Music \r\n● Runescape 07 - Unknown Land (Trap Remix)\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n➤ Donations\r\n● Patreon - https://www.patreon.com/JaySeaPatreon\r\n● Paypal - https://www.paypal.me/JaySeaYouTube\r\nNote with Paypal: If you'd like to hear from me in response to your donation, be sure to include your email address in the note you send along with the donation.\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n➤ FOLLOW ME\r\n● Twitch - https://www.twitch.tv/jayseastream\r\n● Twitter - https://twitter.com/Jay_Sea_Channel\r\n● Facebook - https://www.facebook.com/JaySeaChannel\r\n● Discord - https://discord.gg/zNCnrmv\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nIf you'd like me to promote your product contact me on: YouTubeJaySea@hotmail.com\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+        "videoId": "-AOcpaJJ0oE",
+        "preview": "https://i.ytimg.com/vi/-AOcpaJJ0oE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-06-03T17:06:46Z",
+        "title": "Who fed SHYVANA",
+        "description": "LIVESTREAM! https://www.twitch.tv/nightblue3 | SUBSCRIBE! https://bit.ly/2Mw0woe \n\nFollow me @\nTwitch: https://www.twitch.tv/nightblue3\nTwitter: https://twitter.com/Nightbloo\nInstagram: https://www.instagram.com/niightblue3/\nFacebook: https://www.facebook.com/Nightblue3lol\nDiscord: https://discord.gg/hM9yYSA\r\n\r\nChannel Editor: https://twitter.com/aosebi_official\r\nIntro song: https://youtu.be/XFflwRnn2Ts \r\nThumbnail by: https://twitter.com/jksadlol\n\nBusiness Inquiries: NightblueTeam@unitedtalent.com",
+        "videoId": "c8rrkWIuX4M",
+        "preview": "https://i.ytimg.com/vi/c8rrkWIuX4M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "huzzy",
+        "displayName": "HuzzyGames",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxe5a91lHmnXOG8592wct9rjcjBddPGWcpc3olFVA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-29T23:40:00Z",
+        "title": "IS AP SHYVANA ACTUALLY OVERPOWERED? - Duo to Diamond | League of Legends",
+        "description": "Welcome back to Duo to Diamond! We're playing AP Shyvana this game. I potentially think she is a bit overpowered and the damage is insane. Like, Comment & Subscribe! League of Legends AP Shyvana Jungle Gameplay. Vicksy: http://www.YouTube.com/Vicksy\n\nI’m part of the official League Partner Program with Riot Games. You can read about the program here: https://partners.leagueoflegends.com/\n\nMerch Store: http://www.teespring.com/stores/huzzy\nSponsors:\nMy Loading Screen stats, Porofessor: https://link.overwolf.com/ywc\nGet 70% off NordVPN: https://nordvpn.com/huzzy\nComputer Glasses: https://bit.ly/387R8PN\nSteelseries, Use the code Huzzy10 for 10% off:\nhttp://steelseries.7eer.net/c/327066/100327/2390\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWatch Me On:\nhttp://www.YouTube.com/HuzzyGames\nhttp://www.YouTube.com/HuzzyExtra\n\nTalk To Me On:\nQutee: https://www.qutee.com/m/huzzy\nInstagram: HuzzyGames\nSnapchat: HuzzyGames\nhttp://www.Twitter.com/HuzzyGamesLoL\nhttp://www.Facebook.com/HuzzyGamesLoL\nhttps://www.reddit.com/r/HuzzyGames/\nDiscord: https://discord.gg/HuzzyGames\n\nSupport Me On:\nBecome a YouTube member here! https://www.youtube.com/channel/UCQJWAA_780DUpoc_PJjnj4Q/join\nDonation: https://streamlabs.com/huzzygames\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nOut Music (if used): Pentakill - Lightbringer\nIS AP SHYVANA ACTUALLY OVERPOWERED? - Duo to Diamond | League of Legends",
+        "videoId": "dU9rMz6cuWc",
+        "preview": "https://i.ytimg.com/vi/dU9rMz6cuWc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "pants_are_dragons",
+        "displayName": "Pants are Dragon",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxen3j9FnGAaVSZfacZ02NE9Vi9aLhwlvYsSPMb8g=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-29T19:07:00Z",
+        "title": "DAY 69 - TARZANED'S NEW IGNITE AP SHYVANA STRATEGY IS SECRET OP! EASILY SNOWBALL YOURSELF TO VICTORY",
+        "description": "📷 INSTAGRAM: https://www.instagram.com/luigidragon\r\n🐥 TWITTER: https://twitter.com/PantsAreDragon\r\n🌍 FACEBOOK: http://www.fb.gg/luigidragonLoL\r\n🎮 TWITCH: http://www.twitch.tv/PantsAreDragon\r\n🔥 ENERGY DRINK: http://bit.ly/3682nXF | 10% OFF CODE: PANTS\r\n💼 BUSINESS INQUIRIES HERE ➡ fighting_mario@hotmail.com\r\n\r\nNew Video ➡ DAY 69 - TARZANED'S NEW IGNITE AP SHYVANA STRATEGY IS SECRET OP! EASILY SNOWBALL YOURSELF TO VICTORY\r\n#pantsaredragon #leagueoflegends\r\n\r\npants are dragon, unranked smurfs, league of legends gameplay, league of legends xbox, league of legends xbox one, best league of legends champions, league of legends characters, lms lol, games like league of legends, league of legends sign up, league of legends new account, lol gameplay, league of legends videos, play league of legends, riot games lol, league of legends new season, twitch league of legends, riot games twitch, twitch lol, twitch tv league of legends, best jungler lol, pants are dragon lol, league of legends jungle, jungle guide, season 10 jungle guide, best jungler for season 10, how to climb league of legends, pants are dragon season 10, pants are dragon jungle guide, pants are dragon rank 1, challenger to rank 1, pants are dragon rage, season 10 league of legends, s10 jungle, jungle pathing guide, tarzaned, tarzaned strategy, tarzaned shyvana, ap shyvana, shyvana ignite, pants are dragon shyvana, best shyvana, rank 1 shyvana, challenger shyvana, shyvana jungle gameplay, shyvana jungle build\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nproduced by ➡ https://twitter.com/ashbisto\r\n\r\neditors:\r\nhttps://www.twitter.com/kameavision\r\nhttps://twitter.com/eripsnl\r\nhttps://twitter.com/Riousx\r\nhttps://twitter.com/AverageMarsha\r\nhttps://twitter.com/freeioader",
+        "videoId": "YSHenE_IdRM",
+        "preview": "https://i.ytimg.com/vi/YSHenE_IdRM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "pants_are_dragons",
+        "displayName": "Pants are Dragon",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxen3j9FnGAaVSZfacZ02NE9Vi9aLhwlvYsSPMb8g=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-29T19:07:00Z",
+        "title": "DAY 66 - I'VE FOUND THE MOST BRAINDEAD BROKEN JUNGLER IN THE GAME!! ABUSE IT BEFORE NERFS",
+        "description": "📷 INSTAGRAM: https://www.instagram.com/luigidragon\r\n🐥 TWITTER: https://twitter.com/PantsAreDragon\r\n🌍 FACEBOOK: http://www.fb.gg/luigidragonLoL\r\n🎮 TWITCH: http://www.twitch.tv/PantsAreDragon\r\n🔥 ENERGY DRINK: http://bit.ly/3682nXF | 10% OFF CODE: PANTS\r\n💼 BUSINESS INQUIRIES HERE ➡ fighting_mario@hotmail.com\r\n\r\nNew Video ➡ DAY 66 - I'VE FOUND THE MOST BRAINDEAD BROKEN JUNGLER IN THE GAME!! ABUSE IT BEFORE NERFS\n#pantsaredragon #leagueoflegends\r\n\r\npants are dragon, unranked smurfs, league of legends gameplay, league of legends xbox, league of legends xbox one, best league of legends champions, league of legends characters, lms lol, games like league of legends, league of legends sign up, league of legends new account, lol gameplay, league of legends videos, play league of legends, riot games lol, league of legends new season, twitch league of legends, riot games twitch, twitch lol, twitch tv league of legends, best jungler lol, pants are dragon lol, league of legends jungle, jungle guide, season 10 jungle guide, best jungler for season 10, how to climb league of legends, pants are dragon season 10, pants are dragon jungle guide, pants are dragon rank 1, challenger to rank 1, pants are dragon rage, season 10 league of legends, s10 jungle, jungle pathing guide, ap shyvana, ap shyvana jungle, ap shyvana jungle gameplay, shyvana jungle gameplay, rank 1 shyvana, challenger shyvana, best shyvana\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nproduced by ➡ https://twitter.com/ashbisto\r\n\r\neditors:\r\nhttps://www.twitter.com/kameavision\r\nhttps://twitter.com/eripsnl\r\nhttps://twitter.com/Riousx\r\nhttps://twitter.com/AverageMarsha\r\nhttps://twitter.com/freeioader",
+        "videoId": "icng9nBSMZ8",
+        "preview": "https://i.ytimg.com/vi/icng9nBSMZ8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "pants_are_dragons",
+        "displayName": "Pants are Dragon",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxen3j9FnGAaVSZfacZ02NE9Vi9aLhwlvYsSPMb8g=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-27T13:44:34Z",
+        "title": "DAY 69 - TARZANED'S NEW IGNITE AP SHYVANA STRATEGY IS SECRET OP! EASILY SNOWBALL YOURSELF TO VICTORY",
+        "description": "📷 INSTAGRAM: https://www.instagram.com/luigidragon\r\n🐥 TWITTER: https://twitter.com/PantsAreDragon\r\n🌍 FACEBOOK: http://www.fb.gg/luigidragonLoL\r\n🎮 TWITCH: http://www.twitch.tv/PantsAreDragon\r\n🔥 ENERGY DRINK: http://bit.ly/3682nXF | 10% OFF CODE: PANTS\r\n💼 BUSINESS INQUIRIES HERE ➡ fighting_mario@hotmail.com\r\n\r\nNew Video ➡ DAY 69 - TARZANED'S NEW IGNITE AP SHYVANA STRATEGY IS SECRET OP! EASILY SNOWBALL YOURSELF TO VICTORY\r\n#pantsaredragon #leagueoflegends\r\n\r\npants are dragon, unranked smurfs, league of legends gameplay, league of legends xbox, league of legends xbox one, best league of legends champions, league of legends characters, lms lol, games like league of legends, league of legends sign up, league of legends new account, lol gameplay, league of legends videos, play league of legends, riot games lol, league of legends new season, twitch league of legends, riot games twitch, twitch lol, twitch tv league of legends, best jungler lol, pants are dragon lol, league of legends jungle, jungle guide, season 10 jungle guide, best jungler for season 10, how to climb league of legends, pants are dragon season 10, pants are dragon jungle guide, pants are dragon rank 1, challenger to rank 1, pants are dragon rage, season 10 league of legends, s10 jungle, jungle pathing guide, tarzaned, tarzaned strategy, tarzaned shyvana, ap shyvana, shyvana ignite, pants are dragon shyvana, best shyvana, rank 1 shyvana, challenger shyvana, shyvana jungle gameplay, shyvana jungle build\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nproduced by ➡ https://twitter.com/ashbisto\r\n\r\neditors:\r\nhttps://www.twitter.com/kameavision\r\nhttps://twitter.com/eripsnl\r\nhttps://twitter.com/Riousx\r\nhttps://twitter.com/AverageMarsha\r\nhttps://twitter.com/freeioader",
+        "videoId": "YSHenE_IdRM",
+        "preview": "https://i.ytimg.com/vi/YSHenE_IdRM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "pants_are_dragons",
+        "displayName": "Pants are Dragon",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxen3j9FnGAaVSZfacZ02NE9Vi9aLhwlvYsSPMb8g=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-24T21:30:04Z",
+        "title": "DAY 66 - I'VE FOUND THE MOST BRAINDEAD BROKEN JUNGLER IN THE GAME!! ABUSE IT BEFORE NERFS",
+        "description": "📷 INSTAGRAM: https://www.instagram.com/luigidragon\r\n🐥 TWITTER: https://twitter.com/PantsAreDragon\r\n🌍 FACEBOOK: http://www.fb.gg/luigidragonLoL\r\n🎮 TWITCH: http://www.twitch.tv/PantsAreDragon\r\n🔥 ENERGY DRINK: http://bit.ly/3682nXF | 10% OFF CODE: PANTS\r\n💼 BUSINESS INQUIRIES HERE ➡ fighting_mario@hotmail.com\r\n\r\nNew Video ➡ DAY 66 - I'VE FOUND THE MOST BRAINDEAD BROKEN JUNGLER IN THE GAME!! ABUSE IT BEFORE NERFS\n#pantsaredragon #leagueoflegends\r\n\r\npants are dragon, unranked smurfs, league of legends gameplay, league of legends xbox, league of legends xbox one, best league of legends champions, league of legends characters, lms lol, games like league of legends, league of legends sign up, league of legends new account, lol gameplay, league of legends videos, play league of legends, riot games lol, league of legends new season, twitch league of legends, riot games twitch, twitch lol, twitch tv league of legends, best jungler lol, pants are dragon lol, league of legends jungle, jungle guide, season 10 jungle guide, best jungler for season 10, how to climb league of legends, pants are dragon season 10, pants are dragon jungle guide, pants are dragon rank 1, challenger to rank 1, pants are dragon rage, season 10 league of legends, s10 jungle, jungle pathing guide, ap shyvana, ap shyvana jungle, ap shyvana jungle gameplay, shyvana jungle gameplay, rank 1 shyvana, challenger shyvana, best shyvana\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nproduced by ➡ https://twitter.com/ashbisto\r\n\r\neditors:\r\nhttps://www.twitter.com/kameavision\r\nhttps://twitter.com/eripsnl\r\nhttps://twitter.com/Riousx\r\nhttps://twitter.com/AverageMarsha\r\nhttps://twitter.com/freeioader",
+        "videoId": "icng9nBSMZ8",
+        "preview": "https://i.ytimg.com/vi/icng9nBSMZ8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "hanjaro",
+        "displayName": "Hanjaro",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyilCLYX2dnsxFkq3fEVaSy6wVsiZGM-x2bRjSEfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-16T01:00:09Z",
+        "title": "ONE E DOES HOW MUCH DAMAGE?! FULL AP SHYVANA SPITS LEGIT NUKES - League of Legends",
+        "description": "ONE E DOES HOW MUCH DAMAGE?! FULL AP SHYVANA SPITS LEGIT NUKES\nLeague of Legends Shyvana gameplay season 10!\r\n\r\n🔔 Subscribe Here → https://bit.ly/34GFs5c\r\n🔴 Live Stream → https://bit.ly/33qHUN5\r\n\r\n🗒️ Mobafire Guides → https://bit.ly/2NogPEI\r\n👒 Merchandise → https://bit.ly/2NqPvWs\r\n📰 League Partner Program → https://riot.com/36HFzzk\r\n\r\n🎥 Facebook →  https://bit.ly/33qHUN5\r\n🐦 Twitter → https://bit.ly/33tTjf2\r\n🎮 Discord → https://bit.ly/2NrbyfE\r\n\r\n#Pyke #Hanjaro #Rank1Pyke",
+        "videoId": "z1XwgTF2krQ",
+        "preview": "https://i.ytimg.com/vi/z1XwgTF2krQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "New Fiddlesticks Rework Jungle Gameplay - League of Legends 2020",
+        "description": "★Follow my stream: https://www.twitch.tv/foxdrop\n➥AP Shyvana jungle guide  - https://www.youtube.com/watch?v=tzyZBx8KGec\r\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "WK2S1FRWql8",
+        "preview": "https://i.ytimg.com/vi/WK2S1FRWql8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "[2020] AP Shyvana Jungle Guide - League of Legends Season 10",
+        "description": "➥Wukong jungle OP! https://www.youtube.com/watch?v=PkIli5TOe8k\r\n➥★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "tzyZBx8KGec",
+        "preview": "https://i.ytimg.com/vi/tzyZBx8KGec/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skillcapped",
+        "displayName": "Skill Capped Challenger LoL Guides",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwFw8YD6hA-M2WNXHcCSgzFrrZ8YVLmKUTmC1tf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-14T07:00:00Z",
+        "title": "BEST Solo CARRIES Patch 10.5 TIER LIST - League of Legends Jungle Challenger Guide",
+        "description": "League of Legends Best Carry Junglers Patch 10.5 Tier List - Your jungle guide to the best champions to carry champions on patch 10.5\n►Get the RANK You’ve Always Wanted: https://www.skill-capped.com/lol\n►SUBSCRIBE for more LoL Challenger Guides: http://goo.gl/kGvFCu \n\nWhat is Skill Capped?\nSkill Capped is a refreshingly new way to learn League of Legends. We have custom tailored courses optimized to teach you everything you will ever need to know to improve and climb the ladder. These are designed and validated by the top 0.02% of players in the world.\n\nWhat are you waiting for? Take a look for yourself and find out why Skill Capped is THE hyper improvement platform for League of Legends: https://www.skill-capped.com/lol\n\nFollow Skill Capped at:\n►FACEBOOK: https://www.facebook.com/skillcapped \n►TWITTER: https://twitter.com/skillcapped \n\nWritten and Voiced by\nBrandon “Hexadecimal” Law https://twitter.com/LoLHexa\n\nConcepts: League of legends, lol guide, league of legends guide, league of legends tier list, lol tier list, lol best champions, patch 10.5, patch 10.5 tier list, lol patch 10.5, lol patch 10.5 tier list, lol op champions, best junglers 10.5, jungle tier list 10.5, how to carry as jungle, how to carry, 10.5 changes, 10.5 rundown, patch notes 10.5, proguides, skillcapped, skill capped\n\nConcepts: Khazix guide, khazix patch 10.5, master yi patch 10.5, rengar patch 10.5, shaco patch 10.5, jax patch 10.5, kayn patch 10.5, qiyana patch 10.5, karthus patch 10.5, karthus jungle, shyvana patch 10.5, graves buffs 10.5, graves patch 10.5, evelynn patch 10.5, diana patch 10.5\n\n#leagueoflegends #tierlist #skillcapped",
+        "videoId": "-5plA6weA44",
+        "preview": "https://i.ytimg.com/vi/-5plA6weA44/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "protatomonster",
+        "displayName": "Protatomonster",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJy8_DuYOHahL4miEDAeQ--XqKSv2wdBrh1BDDG4=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-05-13T07:00:00Z",
+        "title": "When LoL Players Fail The Basics... BEST OUTPLAYS & FUNNY MOMENTS - League of Legends",
+        "description": "When LoL Players Fail The Basics.. Funniest Fails and Best Calculated Outplays in a League of Legends Montage\n\n🔶Don't forget to click the 🔔 Bell to get Notifications on new videos!\n🔶TFT CHANNEL: https://www.youtube.com/channel/UCNDoeaxF_O8n-cCwQTGbhuw\n\n▼Players featured in this League of Legends Montage :\n\nhttps://www.twitch.tv/focus_esports_lol\nhttps://www.youtube.com/watch?v=jD1Z8RwypKE\nhttps://www.youtube.com/watch?v=XG5lfiZaf_w\nhttps://www.reddit.com/r/leagueoflegends/comments/figoqh/jinx_pentakill_euw_3/\nhttps://www.reddit.com/r/leagueoflegends/comments/figmdu/lmao_warwick_take_my_leash/\nhttps://www.twitch.tv/endercasts\nhttps://www.reddit.com/r/leagueoflegends/comments/fidewv/a_little_kat_play_im_proud_of/\nhttps://www.reddit.com/r/leagueoflegends/comments/fibmfs/shyvana_unexpected_quadra_kill/\nhttps://www.twitch.tv/so_urf\nhttps://www.twitch.tv/silenceedgaf\nhttps://www.twitch.tv/jerryshmuck\nhttps://www.twitch.tv/dekonorii\nhttps://www.twitch.tv/mavskies\nhttps://www.twitch.tv/bloodmoonft\nhttps://www.twitch.tv/captainflowers22\nhttps://www.twitch.tv/yemeleslol\nhttps://www.twitch.tv/therabidw0mbat\nhttps://www.twitch.tv/hammyhd\n\nMusic in this LoL Montage provided by Epidemic Sound and NoCopyrightSounds:\n\n1) Epic Chase Music - Run : https://www.youtube.com/watch?v=ujsCRw-eA0o\n2) Track: MIDNIGHT CVLT & The Brig - Can't Escape [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/SrKsLk0FnY4\nFree Download / Stream: http://ncs.io/CantEscape\n3) Track: Fareoh - Illuminati [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/l3qvZbLlwJk\nFree Download / Stream: http://ncs.io/Illuminati\n4) Track: NIVIRO - The Labyrinth [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/4S0shEqJ8V\nFree Download / Stream: http://ncs.io/TheLabyrinth",
+        "videoId": "1IXHlspIDTs",
+        "preview": "https://i.ytimg.com/vi/1IXHlspIDTs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Valkrin - Yol Toor Shul!! AP Shyvana is Busted?!!",
+        "description": "Valkrin tries out a subscribers suggested AP Shyvana build.  Is it busted?\n\nWatch my stream at https://www.twitch.tv/valkrin\n\nDon't forget to join my discord https://discord.gg/5MMbAuh\n\nFollow my twitter https://twitter.com/valkrin",
+        "videoId": "J8Elrb_NzRM",
+        "preview": "https://i.ytimg.com/vi/J8Elrb_NzRM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "FULL GREED TANK SHYVANA BUILD!",
+        "description": "This Shyvana build works really well if you can farm to 3 items before the big team fights.\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nThumbnail Art\n★ Naeqo: https://twitter.com/Naeqo\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven & Sian Area - Feel Like Horrible [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "dXJ4xIFj84Q",
+        "preview": "https://i.ytimg.com/vi/dXJ4xIFj84Q/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "Valkrin - Jungle Kayle, Jungle Shaco, Jungle Shyvana - Stream highlights #4",
+        "description": "Jungle Kayle, Jungle Shaco, Jungle Shyvana\nDeathfire touch doesn't work on baron. I misspoke about the Jhin baron steal.\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nThumbnail Art\n★ Naeqo: https://twitter.com/Naeqo\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven & Sian Area - Feel Like Horrible [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "Mu4ZeMHn-js",
+        "preview": "https://i.ytimg.com/vi/Mu4ZeMHn-js/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-30T07:00:00Z",
+        "title": "NEW BUILD Shyvana ! Stream highlight #3 jungle Shyvana, jungle Jax",
+        "description": "This came from my gunblade stream. Two games in this highlight were the Jungle Jax and Jungle Shyvana games. Both with gunblade.\n\nNew Shyvana build is actually really interesting and I suggest giving it a try. Gunblade seems an item that might be overtuned. I have you guys enjoy this video. If you like it then leave a like and let me know in a comment.\n\n\n\n★ Subscribe: http://bit.ly/2h3GNuYme\n\nFollow me on Social Media \n★ Twitch: https://www.twitch.tv/valkrin\n★ Twitter: https://twitter.com/Valkrin\n★ Facebook: https://www.facebook.com/Valkrin/\n\n\nEditor\n★ Deadeye: https://twitter.com/DeadeyeDP\n\n\nThumbnail Art\n★ Naeqo: https://twitter.com/Naeqo\n\n\nMusic\n★Intro song: Maya Payne - If Only\n★Outro song: Different Heaven & Sian Area - Feel Like Horrible [NCS Release]\n★Other music and sounds: http://www.epidemicsound.com/",
+        "videoId": "1tYsQzOmyQs",
+        "preview": "https://i.ytimg.com/vi/1tYsQzOmyQs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-13T07:21:49Z",
+        "title": "WE OUT HERE DRILLING THESE MFER'S JAWS - Trick2G",
+        "description": "SUBSCRIBE, LIKE, AND LEAVE A \"LATA B****\" IN THE COMMENTS!\n▼ expand me ▼\n\n_ \n\n\nPrevious Video ► https://www.youtube.com/watch?v=eJfX8b1UdEE&t=\n\n_  \n\nFollow me here: \n► Twitter: https://twitter.com/Trick2g\n► Instagram: https://www.instagram.com/trick2g/\n► Twitch: https://www.twitch.tv/trick2g\n► Merch: https://trick2g.shop/\n► Business: trick2g@trick2g.org \n\nCredits:\n► Editor:  https://twitter.com/DeadEyeDP\n► Intro song: \"Broken\" https://soundcloud.com/alasen\n► Outro Song: https://soundcloud.com/itsvibekilla/jammin\n► Thumbnail/Channel manager: Lily https://twitter.com/Lilianao__o\n_\n\nFor editing opportunities please email ► lilyanaayt@gmail.com  \n\n_  \n\nContribute to the community & help translate videos ►  http://bit.ly/2h94lj8\n\n_  \n\nI LOVE YOU\n\n_\n\n#Trick2g #LeagueOfLegends #Udyr, Udyr top. toplane udyr, udyr trick2g, t2g godyr, trick2g udyr vs shyvana, trick2g flame jungle, trick2g duo cookie",
+        "videoId": "g_hU9-1aAiM",
+        "preview": "https://i.ytimg.com/vi/g_hU9-1aAiM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-04-04T19:37:00Z",
+        "title": "New Fiddlesticks Rework Jungle Gameplay - League of Legends 2020",
+        "description": "★Follow my stream: https://www.twitch.tv/foxdrop\n➥AP Shyvana jungle guide  - https://www.youtube.com/watch?v=tzyZBx8KGec\r\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "WK2S1FRWql8",
+        "preview": "https://i.ytimg.com/vi/WK2S1FRWql8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "foxdrop",
+        "displayName": "Foxdrop",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyCvRTqXd1-qjqAljpxoV3yqLBfdypPW-ddAseo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-03-29T20:10:07Z",
+        "title": "[2020] AP Shyvana Jungle Guide - League of Legends Season 10",
+        "description": "➥Wukong jungle OP! https://www.youtube.com/watch?v=PkIli5TOe8k\r\n➥★Follow my stream: https://www.twitch.tv/foxdrop\n\r\n➥Enjoy the video? SUBSCRIBE → http://bit.ly/1dk5ZIa ←\r\n➥Second channel with full gameplays ! https://www.youtube.com/c/FoxdropPlays\r\n➥Become a supporter! https://www.youtube.com/channel/UC9U_UPJLasfZYZ0icNI0vBg/join\r\n\r\n★Follow me on Twitter: https://twitter.com/Foxdroplol\r\n★Follow my Instagram: https://www.instagram.com/foxdroplol/",
+        "videoId": "tzyZBx8KGec",
+        "preview": "https://i.ytimg.com/vi/tzyZBx8KGec/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "kami_khazix",
+        "displayName": "Kami Khazix",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyyAGEEH_NrOROWn8W_O_BnTJd9pItXIgiIudulbg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2020-01-09T17:17:10Z",
+        "title": "How to play early game as jungle season 10 wards pathing and tricks",
+        "description": "An update on some of my season 9 videos that are no longer up to date \n\nThis is how you wanna play the early game as jungle \n\nYou ward one of your buffs between 0:40 and 0:50 and start the other buff and then do a normal full clear and gank whenever it´s possible\n\nThis playstyle is really good for champions that are late game or has power spike at lvl 6 \n\nExamples are: Karthus, Kha Zix, Shyvana etc",
+        "videoId": "TsR14oGnXt0",
+        "preview": "https://i.ytimg.com/vi/TsR14oGnXt0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "i0ki",
+        "displayName": "i0ki",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzRGbzFYpCJxETegh_iswTgoeuRZvWjg1aqG74-Sw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-12-16T15:00:07Z",
+        "title": "ONE E = ONE KILL! FULL AP SHYVANA \"SUPPORT\" IS INSANELY OP (no seriously). | Shyvana \"Support\"",
+        "description": "THIS FULL AP SHYVANA SUPPORT BUILD IS LEGITIMATELY GENIUS!  I CAN'T EVEN BELIEVE SHYVANA IS A SUPPORT NOW!\n\nUSE THIS VIDEO AS A GUIDE FOR AP SHYVANA IN SEASON 10!\n\n=====================\n\nFollow me here!\n→i0ki MERCH: https://teespring.com/stores/i0ki-store\n→My Stream: http://twitch.tv/i0ki\n→My Twitter: http://twitter.com/i0ki_LoL\n→My Patreon: http://patreon.com/ioki",
+        "videoId": "csCbnv-FvYY",
+        "preview": "https://i.ytimg.com/vi/csCbnv-FvYY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-12-04T15:25:17Z",
+        "title": "*NEW* SUGAR RUSH EVELYNN JUNGLE SPOTLIGHT | MAX MEJAIS STACKS CRAZY BURST!",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://youtu.be/eVwQijBXSRk\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: \nNEW CONQUEROR 1V9 SHYVANA JUNGLE!! SEASON 10 IS FOR JUNGLERS - VS A POOR LEE SIN\nhttps://www.youtube.com/watch?v=eVwQi...\n\n► Channel Editor: https://twitter.com/ryscu_ \n► Intro song: https://youtu.be/XFflwRnn2Ts \n► Outro song: OnCue - Woozy\n► Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "nGym5zccPSM",
+        "preview": "https://i.ytimg.com/vi/nGym5zccPSM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-12-03T18:43:44Z",
+        "title": "NEW CONQUEROR 1V9 SHYVANA JUNGLE!! SEASON 10 IS FOR JUNGLERS - VS A POOR LEE SIN",
+        "description": "Please leave a like, comment, and subscribe if you want to see more of these! And be sure to hit the notification bell to see all our uploads 😊 Thank you!!\nFollow my stream here (I go live in the mornings PST time): https://www.twitch.tv/nightblue3\n🔷 Check out our previous video: https://youtu.be/eru1tzU69to\n\n\nSocials:\n► Discord- https://bit.ly/2X88iIn\n► Twitter- https://bit.ly/2tC4elZ\n► Instagram- https://bit.ly/2VQPcFc\n► Facebook- https://bit.ly/2cMYobf\n\n\nPrevious Video: NEW NIGHTBRINGER APHELIOS JUNGLE SPOTLIGHT | INSANE DAMAGE & ULTIMATE RANGE!\nhttps://www.youtube.com/watch?v=eru1tzU69to\n\n► Channel Editor: https://twitter.com/ArtfulHighlight\n► Intro song: https://youtu.be/XFflwRnn2Ts \n► Thumbnail by: https://twitter.com/AverageMarsha\n► Outro song: https://youtu.be/i-gA0vcBnPI\n► Business inquires: NightblueTeam@unitedtalent.com",
+        "videoId": "eVwQijBXSRk",
+        "preview": "https://i.ytimg.com/vi/eVwQijBXSRk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-05-24T19:00:09Z",
+        "title": "Top 10 Amazing Fan Reworks! - League of Legends",
+        "description": "Top 10 Amazing Fan Reworks! - League of Legends\n➥ Try Rivals - The Esports Moba Manager for FREE: https://go.onelink.me/ErBr/Jeremy \n\n\n#LeagueofLegends\n#LoL\n#League\n\n➥ Information Sources From The Video:\n\n\n1. Taric by Turret:\nhttps://polycount.com/discussion/142177/riot-art-contest-taric\n\n2. Sejuani by Mafubash\nhttps://polycount.com/discussion/141173/riot-art-contest-sejuani\n\n3. Syndra by Tudorfat\nhttps://polycount.com/discussion/142451/riot-art-contest-syndra\n\n4. Nunu by FrankieD\nhttps://polycount.com/discussion/141352/riot-art-contest-nunu\n\n5. Shyvana by JimmyRustler (Scroll Down)\nhttps://polycount.com/discussion/141953/riot-art-contest-shyvana\n\n6. Lee Sin by Stickpye\nhttps://polycount.com/discussion/145470/riot-art-contest-lee-sin\n\n7. Cho'Gath by JRancourt\nhttps://polycount.com/discussion/141474/riot-art-contest-chogath-redesign\n\n8. Caitlyn by DmitryGrebenkov\nhttps://polycount.com/discussion/141885/riot-art-contest-caitlyn\n\n9. Kha'Zix by lunahod\nhttps://polycount.com/discussion/141623/riot-art-contest-khazix/p2\n\n10. Kassadin by Darknavigator\nhttps://polycount.com/discussion/141677/riot-art-contest-kassadin-redesign\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n➥ DISCLAIMER: In our videos, we may use clips that were not created by us. For ALL of our clips, we obtain permission with proof, and/or are allowed to use them under Fair Use. \n\n➥ Every clip used in this video that was not recorded ourselves, we obtained permission for, and/or is considered fair use, and we provide source & credit for all footage - you can find the links to all original sources & music in the rest of the description. If someone submitted a clip on your behalf pretending to have rights to it, please send us a message or email!\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🔶 Check Out Our NEW Channels: 🔶\n\n➥ Evolution of Games: - How Games Evolved Over the Years:\nhttps://www.youtube.com/channel/UCy52QBC_jHCqWa6W_LlhRCw\n\n➥ Apex Legends Funny Moments:\nhttps://www.youtube.com/channel/UCVSav0Fu3XTGRgl_7KOkv4Q\n\n➥ Brawl Stars Funny Moments:\nhttps://www.youtube.com/channel/UCt5A9Y-b_TnvG6SKYpcPu3g\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nThis Channel is Owned & Operated by Gaming Curios. At Gaming Curios we run a variety of channels on YouTube spanning a bunch of games and genres of content. We are starting new channels all the time and making lots of videos, that we hope you can all enjoy! \n\n➥ You can find links to our most prominent channels here: http://www.gamingcurios.com/\n\n➥ Also Check Out Our Overwatch Tshirts & Apparel!\n https://teespring.com/stores/gaming-curios\n\n\nGaming Curios is owned and operated by Jeremy, who you can follow here:\n➥ https://twitter.com/GamingCurios\n➥ https://www.facebook.com/JeremyGamingCurios/\n➥ https://www.instagram.com/gamingcurios/\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n\n✔ Video Credits:\n● Produced By: Jeremy - Gaming Curios\n● Written By: Jeremy - Gaming Curios & Omar H.\n● Edited By:",
+        "videoId": "ZEIb-VNR8EM",
+        "preview": "https://i.ytimg.com/vi/ZEIb-VNR8EM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-04-05T13:00:04Z",
+        "title": "ABUSE AP SHYVANA - Iron Shyvana Jungle Coaching",
+        "description": "Gonna have a 100 games to diamond GP video tomorrow. For now enjoy this iron shyvana coaching! Click the link below to watch Neace live!\nFollow Neace on Twitch\nhttps://www.twitch.tv/neace\n\nFollow Neace on Twitter\nhttps://twitter.com/NEACETWEETS?lang=en",
+        "videoId": "YsHkYzNBkYg",
+        "preview": "https://i.ytimg.com/vi/YsHkYzNBkYg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2019-01-29T18:41:00Z",
+        "title": "New Best Champions for Season 9 Patch 9.2 for Climbing in EVERY ROLE",
+        "description": "GIVEAWAY LINK!! = https://gleam.io/dRiXd/season-9-giveaway\nLinks to the profiles on Mobalytics for more info:\n-Sign up to Mobalytics! = https://moba.lol/2TqpjvT\n-Doublelift Lucian = https://lol.mobalytics.gg/summoner/na/doublelift\n-Bobqin Leblanc = https://lol.mobalytics.gg/summoner/na/twitch%20bobqinxd (twitch = https://www.twitch.tv/bobqinxd)\n-Tank Jarvan = https://lol.mobalytics.gg/summoner/kr/%EB%AC%B4%EC%8A%A8%EB%B9%B5%EC%9C%BC%EB%A1%9C%EC%82%AC%EC%98%AC%EA%B9%8C\n-Sona = https://lol.mobalytics.gg/summoner/euw/elementrax/\n-Klepto Vlad = https://lol.mobalytics.gg/summoner/kr/2019%20%EC%83%88%EB%A3%A8/match-history\n\n♦ Streaming diamond promos today! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor - https://twitter.com/ToxOnPC\nOutro - https://twitter.com/AverageMarsha\n\nTimestamps\nADC - start\nMid - 2:49\nJungle - 4:55\nSupport - 7:22 \nTop - 9:25\n\n\nADC\n-Best = Lucian\n-Runner up = Ezreal\n-Runner up = Vayne\n-Runner up = Draven\n-Underrated = Jinx\n\nMid\n-Best = Leblanc\n-Runner up = Lissandra\n-Runner up = Zoe\n-Runner up = Ahri\n-Underrated = Vel'Koz\n\nJungle\n-Best = Xin Zhao\n-Runner up = Jarvan\n-Runner up = Sejuani\n-Runner up = Kayn\n-Underrated = Shyvana\n\nSupport\n-Best = Thresh\n-Runner up = Sona\n-Runner up = Zyra\n-Runner up = Nami\n-Underrated = Blitzcrank\n\nTop lane\n-Best = Vlad\n-Runner up = Sion \n-Runner up = Riven\n-Runner up = Darius\n-Underrated = Yorick\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions for Season 9 Patch 9.2 for Climbing in EVERY ROLE",
+        "videoId": "Z9Teoj8bylI",
+        "preview": "https://i.ytimg.com/vi/Z9Teoj8bylI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-12-11T19:33:00Z",
+        "title": "15 Weird/OP builds from Korean Master that actually work",
+        "description": "What's your new favourite build? Builds down below!\n\n♦ Streaming 5 days a week! → http://fb.gg/phygames\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nAP shyvana top lane = http://www.op.gg/summoner/userName=nirvanarebirth\nTaric Jungle/Top GA = http://www.op.gg/summoner/userName=%EB%B6%84%EB%85%B8%EA%B4%80%EB%A6%AC%EB%B3%91%EC%95%A0%EB%94%94\nEzreal gunblade/sorcs = http://www.op.gg/summoner/userName=dwg%ED%94%84%EB%A\nRumble jungle DH = http://www.op.gg/summoner/userName=tar2an\nVayne Grasp = http://www.op.gg/summoner/userName=nekol\n0%88%EB%94%94%EC%B1%84%ED%81%90%EB%A6%AC\nTaric support PTA = http://www.op.gg/summoner/userName=jinairkellin\nTop lane Leona = http://www.op.gg/summoner/userName=%EB%B6%84%EB%85%B8%EA%B4%80%EB%A6%AC%EB%B3%91%EC%95%A0%EB%94%94\nHail of Blades Yi = http://www.op.gg/summoner/userName=pandatv1592982\nRengar top tank = http://www.op.gg/summoner/userName=celsea\n\nRyze tank = http://www.op.gg/summoner/userName=%EA%B0%80%EB%8B%A4%EB%9D%BC%EB%A7%88%EC%95%84%EB%B0%94\nNeeko support = http://www.op.gg/summoner/userName=msfgorilla\nPredator Malz = http://www.op.gg/summoner/userName=%EC%96%91%EA%B8%88%EC%B4%88\nTaliyah support = http://www.op.gg/summoner/userName=%EC%97%BD%EB%B6%81e\nAery Anivia = http://www.op.gg/summoner/userName=%EC%82%BC%EC%B2%9C%ED%8F%AC%EC%B5%9C%EA%B3%A0%EB%AF%B8%EB%93%9C\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat",
+        "videoId": "8CFUKWxZzcw",
+        "preview": "https://i.ytimg.com/vi/8CFUKWxZzcw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-09-21T19:15:01Z",
+        "title": "Championship Golden Chromas",
+        "description": "Championships Skins, Zed, Kha'Zix, Riven, Thresh, Shyvana and Kalista now have a golden chroma!\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "BrgYgtrzPaE",
+        "preview": "https://i.ytimg.com/vi/BrgYgtrzPaE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "valkrin",
+        "displayName": "Valkrin",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxbRxXzktRQM0rUQtqQqAntY0R98WpD60sX52pGew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-08-24T16:00:02Z",
+        "title": "Valkrin - Yol Toor Shul!! AP Shyvana is Busted?!!",
+        "description": "Valkrin tries out a subscribers suggested AP Shyvana build.  Is it busted?\n\nWatch my stream at https://www.twitch.tv/valkrin\n\nDon't forget to join my discord https://discord.gg/5MMbAuh\n\nFollow my twitter https://twitter.com/valkrin",
+        "videoId": "J8Elrb_NzRM",
+        "preview": "https://i.ytimg.com/vi/J8Elrb_NzRM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-03-09T18:11:14Z",
+        "title": "New Best Champions in Patch 8.5 SEASON 8 for Climbing in EVERY ROLE (League of Legends)",
+        "description": "Time to see how the meta changed for 8.5!\nThe giveaway video (comment on it to enter) = https://www.youtube.com/watch?v=7v1Yj9Yhwmw\nTimestamps + picks below!\n\n♦ Follow me on Instagram → https://www.instagram.com/phygames/\n♦ Follow me on Twitter → https://twitter.com/phygames\n♦ Follow my Stream → http://www.twitch.tv/phy_games\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTImestamps\nADC = start\nMid = 2:30\nJungle = 4:43\nSupport = 6:40\nTop = 8:35\n\nPicks-\nAD – (Xayah) Varus, Caitlyn. HM = Vayne\nMid – Swain, Anivia. HM = Sion\nJungle – (Warwick) Shyvana, Jax. HM = Kha'Zix\nSupport – (Janna) Nami, Alistar. HM = Bard\nTop – (Swain/Sion) Singed, Darius. HM = Fiora\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions in Patch 8.5 SEASON 8 for Climbing in EVERY ROLE (League of Legends)",
+        "videoId": "g8KVr3mRoPM",
+        "preview": "https://i.ytimg.com/vi/g8KVr3mRoPM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-29T17:26:42Z",
+        "title": "New Best Champions in Patch 8.2 SEASON 8 for Climbing in EVERY ROLE (League of Legends)",
+        "description": "Time to check out who is performing the best in Patch 8.2!\nThese are collection of stats from different servers, elos and roles all put together!\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTImestamps\nADC = start\nMid = 2:31\nJungle = 4:41\nSupport = 6:57\nTop = 8:50\n\nPicks in the video:\nADC = Kog'Maw, Tristana. HM = Jinx\nMid = (high elo is like azir/ryze a ton) Orianna, Xerath. HM = Veigar\nJungle = (nunu) Warwick, Shyvana. HM = Skarner\nSupport = Lulu, Janna. HM = Nami\nTop lane = Camille. High – GP. Lower – Nasus. HM = Kled\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions in Patch 8.2 SEASON 8 for Climbing in EVERY ROLE (League of Legends)",
+        "videoId": "VUm73S96Shk",
+        "preview": "https://i.ytimg.com/vi/VUm73S96Shk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-15T20:13:18Z",
+        "title": "New Best Champions in Patch 8.1 SEASON 8 for Climbing in EVERY ROLE (League of Legends)",
+        "description": "Time to check out the best champions in each role for solo queue ready for the ranked reset!\nList and timestamps down below. :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nList + Timestamps- please consider liking the video if you only use this as youtube doesn't like short versions! :)\n\nADC = Vayne, Tristana, Xayah\nMid = Malzahar, Katarina – Xerath – Brand\nJungle = Shyvana, Warwick, Jarvan\nSupport = Janna, Taric – Nami - Alistar\nTop lane = Nasus, Illaoi, - Gangplank – Malphite\n\nTimestamps = \nADC = start\nMid = 2:41\nJungle = 5:01\nSupport = 7:20\nTop = 9:25\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew Best Champions in Patch 8.1 SEASON 8 for Climbing in EVERY ROLE (League of Legends)",
+        "videoId": "EjpEsmbTbiE",
+        "preview": "https://i.ytimg.com/vi/EjpEsmbTbiE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "donghuap",
+        "displayName": "DongHuaP",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwhEjuMopEu2l3j6eULESrZC7_7RneNseqU1wh1=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-09T22:28:59Z",
+        "title": "The best Jungler for Carrying Silver and Gold Season 8",
+        "description": "Discord.gg/donghuap\n\nShyvana currently holds the title for the 2nd highest winrate in League of Legends. Why?\n\nThis episode tackles Shyvana that is quickly becoming a with the recent rune changes. The combination of her kit and press the attack within precision tree allows her to dominate her role as a jungler.\n\n In this episode of \"What's Meta\" with Dong Huap, he tackles and breaks down what made her so strong seemingly overnight. Why did her win rate skyrocket with the preseason updates. And why she is currently so god damn strong. Was it the runes? Was it the changes in game mechanics? Is it because she is able to turn into a fire breathing dragon that can eat you and your whole family whole? Maybe. \n\nLike & Subscribe ... or are you too chicken?\nTwitter: www.twitter.com/donghuap\nVideo Edited by Space Toast Studios\nTwitter: www.twitter.com/spacetoaststu\n\n\nShyvanna animation-  https://www.youtube.com/watch?v=yzLx2lL6VWA",
+        "videoId": "38spI0DPEfA",
+        "preview": "https://i.ytimg.com/vi/38spI0DPEfA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-03T23:08:33Z",
+        "title": "IS HE ACTUALLY INSANE?! THE BEST CAMILLE JUNGLE EVER | CAN'T ESCAPE THESE GANKS!! LEAGUE OF LEGENDS",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\n To support the channel be sure to leave a \"Like/Comment,\" share with a friend, and SUBSCRIBE! Thank you so much everyone 💙\n\n► WHY DID RIOT ALLOW THIS?! THE MOST BROKEN JUNGLE CLEAR | FULL AP EVELYNN JUNGLE | 20 KıLL https://youtu.be/FSP7Aunjvfs\n► YOU TOO CAN BE CHALLENGER #3 | HIDDEN OP BUILD!! NEW APPROACH VELOCITY 1v9 SHYVANA JUNGLE https://youtu.be/PRFDrE-scec\n\n🔶 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos 🔶\n\n🌟 FOLLOW MY STREAM HERE ►► http://bit.ly/1f6UNi2 ◄◄ FOR LIVE CONTENT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 🌟\n\nFollow me here for more content and daily updates (✿ ◕‿◕)\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Editor: https://twitter.com/Hypercide\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/7RPS5e1wY4M\n►Thumbnail Art: http://bit.ly/2CzATA8",
+        "videoId": "VYKdW_BKu-4",
+        "preview": "https://i.ytimg.com/vi/VYKdW_BKu-4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2018-01-02T21:28:21Z",
+        "title": "WHY DID RIOT ALLOW THIS?! THE MOST BROKEN JUNGLE CLEAR | FULL AP EVELYNN JUNGLE | 20 KıLL Nightblue3",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\n To support the channel be sure to leave a \"Like/Comment,\" share with a friend, and SUBSCRIBE! Thank you so much everyone 💙\n\n► YOU TOO CAN BE CHALLENGER #3 | HIDDEN OP BUILD!! NEW APPROACH VELOCITY 1v9 SHYVANA JUNGLE https://youtu.be/PRFDrE-scec\n► LEGENDARY PREDICTION | YASUO JUNGLE IS ACTUALLY BROKEN | INSANE DUO WITH FAKE IMAQTPIE https://youtu.be/79hiO1MluqA\n\n🔶 SUBSCRIBE to the channel here ► http://bit.ly/1J0L3TS ◄ to see more videos 🔶\n\n🌟 FOLLOW MY STREAM HERE ►► http://bit.ly/1f6UNi2 ◄◄ FOR LIVE CONTENT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 🌟\n\nFollow me here for more content and daily updates (✿ ◕‿◕)\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Editor: https://twitter.com/Ryscu_\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/BwEZaariQQ4\n►Thumbnail Art: http://bit.ly/2lGfj2x",
+        "videoId": "FSP7Aunjvfs",
+        "preview": "https://i.ytimg.com/vi/FSP7Aunjvfs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "nightblue3",
+        "displayName": "Nightblue3",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJx7p_IDowGmj3XOhsP5Legz_Yr5BSLIC98BKaxArw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-12-31T19:21:55Z",
+        "title": "YOU TOO CAN BE CHALLENGER #3 | HIDDEN OP BUILD!! NEW APPROACH VELOCITY 1v9 SHYVANA JUNGLE Nightblue3",
+        "description": "WATCH ME LIVE ON TWITCH! https://www.twitch.tv/nightblue3\n\nEnjoyed the video? HIT 👍 \"LIKE\" 👍 & SUBSCRIBE ► http://bit.ly/1J0L3TS ◄ Thank you!\n\n LIKE, COMMENT, SUBSCRIBE TO HELP A WEEB OUT (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n► LEGENDARY PREDICTION | YASUO JUNGLE IS ACTUALLY BROKEN | INSANE DUO WITH FAKE IMAQTPIE https://youtu.be/79hiO1MluqA\n► THIS WILL 100% BE NERFED!! THE FASTEST SPEED EVER | PREDATOR QUINN JUNGLE | NO COUNTER https://youtu.be/QmvLi_N7Mbg\n\n🌟 To see future video content LIVE you can follow my stream here: http://bit.ly/1f6UNi2 🌟\n\n🔶 SUBSCRIBE to the channel for more videos: http://bit.ly/1J0L3TS 🔶\n\nFollow me here for more content and daily updates (✿ ◕‿◕)\nLivestream - http://bit.ly/1f6UNi2\nTwitter - https://twitter.com/Nightbloo\nFacebook - https://www.facebook.com/Nightblue3LoL\n\n►Editor: https://twitter.com/Ryscu_\n►Intro song: https://youtu.be/XFflwRnn2Ts \n►Outro song: https://youtu.be/I-WNQqI6dE4",
+        "videoId": "PRFDrE-scec",
+        "preview": "https://i.ytimg.com/vi/PRFDrE-scec/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-12-20T19:37:13Z",
+        "title": "Best Champions in 7.24/Season 8 + KOREA for EVERY ROLE (League of Legends)",
+        "description": "We've now had the last patch before Season 8 so this is the meta we'll start with in the new season! Also looking at Korea for each role!\nThanks for the likes and subs! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChampions\nMid – Xerath / Malzahar – Korea = Katarina / Vlad\nADC – Ezreal / Vayne – Korea = Same + Kalista\nJungle – Xin Zhao / WW – Korea = Shyvana – Evelynn/J4/Rammus\nSupport – Aggro = Leo / Blitz. Defensive = Taric/Janna - Korea = Alistar / Leona\nTop – Teemo / Maokai -  Korea = Illaoi / Ornn / Nasus\n\nTimestamps = \nMid = start\nADC = 2:28\nJungle = 4:17\nSupport = 6:31\nTop = 8:26\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nBest Champions in 7.24/Season 8 + KOREA for EVERY ROLE (League of Legends)",
+        "videoId": "JOhwCcqvslY",
+        "preview": "https://i.ytimg.com/vi/JOhwCcqvslY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-12-09T17:54:36Z",
+        "title": "9 New OP Builds & Champs in Korea Patch 7.24 PRESEASON so far (League of Legends)",
+        "description": "Let's check out some new picks over in Korea since the new patch!\nOP.GG has a lot of these if you want to look properly = http://www.op.gg/champion/statistics\nThanks for the likes and subscribing! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nPicks\n-Leona/Rammus/Malz/Shyvana for lower ranks\n-Morgana Mid\n-Corki Fleet Footwork\n-Sion Arcane Comet\n-Kalista\n-Nautilus Support\n-Nasus Kleptomancy/Ancient Coin\n-Sejuani \n-Katarina (early game)\n-Olaf Jungle\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n9 New OP Builds in Korea Patch 7.24 PRESEASON so far (League of Legends)",
+        "videoId": "TjoNOxZw5R4",
+        "preview": "https://i.ytimg.com/vi/TjoNOxZw5R4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-30T17:54:44Z",
+        "title": "Best Champions in Patch 7.23 PRESEASON for every role (League of Legends)",
+        "description": "Time to check out who seem to be doing the best this patch so far!\nTimestamps / List below.. make sure to like if you enjoy!\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps\nADC =start\nMid = 2:48\nJungle = 4:57\nTop = 6:48\nSupport = 8:48\n\nADC = Ezreal, Miss Fortune, Twitch, Vayne\nMid = Malzahar, Katarina, Zed, Corki, Xerath\nJungle = Xin Zhao, Jarvan, Rammus, Shyvana, Kha'Zix\nTop = Ornn, Maoaki, Gangplank, Teemo, Singed, Yorick\nSupport = Leona, Sona, Taric, Blitzcrank, Alistar, Janna\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nBest Champions in Patch 7.23 PRESEASON for every role (League of Legends)",
+        "videoId": "Xvm_LMAxc6U",
+        "preview": "https://i.ytimg.com/vi/Xvm_LMAxc6U/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-28T19:31:49Z",
+        "title": "HE'S BACK AGAIN! NEW OP CHAMPIONS PRESEASON - Patch 7.23 | BEST Champs w/ Builds - League of Legends",
+        "description": "Shyvana Is BACK! New OP Champions In Preseason Patch 7.23 & New Runes In League of Legends. 'Like' if you enjoyed & want MORE & Turn On the BELL For Instant Notifications!\n→Try ProGuides Today At (proguides.com): https://www.proguides.com/rm\n→Subscribe For More!: http://full.sc/1gukNqq →My OVERWATCH Channel: http://bit.ly/1EAvIuW \n \n Follow me here!\n→My Stream: http://twitch.tv/redmercylol\n→My Twitter: http://twitter.com/RedmercyLoL\n →Facebook: https://www.facebook.com/RedmercyLoL\n →My Instagram: http://instagram.com/redmercylol\n →My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n \n Redmercy Merchandising Now Available!\n →Redmercy Store: http://tinyurl.com/qb3zjdc\n\n Hope you enjoy and please sub rate and comment!!! :)\n\nSHE'S BACK!! NEW OP CHAMPIONS PRESEASON - Patch 7.23 | BEST Champs w/ Builds - League of Legends",
+        "videoId": "RMiGaeAfJPQ",
+        "preview": "https://i.ytimg.com/vi/RMiGaeAfJPQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-25T18:26:57Z",
+        "title": "New OP Champs & Runes in Korea Patch 7.23 PRESEASON so far (League of Legends)",
+        "description": "Time to stalk some more koreans and see what they are abusing in the 7.23 patch!\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChampions\n-Zoe\n-Ornn\n-Ashe\n-Shyvana\n-Diana\n-Jayce\n-Jarvan\n-Kill/Poke Supports\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew OP Champs & Runes in Korea Patch 7.23 PRESEASON so far (League of Legends)",
+        "videoId": "cONgD4qKW7A",
+        "preview": "https://i.ytimg.com/vi/cONgD4qKW7A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-11T01:59:51Z",
+        "title": "[Season 8] Runes For ALL Champions (500+ Rune Pages)",
+        "description": "Huge thanks to all of the pro players and challengers who helped in the discussion leading to the creation of these pages. Some pages on the rune video might have errors / extra pages (alternatives) missing, this was an oversight due to the amount of time it took sorry. \nTimestamps: \n\n00:00 Aatrox\n00:05 Ahri\n00:17 Akali\n00:21 Alistar\n00:33 Amumu\n00:42 Anivia\n00:49 Annie\n00:56 Ashe\n01:01 Aurelion\n01:12 Azir\n01:17 Bard\n01:36 Blitzcrank\n01:45 Braum\n01:50 Brand\n02:04 Caitlyn\n02:09 Camille\n02:18 Cassio\n02:23 Cho'Gath\n02:33 Corki\n02:37 Darius\n02:55 Diana\n03:07 Draven\n03:12 Dr.Mundo\n03:28 Ekko\n03:51 Elise\n03:54 Evelynn\n03:56 Ezreal\n04:05 Fiddlesticks\n04:12 Fiora\n04:17 Fizz\n04:24 Galio\n04:29 Gangplank\n04:43 Garen\n04:50 Gnar\n04:52 Gragas\n05:04 Graves\n05:06 Hecarim\n05:11 Heimerdinger\n05:20 Illaoi\n05:39 Irelia\n05:55 Ivern\n06:11 Janna\n06:25 Jarvan\n06:35 Jax\n06:51 Jayce\n06:56 Jhin\n07:03 Jinx - Slight error, Press the Attack not comet tree is hers. Comet is Jhin's+Press the Attack\n07:06 Kalista\n07:08 Karma\n07:31 Karthus\n07:33 Kassadin\n07:52 Katarina\n08:01 Kayle\n08:03 Kayn\n08:13 Kennen\n08:17 Kha'Zix\n08:22 Kindred\n08:27 Kled\n08:31 Kog'Maw\n08:36 Leblanc\n08:48 Lee Sin\n08:54 Leona\n09:04 Lissandra\n09:11 Lucian\n09:16 Lulu\n09:34 Lux\n09:46 Malphite\n09:52 Malzahar\n10:00 Maokai\n10:03 Master Yi\n10:12 Miss Fortune\n10:23 Mordekaiser\n10:28 Morgana\n10:33 Nami\n10:44 Nasus\n11:03 Nautilus\n11:12 Nidalee\n11:15 Nocturne\n11:40 Nunu\n11:55 Olaf\n12:06 Orianna\n12:18 Ornn\n12:23 Pantheon\n12:30 Poppy\n12:36 Quinn\n12:39 Rakan\n12:44 Rammus\n12:50 Reksai\n12:55 Renekton\n13:07 Rengar\n13:16 Riven\n13:30 Rumble\n13:33 Ryze\n13:35 Sejuani\n13:39 Shaco\n13:49 Shen\n13:53 Shyvana\n14:00 Singed\n14:22 Sion\n14:26 Sivir\n14:29 Skarner\n14:35 Sona\n14:50 Soraka\n15:03 Swain\n15:09 Syndra\n15:13 Tahm\n15:29 Taliyah\n15:38 Talon\n15:43 Taric\n15:48 Teemo\n15:59 Twisted Fate\n16:11 Thresh\n16:13 Tristana\n16:18 Trundle\n16:32 Tryndamere\n16:34 Twitch\n16:39 Udyr\n16:46 Urgot\n16:49 Varus\n16:53 Vayne\n16:56 Veigar\n17:05 Vel'Koz\n17:16 Vi\n17:26 Viktor\n17:40 Vladimir\n17:45 Volibear\n17:54 Warwick\n18:06 Wukong\n18:17 Xayah\n18:20 Xerath\n18:31 Xin Zhao\n18:38 Yasuo\n18:48 Yorick\n18:55 Zac\n19:04 Zed\n19:09 Ziggs\n19:15 Zilean\n19:27 Zoe\n19:32 Zyra\n\nPLEASE NOTE :\n\nThe outlined but gray icon in the primary tree means that it is a possible alternative, although the colored path is preferred. In the secondary tree the outline stands for alternatives aswell, but it also shows what you can actually swap out and what is mandatory.\n\nAll of the rune pages that are seen in this video are not only created through my own thoughts, but dozens of pro and high elo players were involved in coming to conclusions when doing these rune pages.\n\nHuge shout-outs to everyone who participated in working on these.\n\nBGM : https://www.youtube.com/watch?v=_rbVt0z6NLM",
+        "videoId": "X6uxG09qN0s",
+        "preview": "https://i.ytimg.com/vi/X6uxG09qN0s/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-11-04T18:20:41Z",
+        "title": "19 of the Best OFF META picks and builds from Season 7 (League of Legends)",
+        "description": "There were a bunch of good off-meta picks this season so I've round up my top 19!\nOP.GGs for ones I have below if you want to look at them!\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nAP Rakan = https://www.twitch.tv/xayoo_/ or http://euw.op.gg/summoner/userName=cozicossack\nAD Sion = http://eune.op.gg/summoner/userName=thebausffs\nAP Shyvana/AP Rengar = http://na.op.gg/summoner/userName=p1\nAD Jungle Malz = http://na.op.gg/summoner/userName=Aquadragon\nJungle Leona / Support Sejuani = http://euw.op.gg/summoner/userName=ForceObscure\nAD Leblanc = http://euw.op.gg/summoner/userName=Tibbers+Hug\nLethality Poppy = http://euw.op.gg/summoner/userName=swcodebarres\nAD Blitzcrank = http://euw.op.gg/summoner/userName=Prim0\nNocturne Mid = http://www.op.gg/summoner/userName=%EC%8F%98%ED%95%AB%ED%8A%B8\nHybrid Shaco = http://na.op.gg/summoner/userName=extreme+person\nAD Bard = http://na.op.gg/summoner/userName=p1picc\nMid/Top Evelynn = http://eune.op.gg/summoner/userName=hiiuii\nMid/Top Sona = http://na.op.gg/summoner/userName=rappinghipster\nAP Gragas = http://na.op.gg/summoner/userName=nikkonikkonii\nFiddlesticks Mid = http://na.op.gg/summoner/userName=thedongleader\nAP nasus = https://www.youtube.com/watch?v=cjRQ0_hPERg\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n20 of the Best OFF META picks and builds from Season 7 (League of Legends)",
+        "videoId": "c-3vg0QMLqc",
+        "preview": "https://i.ytimg.com/vi/c-3vg0QMLqc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-26T17:18:15Z",
+        "title": "Best Champions who climb the FASTEST in LOW ELO for every role (League of Legends)",
+        "description": "Something a little different from the usual tier list.. this is looking specifically at champions who are good at climbing quickly!\nCheck out proguides for the end of season push!! = https://www.proguides.com/phy\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nList of champions (based on stats too)-\nTop Lane\n-Pantheon\n-Jarvan\n-Yorick\n-Tryndamere\n-Malphite\n-Jax\n-Nasus\n\nJungle\n-Xin Zhao\n-Amumu\n-Jax\n-Jarvan\n-Shyvana\n-Warwick\n-Rammus\n\nMid\n-Ahri\n-Annie\n-Malzahar\n-Anivia\n-Twisted Fate\n-Ziggs\n-Vel'Koz\n\nADC\n-Miss Fortune\n-Twitch\n-Jinx\n-Kog\n-Tristana\n\nSupport\n-Sona\n-Blitzcrank\n-Soraka\n-Taric\n-Brand\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nBest Champions who climb the FASTEST in LOW ELO for every role (League of Legends)",
+        "videoId": "r8ICCaH6vao",
+        "preview": "https://i.ytimg.com/vi/r8ICCaH6vao/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-10-24T13:00:04Z",
+        "title": "SILVER SHYVANA JUNGLE COACHING - PATHING, PUSHING, CARRYING",
+        "description": "Your favorite Boy Band member Neace is back again coaching a silver jungler on how to play the Dragon Lady. Learn how to carry without camping your adc, and how to stop dying every time you push a lane. \r\n Ain't never heard of a dragon who hoards Silver, gotta get that Gold, baby. -- Watch live at https://www.twitch.tv/neace",
+        "videoId": "keRl6ugSrK0",
+        "preview": "https://i.ytimg.com/vi/keRl6ugSrK0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-09-18T17:56:18Z",
+        "title": "Underrated Champions to escape low elo for every role (League of Legends)",
+        "description": "Most sites only show plat+ stats so I wanted to go over some lower ranked stuff properly today!\nCheck out Haste as well! = http://bit.ly/Haste_Phy\nSites used for the video if you want to check yourself\nLolalytics (filter by rank at the top) = https://lolalytics.com/ranked/worldwide/gold/home/\nChampion.gg (filter by rank top right) = http://champion.gg/?league=gold\nOP.GG (pick rank on the left, change server top right) = http://euw.op.gg/statistics/champion/\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nList of Champs\nBronze\nTop – Yorick, Tryndamere (yasuo) \nJungle – Jax, Shyvana \nMid – Diana, Anivia \nADC – Jinx, MF\nSupport – Leona, Brand\n\nSilver\nTop – Sion, Wukong\nJungle – (shyvana) unkillable tanks – cho / mundo / amumu / rammus / sej / maokai\nMid – (diana) Swain, Zilean\nADC – Jinx, Sivir\nSupport – (brand) Taric, Sona\n\nGold\nTop – Jarvan, Talon\nJungle – shyv, jax, jarvan – unkillable tanks again – Sej, Cho, Rammus, Warwick (better)\nMid – TF, Jayce\nADC – Jinx\nSupport – Leona / Taric\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nUnderrated Champions to escape low elo for every role (League of Legends)",
+        "videoId": "Ymp0ygV65iM",
+        "preview": "https://i.ytimg.com/vi/Ymp0ygV65iM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-08-25T17:01:06Z",
+        "title": "Patch 7.17 NEW Best Champions to carry with for EVERY Role (League of Legends)",
+        "description": "Bit earlier this time but we have even more picks to talk about!\nLet me know what you think of this slightly different format covering more per role.\nThanks for liking and subscribing! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nTimestamps \nADC = start of the video\nJungle = 2:31\nMid = 4:41\nTop = 6:41\nSupport = 8:52\n\nChampions - builds etc are in the video!\n-ADC =S- Tristana, Twitch // =A- Jhin, Vayne\n-Jungle =Tank – Sejuani, Cho'Gath // =Carry – Jarvan, Shyvana\n-Mid = S- Twisted Fate, Malzahar // A – Talon, Anivia \n-Top = S- Riven, Jarvan // A – Maokai, Gangplank\n-Support = S- Janna, Thresh // A – Rakan, Soraka\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nPatch 7.17 NEW Best Champions to carry with for EVERY Role (League of Legends)",
+        "videoId": "65Rxt648WvQ",
+        "preview": "https://i.ytimg.com/vi/65Rxt648WvQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-07-30T16:34:45Z",
+        "title": "7 New OP Champs & Builds in Korea 7.15 SO FAR (League of Legends)",
+        "description": "Let's look at a few picks doing much better since the new patch hit over in Korea!\nIf you enjoyed the video then feel free to like and subscribe! :)\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChamps in this video\n-Janna (with coin)\n-Shyvana\n-Sivir\n-Akali\n-Mundo jungle\n-Kayn\n-Twisted Fate\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\n7 New OP Champs & Builds in Korea 7.15 SO FAR (League of Legends)",
+        "videoId": "NK6MUAryqY4",
+        "preview": "https://i.ytimg.com/vi/NK6MUAryqY4/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-07-24T16:32:15Z",
+        "title": "New OP CHAMPS IN 7.15 - Biggest Buffs & Nerfs (League of Legends)",
+        "description": "There are a lot of new changes hitting the game soon so let's go through who won, who lost and who is going to be so much stronger!\nList of the changes and timestamps are down below. :)\nThanks for liking and subscribing if you enjoy!\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChanges (can find more numbers etc) = http://www.surrenderat20.net/p/current-pbe-balance-changes.html#balance\n\nTimestamps\nDuskblade stuff = start of the video\nJungle = 1:26\nADC = 5:21\nTop = 7:38\nMid = 10:53\nSupport has no changes!\n\nList of changes\n-Duskblade nerfs\n-Cho'Gath nerf\n-Zac nerf\n-Gragas nerf\n-Elise / Rek'sai small nerf\n-Kayn buff\n-Shyvana buff?\n-Sivir buff\n-Jinx buff\n-Ezreal buff\n-Nasus rework\n-Nautilus buff\n-Mundo rework\n-Lux / Ekko / Xerath / Ziggs small buffs\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNew OP CHAMPS IN 7.15 - Biggest Buffs & Nerfs (League of Legends)",
+        "videoId": "F0dZhp89sDU",
+        "preview": "https://i.ytimg.com/vi/F0dZhp89sDU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-07-16T16:36:04Z",
+        "title": "NEW UDYR Rework? 23+ Champion Buffs & Nerfs - Big PBE 7.15 Changes! (League of Legends)",
+        "description": "There are tons of changes on the PBE this time around so I thought we should take a look!\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Follow me on Instagram → https://www.instagram.com/phylol/\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChanges =\nBig\n-Zac nerfs\n-Udyr rework\n-Nasus semi rework\n-Mundo semi rework\n\nMid\n-Ezreal buff\n-Sivir buff\n-Xerath buffs\n\nSmaller Nerfs\n-Elise base ad nerf\n-Gragas ult nerf\n-Lee Sin base ad nerf\n-Rek'Sai early nerf, late game buff\n\nSmaller buffs\n-Akali w CD\n-Ekko E CD\n-Irelia R CD\n-Jinx W CD\n-Kindred Q dmg\n-Lissandra base dmg\n-Lux Q CD\n-Malphite E dmg\n-Nami Q CD \n-Nautilus Q dmg up. R CD down\n-Shyvana base arm up\n-Ziggs W CD late game down\n\nEditor\nhttps://twitter.com/BijoNLoL\nhttps://www.twitch.tv/bijonlol\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nNEW UDYR Rework? 23+ Champion Buffs & Nerfs - Big PBE 7.15 Changes! (League of Legends)",
+        "videoId": "BsHiuuR8X1U",
+        "preview": "https://i.ytimg.com/vi/BsHiuuR8X1U/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-05-20T03:39:46Z",
+        "title": "GTL Grab Bag -  Ten Bans, Champion Gameplay Updates",
+        "description": "I apologize for the crappy video quality - the heat has not been kind to my computer.\n\nAt any rate, today's video covers the recently-announced implementation of ten bans in ranked play, as well as Riot's shift from full-on class updates to individual champion projects. \n\nRead more GTL here: https://grabthelantern.tumblr.com\n\nRiot Asiryte's post about champ updates: https://boards.na.leagueoflegends.com/en/c/gameplay-balance/zmcOcENd-i-prefer-single-champion-updates-like-reksaishyvanaetc-to-class-updates?comment=002a000d0000",
+        "videoId": "TE1SsULQhes",
+        "preview": "https://i.ytimg.com/vi/TE1SsULQhes/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "tbskyen",
+        "displayName": "T B Skyen",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyshPYFo6beJdHT__q8zRw6nZd_6qJO0Jx_bk9rUg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-28T01:16:11Z",
+        "title": "[PART 2] THE MESSY BIOGRAPHY OF SHYVANA",
+        "description": "Everything Wrong With The New Lux & Garen Stories: https://www.youtube.com/watch?v=gBzZfAg8o8A\n\nLast video I took a look at the Lux & Garen short stories and gave a fairly comprehensive critique of the writing and especially the editing of those stories.\n\nThis video, we're looking at the rather confused updated biographies of Jarvan IV and Shyvana, now focusing in on Shyvana's thematic messiness.",
+        "videoId": "dgnHRXHvGvU",
+        "preview": "https://i.ytimg.com/vi/dgnHRXHvGvU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "tbskyen",
+        "displayName": "T B Skyen",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyshPYFo6beJdHT__q8zRw6nZd_6qJO0Jx_bk9rUg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-28T01:15:53Z",
+        "title": "[PART 1] THE MESSY BIOGRAPHY OF JARVAN IV",
+        "description": "Everything Wrong With The New Lux & Garen Stories: https://www.youtube.com/watch?v=gBzZfAg8o8A\n\nLast video I took a look at the Lux & Garen short stories and gave a fairly comprehensive critique of the writing and especially the editing of those stories.\n\nThis video, we're looking at the rather confused updated biographies of Jarvan IV and Shyvana, starting with Jarvan IV.",
+        "videoId": "KfTman7qrlc",
+        "preview": "https://i.ytimg.com/vi/KfTman7qrlc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-21T15:00:01Z",
+        "title": "S7 LoL Coaching #27 - Shyvana Jungle (Silver 5)",
+        "description": "Neace talks about skillgap, Faker =/= LeBron, cheese, dragon on dragon violence, and the lack of snowball on farm champs.\n\nSeason 7 LoL Coaching is Back!  http://www.twitch.tv/neace\n\n$30 Replay Reviews\n$40 Duo Game (Neace plays with you and coaches you live)\n$50 Live Spectate (Neace watches and coaches you live)\n$100 1 Hour Private Coaching\n\nFor more details, come to stream http://www.twitch.tv/neace\n\nAlso, be sure to follow:\n►TWITTER: https://twitter.com/neacetweets\n►FACEBOOK: https://www.facebook.com/neaceofficial\n►MY LIVESTREAM: http://www.twitch.tv/neace\n►DISCORD: http://discord.gg/neace\n►PATREON: https://www.patreon.com/neace\n►OP.GG: http://goo.gl/43igza\n\nTelestrator: http://epic-pen.com/\n\nProduction: Phreo\n\nBroadcasted live on Twitch -- Watch live at https://www.twitch.tv/neace",
+        "videoId": "2uz7rL7NfUs",
+        "preview": "https://i.ytimg.com/vi/2uz7rL7NfUs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-03-04T17:03:23Z",
+        "title": "Best JUNGLERS to ESCAPE BRONZE/SILVER/GOLD (League of Legends)",
+        "description": "I get asked this all the time so let's take a look at some champions you can escape lower ranks with for the jungle!\nDownload Haste and give it a try to make your connection more stable!  (works for League and Overwatch) - http://bit.ly/phyhaste\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nChampions in this video\n-Xin (all 3 but bronze especially)\n-Hecarim (Bronze + Silver especially)\n-Shyvana (Bronze + Silver especially)\n-Warwick (Gold especially)\n-Zac (Bronze especially)\n-Skarner (Gold especially)\n-Master Yi (All 3)\n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nBest JUNGLERS to ESCAPE BRONZE/SILVER/GOLD (League of Legends)",
+        "videoId": "M7ARTrj0HAY",
+        "preview": "https://i.ytimg.com/vi/M7ARTrj0HAY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-02-23T05:27:58Z",
+        "title": "Recalls - Champion Updates | All Champions who didn't have recalls now do!",
+        "description": "List and timestamps below! All old champions which haven't had recalls now have them, 74 bases, 351 skins will now have recalls.  This video will show all the base champions which have been changed.\n\nMore information Here:\nhttp://boards.na.leagueoflegends.com/en/c/story-art/IngzHFRs-adding-simple-recalls-to-older-champs\n\nFull List of Champions and what animations they use for the recall:\nhttp://boards.pbe.leagueoflegends.com/en/c/champions-gameplay-feedback/AOE2y1J5-adding-simple-recalls-soon-on-pbe\n\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nTime Stamps:\nAhri - 00:04\nAkali - 00:14\nAlistar - 00:26\nAmumu - 00:37\nAnivia - 00:47\nAshe - 00:57\nBlitzcrank - 01:07\nBrand - 01:18\nCaitlyn - 01:28\nCassiopeia - 01:40\nCho'Gath - 01:50\nCorki - 02:00\nDr. Mundo - 02:11\nEvelynn - 02:21\nEzreal - 02:31\nFiddlesticks - 02:41\nFiora - 02:52\nFizz - 03:01\nGalio - 03:12\nGragas - 03:22\nGraves - 03:32\nHecarim - 03:43\nIrelia - 03:53\nJanna - 04:03\nJarvan IV - 04:13\nJax - 04:25\nKassadin - 04:35\nKayle - 04:45\nKennen - 04:56\nKog'Maw - 05:06\nLeblanc - 05:16\nLee Sin - 05:27\nLeona - 05:37\nLulu - 05:48\nLux - 05:59\nMalphite - 06:09\nMalzahar - 06:18\nMaokai - 06:28\nMiss Fortune - 06:41\nMordekaiser - 06:50\nMorgana - 07:00\nNautilus - 07:10\nNocturne - 07:20\nNunu - 07:32\nOlaf - 07:42\nOrianna - 07:53\nPantheon - 08:02\nRammus - 08:11\nRenekton - 08:21\nRiven - 08:30\nRumble - 08:40\nShaco - 08:50\nShen - 09:00\nShyvana - 09:08\nSinged - 09:29\nSkarner - 09:39\nSona - 09:48\nSwain - 09:57\nTalon - 10:07\nTeemo - 10:16\nTryndamere - 10:25\nUdyr - 10:35\nUrgot - 10:44\nVarus - 10:54\nVayne - 11:03\nVeigar - 11:12\nViktor - 11:21\nVladimir - 11:32\nVolibear - 11:42\nWukong - 11:51\nXerath - 12:00\nXin Zhao - 12:09\nZiggs - 12:20\nZilean - 12:30\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "zhUAc86A_uE",
+        "preview": "https://i.ytimg.com/vi/zhUAc86A_uE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2017-01-09T23:00:02Z",
+        "title": "Season 7 LoL Coaching #9 - Shyvana Jungle (S6 Gold)",
+        "description": "Shyvana jungle vs. Master Yi.  n3ac3y talks about leveraging leads, and goes into detail on the subject of going into the game with a plan.\r\n\r\nFF@20$ Replay Reviews on http://twitch.tv/n3ac3y\r\nUse http://op.gg or http://replay.gg to record your games.   Come in, have a replay ready to review, donate 20$, and get on the wait list to have your gameplay reviewed live on stream on Mondays. $50 on demand.\r\n\r\nAlso, be sure to follow:\r\n►TWITTER: https://twitter.com/n3ac3y\r\n►FACEBOOK: https://www.facebook.com/bingegaming.tv\r\n►MY LIVESTREAM: http://www.twitch.tv/n3ac3y\r\n►DISCORD: http://discord.gg/n3ac3y\r\n►PATREON: https://www.patreon.com/n3ac3y\r\n►OP.GG: http://goo.gl/43igza\r\n►LOLKING:   http://www.lolking.net/summoner/na/54794681\r\n\r\nTelestrator: http://epic-pen.com/\r\n\r\nProduction: Phreo\r\n -- Watch live at https://www.twitch.tv/n3ac3y",
+        "videoId": "czVqMZarxlY",
+        "preview": "https://i.ytimg.com/vi/czVqMZarxlY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zach",
+        "displayName": "Лига Легенд и TFT от Зака: Гайды, Стримы, Обзоры",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxB3wok5mrNroeSn6P20K3FAJ_7nPVkbWdzYM_SEA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-12-27T20:09:04Z",
+        "title": "[Patch 6.24] Shyvana jungle - Гайд по джангл Шиване от Зака",
+        "description": "Группа вконтакте: vk.com/zakland\n\nПоддержать проект можно через Qiwi, webmoney и yandex:\nqiwi - +79834424516\nwebmoney - R239173096410\nyandex - 41001737292271\n\nYou can support this channel via paypal: zak1982@inbox.ru\n\n\nТайминги/Timings:\n4:59 - скилы\n3:24 - руны\n3:56 - таланты\n5:30 - сборка\n\nМузыка/Music:\nDragonforce - Cry Thunder\nEdguy - Fucking With Fire (Hair Force One)\nLost Horizon - Welcome Back",
+        "videoId": "ByY7TMu6XHA",
+        "preview": "https://i.ytimg.com/vi/ByY7TMu6XHA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "helmight",
+        "displayName": "Helmight",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwWC2CCF-oKLvtp_-1_T-62hOrw8NiFaAx7Z7NN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-19T03:33:40Z",
+        "title": "GTL Grabbag - Shyvana, Camille, Universe",
+        "description": "We run down Shyvana's mini-rework, our newest champion teaser, and Universe in today's podcast.\n\nShyvana rework: http://na.leagueoflegends.com/en/news/champions-skins/champion-update/ability-update-shyvana\n\nCamille comic: http://na.leagueoflegends.com/en/featured/camille-comic\n\nUniverse: http://universe.leagueoflegends.com/en_US/",
+        "videoId": "2eOlKwWCgVk",
+        "preview": "https://i.ytimg.com/vi/2eOlKwWCgVk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-11T19:30:00Z",
+        "title": "SHYVANA REWORK!! | New FIREBALL Ability - League of Legends",
+        "description": "Shyvana Rework On The PBE, New W, Ultimate R and E (New Fireball Ability)! \"Like\" if you want more!\n���New Broken Keystone: http://bit.ly/2g2X7Pv\n���Subscribe For More!: http://full.sc/1gukNqq ���My OVERWATCH Channel: http://bit.ly/1EAvIuW \n\nIronside Computer\nClick here to customize your own PC: http://ironsidecomputers.com\n\nhttp://www.surrenderat20.net/2016/11/1110-pbe-update.html\n\nFollow me here!\n���My Stream: http://twitch.tv/redmercylol\n���My Twitter: http://twitter.com/RedmercyLoL\n���Facebook: https://www.facebook.com/RedmercyLoL\n���My Instagram: http://instagram.com/redmercylol\n���My 2nd YouTube Channel: https://www.youtube.com/redmercygaming\n\nRedmercy Merchandising Now Available!\n���Redmercy Store: http://tinyurl.com/qb3zjdc\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "ko0L1bXC3BY",
+        "preview": "https://i.ytimg.com/vi/ko0L1bXC3BY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-11-11T19:02:17Z",
+        "title": "Mini SHYVANA Rework? NEW BIG 6.23 Changes First Look (League of Legends)",
+        "description": "Shyvana has a brand new passive and other changes plus a bunch more weird ones - let's catch up with 6.23!\nAll ADCs RANKED for Preseason - https://youtu.be/RsQ3ADpSIDA\n♦ Like and Subscribe if you want to see more! → http://bit.ly/phylolsub\n♦ Subscribe to my League Gameplay Channel! - http://bit.ly/PhyGames\n\nChanges - http://www.surrenderat20.net/p/current-pbe-balance-changes.html#balance\n\n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Follow my Stream → http://www.twitch.tv/phy_lol\n♦ Learn the League E-Book - http://phylol.sodacider.hop.clickbank.net\n♦ Like me on Facebook → https://www.facebook.com/phylol \n\nTitle: Insan3Lik3 - We Are The Robots (feat. Temu)\nVideo Link: http://www.youtube.com/watch?v=oe443Gl4Skk\nBeatport Download Link: http://www.beatport.com/release/we-are-the-robots/1244016\nLabel Channel: http://www.youtube.com/Monstercat\n\nMini SHYVANA rework? NEW BIG 6.23 Changes First Look (League of Legends)",
+        "videoId": "EQ3oYEH-mMM",
+        "preview": "https://i.ytimg.com/vi/EQ3oYEH-mMM/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "ls",
+        "displayName": "LS",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJypjOxBzg4o-YcPQ9TEjlWLuykh4Xh8gG_l0X-o=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-07-25T21:28:14Z",
+        "title": "Patch 6.15 rundown",
+        "description": "Timestamps :\n\n00:00 Introduction\n00:18 Braum\n01:27 Corki\n02:22 Hecarim\n03:02 illaoi\n03:10 Jarvan IV\n04:05 Karma\n04:54 Kassadin\n06:39 Malzahar\n07:25 Nidalee\n09:05 Renekton\n10:08 Shen\n10:42 Shyvana\n11:18 Sona\n12:10 Taliyah\n12:37 Vayne\n13:00 Viktor\n13:27 Vladimir\n14:01 Zac\n14:10 Zyra\n14:43 Ardent Censer\n14:51 Mikael's Crucible\n15:03 Outer Turrets\n18:15 Siege Minions\n\nFollow me at the links below:\nTwitter: http://twitter.com/LSXYZ9\nTwitch: http://twitch.tv/imls\nFacebook: http://facebook.com/nick.decesare.7\nStream: http://twitch.tv/imls\nInstagram: http://instagram.com/LSXYZ9\nCoaching Skype: Lsxyzcoaching\nBusiness E-mail: Nicholas.a.decesare at gmail dot com",
+        "videoId": "TELVm84RP20",
+        "preview": "https://i.ytimg.com/vi/TELVm84RP20/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-05-16T14:46:10Z",
+        "title": "Super Galaxy Shyvana Skin Spotlight - League of Legends",
+        "description": "League of Legends Super Galaxy Shyvana Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Shyvana on their Super Galaxy Skin in this Spotlight.\n\nAll footage was taken in game.\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "adJ-t2mXL2I",
+        "preview": "https://i.ytimg.com/vi/adJ-t2mXL2I/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2016-05-03T20:24:07Z",
+        "title": "Super Galaxy Shyvana Skin Spotlight - Pre-Release - League of Legends",
+        "description": "This is a teaser spotlight of Super Galaxy Shyvana with ingame gameplay! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nPrice: 975RP\nSkin name is CONFIRMED as Super Galaxy Shyvana, particles & SFX may not be final.\nCheck out the other skins in this cycle.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nWish to ask me anything?  Ask away here:\nhttp://ask.fm/SkinSpotlightsYT\n\nPlease feel free to subscribe for more Skin Spotlights to stay upto date with new skins about to be released!",
+        "videoId": "Ytohibu3UmI",
+        "preview": "https://i.ytimg.com/vi/Ytohibu3UmI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-10-14T05:37:15Z",
+        "title": "LoL Replay Review #31 - Shyvana Invades and turtle brains",
+        "description": "Dragon people =( why you do this silly invade to me? -- Watch live at http://www.twitch.tv/n3ac3y",
+        "videoId": "to4JCdubDSg",
+        "preview": "https://i.ytimg.com/vi/to4JCdubDSg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-06T14:05:14Z",
+        "title": "Championship Shyvana Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Championship Shyvana Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Shyvana on their Championship Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "ixlq0i4Cu7A",
+        "preview": "https://i.ytimg.com/vi/ixlq0i4Cu7A/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-06T14:05:12Z",
+        "title": "Ice Drake Shyvana Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Ice Drake Shyvana Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Shyvana on their Ice Drake Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "9GgLm-Dydok",
+        "preview": "https://i.ytimg.com/vi/9GgLm-Dydok/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-06T14:05:11Z",
+        "title": "Ironscale Shyvana Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Ironscale Shyvana Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Shyvana on their Ironscale Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "4e5K8NI0DcE",
+        "preview": "https://i.ytimg.com/vi/4e5K8NI0DcE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-06T14:05:11Z",
+        "title": "Boneclaw Shyvana Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Boneclaw Shyvana Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Shyvana on their Boneclaw Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "9BAVAX44KCE",
+        "preview": "https://i.ytimg.com/vi/9BAVAX44KCE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-07-06T14:05:10Z",
+        "title": "Darkflame Shyvana Skin Spotlight (2015 Update) - League of Legends",
+        "description": "League of Legends Darkflame Shyvana Skin Spotlight.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Shyvana on their Darkflame Skin in this Spotlight.\n\nAll footage was taken in game.\nThis Video is a full spotlight and therefore is in 60fps when played back in supported browsers.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nPlease feel free to subscribe for more Skin Spotlights and to keep upto date with all the future spotlights and to leave a like!",
+        "videoId": "XW1aZWdZcK0",
+        "preview": "https://i.ytimg.com/vi/XW1aZWdZcK0/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-06-25T08:24:44Z",
+        "title": "Shyvana VFX Update - Classic, Darkflame and Championship",
+        "description": "Note: Ice Drake isn't hooked up correctly yet!\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nSmall preview of the Shyvana VFX Update.\nAll of her other skins have the same particles as the classic skin\nFull spotlights will be released for each individual skin closer to the live patch.",
+        "videoId": "pMEHY_fZr6k",
+        "preview": "https://i.ytimg.com/vi/pMEHY_fZr6k/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2015-04-08T04:58:13Z",
+        "title": "Shyvana - 2015 Update - All Affected Skins",
+        "description": "SkinSpotlights has the new textures & models where \"Old Skin\" has the old textures on live.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nAll Skins which follow are just the texture & model updated versions.\n\nShyvana Skins which have been updated:\nClassic Shyvana\nIronscale Shyvana \nBoneclaw Shyvana\nDarkflame Shyvana\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFor Still Comparison Images as well as League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/",
+        "videoId": "h0v34UKHEDE",
+        "preview": "https://i.ytimg.com/vi/h0v34UKHEDE/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-10-07T01:43:05Z",
+        "title": "(OLD) Championship Shyvana League of Legends Skin Spotlight",
+        "description": "League of Legends Championship Shyvana Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Shyvana on their Championship Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nPlease feel free to subscribe for more Skin Spotlights and to leave a like!",
+        "videoId": "wZ3T_247mu8",
+        "preview": "https://i.ytimg.com/vi/wZ3T_247mu8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-09-25T00:21:31Z",
+        "title": "Pre-Release Teaser - Championship Shyvana Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nPRICE: 975RP\nSkin name is CONFIRMED as Championship Shyvana, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nFacebook for all you FB Users who want to keep upto date:\nhttps://www.facebook.com/Skinspotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/ \n\nPlease feel free to subscribe for more Skin Spotlights!",
+        "videoId": "u7X7rLsh9Zw",
+        "preview": "https://i.ytimg.com/vi/u7X7rLsh9Zw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-08-16T05:02:18Z",
+        "title": "Legendary Bronze Shyvana",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "YY9S6j4_mnU",
+        "preview": "https://i.ytimg.com/vi/YY9S6j4_mnU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-07-02T13:00:01Z",
+        "title": "ELO Hell is Like Traffic: An Analogy that Explains ELO Hell | League of Legends LoL",
+        "description": "You are not stuck in ELO hell, you ARE ElO hell \n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://luxial.deviantart.com/art/Shyvana-442248733",
+        "videoId": "nVqrljBIpFo",
+        "preview": "https://i.ytimg.com/vi/nVqrljBIpFo/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-04-29T15:00:05Z",
+        "title": "FOR THE TEAM!!! - League of Legends",
+        "description": "→KINGUIN, use code 'RED' to save 3% on all games! http://www.kinguin.net/7en/2vc\n→Subscribe Here: http://full.sc/1gukNqq\n→Special Thanks to Blakinola: http://bit.ly/1tT6e3x\n→My Stream: http://www.twitch.tv/RedmercyLoL\n→Twitter: http://twitter.com/RedmercyLoL\n→Facebook: https://www.facebook.com/RedmercyLoL\n\nIf you like my videos, and want to help out more, donations are accepted! Thanks!\nhttps://www.streamdonations.net/c/redmercylol\n\n→Anook: http://www.anook.com/redmercy\n→2nd YouTube Channel! : https://www.youtube.com/redmercygaming\n\n→Chat/Game with your friends, Razer Comms: http://rzr.to/jAdIQ\n\nArtwork used :\nhttp://fc04.deviantart.net/fs71/i/2013/230/d/0/lol__shyvana_the_half_dragon_by_milkydayy-d6iqp1m.png\n\nMusic By:\nhttps://www.youtube.com/user/AdrianvonZiegler\n\nHope you enjoy and please sub rate and comment!!! :) Test",
+        "videoId": "43_dkXkurXs",
+        "preview": "https://i.ytimg.com/vi/43_dkXkurXs/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zach",
+        "displayName": "Лига Легенд и TFT от Зака: Гайды, Стримы, Обзоры",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxB3wok5mrNroeSn6P20K3FAJ_7nPVkbWdzYM_SEA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-04-24T05:06:10Z",
+        "title": "[Patch 4.6]: Shyvana jungle guide by Zak",
+        "description": "Группа вконтакте: vk.com/zakland\nСайт: splitpush.ru\n\nПоддержать проект можно через Qiwi, webmoney и yandex:\nqiwi - +79834424516\nwebmoney - R239173096410\nyandex - 41001737292271\n\nТайминги:\n2:47 - скилы\n5:46 - руны\n6:50 - таланты\n7:21 - сборка\n\nМузыка:\nLost Horizon - Welcome Back\nEdguy - Fucking With Fire \nBrother Firetribe - Heart Full Of Fire\nPeter Hollens - Skyrim Theme",
+        "videoId": "um37BXFbepY",
+        "preview": "https://i.ytimg.com/vi/um37BXFbepY/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-04-17T01:55:11Z",
+        "title": "4.5 Shyvana Feral Jungle My Way",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "-FDDyO7KZQ8",
+        "preview": "https://i.ytimg.com/vi/-FDDyO7KZQ8/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-04-12T16:48:36Z",
+        "title": "4.5 Shyvana My Way Feral Jungle Part 1",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "wyA8nWCc4JA",
+        "preview": "https://i.ytimg.com/vi/wyA8nWCc4JA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-04-11T21:04:20Z",
+        "title": "Shyvana aka NatsuDragmferNeel",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "TyD6VqXZl0I",
+        "preview": "https://i.ytimg.com/vi/TyD6VqXZl0I/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-04-10T16:53:00Z",
+        "title": "Shyvana Feral 25 stack record",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "-ZaafoYS-dw",
+        "preview": "https://i.ytimg.com/vi/-ZaafoYS-dw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "neace",
+        "displayName": "NEACE",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzFxIlypPsaYUGOojLRfFCqnnAY_Rul_RDBfK0D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2014-01-08T08:57:28Z",
+        "title": "Raw Replay #5 - Shyvana Top Gameplay and Commentary",
+        "description": "Shyvana Top vs Darius. \n\nStepped up my commentary on stream for you guys here on the Youtube to enjoy. Tell me what you think, is this something you'd like to see more of? Let me know!\n\nI moved to LA with all my things after my military service to hopefully make gaming content that people care about. If you like my videos a sub is all I ask. \n\n►TWITTER:   https://twitter.com/n3ac3y\n►FACEBOOK:  https://www.facebook.com/bingegaming.tv\n►MY LIVESTREAM:   http://www.twitch.tv/n3ac3y\n►LOLKING:   http://www.lolking.net/summoner/na/25886506\n\n► Download and Play League of Legends Here! ◄\nhttp://signup.leagueoflegends.com/?ref=5086bd2dd2d59480310598\n\n--♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥---  ---♥--\n       Being able to do this stuff means everything to me.\n                        Thanks for all the support.\n                                     ~n3ac3y\n--♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥--- ---♥---  ---♥--",
+        "videoId": "gks0x4frqmA",
+        "preview": "https://i.ytimg.com/vi/gks0x4frqmA/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "phy",
+        "displayName": "Phy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJz0u7m2QLrlfay-xLvwOv4M7C3S4Fnk_XX1sxCVXA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-12-30T19:47:24Z",
+        "title": "Top 5 TOP Laners for Solo Queue - How to Play, Build and Play Against Them | Patch 3.15",
+        "description": "♦ Enjoy the video? SUBSCRIBE → http://bit.ly/16ZV8Mr\n\nCOUNTERS - I've numbered them instead of using names to avoid spoilers.\n5 - Riven, Olaf and Renekton\n4 - Olaf and Renekton\n3 - Jax, Renekton and Olaf\n2 - Olaf, Renekton - Mundo also works\n1 - Best matchups are Shyvana and Riven\n\n♦ Follow my STREAM → http://www.twitch.tv/phy_lol\n♦ Like me on Facebook → https://www.facebook.com/phylol \n♦ Follow me on Twitter → https://twitter.com/thephylol\n♦ Donate → http://bit.ly/HXjlgE\n♦ Follow me on Anook → http://www.anook.com/phy\n\nArtist Name: Muzzy - Timberwolf [Monstercat EP Release]\nVideo Link: https://www.youtube.com/watch?v=S4JVOwODt_I\nBeatport Download Link: http://www.beatport.com/release/the-takeover-ep/1185736\nLabel Channel: http://www.YouTube.com/Monstercat\n\nArtist Name: Eminence - Falling Stars [Monstercat EP Release]\nVideo Link: https://www.youtube.com/watch?v=Y1KR09vmvNk\nBeatport Download Link: http://btprt.dj/QAkwG8\nLabel Channel: http://www.YouTube.com/Monstercat\n\nTop 5 TOP Laners for Solo Queue - How to Play, Build and Play Against Them | Patch 3.15",
+        "videoId": "3AbCRUQf0gg",
+        "preview": "https://i.ytimg.com/vi/3AbCRUQf0gg/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-12-04T16:24:58Z",
+        "title": "Shyvana My Way 3.14 Preseason - Burn",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "qGg3WXLgwTw",
+        "preview": "https://i.ytimg.com/vi/qGg3WXLgwTw/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "zach",
+        "displayName": "Лига Легенд и TFT от Зака: Гайды, Стримы, Обзоры",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxB3wok5mrNroeSn6P20K3FAJ_7nPVkbWdzYM_SEA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-12-03T19:36:10Z",
+        "title": "Shyvana jungle guide by Zak",
+        "description": "Группа вконтакте: vk.com/zakland\nСайт: splitpush.ru\n\nПоддержать проект можно через Qiwi, webmoney и yandex:\nqiwi - +79834424516\nwebmoney - R239173096410\nyandex - 41001737292271\n\nGuide by Foxdrop: https://www.youtube.com/watch?v=dJ03l21DZ0g\n\nMusic:\nCalvin Harris feat. Example - We'll Be Coming Back\nMetallica - Around The World\nRise Against - Make It Stop\nSent by Ravens - New fire",
+        "videoId": "Jy3t46fAOhI",
+        "preview": "https://i.ytimg.com/vi/Jy3t46fAOhI/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-10-10T16:43:25Z",
+        "title": "FUS RO DAH! 5 Shyvana vs 5 Shyvana! | League of Legends LoL Hack!",
+        "description": "I managed to get about 5 more after this before Riot finally patched it! Enjoy :) \n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://gameinfo.na.leagueoflegends.com/en/game-info/champions/shyvana/",
+        "videoId": "UYHAZBRwaus",
+        "preview": "https://i.ytimg.com/vi/UYHAZBRwaus/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "jeremy",
+        "displayName": "Jeremy - Gaming Curios",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJxQ9sMqJgLvHpGzu9QevWWVYMRSe7GmwWkCx-neWA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-10-03T21:02:25Z",
+        "title": "How to Control Dragon: A Guide | League of Legends LoL Tips and Tricks",
+        "description": "Dragons are a great way to get leads, so don't ignore them! \n\n\nWatch me Live: http://www.twitch.tv/Jeremy_GamingCurios\n\nStay connected at: https://www.facebook.com/GamingCurios\n\nSend any questions to me via YouTube PM!\n\nThumbnail Source: http://vegacolors.deviantart.com/art/Shyvana-315779035",
+        "videoId": "5mLGVuh6s5M",
+        "preview": "https://i.ytimg.com/vi/5mLGVuh6s5M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-04-30T13:54:30Z",
+        "title": "(OLD) Ice Drake Shyvana League of Legends Skin Spotlight",
+        "description": "League of Legends Ice Drake Shyvana Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows off Animations and Ability Effects of Shyvana on her Ice Drake Skin.\n\nAll footage was taken in game.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "09B8KtMexUc",
+        "preview": "https://i.ytimg.com/vi/09B8KtMexUc/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2013-04-04T04:30:36Z",
+        "title": "Pre-Release Teaser - Ice Drake Shyvana Skin - League of Legends",
+        "description": "This is a teaser! \nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\nSkin name is confirmed as Ice Drake Shyvana, particles & SFX may not be final.\n\nFull Skin Spotlight will be released in the near future which will go more indepth.\n\nFor League of Legends Related News Check Out Surrender@20:\nhttp://www.surrenderat20.net/\n\nFeel Free to Follow me on Twitter as well:\nhttps://twitter.com/SkinSpotlights\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "Jw5flO5lZ_M",
+        "preview": "https://i.ytimg.com/vi/Jw5flO5lZ_M/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "trick2g",
+        "displayName": "Trick2G",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwLBDVJgR9n0ssFZMZJz_7nvjTlwJyHg_NiQFmpgA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-09-22T14:20:14Z",
+        "title": "Shyvana Gameplay guide 2k+Elo",
+        "description": "~~~~Like and Sub if you enjoyed, stream link below.  I do this every day so if you want to help out you can.~~~ \nhttps://www.twitch.tv/trick2g ~~ WATCH ME LIVE DAILY\nhttps://www.team2g.org\nhttps://www.twitter.com/trick2g\nhttps://www.streamtip.com/trick2g\n\n-~-~~-~~~-~~-~-\nWATCH MY NEWEST VIDEO: \"R0YAL HAIRLINE TAKING ALLLLLLLL THE BUFFS! | UDYR JUNGLE  ft SirhcEz - Trick2G\" \nhttps://www.youtube.com/watch?v=mr6JqEZ2bu4\n-~-~~-~~~-~~-~-",
+        "videoId": "xsRLVtIb2uU",
+        "preview": "https://i.ytimg.com/vi/xsRLVtIb2uU/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-06-08T15:04:10Z",
+        "title": "(OLD) Boneclaw Shyvana League of Legends Skin Spotlight",
+        "description": "League of Legends Boneclaw Shyvana Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Shyvana on her Boneclaw Skin.\n\nAll footage was taken in game.",
+        "videoId": "LyaeN2lNTrQ",
+        "preview": "https://i.ytimg.com/vi/LyaeN2lNTrQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-06-08T14:45:44Z",
+        "title": "(OLD) Ironscale Shyvana League of Legends Skin Spotlight",
+        "description": "League of Legends Ironscale Shyvana Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Shyvana on her Ironscale Skin.\n\nAll footage was taken in game.",
+        "videoId": "ZV2b-cAkghQ",
+        "preview": "https://i.ytimg.com/vi/ZV2b-cAkghQ/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "skinspotlights",
+        "displayName": "SkinSpotlights",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJyPMSnVtp2JZ5JpepjhV8w5eU1iN9NuFA2tv4cZww=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2012-05-15T03:21:18Z",
+        "title": "(OLD) Darkflame Shyvana League of Legends Skin Spotlight",
+        "description": "League of Legends Darkflame Shyvana Skin.\nPurchase RP here (Amazon Affiliate - NA): https://amzn.to/2qZ3Bmv\n\nShows of Animations and Ability Effects of Shyvana on her Darkflame Skin.\n\nAll footage was taken in game.\n\nHaven't got a LoL Account?  Sign Up Here:\nhttp://signup.leagueoflegends.com/?ref=4df8eae193c2f972338226\n\nChampion Skin Playlists:\nhttps://sites.google.com/site/skinspotlights/",
+        "videoId": "lJ0lxw361hk",
+        "preview": "https://i.ytimg.com/vi/lJ0lxw361hk/mqdefault.jpg"
+      }
+    },
+    {
+      "profile": {
+        "slug": "redmercy",
+        "displayName": "Redmercy",
+        "avatar": "https://yt3.ggpht.com/a/AATXAJzZI5LH60z9XSh5fw1gUJffInw75-V32B6Hv5YQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "video": {
+        "publishedAt": "2011-11-20T20:57:43Z",
+        "title": "HACKED BY POODLECORP twitter.com/poodlecorp",
+        "description": "DONT FORGET TO WATCH IN HD AND SUBSCRIBE! Don't forget to comment, rate, and be subscribed to get a chance to get added on my friends list! Also do not forget to like me on FACEBOOK as that is where I also will announce when I am playing with subs!\n\nTier List that I make for LoL. These are meant to be only for fun and not taken 100% seriously. These are also solely my opinions!\n\n1) Akali, amumu, annie, brand, cait, trist, cass, cho'gath, karthus, Kassadin, Lee, Morg, nasus, noc, rammus, ryze, shyvana, skarner, talon, trynd, udyr, vayne, xerath, zilean\n2) Alistar, Anivia, Corki, Ezreal, Fiddle, Fizz, GP, Gragas, Graves, Irelia, Janna,  katarina, Kennen, Malphite, Malz, MF,  Olaf, Riven, Rumble, Shaco, Soraka, Teemo, Trundle, TF, veigar, Wukong, \n3) Ashe, Blitz, Garen, Heimer, J4, Kog, LeBlanc, Nid, Orianna, Panth, Shen, Nunu, Singed, Sion, Sivir, Sona, Swain, Taric, Urgot, Warwick, Jax, Vlad, Yorick\n4) Galio, Kayle, Leona, Lux, Moakai, Poppy, Twitch,  xin\n5) Mundo, Eve, Karma, Yi, Morde\n\nLoL Sign-up Link: http://signup.leagueoflegends.com/?ref=4c96e7cd94d37358356689  \n\nFacebook:\nhttp://www.facebook.com/pages/Redmercy/150984064938530\n\nTwitter:\nhttp://twitter.com/RedmercyLoL\n\nSkype:\nredmercy1337\n\nMy Stream:\nhttp://www.justin.tv/red_mercy\n\nMusic in intro:\nhttp://www.youtube.com/watch?v=N3FA-j7Dh6Q&feature=channel_video_title\n\nHope you enjoy and please sub rate and comment!!! :)",
+        "videoId": "NAqAlajZqGE",
+        "preview": "https://i.ytimg.com/vi/NAqAlajZqGE/mqdefault.jpg"
+      }
+    }
+  ]
+}
