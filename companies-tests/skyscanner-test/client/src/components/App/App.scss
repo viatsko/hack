@@ -1,0 +1,13 @@
+@import '~bpk-mixins';
+
+.App {
+  max-width: 480px; /* maybe it's possible to do it with bpk mixin, but I didn't find how from docs */
+
+  margin: 0 auto;
+
+  background: $bpk-color-white;
+
+  &__main {
+    // padding: 0 $bpk-spacing-sm;
+  }
+}

@@ -1,0 +1,23 @@
+@import '~bpk-mixins';
+
+.SearchSummary {
+  background: $bpk-color-blue-500;
+  color: $bpk-color-white;
+  box-shadow: none;
+
+  &__flight-direction {
+    font-size: $bpk-font-size-xxl;
+    line-height: $bpk-line-height-xxl;
+  }
+
+  &__flight-direction-arrow {
+    position: relative;
+    top: -$bpk-spacing-xs;
+  }
+
+  &__flight-configuration {
+    font-size: $bpk-font-size-base;
+    line-height: $bpk-line-height-base;
+    margin-left: $bpk-spacing-xs / 3;
+  }
+}

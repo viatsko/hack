@@ -1,0 +1,14 @@
+body {
+  background: #f4f6f6;
+  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.App {
+  background: #f4f6f6;
+}
+
+.App-container {
+  width: 92%;
+  margin: 0 auto;
+  padding: 2em 0;
+}
