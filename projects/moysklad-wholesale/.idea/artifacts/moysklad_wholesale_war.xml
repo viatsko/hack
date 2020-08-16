@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="moysklad-wholesale:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="wholesale.war">
-      <element id="artifact" artifact-name="moysklad-wholesale:war exploded" />
-    </root>
-  </artifact>
-</component>

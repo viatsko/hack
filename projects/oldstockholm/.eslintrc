@@ -1,7 +1,0 @@
-{
-  "extends": "react-app",
-  "globals": {
-    "graphql": true,
-    "maps": true
-  }
-}
