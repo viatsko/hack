@@ -1,0 +1,30 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valeriy Yatsko <dwr@codingbox.io> (http://www.codingbox.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-color": "0.2.1",
+    "babel": "^5.4.7",
+    "glob": "^5.0.5",
+    "irc-colors": "^1.1.0",
+    "lodash": "^3.8.0",
+    "twitch-irc": "^1.2.7",
+    "twitch-irc-api": "^1.0.1",
+    "twitch-irc-db": "^1.0.0"
+  },
+  "optionalDependencies": {
+    "iconv": "~2.1.6",
+    "node-icu-charset-detector": "0.1.0"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "jscs": "1.9.0",
+    "tape": "^3.0.3"
+  }
+}
