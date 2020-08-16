@@ -1,0 +1,23 @@
+{
+  "retailcrm": {
+    "url": "https://test.retailcrm.ru",
+    "key": "",
+    "wholesaleOrderStartNum": 10000,
+    "siteId": ""
+  },
+  "moysklad": {
+    "username": "",
+    "password": "",
+    "organizationHref": "",
+    "storeHref": "",
+    "priceType": "цена ДИСТР."
+  },
+  "bitrix": {
+    "baseUrl": "",
+    "availableProductsEndPoint": ""
+  },
+  "branding": {
+    "catalogName": "",
+    "catalogText": ""
+  }
+}
