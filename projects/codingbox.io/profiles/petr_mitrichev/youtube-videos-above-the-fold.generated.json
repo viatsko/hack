@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mxoNLIGfXduDClSFxJL_MaCBTBE\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLlR2SW9WcmVTNkxV",
+    "snippet": {
+      "publishedAt": "2020-04-11T18:54:34.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder SRM 783 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TvIoVreS6LU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TvIoVreS6LU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TvIoVreS6LU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TvIoVreS6LU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TvIoVreS6LU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TvIoVreS6LU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4ZHDIzc8fbasQESt-gJ19qXl9cM\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLkpEaWFlRTZxaWU0",
+    "snippet": {
+      "publishedAt": "2020-02-15T19:35:24.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder SRM 778 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JDiaeE6qie4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JDiaeE6qie4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JDiaeE6qie4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JDiaeE6qie4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JDiaeE6qie4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JDiaeE6qie4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nZ1TTtQ2YGEDFWaKCMN9y5NFx6Q\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLmJtWEJfem1oNlBF",
+    "snippet": {
+      "publishedAt": "2020-01-04T15:28:51.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "Codeforces Hello 2020 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bmXB_zmh6PE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bmXB_zmh6PE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bmXB_zmh6PE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bmXB_zmh6PE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bmXB_zmh6PE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bmXB_zmh6PE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5FELyOZgXFTidaN5Akoz-EKmMyE\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLlU1VnJNNlEtdC1r",
+    "snippet": {
+      "publishedAt": "2020-01-03T17:20:12.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "Codeforces Good Bye 2019 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U5VrM6Q-t-k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U5VrM6Q-t-k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U5VrM6Q-t-k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U5VrM6Q-t-k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U5VrM6Q-t-k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "U5VrM6Q-t-k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vV_wvTxXo5RDZ6RyRf7vLUZ8i9E\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLkVBUm1HYUI4OFhn",
+    "snippet": {
+      "publishedAt": "2020-01-03T17:03:07.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder SRM 773 screencast",
+      "description": "TopCoder SRM 773 screencast",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EARmGaB88Xg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EARmGaB88Xg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EARmGaB88Xg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EARmGaB88Xg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EARmGaB88Xg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EARmGaB88Xg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kSToG_wPD12uqip4LTV76jnBpyo\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLmw0T1pndUUzZjhj",
+    "snippet": {
+      "publishedAt": "2020-01-03T15:56:01.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder SRM 772 screencast",
+      "description": "TopCoder SRM 772 screencast",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l4OZguE3f8c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l4OZguE3f8c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l4OZguE3f8c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l4OZguE3f8c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l4OZguE3f8c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l4OZguE3f8c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fnxmAYbhOdQIlNkrsoMwwwApYYU\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLlkta0FES1NkMTdV",
+    "snippet": {
+      "publishedAt": "2020-01-03T12:13:33.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder SRM 771 screencast",
+      "description": "TopCoder SRM 771 screencast",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y-kADKSd17U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y-kADKSd17U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y-kADKSd17U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y-kADKSd17U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y-kADKSd17U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Y-kADKSd17U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sD06ym1NjOrHgADwnkzoPvz3Zvk\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLnF1NnRkMnNtYVg0",
+    "snippet": {
+      "publishedAt": "2019-12-31T16:18:53.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder Open 2019 Finals screencast",
+      "description": "TopCoder Open 2019 Finals screencast",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qu6td2smaX4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qu6td2smaX4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qu6td2smaX4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qu6td2smaX4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qu6td2smaX4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qu6td2smaX4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iNbZy4asl8GKXG9u2LOGm6kAj5Q\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLl9rN0FERUpHclRN",
+    "snippet": {
+      "publishedAt": "2019-11-03T18:33:02.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "AtCoder Grand Contest 040 screencast with commentary in Russian",
+      "description": "AtCoder Grand Contest 040 screencast with commentary in Russian",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_k7ADEJGrTM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_k7ADEJGrTM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_k7ADEJGrTM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_k7ADEJGrTM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_k7ADEJGrTM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_k7ADEJGrTM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KGBNzucayoN4qDaCE8GT1vs92ok\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLjNvSXJ4dDVCdHZj",
+    "snippet": {
+      "publishedAt": "2019-11-02T18:37:10.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder SRM 770 screencast with commentary",
+      "description": "TopCoder SRM 770 screencast with commentary",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3oIrxt5Btvc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3oIrxt5Btvc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3oIrxt5Btvc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3oIrxt5Btvc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3oIrxt5Btvc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3oIrxt5Btvc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1xLrKhnI0TdNQF11mjumDhd5f9Y\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLnlTQ3BQN1IwWFRV",
+    "snippet": {
+      "publishedAt": "2019-10-26T16:31:29.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "Codeforces Round 596 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ySCpP7R0XTU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ySCpP7R0XTU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ySCpP7R0XTU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ySCpP7R0XTU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ySCpP7R0XTU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ySCpP7R0XTU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QngnM9FoIDtLH6eHoN-mXRYlc_c\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLjFIOHU0T19BZS1v",
+    "snippet": {
+      "publishedAt": "2019-10-26T10:32:50.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "Codeforces Global Round 3 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1H8u4O_Ae-o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1H8u4O_Ae-o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1H8u4O_Ae-o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1H8u4O_Ae-o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1H8u4O_Ae-o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1H8u4O_Ae-o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xFL6WEttSTiOO60H-UZVmRymBv0\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLllaN1E0MEZ4RWo4",
+    "snippet": {
+      "publishedAt": "2019-10-26T10:34:03.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "AtCoder Grand Contest 034 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YZ7Q40FxEj8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YZ7Q40FxEj8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YZ7Q40FxEj8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YZ7Q40FxEj8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YZ7Q40FxEj8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YZ7Q40FxEj8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UQWL4HILFKonX-trlQ0BHCLAJE8\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLkp3dEVNYnBrTWJr",
+    "snippet": {
+      "publishedAt": "2019-10-26T20:25:24.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder SRM 761 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JwtEMbpkMbk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JwtEMbpkMbk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JwtEMbpkMbk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JwtEMbpkMbk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JwtEMbpkMbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JwtEMbpkMbk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FP5YEqRXa7qEd7RshKh8AoIc2H8\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLnJoNnB0WG1wUWtv",
+    "snippet": {
+      "publishedAt": "2019-10-27T09:24:07.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder Open 2019 Round 3A screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rh6ptXmpQko/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rh6ptXmpQko/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rh6ptXmpQko/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rh6ptXmpQko/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rh6ptXmpQko/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rh6ptXmpQko"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vCQ4asQN9Pf71ZMAkz7AclJCZAE\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLlZXcm5KTHpnT0pn",
+    "snippet": {
+      "publishedAt": "2019-11-12T23:46:04.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "AtCoder Grand Contest 035 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VWrnJLzgOJg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VWrnJLzgOJg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VWrnJLzgOJg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VWrnJLzgOJg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VWrnJLzgOJg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VWrnJLzgOJg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NXaJ3QFlfSfZsI423MGmr-g1PDA\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLlRKN3hkLTF2UGpB",
+    "snippet": {
+      "publishedAt": "2019-11-13T23:02:20.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder SRM 764 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TJ7xd-1vPjA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TJ7xd-1vPjA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TJ7xd-1vPjA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TJ7xd-1vPjA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TJ7xd-1vPjA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TJ7xd-1vPjA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KE1NtY5vumpJZqJOsHOopct2kYA\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLlVOb1FGTDJMY1FJ",
+    "snippet": {
+      "publishedAt": "2019-11-13T23:26:51.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "AtCoder Grand Contest 037 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UNoQFL2LcQI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UNoQFL2LcQI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UNoQFL2LcQI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UNoQFL2LcQI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UNoQFL2LcQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UNoQFL2LcQI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/80P1Mpl9Yq2KZPhFdA7IUX5FMhc\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLnpwQ1A4ODlZWkFr",
+    "snippet": {
+      "publishedAt": "2019-11-14T17:35:30.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "TopCoder SRM 765 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zpCP889YZAk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zpCP889YZAk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zpCP889YZAk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zpCP889YZAk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zpCP889YZAk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zpCP889YZAk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GpbsZQW66KO_PyIDg6VPLfkRYxo\"",
+    "id": "VVVkbWVvb3FOdGxON0locktscTdoR0RBLmNvWXhiRjd4d0ZB",
+    "snippet": {
+      "publishedAt": "2019-11-30T17:02:45.000Z",
+      "channelId": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "title": "Codeforces Round 584 screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/coYxbF7xwFA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/coYxbF7xwFA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/coYxbF7xwFA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/coYxbF7xwFA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/coYxbF7xwFA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Petr Mitrichev",
+      "playlistId": "UUdmeooqNtlN7IhrKlq7hGDA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "coYxbF7xwFA"
+      }
+    }
+  }
+]

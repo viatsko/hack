@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ch2uSMWqs6nI28MJL6vLb8gF56Q\"",
+      "id": "UCqd6TofKNjqagInm5Waeu7w",
+      "snippet": {
+        "title": "Springboard",
+        "description": "Learn online with a job guarantee. Get a job or your money back. \n\nBreak into data science, UX design, and more: https://www.springboard.com/",
+        "customUrl": "springboard",
+        "publishedAt": "2013-07-26T08:32:33.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwf5bfZvkI3AdRLR7SX2zgzbXz3LruVd4M0=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwf5bfZvkI3AdRLR7SX2zgzbXz3LruVd4M0=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwf5bfZvkI3AdRLR7SX2zgzbXz3LruVd4M0=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Springboard",
+          "description": "Learn online with a job guarantee. Get a job or your money back. \n\nBreak into data science, UX design, and more: https://www.springboard.com/"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUqd6TofKNjqagInm5Waeu7w",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUqd6TofKNjqagInm5Waeu7w"
+  },
+  "displayName": "Springboard",
+  "description": "Learn online with a job guarantee. Get a job or your money back. \n\nBreak into data science, UX design, and more: https://www.springboard.com/",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwf5bfZvkI3AdRLR7SX2zgzbXz3LruVd4M0=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwf5bfZvkI3AdRLR7SX2zgzbXz3LruVd4M0=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwf5bfZvkI3AdRLR7SX2zgzbXz3LruVd4M0=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/x31X5PeUhrg0f2fBhOO59XYJlA0\"",
+      "id": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "snippet": {
+        "title": "Paul Irish",
+        "description": "",
+        "customUrl": "paulirish",
+        "publishedAt": "2006-02-18T20:58:20.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy6RYgvEcvvbM-Np60iO_9FzJpe8Dj3OT3CEQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy6RYgvEcvvbM-Np60iO_9FzJpe8Dj3OT3CEQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy6RYgvEcvvbM-Np60iO_9FzJpe8Dj3OT3CEQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Paul Irish",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUf7pOCNs6qmbSsBz2xQBI4g",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUf7pOCNs6qmbSsBz2xQBI4g"
+  },
+  "displayName": "Paul Irish",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy6RYgvEcvvbM-Np60iO_9FzJpe8Dj3OT3CEQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy6RYgvEcvvbM-Np60iO_9FzJpe8Dj3OT3CEQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy6RYgvEcvvbM-Np60iO_9FzJpe8Dj3OT3CEQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

@@ -1,0 +1,2062 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W5nDfydBZnPtB0TZ9wAhyIo_GKU\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLnNxYW84Ymx6a01Z",
+    "snippet": {
+      "publishedAt": "2020-04-17T15:00:36.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "How to make a GOOD Code Review?",
+      "description": "Code Reviews are bread and butter of software developers job, but how many of us know how to do it right? I have picked up a lot of great practices over the years - I'm sharing some in this video.\n\nTo answer how to give a GOOD code review - there are some pressing questions we'll cover in this video: \n00:55 How code review is done?\n01:13 When it is OK to decline a code review?\n01:41 How much time should you spend on code review?\n02:10 Well, what is a code review (and what it isn't!)?\n03:27 What are the steps of good CR?\n04:00 How to read the code?\n04:30 How to correctly give comments ?\n(So you don't lose points in the team and still get your message across!)\n06:30 What do you need a summary for?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sqao8blzkMY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sqao8blzkMY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sqao8blzkMY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sqao8blzkMY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sqao8blzkMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sqao8blzkMY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nACHm1jUrq8ogUJd483n-Ilkwl4\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLjdEdEtpQnBrWkxF",
+    "snippet": {
+      "publishedAt": "2020-04-10T16:00:05.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "5 Reasons you're NOT getting promoted",
+      "description": "Software Engineer or not - you might be missing on promotion BIG TIME if you're guilty of these things! (they're not even that hard to fix)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7DtKiBpkZLE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7DtKiBpkZLE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7DtKiBpkZLE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7DtKiBpkZLE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7DtKiBpkZLE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7DtKiBpkZLE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IzXzTu2ThGpG3LnpNzLvZg8wIa4\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkRuM2ZuVjdvU3Zr",
+    "snippet": {
+      "publishedAt": "2020-04-04T16:00:12.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "That time I saved Ericsson from massive memory leaks",
+      "description": "I was accused of breaking the software platform for cellular signal towers - things were looking grim, and my promotion was on the line - what it took to solve it?\n\nYou want this desk?\nUK: https://amzn.to/3bNvId9\nUS: https://amzn.to/39GgfKr",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dn3fnV7oSvk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dn3fnV7oSvk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dn3fnV7oSvk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dn3fnV7oSvk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Dn3fnV7oSvk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Dn3fnV7oSvk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kdEcP24FB2ygKC6xudZPK1BB8Co\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLmJ5dzFmdWh1ZHpN",
+    "snippet": {
+      "publishedAt": "2020-03-22T18:00:13.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Relocation for work in tech - why? how?",
+      "description": "Moving for work is a challenge, but it's worth it - I share my experience and perspective on relocation as someone who relocated with Amazon to UK from Europe. If you thinking about relocation or are just curious - this vid is for you.\n\nBonus tips:\n- Interested in working @ Cisco? Send your resume over and I can forward it for you: rswidzin@cisco.com\n- If you ever give your number to recruiters from outsourcing company - get a second sim card, otherwise they will never stop calling you. You can also ask to delete your number from their database if you didn't do it.\n- Relocation can be easier if you move with friend/partner. Ask around who is interested!\n- Share this video with a friend who is thinking about relocation\n- If you work in bigger company - you also can relocate within the company, usually there are policies and programs in place to improve employee retention.\n\nSupport the channel and subscribe!\n\nPhotos by: Erda Estremera, Fabrizio Verrecchia, Edwin Andrade, JESHOOTS.COM, ConvertKit, Kaboompics .com, Mantas Hesthaven, Adeolu Eletu, Chalo Garcia, Emma Matthews Digital Content Production, bruce mars, Vishwanath surpur, Nikola Johnny Mirkovic, Freddie Collins, Supushpitha Atapattu, Andrea Piacquadio, niu niu, Lukas, Trinity Kubassek, Andrea Piacquadio, Artem Beliaikin, Catarina Sousa, Joss Woodhead",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/byw1fuhudzM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/byw1fuhudzM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/byw1fuhudzM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/byw1fuhudzM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/byw1fuhudzM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "byw1fuhudzM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KSv7P9wtmdUnFAECeN4Pk85k3lU\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLnFoa0RRMm51Q004",
+    "snippet": {
+      "publishedAt": "2020-03-13T17:00:15.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Is tech debt a serious issue for software devs?",
+      "description": "Tech debt can be like fighting the addiction - first you need to admit that you have it, then you try to slowly minimise its level. And then ... comes Mark.\n\n+\n+\n+\n\nSupport the channel and subscribe!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qhkDQ2nuCM8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qhkDQ2nuCM8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qhkDQ2nuCM8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qhkDQ2nuCM8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qhkDQ2nuCM8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qhkDQ2nuCM8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zo6h0zAm_pMl_0mEy8PEYzmt0po\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLmdxZTZlbzItOV9R",
+    "snippet": {
+      "publishedAt": "2020-03-01T22:00:04.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "C++ testing with mocks is EASY and awesome!",
+      "description": "Using GTest and GMock in C++ can be easy with Dependency Injection and PIMPL idiom. Learn how you can properly make test doubles to create unit tests.\n\n+\n+\n+\n\nSupport the channel and subscribe!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gqe6eo2-9_Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gqe6eo2-9_Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gqe6eo2-9_Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gqe6eo2-9_Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gqe6eo2-9_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gqe6eo2-9_Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HyD7bNc37apvIfiSwzzeFTzyzX4\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkkwTTZWRUxPeks4",
+    "snippet": {
+      "publishedAt": "2020-02-17T17:00:03.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Cisco Meraki onboarding [Life of software developer]",
+      "description": "I started working in Cisco Meraki just at the beginning of the year. So far it's awesome. I'm already making new friends and slowly finding my pace in daily duties. The onboarding was insanely fun, and engaging - I wish I could share the whole thing with you guys!\n\nWork here? https://grnh.se/ae8c7aaa1us\n\n+\n+\n+\n\nSupport the channel and subscribe!\n#WeAreCisco #LoveWhereYouWork \n\n🎶 Jeremy Blake: Turn Up Lets Go\n🎶 Jeremy Blake: U In My Arms",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I0M6VELOzK8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I0M6VELOzK8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I0M6VELOzK8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I0M6VELOzK8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/I0M6VELOzK8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "I0M6VELOzK8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sXE59u9xz7Puwj7RKTdN3L4Edwo\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLktxcG1BVzB3M04w",
+    "snippet": {
+      "publishedAt": "2020-02-03T17:00:07.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Q&A: Escorted from Amazon on my last Day",
+      "description": "How was my last day as Amazons Software Developer actually handled? I answer this and other software developer work related questions from my viewers in this anniversary video.\n\n+\n+\n+\n\nSupport the channel and subscribe!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KqpmAW0w3N0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KqpmAW0w3N0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KqpmAW0w3N0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KqpmAW0w3N0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KqpmAW0w3N0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KqpmAW0w3N0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Vl9ZxcROB-Bp8VF4UKhVqcCS6HY\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLlZCNklQRUNxZE1r",
+    "snippet": {
+      "publishedAt": "2020-01-04T16:00:08.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Goodbye Amazon [Life of Software Developer]",
+      "description": "Every developer has this moment in their career: time to move on. However some teams are really hard to leave. Here is the tribute to the best team in the IT scene: people of Finsys in Amazon. \n+\n+\n+\n\nSupport the channel and subscribe!\n\nMusic: Andrew Langdon - Loop-Caught",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VB6IPECqdMk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VB6IPECqdMk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VB6IPECqdMk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VB6IPECqdMk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VB6IPECqdMk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VB6IPECqdMk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8sudfUjH5oFxiZXdliYleldyAkw\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLm03bXVINkI4aWdr",
+    "snippet": {
+      "publishedAt": "2019-12-20T15:30:02.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Which programming language to learn in 2020",
+      "description": "Should you be quickly switching to new tech like Rust or Dart? Is IOT bringing C and Assembly to the mainstream? Should scripting languages be on top? What will make you the most moneyyy? So many questions, and nothing is obvious. Let's dive into the options together and see what is in store in 2020. \n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m7muH6B8igk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m7muH6B8igk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m7muH6B8igk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m7muH6B8igk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m7muH6B8igk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "m7muH6B8igk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2MqI_y7K6cA1YSbAbxDjTZDfocI\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLlBmVFFHSDRnNTVR",
+    "snippet": {
+      "publishedAt": "2019-12-09T19:30:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Regular Expressions: Quantifiers, Groups and Anchors",
+      "description": "Regular expressions Quantifiers, Groups, Alternatives and Anchors - explained nicely and tightly in this second part of reqular expression tutorial in Smok Dev Workshop. Learn how to do quick and powerful replaces, and matching.\n\nUse RegExr to test regular expressions (dark mode available!): http://regexr.com/\r\nSyntax per flavour: http://www.greenend.org.uk/rjk/tech/regexp.html\r\nCheatsheet for Js/Python/PCRE: https://www.debuggex.com/cheatsheet/regex/pcre\r\nAscii Table: http://www.asciitable.com/\r\n\nText to test your patterns:\r\n----------------------- [CUT HERE] ----------------------- \r\nSubscribe to Smok's channel or get your drives scrapped.\r\n\r\nA telephone number: +44 7123 456 789\r\nAn email: my_email@gmail.com\r\nAn IP address: 192.168.0.1\r\nSome unusual number: -123.531\r\nDate and time: 02.02.2020 12:34:56\r\nA version number: v12.5.2rc\r\nMoney: _\r\n United States  — $1,234,567.89 USD\r\n Canada         — $1,234,567.89 CAD\r\n Great Britain  — £1.234.567,89 GBP\r\nKeyboard shortcuts: Ctrl+Alt+Z, Shift+Alt+M, Ctrl+V, Shift+Ctrl+Alt+D\r\n----------------------- [CUT HERE] ----------------------- \r\n\nSupport the channel and subscribe!\r\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PfTQGH4g55Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PfTQGH4g55Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PfTQGH4g55Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PfTQGH4g55Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PfTQGH4g55Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PfTQGH4g55Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7jN3OBGXLFFLWnfZJhFX3V8XvjI\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkFwSlJobmh5Z0FF",
+    "snippet": {
+      "publishedAt": "2019-12-01T14:00:02.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Regular Expressions: Classes and Sets",
+      "description": "Today we discover regular expressions basics! After quick introduction we will learn on character classes and sets - together we practice matching single characters, and building simple match sets. \nSubscribe to stay tuned for next lesson coming next week!\n\nUse RegExr to test regular expressions (dark mode available!): http://regexr.com/\r\nSyntax per flavour: http://www.greenend.org.uk/rjk/tech/regexp.html\nCheatsheet for Js/Python/PCRE: https://www.debuggex.com/cheatsheet/regex/pcre\nAscii Table: http://www.asciitable.com/\n\nText to test your patterns:\n----------------------- [CUT HERE] ----------------------- \nSubscribe to Smok's channel or get your drives scrapped.\r\n\n\r\nA telephone number: +44 7123 456 789\r\nAn email: my_email@gmail.com\r\nAn IP address: 192.168.0.1\r\nSome unusual number: -123.531\r\nDate and time: 02.02.2020 12:34:56\r\nA version number: v12.5.2rc\r\nMoney: _\r\n United States  — $1,234,567.89 USD\r\n Canada         — $1,234,567.89 CAD\r\n Great Britain  — £1.234.567,89 GBP\r\nKeyboard shortcuts: Ctrl+Alt+Z, Shift+Alt+M, Ctrl+V, Shift+Ctrl+Alt+D\r\n----------------------- [CUT HERE] ----------------------- \n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ApJRhnhygAE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ApJRhnhygAE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ApJRhnhygAE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ApJRhnhygAE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ApJRhnhygAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ApJRhnhygAE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/k8N4e6Xpcg4VXM9v8IBIe1J9OrQ\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLlllbS05WDN4dllv",
+    "snippet": {
+      "publishedAt": "2019-11-17T15:00:05.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Is Amazon job interview INSANELY HARD?",
+      "description": "MUST WATCH: I managed to persuade Amazon interviewer Ardy to answer some of the most common questions about Amazon interview process! If you're software developer looking to get a job in Amazon - you will have a chance to peek into the Amazon's offices and see the interviewing space and learn how technical interview looks like.\n\nAs always: this is not an official Amazon statement, just our personal view.\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yem-9X3xvYo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yem-9X3xvYo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yem-9X3xvYo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Yem-9X3xvYo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Yem-9X3xvYo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Yem-9X3xvYo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xvjmDxAkKrlyBuZOTm_Vzxt92uA\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkxVcVk0U25FdVVv",
+    "snippet": {
+      "publishedAt": "2019-11-09T15:00:04.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Software developer to manager - is it worth it?",
+      "description": "What is it like to transition from programmer to manager? Should you consider this role as a next step for your career? Together with Gary Thompson, SDM at Amazon we discuss how things used to be, and how they are now. \n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LUqY4SnEuUo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LUqY4SnEuUo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LUqY4SnEuUo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LUqY4SnEuUo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LUqY4SnEuUo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LUqY4SnEuUo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Fda_eXoEaYTN8tkmJDd0WawW0Hw\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLjl5VzdROE9tWW13",
+    "snippet": {
+      "publishedAt": "2019-10-27T12:00:01.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Habits that will KILL your programming career",
+      "description": "How to have successful career in software development? Get rid of these habits! Make sure your learning patterns are correct and that you know how not to get blindsided and grow your career. \n\nNoticed other stuff that hinders careers of programmers? Share your story in the comment!\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9yW7Q8OmYmw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9yW7Q8OmYmw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9yW7Q8OmYmw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9yW7Q8OmYmw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9yW7Q8OmYmw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6DCszffFzrdAInotktCeKRSI4I0\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkdmbXEydkdoV2J3",
+    "snippet": {
+      "publishedAt": "2019-10-21T22:33:17.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Call Stack 2/2",
+      "description": "Call stacks are fundamental pieces of our programs. In second part I dive deep into the details of how the call stack works, how call stack is built and how it uses memory and CPU registers to fulfil its purpose. This video explains what is going on behind the scenes, and is helpful even if you don't write in C/C++ or use x86/x64 architecture\n\nBe sure to watch part 1 before this video: https://www.youtube.com/watch?v=jyRQpRHSYNY\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Gfmq2vGhWbw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Gfmq2vGhWbw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Gfmq2vGhWbw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Gfmq2vGhWbw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Gfmq2vGhWbw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Gfmq2vGhWbw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/P-hj-eLRLdwResqsd6ijEcGbibs\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLmp5UlFwUkhTWU5Z",
+    "snippet": {
+      "publishedAt": "2019-10-20T14:00:09.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Call Stack 1/2",
+      "description": "Call stacks are fundamental pieces of our programs. This video introduces the concept of call stack and goes over some quirks of this mechanism. If you're interested in the details of stack implementation - the in depth video is waiting for you here: https://youtu.be/Gfmq2vGhWbw\n\nSources and more information:\nhttps://zhu45.org/posts/2017/Jul/30/understanding-how-function-call-works/#setup\nhttps://www.tutorialspoint.com/assembly_programming/assembly_registers.htm\nhttps://en.wikipedia.org/wiki/X86#32-bit\nhttps://www.aldeid.com/wiki/Category:Architecture/x86-assembly\nhttps://www.cs.virginia.edu/~evans/cs216/guides/x86.html\n\nhttps://stackoverflow.com/questions/32685851/alloc-malloc-and-alloca-whats-the-difference\nhttps://stackoverflow.com/questions/43933379/what-do-the-e-and-r-prefixes-stand-for-in-the-names-of-intel-32-bit-and-64-bit-r\nhttps://stackoverflow.com/questions/2537367/what-does-esp-mean-in-assembly/2537380#2537380\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jyRQpRHSYNY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jyRQpRHSYNY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jyRQpRHSYNY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jyRQpRHSYNY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jyRQpRHSYNY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jyRQpRHSYNY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vQIuclXWZd_KFfK5Dy19ulyz67I\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLjljX3NVZ1FOVE4w",
+    "snippet": {
+      "publishedAt": "2019-10-05T19:15:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "1 Year of Amazon Software Developer",
+      "description": "Can an expat living in London turn colleagues into friends? How Amazon helps you transition from \"that new guy\" to \"my man\"? What technologies can you learn during first year? Will you be able to make any business trips if you want to? All this and more in todays episode of Having Coffee with Smok!\n\nNote: this is not an official Amazon statement.\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9c_sUgQNTN0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9c_sUgQNTN0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9c_sUgQNTN0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9c_sUgQNTN0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9c_sUgQNTN0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9c_sUgQNTN0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/useFlf9R0mlm_mnqMyYRdBhtXhY\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLjNPQzdUWTk5X3pn",
+    "snippet": {
+      "publishedAt": "2019-09-28T14:00:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Behind the scenes: 1024 subscribers!",
+      "description": "Behind the scenes celebration video. Smok channel has 1024 subscribers already! You guys are AWESOME! Thanks!\n\n+\n+\n+\n\nSupport the channel and subscribe!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3OC7TY99_zg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3OC7TY99_zg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3OC7TY99_zg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3OC7TY99_zg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3OC7TY99_zg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3OC7TY99_zg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dedh5sbSyx1RrbmI27hshQ9jnEc\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLmNVamllVlc3SWdR",
+    "snippet": {
+      "publishedAt": "2019-09-23T13:00:07.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Programming Paradigms 101",
+      "description": "Surely you have heard about programming paradigms - but what are they? Which ones are the most common, and what do they mean? How they started? Here I introduce the imperative and declarative paradigms, object oriented and structural programming and also reveal where PHP should be!\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cUjieVW7IgQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cUjieVW7IgQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cUjieVW7IgQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cUjieVW7IgQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cUjieVW7IgQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cUjieVW7IgQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pY9ICu1lgsa_GOUDIwOq3rkgCy4\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkZOS080eGNZckpZ",
+    "snippet": {
+      "publishedAt": "2019-09-07T13:30:01.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Internship at Amazon - what is it like?",
+      "description": "Meet Jay - my mentee who is just wrapping up his first internship as a software developer at Amazon. Together we discuss his internship, and reveal how the process is looking from his perspective. Curious? Watch this video to find out!\n\nNote: This is NOT an official Amazon video.\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FNKO4xcYrJY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FNKO4xcYrJY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FNKO4xcYrJY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FNKO4xcYrJY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FNKO4xcYrJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FNKO4xcYrJY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RBBfAeHw33f837D91xA8w8m8h4M\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkNqT1I1Z0NDWnBr",
+    "snippet": {
+      "publishedAt": "2019-08-31T13:00:02.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "How to name things in programming?",
+      "description": "Naming things in software development isn't easy: classes, methods, variables. Endless discussions about correct naming aren't without merit - good names help to remember and understand the code better. \n\nDo you have your favourite practices? Share them in the comments!\n\n+++\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CjOR5gCCZpk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CjOR5gCCZpk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CjOR5gCCZpk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CjOR5gCCZpk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CjOR5gCCZpk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CjOR5gCCZpk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MNQFqhZbtcnt6GKSTA7AgZlYqOw\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLmM4ZGQ5ZjVNYW1V",
+    "snippet": {
+      "publishedAt": "2019-08-24T07:30:02.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Day of Amazon Software  Developer",
+      "description": "Have you ever wondered what the day of corporate software developer looks like? Here is your chance to peek into the awesome Amazon offices in London. Enjoy!\n\nThis is not an official Amazon video :) \n\nScreens we use in office:\nUS: https://amzn.to/39mBX5X\nUK: https://amzn.to/3aDEN80\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm\n🎶 BGM: Music Released by Tasty                                                                                                                      Song title: Vulpey - Sever\nMusic Video: https://tasty.network/1oCtcgz\nLabel Channel: http://youtube.com/TastyNetwork                                                                                         Album Download: http://tasty.network/1SALTtg",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c8dd9f5MamU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c8dd9f5MamU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c8dd9f5MamU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c8dd9f5MamU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c8dd9f5MamU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c8dd9f5MamU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2h1TSLnBmtvZd4SEIW-IlYWnFz0\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLnRyanlSWWI5QjdZ",
+    "snippet": {
+      "publishedAt": "2019-08-11T11:00:14.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Forget unit tests. Prototype!",
+      "description": "Software development is very expensive: can time spent for writing tests be spent in better way? \n\nSo you spend hours on perfecting your code, you write unit tests, adhere to comments in code reviews, prepare revision upon revision, and finally - with user acceptance tests you realise that ... basic logic is totally wrong! What now!? Scratch it and start over? NOT AGAIN!\n\nOkay, full disclosure: you still want to write those tests, but make sure you pick the correct time to do it - let's discuss in comments!\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/trjyRYb9B7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/trjyRYb9B7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/trjyRYb9B7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/trjyRYb9B7Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/trjyRYb9B7Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "trjyRYb9B7Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CtrQwkQePlpE2tloxJuNAVZ6FIE\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLjFvZE9wSWx4V0RB",
+    "snippet": {
+      "publishedAt": "2019-08-02T13:00:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "The Tao of programming",
+      "description": "If you don't embrace the power of the Tao - you will always run out of space and time in your programs. If you ignore the Tao - you too will be ignored. May the spirit of the Grand Master Turing be with you in your struggles!\n\nThis little joke video on culture of it and working in the programming related job has a little seed of truth in it, all thanks to this fine book:\nhttps://en.wikipedia.org/wiki/The_Tao_of_Programming \n\nSupport the channel! Like, Share, Subscribe!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1odOpIlxWDA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1odOpIlxWDA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1odOpIlxWDA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1odOpIlxWDA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1odOpIlxWDA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1odOpIlxWDA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QcJOd8zHAGqJBHBEmmjzRF3uZRQ\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLjJycUpWX0pYdXY4",
+    "snippet": {
+      "publishedAt": "2019-07-20T16:00:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Observer, Visitor, Strategy, State - Behavioural Design Patterns 2/2",
+      "description": "Sweet! Visitor and other design patterns explained in quick overview. Short and neat summary of structure and usage of the observer, strategy, state and visitor patterns is here - check it out and share if you enjoyed!\n\n0:18 Observer / Subscriber / Publisher / Listener\n2:44 Strategy / Policy\n4:03 State / Object for states\n6:03 Visitor\n9:31 Quick word on interpreter\n\n\n+\n+\n+\n\nSupport the channel and subscribe!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2rqJV_JXuv8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2rqJV_JXuv8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2rqJV_JXuv8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2rqJV_JXuv8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2rqJV_JXuv8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2rqJV_JXuv8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iBXWq7sL6xOlMwGHxERpgtjWTSo\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLmJvQ2pWNnNyT2xB",
+    "snippet": {
+      "publishedAt": "2019-07-12T15:00:06.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Chain, Memento, Mediator... Behavioural Design Patterns 1/2",
+      "description": "Nothing tastes like victory! You will be the next champion of Design Patterns on your team. All you have to do - is watch this video*. In first part I cover following Design Patterns from Gang of Four:\n\n0:40 Template Method\n2:05 Chain of Responsibility\n4:20 Command\n6:29 Iterator + Container\n8:38 Mediator\n10:54 Memento\n\n🎵 MØØRZY. - CALM. https://soundcloud.com/moorzym8/calming\n\n+\n+\n+\nSupport the channel and subscribe!\n\n\n* Due to limited availability no championships given without leaving a comment under this vid.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/boCjV6srOlA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/boCjV6srOlA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/boCjV6srOlA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/boCjV6srOlA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/boCjV6srOlA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "boCjV6srOlA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MeYK3W2990WeoPqi3ex4iZI1GiI\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLjVWYTFmc2xOS0Vv",
+    "snippet": {
+      "publishedAt": "2019-07-02T21:00:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Decorator, Bridge, Adapter... Structural Design Patterns",
+      "description": "If you're interested in software development you need to know and recognise design patterns on the fly! Thanks to this explanation you will understand key principles of Structural Software Design Patterns proposed by Gang of Four:\n1:17 Adapter\n3:10 Bridge\n6:02 Composite\n8:20 Decorator\n11:46 Proxy\n13:34 Facade\n15:18 Flyweight\n\n+\n+\n+\n\nSupport the channel and subscribe!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5Va1fslNKEo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5Va1fslNKEo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5Va1fslNKEo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5Va1fslNKEo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5Va1fslNKEo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5Va1fslNKEo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8IET2DPTyYV5dSdx-PIFXK3vgk0\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkVNLWN2UnViUDRn",
+    "snippet": {
+      "publishedAt": "2019-06-17T15:00:03.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "PlantUML - beautiful quick diagrams to explain your models",
+      "description": "Today we talk about models in Software Development. And we talk UML in PlantUML. With this nifty tool you can achieve much more in shorter time - keep your documentation diagrams pretty, and easily edited. Smok explains why and how programmers can use UML to convey their idea of class diagrams to their collegues.\n\nInterested in my stylesheet? \nhttps://github.com/Drakemor/RedDress-PlantUML\n\nWant to try PlantUML online?\nhttp://www.plantuml.com/plantuml/uml/\n\nMore docs on PlantUML on homepage:\nhttp://www.plantuml.com/\n\nRemember to start by checking the plugins in your code editor.\n\nAnd (possibly) necessary addon:\nhttps://www.graphviz.org/\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EM-cvRubP4g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EM-cvRubP4g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EM-cvRubP4g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EM-cvRubP4g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EM-cvRubP4g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EM-cvRubP4g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_-SYco9rRJdIPVlpf7YCXTT9v54\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLlZDeE50Mks3YVZZ",
+    "snippet": {
+      "publishedAt": "2019-06-08T19:30:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Factory, Builder, Singleton... Creational Design Patterns!",
+      "description": "Design Patterns made simple! This video covers Design Patterns proposed by Gang of Four:\n02:41 Factory Method, \n05:13 Abstract Factory, \n07:19 Prototype (Clone), \n08:47 Builder & Director,\n13:33 Singleton\nBe sure to check if you remember how each one is designed!\n\nNeed more info? \nRead here:\n\nhttp://wiki.c2.com/?DesignPatternsBook\nhttps://java-design-patterns.com/\nhttps://github.com/iluwatar/java-design-patterns\nhttps://www.gofpatterns.com/\n\nRefactoring Guru „The Catalog of Design Patterns”\nhttps://refactoring.guru/design-patterns\n\nPolish book on DPs:\nGoF - Wzorce Projektowe: http://bit.ly/wzorce\n\n+\n+\n+\n\nSupport the channel and subscribe!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VCxNt2K7aVY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VCxNt2K7aVY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VCxNt2K7aVY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VCxNt2K7aVY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VCxNt2K7aVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VCxNt2K7aVY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZQf_0gKPXn_e9I4JZBRgtSc2QAI\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLmw4Q1JsN2ZTdzRn",
+    "snippet": {
+      "publishedAt": "2019-06-01T16:47:41.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Design Patterns: Intro",
+      "description": "Software Design Patterns have been around for a while. It is finally time to get to know them. In this video I introduce the most important terms, and explain what Design Patterns are about. So if you want to learn a Design Patterns - this is a good place to start.\n\nReferences and good reads:\n\nhttp://wiki.c2.com/?DesignPatternsBook\nhttps://java-design-patterns.com/\nhttps://github.com/iluwatar/java-design-patterns\nhttps://www.gofpatterns.com/\n\nRefactoring Guru „The Catalog of Design Patterns”\nhttps://refactoring.guru/design-patterns\n\nPolish book on DPs:\nGoF - Wzorce Projektowe: http://bit.ly/wzorce\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\nDo note that this is my personal statement, not an official message from any company.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l8CRl7fSw4g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l8CRl7fSw4g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l8CRl7fSw4g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l8CRl7fSw4g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l8CRl7fSw4g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l8CRl7fSw4g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iA_GgtMkq0URTYKdczGR9OHcOz0\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLm5PSzdqd3NtcEQw",
+    "snippet": {
+      "publishedAt": "2019-05-25T07:00:04.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Amazon has private jungle for employees only!",
+      "description": "We're visiting Amazons Spheres, Amazon Go and also - the most disgusting tourist attraction ever: THE AWESOME GUM WALL\n\n+\n+\n+\n\nSupport the channel and subscribe!\n\n🎶  Music Released and Provided by Tasty \nSong Title: Murtagh & Aiobahn - Follow Me\nMusic Video: https://youtu.be/GgMSk5h5Yz4\nLabel Channel: http://youtube.com/TastyNetwork\n\n🎶 Valesco - Stay With Me https://soundcloud.com/valesco_official/stay-with-me",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nOK7jwsmpD0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nOK7jwsmpD0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nOK7jwsmpD0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nOK7jwsmpD0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nOK7jwsmpD0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nOK7jwsmpD0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PBW8O4bzJeohCHA5eRkzVHot5P4\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLnFRdXBFYWtIeXVV",
+    "snippet": {
+      "publishedAt": "2019-05-15T12:00:18.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Best tourist attractions in Seattle",
+      "description": "Visiting Seattle and not sure what to do? Today we take a ride on Monorail, and up the Space Needle. Later I take the ferry to Bainbridge to see the city line from the water. Later we check out the Museum of Glass and Museum of Flight. All the good stuff in Seattle.\n\n+\n+\n+\n\nWspieraj kanał i subskrybuj!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm\n\n🎶 Agrofox - Valesco Cloud 9 https://soundcloud.com/argofox/valesco-cloud-9\n\n🎶 Unwritten Stories: One day - https://soundcloud.com/unwritten-stories/one-day-creative-commons-free-hip-hop-beat\n\n🎶 Argofox Aerocity - Cold Weather Kids - https://soundcloud.com/argofox/aerocity-cold-weather-kids\n\n🎶 \n● Music Released and Provided by Tasty \n● Song Title: PrototypeRaptor - Your Truth [Tasty Release]\n● Music Video: http://youtu.be/TjOdtyoG2T8\n● Label Channel: http://youtube.com/TastyNetwork\n\n🎶 \n● Music Released and Provided by Tasty \n● Song Title: Speo - Horizon \n● Music Video: http://youtu.be/EXINad-stY0\n● Label Channel: http://youtube.com/TastyNetwork",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qQupEakHyuU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qQupEakHyuU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qQupEakHyuU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qQupEakHyuU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qQupEakHyuU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qQupEakHyuU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/a2FApOaGf4e9wbb6RHtm11Am45M\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLlF1bU51clh4UHl3",
+    "snippet": {
+      "publishedAt": "2019-05-05T07:00:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Amazon Web Dev Con in Seattle",
+      "description": "Visiting US was on my bucket list for some time, now thanks to Amazon I did, and I loved it. See how it happened, a little about the conference and Amazon offices, and of course: what business trips look like for software developers... Well, Amazon way.\n\nAs always: this is not official Amazon video, I'm sharing my private opinions and perspectives.\n\n+\n+\n+\n\nDo subscribe!\n\n🎶 Megahit - Flight To The Future: https://soundcloud.com/megahitrw/flight-to-the-future\n🎶 Aether - You And Me: https://soundcloud.com/aether/you-me\n🎶 Unwritten Stories\nComing Back: https://soundcloud.com/unwritten-stories/coming-back-free-hip-hop-beat\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QumNurXxPyw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QumNurXxPyw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QumNurXxPyw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QumNurXxPyw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QumNurXxPyw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QumNurXxPyw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ksJ2759FzlEpi-QoyAaKiFpEcqA\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLmNqQ2IyQ0lQdzBv",
+    "snippet": {
+      "publishedAt": "2019-04-20T08:30:02.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Czy programista potrzebuje studiów?",
+      "description": "Jeśli jeszcze nie wiesz na co się zdecydować - obejrzyj koniecznie. Podpowiadam jaki scenariusz \nbędzie najkorzystniejszy.\n\n+\n+\n+\n\nWspieraj kanał i subskrybuj!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cjCb2CIPw0o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cjCb2CIPw0o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cjCb2CIPw0o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cjCb2CIPw0o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cjCb2CIPw0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cjCb2CIPw0o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5cdSos05QYWc3THLXJydQZl_aWo\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkFqVm43UnhMNVpv",
+    "snippet": {
+      "publishedAt": "2019-04-13T08:36:28.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Nauka programowania - jakie pierwsze kroki?",
+      "description": "Każdy kiedyś zaczyna! Z jakich źródeł korzystać w początkowych krokach programowania i na co warto poświęcić swój pierwszy rok lub dwa? \n\nPoniżej proponowane pozycje. Nie zapomnijcie zostawić swoich rekomendacji w komentarzu!\n\nCPP Stroustrup: http://bit.ly/cppstroustrup\nHorstmann Java: http://bit.ly/javahorstmann\nDrozdek - Algorytmy i Struktury Danych: http://bit.ly/algorytmyDrozdek\nGoF - Wzorce Projektowe: http://bit.ly/wzorce\nTesty Jednostkowe: http://bit.ly/TestyJednostkowe\nGIT: http://bit.ly/McCulloughGIT\n\n\n+\n+\n+\n\nWspieraj kanał i subskrybuj!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AjVn7RxL5Zo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AjVn7RxL5Zo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AjVn7RxL5Zo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AjVn7RxL5Zo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AjVn7RxL5Zo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AjVn7RxL5Zo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wMwtgR4t_cB1mgjax80bEh4gAv4\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLnpJMHNyY0plQ2E4",
+    "snippet": {
+      "publishedAt": "2019-04-05T14:00:06.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "10 rad dla programistów, które dałbym samemu sobie",
+      "description": "Kto nigdy bezmyślnie nie kopiował cudzego kodu, niech pierwszy rzuci git blame! 10 rzeczy, o których musi pamiętać każdy (nie tylko początkujący) programista. Z pewnością macie też własne rady dla innych - zostawcie je w komentarzu! \n\n+\n+\n+\n\nWspieraj kanał i subskrybuj!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zI0srcJeCa8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zI0srcJeCa8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zI0srcJeCa8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zI0srcJeCa8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zI0srcJeCa8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zI0srcJeCa8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MgdlfJFgyxqh28Du3qaTBf_7jow\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLkRscEFtWjZmeEVR",
+    "snippet": {
+      "publishedAt": "2019-03-29T15:00:01.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Informatyku, Janusze Biznesu zrobią Ci piekło!",
+      "description": "Niezależnie czy jesteś programistą, grafikiem, czy spawaczem - każdemu kto przyjmuje zlecenia może się trafić kosa z klientem. Niestety nie ma prostego sposobu na rozwiązanie takich trudnych sytuacji, dlatego lepiej być przygotowanym!\n\n+\n+\n+\n\nWspieraj kanał i subskrybuj!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DlpAmZ6fxEQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DlpAmZ6fxEQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DlpAmZ6fxEQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DlpAmZ6fxEQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DlpAmZ6fxEQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DlpAmZ6fxEQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uEUY-A_Z-8p7YVU9bgRbR3YXwt4\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLmhUYnVpd3pYc0d3",
+    "snippet": {
+      "publishedAt": "2019-03-22T16:00:08.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Jak działa polimorfizm",
+      "description": "Jak śpiewał Sidney Polak: Kto nadal nie chwyta polimorfizmu, niech mi się nie pokazuje na uczelni! Polimorfizm zna każdy szanujący się programista, a ci bardziej dociekliwi oglądają Smoczy Warsztat i wiedzą jak polimorfizm jest zbudowany!\n\nZapraszam do pierwszego odcinka serii technicznej: Smoczy Warsztat.\n\n\n+\n\nZostaw komentarz i jeśli chcesz więcej filmów - subskrybuj i kliknij dzwonek: https://youtube.be/channel/UCoX1DRu6ZYyaHs79PN4ZJeQ?sub_confirmation=1\n\n+\n+\n+\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hTbuiwzXsGw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hTbuiwzXsGw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hTbuiwzXsGw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hTbuiwzXsGw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hTbuiwzXsGw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hTbuiwzXsGw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fXK2RbI0gVUMmFc8Y9mWtmkCso4\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLjVUaDltbVE1MVU0",
+    "snippet": {
+      "publishedAt": "2019-03-15T15:00:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Czego programista potrzebuje oprócz wiedzy IT?",
+      "description": "Computer Science to podstawowe narzędzie programisty, ale po opanowaniu podstaw tego zawodu objawiają się nam kolejne kręgi wtajemniczenia - zanim będzie nam potrzebna umiejętność budowania systemów rozproszonych, czy tworzenia potężnych projektów odpornych na próbę czasu, bardzo przyda nam się coś dużo bardziej prozaicznego...\n\n+\n\nZostaw komentarz i jeśli chcesz więcej filmów - subskrybuj i kliknij dzwonek: https://youtube.be/channel/UCoX1DRu6ZYyaHs79PN4ZJeQ?sub_confirmation=1\n\n+\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5Th9mmQ51U4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5Th9mmQ51U4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5Th9mmQ51U4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5Th9mmQ51U4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5Th9mmQ51U4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5Th9mmQ51U4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/P1jY2l-yqH4Hi6iN_xpIghSVQZ0\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLi13NHhQckMtc3Z3",
+    "snippet": {
+      "publishedAt": "2019-03-08T15:00:00.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Zanim wstanie Londyn...",
+      "description": "Londyn przed świtem szuka drogi do domu. Drapacze chmur toną w porannej mgle. \n+\n+\n+\n\nDaj znać co myślisz o takiej formie filmowej w komentarzu i jeśli chcesz więcej - subskrybuj!\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-w4xPrC-svw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-w4xPrC-svw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-w4xPrC-svw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-w4xPrC-svw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-w4xPrC-svw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-w4xPrC-svw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FdzTiZAy6A8jGX6eZxTyWyebixc\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLk96dDRIc01RTWlj",
+    "snippet": {
+      "publishedAt": "2019-02-22T16:04:36.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Programista ma lepiej w korporacji czy w małej firmie?",
+      "description": "Bycie programistą w małym formacie ma na pewno dobre strony! Ale czy warto rzucić pracę w kameralnej firmie i sprzedać się do korporacji? Pogadajmy!\n\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm\n🎵 REMNANT - B̶o̶b̶ ̶m̶o̶o̶n̶s̶ X REMNANT - DIVULGENCE https://soundcloud.com/remnantsofyore/bob-moons-x-remnant-divulgence\n🎵 LAKEY INSPIRED - Doing Just Fine https://soundcloud.com/lakeyinspired/doing-just-fine\n\n 📘https://www.facebook.com/groups/turingi",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ozt4HsMQMic/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ozt4HsMQMic/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ozt4HsMQMic/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ozt4HsMQMic/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ozt4HsMQMic/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ozt4HsMQMic"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_vpwNZsL161G2SkuRPdIrrSCKBI\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLlBkQjYtb0h0THpj",
+    "snippet": {
+      "publishedAt": "2019-02-15T14:01:39.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Struktura programu w RAM",
+      "description": "Jak wygląda program w pamięci operacyjnej? Procesy uruchamiane przez system ma ustaloną strukturę - jak ona wygląda? Dzisiaj kawa techniczna: aplikacje w pamięci RAM.\n📌\n\n\n🎶 Intro: O.B.M. - LesPaul Rock F#@110 bpm https://soundcloud.com/boboshin/lespaul-rock-f-110-bpm\n🎵 MØØRZY. - CALM. https://soundcloud.com/moorzym8/calming\n\n 📘https://www.facebook.com/groups/turingi\n 📕 https://sourceware.org/glibc/wiki/MallocInternals\n 📕 https://cs61.seas.harvard.edu/wiki/images/e/e2/Lec11-Dynamic_memory_2.pdf\n 📕 https://www.geeksforgeeks.org/memory-layout-of-c-program/\n 📕 http://articles.manugarg.com/aboutelfauxiliaryvectors.html\n 📕 https://security.stackexchange.com/questions/158609/how-is-the-stack-protection-enforced-in-a-binary\n 📕 https://reverseengineering.stackexchange.com/questions/3127/understanding-the-most-recent-heap-implementation-under-linux\n 📕 https://stackoverflow.com/questions/6988487/what-does-the-brk-system-call-do\n 📕 https://www.cs.bgu.ac.il/~caspl122/wiki.files/lab2/ch07lev1sec6/ch07lev1sec6.html",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PdB6-oHtLzc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PdB6-oHtLzc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PdB6-oHtLzc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PdB6-oHtLzc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PdB6-oHtLzc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PdB6-oHtLzc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TV17oW-WEEdd7Y7Y-H6mji46K2g\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLnpxWTBkY0hQc1l3",
+    "snippet": {
+      "publishedAt": "2019-02-08T15:00:16.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Jak wygląda rozmowa o pracę programisty",
+      "description": "Rekrutacja na programistę w korporacji to nie lada wyzwanie, dowiedz się jak zwycięsko przejść rozmowę o pracę w pięciu krokach.\n\nMuzyka: LEMMiNO - Infinity",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zqY0dcHPsYw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zqY0dcHPsYw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zqY0dcHPsYw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zqY0dcHPsYw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zqY0dcHPsYw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 43,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zqY0dcHPsYw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/F5TdO11VUmlY2QtXzAtv9wuK4OM\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLktKTzJ5V2tGWnpZ",
+    "snippet": {
+      "publishedAt": "2019-01-27T22:54:01.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "Jak to jest być Programistą w Amazon London?",
+      "description": "Dzisiaj zapraszam na kawę do Londynu! Posłuchajcie o moich wrażeniach z pierwszych miesięcy pracy w Prime Video Amazon.\n\nPytania? Zapraszam do komentarzy.\n\nMuzyka na prawach CC: \nＧｌｉｔｃｈ Ｎｅｍｅｓｉｓ : Love Is Free https://soundcloud.com/glitchnemesis/love-is-free\nAuxley : Coffee Break https://soundcloud.com/auxofficial/coffee-break",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KJO2yWkFZzY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KJO2yWkFZzY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KJO2yWkFZzY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KJO2yWkFZzY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KJO2yWkFZzY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 44,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KJO2yWkFZzY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eh4ORDXImwVDBsecJKRqprzsid4\"",
+    "id": "VVVvWDFEUnU2Wll5YUhzNzlQTjRaSmVRLndTaDlXUF9aUFhN",
+    "snippet": {
+      "publishedAt": "2013-08-10T14:30:07.000Z",
+      "channelId": "UCoX1DRu6ZYyaHs79PN4ZJeQ",
+      "title": "HeadCube for Android",
+      "description": "GET IT FOR FREE FROM GOOGLE PLAY:\nhttps://play.google.com/store/apps/details?id=com.CodeWare.HeadCube\n\nHeadCube is skill based puzzle game for Android Phones and Tablets. Venture through 48 levels and 2 endless modes collecting colorful tiles. Solve puzzles with keys, portals, and movers. Be quick, and you'll get bonus stars. Collect stoper markers for additional time, but be careful or enemy monsters will crush you!\n\nSoundtrack by Ian Fever (CC-BY), check out his awesome channel:\nhttp://www.youtube.com/watch?v=HntRTr...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wSh9WP_ZPXM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wSh9WP_ZPXM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wSh9WP_ZPXM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wSh9WP_ZPXM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Smok",
+      "playlistId": "UUoX1DRu6ZYyaHs79PN4ZJeQ",
+      "position": 45,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wSh9WP_ZPXM"
+      }
+    }
+  }
+]

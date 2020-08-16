@@ -1,0 +1,677 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yJtVczMsaO2TZ1v0Y9MeIz6ISBE\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LkpkcUJiQmF6U1BF",
+    "snippet": {
+      "publishedAt": "2015-11-05T16:57:00.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Jezen Thomas – The World’s Most Boring Build System – Falsy Values 2015",
+      "description": "http://falsyvalues.com/\n\nThe front-end community has matured immensely in the past five years with automated build systems and package managers written in JavaScript becoming commonplace. But how did we get here? And what has this really cost us? We know every line of code is a liability, and the best line of code is the one that doesn’t exist. JavaScript build systems are complicated and verbose, and it doesn’t need to be this way.\n\nIf you’re using hip new tools like Grunt, Gulp, and Bower, you could make your life so much easier by embracing tools that were around 40 years ago. Even if you’ve never ventured outside the world of JavaScript, come and learn how these general problems are elegantly solved with the Unix philosophy. We’ll look at the simplest possible approach to automated front-end development, and you’ll be able to strip away literally thousands of lines of code while developing a deeper understanding of the tools you rely on.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JdqBbBazSPE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JdqBbBazSPE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JdqBbBazSPE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JdqBbBazSPE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JdqBbBazSPE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JdqBbBazSPE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8b4bZ4evFNs5PiMFxO_0I_RWdhM\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LmM5Q29CUjZfT2tJ",
+    "snippet": {
+      "publishedAt": "2015-11-05T16:35:54.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Jezen Thomas – Lightning Talk – Falsy Values 2015",
+      "description": "http://falsyvalues.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c9CoBR6_OkI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c9CoBR6_OkI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c9CoBR6_OkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c9CoBR6_OkI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c9CoBR6_OkI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c9CoBR6_OkI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jE981dHs9zpRRyt-oQ490su8bYY\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LnhfUnpnVDZKODRV",
+    "snippet": {
+      "publishedAt": "2015-11-05T16:26:16.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Staś Małolepszy – Lightning Talk – Falsy Values 2015",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x_RzgT6J84U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x_RzgT6J84U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x_RzgT6J84U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/x_RzgT6J84U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/x_RzgT6J84U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "x_RzgT6J84U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8Q4Bed9VaMSESM5zdDERSEuRb5o\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LkdRR3pBaS1EZERN",
+    "snippet": {
+      "publishedAt": "2015-11-05T16:21:42.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Michał Warda – Lightning Talk – Falsy Values 2015",
+      "description": "http://falsyvalues.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GQGzAi-DdDM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GQGzAi-DdDM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GQGzAi-DdDM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GQGzAi-DdDM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GQGzAi-DdDM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GQGzAi-DdDM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GqLsjSBO60uaa50qHyUW9C1AZjQ\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3Lnd2YUdoZ2ZnN3FB",
+    "snippet": {
+      "publishedAt": "2015-11-05T16:19:20.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Michał Czernow, Jan Nowotny – Lightning Talk – Falsy Values 2015",
+      "description": "http://falsyvalues.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wvaGhgfg7qA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wvaGhgfg7qA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wvaGhgfg7qA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wvaGhgfg7qA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wvaGhgfg7qA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wvaGhgfg7qA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DdLM6LsSDnK6DFIXB16OW4snjtM\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LnRWY2o5UW9DU1dJ",
+    "snippet": {
+      "publishedAt": "2015-11-05T16:17:40.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Dominik Lubański – Lightning Talk – Falsy Values 2015",
+      "description": "http://falsyvalues.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tVcj9QoCSWI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tVcj9QoCSWI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tVcj9QoCSWI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tVcj9QoCSWI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tVcj9QoCSWI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tVcj9QoCSWI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/atMQPzKzBB_H7ppVH_k5CJIXocw\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3Lm5Ib3pPbEE5WDU0",
+    "snippet": {
+      "publishedAt": "2015-11-05T16:16:05.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Andrzej Mazur – Lightning Talk – Falsy Values 2015",
+      "description": "http://falsyvalues.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nHozOlA9X54/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nHozOlA9X54/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nHozOlA9X54/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nHozOlA9X54/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nHozOlA9X54/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nHozOlA9X54"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OK5ztkYOunDHh0cij4hSgXbGw2I\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LlRYaldEMFMtcXlZ",
+    "snippet": {
+      "publishedAt": "2015-11-05T16:48:00.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Rachel Andrew – Flexible boxes and Grids: the future of CSS Layout – Falsy Values 2015",
+      "description": "http://falsyvalues.com/\n\nEver since we moved away from using tables for layout, we’ve been hacking around floats and positioning to achieve layout on the web. These methods are flawed and complex, making simple things hard to achieve. Flexbox and CSS Grid Layout give us layout mechanisms signed for the sort of things we build on the web. In this talk I’ll take a look at both, showing the problems they each solve and how they work together to create a new paradigm for layout on the web.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TXjWD0S-qyY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TXjWD0S-qyY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TXjWD0S-qyY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TXjWD0S-qyY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TXjWD0S-qyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TXjWD0S-qyY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YM2YrS888pqGxVYO--YAjXh9Er8\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3Ljk4STNfRG5BUXZv",
+    "snippet": {
+      "publishedAt": "2015-11-04T07:35:29.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Martin Naumann – 3D on the web: WebGL and WebVR – Falsy Values 2015",
+      "description": "http://falsyvalues.com/\n\nThe modern web is tearing down the borders of the browser window and allows us to create so much more than just another website.\nThis talk is a whirlwind tour of how 3D and virtual reality can be woven into entirely new applications that the web hasn’t seen yet. On top of interactive 3D web applications with WebGL we’ll go through the history of 3D on the web.\nIn addition we’ll see how we can unlock the powers of the GPU thanks to GLSL.\nWe will then explore the amazing superpowers that Virtual Reality is currently bringing to the web and teleport us to places we can’t go.\nThis is going to be accompanied with live coding 3D demos and weave them together with other web technologies such as WebRTC and Web Audio and lots of show cases and demos to give you inspiration on what to build with your freshly-learned tricks and know-how.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/98I3_DnAQvo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/98I3_DnAQvo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/98I3_DnAQvo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/98I3_DnAQvo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/98I3_DnAQvo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "98I3_DnAQvo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YzZ_jB5H7Ql3OHnnQM9Jq0LMJ2k\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LnI2Y240OXZIQ29V",
+    "snippet": {
+      "publishedAt": "2015-11-04T07:35:29.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Marijn Haverbeke – Salvaging contentEditable: Building a Robust Rich Text Editor – Falsy Values 2015",
+      "description": "http://falsyvalues.com/\n\nWeb-based WYSIWYG editors are notorious for spitting out a distasteful HTML soup. In this talk I’ll show how I implemented an editor that, instead of trying to filter and clean this soup, takes control away from the browser’s contentEditable implementation, and reinterpret user actions as operations on its own semantic document model.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r6cn49vHCoU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r6cn49vHCoU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r6cn49vHCoU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r6cn49vHCoU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r6cn49vHCoU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "r6cn49vHCoU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yJVx5wbPG1IXMhxO3Pu5PPPo8nE\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3Lks3RnlJTVYxd0FJ",
+    "snippet": {
+      "publishedAt": "2015-11-04T07:35:28.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Julian Krispel-Samsel – Your code will explode – Falsy Values 2015",
+      "description": "http://falsyvalues.com/\n\nIt’s impossible to write software that doesn’t break. The more complex software gets, the bigger this problem.\nSince JavaScript has become a ‘serious’ programming language, modern web applications have also become more complex and hence more likely to blow up. You want to avoid that and catch bugs before they go live.\nThis talk isn’t about what tools to use to test your code. Instead we’ll be focusing on the concepts of unit testing and how testing will make you a better developer in general.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K7FyIMV1wAI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K7FyIMV1wAI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K7FyIMV1wAI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K7FyIMV1wAI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K7FyIMV1wAI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "K7FyIMV1wAI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MdbTUqCxLttbQr5qn4VPLd1niXE\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LmYxVTZNQ0R1Z1dF",
+    "snippet": {
+      "publishedAt": "2015-11-04T00:13:04.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Stoyan Stefanov – Rewriting Facebook comments plugin with React and Flux – Falsy Values 2015",
+      "description": "http://falsyvalues.com/\n\nFacebook’s comments plugin is a third-party commenting system with user front-end and a moderation tool. This session describes what we did to rewrite and relaunch the offering using modern tools – React, Flux, Flow, ES6 and beyond. Learn about the architecture decisions as well as day-to-day JavaScript coding that allows for less code (which almost certainly means fewer bugs) and happy developers.\n\nRecently Facebook launched a new iteration of the third-party commenting plugin and a moderation tool to go with it. Both were rebuilt from the ground up using Facebook’s latest open-source front-end technologies. This talk is about the details of building of the front-end of the new apps including the big-picture architecture as well as the nitty-gritty details of everyday coding in the world of typed JavaScript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f1U6MCDugWE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f1U6MCDugWE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f1U6MCDugWE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/f1U6MCDugWE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/f1U6MCDugWE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "f1U6MCDugWE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/T154PeiAZ7BIv7Gcwls4nLQfqqk\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LjBpaDIxLWdYMlJn",
+    "snippet": {
+      "publishedAt": "2015-11-03T22:18:36.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Kornel Lesiński – And .then() what? Promise programming patterns – Falsy Values 2015",
+      "description": "http://falsyvalues.com/\n\nIt’s impossible to write software that doesn’t break. The more complex software gets, the bigger this problem.\n\nSince JavaScript has become a ‘serious’ programming language, modern web applications have also become more complex and hence more likely to blow up. You want to avoid that and catch bugs before they go live.\n\nThis talk isn’t about what tools to use to test your code. Instead we’ll be focusing on the concepts of unit testing and how testing will make you a better developer in general.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0ih21-gX2Rg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0ih21-gX2Rg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0ih21-gX2Rg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0ih21-gX2Rg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0ih21-gX2Rg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0ih21-gX2Rg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AYUu9tVg-mPuBgIc65H-ksQb6hI\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3LkEtcWpXZEhxNkhB",
+    "snippet": {
+      "publishedAt": "2015-11-03T21:33:33.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Val Head – Motion Design with CSS – Falsy Values 2015",
+      "description": "http://falsyvalues.com/\n\nAnimation is a powerful way to convey meaning and guide tasks both for interfaces and presenting data. Conveniently, our old friend CSS has seriously stepped up its animation game! In this session, Val will cover key animation principles and how to pull them off with CSS. Val will show you the highlights of animating with CSS and combining CSS and SVGs. Plus, which web animation options work best for common interaction and tasks.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A-qjWdHq6HA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A-qjWdHq6HA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A-qjWdHq6HA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/A-qjWdHq6HA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/A-qjWdHq6HA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "A-qjWdHq6HA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CpjRz1vIZfkWlpRxHdv_hNiTSuk\"",
+    "id": "VVVzS3hacXJaYlY1UjlFaEhLOC1hQnp3Lm1DTE9HNWNEN2I4",
+    "snippet": {
+      "publishedAt": "2015-11-03T21:13:57.000Z",
+      "channelId": "UCsKxZqrZbV5R9EhHK8-aBzw",
+      "title": "Todd Motto – AngularJS: The Performance Parts – Falsy Values 2015",
+      "description": "http://falsyvalues.com/\n\nA talk about Angular of past and present—how to speed up your applications through key performance aspects, best practices, and why you should be doing it.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mCLOG5cD7b8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mCLOG5cD7b8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mCLOG5cD7b8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mCLOG5cD7b8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mCLOG5cD7b8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Falsy Values",
+      "playlistId": "UUsKxZqrZbV5R9EhHK8-aBzw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mCLOG5cD7b8"
+      }
+    }
+  }
+]

@@ -1,0 +1,797 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uE-QXNGlyq7r6By9ZmKAHs94UrE\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLnhyZExMeDZZb0RN",
+    "snippet": {
+      "publishedAt": "2020-04-20T05:53:14.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Continuous Monitoring with JDK Flight Recorder (JFR)",
+      "description": "Video with transcript included: https://bit.ly/2VEIh47\n\nMikael Vidstedt gives an overview of JDK Flight Recorder (JFR), showcases the current feature, as well as some features coming in the future. \n\nJFR is a monitoring and troubleshooting framework built directly into the Java runtime. JFR has access to all the internal data of the JVM and can capture and surface data on a fine-grained level with extremely low overhead.\n\nThis presentation was recorded at QCon San Francisco 2019: http://bit.ly/38sivWf\n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Java #JFR #DevOps",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xrdLLx6YoDM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xrdLLx6YoDM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xrdLLx6YoDM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xrdLLx6YoDM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_FCril7_qBV4heU4YiUlvm6LdsM\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLkRmTm5sV3FqWGlJ",
+    "snippet": {
+      "publishedAt": "2020-04-15T08:51:41.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Records and Sealed Types - Coming Soon to a JVM Near You!",
+      "description": "Video with transcript included: https://bit.ly/3bcSlYq\n\nBen Evans talks about the recent changes in the Java language (Records, Sealed Types, Pattern Matching , etc.) and shows how big ideas in language design sometimes start from surprisingly small implementation details.\n\nThis presentation was recorded at QCon London 2020: http://bit.ly/2VfRldq\n \nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Java #JVM #Runtimes",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DfNnlWqjXiI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DfNnlWqjXiI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DfNnlWqjXiI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DfNnlWqjXiI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DfNnlWqjXiI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DfNnlWqjXiI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BUyTpx6HOXolSB1mNaAo2cBx6Uc\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLk9kUjVzcXJiWGww",
+    "snippet": {
+      "publishedAt": "2020-04-13T06:39:57.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Next Generation Client APIs in Envoy Mobile",
+      "description": "Video with transcript included: https://bit.ly/3a56tSm\n\nJose Nino guides the audience through the journey of Mobile APIs at Lyft. He focuses on how the team has reaped the benefits of API generation to experiment with the network transport layer. He also discusses recent developments the team has made with Envoy Mobile and the roadmap ahead.\n\nThis presentation was recorded at QCon London 2020: http://bit.ly/2VfRldq\n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Mobile #API #Envoy",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OdR5sqrbXl0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OdR5sqrbXl0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OdR5sqrbXl0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OdR5sqrbXl0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RpOtyOkHnNjPG1YD4B6jb8vVpkQ\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLnJnbG1KNlh5ajFj",
+    "snippet": {
+      "publishedAt": "2020-04-08T06:51:23.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Understanding CPU Microarchitecture to Increase Performance",
+      "description": "Video with transcript included: https://bit.ly/2Xd6JvC\n\nAlex Blewitt presents the microarchitecture of modern CPUs, showing how misaligned data can cause cache line false sharing, how branch prediction works and when it fails, and how to read CPU specific performance monitoring counters and use that in conjunction with tools like perf and toplev to discover where bottlenecks in CPU heavy code live.\n\nThis presentation was recorded at QCon London 2020: http://bit.ly/2VfRldq \n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#CPU #Performance #Hardware",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rglmJ6Xyj1c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rglmJ6Xyj1c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rglmJ6Xyj1c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rglmJ6Xyj1c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rglmJ6Xyj1c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rglmJ6Xyj1c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Vf_Wmp0qEpD3qOImC0k8sFkrkRM\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLkNfZFYzTFFZOVRB",
+    "snippet": {
+      "publishedAt": "2020-04-06T07:30:43.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Understand the Trade-offs of Using Compilers for Java Applications",
+      "description": "Video with transcript included: https://bit.ly/2Xd6JvC\n\nMark Stoodley examines some of the strengths and weaknesses of the different Java compilation technologies, if one was to apply them in isolation. Stoodley discusses how production JVMs are assembling a combination of these tools that work together to provide excellent performance across the large spectrum of applications written in Java and JVM based languages.\n\nThis presentation was recorded at QCon San Francisco 2019: http://bit.ly/38sivWf\n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Java #Compilers #VirtualMachines",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C_dV3LQY9TA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C_dV3LQY9TA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C_dV3LQY9TA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "C_dV3LQY9TA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SBLJQaDjF0Yjbq3E1hyjUe27oJY\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLkRsV1lOb0xtbWE4",
+    "snippet": {
+      "publishedAt": "2020-04-01T10:17:33.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Monitoring and Tracing @Netflix Streaming Data Infrastructure",
+      "description": "Video with transcript included: https://bit.ly/2UUGYgO\n\nAllen Wang talks about the design and implementation details of the dev/ops tools used by Netflix and highlights the critical roles they play in operating their data infrastructure. Wang showcases how active and targeted tools development for operational use can quickly payoff with improved product quality and overall agility.\n\nThis presentation was recorded at QCon San Francisco 2019: http://bit.ly/38sivWf\n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Netflix #Streaming #ApacheKafka",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DlWYNoLmma8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DlWYNoLmma8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DlWYNoLmma8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DlWYNoLmma8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dqJ4y7D4ZJ1DMBbTVZdoKLibbHM\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLlRFQ0llaURqY2xR",
+    "snippet": {
+      "publishedAt": "2020-03-31T14:09:26.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Software Teams and Teamwork Trends Report Q1 2020",
+      "description": "How do we cope with an environment that has been radically disrupted, where people are suddenly thrust into remote work in a chaotic state?  What are the emerging good practices and new ideas that are shaping the way in which software development teams work? What can we do to make the workplace a more secure and diverse one while increasing the productivity of our teams? Read the InfoQ Trends Repor that aims to assist technical leaders in making mid- to long-term decisions that will have a positive impact on their organizations and teams and help individual contributors find the practices, approaches, tools, techniques, and frameworks that can help them get a better experience at work - irrespective of where they are working from.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TECIeiDjclQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TECIeiDjclQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TECIeiDjclQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TECIeiDjclQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TECIeiDjclQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/u-gVq96ZaD0ralSfxiyqPtmMTFQ\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLmdnZFl0czRtdXUw",
+    "snippet": {
+      "publishedAt": "2020-03-30T08:25:15.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Tesla Virtual Power Plant",
+      "description": "Video with transcript included: https://bit.ly/3dGm8us\n\nColin Breck and Percy Link explore the evolution of Tesla's Virtual Power Plant (VPP) architecture. A VPP is a network of distributed energy-resources (often solar, wind, batteries) that are aggregated to provide smarter and more flexible power generation, distribution, and availability. Tesla's VPP consists of vertically integrated hardware and software, including both cloud and edge computing.\n\nThis presentation was recorded at QCon London 2020: http://bit.ly/2VfRldq \n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Tesla #CaseStudy #VirtualPowerPlant",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ggdYts4muu0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ggdYts4muu0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ggdYts4muu0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ggdYts4muu0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hrjrtLu723vYo4BmugHz5vkR5Ts\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLnlMRzlEOFhoUTY0",
+    "snippet": {
+      "publishedAt": "2020-03-25T08:22:25.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Sorbet: Why and How We Built a Typechecker for Ruby",
+      "description": "Video with transcript included: https://bit.ly/3dsYjWL\n\nDmitry Petrashko talks about Sorbet, a fast, powerful type checker designed for Ruby. At Stripe, they used Sorbet to drive code quality via measurable, concrete indicators. Petrashko covers why they started this project and what contributed to its success.\n\nThis presentation was recorded at QCon San Francisco 2019: http://bit.ly/38sivWf\n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Sorbet #Ruby #CodeQuality",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yLG9D8XhQ64/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yLG9D8XhQ64/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yLG9D8XhQ64/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yLG9D8XhQ64/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yLG9D8XhQ64/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yLG9D8XhQ64"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NuRrtb3WNZxvrAwh8PCodQtuE_w\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLnM1YU16WlBCWnN3",
+    "snippet": {
+      "publishedAt": "2020-03-23T09:31:01.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Declarative APIs in an Imperative World",
+      "description": "Video with transcript included: https://bit.ly/33EZRsd\n\nTilde Thurium explains problems the Atom Editor team came across when they started using React as their UI framework, as well as the solutions they came up with. They discuss how to generalize these patterns to integrate with other imperative APIs one might come across in the wild, such as animation libraries.\n\nThis presentation was recorded at QCon San Francisco 2019: http://bit.ly/38sivWf\n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#API #SOA #Atom",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s5aMzZPBZsw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s5aMzZPBZsw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s5aMzZPBZsw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s5aMzZPBZsw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s5aMzZPBZsw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "s5aMzZPBZsw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4dimPtu1SYyfMlPlUlcs-NJopRc\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLmRHOEZlWjVleTVj",
+    "snippet": {
+      "publishedAt": "2020-03-19T11:50:26.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "How to Be a High Performing Distributed Agile Team",
+      "description": "Video with transcript included: http://bit.ly/33zoF4P\n\nLisette Sutherland explores how digital nomads, virtual entrepreneurs, and global organizations are reaching through the screens to collaborate seamlessly at a distance. She shares new ideas for what it means to be “present” at work and how to create that sense camaraderie even when people are virtual.\n\nThis presentation was recorded at QCon London 2020: http://bit.ly/2VfRldq \n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#OnlineMeeting #DistributedTeam #RemoteDeveloper",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dG8FeZ5ey5c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dG8FeZ5ey5c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dG8FeZ5ey5c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dG8FeZ5ey5c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vohbbv0R-vLH-L-hlkWDLi5sp8k\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLlh5TThGUklPMGIw",
+    "snippet": {
+      "publishedAt": "2020-03-19T11:41:21.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Tough Call: Handling “Difficult” Remote Conversations Like a Pro",
+      "description": "Video with transcript included: http://bit.ly/2U4Nv9Q\n\nJudy Rees talks about tricks and tips that have worked for distributed-working pioneers, and ways to apply them for ourselves.\n\nThis presentation was recorded at QCon London 2020: http://bit.ly/2VfRldq \n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#RemoteWorking #DistributedTeam #RemoteDeveloper",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XyM8FRIO0b0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XyM8FRIO0b0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XyM8FRIO0b0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XyM8FRIO0b0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ubY_Q0PW3ma6rBlymv4XE2IWmfw\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLnd1WWxiTDg1bkZr",
+    "snippet": {
+      "publishedAt": "2020-03-19T11:27:16.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Remote Working Approaches that Worked (And Some that Didn’t)",
+      "description": "Video with transcript included: http://bit.ly/2Qsmaw0\n\nCharles Humble talks about his personal experience working remotely at C4 Media, the company behind InfoQ and QCon. Topics included: how to decide if remote working is right for you; common pitfalls of remote working and mitigations we can take to avoid them; specific techniques for managing remote teams; and more.\n\nThis presentation was recorded at QCon London 2020: http://bit.ly/2VfRldq \n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#RemoteWorking #MentalHealth #Leadership",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wuYlbL85nFk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wuYlbL85nFk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wuYlbL85nFk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wuYlbL85nFk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wuYlbL85nFk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wuYlbL85nFk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EdDWmEus81w_akbXgPa2p7I-SJM\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLl9TSDNsTjJfZXln",
+    "snippet": {
+      "publishedAt": "2020-03-19T11:01:37.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "3 Disciplines for Leading a Distributed Agile Organization",
+      "description": "Video with transcript included: http://bit.ly/2wkm42C \n\nMark Kilby explores three key disciplines composing our personal operating system for leadership: manage change through experimentation, amplify communication and collaboration, and focus on principles over practices.\n\nThis presentation was recorded at QCon London 2020: http://bit.ly/2VfRldq \n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Leadership #DistributedTeam #Agile",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_SH3lN2_eyg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_SH3lN2_eyg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_SH3lN2_eyg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_SH3lN2_eyg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RRsEBecEG7_Am8OZeKcykvvJwZs\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLk5uTnlReVpvbGRn",
+    "snippet": {
+      "publishedAt": "2020-03-19T10:46:47.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Scaling Distributed Teams Around the Globe",
+      "description": "Video with transcript included: http://bit.ly/390ZvgD \n\nRanganathan Balashanmugam talks about how one distributed organization (with bases in India and Australia) has applied distributed systems patterns to scaling distributed teams' processes and further improved them. He shares examples of what went right, what went wrong, what they've learned as they've built a network of effective distributed teams across multiple countries, in multiple timezones.\n\nThis presentation was recorded at QCon London 2020: http://bit.ly/2VfRldq \n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#RemoteWorking #DistributedTeams #InfoQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NnNyQyZoldg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NnNyQyZoldg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NnNyQyZoldg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NnNyQyZoldg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TGcZcpTB2G6kqoscAcftjRg20oM\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLndUb1R5U2R1Z0h3",
+    "snippet": {
+      "publishedAt": "2020-03-18T11:05:18.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Swift for Tensorflow",
+      "description": "Video with transcript included: http://bit.ly/2UjIxF1 \n\nPaige Bailey demonstrates how Swift for TensorFlow can make advanced machine learning research easier and faster.\n\nThis presentation was recorded at QCon San Francisco 2019: http://bit.ly/38sivWf\n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Swift #TensorFlow #MachineLearning",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wToTySdugHw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wToTySdugHw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wToTySdugHw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wToTySdugHw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wToTySdugHw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wToTySdugHw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/E6oL48dqrv9bbWWZ_53fSDl-0Hc\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLksyTHNsSjJkOEJZ",
+    "snippet": {
+      "publishedAt": "2020-03-16T08:17:19.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Security and Compliance Theater",
+      "description": "Video with transcript included: http://bit.ly/2WeTbPW \n\nJohn Willis describes the “Seven Deadly Diseases of DevOps” with a focus on the most costly of them all - Security and Compliance Theater. He talks about the practices needed to create long-term systemic “safe” improvement.\n\nThis presentation was recorded at QCon San Francisco 2019: http://bit.ly/38sivWf\n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#DevOps #Security #Compliance",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K2LslJ2d8BY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K2LslJ2d8BY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K2LslJ2d8BY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "K2LslJ2d8BY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mI_cFkrIBPuNaoTO25tGm93IkWo\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLmdoOUtkVG5ZLW40",
+    "snippet": {
+      "publishedAt": "2020-03-13T05:48:21.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "JavaScript and Web Development InfoQ Trends Report 2020",
+      "description": "Read the latest JavaScript and Web Development Trends Report from InfoQ https://bit.ly/2wOyIH6. \n\nAs Dylan Schiemann, InfoQ Editor, CEO at SitePen& Co-founder Dojo, points out:\n\"This report doesn’t just look at what’s popular and stop, it takes a really broad look at the many things that JavaScript and web developers might use or think about learning, from front-end and server-side to design systems, IoT, machine learning, mixed reality, and more. It’s really comprehensive in that it, of course, includes the things you’ve heard of, but also adds a lot of innovative things that might not be on someone’s radar. So it’s not a popularity contest but a mix of adoption, maturity, and invention/innovation.\"\n\nRead the latest JavaScript and Web Development Trends Report from InfoQ https://bit.ly/2wOyIH6.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gh9KdTnY-n4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gh9KdTnY-n4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gh9KdTnY-n4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gh9KdTnY-n4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gh9KdTnY-n4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gh9KdTnY-n4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6cCuPSItxnT5sUhbECq_Z8pOz38\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLjNxTk5pbmJuV213",
+    "snippet": {
+      "publishedAt": "2020-03-11T09:14:45.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "Kafka Needs No Keeper",
+      "description": "Video with transcript included: http://bit.ly/38G3wH5\n\nColin McCabe talks about the ongoing effort to replace the use of Zookeeper in Kafka: why they want to do it and how it will work. He discusses the limitations they have found and how Kafka benefits both in terms of stability and scalability by bringing consensus in house. He talks about their progress, what work is remaining, and how contributors can help.\n\nThis presentation was recorded at QCon San Francisco 2019: http://bit.ly/38sivWf\n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#Kafka #ZooKeeper",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3qNNinbnWmw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3qNNinbnWmw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3qNNinbnWmw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3qNNinbnWmw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3qNNinbnWmw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3qNNinbnWmw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oPwZGqAKZctphZPaJu3x0RYiRmA\"",
+    "id": "VVVrUVgxdENoVjdaN2wxTEZGNEw5al9nLmRtQlhFVnp0Umdn",
+    "snippet": {
+      "publishedAt": "2020-03-09T10:13:59.000Z",
+      "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+      "title": "ML in the Browser: Interactive Experiences with Tensorflow.js",
+      "description": "Video with transcript included: http://bit.ly/2W0HoVd\n\nVictor Dibia provides a friendly introduction to machine learning, covers concrete steps on how front-end developers can create their own ML models and deploy them as part of web applications. He discusses his experience building Handtrack.js - a library for prototyping real time hand tracking interactions in the browser.\n\nThis presentation was recorded at QCon San Francisco 2019: http://bit.ly/38sivWf\n\nThe next QCon is QCon New York 2020 – June 15-17, 2020: http://bit.ly/2Uyj39C \n\nFor more awesome presentations on innovator and early adopter topics check InfoQ’s selection of talks from conferences worldwide https://bit.ly/2tm9loz\n\n#MachineLearning #WebBrowser #Tensorflow",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dmBXEVztRgg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dmBXEVztRgg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dmBXEVztRgg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dmBXEVztRgg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dmBXEVztRgg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InfoQ",
+      "playlistId": "UUkQX1tChV7Z7l1LFF4L9j_g",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dmBXEVztRgg"
+      }
+    }
+  }
+]

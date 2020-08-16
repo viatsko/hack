@@ -1,0 +1,882 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PTqZwR5Cc6k56fehPe5F5c2YFWg\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLlZmc2hnTDc0ZTVj",
+    "snippet": {
+      "publishedAt": "2020-04-21T16:00:11.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Presentation on “Beyond the Prototype” by Rushil Khurana",
+      "description": "There are lots of tools and materials that make it easy to design and prototype electronic devices. However, there has been little exploration of the challenges associated with moving beyond a prototype and creating hundreds or thousands of exact replicas. This video presents the common issues faced and mitigation strategies adopted by people who are manufacturing devices in low volumes. It ends with several opportunities for new tools and processes to support the transition beyond a working prototype to cost effective low-volume manufacturing.\n\nRead more on the blog: https://www.microsoft.com/en-us/research/blog/beyond-the-prototype-enabling-the-long-tail-of-hardware-devices\n\nRelated research paper: https://www.microsoft.com/en-us/research/publication/beyond-the-prototype-understanding-the-challenge-of-scaling-hardware-device-production/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VfshgL74e5c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VfshgL74e5c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VfshgL74e5c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VfshgL74e5c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VfshgL74e5c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VfshgL74e5c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bToEbI6mCLxOgrFl9LmWHCXKQ0o\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLmJHRUk2SE5JTjdz",
+    "snippet": {
+      "publishedAt": "2020-04-20T21:38:39.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Understanding and Improving Database-backed Applications",
+      "description": "From online shopping to social media websites, many applications are built using imperative languages like Java, Python or Ruby while store its data in a persistent relational database. Such architecture enables fast development of application logic using object-oriented data model while leverages the convenient persistent-data management of relational databases. However, the separation between the application and the database often leads to performance issues. \n\nIn this talk, I will introduce our empirical studies on real-world applications’ performance, and our approaches in understanding and solving performance-related issues. In particular, I will present three projects: 1) Chestnut, a data layout designer to customize in-memory data layout and query processing for each application; 2) Quro, a compiler to optimize query order for transaction applications; and 3) Panorama, an interactive tool to help developers make webpage design-performance tradeoff. These projects include holistic optimizations of the application and the database which are transparent to the developer, as well as interactive solutions to help developer better understand and improve their application.\n\nSee more at https://www.microsoft.com/en-us/research/video/understanding-and-improving-database-backed-applications/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bGEI6HNIN7s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bGEI6HNIN7s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bGEI6HNIN7s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bGEI6HNIN7s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bGEI6HNIN7s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bGEI6HNIN7s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6krJBX0T1gi-YZZ2CaU3geXRMV8\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLjVDcEg4OTQ4UDRJ",
+    "snippet": {
+      "publishedAt": "2020-04-20T20:39:28.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Efficient Learning from Diverse Sources of Information",
+      "description": "Although machine learning has witnessed rapid progress in the last decade, many current learning algorithms are very inefficient in terms of the amount of data it uses, and the time used to train the model. On the other hand, humans excel at many of the learning tasks with very limited data. Why are machines so inefficient, and why can humans learn so well? The key to the answer lies in that humans can learn from diverse sources of information, and are able to use past knowledge to apply in new domains. In this talk, I will study learning from diverse sources of information to make ML algorithms more efficient. In the first part, I will talk about how to incorporate diverse forms of questions into the learning process. Particularly, I will look at the problem of utilizing preference information for learning a regression function and show an interesting connection to nearest neighbors and isotonic regression. In the second part, I will talk about multitask and transfer learning from different domains for natural language understanding. I will explain a sample-reweighting scheme using language models to automatically weight external-domain samples according to their help for the target task.\n\nSee more at https://www.microsoft.com/en-us/research/video/efficient-learning-from-diverse-sources-of-information/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5CpH8948P4I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5CpH8948P4I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5CpH8948P4I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5CpH8948P4I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5CpH8948P4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5CpH8948P4I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wsCvtyYZJi-dlsnoJTeWRPBAvRA\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLjA4aWx1OHhGVXBz",
+    "snippet": {
+      "publishedAt": "2020-04-07T16:58:56.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Reprogramming the American Dream: A conversation with Kevin Scott and J.D. Vance, with Greg Shaw",
+      "description": "From Rural America to Silicon Valley – Making AI Serve Us All\n\nIn this timely book written from the perspective of a technologist whose life started in rural America and wound its way to Silicon Valley, Kevin Scott, Microsoft’s Chief Technology Officer, tackles one of the most critical issues facing society today: the future of artificial intelligence and how it can realistically be used to serve the interests of everyone, not just the privileged few.\n\nAbout the author\nKevin Scott is executive vice president and chief technology officer of Microsoft and has held executive and engineering positions at LinkedIn and Google. He built and led the technology team of pioneering mobile advertising startup AdMob, which was acquired by Google in 2010. He has received a Google Founder’s Award, an Intel PhD Fellowship, and an ACM Recognition of Service Award. He is an adviser to several Silicon Valley start-ups, an active angel investor, the founder of the nonprofit organization Behind the Tech, the host of the Behind the Tech podcast, and an emeritus trustee of the Anita Borg Institute. Scott holds an MS in computer science from Wake Forest University and a BS in computer science from Lynchburg College, and has completed most of his PhD in computer science at the University of Virginia. A native of rural Virginia, he lives in Los Gatos, California, with his wife and two children.\n\nThis event replay was recorded live on April 6, 2020.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/08ilu8xFUps/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/08ilu8xFUps/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/08ilu8xFUps/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/08ilu8xFUps/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/08ilu8xFUps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "08ilu8xFUps"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eUcz5GgPiM9wWj-XzbQT91cQgeU\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLjlXclZkbHVGZnBv",
+    "snippet": {
+      "publishedAt": "2020-04-08T15:07:55.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Project Orleans and the distributed database future with Dr. Philip Bernstein | Podcast",
+      "description": "Episode 114 | April 8, 2020\n\nForty years ago, database research was an “exotic” field and, because of its business data processing reputation, was not considered intellectually interesting in academic circles. But that didn’t deter Dr. Philip Bernstein, now a Distinguished Scientist in MSR’s Data Management, Exploration and Mining group, and a pioneer in the field.\n\nToday, Dr. Bernstein talks about his pioneering work in databases over the years and tells us all about Project Orleans, a distributed systems programming framework that makes life easier for programmers who aren’t distributed systems experts. He also talks about the future of database systems in a cloud scale world, and reveals where he finds his research sweet spot along the academic industrial spectrum.\n\nSee more on this and other Microsoft Research podcast episodes: https://www.microsoft.com/en-us/research/blog/category/podcast/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9WrVdluFfpo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9WrVdluFfpo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9WrVdluFfpo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9WrVdluFfpo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9WrVdluFfpo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9WrVdluFfpo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-VuqiDN-1ZydVN310QzQsqUOGpQ\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLjNLTW5GNFNuNEg0",
+    "snippet": {
+      "publishedAt": "2020-03-26T21:21:00.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Statistical Frameworks for Mapping 3D Shape Variation onto Genotypic and Phenotypic Variation",
+      "description": "The recent curation of large-scale databases with 3D surface scans of shapes has motivated the development of tools that better detect global-patterns in morphological variation. Studies which focus on identifying differences between shapes have been limited to simple pairwise comparisons and rely on pre-specified landmarks (that are often known). In this talk, we present SINATRA: a statistical pipeline for analyzing collections of shapes without requiring any correspondences. Our method takes in two classes of shapes and highlights the physical features that best describe the variation between them.\n\nSee more at https://www.microsoft.com/en-us/research/video/statistical-frameworks-for-mapping-3d-shape-variation-onto-genotypic-and-phenotypic-variation/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3KMnF4Sn4H4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3KMnF4Sn4H4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3KMnF4Sn4H4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3KMnF4Sn4H4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3KMnF4Sn4H4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3KMnF4Sn4H4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fr41pIZv9lS_TuxPdHK9oHAx48o\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLjd1aGhNM1V5SHZj",
+    "snippet": {
+      "publishedAt": "2020-03-26T20:30:28.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Can Machines Perceive Emotion?",
+      "description": "Many tech companies are trying to build machines that detect people’s emotions, using techniques from artificial intelligence. Some companies claim to have succeeded already. Dr. Lisa Feldman Barrett evaluates these claims against the latest scientific evidence on emotion. What does it mean to “detect” emotion in a human face? How often do smiles express happiness and scowls express anger? And what are emotions, scientifically speaking?\n\nSee more at https://www.microsoft.com/en-us/research/video/can-machines-perceive-emotion/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7uhhM3UyHvc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7uhhM3UyHvc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7uhhM3UyHvc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7uhhM3UyHvc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7uhhM3UyHvc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7uhhM3UyHvc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Tex3co8lBdq13l1_eDjV1qTWe_8\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLjQzT1duVVFIX3A0",
+    "snippet": {
+      "publishedAt": "2020-03-30T15:15:34.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Microsoft Rocketbox Avatar library",
+      "description": "The Microsoft Rocketbox Avatar library consists of 115 characters and avatars fully rigged and with high definition that was developed over the course of 10 years. The diversity of the characters and the quality of the rigging together with a relatively low-poly meshes, makes this library the go-to asset among research laboratories worldwide from crowd simulation to real-time avatar embodiment and social Virtual Reality (VR). Ever since their launch, laboratories around the globe have been using the library and many of the lead authors in the VR community have extensively used these avatars during their research.\n\nSee more at https://www.microsoft.com/en-us/research/video/microsoft-rocketbox-avatar-library/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/43OWnUQH_p4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/43OWnUQH_p4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/43OWnUQH_p4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/43OWnUQH_p4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/43OWnUQH_p4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "43OWnUQH_p4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Yq4bkdDwN0MzWnBREAGrd19-v04\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLmxseC01ZllnS0Jj",
+    "snippet": {
+      "publishedAt": "2020-03-25T10:00:27.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Microsoft’s AI Transformation, Project Turing and smarter search with Rangan Majumder | Podcast",
+      "description": "Episode 112 | March 25, 2020\n\nRangan Majumder is the Partner Group Program Manager of Microsoft’s Search and AI, and he has a simple goal: to make the world smarter and more productive. But nobody said simple was easy, so he and his team are working on better – and faster – ways to help you find the information you’re looking for, anywhere you’re looking for it.\n\nToday, Rangan talks about how three big trends have changed the way Microsoft is building – and sharing – AI stacks across product groups. He also tells us about Project Turing, an internal deep learning moonshot that aims to harness the resources of the web and bring the power of deep learning to a search box near you.\n\nSee more on this and other Microsoft Research podcast episodes: https://www.microsoft.com/en-us/research/blog/category/podcast/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/llx-5fYgKBc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/llx-5fYgKBc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/llx-5fYgKBc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/llx-5fYgKBc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/llx-5fYgKBc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "llx-5fYgKBc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lXtqW0Z3gZaJVGgyy-ZRbD7kbdg\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLnJJdUp1UnZuT0V3",
+    "snippet": {
+      "publishedAt": "2020-03-27T16:35:37.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Virtual reality without vision: A haptic and auditory white cane to navigate complex virtual worlds",
+      "description": "Video Figure accompanying CHI 2020 paper, demonstrating a novel haptic device that allows a white cane user to interact with a large, complex virtual environment. Full paper is available at aka.ms/VRWhiteCane\n\nCurrent Virtual Reality (VR) technologies focus on rendering visuospatial effects, and thus are inaccessible for blind or low vision users. We examine the use of a novel white cane controller that enables navigation without vision of large virtual environments with complex architecture, such as winding paths and occluding walls and doors. The cane controller employs a lightweight three-axis brake mechanism to provide large-scale shape of virtual objects. The multiple degrees-of-freedom enables users to adapt the controller to their preferred techniques and grip. In addition, surface textures are rendered with a voice coil actuator based on contact vibrations; and spatialized audio is determined based on the progression of sound through the geometry around the user. We design a scavenger hunt game that demonstrates how our device enables blind users to navigate a complex virtual environment. Seven out of eight users were able to successfully navigate the virtual room (6x6m) to locate targets while avoiding collisions. We conclude with design consideration on creating immersive non-visual VR experiences based on user preferences for cane techniques, and cane material properties.\n\nSee more at https://www.microsoft.com/en-us/research/video/virtual-reality-without-vision-a-haptic-and-auditory-white-cane-to-navigate-complex-virtual-worlds-2/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rIuJuRvnOEw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rIuJuRvnOEw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rIuJuRvnOEw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rIuJuRvnOEw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rIuJuRvnOEw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rIuJuRvnOEw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gFkXhtCWy8ItHOR48HpmOfrVkRA\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLk56TWhNWkx3bEJz",
+    "snippet": {
+      "publishedAt": "2020-03-19T20:30:29.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Demo: Enhancing Smartphone Productivity and Reliability with an Integrated Display Cover",
+      "description": "We describe a concept smartphone Display Cover, a secondary screen designed to improve productivity and convenience. Motivated by user research highlighting some of the limitations of current smartphones, the aim of this concept was to explore a practical solution which allows users to be more productive.\n\nSee more at https://www.microsoft.com/en-us/research/video/demo-enhancing-smartphone-productivity-and-reliability-with-an-integrated-display-cover-2/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NzMhMZLwlBs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NzMhMZLwlBs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NzMhMZLwlBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NzMhMZLwlBs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NzMhMZLwlBs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/793fIE7fWvnz2z2wxfcYMNlfIs4\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLnBpVVZHWnNMaG5z",
+    "snippet": {
+      "publishedAt": "2020-03-19T19:33:17.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Demo: A Versatile Controller Concept for Mobile Gaming",
+      "description": "Popular games for smartphones and tablets focus on touchscreen-based interaction. Here we describe a speculative research exploration motivated by the desire to enable traditional gaming experiences on mobile devices by incorporating tactile input controls. The design and ergonomics of our prototype accessory concept were informed by anecdotal feedback from a variety of gamers.\n\nSee more at https://www.microsoft.com/en-us/research/video/demo-a-versatile-controller-concept-for-mobile-gaming-2/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/piUVGZsLhns/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/piUVGZsLhns/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/piUVGZsLhns/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/piUVGZsLhns/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "piUVGZsLhns"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WNN89k9L3LGH3MFCIoMjJisd6ao\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLkk4c1dtNk9WdjdB",
+    "snippet": {
+      "publishedAt": "2020-03-20T02:00:00.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Enabling Rural Communities to Participate in Crowdsourcing, with Dr. Vivek Seshadri | Podcast",
+      "description": "Episode 02 | March 20, 2020\n\nCrowdsourcing platforms and the gig economy have been around for a while. But are they equally accessible to all communities? Dr. Vivek Seshadri, a researcher at Microsoft Research India, doesn’t think so and is trying to change this. On this podcast, Vivek talks about what motivated him to focus on research that can help underserved communities, and in particular, about Project Karya, a new platform to provide digital work to rural communities. The word “Karya” literally means “work” in a number of India languages. \n\nSee more Microsoft Research India podcast episodes and learn about the research lab: https://www.microsoft.com/en-us/research/lab/microsoft-research-india/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I8sWm6OVv7A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I8sWm6OVv7A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I8sWm6OVv7A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I8sWm6OVv7A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/I8sWm6OVv7A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "I8sWm6OVv7A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hci5m4uYvCSsPFFeebv7dxj2_w4\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLkE4d3RnVnhwc0xr",
+    "snippet": {
+      "publishedAt": "2020-03-18T12:36:07.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Auto ML and the future of self-managing networks with Dr. Behnaz Arzani | Podcast",
+      "description": "Episode 111 | March 18, 2020\n\nDr. Behnaz Arzani is a senior researcher in the Mobility and Networking group at MSR, and she feels your pain. At least, that is, if you’re a network operator trying to troubleshoot an incident in a datacenter. Her research is all about getting networks to manage themselves, so your life is as pain-free as possible.\n\nOn today’s podcast, Dr. Arzani tells us why it’s so hard to identify and resolve networking problems and then explains how content-aware, or domain-customized, auto ML frameworks might help. She also tells us what she means when she says she wants to get humans out of the loop, and reveals how a competitive streak and a comment from her high school principal set her on the path to a career in high tech research.\n\nSee more on this and other Microsoft Research podcast episodes: https://www.microsoft.com/en-us/research/blog/category/podcast/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A8wtgVxpsLk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A8wtgVxpsLk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A8wtgVxpsLk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/A8wtgVxpsLk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/A8wtgVxpsLk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "A8wtgVxpsLk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/at5f2AT3aX7AYclp2fY8QGcbFsI\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLmQ0MUlpUlJQTVFF",
+    "snippet": {
+      "publishedAt": "2020-03-16T19:24:37.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Are you Exploiting Your Assumptions? Towards Effective Priors for Biomarker Discovery and...",
+      "description": "Are you Exploiting Your Assumptions? Towards Effective Priors for Biomarker Discovery and Functional Predictions\n\nBayesian modeling is a powerful framework to handle stochasticity present in the world via probability theory; its benefits include parameter sharing, model averaging (via integration), and uncertainty estimation. Yet, encoding human assumptions into priors is far from trivial. In this talk, I will illustrate the potential benefits of prior design in two specific scenarios. In the first half of the talk, I will present a Bayesian non-parametric latent feature model for heterogeneous datasets. The proposed model is useful to identify meaningful biomarkers in clinical trials via latent variables; I will show results on a real application for an immunotherapy treatment for liver cancer (https://doi.org/10.1186/s12885-019-5472-0). In the second half of the talk, I will introduce a novel prior for Bayesian neural networks that allows for direct specification of functional desiderata in terms of amplitude variance and lengthscale. We show consistency of the estimated regression function, as well as functional properties leading to better generalization.\n\nSee more at https://www.microsoft.com/en-us/research/video/are-you-exploiting-your-assumptions-towards-effective-priors-for-biomarker-discovery-and-functional-predictions/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d41IiRRPMQE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d41IiRRPMQE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d41IiRRPMQE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d41IiRRPMQE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d41IiRRPMQE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "d41IiRRPMQE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JSG2s14YePPGBYKomGetl0bgaOU\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLkF4RTdxR0tKV2F3",
+    "snippet": {
+      "publishedAt": "2020-03-17T15:55:15.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Learning Visuomotor Policies for Aerial Navigation Using Cross-Modal Representations",
+      "description": "Machines are a long way from robustly solving open-world perception-control tasks, such as first-person view (FPV) aerial navigation. While recent advances in end-to-end Machine Learning, especially Imitation and Reinforcement Learning appear promising, they are constrained by the need of large amounts of difficult-to-collect labeled real-world data. Simulated data, on the other hand, is easy to generate, but generally does not render safe behaviors in diverse real-life scenarios. In this work we propose a novel method for learning robust visuomotor policies for real-world deployment which can be trained purely with simulated data. We develop rich state representations that combine supervised and unsupervised environment data.  Our approach takes a cross-modal perspective, where separate modalities correspond to the raw camera data and the system states relevant to the task, such as the relative pose of gates to the drone in the case of drone racing. We feed both data modalities into a novel factored architecture, which learns a joint low-dimensional embedding via Variational Auto Encoders. This compact representation is then fed into a control policy, which we trained using imitation learning with expert trajectories in a simulator. We analyze the rich latent spaces learned with our proposed representations, and show that the use of our cross-modal architecture significantly improves control policy performance as compared to end-to-end learning or purely unsupervised feature extractors. We also present real-world results for drone navigation through gates in different track configurations and environmental conditions. Our proposed method, which runs fully onboard, can successfully generalize the learned representations and policies across simulation and reality, significantly outperforming baseline approaches.\n\nAuthors: Rogerio Bonatti, Ratnesh Madaan, Vibhav Vineet, Sebastian Scherer, Ashish Kapoor\n\nSee the publication: https://www.microsoft.com/en-us/research/publication/learning-visuomotor-policies-for-aerial-navigation-using-cross-modal-representations/\n\nAir Lab, Carnegie Mellon University:\nhttp://theairlab.org/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AxE7qGKJWaw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AxE7qGKJWaw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AxE7qGKJWaw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AxE7qGKJWaw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AxE7qGKJWaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AxE7qGKJWaw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bOdJFpmKLXYyHv6kjunPrpObZVg\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLmt4Y21saFZZQTJB",
+    "snippet": {
+      "publishedAt": "2020-03-12T22:07:08.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Fireside Chat with Aaron Courville",
+      "description": "Fireside Chat: Susan Dumais and Aaron Courville\n\nSee more at https://www.microsoft.com/en-us/research/video/fireside-chat-with-aaron-courville/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kxcmlhVYA2A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kxcmlhVYA2A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kxcmlhVYA2A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kxcmlhVYA2A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kxcmlhVYA2A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kxcmlhVYA2A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WW47Np5tlklUw7eaZODUvs4e0mk\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLjVSeGE5VUJxbmRB",
+    "snippet": {
+      "publishedAt": "2020-03-11T10:00:00.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Engineering research to life with Gavin Jancke | Podcast",
+      "description": "Episode 110 | March 11, 2020\n\nIf you want an inside look at how a research idea goes from project to prototype to product, you should hang out with Gavin Jancke for a while. He’s the General Manager of Engineering for MSR Redmond where he created – and runs – the Central Engineering Group. Over the past two decades, he’s overseen more than seven hundred software and hardware engineering projects, from internal MSR innovations to Microsoft product group partnerships.\n\nToday, Gavin takes us on a guided tour of the research engineering landscape and the engineering pipeline, recounting some of Central Engineering’s greatest hits. He also explains how the lab determines which projects get engineering resources, and reveals how one of his own projects ended up in the Museum of Modern Art.\n\nSee more on this and other Microsoft Research podcast episodes: https://www.microsoft.com/en-us/research/blog/category/podcast/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5Rxa9UBqndA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5Rxa9UBqndA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5Rxa9UBqndA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5Rxa9UBqndA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wz2KWAM4lAbVmqy4KU_xVQi6FF4\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLlBoRjNjYlFScDJz",
+    "snippet": {
+      "publishedAt": "2020-03-17T15:55:13.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "Inside look at the DARPA Subterranean Urban Circuit Challenge 2020",
+      "description": "Over the last year, ten teams from around the world have been participating in the DARPA Subterranean challenges. These challenges are designed to test drones and robots on how they perform in hazardous physical environments where humans can’t access safely. By participating in these challenges, these teams hope to find a solution that will assist emergency first responders to help find survivors more quickly.   \n\nMicrosoft is collaborating with researchers from Carnegie Mellon University and Oregon State University to compete in the DARPA Subterranean (SubT) challenges, collectively named Team Explorer. The DARPA Subterranean Urban challenge included two different courses that were designed to represent complex urban underground infrastructures. The teams get one hour to have their robots or drones explore a large area to try and find as many objects as they can. \n\nThe challenge will continue throughout the next year, so stay tuned for the next challenge, the Cave circuit in later 2020. \n\n• Learn more about Microsoft Autonomous Systems: https://aka.ms/as \n• Learn more about the DARPA challenges and the results: https://aka.ms/AA7m1h9",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PhF3cbQRp2s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PhF3cbQRp2s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PhF3cbQRp2s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PhF3cbQRp2s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PhF3cbQRp2s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PhF3cbQRp2s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xUb25k-RTQ1ewgBsQslgKeBPJOQ\"",
+    "id": "VVVDYjlfS244Rl9PcGIzVUNHbS1sSUxRLm9vVjhMbzk5eUQw",
+    "snippet": {
+      "publishedAt": "2020-03-10T23:29:32.000Z",
+      "channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+      "title": "ARS 2020: Fairness, Transparency and Privacy in Digital Systems",
+      "description": "Track : Fairness, Transparency and Privacy in Digital systems\nAstha Kapoor, Aapti Institute ; \nEmre Kiciman, Microsoft Research ; \nYair Zick, National University of Singapore \nTrack Moderator : Amit Sharma, Microsoft Research\n\nSee more at https://www.microsoft.com/en-us/research/video/ars-2020-fairness-transparency-and-privacy-in-digital-systems/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ooV8Lo99yD0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ooV8Lo99yD0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ooV8Lo99yD0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ooV8Lo99yD0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ooV8Lo99yD0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Research",
+      "playlistId": "UUCb9_Kn8F_Opb3UCGm-lILQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ooV8Lo99yD0"
+      }
+    }
+  }
+]

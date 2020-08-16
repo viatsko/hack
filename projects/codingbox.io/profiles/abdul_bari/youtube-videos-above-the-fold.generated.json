@@ -1,0 +1,842 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7kZoGyoD22RW9d-yLmZKbFvDtCM\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53Ll9XbmN1aFNKWnlB",
+    "snippet": {
+      "publishedAt": "2019-05-12T16:10:36.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "[New] Matrix Chain Multiplication using Dynamic Programming Formula",
+      "description": "Matrix Chain Multiplication using Dynamic Programming Formula\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY:\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_WncuhSJZyA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_WncuhSJZyA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_WncuhSJZyA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_WncuhSJZyA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_WncuhSJZyA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_WncuhSJZyA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ryvA_kIE-DcA-QBP5Yb8Fqe0IPA\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LndBeTZuRE1QWUFF",
+    "snippet": {
+      "publishedAt": "2019-04-02T21:01:02.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "4.6.2 [New] Optimal Binary Search Tree Successful and Unsuccessful Probability - Dynamic Programming",
+      "description": "Optimal Binary Search Tree using Successful and Unsuccessful Search Probabilities​\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY:\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wAy6nDMPYAE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wAy6nDMPYAE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wAy6nDMPYAE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wAy6nDMPYAE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wAy6nDMPYAE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3uxdx3FXLdQSeBYh4kVcJu8tJyY\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LlJHQi13bGF0U3Rj",
+    "snippet": {
+      "publishedAt": "2019-03-15T05:23:33.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "Bresenham's Line Drawing Algorithm",
+      "description": "PATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/\n\n\nBresenham's Line Drawing Algorithm\n------------------------------------------------------------\n1. Basics\n2. Drawback of DDA\n3. Problem with Floats\n4. Derivation of Bresenhams\n5. Algorithm\n6. Example",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RGB-wlatStc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RGB-wlatStc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RGB-wlatStc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RGB-wlatStc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RGB-wlatStc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eZWR3QXjqBanmpnfnHLPgQuA75E\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LkhxUEpGMkw1aDlV",
+    "snippet": {
+      "publishedAt": "2019-03-08T20:14:37.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "2.6.3 Heap - Heap Sort - Heapify - Priority Queues",
+      "description": "PATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/\n\n\nTopics Covered \n1. Array Representation of Binary Tree\n2. Complete Binary Tree\n3. Heap\n4. Heap Sort\n5. Heapify\n6. Priority Queue",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HqPJF2L5h9U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HqPJF2L5h9U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HqPJF2L5h9U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HqPJF2L5h9U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HqPJF2L5h9U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HqPJF2L5h9U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JksszVn13qd54CfddYw3Z8aOtTo\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LnNTbm85clY4Umhn",
+    "snippet": {
+      "publishedAt": "2018-04-19T16:55:23.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "4.9 Longest Common Subsequence (LCS)  - Recursion and Dynamic Programming",
+      "description": "Longest Common Subsequence Problem using\n1. Recursion\n2. Memoization\n3. Dynamic Programming\n\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sSno9rV8Rhg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sSno9rV8Rhg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sSno9rV8Rhg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sSno9rV8Rhg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sSno9rV8Rhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sSno9rV8Rhg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-WUSdvsmXj5-91E5zAmRkH9n8y4\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LjFGRVBfc05iNjJr",
+    "snippet": {
+      "publishedAt": "2018-04-13T21:12:09.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "7.3 Traveling Salesman Problem - Branch and Bound",
+      "description": "Traveling Salesman Problem - Branch and Bound\n\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1FEP_sNb62k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1FEP_sNb62k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1FEP_sNb62k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1FEP_sNb62k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1FEP_sNb62k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1FEP_sNb62k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/T1_eXrGQYpPCd2kiatHWJwcOf5U\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53Llc1UDhHbGFFT1NJ",
+    "snippet": {
+      "publishedAt": "2018-04-12T21:07:22.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "DDA Line Drawing Algorithm - Computer Graphics",
+      "description": "DDA explained using Examples.\nDDA (Digital Differential Analyzer) Line Drawing Algorithm\n\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W5P8GlaEOSI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W5P8GlaEOSI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W5P8GlaEOSI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "W5P8GlaEOSI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hdj0HPyBSN_dV7he6jXxX_15vFU\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LnVKT21xQndFTkI4",
+    "snippet": {
+      "publishedAt": "2018-04-11T19:50:33.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "4.8 Reliability Design - Dynamic Programming",
+      "description": "Reliability Design\nSystem Design\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uJOmqBwENB8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uJOmqBwENB8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uJOmqBwENB8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uJOmqBwENB8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uJOmqBwENB8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uJOmqBwENB8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HHiTk-mL2xBy2kKRo04NYks-FKU\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LnFaczc2N0tRY3ZF",
+    "snippet": {
+      "publishedAt": "2018-04-09T18:39:02.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "8.1 NP-Hard Graph Problem - Clique Decision Problem",
+      "description": "NP-Hard Graph Problem - Clique Decision Problem \n\nCDP is proved as NP-Hard\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qZs767KQcvE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qZs767KQcvE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qZs767KQcvE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qZs767KQcvE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6W2406ySdWX6irjACR67Atsde9U\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LmRRcjR3WkNpSko0",
+    "snippet": {
+      "publishedAt": "2018-04-07T18:38:50.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "6.4 Hamiltonian Cycle - Backtracking",
+      "description": "Hamiltonian Cycle using Backtracking\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dQr4wZCiJJ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dQr4wZCiJJ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dQr4wZCiJJ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dQr4wZCiJJ4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dQr4wZCiJJ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dQr4wZCiJJ4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zd1TIi82ORo61mdQo3VjCBhS1J0\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LndVNnVkSFJJa2Nj",
+    "snippet": {
+      "publishedAt": "2018-04-04T17:51:26.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "1.12 Disjoint Sets Data Structure - Weighted Union and Collapsing Find",
+      "description": "Disjoint Sets Data Structure - Weighted Union and Collapsing Find\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wU6udHRIkcc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wU6udHRIkcc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wU6udHRIkcc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wU6udHRIkcc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/agXRuqKc4X6CCSjjP2AVj2AJp5Y\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LlE0ekhiLVN3enJv",
+    "snippet": {
+      "publishedAt": "2018-04-02T20:10:47.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "4.7 [New] Traveling Salesman Problem - Dynamic Programming using Formula",
+      "description": "Traveling Salesman Problem - Dynamic Programming - Explained using Formula\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q4zHb-Swzro/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q4zHb-Swzro/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q4zHb-Swzro/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Q4zHb-Swzro"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mqOJ_ZeRUndprioO2kgbwRztQrE\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LmgxU3E4cDJHTDJn",
+    "snippet": {
+      "publishedAt": "2018-04-01T05:09:30.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "6. Everything about Variables in JAVA",
+      "description": "Variables explained in details. all attributes of variables and how they are provided in JAVA\n\nBuy C++ course on Udemy.com  \nPrice: $10.99 (₹750)\nURL : https://www.udemy.com/cpp-deep-dive/?couponCode=LEARNCPP\n\nCourse covers All the topics from Basics to Advance level.\nEvery topic is covered in greater detail with suitable examples.\nSuitable for Academics and Industry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h1Sq8p2GL2g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h1Sq8p2GL2g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h1Sq8p2GL2g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/h1Sq8p2GL2g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/h1Sq8p2GL2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "h1Sq8p2GL2g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DVgBZi_I6FrcRNbGN91dVp6SVwY\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LnFROHZTMmJ0c3hJ",
+    "snippet": {
+      "publishedAt": "2018-03-30T19:29:59.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "9.2 Rabin-Karp String Matching Algorithm",
+      "description": "Rabin-Karp String Matching Algorithm\n\nIt is useful for matching multiple patterns simultaneously.\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qQ8vS2btsxI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qQ8vS2btsxI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qQ8vS2btsxI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qQ8vS2btsxI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-miUj0vHT6zHOuXkUhim1raVY0E\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LmFaallyODdyMWI4",
+    "snippet": {
+      "publishedAt": "2018-03-30T10:22:27.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "10.2  B Trees and B+ Trees. How they are useful in Databases",
+      "description": "This video explains \nB Trees and B+ Trees and how they are used in databases.\n\nInsertion, Deletion and Analysis will be covered in next video.\n\nEach node of a B+ Tree is a block on Disk. The degree of a Tree is decided based number of keys and child pointers that can fit inside a block.\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aZjYr87r1b8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aZjYr87r1b8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aZjYr87r1b8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aZjYr87r1b8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aZjYr87r1b8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "aZjYr87r1b8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/igef_zr9LfnAk7cVAGjrqrDgI1A\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53Lk11QUxLNEtjTk1j",
+    "snippet": {
+      "publishedAt": "2018-03-26T17:00:29.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "5. Everything about JAVA Data Types",
+      "description": "Java Data Types Explained in detail\n\nBuy C++ course on Udemy.com  \nPrice: $10.99 (₹750)\nURL : https://www.udemy.com/cpp-deep-dive/?couponCode=LEARNCPP\n\nCourse covers All the topics from Basics to Advance level.\nEvery topic is covered in greater detail with suitable examples.\nSuitable for Academics and Industry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MuALK4KcNMc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MuALK4KcNMc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MuALK4KcNMc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MuALK4KcNMc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MuALK4KcNMc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MuALK4KcNMc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QkR36mD5aJE8VvWV2I5NaWrQhos\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53Lk9uOW16emlJMnBV",
+    "snippet": {
+      "publishedAt": "2018-03-26T16:59:48.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "4. Why public static void main(String args[ ]) ? JAVA",
+      "description": "Why main should be declared as public static void main\n\nBuy C++ course on Udemy.com  \nPrice: $10.99 (₹750)\nURL : https://www.udemy.com/cpp-deep-dive/?couponCode=LEARNCPP\n\nCourse covers All the topics from Basics to Advance level.\nEvery topic is covered in greater detail with suitable examples.\nSuitable for Academics and Industry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/On9mzziI2pU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/On9mzziI2pU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/On9mzziI2pU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/On9mzziI2pU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/On9mzziI2pU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "On9mzziI2pU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iEFuPSALIrBTWA64joMba_Z5cKc\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53Lk9uYnBDZzk2dzBJ",
+    "snippet": {
+      "publishedAt": "2018-03-26T16:59:17.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "3. Why to Set Path ? JAVA",
+      "description": "Why we should set the Path to Compile and Run JAVA programs\n\nBuy C++ course on Udemy.com  \nPrice: $10.99 (₹750)\nURL : https://www.udemy.com/cpp-deep-dive/?couponCode=LEARNCPP\n\nCourse covers All the topics from Basics to Advance level.\nEvery topic is covered in greater detail with suitable examples.\nSuitable for Academics and Industry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OnbpCg96w0I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OnbpCg96w0I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OnbpCg96w0I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OnbpCg96w0I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OnbpCg96w0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OnbpCg96w0I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qNtxjJIjsIjzf3Qaud2vYlfF3sM\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LlY1LTdHek9mQURR",
+    "snippet": {
+      "publishedAt": "2018-03-25T08:37:39.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "9.1 Knuth-Morris-Pratt KMP String Matching Algorithm",
+      "description": "In P3,  b is also matching , lps should be 0 1 0 0 1 0 1 2 3 0\n\nNaive Algorithm\nDrawbacks of Naive Algorithm\nPrefix and Suffix of Pattern\nKMP Algorithm\n\n\nPATREON : https://www.patreon.com/bePatron?u=20475192\n\nUDEMY\n\n1. Data Structures using C and C++ on Udemy\nURL: https://www.udemy.com/datastructurescncpp/\n\n2. C++ course on Udemy\nURL: https://www.udemy.com/cpp-deep-dive/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V5-7GzOfADQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V5-7GzOfADQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V5-7GzOfADQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/V5-7GzOfADQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/V5-7GzOfADQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "V5-7GzOfADQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EHvqf3IzO8UtMLP8RCDugABs0g8\"",
+    "id": "VVVaQ0ZUMTFDV0JpM01ITmxHZjAxOW53LjF4ejdPeEFTWFVj",
+    "snippet": {
+      "publishedAt": "2018-03-20T13:04:59.000Z",
+      "channelId": "UCZCFT11CWBi3MHNlGf019nw",
+      "title": "2. Why and How Java is platform independent",
+      "description": "Compiler vs Interpreter\nHow Programs run on Computer\nHow Java programs run on Computer\nWhat is Distributed System?\nHow Java helped Distributed Systems?\n\nBuy C++ course on Udemy.com  \nPrice: $10.99 (₹750)\nURL : https://www.udemy.com/cpp-deep-dive/?couponCode=LEARNCPP\n\nCourse covers All the topics from Basics to Advance level.\nEvery topic is covered in greater detail with suitable examples.\nSuitable for Academics and Industry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1xz7OxASXUc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1xz7OxASXUc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1xz7OxASXUc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1xz7OxASXUc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1xz7OxASXUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abdul Bari",
+      "playlistId": "UUZCFT11CWBi3MHNlGf019nw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1xz7OxASXUc"
+      }
+    }
+  }
+]

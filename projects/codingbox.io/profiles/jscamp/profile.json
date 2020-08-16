@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SXO97ey3Sx7cF5ow6VAScZAH-7M\"",
+      "id": "UCVLlWT1NZZEJs4A67XgObnQ",
+      "snippet": {
+        "title": "JScamp",
+        "description": "16-17 July 2020. International single-track and two-day conference covering all about #JavaScript and modern web technologies.",
+        "customUrl": "jscamp",
+        "publishedAt": "2017-01-21T18:58:39.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwbQvIKYy7DoZ7lAzweg-EU335eLtUHfWIREA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwbQvIKYy7DoZ7lAzweg-EU335eLtUHfWIREA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwbQvIKYy7DoZ7lAzweg-EU335eLtUHfWIREA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "JScamp",
+          "description": "16-17 July 2020. International single-track and two-day conference covering all about #JavaScript and modern web technologies."
+        },
+        "country": "ES"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUVLlWT1NZZEJs4A67XgObnQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUVLlWT1NZZEJs4A67XgObnQ"
+  },
+  "displayName": "JScamp",
+  "description": "16-17 July 2020. International single-track and two-day conference covering all about #JavaScript and modern web technologies.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwbQvIKYy7DoZ7lAzweg-EU335eLtUHfWIREA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwbQvIKYy7DoZ7lAzweg-EU335eLtUHfWIREA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwbQvIKYy7DoZ7lAzweg-EU335eLtUHfWIREA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

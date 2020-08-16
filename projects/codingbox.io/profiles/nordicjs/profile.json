@@ -1,0 +1,62 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_hVai5PipAvV62y7lTpZNHKrXlI\"",
+      "id": "UCTZ3O2cZo1b4JSwvhgBnAbw",
+      "snippet": {
+        "title": "Nordic.js",
+        "description": "",
+        "publishedAt": "2014-09-26T08:36:47.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxwCKvYJUKplrYMJOKowBKzSBF1Sc-x_VeGAA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxwCKvYJUKplrYMJOKowBKzSBF1Sc-x_VeGAA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxwCKvYJUKplrYMJOKowBKzSBF1Sc-x_VeGAA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Nordic.js",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUTZ3O2cZo1b4JSwvhgBnAbw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUTZ3O2cZo1b4JSwvhgBnAbw"
+  },
+  "displayName": "Nordic.js",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxwCKvYJUKplrYMJOKowBKzSBF1Sc-x_VeGAA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxwCKvYJUKplrYMJOKowBKzSBF1Sc-x_VeGAA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxwCKvYJUKplrYMJOKowBKzSBF1Sc-x_VeGAA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

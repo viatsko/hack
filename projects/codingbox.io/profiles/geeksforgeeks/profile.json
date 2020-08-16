@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CvGx3d7NrnFSAarZEYqPzlgIx7w\"",
+      "id": "UC0RhatS1pyxInC00YKjjBqQ",
+      "snippet": {
+        "title": "GeeksforGeeks",
+        "description": "The Official Channel of GeeksforGeeks: www.geeksforgeeks.org\n\nSome rights reserved.",
+        "customUrl": "geeksforgeeksvideos",
+        "publishedAt": "2015-06-11T15:27:03.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwi1rPKNuQAqgMXPpeAXtNj0m2ChJivtSsu3A=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwi1rPKNuQAqgMXPpeAXtNj0m2ChJivtSsu3A=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwi1rPKNuQAqgMXPpeAXtNj0m2ChJivtSsu3A=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "GeeksforGeeks",
+          "description": "The Official Channel of GeeksforGeeks: www.geeksforgeeks.org\n\nSome rights reserved."
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UU0RhatS1pyxInC00YKjjBqQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU0RhatS1pyxInC00YKjjBqQ"
+  },
+  "displayName": "GeeksforGeeks",
+  "description": "The Official Channel of GeeksforGeeks: www.geeksforgeeks.org\n\nSome rights reserved.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwi1rPKNuQAqgMXPpeAXtNj0m2ChJivtSsu3A=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwi1rPKNuQAqgMXPpeAXtNj0m2ChJivtSsu3A=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwi1rPKNuQAqgMXPpeAXtNj0m2ChJivtSsu3A=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

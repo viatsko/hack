@@ -1,0 +1,892 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tpszwZZ9nad9FIv07zcFuK7pN1M\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLnZSY1BOcnY0Y3Zj",
+    "snippet": {
+      "publishedAt": "2019-11-26T13:09:44.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "performance.now() 2019 compilation",
+      "description": "On November 21 & 22, our second performance.now() conference took place in Amsterdam; a single track conference with 14 speakers covering today’s most important web performance insights: https://perfnow.nl/\n\nNext edition is on November 12 & 13, 2020. Get notified when we announce speakers & tickets: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vRcPNrv4cvc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vRcPNrv4cvc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vRcPNrv4cvc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vRcPNrv4cvc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vRcPNrv4cvc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vRcPNrv4cvc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gKnOUe-2WAuN7mUs4C406zLFqUg\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLkp6M0Z1MW8zNTZn",
+    "snippet": {
+      "publishedAt": "2019-11-29T09:10:12.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Vitaly Friedman | The Bright Future of Web Performance | performance.now() 2019",
+      "description": "We’ve come quite far in web performance over the last decade, haven’t we? The connections are better than ever, the browsers smarter than ever, HTTP/2 is omnipresent and 5G is right here at the horizon! In fact, we’ve invented and mastered fancy code-splitting and tree-shaking techniques, reinvented bundling of assets in the world of HTTP/2 and learned how to minimize the payload to deploy fast and render soon. Are we done yet?\n\nNot really. In this session, we’ll look into areas that still need some work to be done. What about next-generation image formats and video encoders? What about wide-established progressive rehydration and lazy-loaded frameworks? What about progressive deployment with JAM Stack and universal Brotli compression by default? We’ll also touch on priority hints, cutting-edge strategies for service workers, subsetting typographic spaces with variable fonts, performance optimization with Network Information API and Device Memory API, runtime optimizations with WebAssembly and analytics-based, predictive performance optimization. Also, we’ll explore the privacy/authentication aspects of performance and how new development will change the way we build and deploy on the web. The future isn’t here yet, let’s examine what it might bring to all of us!\n\nSlides: https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf?dl=0\nAbout Vitaly: https://twitter.com/smashingmag\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jz3Fu1o356g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jz3Fu1o356g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jz3Fu1o356g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Jz3Fu1o356g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Jz3Fu1o356g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Jz3Fu1o356g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vvUsTANoCGc3c9ruIDk6mLlrGV4\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLmN0YXZaVDg3c3lJ",
+    "snippet": {
+      "publishedAt": "2019-11-29T08:59:44.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Annie Sullivan | Lessons learned from performance monitoring in Chrome | performance.now() 2019",
+      "description": "Annie has done a lot of work on performance metrics and monitoring for Chrome over the past several years. She’ll talk about what she’s learned in that time, and how it can be applied to web site performance monitoring. She will cover performance metric and benchmark design, dealing with benchmark noise in the lab, and understanding the subtleties of RUM data.\n\nSlides: https://www.slideshare.net/AnnieSullivan9/monitoring-and-metrics-in-chrome-196438420\nAbout Annie: https://anniesullie.com/\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ctavZT87syI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ctavZT87syI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ctavZT87syI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ctavZT87syI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ctavZT87syI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ctavZT87syI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZWuZEy6Oktyd0XYfco6t7slcKZM\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLnVYdjlKRnZybndv",
+    "snippet": {
+      "publishedAt": "2019-11-28T13:53:41.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Simon Hearne | Deep dive into third-party performance | performance.now() 2019",
+      "description": "In this talk we will get deep into HTTP Archive, browser developer tools and Real User Monitoring (RUM) data. We’ll discover which third-party tags have the greatest impact on user experience, how ad blockers impact site speed and what to look out for when evaluating a new third-party service. Most importantly, we will discuss techniques to manage third-party performance & security without creating friction with marketing and analytics teams!\n\nSlides: https://noti.st/simonhearne/5QA7lv/third-party-performance-a-deep-dive\nAbout Simon: https://simonhearne.com/\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uXv9JFvrnwo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uXv9JFvrnwo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uXv9JFvrnwo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uXv9JFvrnwo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uXv9JFvrnwo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uXv9JFvrnwo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V8FSU5m5CcEUNd-8SmHw_ZMoPLA\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLkp2SjB2NU9vaE5n",
+    "snippet": {
+      "publishedAt": "2019-11-28T13:03:57.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Tim Kadlec | When JavaScript Bytes | performance.now() 2019",
+      "description": "JavaScript is, byte-for-byte, the most expensive resource on the web and we’re using more of it than ever in our sites. You can optimize the delivery, the parsing and the execution until you’re blue in the face but you’ll never make it as performant as simply not using it in the first place.\n\nBut what do you do if you’re already staring down a pile of scripts?\n\nIn this talk, we’ll discuss practical ways to reduce the amount of JavaScript we’re sending down to the people using our sites. We’ll look at techniques for shaving excess bytes off our bundles and, just as critically, tools and approaches we can use to make sure those bytes stay off.\n\nSlides: https://noti.st/tkadlec/MC0Bvy/when-javascript-bytes\nAbout Tim: https://timkadlec.com/\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JvJ0v5OohNg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JvJ0v5OohNg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JvJ0v5OohNg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JvJ0v5OohNg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JvJ0v5OohNg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JvJ0v5OohNg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/agcbYzHVIVqCx7FpzmWjre_nySQ\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLkZhYWY1dHpxdlpn",
+    "snippet": {
+      "publishedAt": "2019-11-27T16:31:18.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Divya Sasidharan | Predictive Prefetching | performance.now() 2019",
+      "description": "Some of the most cutting edge and effective web performance optimizations, like prefetch and preconnect, involve being proactive. We make predictions to determine where a user is likely to go next and load resources ahead of time so page load is as fast as possible. This is where machine learning comes in handy. By training a machine learning model (maybe a markov chain?) with current analytics data, we can take the guess work our of our predictions and more accurately load resources ahead of time. In this talk, we will examine techniques currently being developed, like GuessJS to make predictive prefetching a reality.\n\nSlides: https://noti.st/shortdiv/jsHO3Z\nAbout Divya: http://shortdiv.com/\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Faaf5tzqvZg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Faaf5tzqvZg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Faaf5tzqvZg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Faaf5tzqvZg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Faaf5tzqvZg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Faaf5tzqvZg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/szUTrB4JagLcS9Zq2NsZmHeNwUs\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLnNnanh1aEZRa3RF",
+    "snippet": {
+      "publishedAt": "2019-11-27T12:21:35.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Patrick Meenan | HTTP/2 priorities | performance.now() 2019",
+      "description": "Patrick will dive into the details of HTTP/2 prioritization, how it interacts with the browser and your content and how to get the most out of it. He will also explore the various ways it can go wrong in a production environment and how to validate your deployment to make sure it is working optimally. He will also explore recent developments with HTTP/3 and the changes that will bring to the table.\n\nSlides: https://www.slideshare.net/patrickmeenan/http2-prioritization\nAbout Pat: https://twitter.com/patmeenan\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sgjxuhFQktE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sgjxuhFQktE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sgjxuhFQktE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sgjxuhFQktE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sgjxuhFQktE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sgjxuhFQktE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Kck7ARPa_F-z5iGioR9vxpCld7o\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLmNYTE9JSUoxVWFF",
+    "snippet": {
+      "publishedAt": "2019-11-27T12:07:30.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Harry Roberts | From Milliseconds to Millions: The Numbers Driving Web Perf | performance.now() 2019",
+      "description": "We all know performance is big business, but how big? Let’s take a look at some of the numbers powering the web performance industry from both sides of the table. What do performance improvements mean for my clients, and how do we translate that into a working relationship?\n\nSlides: https://speakerdeck.com/csswizardry/from-milliseconds-to-millions-a-look-at-the-numbers-powering-web-performance\nAbout Harry: https://csswizardry.com/\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cXLOIIJ1UaE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cXLOIIJ1UaE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cXLOIIJ1UaE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cXLOIIJ1UaE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cXLOIIJ1UaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cXLOIIJ1UaE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/h1oXodQHgtKiwzICQfrN7UojkWk\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLnZ0SWZWUHRONmlv",
+    "snippet": {
+      "publishedAt": "2019-11-26T11:32:13.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Ilya Grigorik | performance.now().reject(reasons) | performance.now() 2019",
+      "description": "Are we there yet? We’ve been at this make-performance-happen-now game for over a decade but the progress is slow: adoption of basic best practices (e.g. optimizing images, optimizing critical path, etc) is a struggle; inconsistent adoption of HTTP/2 priorities signals industry hurdles we didn’t account for; we’re back at the drawing board on key performance primitives (e.g. prefetch and prerender) that were supposed to save the day. Why, what are the reasons, and what can we do to improve our odds as we head into the new decade? Let’s talk.\n\nSlides: https://docs.google.com/presentation/d/18KW9c8ywYvMVsXVwU-Llvc1nEX40y9Fj3VBAkHRKs_4/present\nAbout Ilya: https://twitter.com/igrigorik\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vtIfVPtN6io/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vtIfVPtN6io/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vtIfVPtN6io/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vtIfVPtN6io/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vtIfVPtN6io/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vtIfVPtN6io"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WKgANcD6oFZl5QUsHAGmA4wxf5o\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLm9tZnRWai1TRkFV",
+    "snippet": {
+      "publishedAt": "2019-11-26T11:23:40.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Emily Nakashima | Observability is for User Happiness | performance.now() 2019",
+      "description": "Within the observability community, there’s a saying, “nines don’t matter if users aren’t happy,” meaning that 99.999% server uptime is a pointless goal if our customers aren’t having a fast, smooth, productive experience. But how do we know if users are happy? As members of the web performance community, we’ve been thinking about the best ways to answer that question for years. Now the observability community is asking the same questions, but coming at them from the opposite side of the stack. What can we learn from each other? Emily will talk about how approaching web performance through the lens of observability has changed the way her team thinks about performance instrumentation and optimization. She’ll cover the nuts & bolts of how Honeycomb instrumented its customer-facing web app, and she’ll show how the Honeycomb team is using this data to find and fix some of its trickiest performance issues, optimize customer productivity, and drive the design of new features.\n\nSlides: https://www.slideshare.net/secret/8vuEwmvWgoCNyv\nAbout Emily: https://twitter.com/eanakashima\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/omftVj-SFAU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/omftVj-SFAU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/omftVj-SFAU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/omftVj-SFAU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/omftVj-SFAU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "omftVj-SFAU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hzELljDqraQCdlqydFtrAKH-v_w\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLkh6c184ZTNYaGhj",
+    "snippet": {
+      "publishedAt": "2019-11-26T09:31:06.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Tatiana Mac | How Privilege Defines Performance | performance.now() 2019",
+      "description": "In theory, web performance, accessibility, and inclusive design all have similar goals: Provide the best, most consistent experience to all people using the minimal amount of resources.\n\nIn practice, this often falls apart.\n\nProduct creators define what it means to be performant from where they stand, which is typically from places of privilege with unseen biases, struggling to find true empathy with their users.\n\nThrough this talk, we’ll examine how to build conscientiously, looking within to resist systematic problems in order to create more truly performant, accessible, and inclusive systems for our users.\n\nSlides: https://slides.com/tatianamac/how-privilege-defines-performance/fullscreen/\nAbout Tatiana: https://tatianamac.com/\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Hzs_8e3Xhhc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Hzs_8e3Xhhc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Hzs_8e3Xhhc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Hzs_8e3Xhhc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Hzs_8e3Xhhc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Hzs_8e3Xhhc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6S3h-slvdwwglK7ZPjfsah_0ZRc\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLlo2WmhJQThpXzhn",
+    "snippet": {
+      "publishedAt": "2019-11-25T20:00:12.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Patrick Hamann | WebAssembly – To the browser and beyond! | performance.now() 2019",
+      "description": "WebAssembly (or Wasm) is a compilation target for the open web; often considered a hard-to-approach performance optimisation for your browser applications - but it promises to be so much more than that!\n\nIt’s beginning to reshape how, and where, our applications can run, giving us the freedom to choose whichever language is best suited for the job, and the most appropriate location to run it, be that the client, edge or server.\n\nIn this talk we’ll debunk some myths about WebAssembly and explore what it is and what it isn’t, its challenges, look at how we can use it practically in applications today, and what the future holds, both in the browser and beyond!\n\nSlides: https://noti.st/patrickhamann/uEw4zt/webassembly-to-the-browser-and-beyond\nAbout Patrick: https://twitter.com/patrickhamann\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z6ZhIA8i_8g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z6ZhIA8i_8g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z6ZhIA8i_8g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Z6ZhIA8i_8g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Z6ZhIA8i_8g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Z6ZhIA8i_8g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bhIITKpePW6PLtLxiS0G2HrH7R4\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLlNFMEhoRjRUTzBR",
+    "snippet": {
+      "publishedAt": "2019-11-25T15:45:01.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Tammy Everts | The 7 Habits of Highly Effective Performance Teams | performance.now() 2019",
+      "description": "Over the past year, Tammy has talked with companies of all types – retail, media, travel, software, and more – and all sizes – from SMBs to huge enterprises. She was inspired to see how different organizations approach creating a robust performance culture.\n\nThe one thing they all have in common is agreeing that performance culture is the single greatest success variable. Having a strong culture of performance can help:\n\n- Prevent regression\n- Reduce gatekeeping\n- Increase investment from the business\n\nTammy will share tips and best practices gleaned from scores of conversations with people and companies who are leading the way down the path to performance.\n\nSlides: https://www.slideshare.net/tammyeverts/the-7-habits-of-highly-effective-performance-teams-perfnow-2019\nAbout Tammy: https://twitter.com/tameverts\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SE0HhF4TO0Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SE0HhF4TO0Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SE0HhF4TO0Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SE0HhF4TO0Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SE0HhF4TO0Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SE0HhF4TO0Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yXB64kRBC0LvHDHkhWA0P6f2neg\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLkhDMWVWajVjUU9v",
+    "snippet": {
+      "publishedAt": "2019-11-25T12:30:11.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Henri Helvetica | A Decade of Disciplined Delivery | performance.now() 2019",
+      "description": "In 2019, we live in an age of immediacy. We make demands for speedier processes, or at the very least - less wait times. All industries and services have scrutinized operations in ways to make things as expeditious as possible.\n\nWhen writing the influential tool FireBug, Firefox’s Joe Hewitt mentioned measuring load times as an objective. The same year, some equally influential writing was released: “High Performance Web Sites”, a book by SpeedCurve’s Steve Souders. Mr Souders had introduced 14 rules for front end engineers to live by, or how he openly opined: 14 rules to faster loading web sites.\n\nJust over a decade later, the very websites we scrutinized for speed have matured, but so has the idea of speed itself. What was once a simple stopwatch measurement has turned to a metric in part proof and perception. But what of the 14 rules? “A Decade Of Disciplined Delivery” is a curious retrospective look at how the 14 rules apply today in 2019 in our quest to deliver and load resources as quickly as possible.\n\nSlides: https://www.dropbox.com/s/lfvrkzoqkecnh0h/DecadeOfDelivery_PDF.pdf?dl=0\nAbout Henri: https://twitter.com/HenriHelvetica\n\nMore about performance.now(); https://perfnow.nl or https://twitter.com/perfnowconf\nReceive conference announcements in your inbox: https://perfnow.nl/subscribe",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HC1eVj5cQOo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HC1eVj5cQOo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HC1eVj5cQOo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HC1eVj5cQOo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HC1eVj5cQOo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HC1eVj5cQOo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ww4sax6iRRVXBU71XrJLORnWzoU\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLl80dXltYmdkX2pN",
+    "snippet": {
+      "publishedAt": "2019-10-12T08:00:04.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Jared Spool | Mobile & UX: Inside the Eye of the Perfect Storm | Mobilism 2011",
+      "description": "The world of web application design is expanding at a rapid rate. We’re now expected to design great experiences across a huge variety of platforms, from small screens to large displays. The flood of iPad applications and successful online businesses are showing our executives that design matters.\n\nWhy is all this happening now? Where is it all going? UIE’s own Jared Spool will show you how four driving forces—market maturity, the emergence of experience, Kano’s model, and Sturgeon’s Law—are increasing the visibility and value of design in organizations everywhere. He’ll show you what the next generation of design teams will look like and how you’ll get there.\n\nAbout Jared: https://twitter.com/jmspool\nAbout Mobilism: https://mobilism.nl",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_4uymbgd_jM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_4uymbgd_jM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_4uymbgd_jM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_4uymbgd_jM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_4uymbgd_jM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_4uymbgd_jM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RN0UC5xwqBikLDm0dRkiRwFOam0\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLkpaZnZ6OWp4NU93",
+    "snippet": {
+      "publishedAt": "2019-10-11T08:00:02.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Nikolai Onken | The hitchhiker's guide to mobile development | Mobilism 2011",
+      "description": "Slides: https://www.slideshare.net/nonken/the-hitchhikers-guide-to-mobile-development-7969412\n\nMobile development is still pretty new to us web geeks and there are a whole lot of new challenges we face when developing our first mobile application. In this very hands on session I will give you a kick start into mobile development. I will introduce you to the available mobile runtimes, editors, build services, debugging tools, testing environments, reporting tools and finally relevant app stores. After this talk you should have a good overview of what is relevant today, what tools will do the best job for you and how you can keep building future proof mobile cross-platform applications.\n\nAbout Nikolai: https://twitter.com/nonken\nAbout Mobilism: https://mobilism.nl",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JZfvz9jx5Ow/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JZfvz9jx5Ow/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JZfvz9jx5Ow/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JZfvz9jx5Ow/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JZfvz9jx5Ow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JZfvz9jx5Ow"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5mn4OSdjtScqNmIGVNPYld2XXoQ\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLjN4RXpHZExkOW4w",
+    "snippet": {
+      "publishedAt": "2019-10-10T08:00:00.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Bryan Rieger | Muddling Through the Mobile Web | Mobilism 2011",
+      "description": "Slides: https://www.slideshare.net/yiibu/muddling-through-the-mobile-web\n\nIn merely ten years we've gone from delivering basic WAP experiences on tiny monochrome screens, to crafting simply stunning content and applications for devices many of us imagined we'd only dream of. The fact that time-to-market for many of these devices is now measured in weeks instead of years, is simply mind-blowing. Add to that the renewed and rapid evolution of web standards, and it's become increasingly difficult to find solid ground from which to move forward.\n\nThis talk will pick up where \"Rethinking the Mobile Web\" left off, looking at the evolving device ecosystem, the inherent constraints of the current web, and the need for us to continue adapting our thinking when confronted with massive change.\n\nAbout Bryan: https://bryanrieger.com\nAbout Mobilism: https://mobilism.nl",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3xEzGdLd9n0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3xEzGdLd9n0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3xEzGdLd9n0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3xEzGdLd9n0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZEzIN8mOi9j8gZc4-DtqAT9JLDw\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLk15YjNZSUtfTWhN",
+    "snippet": {
+      "publishedAt": "2019-10-09T08:00:02.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Scott Jehl | jQuery Mobile: Building tools for a changing web | Mobilism 2011",
+      "description": "Slides: https://www.filamentgroup.com/lab/jquery-mobile-and-boston-globe-at-mobilism.html\n\nScott Jehl of the jQuery Mobile team will present the challenges and philosophy of the jQuery Mobile Framework: a mobile-first JavaScript toolkit that uses progressive enhancement to embrace features of the latest browsers while maintaining universal accessibility for the many ways in which people use the web today. The session will cover the basic use cases and features of the framework, with a candid discussion of the challenges, decisions, influences, and even missteps encountered in the process of building a mobile web framework as our definition of \"mobile\" continues to evolve.\n\nAbout Scott: https://scottjehl.com\nAbout Mobilism: https://mobilism.nl",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Myb3YIK_MhM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Myb3YIK_MhM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Myb3YIK_MhM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Myb3YIK_MhM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Myb3YIK_MhM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Myb3YIK_MhM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4eTnZ21Y8t-Qedah-r_9SODSAr8\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLmxSZnN2NUJXNmZj",
+    "snippet": {
+      "publishedAt": "2019-10-08T08:00:04.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Stephen Hay | Meta Layout: a closer look at media queries | Mobilism 2011",
+      "description": "Slides: http://www.slideshare.net/stephenhay/mobilism2011\n\nIt's the layout behind the layout: in this session Stephen will dissect the media query. After a brief review of query syntax, we'll touch on logical expressions, and you'll learn which media features are relevant to mobile design and how and when these can best be used. Stephen will explore the visual and layout viewports and the viewport meta element, and how these relate to media queries. We'll discuss the pros and cons of using media queries in CSS versus within media attributes in HTML, and handle examples of each. Stephen will share his thoughts on how to use this information to develop a meta-layout strategy depending on your site's needs.\n\nAbout Stephen: http://www.the-haystack.com\nAbout Mobilism: https://mobilism.nl",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lRfsv5BW6fc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lRfsv5BW6fc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lRfsv5BW6fc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lRfsv5BW6fc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lRfsv5BW6fc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lRfsv5BW6fc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dYdxfzC5gjqH3pTA0BXkhHaqm0E\"",
+    "id": "VVV1WmVIRDVTR2VjUW9tejJwVkRIR3pnLk9TaU1feE1LUVhj",
+    "snippet": {
+      "publishedAt": "2019-10-07T08:00:04.000Z",
+      "channelId": "UCuZeHD5SGecQomz2pVDHGzg",
+      "title": "Jen Hanen | How to put the Mobile in the Mobile Web | Mobilism 2011",
+      "description": "Slides: https://www.slideshare.net/msjen/mobilism-2011-how-to-put-the-mobile-in-the-mobile-web\n\nMedia queries, server-side or client-side sniffers, how do we determine if the user is a mobile or desktop device? This tech talk will discuss which is the right solution(s) and how to implement it taking into consideration the various mobile user's browser capacity, bandwidth restrictions, as well as user choice.\n\nAbout Jen: https://blackphoebe.com\nAbout Mobilism: https://mobilism.nl",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OSiM_xMKQXc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OSiM_xMKQXc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OSiM_xMKQXc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OSiM_xMKQXc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OSiM_xMKQXc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Web Conferences Amsterdam",
+      "playlistId": "UUuZeHD5SGecQomz2pVDHGzg",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OSiM_xMKQXc"
+      }
+    }
+  }
+]

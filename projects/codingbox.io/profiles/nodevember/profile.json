@@ -1,0 +1,62 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MXIujXoUcj1VVZM1N3-d8zwRgTU\"",
+      "id": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "snippet": {
+        "title": "Nodevember",
+        "description": "Nodevember is a two-day conference touching on all aspects of JavaScript programming. \nThe conference includes seminars, workshops, tutorials, code sprints, and lightning talks.",
+        "publishedAt": "2014-11-16T15:29:00.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy-p4L54VbijFgqS6ABl_yzmpM75Z8Y15JECg=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy-p4L54VbijFgqS6ABl_yzmpM75Z8Y15JECg=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy-p4L54VbijFgqS6ABl_yzmpM75Z8Y15JECg=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Nodevember",
+          "description": "Nodevember is a two-day conference touching on all aspects of JavaScript programming. \nThe conference includes seminars, workshops, tutorials, code sprints, and lightning talks."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU7z0nOE8ITfrGnXJgNzYaEQ"
+  },
+  "displayName": "Nodevember",
+  "description": "Nodevember is a two-day conference touching on all aspects of JavaScript programming. \nThe conference includes seminars, workshops, tutorials, code sprints, and lightning talks.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy-p4L54VbijFgqS6ABl_yzmpM75Z8Y15JECg=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy-p4L54VbijFgqS6ABl_yzmpM75Z8Y15JECg=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy-p4L54VbijFgqS6ABl_yzmpM75Z8Y15JECg=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

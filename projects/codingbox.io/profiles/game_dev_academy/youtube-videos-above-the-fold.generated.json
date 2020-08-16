@@ -1,0 +1,892 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/q7Gx-oCOYsO9lMiU-8lsd5dzkw8\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLjQ5SWlWVjRjQWRV",
+    "snippet": {
+      "publishedAt": "2020-04-12T21:07:22.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "How to Export 3D Models FROM UE4 | Unreal Engine 4 Tutorial",
+      "description": "In this video tutorial I show you how you can export 3D models and assets from Unreal Engine 4 so that you can edit them in another package such as Maya, 3DS Max or Blender. This can be really helpful if you want to make changes to assets that you got from the Epic Marketplace. \n\nWant to support my work and become a Game Dev Academy governor? Then check out the Patreon page & come and join us! ►► https://www.patreon.com/shanewhittington\n\nSupport Game Dev Academy by buying some of our cool stuff! ►► https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n==========================\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/49IiVV4cAdU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/49IiVV4cAdU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/49IiVV4cAdU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/49IiVV4cAdU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/49IiVV4cAdU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "49IiVV4cAdU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xw3n9NxJQcTKz4Ci2vF17e2L1eo\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLmVOZzNIRUVzUzA0",
+    "snippet": {
+      "publishedAt": "2020-03-11T14:00:12.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "3D SCANNING With Your PHONE - to create a GAME LEVEL | Display.Land // Maya // UE4",
+      "description": "In this sponsored video I look at 3D scanning using a smart phone - also known as photogrammetry - using Display.Land, a cool app that turns your scans into detailed and fully textured 3D models. The app is available on both iPhone and Android. To test out the app I quickly and easily scan some objects in a forest and then use them to create a level in Unreal Engine 4 - after some optimization in Maya. This was a fun video to make - hope you enjoy it :)\n\nCheck out Display.Land for free here: https://displayland.app.link/GameDevAcademy\nYou can also check out their youtube channel, DisplaylandHQ here: https://www.youtube.com/channel/UCd8I46id4VBXBTJ8ySb4KmQ\n\nIf you want to continue learning about 3D scanning and photogrammetry, get a *free 10 day trial to Pluralsight* and check out the course I mentioned in the video here: https://pluralsight.pxf.io/Wk7k3\n\nWant to support my work and become a Game Dev Academy governor? Then check out the Patreon page & come and join us! ►► https://www.patreon.com/shanewhittington\n\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n\n····················································································\n\nGame Dev Academy Discord: http://bit.ly/GDAdiscord\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eNg3HEEsS04/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eNg3HEEsS04/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eNg3HEEsS04/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eNg3HEEsS04"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0Hk-wIzox6O8rbFrVV2tGj3qqf0\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLjFBZlZCVnVadHJR",
+    "snippet": {
+      "publishedAt": "2020-02-11T22:28:26.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "How to Fix Messy Topology FAST Using Maya 2020",
+      "description": "In this short video tutorial, I show you how to use the retopologize tool in Maya 2020 to correct any messy topology you may have in your 3D models. This is really powerful for restoring edge flow, quadrangulating your mesh and for redistributing geometry evenly. Give it a try!\n\nWant to support my work and become a Game Dev Academy governor? Then check out the Patreon page & come and join us! ►► https://www.patreon.com/shanewhittington\n\nIf you want to continue learning Maya beyond this tutorial then you should check out Pluralsight. They have a fantastic range of courses on Maya ranging from absolute beginner to expert. Use this link for a 10 day free trial ►► https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fbrowse%2Fcreative-professional%2F3d-vfx%2Fmaya (affiliate link)\n\nYou will need a copy of Maya in order to complete this Maya tutorial. Click here to learn how to download Maya for free ►► https://youtu.be/xSDGgZyL0W8\n\nSupport Game Dev Academy by buying some of our cool stuff! ►► https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n==========================\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1AfVBVuZtrQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1AfVBVuZtrQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1AfVBVuZtrQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1AfVBVuZtrQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1AfVBVuZtrQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1AfVBVuZtrQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8FUh_kmRl2WexQDdBV_FL88EXdo\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLndTQk5KM2lwb1Jz",
+    "snippet": {
+      "publishedAt": "2020-02-10T19:00:14.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "The Best Desk Lamp for Creative Professionals? BenQ ScreenBar Plus Review",
+      "description": "In this video I take a look at the ScreenBar Plus from BenQ. This sleek little lamp sits on top of your monitor using a clever weighted clip and projects light down onto your desk. This reduces screen glare and strain on your eyes. \n\nCheck out the ScreenBar Plus on Amazon: https://amzn.to/377WgD1 (affiliate link)\n\nWant to support my work and become a Game Dev Academy governor? Then check out the Patreon page & come and join us! ►► https://www.patreon.com/shanewhittington\n\nSupport Game Dev Academy by buying some of our cool stuff - including the shirt I'm wearing in this video! ►► https://shop.spreadshirt.co.uk/game-dev-academy-store",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wSBNJ3ipoRs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wSBNJ3ipoRs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wSBNJ3ipoRs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wSBNJ3ipoRs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wSBNJ3ipoRs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wSBNJ3ipoRs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BI_aLc19ZKqYK6Kyi6mFK7XCucY\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLnhTREdnWnlMMFc4",
+    "snippet": {
+      "publishedAt": "2020-01-28T21:17:56.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "How to get MAYA 2020 for FREE",
+      "description": "In this video you'll learn how to get Autodesk Maya 2019 3D modeling and 3D animation software for free through Autodesk education on a 3 year student license. \nPlease like and subscribe if you found this useful :)\n\nHere's the link to the Autodesk Education site - http://www.autodesk.com/education/free-software/all \n\n***Click here for Maya beginners tutorial - https://youtu.be/tElsku3aKQI ***\n\n***Or check out the fantastic Maya courses on Pluralsight. Use this link for a 10 day free trial - https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fbrowse%2Fcreative-professional%2F3d-vfx%2Fmaya (affiliate link)***\n\nHere's the link to the Autodesk Education site - http://www.autodesk.com/education/free-software/all \n\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\nWant to get 3ds Max for free? Here's how - https://youtu.be/DH0vEqmoVQI\n\n\n\n····················································································\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xSDGgZyL0W8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xSDGgZyL0W8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xSDGgZyL0W8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xSDGgZyL0W8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xSDGgZyL0W8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xSDGgZyL0W8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YerGFiAVjVQxRbgnApgdllSIyd4\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLlJMQXZ0d1h0Z2JV",
+    "snippet": {
+      "publishedAt": "2019-12-23T16:53:05.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "And The Winner Is.... The 12 Days of Lowpolymas",
+      "description": "Here are the entries and the winner of the 12 Days of Lowpolymas Christmas contest. \n\nThanks to everyone who took part. \n\nFollow Game Dev Academy on Twitter: https://twitter.com/mediatutor (you'll need to submit your entry via Twitter!)\n\n♥ Want to support me to make more video like this one? Become a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RLAvtwXtgbU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RLAvtwXtgbU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RLAvtwXtgbU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RLAvtwXtgbU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RLAvtwXtgbU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RLAvtwXtgbU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oR5Z2lgAKommpbwXKHaF1MhCees\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLk11VFE1NkNwRjhz",
+    "snippet": {
+      "publishedAt": "2019-12-13T22:45:56.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "Low Poly Christmas Tree: Timelapse - Maya 2019 Under 200 Tris",
+      "description": "Here's a timelapse video of the creation of a low poly Christmas tree created in Maya 2019 and using Photoshop to create a 32x32 texture. This was created to give everyone an idea of the sort of models that could be created for the 12 Days of Lowpolymas contest that is running until the 20th of December. Watch this video for more details: https://www.youtube.com/watch?v=EVtJOgVmKmo\n\nMusic: \nThe Darkness - Christmas Time (Don't Let The Bells End) 8-bit - youtube.com/watch?v=jE8WbtSYDxE\nThe Pogues and Kirsty MacColl - Fairytale of New York (8-Bit Remix) - https://www.youtube.com/watch?v=6STBxHRH7bI\nGive these guys a sub ^^\n\nFollow Game Dev Academy on Twitter: https://twitter.com/mediatutor (you'll need to submit your entry via Twitter!)\n\r\n\n♥ Want to support me to make more video like this one? Become a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\r\n\n\r\n\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MuTQ56CpF8s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MuTQ56CpF8s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MuTQ56CpF8s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MuTQ56CpF8s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MuTQ56CpF8s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MuTQ56CpF8s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bPmYQSwFtNEduuU8E8Z872xJTSk\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLkVWdEpPZ1ZtS21v",
+    "snippet": {
+      "publishedAt": "2019-12-09T14:00:04.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "3D Modelling CONTEST - The 12 Days of Lowpolymas!",
+      "description": "It's time for the first ever Game Dev Academy contest! In this video I explain what the contest is and how to enter. If you want to read the rules for yourself, click here:\nI can't wait to see what you create for the 12 Days of Lowpolymas!!!\n\nYou can read the full rules for the contest here: https://docs.google.com/document/d/1R4MiSDW0x-sD2XcirOqTyp9V3KpEkYLmxM6vrAEqKLA/edit?usp=sharing\n\nFollow Game Dev Academy on Twitter: https://twitter.com/mediatutor (you'll need to submit your entry via Twitter!)\n\n♥ Want to support me to make more video like this one? Become a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EVtJOgVmKmo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EVtJOgVmKmo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EVtJOgVmKmo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EVtJOgVmKmo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EVtJOgVmKmo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EVtJOgVmKmo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NpIIXRasyepxdEjnLntJPC2rRVk\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLjBDd3VkS2hNV1Qw",
+    "snippet": {
+      "publishedAt": "2019-11-28T14:00:00.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "Texture Your Scenes FAST & FOR FREE with QUIXEL MEGASCANS & BRIDGE",
+      "description": "In this video I take a look at Quixel Megascans assets using their Bridge application. It's unbelievably quick to import amazing materials and assets into your projects with only a few clicks. This will save hours! You can check out Quixel tools for yourself here: https://quixel.com/\n\n♥ Want to support me to make more video like this one? Become a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n····················································································\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0CwudKhMWT0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0CwudKhMWT0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0CwudKhMWT0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0CwudKhMWT0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0CwudKhMWT0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0CwudKhMWT0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yTNp1f_LGh0zclp26NQ_3DjQCcw\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLjB1S0g0UzdRRDQ0",
+    "snippet": {
+      "publishedAt": "2019-11-06T20:55:29.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "How to Get SUBSTANCE PAINTER 2019 for FREE",
+      "description": "In this video you'll learn how to get Substance Painter 2019 (as well as Substance Designer and Substance Alchemist) 3D painting and texturing software for free directly from Allegorithmic on a 3 year student license. This is the full version - you do not need a crack or a dodgy serial number!\nPlease like and subscribe if you found this useful :)\n\nHere's the link to the Substance for education site - https://www.substance3d.com/education/\n\n***Check out the fantastic Substance Painter Fundamentals course on Pluralsight. Use this link for a 10 day free trial - https://pluralsight.pxf.io/eG5Or (affiliate link)***\n\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\nHere's how to get Maya 2020 for free too! - https://youtu.be/xSDGgZyL0W8\nWant to get 3ds Max for free? Here's how - https://youtu.be/DH0vEqmoVQI\n\n\n\n····················································································\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0uKH4S7QD44/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0uKH4S7QD44/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0uKH4S7QD44/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0uKH4S7QD44/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0uKH4S7QD44/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0uKH4S7QD44"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SY8KIjY__5xnSFTj9d4cVaZslac\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLkR4cnh2eXVEMGNB",
+    "snippet": {
+      "publishedAt": "2019-10-03T13:00:04.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "How to Create AMAZING TERRAIN in MAYA - Quick & Easy!",
+      "description": "Learn how to create terrain & landscapes in Maya 2019 using Easy Terrain 2! This plugin makes is really quick and easy to create professional looking terrain in minutes. \n\nCheck out the Easy Terrain 2 plugin here: https://gumroad.com/a/1048425587/ZHLJWl (affiliate link)\n\n***Click here for Maya beginners tutorial - https://youtu.be/tElsku3aKQI***\n\n***Or check out the fantastic Maya courses on Pluralsight. Use this link for a 10 day free trial - https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fbrowse%2Fcreative-professional%2F3d-vfx%2Fmaya (affiliate link)***\n\nHere's how to get Maya 2020 for free! https://youtu.be/xSDGgZyL0W8\n\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n····················································································\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DxrxvyuD0cA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DxrxvyuD0cA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DxrxvyuD0cA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DxrxvyuD0cA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DxrxvyuD0cA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DxrxvyuD0cA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ukbki_DUlGKVZRwqmr920qdLvwU\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLkh1dXVBLXFtaDcw",
+    "snippet": {
+      "publishedAt": "2019-09-13T13:00:15.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "The Intuitive Design of Journey",
+      "description": "Some games tell the player where they need to go and what they need to do on an intuitive level. One game that does this really well is thatgamecompany's Journey. In this video I'll analyse Journey to show you how the designers make sure that the player always know what to do next. \n\n♥ Due to the use of gameplay & music from Journey, this video cannot be monetised. Want to support me to make more video like this one? Become a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n\nWant to learn to make your own games? Check out my Unreal Engine 4 Tutorial video here: https://youtu.be/icR_EgXrS6o\n\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HuuuA-qmh70/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HuuuA-qmh70/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HuuuA-qmh70/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HuuuA-qmh70/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HuuuA-qmh70/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HuuuA-qmh70"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9k5DJ5_FN-x7vZAjPa5jWiexKZ8\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLmljUl9FZ1hyUzZv",
+    "snippet": {
+      "publishedAt": "2019-08-19T19:00:04.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "Unreal Engine 4 Blueprint Tutorial for Beginners",
+      "description": "In this free Unreal Engine 4 for beginners tutorial video you will learn everything you need to know to create your first game in Unreal Engine 4. Topics covered include setting up a project, adding inputs for controlling the game - including touchscreen controls, using Blueprints, importing art assets, using destructible meshes and adding audio. By the time you have completed the exercise you will have created a fully working castle themed Breakout game!\n\n♥ You can access the assets used for this tutorial here: https://gumroad.com/l/AVmjX\n\n♥ This tutorial builds upon many of the skills covered in my previous Unreal Engine 4 for Beginners tutorial which you can access here: https://youtu.be/a0qNO6_xPx0\n\n♥ This tutorial has been made freely available on YouTube because I believe that quality education should be freely available to everyone. Want to support me in my mission?\nBecome a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\nIf you want to take your learning beyond what I have been able to cover in my videos then I recommend checking out the following:\nUnreal Engine 4 Blueprints Fundamentals: Pluralsight Course - Use this link for 10 day free trial! https://pluralsight.pxf.io/zvdGe (affiliate link)\n\nOr, if you prefer learning from books then you should check these out:\nUS Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2sfwQAb (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rFPoNc (affiliate link)\nBooks - UK Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2rQSN7H (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rQOlpM (affiliate link)\n\nYou will need to have Unreal Engine 4 installed on your PC in order to follow these videos. Check out this video to learn how to download and install Unreal Engine 4 - https://youtu.be/wSESd1EaJt4\n\n\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/icR_EgXrS6o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/icR_EgXrS6o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/icR_EgXrS6o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/icR_EgXrS6o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/icR_EgXrS6o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "icR_EgXrS6o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/38_EVlm_xIgkEtIgX2CI8p6dwnY\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLjJodTBtcU5KUXM0",
+    "snippet": {
+      "publishedAt": "2019-08-13T19:00:01.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "How to MOTION CAPTURE using your PHONE | RADiCAL Motion Tutorial",
+      "description": "In this video I'll show you RADiCAL Motion, which allows you to do motion capture using only your mobile phone and their AI will create an animated skeleton for you to transfer the animation onto your own characters. \n\nYou can check out RADiCAL Motion here: https://getrad.co\n\n♥ Get the UE4 mannequin here: https://wiki.unrealengine.com/File:ThirdPerson_FBX.zip\n♥ This tutorial and supporting material are currently provided 100% for free. I believe that education should be freely available to all. Want to support me in my mission?\nBecome a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n\n► Never used Unreal Engine 4 before? Check out my Unreal Engine 4 for Beginners tutorial here: https://youtu.be/a0qNO6_xPx0\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n► If you want to take your learning beyond what I have been able to cover in my videos then I recommend checking out the following:\nIntroduction to Unreal Engine 4: Pluralsight Course - Use this link for 10 day free trial! https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fintroduction-unreal-engine-4-1609 (affiliate link)\n\n► Or, if you prefer learning from books then you should check these out:\nUS Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2sfwQAb (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rFPoNc (affiliate link)\nBooks - UK Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2rQSN7H (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rQOlpM (affiliate link)\n\n····················································································\n\nGame Dev Academy Discord: http://bit.ly/GDAdiscord\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2hu0mqNJQs4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2hu0mqNJQs4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2hu0mqNJQs4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2hu0mqNJQs4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2hu0mqNJQs4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2hu0mqNJQs4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eEJb2gykosGXu1l3C-eMhQHZW1U\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLmRaeUJxM2gyOXBJ",
+    "snippet": {
+      "publishedAt": "2019-07-20T12:00:08.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "Announcement",
+      "description": "Just a quick update to let you know where the rest of this tutorial series is. It is coming soon - I promise :) I've already recorded the next 8 or 9 steps and I'll be recording more next week. \n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n► If you want to take your learning beyond what I have been able to cover in my videos then I recommend checking out the following:\nIntroduction to Unreal Engine 4: Pluralsight Course - Use this link for 10 day free trial! https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fintroduction-unreal-engine-4-1609 (affiliate link)\n\n► Or, if you prefer learning from books then you should check these out:\nUS Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2sfwQAb (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rFPoNc (affiliate link)\nBooks - UK Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2rQSN7H (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rQOlpM (affiliate link)\n\n····················································································\n\nGame Dev Academy Discord: http://bit.ly/GDAdiscord\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dZyBq3h29pI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dZyBq3h29pI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dZyBq3h29pI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dZyBq3h29pI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dZyBq3h29pI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dZyBq3h29pI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-3ebqMr_iFCVc26rAUxsw-6zUtw\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLjl3ckZuSjJueW1B",
+    "snippet": {
+      "publishedAt": "2019-07-20T11:00:00.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "#20 Reset the Game after Game Over | Unreal Engine 4 Beginner Tutorial",
+      "description": "In this part of my free Unreal Engine 4 for beginners tutorial video series you will create learn how to reset the game once the player has lost all of their lives. \n\nWatch this tutorial series as one long video: https://youtu.be/icR_EgXrS6o\n\n♥ Get the resources used in this tutorial series here: https://gumroad.com/l/AVmjX\n♥ This tutorial and supporting material are currently provided 100% for free. I believe that education should be freely available to all. Want to support me in my mission?\nBecome a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n► You will need to have Unreal Engine 4 installed on your PC in order to follow these videos. Check out this video to learn how to download and install Unreal Engine 4 - https://youtu.be/wSESd1EaJt4\n► Never used Unreal Engine 4 before? Check out my Unreal Engine 4 for Beginners tutorial here: https://youtu.be/a0qNO6_xPx0\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n► If you want to take your learning beyond what I have been able to cover in my videos then I recommend checking out the following:\nIntroduction to Unreal Engine 4: Pluralsight Course - Use this link for 10 day free trial! https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fintroduction-unreal-engine-4-1609 (affiliate link)\n\n► Or, if you prefer learning from books then you should check these out:\nUS Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2sfwQAb (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rFPoNc (affiliate link)\nBooks - UK Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2rQSN7H (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rQOlpM (affiliate link)\n\n····················································································\n\nGame Dev Academy Discord: http://bit.ly/GDAdiscord\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9wrFnJ2nymA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9wrFnJ2nymA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9wrFnJ2nymA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9wrFnJ2nymA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9wrFnJ2nymA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9wrFnJ2nymA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ReKXPTaEVnZ_HR4ETH0JfeLwKNw\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLjBVbVlYdWlqbXc0",
+    "snippet": {
+      "publishedAt": "2019-07-17T11:00:11.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "#19 Create Game Over Screen | UE4 Tutorial for Beginners",
+      "description": "This video is sponsored by Out-of-the-Box Plugins. To get a free trial of their Clean Project plugin, simply sign up to their newsletter using the following link: https://outofthebox-plugins.com/pages/email-landing\n\nIn this part of my free Unreal Engine 4 for beginners tutorial video series you will create the game over message that will be displayed on the HUD and you will make this display once the player has lost all of their lives. \nWatch this tutorial series as one long video: https://youtu.be/icR_EgXrS6o\n\n♥ Get the resources used in this tutorial series here: https://gumroad.com/l/AVmjX\n♥ This tutorial and supporting material are currently provided 100% for free. I believe that education should be freely available to all. Want to support me in my mission?\nBecome a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n► You will need to have Unreal Engine 4 installed on your PC in order to follow these videos. Check out this video to learn how to download and install Unreal Engine 4 - https://youtu.be/wSESd1EaJt4\n► Never used Unreal Engine 4 before? Check out my Unreal Engine 4 for Beginners tutorial here: https://youtu.be/a0qNO6_xPx0\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n► If you want to take your learning beyond what I have been able to cover in my videos then I recommend checking out the following:\nIntroduction to Unreal Engine 4: Pluralsight Course - Use this link for 10 day free trial! https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fintroduction-unreal-engine-4-1609 (affiliate link)\n\n► Or, if you prefer learning from books then you should check these out:\nUS Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2sfwQAb (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rFPoNc (affiliate link)\nBooks - UK Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2rQSN7H (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rQOlpM (affiliate link)\n\n····················································································\n\nGame Dev Academy Discord: http://bit.ly/GDAdiscord\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0UmYXuijmw4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0UmYXuijmw4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0UmYXuijmw4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0UmYXuijmw4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0UmYXuijmw4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0UmYXuijmw4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WvmVphGy0C2hcB86WZEWj5iqP-U\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLllZZDRNUUJQRlIw",
+    "snippet": {
+      "publishedAt": "2019-07-14T10:54:20.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "#18 Create Game Over Behaviour | Unreal Engine 4 Beginner Tutorial",
+      "description": "In this part of my free Unreal Engine 4 for beginners tutorial video series you will learn how to track the amount of lives the player has left. Once this number reaches 0 you will then create and run the game over script. \n\nWatch this tutorial series as one long video: https://youtu.be/icR_EgXrS6o\n\n♥ Get the resources used in this tutorial series here: https://gumroad.com/l/AVmjX\n♥ This tutorial and supporting material are currently provided 100% for free. I believe that education should be freely available to all. Want to support me in my mission?\nBecome a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n► You will need to have Unreal Engine 4 installed on your PC in order to follow these videos. Check out this video to learn how to download and install Unreal Engine 4 - https://youtu.be/wSESd1EaJt4\n► Never used Unreal Engine 4 before? Check out my Unreal Engine 4 for Beginners tutorial here: https://youtu.be/a0qNO6_xPx0\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n► If you want to take your learning beyond what I have been able to cover in my videos then I recommend checking out the following:\nIntroduction to Unreal Engine 4: Pluralsight Course - Use this link for 10 day free trial! https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fintroduction-unreal-engine-4-1609 (affiliate link)\n\n► Or, if you prefer learning from books then you should check these out:\nUS Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2sfwQAb (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rFPoNc (affiliate link)\nBooks - UK Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2rQSN7H (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rQOlpM (affiliate link)\n\n····················································································\n\nGame Dev Academy Discord: http://bit.ly/GDAdiscord\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YYd4MQBPFR0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YYd4MQBPFR0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YYd4MQBPFR0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YYd4MQBPFR0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YYd4MQBPFR0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YYd4MQBPFR0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xuduxU65CEVZava4OI8v_8OHur0\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLm5YTGgxZlZIZ3FJ",
+    "snippet": {
+      "publishedAt": "2019-07-10T13:00:08.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "#17 Display Score in the HUD | UE4 Blueprint Tutorial for Beginners",
+      "description": "In this part of my free Unreal Engine 4 for beginners tutorial video series you will build on the skills learned in the previous video to get the points to be counted and shown on screen. \nWatch this tutorial series as one long video: https://youtu.be/icR_EgXrS6o\n\n♥ Get the resources used in this tutorial series here: https://gumroad.com/l/AVmjX\n♥ This tutorial and supporting material are currently provided 100% for free. I believe that education should be freely available to all. Want to support me in my mission?\nBecome a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n► You will need to have Unreal Engine 4 installed on your PC in order to follow these videos. Check out this video to learn how to download and install Unreal Engine 4 - https://youtu.be/wSESd1EaJt4\n► Never used Unreal Engine 4 before? Check out my Unreal Engine 4 for Beginners tutorial here: https://youtu.be/a0qNO6_xPx0\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n► If you want to take your learning beyond what I have been able to cover in my videos then I recommend checking out the following:\nIntroduction to Unreal Engine 4: Pluralsight Course - Use this link for 10 day free trial! https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fintroduction-unreal-engine-4-1609 (affiliate link)\n\n► Or, if you prefer learning from books then you should check these out:\nUS Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2sfwQAb (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rFPoNc (affiliate link)\nBooks - UK Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2rQSN7H (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rQOlpM (affiliate link)\n\n····················································································\n\nGame Dev Academy Discord: http://bit.ly/GDAdiscord\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nXLh1fVHgqI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nXLh1fVHgqI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nXLh1fVHgqI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nXLh1fVHgqI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nXLh1fVHgqI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nXLh1fVHgqI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JNY8mGtOwsg39f7Ptkg287Y1wN0\"",
+    "id": "VVVPZUI3aU1MNUpRUE9RamJ3RFdIWFNnLjVaQVhQMjhFRl9V",
+    "snippet": {
+      "publishedAt": "2019-07-03T13:00:00.000Z",
+      "channelId": "UCOeB7iML5JQPOQjbwDWHXSg",
+      "title": "#16 Display Lives Left in the HUD | UE4 Blueprint Tutorial for Beginners",
+      "description": "In this part of my free Unreal Engine 4 for beginners tutorial video series you will learn how to get the HUD to display dynamic information such as how many lives are left.\nWatch this tutorial series as one long video: https://youtu.be/icR_EgXrS6o\n\n♥ Get the resources used in this tutorial series here: https://gumroad.com/l/AVmjX\n♥ This tutorial and supporting material are currently provided 100% for free. I believe that education should be freely available to all. Want to support me in my mission?\nBecome a Game Dev Academy governor by supporting my work on Patreon: https://www.patreon.com/shanewhittington\n♥ Join the Game Dev Academy Discord & get sorted into your Game Dev Academy house! - http://bit.ly/GDAdiscord ♥\n\n► You will need to have Unreal Engine 4 installed on your PC in order to follow these videos. Check out this video to learn how to download and install Unreal Engine 4 - https://youtu.be/wSESd1EaJt4\n► Never used Unreal Engine 4 before? Check out my Unreal Engine 4 for Beginners tutorial here: https://youtu.be/a0qNO6_xPx0\n\n♥ Want to show your support for Game Dev Academy? Check out our merch! https://shop.spreadshirt.co.uk/game-dev-academy-store\n\n► If you want to take your learning beyond what I have been able to cover in my videos then I recommend checking out the following:\nIntroduction to Unreal Engine 4: Pluralsight Course - Use this link for 10 day free trial! https://pluralsight.pxf.io/c/1197846/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fintroduction-unreal-engine-4-1609 (affiliate link)\n\n► Or, if you prefer learning from books then you should check these out:\nUS Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2sfwQAb (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rFPoNc (affiliate link)\nBooks - UK Links\nAn Introduction to Unreal Engine 4 - http://amzn.to/2rQSN7H (affiliate link)\nUnreal Engine 4 Game Development Essentials - http://amzn.to/2rQOlpM (affiliate link)\n\n····················································································\n\nGame Dev Academy Discord: http://bit.ly/GDAdiscord\nConnect with me on Linkedin: https://uk.linkedin.com/in/shane-whittington-76175a62\nLike my Facebook page: https://www.facebook.com/OnlineMediaTutor\nFollow me on Twitter: https://twitter.com/mediatutor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5ZAXP28EF_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5ZAXP28EF_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5ZAXP28EF_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5ZAXP28EF_U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5ZAXP28EF_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Game Dev Academy",
+      "playlistId": "UUOeB7iML5JQPOQjbwDWHXSg",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5ZAXP28EF_U"
+      }
+    }
+  }
+]

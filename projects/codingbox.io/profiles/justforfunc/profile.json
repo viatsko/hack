@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mQTgZtDfjGMCt4D0ceP1aPbTmpU\"",
+      "id": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "snippet": {
+        "title": "justforfunc: Programming in Go",
+        "description": "Series of talk recordings and screencasts mainly about Go and the Google Cloud Platform\n\nContents:\n- Go Programming Language\n- Google Cloud Platform",
+        "customUrl": "justforfunc",
+        "publishedAt": "2012-11-22T05:09:14.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy6flZVP04X2O3JpjGlp1ShtHGrK4oCZ6W-gg=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy6flZVP04X2O3JpjGlp1ShtHGrK4oCZ6W-gg=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy6flZVP04X2O3JpjGlp1ShtHGrK4oCZ6W-gg=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "justforfunc: Programming in Go",
+          "description": "Series of talk recordings and screencasts mainly about Go and the Google Cloud Platform\n\nContents:\n- Go Programming Language\n- Google Cloud Platform"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UU_BzFbxG2za3bp5NRRRXJSw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU_BzFbxG2za3bp5NRRRXJSw"
+  },
+  "displayName": "justforfunc: Programming in Go",
+  "description": "Series of talk recordings and screencasts mainly about Go and the Google Cloud Platform\n\nContents:\n- Go Programming Language\n- Google Cloud Platform",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy6flZVP04X2O3JpjGlp1ShtHGrK4oCZ6W-gg=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy6flZVP04X2O3JpjGlp1ShtHGrK4oCZ6W-gg=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy6flZVP04X2O3JpjGlp1ShtHGrK4oCZ6W-gg=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

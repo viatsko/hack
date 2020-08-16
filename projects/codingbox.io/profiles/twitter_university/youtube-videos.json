@@ -1,0 +1,4267 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g4Ut-Ex4Pm61j2w1sdTfnXxkPZ8\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLldFZ0Nqd3lYdndj",
+    "snippet": {
+      "publishedAt": "2017-01-17T22:40:18.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "How We Learned to Stop Worrying and Love Fan-In at Twitter",
+      "description": "Twitter's massive write-time and nearly-instantaneous Tweet fanout system is well-known. This talk will discuss the architecture and challenges involved in the shift towards read-time determination and collection of Tweets for users, incorporating disparate content relevance and recommendation systems. With additional layers of software business logic composed into the core Twitter experience, this has necessitated the adoption of new contracts between teams and services, a re-examination of our principles about resiliency, and reconciliation between competing forms of content selection.\n\nSpeaker: Mike Cvet (@mikecvet)\n\nFor more info, see https://qconsf.com/sf2016/presentation/how-we-learned-stop-worrying-and-love-fan",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WEgCjwyXvwc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WEgCjwyXvwc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WEgCjwyXvwc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WEgCjwyXvwc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WEgCjwyXvwc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WEgCjwyXvwc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iCWBfilenj6mojMIUmlkBAQcZ7Y\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmhZdTEza0JlbmpF",
+    "snippet": {
+      "publishedAt": "2017-01-17T22:26:35.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Scaling Reliability at Twitter: So You Want to Add a 9",
+      "description": "We choose microservice architectures for many different reasons, including, often, improving reliability. However, there is a dark side. Modular systems have many benefits, but as you add more components, each of which can fail, it makes the overall system more fragile, because there are new ways in which it can fail that previously didn't exist. From its inception, Finagle was designed as a toolkit for reliable systems. We'll discuss understanding the reliability of your system (monitoring! load tests! service level objectives!), how to recover when your system fails (alerts! rollbacks! rolling restarts! failovers!), how to make a system reliable (retries! backpressure! circuit breakers!), and how to debug a reliability problem (tracing! logs! persistence!).\n\nSpeaker: Moses Nakamura (@mnnakamura)\n\nFor more info, see https://qconsf.com/sf2016/presentation/scaling-reliability-so-you-want-add-9",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hYu13kBenjE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hYu13kBenjE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hYu13kBenjE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hYu13kBenjE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hYu13kBenjE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hYu13kBenjE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7B00UYjes6-50_Nt2TyUBu5WJgY\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmpRZ2dHMHFJalRN",
+    "snippet": {
+      "publishedAt": "2017-01-17T22:18:23.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Building Twitter’s Next-Gen Alerting System",
+      "description": "Twitter’s Observability team provides Twitter developers a monitoring infrastructure including real time dashboards and alerting for their services. Twitter has grown orders of magnitude since it debuted at SXSW. The monitoring infrastructure has followed suit, ingesting orders of magnitude more metrics, from millions to billions.\n\nAs the company grew, so did the challenges of providing an always available alerting system. Design decisions made when Twitter had only one datacenter and a monolithic architecture created unresolvable scale and reliability issues in the original alerting service. Monitoring 2.0—Twitter’s next-gen alerting system—solves these issues, improves upon the configuration experience, enhances configuration quality, and focuses on surfacing useful information quickly to the oncall to reduce time to resolution. In this talk we will discuss lessons learned during the evolution of our alerting service, both from a systems and a UX perspective.\n\nSpeaker: Megan Kanne (@megankanne)\n\nFor more info, see https://qconsf.com/sf2016/presentation/building-twitter%E2%80%99s-next-gen-alerting-system",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jQggG0qIjTM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jQggG0qIjTM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jQggG0qIjTM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jQggG0qIjTM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jQggG0qIjTM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jQggG0qIjTM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pAIwQT9WwUKWTztQTmIx6-CbBDs\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnVLRGZNUFJITko0",
+    "snippet": {
+      "publishedAt": "2017-01-17T22:03:02.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "JVMs across the Data Center at Twitter",
+      "description": "Twitter services have to be able to handle the flood of requests, responses and actions required to process hundreds of millions of tweets every day. This talk will cover how we schedule and manage services in our data centers to ensure reliability and performance, as well as the challenges (and some solutions!)  encountered in getting the JVM and JDK to run our Scala- and Java-based services to meet stringent response-time and resource requirements.\n\nSpeaker: Ian Downes (@ndwns) and John Coomes (@john_coomes)\n\nFor more info, see https://qconsf.com/sf2016/presentation/jvms-across-data-center",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uKDfMPRHNJ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uKDfMPRHNJ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uKDfMPRHNJ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uKDfMPRHNJ4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uKDfMPRHNJ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uKDfMPRHNJ4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FY_u-yimbNUJ8oS159wOwjNZSeE\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnpfMmhyamwxdDhJ",
+    "snippet": {
+      "publishedAt": "2017-01-17T21:15:49.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Managing Big Storage Clusters at Twitter",
+      "description": "Distributed databases are complex systems with multiple dependencies that must be maintained in order to conserve correctness. Manhattan, Twitter's primary distributed key-valve store, has many differing capabilities that require careful and subtly different orchestration while operating on the cluster in order to deploy new versions or add and remove nodes. This talk will touch on the evolution of Manhattan's automated cluster management service, cover some of the complications involved in operating large featureful storage clusters, and discuss the importance of generalized infrastructure for the sanity of your team members.\n\nSpeaker: Boaz Avital, @bx on Twitter\n\nFor more info, see https://qconsf.com/sf2016/presentation/managing-big-storage-clusters",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z_2hrjl1t8I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z_2hrjl1t8I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z_2hrjl1t8I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z_2hrjl1t8I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z_2hrjl1t8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "z_2hrjl1t8I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/McBxNjkX2q72IvpJPzb4N-Fud5M\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlZxYWpnSlFVdmpB",
+    "snippet": {
+      "publishedAt": "2017-01-17T21:04:36.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Hardware & Provisioning Engineering at Twitter",
+      "description": "Twitter operates hundreds of thousands of servers. At that scale, repairs and reallocations are frequent and each requires a re-installation of the system. The Provisioning Engineering system at Twitter, called Wilson, is designed to handle every part of a server's lifecycle that does not require a person with a screwdriver. From bios updates to RAID controller configuration and OS installation, the Wilson stack does it all. Combined with our machine metadata service Audubon, Provisioning Engineering provides the one interface for service owners needing to interact with hardware.\n\nSpeakers: Matt Singer (@mattbytes) and Nik Johnson (@jmpspn)\n\nFor more info, see https://qconsf.com/sf2016/presentation/hardware-provisioning-engineering-twitter",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VqajgJQUvjA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VqajgJQUvjA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VqajgJQUvjA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VqajgJQUvjA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VqajgJQUvjA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VqajgJQUvjA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/STS4zw-dvCBsaxfIrLaAMhto-6A\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnVTYTZXWk9fdkNn",
+    "snippet": {
+      "publishedAt": "2016-04-28T01:12:07.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "AWS + Apache Aurora/Mesos at Twitter",
+      "description": "In 2014, TellApart (now part of Twitter) adopted Apache Mesos and Apache Aurora as the solution to run their infrastructure in AWS. Engineering Manager David Hagar shares the team’s experiences, the problems encountered, and how they addressed them. He also gives a glimpse into the work to extend the capabilities of the Compute infrastructure across private and public clouds.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uSa6WZO_vCg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uSa6WZO_vCg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uSa6WZO_vCg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uSa6WZO_vCg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uSa6WZO_vCg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uSa6WZO_vCg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7jmtTfW79WXE5gxRniFALYsNVwk\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmN6MVFXcHhVdEdV",
+    "snippet": {
+      "publishedAt": "2016-04-28T01:12:14.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Closing remarks from Chris Pinkham, VP of Platform Engineering",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cz1QWpxUtGU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cz1QWpxUtGU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cz1QWpxUtGU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cz1QWpxUtGU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cz1QWpxUtGU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cz1QWpxUtGU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RMAAaiF8J1TvBIuzjXUdE1UReqw\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnVhMHVmbXI5c1FJ",
+    "snippet": {
+      "publishedAt": "2016-04-28T01:11:58.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Twitter Heron on Apache Aurora",
+      "description": "Heron is the next generation real-time streaming analytics platform used heavily in Twitter. Heron runs diverse real-time analytics applications ranging from counting to real-time machine learning. Heron tech lead Maosong Fu talks about how Heron leverages Apache Aurora extensively to run its topologies.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ua0ufmr9sQI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ua0ufmr9sQI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ua0ufmr9sQI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ua0ufmr9sQI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ua0ufmr9sQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ua0ufmr9sQI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wbsx8DFmJgPUvebykPuXo5E8g84\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnczNlRPa3V5QVZj",
+    "snippet": {
+      "publishedAt": "2016-04-28T01:11:50.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Aurora Workflows: Deploying on Apache Aurora at Twitter",
+      "description": "One of the biggest cognitive overheads for a developer is to shepherd a deployment from development to production. Software engineer David Mclaughlin from the Compute team talks about our internal project called “Workflows” which aims to reduce this overhead and become a key building block for continuous deployment automation in the future.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w36TOkuyAVc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w36TOkuyAVc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w36TOkuyAVc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/w36TOkuyAVc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/w36TOkuyAVc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "w36TOkuyAVc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fKNc_FfXYBLCe0m_EMQPXW9ser4\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnA5a29Pb1BPTnAw",
+    "snippet": {
+      "publishedAt": "2016-04-28T01:10:06.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Chargeback for multi-tenant Infrastructure systems",
+      "description": "Software engineers on Cloud Infrastructure Management, Vinu Charanya and Jessica Yuen, talk about how they built a generic system that helps define chargeable resources, collects utilization metrics, resolves owners, and generates billing and utilization reports to improve resource utilization and cost effectiveness of every multi-tenant infrastructure service at Twitter.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p9koOoPONp0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p9koOoPONp0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p9koOoPONp0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/p9koOoPONp0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/p9koOoPONp0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "p9koOoPONp0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nLo3Crw0t4LX664YvKjAp-eFs1k\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjgwX1c3cWl5bHhj",
+    "snippet": {
+      "publishedAt": "2016-04-28T01:09:56.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Managing a large scale compute platform (Apache Aurora/Mesos)",
+      "description": "David Robinson, site reliability engineer on Compute, talks about how they leverage Audubon, Wilson, and other tooling to manage (configuration, deployment, and other operational procedures) across tens of thousands of hosts in the Compute cluster (powered by Apache Aurora/Apache Mesos). He also shares the challenges when operating at this scale and things that can potentially go wrong that impact the reliability of the cluster.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/80_W7qiylxc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/80_W7qiylxc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/80_W7qiylxc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/80_W7qiylxc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/80_W7qiylxc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "80_W7qiylxc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DC2oMW_N4O72O_JamJL_pEQr6C8\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkwzb2cwbTlkUmg4",
+    "snippet": {
+      "publishedAt": "2016-04-28T01:09:42.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Server Provisioning and Management at Scale",
+      "description": "Tech lead of provisioning engineering, Eric Danielson talks about two specific systems: Audubon - Machine database and Wilson API/Lifecycle Manager - Machine Lifecycle Manager that are used to provision, track, and manage a fleet of tens of thousands of hosts at Twitter.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L3og0m9dRh8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L3og0m9dRh8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L3og0m9dRh8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L3og0m9dRh8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L3og0m9dRh8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "L3og0m9dRh8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3l4fb3dqKqMkyIXv7XY37FXgifQ\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmVCcXJYdjgzSG80",
+    "snippet": {
+      "publishedAt": "2015-04-01T16:46:05.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Live Code Updates",
+      "description": "Update running Java code without restarting your VM!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eBqrXv83Ho4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eBqrXv83Ho4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eBqrXv83Ho4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eBqrXv83Ho4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eBqrXv83Ho4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eBqrXv83Ho4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5RyA9yCTmPk5WzxbsGU7g5bDboc\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjJKc2owekZkUmxn",
+    "snippet": {
+      "publishedAt": "2015-04-01T15:39:10.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Apache Aurora Adopters Panel",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2Jsj0zFdRlg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2Jsj0zFdRlg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2Jsj0zFdRlg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2Jsj0zFdRlg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2Jsj0zFdRlg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2Jsj0zFdRlg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HBcWjVBu5LnNYWLPmdI6LpQ4_h8\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkU0bHhYNmVwTV9V",
+    "snippet": {
+      "publishedAt": "2015-03-05T00:40:20.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Operating Apache Aurora and Mesos at Twitter",
+      "description": "Aurora and Mesos SRE Joe Smith will describe the setup and operation of Twitter's clusters, and reveal best practices for keeping your cluster running smoothly.\n\nhttp://aurora.apache.org/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E4lxX6epM_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E4lxX6epM_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E4lxX6epM_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E4lxX6epM_U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E4lxX6epM_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "E4lxX6epM_U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0Be5uk9MmGEEjMkgQcM6zsLJX-E\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlpaWHRYTHZUWEFF",
+    "snippet": {
+      "publishedAt": "2015-03-03T19:12:51.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Apache Aurora and Mesos at TellApart",
+      "description": "Steve Niemitz shares how TellApart is using Apache Aurora and Docker to migrate to a microservice architecture.\n\nhttp://aurora.apache.org/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZZXtXLvTXAE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZZXtXLvTXAE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZZXtXLvTXAE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZZXtXLvTXAE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZZXtXLvTXAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZZXtXLvTXAE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qwwfQRMzitNibIQEZnuPX040qoo\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjNMdkVnRkFkV3Zj",
+    "snippet": {
+      "publishedAt": "2015-02-25T19:10:16.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Building First Class SDKs: A Fabric Case Study",
+      "description": "Want to find out more about Fabric? Head to http://fabric.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3LvEgFAdWvc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3LvEgFAdWvc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3LvEgFAdWvc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3LvEgFAdWvc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3LvEgFAdWvc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3LvEgFAdWvc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NXuide_XZscyR7CjCgru8Cbfg2M\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkg5UkxGb3FUcU9R",
+    "snippet": {
+      "publishedAt": "2015-02-19T21:26:30.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Building Fabric for Android Apps",
+      "description": "Fabric is a new set of free tools and services for mobile developers designed to help you make your apps more stable, social, and profitable. In this short presentation, we'll give you an overview of Fabric's SDKs for Android, including Crashlytics, Twitter, and MoPub- and cover how Fabric can help you tackle big issues like device fragmentation and growth outside just the US.\n\nHead to http://fabric.io to get started.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H9RLFoqTqOQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H9RLFoqTqOQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H9RLFoqTqOQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/H9RLFoqTqOQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/H9RLFoqTqOQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "H9RLFoqTqOQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CfuHJndzBUETDzT1hbKI9nP5RE4\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnBrMW91Z2IwYzRV",
+    "snippet": {
+      "publishedAt": "2015-02-03T18:57:32.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Paradox of the Cloud",
+      "description": "A promise of the cloud is that our environmental impact is lighter as we move from physical to digital products and documents. However, our production and consumption of digital content is increasing exponentially—a behavior facilitated through carefully designed experiences. To house this growing data, we are building a vast physical infrastructure that depends on non-renewable energy resources. This infrastructure comes in the form of data centers—factories of the Information Age. Similar to the massive structures of the Industrial Age, we are again choosing to build systems that use resources faster than this planet can provide. As designers, we should question our role in encouraging exponential production and consumption, and have an opportunity to create products that inherently allow users to demand a sustainable digital future.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pk1ougb0c4U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pk1ougb0c4U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pk1ougb0c4U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pk1ougb0c4U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pk1ougb0c4U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pk1ougb0c4U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3WRR7q4PBHB2osrSi2eB1DLlrhI\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmcxUHF5c2tqeDhN",
+    "snippet": {
+      "publishedAt": "2015-02-02T21:41:20.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "The Binary Compatibility Challenge",
+      "description": "Martin Odersky, the creator of the Scala programming language, discusses challenges around binary compatibility.\n\nFollow him on Twitter at http://twitter.com/odersky",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g1Pqyskjx8M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g1Pqyskjx8M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g1Pqyskjx8M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g1Pqyskjx8M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g1Pqyskjx8M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "g1Pqyskjx8M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Z0_wIkEQD_tqJ8SNarOFBTkRQ8k\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnZuSjM0ZFpYZHJv",
+    "snippet": {
+      "publishedAt": "2014-12-03T21:36:36.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Cascading: A Java Developer's Companion to the Hadoop World",
+      "description": "Join Dhruv Kumar as he introduces Cascading, an open source application development framework that allows Java developers to build applications on top of Hadoop through its Java API.\n\nHead to university.twitter.com for more!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vnJ34dZXdro/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vnJ34dZXdro/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vnJ34dZXdro/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vnJ34dZXdro/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vnJ34dZXdro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vnJ34dZXdro"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hJu38spVIcVpZuKVy7Fu0xCoVhc\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmdRWUJSWWJmb0k0",
+    "snippet": {
+      "publishedAt": "2014-12-03T21:38:09.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "What Ferris Bueller Taught Me About Interaction Design",
+      "description": "Erin Moore, Senior UX designer at Twitter, talks about why paying attention to the world around us is actually the first step to designing great products. A designer’s ability to see things from different points of view is crucial to designing products that connect people and create meaningful experiences. In her talk, Erin tells three stories that have captured her attention and shows how these stories can give designers a fresh perspective on their everyday work.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gQYBRYbfoI4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gQYBRYbfoI4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gQYBRYbfoI4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gQYBRYbfoI4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gQYBRYbfoI4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gQYBRYbfoI4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CKljPD-Bq9dTXdiudLuFK1i9m9k\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkl0dWZjdThaLUJj",
+    "snippet": {
+      "publishedAt": "2014-09-18T17:15:15.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Running Mesos at Atlassian",
+      "description": "Ryan Thomas presents how Atlassian has been using Mesos to build an internal service delivery platform, along with Aurora and Docker.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Itufcu8Z-Bc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Itufcu8Z-Bc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Itufcu8Z-Bc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Itufcu8Z-Bc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Itufcu8Z-Bc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Itufcu8Z-Bc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JH0_WlvxwdMehMTdKcTJEm4nwk0\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjQxcWZsWHdpbWtB",
+    "snippet": {
+      "publishedAt": "2014-09-17T18:30:55.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Continuous Deployment with Singularity",
+      "description": "Gregory Chomatas from HubSpot presents Singularity, an open source Mesos framework for scheduling services and one-off tasks.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/41qflXwimkA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/41qflXwimkA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/41qflXwimkA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/41qflXwimkA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/41qflXwimkA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "41qflXwimkA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vqGizj1hW46-fbNYjEzUFYn6N_g\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkdmcEdtaFp3YW9N",
+    "snippet": {
+      "publishedAt": "2014-09-16T16:52:01.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "How Airbnb Simplifies with Mesos",
+      "description": "Brenden Matthews discusses how Airbnb manages its Mesos installation on AWS, covering resource contention, isolation, service discovery, and application deployment.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GfpGmhZwaoM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GfpGmhZwaoM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GfpGmhZwaoM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GfpGmhZwaoM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GfpGmhZwaoM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GfpGmhZwaoM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iCzfoc6yfwJw_KSfWI16sTgk2Qk\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlQxLWNRX0Yyelpv",
+    "snippet": {
+      "publishedAt": "2014-09-15T22:25:49.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Reactive Stream Processing Using Apache Mesos",
+      "description": "Netflix's Justin Becker and Sharma Podila provide new framework developers with a Mesos case study, operating at web scale.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T1-cQ_F2zZo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T1-cQ_F2zZo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T1-cQ_F2zZo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T1-cQ_F2zZo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/T1-cQ_F2zZo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "T1-cQ_F2zZo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3J4uHYZn0HtdaIU1z3rISVUiL0M\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLk9nVmFRUFlFc1Zv",
+    "snippet": {
+      "publishedAt": "2014-09-12T16:50:49.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Simplifying with Mesos and Marathon",
+      "description": "In this talk, Connor Doyle presents Marathon, an Apache Mesos framework that provides a simple self-serve interface for developers to launch their apps on a shared cluster in a scalable and fault-tolerant way.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OgVaQPYEsVo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OgVaQPYEsVo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OgVaQPYEsVo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OgVaQPYEsVo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OgVaQPYEsVo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OgVaQPYEsVo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QBcHnmRadV3_MviqMiGUNkEN3UE\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmgtMjFLQTN0Wlgw",
+    "snippet": {
+      "publishedAt": "2014-09-11T17:48:06.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Spark on Mesos",
+      "description": "From #Mesoscon 2014, Paco Nathan from Databricks talks about handling big bata in a distributed, multi-tenant environment with Spark on Mesos.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h-21KA3tZX0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h-21KA3tZX0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h-21KA3tZX0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/h-21KA3tZX0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "h-21KA3tZX0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PahBTNKK1bSndkRjlvxtwxGZbeo\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlF1a3llR2RERXBZ",
+    "snippet": {
+      "publishedAt": "2014-09-10T17:49:06.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Highly Distributed DevOps",
+      "description": "Traditional DevOps tools are often not up for the job of running large scale infrastructure in a highly dynamic environment. How do you handle hockey-stick growth? How do you let dozens of engineers deploy dozens of apps, dozens of times per day? What do you do when something goes wrong? In this talk, Tobi Knaup will answer these questions and demonstrate tools that can help ops teams deliver on the promises of Mesos.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QukyeGdDEpY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QukyeGdDEpY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QukyeGdDEpY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QukyeGdDEpY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QukyeGdDEpY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QukyeGdDEpY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/H3CxBr4bwXsOSnUa7kfK1YDoc_I\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnU1amQ5WVQ5RXNZ",
+    "snippet": {
+      "publishedAt": "2014-09-09T17:11:07.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Run Any App on Mesos on Any Infrastructure Using Docker",
+      "description": "The title says it all! See http://docker.io for more on Docker and http://mesos.apache.org to get going with Mesos.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u5jd9YT9EsY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u5jd9YT9EsY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u5jd9YT9EsY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/u5jd9YT9EsY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/u5jd9YT9EsY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "u5jd9YT9EsY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jAqIduR4CqScpbEFCC7a7IUup9k\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmQ3dlpXbV94Uzlj",
+    "snippet": {
+      "publishedAt": "2014-09-08T20:56:22.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Running YARN Alongside Mesos",
+      "description": "Mohit Soni and Renan DelValle discuss running multiple resource managers in a datacenter without static partitioning by running YARN alongside Mesos.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d7vZWm_xS9c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d7vZWm_xS9c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d7vZWm_xS9c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d7vZWm_xS9c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d7vZWm_xS9c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "d7vZWm_xS9c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fcUv4CeHesGg0fbHNmB0Fuj5jqs\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkRzYzVDUGhLczRv",
+    "snippet": {
+      "publishedAt": "2014-09-04T20:11:26.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Past, Present, and Future of the Aurora Scheduler",
+      "description": "Bill Farner, Senior Staff Software Engineer at Twitter, presents Apache Aurora at #MesosCon.\n\nHead to http://aurora.apache.org for more information on Apache Aurora.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dsc5CPhKs4o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dsc5CPhKs4o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dsc5CPhKs4o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dsc5CPhKs4o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Dsc5CPhKs4o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Dsc5CPhKs4o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3WQEBnbn0Au77zlhd5agGAQgkE4\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlZRQUFrTzVCNUhn",
+    "snippet": {
+      "publishedAt": "2014-09-03T17:51:02.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Cluster Management at Google",
+      "description": "John Wilkes discusses cluster management at Google in his keynote speech from #MesosCon 2014.\n\nHead to http://mesos.apache.org for more information on Mesos.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VQAAkO5B5Hg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VQAAkO5B5Hg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VQAAkO5B5Hg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VQAAkO5B5Hg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VQAAkO5B5Hg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VQAAkO5B5Hg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MFEL4Pz74hCm9xtIPVu9PPvjtUE\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnI3cU44UXdHdjJ3",
+    "snippet": {
+      "publishedAt": "2014-09-02T18:07:52.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "State of Mesos 2014",
+      "description": "Benjamin Hindman, program chair of Apache Mesos and Staff Software Engineer at Twitter, delivers the inaugural State of Mesos keynote at #MesosCon.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r7qN8QwGv2w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r7qN8QwGv2w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r7qN8QwGv2w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r7qN8QwGv2w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r7qN8QwGv2w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "r7qN8QwGv2w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L0UsuoFKcknp-3p06rTICFpaIk4\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlZWcG1NZlQ4YVl3",
+    "snippet": {
+      "publishedAt": "2014-08-13T22:23:04.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Introducing Stitch",
+      "description": "Twitter's Jake Donham introduces Stitch, a library for composing RPC services. It provides:\n\n- a Scala query API which permits concise and readable expression of application logic\n- service adaptors which wrap the (often messy) details of the RPC layer\n- efficient execution of queries—in particular, taking advantage of batch APIs where available\n\nStitch is not currently open sourced but may be in the future.\n\nCheck out http://university.twitter.com for more on what we're working on at Twitter.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VVpmMfT8aYw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VVpmMfT8aYw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VVpmMfT8aYw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VVpmMfT8aYw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VVpmMfT8aYw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VVpmMfT8aYw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/slKZgrsAkLWSUHX5TXvxzScT5OU\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkVQNHByV0pJV3Zj",
+    "snippet": {
+      "publishedAt": "2014-08-12T16:37:32.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Zipkin at Twitter",
+      "description": "Twitter's Jeff Smick goes through an introduction and a demo of Zipkin, a distributed tracing system based on Google's Dapper paper.\n\nFollow Zipkin at http://twitter.com/zipkinproject & Jeff Smick at http://twitter.com/sprsquish",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EP4prWJIWvc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EP4prWJIWvc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EP4prWJIWvc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EP4prWJIWvc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EP4prWJIWvc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EP4prWJIWvc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Euyr5UhRBDWxXq9lLf2dtW25jao\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlFkRVItWmxfWUNN",
+    "snippet": {
+      "publishedAt": "2014-08-11T15:39:04.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Finagle at Twitter",
+      "description": "Ever wonder where Finagle comes from and how we use it at Twitter? Join Sonja Keserovic as she walks through a bit of the history, fundamental abstractions, and future of the project.\n\nHead to http://university.twitter.com for a collection of other talks on open source projects.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QdER-Zl_YCM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QdER-Zl_YCM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QdER-Zl_YCM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QdER-Zl_YCM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QdER-Zl_YCM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QdER-Zl_YCM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/alzWT0mB4ottqNOmKaAVDcinuxY\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLldzTU9KcUFZVzVN",
+    "snippet": {
+      "publishedAt": "2014-08-08T16:54:48.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Netty Best Practices",
+      "description": "Red Hat's Norman Maurer brings you some Netty best practices and performance tips, specifically addressing HTTP/pipelining, writing gracefully, buffers, & EventLoop.\n\nHead to http://netty.io for official documentation, and to http://university.twitter.com for more videos on Netty and other open source projects!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WsMOJqAYW5M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WsMOJqAYW5M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WsMOJqAYW5M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WsMOJqAYW5M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WsMOJqAYW5M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WsMOJqAYW5M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/piv5hERg1Znu-iFJ6TWjBXM_z2A\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnpLMkE5Z1dLeElF",
+    "snippet": {
+      "publishedAt": "2014-08-07T15:41:30.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Netty at Facebook",
+      "description": "Andrew Cox visited Twitter HQ to tell us a little bit about how Facebook uses Netty.\n\nHead to http://university.twitter.com for more!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zK2A9gWKxIE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zK2A9gWKxIE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zK2A9gWKxIE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zK2A9gWKxIE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zK2A9gWKxIE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zK2A9gWKxIE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zEpCZM80qP5ddpLDeHUB2y2UJek\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjBhb2VTc0thcmM4",
+    "snippet": {
+      "publishedAt": "2014-08-06T15:46:10.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "State of Netty",
+      "description": "Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers and clients. Twitter’s core services are built on Finagle (from backends serving user profile information to front end API endpoints handling HTTP requests and more) which is built upon Netty.\n\nIn this video, Trustin Lee discusses the past, present, and future of this popular open source project.\n\nHead to university.twitter.com for more!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0aoeSsKarc8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0aoeSsKarc8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0aoeSsKarc8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0aoeSsKarc8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0aoeSsKarc8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0aoeSsKarc8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Sf_YeqIuGtqH9a7J9nbG8YYUv0w\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkhKUF8xMDhpMGlr",
+    "snippet": {
+      "publishedAt": "2014-08-05T17:15:52.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Netty at Twitter with Finagle",
+      "description": "For more info on Netty at Twitter, head to https://blog.twitter.com/2014/netty-at-twitter-with-finagle",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HJP_108i0ik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HJP_108i0ik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HJP_108i0ik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HJP_108i0ik/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HJP_108i0ik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HJP_108i0ik"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-9YHOrEZ_MvG9z5k75MAmO1CJS0\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnNrWUJPWEUwMk9R",
+    "snippet": {
+      "publishedAt": "2014-07-01T19:48:14.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Python 2.7 & Python 3: A Sacred Love Story",
+      "description": "Kenneth Reitz, Python evangelist at Heroku and author of the popular Requests library, discusses the state of Python today, the division in the community, and how we can forge ahead into a shiny future. Pythonistas unite!\n\nhttp://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/skYBOXE02OQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/skYBOXE02OQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/skYBOXE02OQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/skYBOXE02OQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/skYBOXE02OQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "skYBOXE02OQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xCpI1Kg9qYUj_TsyhO1oDV53-tU\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkZsbzdhaWY1ekhZ",
+    "snippet": {
+      "publishedAt": "2014-06-10T18:47:56.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Accessibility for Android at Twitter",
+      "description": "What is accessibility and why is it important? In this presentation, Twitter's Sommer Panage explores the world of #a11y, paying particular attention to basic accessibility for Android, testing, and custom views.\n\nJoin the conversation! http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Flo7aif5zHY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Flo7aif5zHY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Flo7aif5zHY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Flo7aif5zHY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Flo7aif5zHY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 43,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Flo7aif5zHY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rm4NF0b1MHHof5xLirWrn3sxLwo\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnN6dkhnaFd5dW9R",
+    "snippet": {
+      "publishedAt": "2014-06-03T20:52:41.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Twitter-Scale Computing with OpenJDK",
+      "description": "When Twitter switched from Ruby/Rails to Java, it needed something that would scale to 10,000s requests/sec per VM, and OpenJDK fit the bill perfectly. Not only did it prove production-ready, but its openness enabled Twitter engineers to extend it and deploy it internally to run its data centers with huge advantages for both developer support and system efficiency.\n\nIn this talk David Keenan tells us why and how Twitter develops and deploys OpenJDK. The talk will also discuss Twitter's future plans with contributing its work back to the OpenJDK community.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/szvHghWyuoQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/szvHghWyuoQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/szvHghWyuoQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/szvHghWyuoQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/szvHghWyuoQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 44,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "szvHghWyuoQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gG_7s94ULNpnT2g6AFplmIp0CmM\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnRzS2ltWXRHM0J3",
+    "snippet": {
+      "publishedAt": "2014-05-12T18:16:00.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Getting started with the Pants Build System: External Dependencies",
+      "description": "Getting started with Pants, part 4 of 4. Head to http://pantsbuild.github.io for documentation.\n\nhttps://twitter.com/pantsbuild",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tsKimYtG3Bw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tsKimYtG3Bw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tsKimYtG3Bw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tsKimYtG3Bw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tsKimYtG3Bw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 45,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tsKimYtG3Bw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6aGN1vA9udaQMTeAAoXeiwYUC_Y\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjdOaUlseGRWLUk4",
+    "snippet": {
+      "publishedAt": "2014-05-12T18:16:00.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Getting started with the Pants Build System: Build File Anatomy",
+      "description": "Getting started with Pants, part 3 of 4. Head to http://pantsbuild.github.io for documentation.\n\nhttps://twitter.com/pantsbuild",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7NiIlxdV-I8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7NiIlxdV-I8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7NiIlxdV-I8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7NiIlxdV-I8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7NiIlxdV-I8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 46,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7NiIlxdV-I8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ID1WZ3K0AZloCRTYNdT-VWRH-do\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkpZMUlfVnpYS0tV",
+    "snippet": {
+      "publishedAt": "2014-05-12T18:16:00.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Getting started with the Pants Build System: Build File Basics",
+      "description": "Getting started with Pants, part 2 of 4. Head to http://pantsbuild.github.io for documentation.\n\nhttps://twitter.com/pantsbuild",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JY1I_VzXKKU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JY1I_VzXKKU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JY1I_VzXKKU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JY1I_VzXKKU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JY1I_VzXKKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 47,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JY1I_VzXKKU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eVm2SEYNJWKbl1F73CMYZ46kk3s\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLm1vSlkzU2J2V3dr",
+    "snippet": {
+      "publishedAt": "2014-05-12T18:16:00.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Getting started with the Pants Build System: Why Pants?",
+      "description": "Getting started with Pants, part 1 of 4. Head to http://pantsbuild.github.io for documentation.\n\nhttps://twitter.com/pantsbuild",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/moJY3SbvWwk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/moJY3SbvWwk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/moJY3SbvWwk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/moJY3SbvWwk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/moJY3SbvWwk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 48,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "moJY3SbvWwk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/C4PGU_3mm6kC6XdIj1O6RjOXiOM\"",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkxCV2lCMm1jOXZr",
+    "snippet": {
+      "publishedAt": "2014-04-21T21:56:52.000Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Parquet Format at Criteo",
+      "description": "Criteo has petabyte scale data stored in HDFS with an analytic stack based on Cascading and Hive. Up until recently it was 100% backed by RCFile. In this presentation, Justin Coffey discusses how Criteo migrated to Parquet along with benchmarks of space and time comparisons vs RCFile.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LBWiB2mc9vk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LBWiB2mc9vk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LBWiB2mc9vk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LBWiB2mc9vk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LBWiB2mc9vk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 49,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LBWiB2mc9vk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "sBvXziN6tMfGWqwUYVW-5Bm_hdI",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlFmcDZVdjFVckEw",
+    "snippet": {
+      "publishedAt": "2014-04-18T15:58:30Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Parquet Format at Twitter",
+      "description": "Julien Le Dem discusses Parquet, a columnar file format for Hadoop. Performance and compression benefits of using columnar storage formats for storing and processing large amounts of data are well documented in academic literature as well as several commercial analytical databases. Parquet supports deeply nested structures, efficient encoding and column compression schemes, and is designed to be compatible with a variety of higher-level type systems.\n\nIts integration in most of the Hadoop processing frameworks (Impala, Hive, Pig, Cascading, Crunch, Scalding, Spark, ...) and serialization models (Thrift, Avro, Protocol Buffers, ...) makes it easy to use in existing ETL and processing pipelines, while giving flexibility of choice on the query engine (whether in Java or C++).\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qfp6Uv1UrA0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qfp6Uv1UrA0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qfp6Uv1UrA0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qfp6Uv1UrA0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qfp6Uv1UrA0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 50,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Qfp6Uv1UrA0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "g0ZVQzdpXtqONGl9k1fBIUMWCAA",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkJEVWx4NmQ2VVdj",
+    "snippet": {
+      "publishedAt": "2014-04-16T20:33:05Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Finagle at Sharethrough",
+      "description": "Michael Jensen discusses integration of Finagle at Sharethrough, who serve in-feed ads to publishers across the internet. Their ad server uses Finagle to serve ads that match the look and feel of their environment, while still providing engagements for advertisers.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BDUlx6d6UWc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BDUlx6d6UWc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BDUlx6d6UWc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BDUlx6d6UWc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BDUlx6d6UWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 51,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BDUlx6d6UWc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "7SHWKI1iw6ag0ZFURcJJ5Ef7feg",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLndodVRfLWNGYjVJ",
+    "snippet": {
+      "publishedAt": "2014-04-15T20:57:30Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "The Finagle Ecosystem",
+      "description": "Finagle is the open source extensible RPC system which powers Twitter. In this presentation, Moses Nakamura discusses the ecosystem that we've been able to build on top of it, and new possibilities that are opening up in this environment.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/whuT_-cFb5I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/whuT_-cFb5I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/whuT_-cFb5I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/whuT_-cFb5I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/whuT_-cFb5I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 52,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "whuT_-cFb5I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "tyl5fHWL1plIrP0BJaQWsjZ6x0g",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnF0OXYyUnRjV1VN",
+    "snippet": {
+      "publishedAt": "2014-04-14T23:18:08Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Building Enterprise ML Tools in the Kiji Project with Scalding",
+      "description": "Deep Signal's Juliet Hougland discusses building machine learning tools in the Kiji Project with @scalding, particularly emphasizing how to increase use and widespread adoption of the technology.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qt9v2RtcWUM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qt9v2RtcWUM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qt9v2RtcWUM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qt9v2RtcWUM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qt9v2RtcWUM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 53,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qt9v2RtcWUM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "MuHPyj_ar0vFlnkK1QfujioxZME",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlNkcFZDX3N6VzU0",
+    "snippet": {
+      "publishedAt": "2014-04-10T18:30:56Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Scalding 0.9.0 and Beyond",
+      "description": "From matrices, to join algorithms, to columnar storage, this talk presented by Twitter's Oscar Boykin will introduce several new features in scalding 0.9.0 and show how scalding can help you solve problems faster and get the right answer the first time.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SdpVC_szW54/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SdpVC_szW54/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SdpVC_szW54/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SdpVC_szW54/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SdpVC_szW54/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 54,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SdpVC_szW54"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "QwYzw-weMD6eaLJeipjfNzznzjg",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlJPbjE0Y3NpaWt3",
+    "snippet": {
+      "publishedAt": "2014-04-09T16:00:13Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Mesos, HubSpot, and the Singularity",
+      "description": "Mesos is one of the core pieces of infrastructure that helps HubSpot developers deploy 300 times a day. In this talk, Tom Petr will explain HubSpot's deployment infrastructure and the benefits that Mesos provides. Specifically, Petr will be showcasing two open source projects: Singularity, a home-grown Mesos framework, and Baragon, an API for manipulating load balancers.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ROn14csiikw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ROn14csiikw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ROn14csiikw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ROn14csiikw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ROn14csiikw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 55,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ROn14csiikw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "-knO-eJoJdBHTUomOGtKWz9MdGI",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLllwbUVseWk5NEFB",
+    "snippet": {
+      "publishedAt": "2014-04-08T23:29:39Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Improving Resource Efficiency with Apache Mesos",
+      "description": "Cloud computing promises flexibility and high performance for users and lower costs for operators. Despite a shift from dedicated to shared clusters, most datacenters still operate at low utilization for several reasons, including exaggerated resource reservations, workload interference and platform heterogeneity. \n\nIn this talk from Twitter's recent open source #CONF, Christina Delimitrou will present an analysis of utilization at Twitter and discuss a few techniques to improve it. First, for long-running applications, the cluster manager can estimate near-future load changes and adjust resource allocations accordingly. Second, given the difficulty users experience in determining appropriate resource allocations, she will describe a different interface with the cluster manager that requires the users to specify performance goals as opposed to raw resources. This approach enables significantly higher cluster utilization without degrading per-application performance.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YpmElyi94AA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YpmElyi94AA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YpmElyi94AA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YpmElyi94AA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YpmElyi94AA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 56,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YpmElyi94AA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "F2a3fL-lmaBuRFLXxsChczTnV88",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLm41R1Q3T0ZTaDU4",
+    "snippet": {
+      "publishedAt": "2014-03-28T15:42:08Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Building Distributed Frameworks on Mesos",
+      "description": "Twitter's Benjamin Hindman explores the fundamentals of Mesos, as well as what it takes to build applications and frameworks on top. In particular, Hindman focuses on upcoming changes to the framework API to simplify the process of writing new frameworks on Mesos.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n5GT7OFSh58/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n5GT7OFSh58/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n5GT7OFSh58/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/n5GT7OFSh58/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/n5GT7OFSh58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 57,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "n5GT7OFSh58"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "3WVFzgVIwReRmCHxoOPsJPm7ylQ",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmFzZF9oNlZ6YUpj",
+    "snippet": {
+      "publishedAt": "2014-03-27T16:19:14Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Introduction to Apache Aurora",
+      "description": "Apache Aurora is self-described as a service scheduler, which means that it aims to reliably run many replicas of a serving system. Additionally, it encourages decoupling service management from machine management, allowing a relatively small number of administrators to manage very large fleets of machines.\n\nIn this talk we introduce Apache Aurora, a framework built on top of Apache Mesos with the goal of providing a general-purpose process scheduler. Aurora has been in development at Twitter for about four years (growing alongside Mesos), and powers a large portion of Twitter's services and ad-hoc processes. In November 2013, Aurora was accepted into the Apache Incubator program.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/asd_h6VzaJc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/asd_h6VzaJc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/asd_h6VzaJc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/asd_h6VzaJc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/asd_h6VzaJc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 58,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "asd_h6VzaJc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "A-cy6nysDCL8OXjEAay4RSXvOJk",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjU0NDR6LUwyVjJB",
+    "snippet": {
+      "publishedAt": "2014-02-26T17:46:45Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Apache Lucene: Then & Now",
+      "description": "Doug Cutting originally wrote Lucene in 1997-98. While suitable for any application which requires full text indexing and searching capability, Lucene has been widely recognized for its utility in the implementation of Internet search engines and local, single-site searching. In this talk, Doug will share background on the impetus and creation of Lucene, the evolution of the project and its recent integration with Apache Hadoop, and explain what the core technology has enabled today. Doug will also share his thoughts on what the future holds for Lucene and SOLR.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5444z-L2V2A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5444z-L2V2A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5444z-L2V2A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5444z-L2V2A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5444z-L2V2A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 59,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5444z-L2V2A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "nPswHbVBud3Y-Cxq6elWSr9o8B8",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlJsTEN0bnRYWUgw",
+    "snippet": {
+      "publishedAt": "2014-02-20T16:56:26Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Why @Scalding is Important for Data Science",
+      "description": "LinkedIn's Vitaly Gordon shows some common patterns within data science that can be redesigned & simplified with the help of Scalding, in many cases to almost a single line.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RlLCtntXYH0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RlLCtntXYH0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RlLCtntXYH0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RlLCtntXYH0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RlLCtntXYH0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 60,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RlLCtntXYH0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "X-IYYcerx95QjgCW5a-MCLyY4-8",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmpUSnBkYmRNMkRJ",
+    "snippet": {
+      "publishedAt": "2014-02-14T16:47:30Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "History, Patterns, and Future of @Scalding",
+      "description": "Where did Scalding come from, and what does the future hold? Twitter's Oscar Boykin discusses these questions, along with reviewing some deep use cases & common patterns for Scalding jobs.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jTJpdbdM2DI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jTJpdbdM2DI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jTJpdbdM2DI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jTJpdbdM2DI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jTJpdbdM2DI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 61,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jTJpdbdM2DI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "iziFX1AYj3BHV6RvduywFL3e4SM",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmpfNENWcE9JV3NF",
+    "snippet": {
+      "publishedAt": "2014-02-11T19:12:24Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "The Pants Build Tool at Twitter",
+      "description": "Join John Sirois to learn to learn how Twitter uses the Python build tool known as Pants.\n\nPants is similar to make, maven, ant, gradle, sbt, etc.; but pants differs in some important design goals. Pants optimizes for:\n\n- building multiple, dependent projects from source\n- building projects in a variety of languages\n- speed of build execution\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j_4CVpOIWsE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j_4CVpOIWsE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j_4CVpOIWsE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j_4CVpOIWsE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 62,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "j_4CVpOIWsE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "TIIefq8IgBZLmWj9eEHXKpCgweE",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkRsZ3VjNjNjUlhn",
+    "snippet": {
+      "publishedAt": "2014-01-30T19:36:23Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Scaling Source Control at Facebook",
+      "description": "Durham Goode discusses how Facebook scaled their source technology to keep up with their growing team of highly productive engineers. Facebook's current solution beats git by 5x - 50x for common operations.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dlguc63cRXg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dlguc63cRXg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dlguc63cRXg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dlguc63cRXg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Dlguc63cRXg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 63,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Dlguc63cRXg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "iHtfxjRygtRf25SXJkBAuqBaqgo",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLk5tcG5HaFJ3c3Uw",
+    "snippet": {
+      "publishedAt": "2014-01-30T01:03:12Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "WTF is PEX?",
+      "description": "Brian Wickman talks about Twitter's Python distribution format - What is a PEX and why do I care?\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NmpnGhRwsu0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NmpnGhRwsu0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NmpnGhRwsu0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NmpnGhRwsu0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NmpnGhRwsu0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 64,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NmpnGhRwsu0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "P4SNQyt6BlCdRw6QPuKnlsqASPE",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLk1MTTJhY1ZfMXlv",
+    "snippet": {
+      "publishedAt": "2014-01-27T17:23:11Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Building a Python Service Stack",
+      "description": "Julian Krause and John Billings discuss how Yelp has evolved their Python service stack to deal with the challenges encountered in an increasingly distributed production environment.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MLM2acV_1yo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MLM2acV_1yo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MLM2acV_1yo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MLM2acV_1yo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MLM2acV_1yo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 65,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MLM2acV_1yo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "lAnbM_WIQW87Wj45WwRQ-Vgzo2Q",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkZlU0tyQnZUNzJj",
+    "snippet": {
+      "publishedAt": "2014-01-22T22:17:38Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Adoption of the Job DSL Plugin at Netflix",
+      "description": "The Jenkins Job DSL plugin allows programmers to express job configurations as code. Learn about the benefits, from the obvious (store your configurations in the SCM of your choice) to the not-so-obvious (focus on intent, instead of succumbing to the distraction of multiple, complex job configuration options).\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FeSKrBvT72c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FeSKrBvT72c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FeSKrBvT72c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FeSKrBvT72c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FeSKrBvT72c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 66,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FeSKrBvT72c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ZGkbqDHNBQJIGeHDo5F63MTSi-A",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlNVNFdOLUZUWkR3",
+    "snippet": {
+      "publishedAt": "2014-01-21T23:42:43Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "1-Click Deployment with Docker & Launcher",
+      "description": "Nate Aune from Appsembler demos 1-Click deployment using Launcher, a Django-powered service for deploying web applications to Docker containers.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SU4WN-FTZDw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SU4WN-FTZDw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SU4WN-FTZDw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SU4WN-FTZDw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SU4WN-FTZDw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 67,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SU4WN-FTZDw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "xVMd40pF0K2VyydUH976rwTbp_w",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlFuSjIyS2dtYjVN",
+    "snippet": {
+      "publishedAt": "2014-01-18T00:21:07Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Parsing curl Commands with shlex",
+      "description": "A quick primer on the free tool at embedcurl.com from Runscope CEO John Sheehan.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QnJ22Kgmb5M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QnJ22Kgmb5M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QnJ22Kgmb5M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QnJ22Kgmb5M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QnJ22Kgmb5M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 68,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QnJ22Kgmb5M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "kY51ZgLlbIrYbxtI702iPAkkuk8",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLk94cEdMeEhXOTNr",
+    "snippet": {
+      "publishedAt": "2014-01-16T20:30:13Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Multiproduct - Scaling Software Development at LinkedIn",
+      "description": "Jens Pillgram-Larsen discusses Multiproduct, a generic abstraction used at LinkedIn for development and delivery of all kinds of software products. Using Multiproduct allows LinkedIn to focus and share resources around common software stages such as development, dependency management, version lifecycle and deployment.\n\nJoin the conversation: twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OxpGLxHW93k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OxpGLxHW93k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OxpGLxHW93k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OxpGLxHW93k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OxpGLxHW93k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 69,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OxpGLxHW93k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "NrxI1xvfV66oPIo8KqBwyKl9cQE",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkV0SmczZnlfbUpV",
+    "snippet": {
+      "publishedAt": "2014-01-23T17:38:34Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Twitter Card analytics Tutorial",
+      "description": "This video tutorial introduces you to Twitter Card analytics, a new tool to help publishers, developers and brands understand how they are performing on Twitter.\n\nHead to http://dev.twitter.com for more on Twitter Cards.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EtJg3fy_mJU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EtJg3fy_mJU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EtJg3fy_mJU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EtJg3fy_mJU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EtJg3fy_mJU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 70,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EtJg3fy_mJU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "EVEw5zbVBDZXPg7GLLM67fyc_vU",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkJKVDliQTY0SGNj",
+    "snippet": {
+      "publishedAt": "2013-12-19T21:19:57Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "15 Docker Tips in 15 Minutes",
+      "description": "Brian Morearty brings you 15 valuable Docker tips that will help get you up and running.\n\nHere's a sneak peak at a few of the tips:\n\n1. Getting the id of the last-run container\n6. What environment variables does an image have?\n10. Docker's architecture: thin CLI client, REST server daemon over UNIX socket\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BJT9bA64Hcc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BJT9bA64Hcc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BJT9bA64Hcc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BJT9bA64Hcc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BJT9bA64Hcc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 71,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BJT9bA64Hcc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "_XhDCukEyKq8zVACXVL2BNCdowE",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnB0czZGMDBHRnVV",
+    "snippet": {
+      "publishedAt": "2013-12-11T18:20:57Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Docker at Spotify",
+      "description": "Rohan Singh explains how and why Spotify uses Docker.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pts6F00GFuU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pts6F00GFuU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pts6F00GFuU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pts6F00GFuU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pts6F00GFuU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 72,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pts6F00GFuU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Di6lExwQoDGfazOV4DXzlls0EZo",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlFKMmVZcnJrVF9Z",
+    "snippet": {
+      "publishedAt": "2013-12-10T16:56:38Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "#MesosTownHall: Slave Recovery in Mesos 0.14.x",
+      "description": "Got 4 minutes? Learn about the new slave recovery feature in Mesos 0.14.x with Twitter's Vinod Kone!\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QJ2eYrrkT_Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QJ2eYrrkT_Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QJ2eYrrkT_Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QJ2eYrrkT_Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QJ2eYrrkT_Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 73,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QJ2eYrrkT_Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "zUKCdWybOVom1VXAEbfyEE-oqLM",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlpwaTktV2FVSVZZ",
+    "snippet": {
+      "publishedAt": "2013-12-10T16:56:38Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "#MesosTownHall: Apache Aurora at Twitter",
+      "description": "What is Apache Aurora and what problems does it solve at Twitter? Join Kevin Sweeney for a quick overview and live demo!\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zpi9-WaUIVY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zpi9-WaUIVY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zpi9-WaUIVY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Zpi9-WaUIVY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Zpi9-WaUIVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 74,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Zpi9-WaUIVY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "bdw4ooXJoijpN6m3YqnBbk6zCxg",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlpxTEVsMS1Fc1lj",
+    "snippet": {
+      "publishedAt": "2013-12-10T16:56:38Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "#MesosTownHall: Mesos CLI Tools",
+      "description": "Did you know Mesos now has CLI tools? Here's a quick primer, straight from Apache Mesos VP Benjamin Hindman!\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZqLEl1-EsYc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZqLEl1-EsYc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZqLEl1-EsYc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZqLEl1-EsYc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZqLEl1-EsYc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 75,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZqLEl1-EsYc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "kA5GJMgnloVpsUwh-Xl0UBJsDpc",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmpMOWhXUzlHRk9J",
+    "snippet": {
+      "publishedAt": "2013-12-10T16:56:38Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "#MesosTownHall: Elastic Mesos on Amazon EC2",
+      "description": "Learn how to get up and running with elastic Mesos on Amazon EC2 in 5 minutes!\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jL9hWS9GFOI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jL9hWS9GFOI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jL9hWS9GFOI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jL9hWS9GFOI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jL9hWS9GFOI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 76,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jL9hWS9GFOI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "CflZG2dUPIwBTTV3rLF2haAs1oI",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmxTN3hWSElsOXpV",
+    "snippet": {
+      "publishedAt": "2013-11-26T20:17:42Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Chef Versus Docker at RelateIQ",
+      "description": "Learn how & why RelateIQ is using Docker as an alternative to Chef, along with their future plans for the powerful (and open-source!) Linux container engine.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lS7xVHIl9zU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lS7xVHIl9zU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lS7xVHIl9zU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lS7xVHIl9zU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lS7xVHIl9zU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 77,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lS7xVHIl9zU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "lKDTFCYtzB76MXsIC3sE2T5R2JY",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjJNbW5nZ1NtVEpv",
+    "snippet": {
+      "publishedAt": "2013-11-25T22:17:13Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Docker ♥ Mesos",
+      "description": "OpenTable's Aish Fenton explains why Docker loves Mesos, and how OpenTable uses the powerful combination.\n\nJoin the conversation at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2MmnggSmTJo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2MmnggSmTJo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2MmnggSmTJo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2MmnggSmTJo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2MmnggSmTJo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 78,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2MmnggSmTJo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Lhx2-6BkkNRBXnHDaXGh8axLMZ4",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLk9kOWwtT0dBWEM4",
+    "snippet": {
+      "publishedAt": "2013-11-20T00:47:52Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Testing for Android",
+      "description": "Reliable, well-engineered test automation is often a mythical goal that developers agree is a good idea, but in reality don't have the time and resources to execute properly. Considering the number of apps on the market and the fickleness of customers (after 2 crashes 84% will go elsewhere) testing is imperative just to stay relevant today.\n\nJoin AppThwack's Trent Peterson as he demystifies Android testing with a review of automation strategy and testing tools.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Od9l-OGAXC8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Od9l-OGAXC8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Od9l-OGAXC8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Od9l-OGAXC8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Od9l-OGAXC8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 79,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Od9l-OGAXC8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "o4P3eqOvD6m8VcJ8BODlqlbBTJs",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkNBZXdaQ0JUNFBJ",
+    "snippet": {
+      "publishedAt": "2013-11-12T16:40:15Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Docker: How to Use Your Own Private Registry",
+      "description": "If you're already up and running with Docker and want to know how use your own private registry, follow along with Victor Vieux in this short presentation from the November 2013 Docker Workshop held at Twitter HQ. Watch in full screen and highest quality to clearly read the code in the second half of the presentation.\n\nNew to Docker? Watch this gentle introduction: http://youtu.be/Q5POuMHxW-0\n\nJoin the conversation with us at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CAewZCBT4PI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CAewZCBT4PI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CAewZCBT4PI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CAewZCBT4PI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CAewZCBT4PI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 80,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CAewZCBT4PI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "B4IxrZ0Wv3QiDXD86KR4ZUv2Gfo",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlFNVVRBTk4xQWVr",
+    "snippet": {
+      "publishedAt": "2013-11-07T22:01:57Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Python #LightningTalk: Building a Catalog of Twitter Bots",
+      "description": "Join An Xiao Mina of BotCache to discover how they're using Python's Natural Language Toolkit to do ethnographic analysis of human interaction with Twitter bots like @capscop, @stealthmountain, & @big_ben_clock.\n\nBonus: Learn what the \"Kardashian Co-efficient\" is. Seriously. (Hint: Theorist Ethan Zuckerman suggests Kim Kardashian's level of attention be used as a unit of measure.)\n\nWant to chat with us? We encourage the community to join the conversation with Twitter University at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QMUTANN1Aek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QMUTANN1Aek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QMUTANN1Aek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QMUTANN1Aek/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QMUTANN1Aek/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 81,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QMUTANN1Aek"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "x-hzHQ4VUmP1ybTLuafHbVeCUMg",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLmZLcUtRek1oOE5B",
+    "snippet": {
+      "publishedAt": "2013-11-07T18:47:30Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Python #LightningTalk: Understanding Python's Import Lock",
+      "description": "Got four minutes? Check out Maggie Zhou break down Python's import lock in this #LightningTalk!\n\nWant to chat with us? We encourage the community to join the conversation with Twitter University at http://twitter.com/university",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fKqKQzMh8NA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fKqKQzMh8NA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fKqKQzMh8NA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fKqKQzMh8NA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fKqKQzMh8NA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 82,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fKqKQzMh8NA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "BPGLejx4H_nitTI6h1x83I6CK8s",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjFjb0xDLU1VQ0pj",
+    "snippet": {
+      "publishedAt": "2013-10-29T16:33:32Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Tulip: Async I/O for Python 3",
+      "description": "Back in October 2012 Python's Benevolent Dictator for Life, Guido van Rossum, embarked on a mission to add asynchronous I/O to the Python standard library, thus replacing the \"ancient and ever-problematic asycnore module\".\n\nHere's Guido himself giving you all the details!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1coLC-MUCJc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1coLC-MUCJc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1coLC-MUCJc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1coLC-MUCJc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1coLC-MUCJc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 83,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1coLC-MUCJc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "7JrFU_0CM9HTQ2uF9nCmLDV_b50",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjFWbkNaUDZ0UFZF",
+    "snippet": {
+      "publishedAt": "2013-10-25T18:42:06Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "TechWomen at Twitter",
+      "description": "On October 22nd, 2013 Twitter hosted a group of 300 friends and fans of the U.S. State Department's TechWomen program to celebrate the community of women technical leaders from around the world.\n\nThis video includes highlights from the event, as well as advice from our general counsel Vijaya Gadde and a panel of emerging leaders, including Angel Bisamaza, Hanan Youssef, Shaden Mar'i, and Ngwana Matloa.\n\nMore info available at https://blog.twitter.com/2013/celebrating-techwomen",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1VnCZP6tPVE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1VnCZP6tPVE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1VnCZP6tPVE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1VnCZP6tPVE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1VnCZP6tPVE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 84,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1VnCZP6tPVE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "u7F3dI2VshKb7kD1nYX2KLXksJA",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjlkUFBEZjNaQkJJ",
+    "snippet": {
+      "publishedAt": "2013-10-22T20:44:51Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Using Shaders in the Browser with WebGL",
+      "description": "The second talk from the Bay Area Data Visualization Roundup from October 15th sees artist and visual programmer Ryan Alexander talk about using powerful shaders on the web with WebGL!\n\nFollow the man at http://twitter.com/notlion and at http://github.com/notlion",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9dPPDf3ZBBI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9dPPDf3ZBBI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9dPPDf3ZBBI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9dPPDf3ZBBI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9dPPDf3ZBBI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 85,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9dPPDf3ZBBI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "JVvUVQLFiF5V-8hLEjp60741ok4",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkJndV9Pc0E3cU5R",
+    "snippet": {
+      "publishedAt": "2013-10-17T16:46:31Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "#Interactive: Data Visualization at Twitter",
+      "description": "Nicolas Belmonte is a data visualization scientist on Twitter's Visual Insights Team, and in this short talk he discusses how visualizing data can help give context to tell a better story, drive interactivity to increase engagement, and deliver data from a new perspective.\n\nJoin Nicolas on Twitter at https://twitter.com/philogb",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bgu_OsA7qNQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bgu_OsA7qNQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bgu_OsA7qNQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Bgu_OsA7qNQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Bgu_OsA7qNQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 86,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Bgu_OsA7qNQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "M8qDy9rBVaweLYUi1khalMhTZ48",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjhxVjRRVzZwcFhF",
+    "snippet": {
+      "publishedAt": "2013-10-11T15:58:08Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Five Lessons to Electrify Gradle Plugins",
+      "description": "Jake Ouellette is a Software Engineer at Twitter who is working on the Crashlytics mobile crash reporting tool. Jake's primary responsibilities include developing build-tool and IDE plugins which integrate the Crashlytics mobile SDK into applications. In this brief video, he shares five lessons to electrify Gradle plugins.\n\nFollow Jake at http://twitter.com/jakeout",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8qV4QW6ppXE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8qV4QW6ppXE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8qV4QW6ppXE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8qV4QW6ppXE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8qV4QW6ppXE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 87,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8qV4QW6ppXE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jj-f7oqz0Oc7KIHMharAMeZzGQ4",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLkVNNWVkSUpVQTEw",
+    "snippet": {
+      "publishedAt": "2013-10-08T17:34:45Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Building Twitter for Android with Gradle",
+      "description": "Join Jonathan Le, Tech Lead on Twitter for Android, for a glimpse at some of the hurdles of adopting Gradle at Twitter, how they were overcome, and where we're at now.\n\nWant to learn more about Gradle? Check out Hans Dockter's talk from the same evening: http://t.co/pSuTQRiQ2b",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EM5edIJUA10/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EM5edIJUA10/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EM5edIJUA10/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EM5edIJUA10/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EM5edIJUA10/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 88,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EM5edIJUA10"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "iWOv6HPOV0PoCQwj2sS7k4iuDBs",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLnJYd3c3NjhMVVVN",
+    "snippet": {
+      "publishedAt": "2013-10-03T23:36:18Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Gradle for Android",
+      "description": "Wondering about the new Gradle-based build system for the Android SDK? Get the story straight from the source, Hans Dockter, founder of Gradleware.\n\nHans discusses everything from motivations, features developed as part of the Android effort, platform independent dependency management, library variants for different runtimes, and other features useful for platforms like Scala, Javascript, and C++.\n\nMore to come on Gradle, Crashlytics, and engineering at Twitter in the next few weeks! Subscribe to our channel to stay in the loop: http://bit.ly/16lKVNB",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rXww768LUUM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rXww768LUUM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rXww768LUUM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rXww768LUUM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rXww768LUUM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 89,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rXww768LUUM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "MSERMftIorgIBMn0STd0puu4mPw",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlE1UE91TUh4Vy0w",
+    "snippet": {
+      "publishedAt": "2013-10-02T15:47:36Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Introduction to Docker",
+      "description": "dotCloud founder and CTO Solomon Hykes recently stopped by Twitter HQ to show us Docker, an open source project designed to easily create lightweight, portable, self-sufficient containers from any application.\n\nCommon use cases for Docker include:\n\n* Automating the packaging and deployment of applications\n* Creation of lightweight, private PAAS environments\n* Automated testing and continuous integration/deployment\n* Deploying and scaling web apps, databases and backend services\n\nCheck out docker.io for all the official goodies, and follow Solomon at http://twitter.com/solomonstre",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q5POuMHxW-0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q5POuMHxW-0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q5POuMHxW-0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q5POuMHxW-0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q5POuMHxW-0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 90,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Q5POuMHxW-0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "LDugbx6S5-PUvuVnASZbBtRXolQ",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjIzc2Nkb3hIT0xn",
+    "snippet": {
+      "publishedAt": "2013-09-27T16:03:00Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Introduction to Summingbird",
+      "description": "Join Twitter's Oscar Boykin in this Introduction to Summingbird, a library that lets you write streaming MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms like Storm and Scalding.\n\nRead more about Summingbird at http://t.co/ou0KaW7oHN and hey, why not check out the repo: https://github.com/twitter/summingbird",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/23scdoxHOLg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/23scdoxHOLg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/23scdoxHOLg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/23scdoxHOLg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/23scdoxHOLg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 91,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "23scdoxHOLg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "tUGOW6MsasWZL-Oz_nR9ojiz_R8",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLjd6YW13YzJsWGhn",
+    "snippet": {
+      "publishedAt": "2013-09-16T16:17:27Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Building Vine on Android",
+      "description": "Ever wonder what it's like to port a wildly popular iOS app to Android? Join Sara Haider, Android engineer on Vine, to learn all about the challenges and trade-offs they faced in building Vine for Android. Sara will shed some light into the build stack, tools, and processes used in the project, such as migrating to Android Studio and Gradle, using Crashlytics, and much more.\n\nFollow http://twitter.com/university to learn about all upcoming Twitter University events, and http://sfandroid.org to keep your finger on the pulse of what's new in Android!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7zamwc2lXhg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7zamwc2lXhg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7zamwc2lXhg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7zamwc2lXhg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7zamwc2lXhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 92,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7zamwc2lXhg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "JQPByAt4zOgIADKLSGEIWTFOeEE",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlNGajVFTXc4VEhr",
+    "snippet": {
+      "publishedAt": "2013-09-06T17:42:54Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Hadoop on Mesos at Airbnb",
+      "description": "Apache Mesos (http://mesos.apache.org) is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. In this presentation, Airbnb engineer Brenden Matthews explains how they run Hadoop as a Mesos framework. This video was recorded at the July 25, 2013 Mesos meetup, held at TwitterHQ in San Francisco.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SFj5EMw8THk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SFj5EMw8THk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SFj5EMw8THk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SFj5EMw8THk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SFj5EMw8THk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 93,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SFj5EMw8THk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "WCOcGTSV_zRTTz1gft6JKDBVUnc",
+    "id": "VVVlRGg5b21DX3hNS3JhcjJzclFaaUxnLlRQWHdfbE1USlZr",
+    "snippet": {
+      "publishedAt": "2013-09-04T21:20:06Z",
+      "channelId": "UCeDh9omC_xMKrar2srQZiLg",
+      "title": "Building a Framework on Mesos: A Case Study with Jenkins",
+      "description": "Apache Mesos (http://mesos.apache.org) is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. In this presentation, Twitter engineer Vinod Kone explains how to develop a Mesos framework, using Jenkins (http://jenkins-ci.org) as a case study.\n\nThis video was recorded at the July 25, 2013 Mesos meetup, held at TwitterHQ in San Francisco.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TPXw_lMTJVk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TPXw_lMTJVk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TPXw_lMTJVk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TPXw_lMTJVk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TPXw_lMTJVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Twitter University",
+      "playlistId": "UUeDh9omC_xMKrar2srQZiLg",
+      "position": 94,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TPXw_lMTJVk"
+      }
+    }
+  }
+]

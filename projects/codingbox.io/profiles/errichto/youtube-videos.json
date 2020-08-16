@@ -1,0 +1,3747 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4kgpI3P010-l9a2_u5oj2C12mmw\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlktYkdzb2d6U3NR",
+    "snippet": {
+      "publishedAt": "2020-04-21T16:39:17.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Google Code Jam 2020 1B - Screencast & Commentary",
+      "description": "Screencast of Google Code Jam '20 Round 1B. Timestamps and links:\n0:00 A statement\n0:45 C statement\n1:50 C naive solution\n6:36 C exponential solution\n8:42 C correct solution\n12:32 C testing & debugging\n14:20 A solution\n18:43 A testing & strange bug\n20:03 B statement\n20:32 B solution\n22:40 thoughts after the contest\n25:00 final results and correcting B\ncontest link: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2\ncodeforces discussion: https://codeforces.com/blog/entry/76281\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Y-bGsogzSsQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/spbCJ_yPjYt-ryGwMHNIAhtZI24\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlJ5QUdFYjRWV28w",
+    "snippet": {
+      "publishedAt": "2020-04-21T07:00:20.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 20 - Binary Search Tree from Preorder Traversal",
+      "description": "Binary Search Tree is an important data structure and you should be able to construct it from an array. I'm showing O(N^2) and then O(N) solution starting at 8:49\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RyAGEb4VWo0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CktuhbtRI-pN7SWxz6FFSMFeXt4\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjg0YThmUXA1aEpB",
+    "snippet": {
+      "publishedAt": "2020-04-20T07:00:04.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 19 - Search in Rotated Sorted Array",
+      "description": "We have a binary search problem today: given a sorted array after shifting like [4, 6, 9, 2, 3], find a target value X. Watch my lecture about binary search here: https://www.youtube.com/watch?v=GU7DpgHINWQ\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "84a8fQp5hJA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EVwzhgtTnm0sda9-NqhHW9JkFA0\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk5MMTJuY2hSb1VF",
+    "snippet": {
+      "publishedAt": "2020-04-19T07:00:08.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 18 - Grid Minimum Path Sum",
+      "description": "Find the minimum-sum path between two corners of a grid, only going down or right each time. This is a standard dynamic programming problem. Learn iterative dynamic programming with my three lecture videos: https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NL12nchRoUE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CDxO4HV6Mmc0Ro_CIpK2j7c4PdU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnNkdXUxbjV1WlVF",
+    "snippet": {
+      "publishedAt": "2020-04-18T07:00:17.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 17 - Number of Islands (Grid BFS Algorithm)",
+      "description": "Each cell of a grid is water or land. Find the number of islands (connected components of land cells). There are at least three solutions: DFS, BFS or DSU (also called Find&Union).\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sduu1n5uZUE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YBm274T9wSEt-GLCZEP9eh8SrCg\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnBpVDU4ZE5MUGhn",
+    "snippet": {
+      "publishedAt": "2020-04-17T07:00:15.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 16 - Wildcards Bracket String (I Struggle)",
+      "description": "In problem \"Valid Parenthesis String\", you need to replace characters '*' with opening and closing brackets (or remove them) in order to get a valid bracket sequence. It's the first time when I don't know how to solve a problem and I need to guess, and then think much longer to understand what happened.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "piT58dNLPhg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EcHxHTUBfT22_Jr0MPaKSOiS7Eo\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkUwRnFBYkhqZjRF",
+    "snippet": {
+      "publishedAt": "2020-04-16T07:17:37.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 15 - Product of Array Except Self",
+      "description": "For every position of an array, compute the product of all other numbers. We can either use a known technique related to prefixes, or we can do some case analysis.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "E0FqAbHjf4E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4Jq0M6vUUWcEWMwZpw9EDseuQC8\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnV6anRhZkJ2eVJV",
+    "snippet": {
+      "publishedAt": "2020-04-15T07:00:31.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 14 - String Shifts",
+      "description": "Easy coding interview problem: given a string, you need to perform multiple shifts to left or right.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uzjtafBvyRU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9AYStaMsrMkdkwO0olu7CRlK9us\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLi1POWJhMGlNVUhz",
+    "snippet": {
+      "publishedAt": "2020-04-14T07:12:44.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 13 - Contiguous Array (C++ & Python)",
+      "description": "100k live stream: https://youtu.be/rEGDNd-9PAU\nFind the longest subarray with equal number of zeros and ones. How to apply prefix sums here?\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-O9ba0iMUHs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kRjDWx9uu5vIXPlP3TFtfwKV6KU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnJFR0ROZC05UEFV",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:09:38.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Coding Live Until I Hit 101k Subscribers",
+      "description": "Doing some algo and coding until I hit 100k subs. Something from Code Jam, Codeforces, Leetcode? Suggest problems in the chat! Links will be posted here: https://github.com/Errichto/youtube/wiki/Current-notes\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Twitch live streams: https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rEGDNd-9PAU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aHKF9WPNmkArA45KJZzUWEFeXOY\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkp3anNlalJkZEZj",
+    "snippet": {
+      "publishedAt": "2020-04-13T07:18:33.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 12 - Last Stone Weight (C++ & Python)",
+      "description": "Simulate the process of taking two max elements and inserting their difference to a structure.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JwjsejRddFc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uOUM2uGvuMZidnH_-c0wC_yF3R0\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk1fQmFPSGtUdHlZ",
+    "snippet": {
+      "publishedAt": "2020-04-12T07:00:06.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 11 - Diameter of Binary Tree (DFS)",
+      "description": "You are given a pointer to the root of a binary tree. Find the diameter: the longest path in this tree. See my coding this coding interview problem from scratch and then explaining the solution.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "M_BaOHkTtyY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bkKxcJzxvKXyjIzgx3EU2NGyFiY\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkdodlQ5T2I4YXBz",
+    "snippet": {
+      "publishedAt": "2020-04-11T07:00:06.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 10 - Min Stack C++ Implementation",
+      "description": "This coding interview problem is: implement stack that also support query for minimum element. Can you create such a data structure?\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GhvT9Ob8aps"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZTMm4rIQf3gzoduITk0OxZmvV5w\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLi1sUzRnVU1MS000",
+    "snippet": {
+      "publishedAt": "2020-04-10T07:11:09.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "(HARD?) LeetCode Day 9 - Backpace String Compare in O(1) Space",
+      "description": "We need to compare two modified strings in O(1) space. This was quite difficult for me but hey, maybe that's a good thing.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-lS4gUMLKM4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0dZaYm_b8qt9JdNuCdOEpIQjRvo\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLndxNE9aWjNZTGo0",
+    "snippet": {
+      "publishedAt": "2020-04-09T07:00:30.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 8 - Middle of a Linked List (Two Pointers)",
+      "description": "Middle of a Linked List is another frequent coding interview problem, this time involving a linked list structure and O(1) extra space requirement, so we can't just transform this list into an array.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wq4OZZ3YLj4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jgnz59aCE4w0v5YGB32KsjXG1yg\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk9WdmdpV2VLSTE0",
+    "snippet": {
+      "publishedAt": "2020-04-08T16:51:49.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Week 1 Summary + Divide&Conquer and More",
+      "description": "Week 1 Summary of solving Leetcode coding interview problems daily. I will talk about harder versions of some problems.\nAll codes: https://github.com/Errichto/youtube/tree/master/leetcode/april-2020-challenge\n0:34 Week Summary\n3:05 Divide & Conquer (Max Subarray)\n14:57 Best time to buy & sell, why greedy differences work?\n18:32 Best time to buy & sell, Multiple units dp\n20:07 Best time to buy & sell, Multiple units, greedy-ish solution\n32:28 IOI 2015 problem \"Horses\"\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OVvgiWeKI14"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/do2MPZP8GYCAL6HerjExJ1ojsIY\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnFfa3VnYkdET3pZ",
+    "snippet": {
+      "publishedAt": "2020-04-08T07:00:19.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Challenge Day 7 - Too Easy? Harder Version!",
+      "description": "Count elements x such that x+1 exists too. You must be fluent with hashsets to nail your coding interviews, but what about a harder version of a problem where hashset won't be enough?\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "q_kugbGDOzY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LGBfQobR3m8JUyMCSMqHV0kTzZk\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlU4Z2x2NHNYNlB3",
+    "snippet": {
+      "publishedAt": "2020-04-07T07:00:19.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Challenge Day 6 - Anagrams and Canonical Form",
+      "description": "Group given strings into anagrams. To solve this coding interview problem, you need a knowledge of term from math: canonical representation.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "U8glv4sX6Pw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-5Uw5wABLWdj1WaoGv83X4EZmw8\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlZheUt2Q2c0dnZR",
+    "snippet": {
+      "publishedAt": "2020-04-06T18:02:23.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "HARD Constructive Problem E | Google Code Jam 2020 Qual Round",
+      "description": "Hard constructive problem E from Code Jam 2020 Qual'.\n0:24 statement\n0:57 simple analysis\n2:25 what to put on diagonal?\n6:25 solution 1 (construction and cases)\n11:13 solution 2 (matchings)\n20:59 summary & bye\nround link: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27\nmy codes and slides: https://github.com/Errichto/youtube/tree/master/GCJ/2020/qual\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VayKvCg4vvQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VayKvCg4vvQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VayKvCg4vvQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VayKvCg4vvQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g5nQDOX8_8kvFlax_fNu90Y0oFs\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk1UbkZJRjJJMmd3",
+    "snippet": {
+      "publishedAt": "2020-04-06T07:00:08.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Challenge Day 5 - Buy and Sell Stock II",
+      "description": "Given price of stock for each day, write a program to compute maximum possible profit by making multiple transactions. This is a good example of Dynamic Programming problem and for more on this topic, watch my series of DP lectures https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MTnFIF2I2gw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4ssvvyqMSYsHJ8ezrR5tpwrEclE\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkFLNDUtcnJuWWhZ",
+    "snippet": {
+      "publishedAt": "2020-04-05T21:08:52.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Interactive Problem D | Google Code Jam 2020 Qual Round",
+      "description": "Interactive problem D from Google Code Jam 2020 Qualification Round. I go through an easier version first, then there's screencast with commentary from the actual contest, then solution summary. More info about the contest https://codingcompetitions.withgoogle.com/codejam & round link https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AK45-rrnYhY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AK45-rrnYhY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AK45-rrnYhY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AK45-rrnYhY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AK45-rrnYhY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AK45-rrnYhY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EELhis1E0VnlRb1zPO148xYRZZU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLktiWGtfLU0wa3c4",
+    "snippet": {
+      "publishedAt": "2020-04-05T15:02:22.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "A B C Explained | Screencast of Google Code Jam 2020 Qual Round",
+      "description": "How to quickly solve A B & C from Google Code Jam 2020 Qualification Round? This is my screencast with a post-commentary and solution explanation. Expect more videos as I'm fighting to qualify for the finals again. More info about the contest https://codingcompetitions.withgoogle.com/codejam & round link https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KbXk_-M0kw8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KbXk_-M0kw8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KbXk_-M0kw8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KbXk_-M0kw8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KbXk_-M0kw8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KbXk_-M0kw8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tWWA0AMswplbIQeW3vkLufV5aWU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkU3eHhHaTg0VHNv",
+    "snippet": {
+      "publishedAt": "2020-04-05T07:00:02.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Challenge Day 4 - First Good Problem?",
+      "description": "Modify an array by moving all 0's to the end, with O(1) extra space complexity. Finaly, an interesting coding interview problem in the series. And for more coding interview preparation I recommend https://www.algoexpert.io/errichto (90 common problems with tests and good video walkthroughs).\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E7xxGi84Tso/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E7xxGi84Tso/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E7xxGi84Tso/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E7xxGi84Tso/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E7xxGi84Tso/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "E7xxGi84Tso"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/irv2K8BuaJU3469b3hX6Q96RNME\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnVtdDd0MV9YOFJj",
+    "snippet": {
+      "publishedAt": "2020-04-04T07:00:30.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Challenge Day 3 - Max Subarray",
+      "description": "Max Subarray and Kadane's algorithm. You should already know this if you prepare for coding interviews. Make sure to check out an alternative solution at 7:05 though!\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/umt7t1_X8Rc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/umt7t1_X8Rc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/umt7t1_X8Rc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/umt7t1_X8Rc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/umt7t1_X8Rc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "umt7t1_X8Rc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/q_gochi2n8QevOyVRMLNmOuFQ8k\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmxnaldYaTIxSUFn",
+    "snippet": {
+      "publishedAt": "2020-04-03T07:00:14.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode April Challenge Day 2 - Infinite Loop?",
+      "description": "Second problem is about a possibly infinite process. Will we ever get number 1? Again, I'm solving problem from scratch and then going into more detail.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nEducative published a free behavioral course, more companies should do this! https://www.educative.io/courses/grokking-the-behavioral-interview\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lgjWXi21IAg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lgjWXi21IAg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lgjWXi21IAg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lgjWXi21IAg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lgjWXi21IAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lgjWXi21IAg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CfUOVBgdsT7KvRsaK1CTbNmk_MM\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnd2VnFEa1g4VTRB",
+    "snippet": {
+      "publishedAt": "2020-04-02T07:00:12.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode April Challenge Day 1 - Easy Start",
+      "description": "First day problem took me 19 seconds to read+code because it's the world's best-known XOR problem... well, at least I will talk about some intuition behind it.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wvVqDkX8U4A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wvVqDkX8U4A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wvVqDkX8U4A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wvVqDkX8U4A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wvVqDkX8U4A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wvVqDkX8U4A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HV3JNq5dr49K1NrCCmjG9WOFuDs\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnk3MTY5akV2Yi1Z",
+    "snippet": {
+      "publishedAt": "2020-04-01T07:13:45.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "How To Become Red Coder? (codeforces.com)",
+      "description": "5 simple tips to become a red coder in https://codeforces.com/. What algorithmic books do you need? Which algorithm and topic you should study first for competitive programming? Do you need to practice typing speed? Find out!\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y7169jEvb-Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y7169jEvb-Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y7169jEvb-Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/y7169jEvb-Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/y7169jEvb-Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "y7169jEvb-Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sMaQEM68WDECkvCYeaeSt-r-ds0\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmNwZ3VvbHgyb21z",
+    "snippet": {
+      "publishedAt": "2020-03-29T16:36:31.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Programming Competitions (Codeforces, Code Jam, ...)",
+      "description": "Overview of online and onsite programming competitions/contests like Codeforces, Google Code Jam, Facebook Hacker Cup, ICPC and many many more. Two main online competitive programming platforms are https://codeforces.com/ and https://atcoder.jp/. There are also Google competitions like Code Jam, Kickstart and Hash Code https://codingcompetitions.withgoogle.com/. You can see all of those in this contest list/calendar https://clist.by/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cpguolx2oms/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cpguolx2oms/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cpguolx2oms/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cpguolx2oms/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cpguolx2oms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cpguolx2oms"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_e-Ouao3wSdNw4hwf89HCo_h2i8\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnhBZWlYeTgtOVk4",
+    "snippet": {
+      "publishedAt": "2020-03-28T11:53:08.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "How to start Competitive Programming? For beginners!",
+      "description": "Guide on how to get started with Competitive Programming. Go to any platform like Codeforces, sort problems by difficulty and just solve them. Two good platforms are https://codeforces.com/ and https://atcoder.jp/, and there's also free PDF \"Competitive Programmer's Handbook\" https://cses.fi/book/book.pdf\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xAeiXy8-9Y8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xAeiXy8-9Y8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xAeiXy8-9Y8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xAeiXy8-9Y8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xAeiXy8-9Y8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xAeiXy8-9Y8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QFdYC-Ns6TDOw2zs_nEfwLEOeek\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmRWWHk2aG1FXzBV",
+    "snippet": {
+      "publishedAt": "2020-02-28T12:19:16.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Facebook Coding Interview Question - First and Last Position of X in Sorted Array",
+      "description": "Finding value in sorted array? Sounds easy, doesn't it? This is a coding interview question from Facebook. You can try it yourself on Leetcode: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/.\n\nGet your CV reviewed and get a referral to FANG company, using https://www.rooftopslushie.com/invite/kamil\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming #CodingInterview",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dVXy6hmE_0U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dVXy6hmE_0U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dVXy6hmE_0U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dVXy6hmE_0U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dVXy6hmE_0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dVXy6hmE_0U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/U2BQYiJeM8QiY_6v6dZxL_uIWI4\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnpxZV96SWt5VkdR",
+    "snippet": {
+      "publishedAt": "2020-02-18T15:44:34.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Google Coding Interview Question - Longest String Chain",
+      "description": "Longest String Chain is a coding interview question asked by Google. This is a little bit of string manipulation, graphs, recursion and dp... yeah. The problem is available on Leetcode: https://leetcode.com/problems/longest-string-chain/.\n\nFor coding interview preparation, I recommend https://www.algoexpert.io/errichto\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming #CodingInterview",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zqe_zIkyVGQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zqe_zIkyVGQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zqe_zIkyVGQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zqe_zIkyVGQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zqe_zIkyVGQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zqe_zIkyVGQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mbkYmWCKt7FPjbSWa8W-sQZ5SQA\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkV2Z1pDVWhUb3Nj",
+    "snippet": {
+      "publishedAt": "2020-02-15T16:35:45.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Amazon Coding Interview Question - Merge Two Sorted Lists",
+      "description": "Merge Two Sorted Lists is a coding interview question asked by Amazon (and sometimes Microsoft). In this video, I'm also explaining how to merge two sorted arrays, and talking about differences. The problem is available on Leetcode: https://leetcode.com/problems/merge-two-sorted-lists/.\n\nFor coding interview preparation, I recommend https://www.algoexpert.io/errichto\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming #CodingInterview",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EvgZCUhTosc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EvgZCUhTosc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EvgZCUhTosc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EvgZCUhTosc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EvgZCUhTosc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EvgZCUhTosc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ygpZ1KzWvyjMcLau5DXmV5WNpn8\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmpxSjVzMDc3T0tv",
+    "snippet": {
+      "publishedAt": "2020-02-12T06:56:47.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "C++ Bitsets in Competitive Programming",
+      "description": "Tutorial on bitsets in C++. You will often see on Codeforces that you should \"just use bitsets\", and now you will learn how to do it. My CF article about this topic plus bonuses: https://codeforces.com/blog/entry/73558\n\nPrevious video with introduction to bitwise operations: https://youtu.be/xXKL9YBWgCY\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jqJ5s077OKo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jqJ5s077OKo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jqJ5s077OKo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jqJ5s077OKo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jqJ5s077OKo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jqJ5s077OKo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5fZH9ejVeHXyJ8_fESBEjFcOPTo\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnhYS0w5WUJXZ0NZ",
+    "snippet": {
+      "publishedAt": "2020-02-07T09:22:27.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Bitwise Operations tutorial #1 | XOR, Shift, Subsets",
+      "description": "Part 1 of tutorial on bitwise operations and bit manipulation in Competitive Programming: bitwise AND, OR, XOR, left and right shift, iterating over all subsets of a set. The content is the same as in my Codeforces article https://codeforces.com/blog/entry/73490. You can find more advanced tricks in TopCoder bits tutorial https://www.topcoder.com/community/competitive-programming/tutorials/a-bit-of-fun-fun-with-bits/.\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xXKL9YBWgCY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xXKL9YBWgCY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xXKL9YBWgCY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xXKL9YBWgCY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xXKL9YBWgCY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xXKL9YBWgCY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HLUmndKr9m_oeUB0ci6dxNaquHA\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmlYYkoxcXZLZzI4",
+    "snippet": {
+      "publishedAt": "2020-02-01T22:01:05.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Leetcode problem Break a Palindrome",
+      "description": "Solving an easy/medium coding interview question from Leetcode https://leetcode.com/problems/break-a-palindrome/\n\nMy code: https://github.com/Errichto/youtube/blob/master/leetcode/1328-break-a-palindrome.cpp\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Second YT channel for streams: https://www.youtube.com/errichto2\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iXbJ1qvKg28/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iXbJ1qvKg28/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iXbJ1qvKg28/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iXbJ1qvKg28/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iXbJ1qvKg28/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iXbJ1qvKg28"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8ssk2LXFecL8nugf3Ogstemuh38\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnJGMTM1MDdtUnA4",
+    "snippet": {
+      "publishedAt": "2020-01-29T12:11:24.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "POI problem Movie-goer | Polish Olympiad in Informatics",
+      "description": "Solving a Polish Olympiad problem Movie-goer about best part of the sequence https://szkopul.edu.pl/problemset/problem/k-RYEjhwNTo_XdaCidXQUGMU/site/?key=statement\n\nFinal code: https://github.com/Errichto/youtube/blob/master/POI/22-movie-goer.cpp\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Second YT channel for streams: https://www.youtube.com/errichto2\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rF13507mRp8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rF13507mRp8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rF13507mRp8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rF13507mRp8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rF13507mRp8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rF13507mRp8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kHL8eqrWRlVIEpJkeOFA0GOysOQ\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLm1ocnZsb3IxcUgw",
+    "snippet": {
+      "publishedAt": "2020-01-22T17:12:21.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Codeforces problem NEKO's Maze Game (div1A)",
+      "description": "Solving an easy (div1A) coding problem from Codeforces https://codeforces.com/contest/1292/problem/A\n\nFinal code: https://github.com/Errichto/youtube/blob/master/codeforces/614a-maze-game.cpp\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Second YT channel for streams: https://www.youtube.com/errichto2\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mhrvlor1qH0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mhrvlor1qH0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mhrvlor1qH0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mhrvlor1qH0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mhrvlor1qH0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mhrvlor1qH0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HI4WlSLPjeH7fs11tJy56uif4Ow\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjBDS1VqRGNVWVlB",
+    "snippet": {
+      "publishedAt": "2020-01-11T12:04:27.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Leetcode problem Longest Palindromic Substring (two solutions)",
+      "description": "Solving a medium coding interview question from Leetcode https://leetcode.com/problems/longest-palindromic-substring/\n\nFinal code: https://github.com/Errichto/youtube/blob/master/leetcode/5-palindromic-substring.cpp\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Second YT channel for streams: https://www.youtube.com/errichto2\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0CKUjDcUYYA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0CKUjDcUYYA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0CKUjDcUYYA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0CKUjDcUYYA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0CKUjDcUYYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0CKUjDcUYYA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/o-7qPp9B0Rx9Yh6J7CJBqGNve-A\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjJSRFFWVzdSc3BN",
+    "snippet": {
+      "publishedAt": "2019-12-29T16:03:08.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Hard Leetcode problem Move A Box To Target Location (with implementation)",
+      "description": "Solving a hard coding interview question from Leetcode https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/\n\nFinal code: https://github.com/Errichto/youtube/blob/master/leetcode/1263-box-in-grid.cpp\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Second YT channel for streams: https://www.youtube.com/errichto2\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2RDQVW7RspM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2RDQVW7RspM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2RDQVW7RspM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2RDQVW7RspM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2RDQVW7RspM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2RDQVW7RspM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kwKO7mNUgXHQWE_7Y7aSOQsBMFM\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmVQWkVrYmJmM2Zj",
+    "snippet": {
+      "publishedAt": "2019-12-17T12:21:40.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Linux setup for Competitive Programming (with Geany)",
+      "description": "I use Ubuntu (Linux) with Geany for Competitive Programming, here's instructions if you want to use the same setup. Steps are also listed down here: https://github.com/Errichto/youtube/wiki/Linux-setup. Remember that 99% of your contest performance comes from skills, Linux and Geany are just tools.\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\r\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Second YT channel for streams: https://www.youtube.com/errichto2\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ePZEkbbf3fc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ePZEkbbf3fc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ePZEkbbf3fc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ePZEkbbf3fc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ePZEkbbf3fc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ePZEkbbf3fc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0gpuSmVf-SOK-o7J9TT-S4yIsyk\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlhGMjRQUS1iT1Nj",
+    "snippet": {
+      "publishedAt": "2019-12-14T16:00:10.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Chess & Competitive Programming talk with Gaurav Sen, fellow programming Youtuber",
+      "description": "I talk about Competitive programming while playing chess with programmer/youtuber Gaurav Sen. Will I win at least once? Watch the other part on his channel: https://youtu.be/hx20w2Gd3_8\nCompetitive Programming survey: https://srsrv.com/GKCS\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\r\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XF24PQ-bOSc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XF24PQ-bOSc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XF24PQ-bOSc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XF24PQ-bOSc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XF24PQ-bOSc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XF24PQ-bOSc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ebtf-S4pdx2XM4d_20SKJ4clbyM\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLl9XN1l5MENORHdz",
+    "snippet": {
+      "publishedAt": "2019-11-24T11:17:41.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "4 Distinct Digits | hard problem from Topcoder Open 2019",
+      "description": "Four Distinct Digits is a hard algorithmic problem from the finals of Topcoder Open 2019. Here's a link to the full statement: https://community.topcoder.com/stat?c=problem_statement&pm=15790 (don't worry about the base B, it doesn't change much).\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_W7Yy0CNDws/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_W7Yy0CNDws/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_W7Yy0CNDws/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_W7Yy0CNDws/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_W7Yy0CNDws/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_W7Yy0CNDws"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K9_Bn1xXmUaL340XDRDS7aNtzEQ\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkdTMk14bW9yRXpj",
+    "snippet": {
+      "publishedAt": "2019-11-07T15:48:20.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Randomized algorithms lecture #2 - birthday paradox, random shuffle, hashing",
+      "description": "Part 2 of Randomized algorithms in Competitive Programming. First part: https://youtu.be/0r2D32esF3Y\nCodeforces blog with mentioned problems: https://codeforces.com/blog/entry/71097\nBlog about max element problem: https://codeforces.com/blog/entry/62602\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nSolution for last mentioned problem: you can estimate the value of PI by generating random points and counting those inside a circle. This way you will estimate the area of a circle. It's called Monte Carlo method, https://www.google.com/search?sxsrf=ACYBGNQE-Ysg6wAqyXKIoQzRwU3lSNZdvQ%3A1573138766453&source=hp&ei=TjHEXeT1GI7IrgSrr6LgCQ&q=estimate+pi+using+monte+carlo&oq=estimate+pi+using+monte+carlo&gs_l=psy-ab.3..35i39j0j0i22i30l8.659.659..1246...0.0..0.75.75.1......0....2j1..gws-wiz.L7NcS4WFYdI&ved=0ahUKEwjk1OrKrtjlAhUOpIsKHauXCJwQ4dUDCAY&uact=5",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GS2MxmorEzc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GS2MxmorEzc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GS2MxmorEzc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GS2MxmorEzc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GS2MxmorEzc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GS2MxmorEzc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XTip26v85ERbP7rS6Xvrlj-K0GQ\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjlDNEt0bmcyZmhr",
+    "snippet": {
+      "publishedAt": "2019-11-02T16:00:15.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Winning (?) LeetCode Biweekly Contest 12 — screencast with commentary",
+      "description": "I'm participating in Leetcode contest with semi-live commentary. Will I win?\nhttps://leetcode.com/contest/biweekly-contest-12\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9C4Ktng2fhk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9C4Ktng2fhk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9C4Ktng2fhk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9C4Ktng2fhk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9C4Ktng2fhk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9C4Ktng2fhk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/twm1XGauOgnIU2EXUjfoG1TlrFo\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjByMkQzMmVzRjNZ",
+    "snippet": {
+      "publishedAt": "2019-11-02T08:39:10.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Randomized algorithms lecture #1 - probability, repeating a process",
+      "description": "This is a lecture on randomized algorithms in Competitive Programming. Second part: https://youtu.be/GS2MxmorEzc\nCodeforces blog with mentioned problems: https://codeforces.com/blog/entry/71097\nAbout C++ rand() function in Codeforces: https://codeforces.com/blog/entry/61587\nExpected value blog: https://codeforces.com/blog/entry/62690\nMore randomized problems: https://codeforces.com/blog/entry/51244\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0r2D32esF3Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0r2D32esF3Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0r2D32esF3Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0r2D32esF3Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0r2D32esF3Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0r2D32esF3Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Kzu4uVo5ehVfR1pbQGFO4Na-4kg\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlRuQ1ZBRXNZR0tz",
+    "snippet": {
+      "publishedAt": "2019-10-30T05:00:02.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Save tree algorithms #teamtrees",
+      "description": "Save the environment by planting a tree. 1 dollar = 1 tree. https://teamtrees.org/\n#teamtrees\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TnCVAEsYGKs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TnCVAEsYGKs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TnCVAEsYGKs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TnCVAEsYGKs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TnCVAEsYGKs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TnCVAEsYGKs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Hr6t3BbMs8c_hI-lo_Eb-YmdrYU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmJjM0RwTlJaMGxr",
+    "snippet": {
+      "publishedAt": "2019-10-26T22:30:28.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Winning Google Kickstart 2019 round G — screencast with commentary",
+      "description": "I participated in Google Kickstart contest with semi-live commentary. And I won :)\nPost-contest stream and description of solutions: https://youtu.be/w3W-w0EXEtc\nContest link: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bc3DpNRZ0lk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bc3DpNRZ0lk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bc3DpNRZ0lk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bc3DpNRZ0lk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bc3DpNRZ0lk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 43,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bc3DpNRZ0lk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pekm7o2YJAF_1hHoYFsU_rs_Jnc\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLm0wU3hoWVNPNTRZ",
+    "snippet": {
+      "publishedAt": "2019-10-19T16:04:37.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Biweekly Contest 11 screencast with commentary",
+      "description": "I'm participating in Leetcode contest with semi-live commentary. Will I win?\nhttps://leetcode.com/contest/biweekly-contest-11\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m0SxhYSO54Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m0SxhYSO54Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m0SxhYSO54Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m0SxhYSO54Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m0SxhYSO54Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 44,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "m0SxhYSO54Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nf2agoZPQ3mCrP3swOQ-jnD8-TU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjZrYVJ4VDdwSTRJ",
+    "snippet": {
+      "publishedAt": "2019-10-17T20:22:02.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Three Leetcode problems - Queens, Dice, Frequency",
+      "description": "I'm solving three recent coding interview problems from Leetcode. Btw. you can turn on subtitles.\nhttps://leetcode.com/problems/queens-that-can-attack-the-king/\nhttps://leetcode.com/problems/dice-roll-simulation/\nhttps://leetcode.com/problems/maximum-equal-frequency/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6kaRxT7pI4I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6kaRxT7pI4I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6kaRxT7pI4I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6kaRxT7pI4I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6kaRxT7pI4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 45,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6kaRxT7pI4I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PCTscWKWFRBmkrHuPcExUC5Td8M\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlk4VmV5TEczTmhZ",
+    "snippet": {
+      "publishedAt": "2019-09-28T13:30:03.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Algorithms and coding interviews – talking with Clement, ex-Google engineer",
+      "description": "I'm talking with Clément Mihailescu about his channel and algoexpert business, the coding interview industry and Youtube. He later mock-interviewed me, you can watch the video on his channel: https://youtu.be/EuPSibuIKIg\n\nPreparing for coding interviews? Learn with more than 70 common questions and detailed video analysis on https://www.algoexpert.io/errichto (code \"errichto\" for 30% off, yay!).\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Twitch: https://www.twitch.tv/errichto\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y8VeyLG3NhY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y8VeyLG3NhY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y8VeyLG3NhY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y8VeyLG3NhY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y8VeyLG3NhY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 46,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Y8VeyLG3NhY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9XRfXW4U2tJ7Yw8KXGUXKOpfaIM\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjhSSXFKRERndFU4",
+    "snippet": {
+      "publishedAt": "2019-09-18T21:08:02.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Dynamic Programming Problems | Stream Highlights",
+      "description": "Highlights of my stream where I solved some dynamic programming problems from Leetcode. Best to watch with speed x1.25 or x1.5. Full stream: https://www.youtube.com/watch?v=yYYvva80AFM\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Twitch: https://www.twitch.tv/errichto\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8RIqJDDgtU8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8RIqJDDgtU8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8RIqJDDgtU8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8RIqJDDgtU8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8RIqJDDgtU8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 47,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8RIqJDDgtU8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K9Ed9VShTVueIiUuAoMTDb20bhA\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnczVy13MEVYRXRj",
+    "snippet": {
+      "publishedAt": "2019-10-19T20:03:37.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Google Kickstart, Leetcode, Codeforces",
+      "description": "A programming stream! There are Google Kickstart and a Leetcode contest on the same day. I'm going to participate, and then later talk about solutions during a live stream. After that, I will upsolve some Topcoder or Codeforces problems.\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w3W-w0EXEtc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w3W-w0EXEtc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w3W-w0EXEtc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 48,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "w3W-w0EXEtc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9-KbnScjAZohd4SepHd22fP3B4w\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnB3cE9DMWRwaDZV",
+    "snippet": {
+      "publishedAt": "2019-09-10T12:30:10.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Dynamic Programming lecture #3 - Line of wines",
+      "description": "Part 1: https://youtu.be/YBSt1jYwVfU & Part 2: https://youtu.be/1mtvm2ubHCY\nThis is the third of several lectures about Dynamic Programming. One harder problem this time (Line of wines) with three different solutions. Consider turning captions on and setting the speed to x1.25.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Twitch: https://www.twitch.tv/errichto\n- Youtube channel 1: https://www.youtube.com/errichto (lectures and single problems)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pwpOC1dph6U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pwpOC1dph6U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pwpOC1dph6U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pwpOC1dph6U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pwpOC1dph6U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 49,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pwpOC1dph6U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5wNXAISMDghx0-FV40Ud6M-6gsM\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjFtdHZtMnViSENZ",
+    "snippet": {
+      "publishedAt": "2019-06-19T10:57:36.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Dynamic Programming lecture #2 - Coin change, double counting",
+      "description": "Part 1: https://youtu.be/YBSt1jYwVfU\nThis is the second of several lectures about Dynamic Programming. I will again go through three problems: Combination Sum, Coin Change (min) and Coin Change (count). The third one is hardest because of double counting. Links to Leetcode in the pinned comment. Watch this lecture if you practice for competitive programming or for coding interviews. Consider turning captions on and setting the speed to x1.25.\n\nPlease give me suggestions about the format of a lecture or about topics for future lectures.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n- Youtube channel 1: https://www.youtube.com/errichto (mainly short videos)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1mtvm2ubHCY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1mtvm2ubHCY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1mtvm2ubHCY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1mtvm2ubHCY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1mtvm2ubHCY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 50,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1mtvm2ubHCY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/u70jwZFxFSnugIkeuR19OmdFwaU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLllCU3Qxall3VmZV",
+    "snippet": {
+      "publishedAt": "2019-06-17T18:07:10.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Dynamic Programming lecture #1 - Fibonacci, iteration vs recursion",
+      "description": "First of several lectures about Dynamic Programming. It's a huge topic in algorithms, allowing us to speed exponential solutions to polynomial time. I will go through three problems: Fibonacci, Staircase and Min-Path Grid (links to Leetcode in the pinned comment). And you'll learn which method is better: iteration or maybe recursion with memoization. Watch this lecture if you practice for competitive programming or for coding interviews. Consider turning captions on and setting the speed to x1.25.\n\nPlease give me suggestions about the format of a lecture or about topics for future lectures.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n- Youtube channel 1: https://www.youtube.com/errichto (mainly short videos)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YBSt1jYwVfU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YBSt1jYwVfU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YBSt1jYwVfU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YBSt1jYwVfU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YBSt1jYwVfU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 51,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YBSt1jYwVfU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jOtInTwkRv8UubpSIAQ_BhccYGY\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkdVN0RwZ0hJTldR",
+    "snippet": {
+      "publishedAt": "2019-06-07T12:11:52.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Binary Search tutorial (C++ and Python)",
+      "description": "This is the most comprehensive lecture on the binary search. Find the target value, or the first value satisfying some condition, or approximate sqrt(x) up to some precision. Watch this lecture if you practice for competitive programming or for coding interviews. See the pinned comment for links and my implementation. Consider turning captions on and setting the speed to x1.25.\n\nPlease give me suggestions about the format of a lecture or about topics for future lectures.\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n- Youtube channel 1: https://www.youtube.com/errichto (mainly short videos)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GU7DpgHINWQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GU7DpgHINWQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GU7DpgHINWQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GU7DpgHINWQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GU7DpgHINWQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 52,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GU7DpgHINWQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1O-66qLSwW0wgjBFYhatF5W2sEM\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLklXMnhaVnNENnc0",
+    "snippet": {
+      "publishedAt": "2019-06-01T04:00:01.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Codeforces problem - Pairs",
+      "description": "I'm solving an algorithmic problem \"Pairs\" (div2-B) from a programming contest Codeforces #562, https://codeforces.com/contest/1169/problem/B\n\nSubscribe to my second channel for problem solving streams! https://www.youtube.com/errichto2\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n- Youtube channel 1: https://www.youtube.com/errichto (mainly short videos)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IW2xZVsD6w4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IW2xZVsD6w4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IW2xZVsD6w4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IW2xZVsD6w4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IW2xZVsD6w4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 53,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IW2xZVsD6w4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EKhqzGQNBivnCNd8r19KjSQNRGc\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk1CX241MFdOUXJ3",
+    "snippet": {
+      "publishedAt": "2019-05-31T04:00:01.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Codeforces problem - And Reachability",
+      "description": "I'm solving an algorithmic problem \"And Reachability\" (div1-C) from a programming contest Codeforces #562, https://codeforces.com/contest/1168/problem/C\n\nSubscribe to my second channel for problem solving streams! https://www.youtube.com/errichto2\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n- Youtube channel 1: https://www.youtube.com/errichto (mainly short videos)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MB_n50WNQrw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MB_n50WNQrw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MB_n50WNQrw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MB_n50WNQrw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MB_n50WNQrw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 54,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MB_n50WNQrw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ljYcXEXwoWPvcCdeV_tt0oJpoLQ\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlRoamtIdzZ2eHY4",
+    "snippet": {
+      "publishedAt": "2019-05-24T08:00:45.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Codeforces problem - Two Arrays and Sum of Functions",
+      "description": "I'm solving an algorithmic problem \"Two Arrays and Sum of Functions\" from a programming contest Codeforces #560, https://codeforces.com/contest/1165/problem/E\n\nSubscribe to my second channel for problem solving streams! https://www.youtube.com/errichto2\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n- Youtube channel 1: https://www.youtube.com/errichto (mainly short videos)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ThjkHw6vxv8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ThjkHw6vxv8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ThjkHw6vxv8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ThjkHw6vxv8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ThjkHw6vxv8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 55,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ThjkHw6vxv8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-VWI1AnQ4LOdUW9l3q2QRgkr2_Q\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjZwbXhEZnhlbXJr",
+    "snippet": {
+      "publishedAt": "2019-05-24T07:59:39.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Codechef problem - Partition into Permutations",
+      "description": "I'm solving an algorithmic problem \"Partition into Permutations\" from a programming contest Codechef March Lunchtime 2019, https://www.codechef.com/LTIME70A/problems/PERMPART\n\nSubscribe to my second channel for problem solving streams! https://www.youtube.com/errichto2\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n- Youtube channel 1: https://www.youtube.com/errichto (mainly short videos)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6pmxDfxemrk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6pmxDfxemrk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6pmxDfxemrk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6pmxDfxemrk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6pmxDfxemrk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 56,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6pmxDfxemrk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dt7p3T8PPoTbVRPfOJzVsTrWquc\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmlVTmR6UDFvako0",
+    "snippet": {
+      "publishedAt": "2019-08-23T17:08:58.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Thanks for 10k subscribers! & channel update & answering your questions",
+      "description": "Thank you all for watching my videos and streams, and thanks to Joma for conducting an interview with me and hugely boosting my channel. Check out his coding interview preparation course with TechLead: https://www.techseries.dev/a/15414/jF5DJLKL (my affiliate link :3 ).\n\nYou can watch the interview here: https://www.youtube.com/watch?v=F4rykKLcduI&fbclid=IwAR1KmmhoOGyCua3gnj4B-y5i1JH-GO4nHD4CrjeSVpLixNMGrMwcJnR-GNw\n\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Github repository: https://github.com/Errichto/youtube\n- Facebook: https://www.facebook.com/errichto\n- Twitter: https://twitter.com/errichto\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n- Youtube channel 1: https://www.youtube.com/errichto (mainly short videos)\n- Youtube channel 2: https://www.youtube.com/errichto2 (streams)\n\nI’m Kamil Dębowski, better known as Errichto. I compete in and organize programming competitions. I make educational streams on Youtube and Twitch. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. I am/was nutella in Codeforces and target in Topcoder.\n\nWatch me if you want to practice for coding interviews, competitive programming or just algorithms in general. I share my thought process, explain everything, and mention similar problems and techniques/algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iUNdzP1ojJ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iUNdzP1ojJ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iUNdzP1ojJ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 57,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iUNdzP1ojJ4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jiZceCn-acOnV6z_LtNUPVQlE9k\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlQ1SS1tcDFpaGww",
+    "snippet": {
+      "publishedAt": "2019-03-12T14:39:05.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Codeforces Global Round 1 - coding contest stream 2/2",
+      "description": "I will solve problems from the Codeforces Global Round 1 in virtual participation. It's a simulation of a real coding contest where I see the leaderboard from a corresponding moment of time. I will explain my thought process in English. I might upsolve some other problems later. Contest link: https://codeforces.com/contest/1110.\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nYou can ask questions in live chat, and I will try to answer them.\nIf you miss the stream, the video will be available later anyway.\n\ngit repository: https://github.com/Errichto/youtube\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T5I-mp1ihl0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T5I-mp1ihl0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T5I-mp1ihl0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 58,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "T5I-mp1ihl0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WSx3VZ7W1xX8sxmnbA7BQfuITsM\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjRHTlV0NXVuRW5N",
+    "snippet": {
+      "publishedAt": "2019-03-11T13:39:38.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Coding Problem - Painting the Fence (Codeforces)",
+      "description": "Solving an algorithmic problem \"Painting the Fence\" from Codeforces https://codeforces.com/contest/1132/problem/C. The difficulty is div2-C. Subscribe and like the video for more content like this :)\n\nHit 'C' to turn subtitles on/off.\nAt 9:29, it should be \"and DP is increased\" instead of \"and USED is increased\", sorry for a mistake.\n\ngit repository: https://github.com/Errichto/youtube\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4GNUt5unEnM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4GNUt5unEnM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4GNUt5unEnM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 59,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4GNUt5unEnM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/E2K7K4QaZsI8phP5b0VTZekd3qM\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkJzQkZqd1gtS0Qw",
+    "snippet": {
+      "publishedAt": "2019-03-12T12:10:09.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Codeforces Global Round 1 - coding contest stream 1/2",
+      "description": "I will solve problems from the Codeforces Global Round 1 in virtual participation. It's a simulation of a real coding contest where I see the leaderboard from a corresponding moment of time. I will explain my thought process in English. I might upsolve some other problems later. Contest link: https://codeforces.com/contest/1110.\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nYou can ask questions in live chat, and I will try to answer them.\nIf you miss the stream, the video will be available later anyway.\n\ngit repository: https://github.com/Errichto/youtube\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BsBFjwX-KD0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BsBFjwX-KD0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BsBFjwX-KD0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 60,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BsBFjwX-KD0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ecxcHjbPQ_1M9gOIRI1D_lmFrwI\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlJ2cWN1S0xxUXlJ",
+    "snippet": {
+      "publishedAt": "2019-03-08T22:45:11.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Creating AI bot - Code a la Mode by Codingame",
+      "description": "Let's create a bot for a two-player game on https://www.codingame.com. Watch my stream if you want to learn how to approach such a problem. I will start from scratch, not even knowing what the problem is about. As usual, I'm going to explain everything I'm doing. My previous Codingame stream: https://www.youtube.com/watch?v=wWvkJZMlg8U.\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nYou can ask questions in live chat, and I will try to answer them.\nIf you miss the stream, the video will be available later anyway.\n\ngit repository: https://github.com/Errichto/youtube\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RvqcuKLqQyI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RvqcuKLqQyI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RvqcuKLqQyI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 61,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RvqcuKLqQyI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0CmgqjIb-3wvUaCGxUycvoTMbzg\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmxkeUtiSEZqRGVJ",
+    "snippet": {
+      "publishedAt": "2019-03-04T17:41:05.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Hard Coding Problem - Isolation (Codeforces)",
+      "description": "Solving a hard algorithmic problem Isolation from Codeforces https://codeforces.com/contest/1129/problem/D. The difficulty is div1-d. Subscribe and like the video for more content like this :)\n\ngit repository: https://github.com/Errichto/youtube\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ldyKbHFjDeI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ldyKbHFjDeI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ldyKbHFjDeI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 62,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ldyKbHFjDeI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GyAWTm3QG3AhRicCK6cjV0CjMz0\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjlDc1NxdnNzWnRv",
+    "snippet": {
+      "publishedAt": "2019-02-24T12:54:23.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Google Hash Code 2018 recap",
+      "description": "Google Hash Code is a coding competition where a team has 5 hours to solve one optimization/approximate problem. I competed last year and got 1-st and 6-th in the qualification and final round respectively. I will talk about problems, possible approaches, and give general advice and hints. Register for Google Hash Code 2019 here: https://codingcompetitions.withgoogle.com/. (Quantum programming stream is canceled.)\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nPlease ask questions in live chat.\nI will be happy to answer them.\nIf you miss the stream, the video will be available later anyway.\n\ngit repository: https://github.com/Errichto/youtube\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9CsSqvssZto/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9CsSqvssZto/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9CsSqvssZto/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 63,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9CsSqvssZto"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/i-3GvQKCbfm6CHv5_0AOLLs4jNM\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkpYVFZPeVFwU0dN",
+    "snippet": {
+      "publishedAt": "2019-02-05T14:31:23.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "How to test your solution in Competitive Programming, on Linux?",
+      "description": "Hit 'C' for subtitles. I will show you how to stress-test your program to find a counter-test during a contest like Olympiad in Informatics. I'm using Linux, but it's similar for Windows. Watch this if you're going to participate in Polish Olympiad! Codes are in the git repository, link below. You can find more debugging tips in my recent blog on Codeforces: https://codeforces.com/blog/entry/64993. Sorry for echo in the middle of the video :(\n\ngit repository: https://github.com/Errichto/youtube\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JXTVOyQpSGM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JXTVOyQpSGM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JXTVOyQpSGM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JXTVOyQpSGM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JXTVOyQpSGM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 64,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JXTVOyQpSGM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nd70w7d-FYR3VrgoqJeaO1dVzX4\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkZBUXhkbTBiVGF3",
+    "snippet": {
+      "publishedAt": "2019-02-17T15:41:59.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Dynamic Programming - AtCoder educational dp contest",
+      "description": "I will compete in the Educational DP Contest on AtCoder - https://atcoder.jp/contests/dp. I will approach problems from scratch, explain my thought process and implement everything. It's a perfect opportunity for you to learn more about dynamic programming concepts. The stream will be in English. The expected duration is 5 hours.\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nPlease ask questions in live chat.\nI will be happy to answer them.\nIf you miss the stream, the video will be available later anyway.\n\ngit repository: https://github.com/Errichto/youtube\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FAQxdm0bTaw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FAQxdm0bTaw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FAQxdm0bTaw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 65,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FAQxdm0bTaw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xq7qwcK491CyeGR3izBbuwKfY7Y\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkw3Z05heTFjNGFr",
+    "snippet": {
+      "publishedAt": "2019-01-27T14:25:44.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Coding Interview Question - Find Peak (LeetCode), two solutions",
+      "description": "Let's solve a coding interview question \"Find Peak Element\" from LeetCode. Given an array of numbers, find an element greater than its both neighbours, in logarithmic time complexity. I will show you two solutions.\n\nProblem link: https://leetcode.com/problems/find-peak-element/\nA similar problem: https://codeforces.com/contest/1019/problem/B\n\nSubscribe for more videos and streams on algorithms and coding interviews!\n\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L7gNay1c4ak/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L7gNay1c4ak/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L7gNay1c4ak/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 66,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "L7gNay1c4ak"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GMhBtf6FO016u1EGqHR8nMmcG5M\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmdGSE4wUXVvdHQw",
+    "snippet": {
+      "publishedAt": "2019-02-03T16:30:06.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Polish Olympiad in Informatics, POI 18/2 - problem solving",
+      "description": "I will solve problems from POI XVIII, stage 2 (Difference, Garbage, Temperature, Tree Rotations). I will explain my thought process and give some advice for those competing themselves. You can try to solve the problems yourself first: https://szkopul.edu.pl/p/default/problemset_eng/oi/18 (change the language to English in the top-right corner). The stream will be in English.\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nPlease ask questions in live chat.\nI will be happy to answer them.\nIf you miss the stream, the video will be available later anyway.\n\ngit repository: https://github.com/Errichto/youtube\nFacebook: https://www.facebook.com/errichto\nTwitter: https://twitter.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gFHN0Quott0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gFHN0Quott0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gFHN0Quott0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 67,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gFHN0Quott0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_R8Q1sqFjJ9MJaQIBSK98eU9qSA\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLndXdmtKWk1sZzhV",
+    "snippet": {
+      "publishedAt": "2018-12-12T19:03:03.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Codingame XMas - creating AI bot",
+      "description": "Let's create a bot for a two-player game on https://www.codingame.com. Watch my stream if you want to learn how to approach such a problem. I will start from 0, not even knowing what the problem is about. You can see my recent similar series of streams: https://www.youtube.com/playlist?list=PLl0KD3g-oDOEl7njZwG4naVTCUpV96SVT.\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nPlease ask questions in live chat.\nI will be happy to answer them.\nIf you miss the stream, the video will be available later anyway.\n\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\nFollow me on Facebook: https://www.facebook.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wWvkJZMlg8U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wWvkJZMlg8U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wWvkJZMlg8U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 68,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wWvkJZMlg8U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RjthVTSZEoa-IiKcxjKCX4dPrvo\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmdYeHUtQ3I0YjRj",
+    "snippet": {
+      "publishedAt": "2018-12-06T15:40:55.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Algorithms Lecture #4 - Exchange Arguments technique (part 2)",
+      "description": "Part 2 of two lectures about the Exchange Arguments technique. I recommend reading the lecture materials in advance and trying to solve some problems: https://codeforces.com/blog/entry/63533\n\nYou will learn a particular technique \"Exchange Arguments\" that allows solving problems that require choosing a subset of elements and reordering them. It can be used in some game problems too.\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nYou are welcome to ask questions when something is not clear.\nIf you miss the stream, the video will be available later anyway.\n\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\nFollow me on Facebook: https://www.facebook.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gXxu-Cr4b4c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gXxu-Cr4b4c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gXxu-Cr4b4c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 69,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gXxu-Cr4b4c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Si3dxKvGN1a2iNp_j9wRi4d2zfA\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjZfS01rZWg1a0Vj",
+    "snippet": {
+      "publishedAt": "2018-10-31T13:01:41.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Coding Interview Question - Set Matrix Zeroes (LeetCode)",
+      "description": "I am solving a coding interview question \"Set Matrix Zeroes\" from LeetCode - https://leetcode.com/problems/set-matrix-zeroes/. You are given a matrix, you should mark some cells as 0, and the difficulty is to do it in constant memory.\n\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\nFollow me on Facebook: https://www.facebook.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces, or increase you changes in the interview process!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6_KMkeh5kEc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6_KMkeh5kEc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6_KMkeh5kEc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6_KMkeh5kEc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6_KMkeh5kEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 70,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6_KMkeh5kEc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jDLyw5CAxMVyd-ws-IdCxWBZX2Q\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjdoRldyS2E2eVJN",
+    "snippet": {
+      "publishedAt": "2018-11-29T15:54:20.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Algorithms Lecture #3 - Exchange Arguments technique (part 1)",
+      "description": "I recommend reading the lecture materials in advance and trying to solve some problems: https://codeforces.com/blog/entry/63533\n\nYou will learn a particular technique \"Exchange Arguments\" that allows solving problems that require choosing a subset of elements and reordering them. It can be used in some game problems too.\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nYou are welcome to ask questions when something is not clear.\nIf you miss the stream, the video will be available later anyway.\n\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\nFollow me on Facebook: https://www.facebook.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7hFWrKa6yRM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7hFWrKa6yRM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7hFWrKa6yRM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 71,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7hFWrKa6yRM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/woxNG-eY7c9G1IPoQZe07B07WIY\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkhEazZ6UXcwUmRv",
+    "snippet": {
+      "publishedAt": "2018-10-29T16:02:02.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Algorithms Lecture #2 - EV and Sums of Small Powers",
+      "description": "Watch part 1 for the introduction of EV and \"contribution\" technique: https://www.youtube.com/watch?v=U_h3IjreRek.\n\nLecture materials: https://codeforces.com/blog/entry/62792.\n\nWe will focus on hard problems about finding the sum over x^2 or x^3 over all intervals/subsets. Something that appears quite often in Codeforces or ACM ICPC contests.\n\nI'm going to stream on Twitch at the same time: https://www.twitch.tv/errichto.\n\nYou are welcome to ask questions when something is not clear.\nIf you miss the stream, the video will be available later anyway.\n\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\nFollow me on Facebook: https://www.facebook.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HDk6zQw0Rdo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HDk6zQw0Rdo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HDk6zQw0Rdo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 72,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HDk6zQw0Rdo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oNX99JCSF3MnajzjlJ0ilJIWbZw\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlVfaDNJanJlUmVr",
+    "snippet": {
+      "publishedAt": "2018-10-25T15:22:13.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Algorithms Lecture #1 - Sums and Expected Value",
+      "description": "Lecture materials: http://codeforces.com/blog/entry/62690.\n\nFirst, I will talk about the Expected Value - with definition, examples and simple problems. The only prerequisite is knowing what is probability.\n\nThen we will move to problems like \"find the sum over all intervals/subsets\". Something that appears quite often in Codeforces or ACM ICPC contests.\n\nNext part on Monday, 29-th, same time - continuation with harder problems!\n\nYou are welcome to ask questions when something is not clear.\nIf you miss the stream, the video will be available later anyway.\n\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\nFollow me on Facebook: https://www.facebook.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code Jam. I got a second place in Google Code Jam 2018. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U_h3IjreRek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U_h3IjreRek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U_h3IjreRek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 73,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "U_h3IjreRek"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SoMWQHS5VBEZUaQHY6xTm5boS3c\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkJGZEc3cnRSVHpN",
+    "snippet": {
+      "publishedAt": "2018-10-22T15:18:28.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Codeforces stream #2 - div1 A-B solving with explanation",
+      "description": "Problem-solving of recent div1 A-B problems from Codeforces. Watch me if you want to practice Competitive Programming, algorithms or you want to learn for a coding interview. I share my thought process, explain everything, and mention similar problems that I know or techniques/algorithms that could be used too. Learn from me and grow your rating on Codeforces!\n\nI'm known as Errichto. I compete in and organize programming competitions. I'm a finalist of ACM-ICPC, Topcoder Open, Facebook Hacker Cup and Google Code jam. I got a second place in Google Code Jam 2018.\n\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming\nFollow me on Facebook: https://www.facebook.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BFdG7rtRTzM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BFdG7rtRTzM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BFdG7rtRTzM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 74,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BFdG7rtRTzM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-uotd6XyZNjNBD8-OoKo9x_nY80\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLms2Nmg3N1NnN2Z3",
+    "snippet": {
+      "publishedAt": "2018-10-21T19:31:10.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Terminal - creating AI bot, part 3",
+      "description": "Join a game, write a bot, win $10,000 - https://terminal.c1games.com.\n\nWatch the first part here: https://www.youtube.com/watch?v=OTiZ2ARzamU&list=PLl0KD3g-oDOEl7njZwG4naVTCUpV96SVT.\n\nThe last of three streams. I will show how to start with competitions like this, talk about possible approaches, and implement some basic algos.\n\nFollow me on Facebook: https://www.facebook.com/errichto\nCompetitive Programming Discord: https://discordapp.com/invite/UzaURu7",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k66h77Sg7fw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k66h77Sg7fw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k66h77Sg7fw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 75,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k66h77Sg7fw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/s6k-hLgZSyc6QvJf_sUCyihrsR8\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLmdzNC1rX3pfWDM0",
+    "snippet": {
+      "publishedAt": "2018-10-19T14:24:15.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Terminal - creating AI bot, part 2",
+      "description": "Join a game, write a bot, win $10,000 - https://terminal.c1games.com.\n\nWatch the previous part here: https://www.youtube.com/watch?v=OTiZ2ARzamU&list=PLl0KD3g-oDOEl7njZwG4naVTCUpV96SVT.\n\nA second of three streams. The last one will be on Sunday, a few hours later. I will show how to start with competitions like this, talk about possible approaches, and implement some basic algos.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gs4-k_z_X34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gs4-k_z_X34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gs4-k_z_X34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 76,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gs4-k_z_X34"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nIbN9SvqeAoQCoy_fU5vJLnzj0Y\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkFLWHVkRWhvR0tR",
+    "snippet": {
+      "publishedAt": "2018-10-17T15:27:51.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Terminal - creating AI bot, part 1.2",
+      "description": "Join a game, write a bot, win $10,000 - https://terminal.c1games.com.\n\nI will show how to start with competitions like this, talk about possible approaches, and implement some basic algos. Next part on Friday (two days later), same time.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AKXudEhoGKQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AKXudEhoGKQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AKXudEhoGKQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 77,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AKXudEhoGKQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VGwKh6SmXJQZ5wHwj7hQ31pD-lI\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlNCNGZiTkh3YXZZ",
+    "snippet": {
+      "publishedAt": "2018-10-15T18:02:57.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Coding Interview Question - Max Min (Hackerrank)",
+      "description": "You can solve a problem here: https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms\n\nI'm testing a lot of things for this channel. If you have any suggestions, do leave a comment :)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SB4fbNHwavY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SB4fbNHwavY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SB4fbNHwavY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SB4fbNHwavY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SB4fbNHwavY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 78,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SB4fbNHwavY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GqC340QvhgGi3EHN9PQ0sHv4vtc\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk9UaVoyQVJ6YW1V",
+    "snippet": {
+      "publishedAt": "2018-10-17T11:53:18.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Terminal - creating AI bot, part 1.1",
+      "description": "Join a game, write a bot, win $10,000 - https://terminal.c1games.com.\n\nI will show how to start with competitions like this, talk about possible approaches, and implement some basic algos. Next part on Friday (two days later), same time.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OTiZ2ARzamU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OTiZ2ARzamU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OTiZ2ARzamU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 79,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OTiZ2ARzamU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fISB5s8hcwhCTNOmvyW0a_Ld3-4\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjBBZUtGcmt0OVVB",
+    "snippet": {
+      "publishedAt": "2018-10-07T15:31:28.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Errichto Stream, Competitive Programming",
+      "description": "What is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0AeKFrkt9UA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0AeKFrkt9UA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0AeKFrkt9UA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 80,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0AeKFrkt9UA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7ius6j4ymnOgsXHTxcB2b_QDoDI\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkdGSnkxSFVpVl9r",
+    "snippet": {
+      "publishedAt": "2018-10-03T16:54:06.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Errichto Stream, POI 22/1",
+      "description": "Solving problems from POI 22, round 1: https://szkopul.edu.pl/p/default/problemset_eng/oi/22 (change language to English in top-right corner).\n\nWhat is Competitive Programming? https://en.wikipedia.org/wiki/Competitive_programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GFJy1HUiV_k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GFJy1HUiV_k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GFJy1HUiV_k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 81,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GFJy1HUiV_k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/b_JdfOxupI2uc6o8qL2paSeEfdk\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjlmMF92SUZPVGow",
+    "snippet": {
+      "publishedAt": "2018-09-30T21:12:15.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Errichto Stream, Topcoder, part 2/2",
+      "description": "Solving problems from TC: https://www.topcoder.com/tc?module=ProblemArchive",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9f0_vIFOTj0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9f0_vIFOTj0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9f0_vIFOTj0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 82,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9f0_vIFOTj0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EAkB5EIYxuz-LUWOxLIRQ6rYQpQ\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnhKM0tXQmdNTXk4",
+    "snippet": {
+      "publishedAt": "2018-09-30T18:58:23.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Errichto Stream, Topcoder, part 1/2",
+      "description": "Solving problems from TC: https://www.topcoder.com/tc?module=ProblemArchive",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xJ3KWBgMMy8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xJ3KWBgMMy8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xJ3KWBgMMy8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 83,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xJ3KWBgMMy8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/U58CHxHOG687x-p4VW7DnyboiGU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLllzeFJCQTY5NEUw",
+    "snippet": {
+      "publishedAt": "2018-09-29T13:37:57.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Stream #1 - Codeforces round 283, part 1/2",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YsxRBA694E0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YsxRBA694E0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YsxRBA694E0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YsxRBA694E0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YsxRBA694E0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 84,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YsxRBA694E0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Xz3VldDE2sujguZVtIkWnBQosrs\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjhkbkdVc0lUbXRV",
+    "snippet": {
+      "publishedAt": "2018-09-29T13:23:07.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Stream #1 - Codeforces round 283, part 2/2",
+      "description": "Competitive Programming, first stream. Solving problems A-C from CF round 283, div1. Follow me on Twitch: https://www.twitch.tv/errichto",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8dnGUsITmtU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8dnGUsITmtU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8dnGUsITmtU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8dnGUsITmtU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8dnGUsITmtU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 85,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8dnGUsITmtU"
+      }
+    }
+  }
+]

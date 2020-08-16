@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mh1zW6UQAbdYZYJ5IsXIrAs0V3s\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LnQwTDBNRHJqeE1r",
+    "snippet": {
+      "publishedAt": "2019-07-05T01:45:59.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Group Trainings for System Design! Virtual Classroom Sessions and Mock Interviews",
+      "description": "Learn everything you need to know for a successful software engineering interview at the Success in Tech Academy. These 4 week virtual classroom sessions will prepare you for coding, system design and behavioral interview questions and you will get the chance to practice with like-minded students.\n\nGO TO http://www.successintech.com/academy and use code ACADEMYINTRO for a introductory price.\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t0L0MDrjxMk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t0L0MDrjxMk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t0L0MDrjxMk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t0L0MDrjxMk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t0L0MDrjxMk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "t0L0MDrjxMk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DEtk3U7gpmKNNRI_O34bZtn18DE\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LmxFTDRGXzBKM2w4",
+    "snippet": {
+      "publishedAt": "2019-06-11T06:15:00.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "System Design Shopify eCommerce platform Interview Question for software engineers",
+      "description": "How do you design an eCommerce platform like Shopify? In this episode we are going to explore multiple options and we will be using Docker containers, Packer VM's and AWS cloud resources like EC2 and RDS to build our own Shopify system design and answer a hypothetical \"How do you design Shopify?\" interview question. We will also cover a monitoring system with health checks.\n\nDISCLAIMER: I'm not affiliated with Shopify, I don't know how their internal architecture looks like and while we will cover a lot of topics in this video, we can barely scratch the surface of this system design.\n\n09:25 Key features\n11:56 Designing for Isolation\n20:23 Advantages and Disadvantages of design\n25:00 Hosting and networking, end to end examples\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lEL4F_0J3l8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lEL4F_0J3l8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lEL4F_0J3l8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lEL4F_0J3l8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lEL4F_0J3l8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lEL4F_0J3l8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/biqvHdSHx-lJYWvo8Zk-iyKWSRw\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LlRvOVhBV2I4V25V",
+    "snippet": {
+      "publishedAt": "2019-02-16T03:33:52.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "How to deal with negativity as a software engineer - Failing an interview",
+      "description": "You failed an interview? You are facing a lot of negativity from colleagues or your boss? We all have to deal with negative influences but how we deal with them makes a difference. You can either get dragged into a vicious circle of bad self-fulfilling prophecies OR you can use failures to your advantage. This is how!\n\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/To9XAWb8WnU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/To9XAWb8WnU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/To9XAWb8WnU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/To9XAWb8WnU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/To9XAWb8WnU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "To9XAWb8WnU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wsSv6pD6Zqz7MyYGW9m_Pr8U0sQ\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LnR1NlFLcFY3R2lJ",
+    "snippet": {
+      "publishedAt": "2019-02-09T22:32:56.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "System Design Interview - Design Yelp Geospatial Geohash",
+      "description": "How to design a system like Yelp? In this video we explore some approaches to design a service or app with features that resemble Yelp and similar products: Recommendations based on geographical proximity, rating systems, comments, likes and points of interest.\nWe will talk about geospatial databases, geohashing, R-trees and more.\n\n@4:00 - Core features of Yelp\n@15:15 - Geohashing explanation\n@21:52 Optimizations like sharding of database\n\nThis is a popular system design interview question you could face in software engineering interviews at companies like Google, Facebook, Uber, Yelp, Snapchat, Twitter...\n\nDISCLAIMER: I'm not affiliated with Yelp and I'm not an expert when it comes to geospatial databases, geohashing etc. \n\nCheck out the two videos below for more in-depth information\n\nSources:\nQuick Intro: https://www.youtube.com/watch?v=UaMzra18TD8\nIn depth optimization: https://www.youtube.com/watch?v=_95bSEqMzUA\n\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tu6QKpV7GiI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tu6QKpV7GiI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tu6QKpV7GiI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tu6QKpV7GiI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tu6QKpV7GiI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tu6QKpV7GiI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OrR1x4yoUppfb6wpUUx6IbJUR7g\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3Li0wRnpNRUJ1YWF3",
+    "snippet": {
+      "publishedAt": "2018-10-15T11:00:00.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Day 15 - JavaScript Coding Challenge",
+      "description": "Learn web development in Javascript playfully with the Lighthouse Labs Coding Challenge. This is a walkthrough of the Day 15 challenge where you have to write a function called firstRock()\nWe will discuss topics like deduplication and separation of concerns in coding. Additionally we'll discuss optimizations of time complexity.\n\nDay 5 video: https://www.youtube.com/watch?v=4K9y2S-EkCk\nFind the 21 day coding challenge here: https://coding-challenge.lighthouselabs.ca/start\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-0FzMEBuaaw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-0FzMEBuaaw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-0FzMEBuaaw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-0FzMEBuaaw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-0FzMEBuaaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-0FzMEBuaaw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lTi7GA7lWtS4DxJJqR82naWtlg8\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LjRLOXkyUy1Fa0Nr",
+    "snippet": {
+      "publishedAt": "2018-10-05T14:13:00.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "JavaScript coding challenge Day 5 of 21 by Lighthouse Labs - Learn programming",
+      "description": "SIGN UP for for FREE for the 21-Day Coding Challenge https://coding-challenge.lighthouselabs.ca/start\n\nI will run you through Day 5 of the 21 day coding challenge and explain what character encodings in JS are and how to use .charCodeAt().\n\nTurn coding into a daily habit! Improve your JavaScript knowledge dramatically in just 21 days. You will unlock a new JavaScript front end developer challenge every day. Learn JavaScript for web developers in a playful environment. Your code evaluates directly in your browser, you'll get instant feedback! You can win a trip to San Francisco and a tour of Silicon Valley (see https://coding-challenge.lighthouselabs.ca/start for participation rules)\n\n+++ This is a sponsored video +++\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4K9y2S-EkCk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4K9y2S-EkCk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4K9y2S-EkCk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4K9y2S-EkCk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4K9y2S-EkCk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4K9y2S-EkCk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/G8oTgIu-xNTYXkldfNCacIE2gr4\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3Lmh1ZzBkS25BQm1N",
+    "snippet": {
+      "publishedAt": "2018-08-27T00:58:13.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Achieve better work-life balance (or integration!) as a software engineer",
+      "description": "Work and Life: How to balance or how to integrate? All software engineering professionals have to deal with both of these worlds and most of us strive for a better equilibrium between work and life. This videos tries to give some practical tips to achieve better work life balance or work life integration\n\nThis video is inspired by Kim Scott's Radical Candor https://www.radicalcandor.com/\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hug0dKnABmM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hug0dKnABmM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hug0dKnABmM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hug0dKnABmM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hug0dKnABmM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hug0dKnABmM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dpp-2zryFqT8YOeMfms-Pg9q-sk\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LkxVOXBTLW9YbExn",
+    "snippet": {
+      "publishedAt": "2018-07-16T05:58:09.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Running before going to work - SiT Vlog [Ep3]",
+      "description": "Why you should workout before going to the office! ... Honestely it doesn't matter WHEN you do sports as long as you get SOME exercise ;)  Especially as software engineers sitting most of the day you have to consider your overall health. Programmers are likely to get back pain and other issues caused by sitting and not enough movement. Fight back!\n\nThe SiT is also on IG TV https://www.instagram.com/successintech\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LU9pS-oXlLg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LU9pS-oXlLg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LU9pS-oXlLg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LU9pS-oXlLg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LU9pS-oXlLg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LU9pS-oXlLg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wh7siHUGXI_S8ZYV1VRB6e5H3H4\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LmVzY1ItMDd5VkFz",
+    "snippet": {
+      "publishedAt": "2018-07-09T06:31:36.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "How load balancers work - System Design Interview knowledge [Beyond the interview]",
+      "description": "Knowing about how a load balancer works is important for most software engineers. Load balancing algorithms and techniques can be useful for your next system design interview too. Besides that, it quite interesting!\n\nThis video covers load balancing algorithms, how Google uses load balancing and traffic routing, a real word load balancing example for a web application, stateful load balancing and consistent hashing for load balancing.\n\nGoogle book about site reliability engineering: https://landing.google.com/sre/book.html\n\nConsistent hashing paper: https://www.akamai.com/es/es/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf\n\nThe SiT is also on IG TV https://www.instagram.com/successintech\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/escR-07yVAs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/escR-07yVAs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/escR-07yVAs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/escR-07yVAs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/escR-07yVAs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "escR-07yVAs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cHkPfJ9phkwdTZrj5kH7utGhkqY\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LmhCRU9aQ1FPN1Qw",
+    "snippet": {
+      "publishedAt": "2018-07-01T01:04:40.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Don't call yourself Junior Developer?! - SiT Vlog [Ep2]",
+      "description": "Why you should or shouldn't call yourself a junior software developer. And also: Is it a good idea to score your first job as a junior dev or not? Should you do side projects to gather experience before becoming a professional software engineer?\n\nMy opinion on this article here https://builttoadapt.io/dear-graduates-youre-not-junior-developers-53b80e020713\n\nThe SiT is also on IG TV https://www.instagram.com/successintech\n\n--- SOCIAL MEDIA --- \nhttps://www.instagram.com/successintech\nhttps://twitter.com/successintech\nhttps://www.successintech.com\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hBEOZCQO7T0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hBEOZCQO7T0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hBEOZCQO7T0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hBEOZCQO7T0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hBEOZCQO7T0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hBEOZCQO7T0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZOF5l_LWLorK_7_yrpA8iCRCR70\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LmZhYXRVN21vak00",
+    "snippet": {
+      "publishedAt": "2018-06-28T03:35:32.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "SiT Vlog also on Instagram TV IGTV",
+      "description": "IGTV: https://www.instagram.com/successintech\nOn episode 1 we start talking about work-life balance and commuting.\n\nI want to create more content for people working in software, techies and gadget enthusiasts. I'll post the Success in Tech Vlogs on IGTV and probably also to YouTube. Expect some fresh stuff!\n\nFollow SuccessInTech:\n\nhttps://twitter.com/_SH4DY_\n\nhttps://www.successintech.com\n\nhttps://www.instagram.com/successintech/channel\n\nhttps://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/faatU7mojM4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/faatU7mojM4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/faatU7mojM4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/faatU7mojM4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/faatU7mojM4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "faatU7mojM4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6q1um-NvOGSn1WVvGhksnDuFrtM\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LldneGpqc1BwVTRR",
+    "snippet": {
+      "publishedAt": "2018-06-25T14:30:27.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Working with or as a remote team doesn't have to suck! [Beyond the Interview]",
+      "description": "Working with or as a remote team is challenging and can feel like being at a disadvantage. It's hard to communicate software design, code reviews can be delayed, meetings are slowed down because of language barriers etc. There are some things you can do to improve communication and make the whole situation a lot more fun.\nThis video reflects my opinion only.\n\nBRAND NEW: The SiT Vlog on IGTV https://www.instagram.com/tv/BkYf4GphfQz/\nTwitter: https://twitter.com/_SH4DY_\nWebsite: https://www.successintech.com\nFollow SuccessInTech on Facebook: https://www.facebook.com/SuccessInTech/\n\nKeep watching, exciting times ahead!\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WgxjjsPpU4Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WgxjjsPpU4Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WgxjjsPpU4Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WgxjjsPpU4Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WgxjjsPpU4Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WgxjjsPpU4Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JBvjBLMnfZpDMzo8w8HtO3f2fP8\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LkdjRS1hN3pPMk4w",
+    "snippet": {
+      "publishedAt": "2018-06-18T04:39:03.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "System Design Interviews - Communicate effectively [Part 3]",
+      "description": "It's crucial to communicate your ideas effectively when explaining system design concepts to an interviewer or co-worker. This video covers how to become better at explaining your ideas in a system design interview situation at tech companies like Google, Facebook, Microsoft, LinkedIn, Cisco, Snapchat, Slack, Twitter, Tinder, Twilio and at your job.\n\n\nFollow SuccessInTech on Twitter: \nhttps://twitter.com/_SH4DY_\n\nWebsite\nhttps://www.successintech.com\n\nFollow SuccessInTech on Facebook: https://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound\n\nKeep watching, exciting times ahead!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GcE-a7zO2N0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GcE-a7zO2N0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GcE-a7zO2N0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GcE-a7zO2N0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GcE-a7zO2N0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GcE-a7zO2N0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q1sxonx4gAE6R6r6mORRfIrGGhw\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LkRnZ1BWcFFtcnNn",
+    "snippet": {
+      "publishedAt": "2018-06-13T03:32:39.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "System Design Knowledge - How to improve [Part 2]",
+      "description": "This video covers some tips on how to strengthen your system design knowledge and how to practice for system design interviews. We talk about the importance of being curious, reading engineering blogs and practicing system design questions by explaining architectural concepts to other people. \nIt's part 2 of the \"System Design Approach\" series.\n\nFind part 1 here: https://youtu.be/0163cssUxLA\n\nResources:\nhttp://highscalability.com/\nhttps://eng.uber.com/\nhttps://eng.lyft.com/\n\n\nFollow SuccessInTech on Twitter: https://twitter.com/_SH4DY_\nhttps://www.successintech.com\n\nKeep watching, exciting times ahead!\n\nFollow SuccessInTech on Facebook: https://www.facebook.com/SuccessInTech/\n\nMusic: Koalips\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DggPVpQmrsg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DggPVpQmrsg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DggPVpQmrsg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DggPVpQmrsg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DggPVpQmrsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DggPVpQmrsg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dMTq4nhU44397_SXAhaE_hg7_gk\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LjAxNjNjc3NVeExB",
+    "snippet": {
+      "publishedAt": "2018-06-08T05:15:08.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "System Design Interview - Approach and structure - How To [Part1]",
+      "description": "In this 3 part series we start talking about system design interviews and interview questions in general. We talk about a general approach you can use for almost every system design interview question (How to design Twitter, System Design YouTube, Design Gmail...).\nThis video explains a structure you can follow in system design questions.\nIn the next part we will talk about how to study and improve for system design questions as well as how to bring across your ideas more clearly and communicate effectively.\n\n\nFollow SuccessInTech on Twitter: https://twitter.com/_SH4DY_\nhttps://www.successintech.com\n\nKeep watching, exciting times ahead!\n\nFollow SuccessInTech on Facebook: https://www.facebook.com/SuccessInTech/\n\nMusic: Night Owl - Broke For Free\nMusic: Bensound",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0163cssUxLA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0163cssUxLA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0163cssUxLA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0163cssUxLA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0163cssUxLA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0163cssUxLA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/srA9066_IZd4sGGuf5J03izNatQ\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LjUzM3Q3YWd6UWtR",
+    "snippet": {
+      "publishedAt": "2018-06-03T01:46:04.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Channel update 2018 - What do you want? Future of SiT",
+      "description": "I'm thinking about workshops or group sessions around system design, software architecture, career development in software engineering and more. What do you think?\n\nFollow SuccessInTech on Twitter: https://twitter.com/_SH4DY_\n\nKeep watching, exciting times ahead!\n\nMusic: Night Owl - Broke For Free\nMusic: Bensound\n\nFollow SuccessInTech on Facebook: https://www.facebook.com/SuccessInTech/\n\n\nhttps://www.successintech.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/533t7agzQkQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/533t7agzQkQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/533t7agzQkQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/533t7agzQkQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/533t7agzQkQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "533t7agzQkQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_Zpsp5Tts8n3HlleSgW2Wf0ad-4\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3Llp2aGNuSmx5aG5N",
+    "snippet": {
+      "publishedAt": "2018-05-30T04:52:25.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Adaptability - Becoming a better professional [Beyond the interview]",
+      "description": "Adapting to changing situations in your professional life is a skill nobody will teach you but can lead you to great success. \n\nMusic: Night Owl - Broke For Free\n\nFollow SuccessInTech on Facebook: https://www.facebook.com/SuccessInTech/\n\nFollow SuccessInTech on Twitter: https://twitter.com/_SH4DY_\n\nhttps://www.successintech.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZvhcnJlyhnM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZvhcnJlyhnM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZvhcnJlyhnM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZvhcnJlyhnM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZvhcnJlyhnM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZvhcnJlyhnM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_LxHkZDBtsO8o_Us0IM3ZPJGglE\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3LjZnX1hlQjZzZGpJ",
+    "snippet": {
+      "publishedAt": "2017-12-20T22:02:00.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Be positive! Attitude in engineering jobs [Beyond the Interview]",
+      "description": "Being positive at work will change your career! In this video we'll explore why it's crucial to have a positive attitude at work and how it can help yourself and your career. We'll find out how you can improve your situation and get out of the vicious circle. Your peers and management will take notice, you'll grow as an engineer and you will be happier in general.\n\nSuccess in Tech now also offers coaching, mentoring and mock interview sessions on http://www.successintech.com/coaching\nKeep watching, exciting times ahead!\n\nMusic: www.bensound.com\n\nFollow SuccessInTech on Facebook: https://www.facebook.com/SuccessInTech/\n\nFollow SuccessInTech on Twitter: https://twitter.com/_SH4DY_\n\nhttps://www.successintech.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6g_XeB6sdjI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6g_XeB6sdjI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6g_XeB6sdjI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6g_XeB6sdjI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6g_XeB6sdjI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6g_XeB6sdjI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cDQ-ob1zD1AuBrO66gHVURXT9uE\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3Ll9lZmFJS2tFMkE4",
+    "snippet": {
+      "publishedAt": "2017-12-12T04:08:07.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "What's Continuous Integration, Delivery, Deployment? DevOps knowledge [Beyond the Interview]",
+      "description": "The terms continuous integration, delivery and deployment are being thrown around all the time in software development. What do they mean in detail? How are they different from each other? Especially as a DevOps engineer it's important to be familiar with those terms.\n\nIn the \"Beyond the interview\" series we look at important topics for every software engineer in daily work situations.\n\nThank you for helping me reach 2000 subscribers in such a short time! \n\nSuccess in Tech now also offers coaching, mentoring and mock interview sessions on http://www.successintech.com\nKeep watching, exciting times ahead!\n\nMusic: www.bensound.com\n\nFollow SuccessInTech on Facebook: https://www.facebook.com/SuccessInTech/\n\nFollow SuccessInTech on Twitter: https://twitter.com/_SH4DY_\n\nhttps://www.successintech.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_efaIKkE2A8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_efaIKkE2A8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_efaIKkE2A8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_efaIKkE2A8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_efaIKkE2A8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_efaIKkE2A8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BxlIbFfrrEiN35hNFOMNaVmaIi4\"",
+    "id": "VVUtdllyT0FtdHJ4OXNCekpBZjN4X3h3Lkg3dmFlcnY0d1Nr",
+    "snippet": {
+      "publishedAt": "2017-11-29T02:57:53.000Z",
+      "channelId": "UC-vYrOAmtrx9sBzJAf3x_xw",
+      "title": "Coaching sold out...but more coaching options!",
+      "description": "- Thanks to all the people reaching out! \n- More coaching sessions in January\n- Group sessions (webinars) in 2018\n\nSuccess in Tech now also offers coaching, mentoring and mock interview sessions on http://www.successintech.com\nKeep watching, exciting times ahead!\n\nMusic: www.bensound.com\n\nFollow SuccessInTech on Facebook: https://www.facebook.com/SuccessInTech/\n\nFollow SuccessInTech on Twitter: https://twitter.com/_SH4DY_\n\nhttps://www.successintech.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H7vaerv4wSk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H7vaerv4wSk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H7vaerv4wSk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/H7vaerv4wSk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/H7vaerv4wSk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Success in Tech",
+      "playlistId": "UU-vYrOAmtrx9sBzJAf3x_xw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "H7vaerv4wSk"
+      }
+    }
+  }
+]

@@ -1,0 +1,892 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_4h13hmKhSsX-omHlZxfbUg5k2o\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjVQZVJ4OWMyQllN",
+    "snippet": {
+      "publishedAt": "2017-08-28T19:51:05.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin Workshops",
+      "description": "Learn how to develop, deploy and maintain serverless applications from experts doing it today in production. To learn more go to: https://nyc.serverlessconf.io/workshops",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5PeRx9c2BYM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FmWWOVcUE6y6BlaGSy6AKaP-3Qw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmZuVU13akJjYXJZ",
+    "snippet": {
+      "publishedAt": "2017-07-22T07:04:30.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin - A 2 day serverless conference",
+      "description": "Check out what happened at Serverlessconf Austin - Part 2 (and don't forget to check out the upcoming Serverlessconf NYC at nyc.serverlessconf.io)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fnUMwjBcarY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/34ORaRKHDKyz7QU5imGJSQWjO3g\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmxkSTF4a1Q1VU4w",
+    "snippet": {
+      "publishedAt": "2017-07-22T07:04:30.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "About Serverlessconf Austin 2017",
+      "description": "Check out what happened at Serverlessconf Austin - Part 1 (and don't forget to check out the upcoming Serverlessconf NYC at nyc.serverlessconf.io)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ldI1xkT5UN0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UyNBePb4KfrrzmHvkRspLdhmhAQ\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lm9FNWxyTm43YkFn",
+    "snippet": {
+      "publishedAt": "2017-05-18T04:52:59.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Applied Serverless Design Patterns - Yochay Kiriaty",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oE5lrNn7bAg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rUBUGQW8mw6CvIaagrJaszlMvak\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjZzR2o5QW5adWV3",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:24.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin '17 Conclusion - Mike Chambers & Peter Sbarski",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6sGj9AnZuew"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/w9W0tkzGHAWDxOtLgJU9zbq8H80\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ll96YjFaZW03d1Rr",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:24.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin '17 Introduction - Peter Sbarski & Sam Kroonenburg",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_zb1Zem7wTk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oIXUWL3q3LhBrLdPdtROtp8ML1I\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ljd5dE5RVGdxVVhZ",
+    "snippet": {
+      "publishedAt": "2017-05-19T00:30:22.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin '17 Keynote - Tim Wagner",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7ytNQTgqUXY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SlFA5hZVG2Bb0wFKEKTTpOfCrA0\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlpJcHpTOGRMNGg0",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:25.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Accenture Cloud Platform Serverless Journey - Tom Myers",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZIpzS8dL4h4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/M8DaF2Gq0VUJK1J29uGg5dUgLEQ\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Li1GVEdPeDVuNVdF",
+    "snippet": {
+      "publishedAt": "2017-05-15T01:42:10.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serving Transactions Serverless: Modernizing mainframe data - Srini Uppalapati",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-FTGOx5n5WE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yuwfWWrWZ5ELNYu9n0XOS6I1pAM\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmZqWEFlZTZ6c1c4",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:27.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "The Story of a Serverless Startup  - Sam Kroonenburg",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fjXAee6zsW8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fjXAee6zsW8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fjXAee6zsW8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fjXAee6zsW8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4zFB8-sKDKl6TmkFMtpCNDFmUeY\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkNNeHRtODNVYmxz",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:28.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Harmonizing Serverless & Traditional Applications - Ryan Brown",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CMxtm83Ubls"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7BqdC-DzXFLcIm4Jf9mcoCO8K1Y\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjhISGRFTVdjdk1J",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:31.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless at Nordstrom - Rob Gruhl",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8HHdEMWcvMI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tmt1Lt7ytMdjEBps4MBM1CpdlvE\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlE4Yjh6d3JEZWFZ",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:44.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Going Serverless on Azure - Richard Stinear",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Q8b8zwrDeaY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SSsZOvv6mAMLgEeXB_PqXCx4hz8\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlFic2s3R0xQWXdr",
+    "snippet": {
+      "publishedAt": "2017-05-19T00:30:40.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless Services - Randall Hunt",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Qbsk7GLPYwk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZMKk22JzCqiYxNJaQz9jlL2_9aU\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlJfbzFPLUd4YW5r",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:43.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Less is more: thoughts from a pragmatic CTO - Paul Johnston",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "R_o1O-Gxank"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-UBIZE7M3377PUkL5MEBiWX8OCU\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ljl0RDVkWDZoVzB3",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:42.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless + Modern Agile: a match made in silicon heaven - Mike Roberts",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9tD5dX6hW0w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aCfv3piBVeJECV91mkj5bcRF6Jg\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkR1cnhCYTJncWxZ",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:42.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "A Tale of Two Strategies - Michael Corning",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DurxBa2gqlY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Skodcz7LPtEXXn_gbYtwUumGMqw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlhSbm9sSVNONmh3",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:41.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "A Self Replicating Serverless Function - Michael Adda",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XRnolISN6hw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X0unKR6JRhLhdNpvWyaAFucO4Ds\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnJVTHRlRk1ES3VR",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:40.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Pains and gains on migrating to Serverless - Marcia Villalba",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rULteFMDKuQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AWpoEvpbHOvovolPtJIlQLop6GI\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnR1SHdYRS1rMmxZ",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:39.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless SQL Queries: Athena – Lynn Langit",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tuHwXE-k2lY"
+      }
+    }
+  }
+]

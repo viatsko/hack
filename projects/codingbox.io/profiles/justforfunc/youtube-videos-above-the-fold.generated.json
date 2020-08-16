@@ -1,0 +1,847 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qjdpL_2eNORtgzKW8NRYTLHZahw\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LjBjLTFLSndTTUN3",
+    "snippet": {
+      "publishedAt": "2020-02-04T19:18:45.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "State of Go 2020: changes since Go 1.12",
+      "description": "Slides: bit.ly/sog-fosdem20\n\nFrancesc Campoy (https://twitter.com/francesc) and Maartje Eyskens (https://twitter.com/MaartjeME) come back to FOSDEM to cover the most important changes to the community since the same talk in 2019.\n\nWe cover the most important changes since Go 1.12 regarding:\n\n- the language\n- the standard library\n- the tooling\n- the runtime\n- the community",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0c-1KJwSMCw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0c-1KJwSMCw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0c-1KJwSMCw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0c-1KJwSMCw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0c-1KJwSMCw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0c-1KJwSMCw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XBd3fV9QI9WNEcIU5g3AIE37z2g\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LnBaeVBLT2s5dlpv",
+    "snippet": {
+      "publishedAt": "2018-12-16T06:29:28.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunclive: Advent of Code day 5",
+      "description": "Let's do some coding with Advent of Code!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pZyPKOk9vZo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pZyPKOk9vZo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pZyPKOk9vZo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pZyPKOk9vZo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MQzRfn_eXNEbir7yx491D6iPYqo\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LjdZUGFvemJZUERr",
+    "snippet": {
+      "publishedAt": "2018-12-11T18:00:00.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunclive Advent of Code day 4",
+      "description": "code: https://github.com/campoy/advent-of-code-2018\n\nAfter the previous video covering days one to three, I decided to give day 4 a try.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7YPaozbYPDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7YPaozbYPDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7YPaozbYPDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7YPaozbYPDk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7YPaozbYPDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7YPaozbYPDk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K6mgmmLJj0k4A6E7e6EqF2E8xVk\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LmQ1QXkzcTR1M29F",
+    "snippet": {
+      "publishedAt": "2018-12-08T05:29:56.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunclive Advent of Code days 1-3",
+      "description": "code: https://github.com/campoy/advent-of-code-2018\n\nI spent some time working on the Advent of Code from days 1 to 3 on my twitch channel (twitch.tv/justforfunclive) and now you can watch it here!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d5Ay3q4u3oE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d5Ay3q4u3oE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d5Ay3q4u3oE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d5Ay3q4u3oE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d5Ay3q4u3oE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "d5Ay3q4u3oE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_yEN2bCbk_gAjtbzR2YSG33JLRk\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LkhfNGVSRDhhZWdr",
+    "snippet": {
+      "publishedAt": "2018-12-04T17:58:22.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #43: Migrating Go Modules to v2+",
+      "description": "Go 1.11 is out and with it Go Modules are ready to be evaluated!\n\nIn the previous episode we chatted about what modules are, how we versioned, and manage their dependencies. \n\nIn this one, we will discuss what happens when backwards compatibility needs to be broken and it's time to migrate to v2.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H_4eRD8aegk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H_4eRD8aegk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H_4eRD8aegk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/H_4eRD8aegk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/H_4eRD8aegk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "H_4eRD8aegk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6Vdb6IedR85FLXTpdCGOK7sr6xg\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LmFlRjNsLXptUHNZ",
+    "snippet": {
+      "publishedAt": "2018-11-15T17:58:28.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #42: Intro to Go Modules and SemVer",
+      "description": "Go 1.11 is out and with it Go Modules are ready to be evaluated!\n\nIn this episode we chat about what modules are, how we versioned, and manage their dependencies. But not all is chat, keep watching for a demo of how the new `go mod` subcommand works.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aeF3l-zmPsY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aeF3l-zmPsY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aeF3l-zmPsY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "aeF3l-zmPsY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1Awso0tYYL1_4OnBBvkGciMbcLA\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LndJclM1THFpLXhn",
+    "snippet": {
+      "publishedAt": "2018-10-30T16:58:24.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #41: CSVQL - serving CSV with SQL (part 2)",
+      "description": "This is the second part of CSVQL: https://youtu.be/bcRDXAraprk\n\nCSV files are the basic format for data sharing, but they're not always the best way to consume it.\n\nSo, what if we created a SQL server that reads the content directly from the CSV files in a folder ... all of it in Go?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wIrS5Lqi-xg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wIrS5Lqi-xg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wIrS5Lqi-xg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wIrS5Lqi-xg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wIrS5Lqi-xg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wIrS5Lqi-xg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0MQOZua-w8PuNzcw0HnA4zjZsoY\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LmJjUkRYQXJhcHJr",
+    "snippet": {
+      "publishedAt": "2018-10-16T17:00:09.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #40: CSVQL - serving CSV with SQL (part 1)",
+      "description": "CSV files are the basic format for data sharing, but they're not always the best way to consume it.\n\nSo, what if we created a SQL server that reads the content directly from the CSV files in a folder ... all of it in Go?\n\nReferences: \n\n- code:  https://github.com/campoy/justforfunc/tree/master/40-cvsql\n- gitbase: https://github.com/src-d/gitbase\n- go-mysql-server: https://github.com/src-d/go-mysql-server",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bcRDXAraprk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bcRDXAraprk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bcRDXAraprk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bcRDXAraprk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bcRDXAraprk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XTFYGgDs4ohV95uEVRzmE24NDk4\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3Lmlqb000NGhrc21Z",
+    "snippet": {
+      "publishedAt": "2018-08-21T16:00:14.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #39: code reviews are back!",
+      "description": "In the previous episode (https://youtu.be/ZPd_fKyrX48) I might have written some pretty bad code ... that happens to all of us!\n\nSo it's time to fix it, break it into packages, and minimize unnecessary dependencies, so the next episode of ML4G (Machine Learning for Gophers) will continue a less awful slate.\n\nCode: https://github.com/campoy/justforfunc/pull/79",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ijoM44hksmY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ijoM44hksmY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ijoM44hksmY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ijoM44hksmY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ijoM44hksmY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ijoM44hksmY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aL7NOknOTcvZTelSoYupUtkM-7M\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LjlVcThtc2JfbFBj",
+    "snippet": {
+      "publishedAt": "2018-08-18T01:04:22.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc live: hacking on a CLI with cobra, gRPC, and Docker",
+      "description": "Third stream on twitch.com/justforfunclive !\n\nIt's time for me to hack on some new stuff.\nI'm building a CLI tool to facilitate getting started with a bunch of different source{d} projects like bblfsh, gitbase, etc.\n\nBe ready to use some gRPC, Docker, and Cobra all in action together to fight friction to adoption!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9Uq8msb_lPc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9Uq8msb_lPc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9Uq8msb_lPc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9Uq8msb_lPc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9Uq8msb_lPc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9Uq8msb_lPc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sZLTNdfgB0QTisRb_KD1GUN_3vE\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LnFDMGdVck5YZXpN",
+    "snippet": {
+      "publishedAt": "2018-08-01T18:16:19.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc live: trying linear regression with gonum",
+      "description": "Second stream on twitch.com/justforfunclive !\n\nAfter failing to train a Tensorflow model with Go in the previous live streaming (https://youtu.be/skJitN1vZG0) I'm going to try to do some linear regression with gonum.\n\nSPOILER: I still fail to figure it out, but I actually know why it didn't work.\n\nThis will become the next justforfunc regular episode, so if you want to see the code it will be there waiting for you.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qC0gUrNXezM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qC0gUrNXezM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qC0gUrNXezM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qC0gUrNXezM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qC0gUrNXezM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qC0gUrNXezM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IpmUvmPSyDsCDPJDiIyVdFAHLoU\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LnNrSml0TjF2Wkcw",
+    "snippet": {
+      "publishedAt": "2018-07-28T03:08:39.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc live: getting started with Tensorflow Go",
+      "description": "My first stream on twitch.com/justforfunclive !\n\nHow hard can it be? Well, basically ended up writing a hello world of Tensorflow in over an hour.\n\nMost of the time I spent was on Dockerfiles and setting things up ... but at least next time everything will be ready!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/skJitN1vZG0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/skJitN1vZG0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/skJitN1vZG0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/skJitN1vZG0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/skJitN1vZG0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "skJitN1vZG0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4SbjswgUwMltZNzahGg8GdmWsLo\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LlpQZF9mS3lyWDQ4",
+    "snippet": {
+      "publishedAt": "2018-07-24T15:05:16.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #38: Linear Regression with Gradient Descent (ML4G #2)",
+      "description": "In a previous episode (https://www.youtube.com/watch?v=ihP7lQivA6M) we learned how to plot data with gonum and we added a line that approximated those points ... but we totally made that up!\n\nDuring this episode we'll cover how to evaluate how good a line matches the points and how to find the best line possible by using gradient descent.\n\n- gonum: https://gonum.org\n- gonum/plot docs: https://godoc.org/gonum.org/v1/plot\n- gradient descent for linear regression: https://www.coursera.org/lecture/machine-learning/gradient-descent-for-linear-regression-kCvQc\n- source code: https://github.com/campoy/justforfunc/tree/master/38-linreg-vanilla",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZPd_fKyrX48/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZPd_fKyrX48/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZPd_fKyrX48/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZPd_fKyrX48/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZPd_fKyrX48"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GQOWprO-0Bm2dlZQG3WaKGD_MKY\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LnJmWFNyZ0lHcktv",
+    "snippet": {
+      "publishedAt": "2018-07-11T19:24:54.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #37: sync.Pool from the pool",
+      "description": "It's summer and I love hanging out by the pool ...\nso it's just logic that I would make an episode about sync.Pool!\n\nIn this episode we learn how to measure how many memory allocations a program is performing and how to reduce them thanks to sync.Pool, as well as how to identify which piece of your code is\nallocating the memory thanks to pprof.\n\nsource code: https://github.com/campoy/justforfunc/tree/master/37-sync-pool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rfXSrgIGrKo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rfXSrgIGrKo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rfXSrgIGrKo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rfXSrgIGrKo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rfXSrgIGrKo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rfXSrgIGrKo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5rk7kLuf1mxASfhvlxKrXgBGHPw\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3Li1YU2xldi1kN1VZ",
+    "snippet": {
+      "publishedAt": "2018-06-28T08:28:27.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #36: Versions, build constraints, and ldflags",
+      "description": "During my Go Tooling in Action Workshop (https://github.com/campoy/go-tooling-workshop)\nmany people ask how to include version information to binaries,\nso I decided to make an episode out of it!\n\nWe will solve the problem using three different techniques:\n\n- constants and build constraints\n- variables and build constraints\n- variables and ldflags\n\nsource code: https://github.com/campoy/justforfunc/tree/master/36-versions\nform: http://form.justforfunc.com\nplanning: \nhttps://twitter.com/francesc/status/1011671677594370049",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-XSlev-d7UY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-XSlev-d7UY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-XSlev-d7UY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-XSlev-d7UY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-XSlev-d7UY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HYXHmCP9RO44cvAF9o-Qun3EyIc\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LlhiS1Nzc0JmdExN",
+    "snippet": {
+      "publishedAt": "2018-06-12T15:00:02.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #35: Implementing the tree command from scratch",
+      "description": "Let's go back to basics and implement a well known command using\nonly what the standard library provides.\n\nWe'll discover the `path/filepath` package with its `Walk` function,\nbut also `os.Stat`, `os.FileInfo`, and much more.\n\nIt might seem simple, but there's lots to learn!\n\ncode: github.com/campoy/justforfunc/tree/master/35-tree",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XbKSssBftLM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XbKSssBftLM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XbKSssBftLM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XbKSssBftLM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XbKSssBftLM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rBXHcrDE86SI5UWO0I7Vz_Gcs_I\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LmloUDdsUWl2QTZN",
+    "snippet": {
+      "publishedAt": "2018-05-15T15:00:10.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #34: Plotting Data with gonum/plot (ML4G #1)",
+      "description": "For the first episode of this mini series on Machine Learning for Gophers (#ML4G) we're going to learn how to plot data with gonum/plot.\n\nIt might seem simple, but there's lots to learn!\n\nReferences:\n- gonum: https://gonum.org\n- gonum/plot docs: https://godoc.org/gonum.org/v1/plot\n- source code: https://github.com/campoy/justforfunc/tree/master/34-gonum-plot",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ihP7lQivA6M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ihP7lQivA6M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ihP7lQivA6M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ihP7lQivA6M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ihP7lQivA6M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K2BVm-XwvolEntG_IXrLJ_1vDpA\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LnpnU1pOQ2x0VUQw",
+    "snippet": {
+      "publishedAt": "2018-05-01T15:00:10.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #33: the Rise And Fall of CORBA",
+      "description": "Because you asked for it, here's the weirdest episode I've created so far.\nWe will go over the history of CORBA (not COBRA), compare it to gRPC, and see what we can learn from it.\n\nBiography:\n- The Rise and Fall of CORBA: https://queue.acm.org/detail.cfm?id=1142044\n- CORBA explained simply: http://www.ciaranmchale.com/corba-explained-simply/\n- XTiger: Templates, Microformats, et d'Autres (Petites) Choses: http://wam.inrialpes.fr/publications/2006/CampoyFlores.pdf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zgSZNCltUD0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zgSZNCltUD0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zgSZNCltUD0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zgSZNCltUD0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zgSZNCltUD0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uGofHxJ8FHGQ95RQd5tTnYxQmfo\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3Lld2V1BHVktMdlI0",
+    "snippet": {
+      "publishedAt": "2018-04-03T15:00:03.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #32: CLI tools with Cobra",
+      "description": "By popular demand it was time to talk about Cobra.\nCobra is both a library and a tool that helps you write CLI applications in Go.\nToday we simply migrate our previous todo gRPC client to Cobra.\n\nReferences:\n- Cobra: https://github.com/spf13/cobra\n- Source Code: https://github.com/campoy/justforfunc/tree/master/32-cobra",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WvWPGVKLvR4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WvWPGVKLvR4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WvWPGVKLvR4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WvWPGVKLvR4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WvWPGVKLvR4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WvWPGVKLvR4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dy3RltEHuMQ4GH-Qd2rFte5XixQ\"",
+    "id": "VVVfQnpGYnhHMnphM2JwNU5SUlJYSlN3LnVvbFRVdGlvSXJj",
+    "snippet": {
+      "publishedAt": "2018-03-20T16:36:01.000Z",
+      "channelId": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "title": "justforfunc #31: gRPC Basics",
+      "description": "Let's continue where we left it in the previous episode.\nAfter understanding the basics of protocol buffers it's time\nto learn gRPC, which provides a way to define APIs on protobufs.\n\nReferences:\n- gRPC:  https://grpc.io\n- source code: https://github.com/campoy/justforfunc/tree/master/31-grpc",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uolTUtioIrc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uolTUtioIrc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uolTUtioIrc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uolTUtioIrc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "justforfunc: Programming in Go",
+      "playlistId": "UU_BzFbxG2za3bp5NRRRXJSw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uolTUtioIrc"
+      }
+    }
+  }
+]

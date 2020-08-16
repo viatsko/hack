@@ -1,0 +1,2387 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KtGZ_NkN2-w6Hk8bpg6KoN9AHgQ\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLkxtZ3g5S1FMdWVZ",
+    "snippet": {
+      "publishedAt": "2017-10-03T23:58:05.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Blockchain, Cryptocurriencies, and Go  - Vicki Niu - SF Docker + Go Meetup",
+      "description": "Vicki Niu will walk through understanding blockchains from the ground up, with a focus on how Chain builds its blockchain platform using Go. Along the way, she'll touch on cryptocurrencies, private vs public blockchains, and smart contracts. \n\nVicki Niu is a software engineering intern at Chain building enterprise blockchain technology in Go. She studies computer science at Stanford, and really has no idea whether or not you should invest in Bitcoin.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Lmgx9KQLueY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Lmgx9KQLueY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Lmgx9KQLueY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Lmgx9KQLueY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Lmgx9KQLueY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Lmgx9KQLueY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4-ReGkkVI0pfDPFJm6jTGfndyMc\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmlSTndMaktlVlJF",
+    "snippet": {
+      "publishedAt": "2017-10-03T23:59:23.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Banking on Go - Matt Heath - SF Docker + Go Meetup",
+      "description": "Matt Heath will walk through how Monzo, a new UK based bank, have developed their Go-based banking platform along with some of the challenges they have faced while growing both their team and infrastructure.\n\nMatt Heath is a Platform Engineer at Monzo, a new UK based bank, where he focusses on building Monzo’s Go based micro-service platform and the underlying infrastructure which powers this. He also helps organise the Go London User Group, and can be found on twitter as @mattheath.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iRNwLjKeVRE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iRNwLjKeVRE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iRNwLjKeVRE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iRNwLjKeVRE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iRNwLjKeVRE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iRNwLjKeVRE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yQFgqxJNIo_-lNOFja8-SM7Js1o\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLkxIZTFDYl9VZF9N",
+    "snippet": {
+      "publishedAt": "2017-10-03T23:39:46.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Ways To Do Things - Peter Bourgon - Release Party #GoSF",
+      "description": "A mini-talk about a few productive patterns for designing and orchestrating components (actors) in Go programs.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LHe1Cb_Ud_M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LHe1Cb_Ud_M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LHe1Cb_Ud_M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LHe1Cb_Ud_M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LHe1Cb_Ud_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LHe1Cb_Ud_M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pap7k2CBXQsbM7IWudA2tDumYlE\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmFBaE5EZ0Vaal9V",
+    "snippet": {
+      "publishedAt": "2017-10-03T23:39:45.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Analyzing production using Flamegraphs - Prashant Varanasi - Release Party #GoSF",
+      "description": "Prashant Varanasi is a tech lead on the Software Networking team at Uber, working on service discovery and routing infrastructure. He started writing Go while at Google three years ago and it's been his go-to language ever since.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aAhNDgEZj_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aAhNDgEZj_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aAhNDgEZj_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aAhNDgEZj_U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aAhNDgEZj_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "aAhNDgEZj_U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HsEBmIiIrtSZdpbW26f7jR9FKJM\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnZGSmtINHFEakow",
+    "snippet": {
+      "publishedAt": "2017-10-03T23:35:18.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "The State of Go 1.9 - Francesc Campoy - Release Party #GoSF",
+      "description": "Francesc Campoy Flores joined the Go team in 2012 as Developer Advocate after several years as a Python and C++ developer. His mission is to make Go useful and fun.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vFJkH4qDjJ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vFJkH4qDjJ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vFJkH4qDjJ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vFJkH4qDjJ0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vFJkH4qDjJ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vFJkH4qDjJ0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/txtsu3X0TRi-vuHZyk6sMpUoYzE\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLldCOVVVV05JaG00",
+    "snippet": {
+      "publishedAt": "2017-08-26T03:51:52.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go 1.9 Release Party GoSF",
+      "description": "Go 1.9 was released yesterday, and today we're celebrating!\n\nWe will have 3 talks:\n- State of Go - by Francesc Campoy (https://twitter.com/francesc) \n- Analyzing production using Flamegraphs - by Prashant Varanasi (https://twitter.com/prashantv)\n- Ways To Do Things - by Peter Bourgon https://twitter.com/peterbourgon",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WB9UUWNIhm4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WB9UUWNIhm4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WB9UUWNIhm4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WB9UUWNIhm4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8jOGQSUr1QL0yKXvK2ZAdGlPuKY\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmpVSWgxNGF2ZERZ",
+    "snippet": {
+      "publishedAt": "2017-06-22T20:44:45.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Gopherfest 2017: Lessons Learned from a Context-NATS Integration (Waldemar Quevedo)",
+      "description": "The Context package has been a popular topic in the Golang community for sometime and as of the Go 1.7 release, it has become a standard Go library. It carries a variety of details across API boundaries and between processes. \n\nNATS is an open-source, high-performance, lightweight cloud native messaging system. Many NATS users working in Go have been using Context alongside NATS, but there has not been an officially-supported Context-NATS integration – that is, until now.\n\nThis talk will discuss what Context is, what observations and lessons Waldemar and his team have learned integrating Context and NATS, and how you use the two together. He'll also provide a quick demo to show the integration.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jUIh14avdDY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jUIh14avdDY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jUIh14avdDY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jUIh14avdDY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jUIh14avdDY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jUIh14avdDY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2csYv9e-rSNpf_uXiFT0KDjpREM\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLkVOTFdFZmkwVGtn",
+    "snippet": {
+      "publishedAt": "2017-06-22T20:44:37.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Gopherfest 2017: Upspin (Rob Pike)",
+      "description": "Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts. It is not a file system, but a set of protocols and reference implementations that can be used to join things like file systems and other storage services to the name space.\n\nPerformance is not a primary goal. Uniformity and security are. \n\nPer Rob: Note that this is a project IN Go not ABOUT Go",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ENLWEfi0Tkg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ENLWEfi0Tkg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ENLWEfi0Tkg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ENLWEfi0Tkg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ENLWEfi0Tkg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ENLWEfi0Tkg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hhhHsEPydmX9pg--HckZvFCIDg0\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLkItcmVLa0I4TDVR",
+    "snippet": {
+      "publishedAt": "2017-06-22T20:44:19.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Gopherfest 2017: Event Sourcing – Architectures and Patterns (Matt Ho)",
+      "description": "Event sourcing and other applications of append-only logs have experienced a renaissance in recent years. From git, to Kafka, to block chains, the use of append-only logs is on the rise.\n\nIn this talk, Matt Ho will cover the benefits of event sourcing and how to get started with it using Go. He'll provide the background of event sourcing along with simple illustration of how event-sourcing might be applied to a domain entity. \n\nHe'll go in-depth on how event sourcing can address challenges posed by transactional integrity, dual writes, and scaling – issues which are increasing in importance given the rise of REST-based microservices.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B-reKkB8L5Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B-reKkB8L5Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B-reKkB8L5Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/B-reKkB8L5Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/B-reKkB8L5Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "B-reKkB8L5Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3LRJsw-pSgeLu2V-MQeD4uVBaCo\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmR5dnBGMGpGM0FZ",
+    "snippet": {
+      "publishedAt": "2017-06-22T20:44:05.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Gopherfest 2017: The State of Go (Francesc Campoy)",
+      "description": "Francesc Campoy Flores (twitter.com/francesc) talks about the history of Go, the growth of the community, and current state and future of the language we love.\n\nSlides: https://talks.golang.org/2017/state-of-go-may.slide#1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dyvpF0jF3AY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dyvpF0jF3AY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dyvpF0jF3AY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dyvpF0jF3AY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dyvpF0jF3AY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Do5Gyqpow906dPyxcAg2DXn8o1k\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmdpVWF0Qm1tYl9Z",
+    "snippet": {
+      "publishedAt": "2017-05-16T04:16:54.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "GopherFest 2017",
+      "description": "Agenda \n\n9:20 - Intros\n10:57 - State of Go, Francesc Campoy Flores\n37:11 - Event Sourcing – Architectures and Patterns, Matt Ho \n1:19:17 - Rob Pike on Upspin \n1:52:06 - Lessons Learned from a Context-NATS Integration, Waldemar Quevedo \n\nhttps://www.meetup.com/golangsf/events/238748981/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/giUatBmmb_Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/giUatBmmb_Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/giUatBmmb_Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/giUatBmmb_Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "giUatBmmb_Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OFJDXUL3jPzm2WLgkS5BS5y-pFw\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLkFPcHByaHI2QzlJ",
+    "snippet": {
+      "publishedAt": "2017-02-11T02:00:59.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "FOSDEM 2017: High performance and scaling techniques in Golang using Go Assembly",
+      "description": "In this presentation we present some optimizations we have developed for the Minio object server. To maximize hashing performances for bit-rot protection we have exploited the Go Assembly capabilities to natively optimizing BLAKE2 and SHA2 techniques for both Intel and ARM platforms. In addition we will present a distributed locking package to aid with scaling a single server solution into a multi server solution.\n\nIn this presentation we would like to focus on a couple of developments that we have done for the Minio object server in terms of performance improvements and scaling techniques.\n\nRegarding hashing we have developed Go packages for two hashing algorithms (BLAKE2 and SHA256) that take advantage of the Golang (or Plan9) assembly capabilities. These packages exploit SIMD instructions of Intel and the Cryptography Extensions for the ARM platform. The speed up range from 3 to 4 times (Intel) to 100X (on ARM). Due to the use of Golang assembly there is no need for a C-compiler in order to use these packages (when compiling from scratch). For the Intel platform SSE, AVX, and AVX2 specific version are available and the most performant architecture is automatically chosen.\n\nIn addition we have developed a distributed locking and syncing package for Go. Its main features are: - Simple design for avoiding many tricky edge cases - No need for a master node - Resilient so other nodes are not affected when a node goes down - Drop-in replacement for sync.RWMutex -Automatically reconnect to (restarted) nodes - Limited scalability of up to 16 nodes\n\nWe are successfully using this package for the Distributed version of the Minio Object Server",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AOpprhr6C9I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AOpprhr6C9I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AOpprhr6C9I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AOpprhr6C9I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AOpprhr6C9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AOpprhr6C9I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nO4wLPeifoC47odHb0yiSyyBDIY\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnF6YTctQ1JDVlZV",
+    "snippet": {
+      "publishedAt": "2017-02-09T23:42:35.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "FOSDEM 2017: High-performance IoT Using Go and Gobot",
+      "description": "Speaker: Ron Evans\n\nThe Go programming language from Google has become well known for its power and portability in the containerization world. The open source framework Gobot (http://gobot.io) is written in the Go programming language, and brings this same power to IoT development, with support for many different hardware and software platforms.\n\nIn this talk, including live demonstrations, we will show how high-performance IoT and robotics solutions can be built using Go.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qza7-CRCVVU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qza7-CRCVVU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qza7-CRCVVU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qza7-CRCVVU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qza7-CRCVVU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qza7-CRCVVU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fZf3AM_Zg1qOwoiDSOiSmhdBPgA\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmxMRFdGNTlhWkFv",
+    "snippet": {
+      "publishedAt": "2017-02-09T21:56:36.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "FOSDEM 2017: Implementing 'tail -f' in Go",
+      "description": "Speaker: Fabian Stäber\n\nAs part of a log file monitoring tool, I implemented a file tailer that keeps reading new lines from log files. This turned out to be much more challenging than I thought, especially because it should run on multiple operating systems and it should be robust against logrotate. In this 20 Minutes talk I will present the lessons learned, the pitfalls and dead-ends I ran into.\n\nThe monitoring tool is https://github.com/fstab/grok_exporter\n\nSlides: https://goo.gl/9ABX2R (docs.google.com)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lLDWF59aZAo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lLDWF59aZAo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lLDWF59aZAo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lLDWF59aZAo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lLDWF59aZAo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lLDWF59aZAo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0zz0zb_yT_OfJPKLDIF__NjU1xs\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLndnSWxreXZYeUV3",
+    "snippet": {
+      "publishedAt": "2017-02-06T15:31:56.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "FOSDEM 2017: Android development with Go",
+      "description": "Speaker: Daniel Esteban\n\n\nIn this presentation Daniel talks about Android (and a little of iOS too) development with Gomobile. What options do we have when it comes to mobile devices and our favorite language, how to start and a few bits about my experience building an Android App.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wgIlkyvXyEw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wgIlkyvXyEw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wgIlkyvXyEw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wgIlkyvXyEw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wgIlkyvXyEw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wgIlkyvXyEw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8VS_mvTgfQQsaQrrEB3NXZiXKb8\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnFaZXpna1p2b0tn",
+    "snippet": {
+      "publishedAt": "2017-02-06T15:27:01.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "FOSDEM 2017: gobpf - utilizing eBPF from Go",
+      "description": "Speaker: Michael Schubert\n\neBPF is a Linux in-kernel virtual machine that is used for tracing functions, networking, performance analysis and more. In this talk I will give an introduction into eBPF and gobpf, a new library under the IO Visor Project, and show how gobpf can be used to access and utilize eBPF features from Go programs. We will also look at the design of gobpf and its use of the bcc framework and Cgo.\n\nMore: https://fosdem.org/2017/schedule/event/go_bpf/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qZezgkZvoKg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qZezgkZvoKg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qZezgkZvoKg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qZezgkZvoKg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qZezgkZvoKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qZezgkZvoKg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fFNtJ6WyYqeaviLDKw9CE0cSyX0\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnRZNFVLa2diNUlZ",
+    "snippet": {
+      "publishedAt": "2017-02-06T11:01:56.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "The State of Go - February 2017",
+      "description": "Francesc Campoy covers the most important changes coming with Go 1.8\nSlides: https://talks.golang.org/2017/state-of-go.slide",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tY4UKkgb5IY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tY4UKkgb5IY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tY4UKkgb5IY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tY4UKkgb5IY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tY4UKkgb5IY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tY4UKkgb5IY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zxgma2sjBhz1Wkfsk8mxxM3kpJs\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLkpPeDllbmt0blVN",
+    "snippet": {
+      "publishedAt": "2015-12-01T23:59:09.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go at Dropbox - Zviad Metreveli - Gopherfest - November 18, 2015",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JOx9enktnUM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JOx9enktnUM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JOx9enktnUM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JOx9enktnUM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JOx9enktnUM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L1e7D7osiuO_r5RwKH0pjRTdgU0\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnJIZjlwM0MyTDJB",
+    "snippet": {
+      "publishedAt": "2015-12-01T21:23:14.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Using Go Channels - Natik Shah - Gopherfest - November 18, 2015",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rHf9p3C2L2A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rHf9p3C2L2A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rHf9p3C2L2A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rHf9p3C2L2A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rHf9p3C2L2A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rHf9p3C2L2A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dEyC3u8jnEErcq5VPOkQ8yXHO6o\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLlBBQWtDU1pVRzFj",
+    "snippet": {
+      "publishedAt": "2015-12-01T18:58:18.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go Proverbs - Rob Pike - Gopherfest - November 18, 2015",
+      "description": "See the full list of proverbs here:\nhttp://go-proverbs.github.io/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PAAkCSZUG1c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PAAkCSZUG1c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PAAkCSZUG1c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PAAkCSZUG1c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PAAkCSZUG1c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PAAkCSZUG1c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IDIZIT44uTXpyfAkqinCy-q_o8c\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnZnb2xoU0phMjZn",
+    "snippet": {
+      "publishedAt": "2015-07-05T04:24:18.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Binary Encoding in Go - Hamish Ogilvy - Go Sydney Meetup June 2015",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vgolhSJa26g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vgolhSJa26g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vgolhSJa26g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vgolhSJa26g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vgolhSJa26g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vgolhSJa26g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8J7ZAW0t69vdOctUsx0YoYg8JKQ\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLkZ4MzA0RWZxdE1v",
+    "snippet": {
+      "publishedAt": "2015-05-27T04:16:03.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "GopherFest 2015",
+      "description": "Better quality videos:\n\nhttps://www.youtube.com/watch?v=S9Bu6fZnLGM - Andrew Gerrand\nhttps://www.youtube.com/watch?v=cF1zJYkBW4A - Rob Pike\nhttps://www.youtube.com/watch?v=0xpv7SFQ0T4 - Aaron Schlesinger\nhttps://www.youtube.com/watch?v=29LLRKIL_TI - Steve Francia\n\nSlides:\n\nhttps://talks.golang.org/2015/state-of-go-may.slide - State of Go\nhttps://talks.golang.org/2015/gogo.slide - Go in Go",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Fx304EfqtMo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Fx304EfqtMo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Fx304EfqtMo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Fx304EfqtMo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Fx304EfqtMo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Fx304EfqtMo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mddGyUwIFli6AJQNk0HpCCg8gZE\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLm9NLU1mZWZsVVo4",
+    "snippet": {
+      "publishedAt": "2015-03-05T02:25:06.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Lightning Talks - Go Devroom FOSDEM 2015",
+      "description": "The talks and speakers:\n0:30 - Camlistore - Mathieu Lonjaret\n12:00 - restic - backups done right - Alexander Neumann\n25:15 - Go as a building block for the internet - Alexandre Fiori\n36:55 - JSON marshaling and code generation - Francesc Campoy\n46:40 - Can Go fix the Windows command line? - Seppe Stas\n1:00:00 - Go on Mobile - David Crawshaw\n1:09:09 - Phenakistoscope in Go - Alex Plugaru\n1:17:45 - Go on App Engine - Valentin Deleplace\n1:34:20 - REST & Hybrid Cryptography  - Eleanor McHugh",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oM-MfeflUZ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oM-MfeflUZ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oM-MfeflUZ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oM-MfeflUZ8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oM-MfeflUZ8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oM-MfeflUZ8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RXInX_OaO_1hD8LPCHPuw0ZfMRY\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLm5kS2o3N1ZXMmVN",
+    "snippet": {
+      "publishedAt": "2015-03-05T02:25:06.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "CockroachDB: Towards an Open-Source Spanner - Tobias Schottdorf - Go Devroom FOSDEM 2015",
+      "description": "Many NoSQL databases come with a focus on performance, availability and scalability, sacrificing strong consistency guarantees along the way. In effect, this shifts the burden of providing consistency to the application, and often results in complex and error-prone application logic. Just a few years ago, an intense effort by Google resulted in Spanner - a globally distributed, replicated datastore that puts transactions back where they belong: right into the heart of the database.\n\nCockroachDB is a grass-roots effort to bring to the table the guarantees of Spanner (and more) in an open source scalable database that is easy to deploy and, despite the name, quite attractive to have around. In the talk, I'll introduce you to the team behind CockroachDB and the current state of the art, briefly discuss consistency & Spanner and then dive into a tour of what's under the hood.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ndKj77VW2eM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ndKj77VW2eM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ndKj77VW2eM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ndKj77VW2eM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ndKj77VW2eM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ndKj77VW2eM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vERVVy_su--sNcU0W_kykw0iOxE\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLlVOdWxTcHJkMk5n",
+    "snippet": {
+      "publishedAt": "2015-03-05T02:25:06.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go at CoreOS - Kelsey Hightower - Go Devroom FOSDEM 2015",
+      "description": "At CoreOS, we chose to write everything in Go at a time when Python was the language of choice for Linux distributions. It had been almost 10 years since a new Linux distro was created. With the entrance of the cloud era, moving deeply into distributed computing based on Linux containers and multi-core machines, we needed a language that would allow our developers to iterate rapidly and create self-contained components that were not tangled in a web of software dependencies on the operating system. Go was the clear choice because it would enable us to build applications quickly and produce standalone binaries.\n\nWith thousands of hours of Go experience, this session will dive into the trenches on Go at CoreOS. It will explore four major projects written in Go: etcd, fleet, rocket and flannel. Attendees will learn tips and tricks for using Go for building and shipping products. Learn the ways Go enables CoreOS to build simple tools to solve a large variety of infrastructure automation tasks, and create high performance components for distributed systems.\n\nThis talk will cover some of the major projects written in Go at CoreOS, including etcd, fleet, rocket and flannel. etcd is a highly-available key value store for shared configuration and service discovery, that can be used as a lock service (e.g. for leader election) or for distributed configuration. etcd uses the Go standard library extensively, and the session will detail how we used Go to make our raft implementation lightweight and easy to navigate. Fleet is a distributed init system that extends systemd to the cluster level. The session will explore how fleet uses Go to provide both event-driven and reconcilation-based orchestration of units in a cluster. Rocket is a new container runtime and the first implementation of the appc specification. Developing in Go allowed Rocket to go from concept to functional product in a rapid timeframe. Finally, flannel is an etcd-backed overlay network fabric for Linux containers. Flannel leverages Go’s ability to seamlessly integrate with C code, to provide maximal performance in critical paths but retain the safety of higher level abstractions and ability to leverage existing Go libraries.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UNulSprd2Ng/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UNulSprd2Ng/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UNulSprd2Ng/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UNulSprd2Ng/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UNulSprd2Ng/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UNulSprd2Ng"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0tiamwJFMv38vP0LwMwP_z-RvO4\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmdBZm9Md29nX01B",
+    "snippet": {
+      "publishedAt": "2015-03-05T02:25:06.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "HTTP/2 for Go - Brad Fitzpatrick - Go Devroom FOSDEM 2015",
+      "description": "Brad Fitzpatrick gives an overview of HTTP/2 (its design and advantages) and then discusses the design of Go's http2 package.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gAfoLwog_MA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gAfoLwog_MA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gAfoLwog_MA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gAfoLwog_MA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gAfoLwog_MA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gAfoLwog_MA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gCHM2g5pSPSXl3H4EpE4DnAo1uE\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLjEydlBDSnJXd3hB",
+    "snippet": {
+      "publishedAt": "2015-03-05T02:25:06.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Finding Bad Needles in Worldwide Haystacks - Dmitry Savintsev - Go Devroom FOSDEM 2015",
+      "description": "Over the last year, we have been using Go to improve the accuracy and quality of our web security scanning system that has become part of our Continuous Development pipeline and now checks all Yahoo websites and changes to them. We would like to present several components of the scanner and share some of our experiences, results, and lessons from using Go for web scanning at a large scale.\n\nGo has caught our attention after the 1.0 release with the approachable learning curve, clean syntax, good HTTP library and built-in concurrency/syncronization primitives and overall a promise of a good match for our tasks. As a warm-up and initial study, we wrote a dead link scanner to plow through thousands of sites and find a number of \"bad needles\" (404s) - all while running on a single server. Encouraged, we proceeded with converting several parts of the security scanning system to Go.\n\nWe started with \"webseclab\" - set of tests for the scanner and framework to do experiments and proof of concepts/demos. It is similar in spirit to the recently released \"firing range\", webgoat or DVWA (\"Damn Vulnerable Web Application\") but thanks to the Go implementation may have special or even unique features.It is extremely easy to fire up (no dependencies and no Tomcat setup or such needed) which allows you to turn any random VM or host into a functional web security \"lab\". Also, switching between Go's text and html templates, we get \"for free\" - with just a few lines of extra code - a set of \"fixed\" tests where the injections are neutralized by proper output escaping which comes especially useful for training and communicating with developers. The webseclab is optimized for rapid addition of new tests and cases - we have been using it to \"resurrect\" already fixed issues reported through the BugBounty program and quickly convert HTTP dumps into realistic tests ready to be used for scanner improvement.\n\nThe next stage of the still ongoing conversion was rewrite of the analysis engine. We named it \"contextdetect\" as the task of defining the HTML context is crucial for that piece, and here Go has helped us to a break-through. Gone are painful and fragile layers of regexps and scripting logic that were used to simulate HTML parsing and context detection - but still lead to bouts of either false positives or false negatives. We use net/html HTML5 parser [1] to define the HTML context where the injection happens and evaluate it accordingly. We also use Robert Krimen's Javascript parser \"otto\" [1] to check whether an injection breaks the Javascript (likely bad) or not. Using real parsers allowed us to reduce the number of annoying false positives close to zero and make the life of the tool's users more pleasant - while still finding the real issues (as continously verified with the webseclab). We also implemented in Go a web services wrapper that distributes the work to a number of redundant scanning workers and used \"go test\" for functional smoke test of the scanner.\n\nIn the process of development in our CD environment, we had several challenges with the build process as the standard \"go get\" approach was off-limits for us and we have a strict requirement to mirror all the 3rd party code used for builds internally. Currently we are using the Android REPO tool to maintain description of the dependencies as well as specify the GOPATH-compatible workspace - we will discuss our considerations of the involved tradeoffs.\n\nWhile not everyone may have to be as obsessed with defending against XSS and other badness as we are, we hope that our experience will be helpful and encouraging for others who need to do large-scale web or network verification, quality assurance, or investigations. Let's go make the web a better and safer place! :)\n\n[1] https://godoc.org/golang.org/x/net/html [2] https://godoc.org/github.com/robertkrimen/otto",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/12vPCJrWwxA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/12vPCJrWwxA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/12vPCJrWwxA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/12vPCJrWwxA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/12vPCJrWwxA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "12vPCJrWwxA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Iwe0GxLh7d7GDRZVyuz8HSLt9Ws\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLkdNMzlCZV9PaExN",
+    "snippet": {
+      "publishedAt": "2015-03-05T02:25:07.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go and the Modern Enterprise - Peter Bourgon - Go Devroom FOSDEM 2015",
+      "description": "Successful, tech-related, consumer-oriented companies with \"hockey stick\" growth -- companies like Twitter, Netflix, Spotify, and SoundCloud -- represent what might be called the \"modern enterprise\".\n\nThese organizations run microservice architectures which are continuously built and deployed, deeply instrumented, data-driven, and can fundamentally change from day to day. The open-source software stacks they use gain recognition, contributors, and momentum.\n\nGo has many advantages in this kind of environment, and seems well-posed for becoming its de facto language. But we're definitely not there yet.\n\nThis talk is an experience report of Go in the \"modern enterprise\" of SoundCloud, and my opinion of what needs to happen with the language and ecosystem for it to gain real mindshare in that environment.\n\nhttps://gokit.io/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GM39Be_OhLM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GM39Be_OhLM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GM39Be_OhLM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GM39Be_OhLM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GM39Be_OhLM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GM39Be_OhLM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JAkYRZhO90InxjgwT7xkPerls_E\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLkNrMWJSeVl4SkNR",
+    "snippet": {
+      "publishedAt": "2015-03-05T02:25:07.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Moving MongoDB components to Go - Norberto Leite - Go Devroom FOSDEM 2015",
+      "description": "MongoDB is one of the most popular databases in the world to date and we love Go. As part of MongoDB package comes a set of tools and utilities that allow the user to perform several different tasks on MongoDB like exporting data, important, collecting stats etc. Part of the ecosystem around MongoDB is also MMS(MongoDB Management Service) which allows users to monitor, backup and automate their MongoDB deployments using a centralized SaaS service. MMS agents are already Go applications and we are also migrating MongoDB tools to Go codebase, among other internal tools. This is potentially the largest distribution of Go applications to date in an opensource project!\n\nThis talk explains why we’ve undergone such code base change, our expectations and the actual benefits that we are already seeing due to this change: better code base better testability better deployment / multiplatform (goodbye #IFDEF statements in C++ code base) better performance The talk is oriented to people looking to make a similar task of changing their current apps to Go, people looking to understand the pros and cons (mostly pros) of using Go for such set of utilities and agents and for people interested in understanding how to manage a Go code base distribution.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ck1bRyYxJCQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ck1bRyYxJCQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ck1bRyYxJCQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ck1bRyYxJCQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ck1bRyYxJCQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ck1bRyYxJCQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/27wkyjwBoVBCw3C3lcUcWY8WQm4\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLktkOEVxVHZXNUVR",
+    "snippet": {
+      "publishedAt": "2015-03-05T02:25:06.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "The State of Go - Andrew Gerrand - Go Devroom FOSDEM 2015",
+      "description": "https://talks.golang.org/2015/state-of-go.slide",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Kd8EqTvW5EQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Kd8EqTvW5EQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Kd8EqTvW5EQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Kd8EqTvW5EQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Kd8EqTvW5EQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Kd8EqTvW5EQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ctp7quHSEnr_V7D5XzNd8e_rXXc\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLlpMcTBaZW95dTZZ",
+    "snippet": {
+      "publishedAt": "2015-03-04T22:18:54.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go on Mobile - David Crawshaw - London Go Gathering 2015",
+      "description": "David Crawshaw talks about the state of Go on mobile platforms (Android and iOS specifically).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZLq0Zeoyu6Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZLq0Zeoyu6Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZLq0Zeoyu6Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZLq0Zeoyu6Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZLq0Zeoyu6Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZLq0Zeoyu6Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ooy2W1UrPc6V92YiLK-074h_UK4\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLllnbkQyN0dGY3lB",
+    "snippet": {
+      "publishedAt": "2015-03-04T22:18:55.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "JSON, interfaces, and go generate - Francesc Campoy - London Go Gathering 2015",
+      "description": "Francesc Campoy talks about JSON encoding and decoding, interfaces, and the new \"go generate\" command.\n\nSlides: http://talks.golang.org/2015/json.slide",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YgnD27GFcyA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YgnD27GFcyA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YgnD27GFcyA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YgnD27GFcyA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YgnD27GFcyA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YgnD27GFcyA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/u75yIWnNrkIZBoG1nD3Wuu8XKGk\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmx6bEdYTW5yQmd3",
+    "snippet": {
+      "publishedAt": "2015-03-04T22:18:54.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Channeling Failure - Matt Heath - London Go Gathering 2015",
+      "description": "Go’s concurrency primitives make it easy to build highly concurrent systems, however any distributed system operating at scale will experience failures. This is especially important in microservice architectures where requests may traverse many systems initiating remote calls, and failures of a single component may cascade through several more.\n\nIn this talk we look at a number of common patterns from simple usage of channels to control and throttle concurrency, to more complex patterns such as the CircuitBreaker which can be used to prevent cascading failures; increasing the reliability of our systems.\n\nhttps://speakerdeck.com/mattheath/channeling-failure",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lzlGXMnrBgw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lzlGXMnrBgw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lzlGXMnrBgw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lzlGXMnrBgw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lzlGXMnrBgw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lzlGXMnrBgw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bKQCR4WpOwJ7Xcyi1Yd-sIMW5x8\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmlGUl83QUtrSkZV",
+    "snippet": {
+      "publishedAt": "2015-03-04T22:18:54.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go and the Modern Enterprise - Peter Bourgon - London Go Gathering 2015",
+      "description": "Peter Bourgon talks about Go's place in the Modern Enterprise and introduces the gokit project. http://gokit.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iFR_7AKkJFU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iFR_7AKkJFU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iFR_7AKkJFU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iFR_7AKkJFU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iFR_7AKkJFU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iFR_7AKkJFU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jQyBdI7Q-e3TFHBBb5xjy6nuAmA\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLjhpZ2syeWxrX1g0",
+    "snippet": {
+      "publishedAt": "2015-03-04T22:18:54.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "How Go spread at CloudFlare - John Graham-Cumming - London Go Gathering 2015",
+      "description": "John Graham-Cumming talks about how Go made inroads at CloudFlare to become one of their primary languages.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8igk2ylk_X4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8igk2ylk_X4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8igk2ylk_X4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8igk2ylk_X4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8igk2ylk_X4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8igk2ylk_X4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/E3enCif02pKZRFdgvjQJb_NnEOA\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmd1a0FaTzFmcVpR",
+    "snippet": {
+      "publishedAt": "2015-03-04T22:18:54.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "HTTP/2 - Brad Fitzpatrick - London Go Gathering 2015",
+      "description": "Brad Fitzpatrick talks about his implementation of an HTTP/2 server in Go.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gukAZO1fqZQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gukAZO1fqZQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gukAZO1fqZQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gukAZO1fqZQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gukAZO1fqZQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gukAZO1fqZQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xQaRt08H4MNpZJp7CcqwfxO1hIE\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnlHLVVhQkpYWjgw",
+    "snippet": {
+      "publishedAt": "2015-02-25T22:57:48.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Hacking with Andrew and Brad: an HTTP/2 client",
+      "description": "In this hacking session, Andrew Gerrand and Brad Fitzpatrick write the beginnings of a HTTP/2 client in Go.\n\nThe work we did in this screencast is in this commit: \nhttps://github.com/bradfitz/http2/commit/fcb18dbbcb0a86344f28e8989130aa13916f21a5",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yG-UaBJXZ80/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yG-UaBJXZ80/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yG-UaBJXZ80/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yG-UaBJXZ80/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yG-UaBJXZ80/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yG-UaBJXZ80"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/H3UcPwPbbvh_KgdZ9PrNyT0qF-k\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLjNHc2RnNC04NVg4",
+    "snippet": {
+      "publishedAt": "2015-03-04T22:18:55.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "The State of Go (Feb 2015) - Andrew Gerrand - London Go Gathering 2015",
+      "description": "Andrew Gerrand talks about what the Go project is up to in February 2015.\n\nSlides: http://talks.golang.org/2015/state-of-go.slide",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3Gsdg4-85X8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3Gsdg4-85X8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3Gsdg4-85X8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3Gsdg4-85X8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3Gsdg4-85X8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3Gsdg4-85X8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8lgcDAAc4s8NBrIrJ4yCOhHcvr0\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLjFyWi1Kb3JISkVZ",
+    "snippet": {
+      "publishedAt": "2015-01-09T00:24:58.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Hacking with Andrew and Brad: tip.golang.org",
+      "description": "In this hacking session, Andrew Gerrand and Brad Fitzpatrick write the new version of tip.golang.org, a site that serves leading-edge documentation for the Go core.\n\nThe source is at https://github.com/golang/tools/tree/master/cmd/tipgodoc",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1rZ-JorHJEY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1rZ-JorHJEY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1rZ-JorHJEY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1rZ-JorHJEY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1rZ-JorHJEY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1rZ-JorHJEY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aSN4lR_ox6VXPGWBZ0nmS4Lu1v8\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLlBYb0cwV1gwcl9F",
+    "snippet": {
+      "publishedAt": "2014-12-19T02:12:44.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Implementing a bignum calculator - Rob Pike - golang-syd November 2014",
+      "description": "Rob Pike describes his interpreter for an APL-like calculator language.\n\nSlides: http://go-talks.appspot.com/github.com/robpike/ivy/talks/ivy.slide#1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PXoG0WX0r_E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PXoG0WX0r_E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PXoG0WX0r_E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PXoG0WX0r_E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PXoG0WX0r_E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PXoG0WX0r_E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/boFzKsOGavsGGQHIEZ1rKmvQpbk\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmp1SE1kY1R6NXZN",
+    "snippet": {
+      "publishedAt": "2014-08-05T05:41:45.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Underscore presented by Toby Hede at golang-syd",
+      "description": "Toby presents his controversial Underscore library at golang-syd in July 2014.\n\nhttps://github.com/tobyhede/go-underscore",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/juHMdcTz5vM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/juHMdcTz5vM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/juHMdcTz5vM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/juHMdcTz5vM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "juHMdcTz5vM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EUqfp6Ow5UzahcNXnConhuS58YI\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLjcwWjFBeXZmYVFF",
+    "snippet": {
+      "publishedAt": "2014-08-04T07:13:31.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "TinyTerm presented by Dave Cheney at golang-syd",
+      "description": "TinyTerm is \"A silly terminal emulator written in Go\" presented by its author Dave Cheney at the golang-syd July 2014 meetup.\n\nhttp://dave.cheney.net/2014/08/03/tinyterm-a-silly-terminal-emulator-written-in-go",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/70Z1AyvfaQE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/70Z1AyvfaQE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/70Z1AyvfaQE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/70Z1AyvfaQE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/70Z1AyvfaQE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "70Z1AyvfaQE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/39Kym0RyvYzexid6mn4wHCHQkP4\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLm5kbUIwYmo3ZXl3",
+    "snippet": {
+      "publishedAt": "2014-08-04T07:09:46.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Testing Techniques",
+      "description": "This talk was initially presented by Andrew Gerrand at Google I/O 2014 at the Go Developer Sandbox. This recording is from the (somewhat informal) golang-syd meetup in July 2014.\n\nThe slides are available here: https://talks.golang.org/2014/testing.slide\nThe demo code is available here: https://github.com/golang/example",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ndmB0bj7eyw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ndmB0bj7eyw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ndmB0bj7eyw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ndmB0bj7eyw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ndmB0bj7eyw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ndmB0bj7eyw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W9ssSr8kiss_Xq9H3uwLSGXLmgQ\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnl2amVJWmd5a2lB",
+    "snippet": {
+      "publishedAt": "2014-02-24T00:40:54.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Camlistore (FOSDEM 2014)",
+      "description": "Camlistore (camlistore.org) is your personal storage system for life, putting you in control, and designed to last. It's open source, under nearly 4 years of active development, and extremely flexible. Come see why we built it, what it does, and hear about its design.\n\nCamlistore is your personal storage system for life, putting you in control, and designed to last for generations. See camlistore.org.\n\nIt's open source, under nearly 4 years of active development, and extremely flexible. Come see why we built it, what it does, and hear about its design.\n\nWe'll discuss philosophy (data ownership, decentralization, data archaeology), pragmatism (dealing with real users), show plenty of demos, and show the design of Camlistore, including its abstractions which let us run on any device, desktop, cloud, or platform: ARM plug devices, Android phones, desktops, servers, EC2, App Engine, etc. Storage can be any mix of local disk, S3, App Engine, MySQL, Postgres, SQLite, Level-DB, Mongo, WeedFS, etc.\n\nWhile language-agnostic with multiple implementations, Camlistore's primary server and set of tools are written in Go. We'll try to be only moderately religious about how much we love Go, what we get from Go, and how much of Go's standard library evolved first within Camlistore.\n\nIn addition to discussing what we've built so far, we'll discuss the future and how we'd like to see web services work with regard to data ownership and what we're doing to push things in that direction, both technically and politically (standards bodies, etc).\n\nAbout the presenters:\n\nBrad Fitzpatrick leads the Camlistore project and currently works on the Go language, having previously made LiveJournal, memcached, OpenID, gearman, MogileFS, and other tools. He also continues to help push WebFinger. Mathieu Lonjaret works full time on Camlistore. Andrew Gerrand also works on the Go language and contributes to Camlistore.\n\nhttp://camlistore.org/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yvjeIZgykiA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yvjeIZgykiA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yvjeIZgykiA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yvjeIZgykiA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 43,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yvjeIZgykiA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/opnRkpwLZJmTt3uQ3UYGcHyif9s\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnRuWE9lSFJ1eXlB",
+    "snippet": {
+      "publishedAt": "2014-02-24T00:37:58.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Porting Go to new platforms (FOSDEM 2014)",
+      "description": "By Aram Hăvărnanu\n\n\"Go is easy to port, but through this talk I hope to make it even easier.\n\nThe reference implementation of the Go programming language is relatively easy to port to new systems, but it's somewhat unusual. In this presentation I'll describe the structure of the toolchain, and you'll learn how to modify the Plan 9-derived toolchain to target a new platform. We'll take a look at how the runtime works in areas of synchronisation, scheduling and signals. We will also look at the integration betwen networking and the runtime. We'll delve deep into the Solaris port to illustrate specific issues and pitfalls. I'll show you how to use the debugger to solve real bugs that occurred during the port and I will try to offer advice on how you can avoid these type of bugs in your own port.\n\nI'll offer as much practical advice as I can; much of it details about the implementation, but also practical advice on how to build your workflow and tips about how to progress faster and how to make sure you are on the right track.\"\n\nPresentation notes: https://bitbucket.org/4ad/gofosdem2014",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tnXOeHRuyyA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tnXOeHRuyyA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tnXOeHRuyyA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tnXOeHRuyyA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 44,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tnXOeHRuyyA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aVZ-CXfgEVV6ZQRsCu-f1QyYmuU\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLjhsclJJeUtfZFJF",
+    "snippet": {
+      "publishedAt": "2014-02-24T00:01:45.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Interfaces: a new leaf for an old book (FOSDEM 2014)",
+      "description": "This talk is about how we can use interfaces in Go to write testable code that can be easily modified, or \"grows with grace\".\n\nGo's interfaces — static, checked at compile time, dynamic when asked for — are, for me, the most exciting part of Go from a language design point of view. If I could export one feature of Go into other languages, it would be interfaces.\n— Russ Cox\n\nWe'll cover the following topics:\n\nTaking advantage of Go's automatically satisfied interfaces\nChoosing third-party packages that are easy to extend for your own purposes\nHow interfaces are used in Go's standard library\nA look at the internals.\n\nThere will be a mixture of practices I've seen used in third-party packages and the standard library, and also some I've successfully applied to our own large codebase.\n\nhttps://fosdem.org/2014/schedule/event/interfaces:_a_new_leaf_for_an_old_book/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8lrRIyK_dRE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8lrRIyK_dRE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8lrRIyK_dRE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8lrRIyK_dRE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 45,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8lrRIyK_dRE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rOFpK_QE3FIyqnNPQf3q8-z-z9Q\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLm1RNGh3TGdTdlVz",
+    "snippet": {
+      "publishedAt": "2014-02-23T23:56:16.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Toward Go 1.3, and beyond (FOSDEM 2014)",
+      "description": "Go team member Andrew Gerrand takes a look at what's coming in the next major release of Go.\n\nhttp://talks.golang.org/2014/go1.3.slide",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mQ4hwLgSvUs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mQ4hwLgSvUs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mQ4hwLgSvUs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mQ4hwLgSvUs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 46,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mQ4hwLgSvUs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6eUUDrvR27qKar8WdU9Mqg-zUgg\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmN3cEk1T05XR3hj",
+    "snippet": {
+      "publishedAt": "2014-02-24T00:39:35.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go Lightning Talks (FOSDEM 2014)",
+      "description": "A series of lightning talks presented at the Go Devroom 2014. (Start times below)\n\n0:30 \"Gisp: Compiling Lisp to Go\" Joseph Adams\n7:25 \"Go with IntelliJ IDEA (and not only)\" Florin Patan\n14:51 \"An introduction to tiedot\" Howard Guo\n22:45 \"Writing a database driver for fun and freedom\" Govert Versluis\n31:30 \"WebLoop: Using cgo to hook into WebKit for scraping and caching\" Quinn Slack\n38:40 \"Why contributing to Go is cool\" Rémy Oudompheng",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cwpI5ONWGxc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cwpI5ONWGxc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cwpI5ONWGxc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cwpI5ONWGxc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 47,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cwpI5ONWGxc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/drfvoVz3aihA45lR9hUnhfv_3OM\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLldUUk9SaW1QdkhF",
+    "snippet": {
+      "publishedAt": "2014-02-23T23:50:33.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Iris Decentralized Messaging (FOSDEM 2014)",
+      "description": "To cope with an ever increasing number of internet connected devices, large scale computer clusters are becoming an everyday requirement for any web-service provider; and with the prevalence of compute clouds, these can be obtained effortlessly at a scale that was previously unimaginable. However, the distribution models available have not caught up with the advancements of clouds yet, and as such, distributed programs running on top of these platforms require significant efforts to take full advantage of their hosts' capabilities.\n\nWe introduce a unique concept into the domain of distributed computing, namely, that the idea of a specific node is impedimental to scalability. The proposed model to achieve a robust system is to raise the unit of abstraction from a single node to a cluster of nodes sharing the same responsibility; and to eliminate all notions related to location, further breaking dependencies between distributed entities.\n\nIris is a decentralized messaging framework with the specific goal of simplifying the development and maintenance of cloud based back-end services by striving towards zero configuration through complete self-organization; achieving full messaging security out of the box; whilst providing the communication primitives to support easily assemblable distributed systems.\n\nIris: http://iris.karalabe.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WTRORimPvHE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WTRORimPvHE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WTRORimPvHE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WTRORimPvHE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 48,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WTRORimPvHE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uevhYGU3QrmKbkfNI5TsbuFg56g\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLlFlOERxN1YzaFhZ",
+    "snippet": {
+      "publishedAt": "2014-02-23T23:51:48.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Write your own Go compiler (FOSDEM 2014)",
+      "description": "A talk by Elliot Stoneham for the Go Devroom at FOSDEM 2014.\n\n\"I'll be explaining the potential I see for Go as a very portable language and reviewing the Go tools that make that such an exciting possibility.\n\nBased on my experiences writing an experimental Go to Haxe translator, I'll talk about the practical issues of code generation and runtime emulation required. I'll compare some of my design decisions with those of two other Go compiler/translators that build on the go.tools library. My aim is to encourage you to try one of these new 'mutant' Go compilers. I hope some of you will be inspired to contribute to one of them or even to write a new one of your own.\"\n\nSlides: https://speakerdeck.com/elliott5/write-your-own-go-compiler\nTardisGo: http://tardisgo.github.io/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qe8Dq7V3hXY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qe8Dq7V3hXY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qe8Dq7V3hXY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qe8Dq7V3hXY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 49,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Qe8Dq7V3hXY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/S1mTY0p7s_JzZO36RRIqoRpyghk\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLnFBVFRUU2c2elhr",
+    "snippet": {
+      "publishedAt": "2014-02-24T00:05:38.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Scaling with Go: YouTube's Vitess (FOSDEM 2014)",
+      "description": "In this talk YouTube Engineer Sugu Sougoumarane describes how they built Vitess in Go to help scale YouTube.\n\nVitess is a set of servers and tools primarily developed in go. It's meant to facilitate scaling of MySQL databases for the web. It's currently used as a fundamental component of YouTube's MySQL infrastructure. The talk will cover some history about how and why the team chose Go, and how it paid off. Sugu will also cover tips and techniques used to scale Vitess using Go.\n\nhttps://github.com/youtube/vitess\nhttp://golang.org/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qATTTSg6zXk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qATTTSg6zXk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qATTTSg6zXk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qATTTSg6zXk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 50,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qATTTSg6zXk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/P2YN-rSNnstaM8MStzzIuo1gVb0\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLmVsdTBWcEx6Skw4",
+    "snippet": {
+      "publishedAt": "2013-12-12T03:30:40.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go for Pythonistas",
+      "description": "In this talk +Francesc Campoy Flores presents Go for Pythonistas.\n\nSlides are available at http://talks.golang.org/2013/go4python.slide\n\nHe looks at the similarities and differences between Python and Go, skipping the basics and focusing on some advanced, in-depth topics.\nPlus, we'll get our hands dirty with some Go exercises.\n\nIt displays some techniques typical from dynamic languages as generators, decorators, and monkey patching and how they can be implemented in Go.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/elu0VpLzJL8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/elu0VpLzJL8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/elu0VpLzJL8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/elu0VpLzJL8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/elu0VpLzJL8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 51,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "elu0VpLzJL8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xfSkRanbDn8yva34MaeVTIIiDTQ\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLlhDc0w4OVl0cUNz",
+    "snippet": {
+      "publishedAt": "2012-10-26T22:34:12.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Writing, building, installing, and testing Go code",
+      "description": "A first stop for newcomers to the Go Programming Language.\n\nThis screencast describes setting up a workspace (GOPATH), writing commands and packages, using the go tool to build and install, and using the testing package to write unit tests.\n\nFor more detail, see http://golang.org/doc/code.html\n\nhttp://golang.org/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XCsL89YtqCs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XCsL89YtqCs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XCsL89YtqCs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XCsL89YtqCs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 52,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XCsL89YtqCs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/knKfcIAw6vJcjSgeZQI9JvyjZ8o\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLjZvNWhVRm1RQ0xF",
+    "snippet": {
+      "publishedAt": "2012-08-15T04:24:37.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Sydney Go Meetup August",
+      "description": "This meetup featured three speakers:\n\n0:00 Dave Cheney from Canonical, talking about his experience as part of the team porting Juju to Go.\n\n22:15 John Barham, founder of SlickDNS, discussing two projects\n1. StatHat line counter: dead simple log file statistics\n2. Random Password Please: random password generator web server with an API\n\n48:44 Andrew Gerrand from the Go team, presenting his OSCON 2012 talk, The Path to Go1. Slides: http://path-to-go1.appspot.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6o5hUFmQCLE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6o5hUFmQCLE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6o5hUFmQCLE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 53,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6o5hUFmQCLE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oyucYaHd6hVHM8y85rExWFTBLmw\"",
+    "id": "VVVPM0xFdHltaUxyZ3ZwYjU5Y05zYjhBLjlrem9HYW9Wa3FJ",
+    "snippet": {
+      "publishedAt": "2012-05-10T23:46:56.000Z",
+      "channelId": "UCO3LEtymiLrgvpb59cNsb8A",
+      "title": "Go hangout with Brad and Andrew",
+      "description": "Brad Fitzpatrick and Andrew Gerrand, members of the Go team at Google, answer some questions about the Go Programming Language. #golang",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9kzoGaoVkqI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9kzoGaoVkqI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9kzoGaoVkqI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9kzoGaoVkqI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Go Programming Language",
+      "playlistId": "UUO3LEtymiLrgvpb59cNsb8A",
+      "position": 54,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9kzoGaoVkqI"
+      }
+    }
+  }
+]

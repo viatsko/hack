@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bQd-Dpi1xga2sbhwz3og3qhDxMg\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLnpJWl9nR1NoSGFF",
+    "snippet": {
+      "publishedAt": "2016-12-07T21:16:25.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "npm run build",
+      "description": "Ben Monro\nhttp://nodevember.org/talk/Ben%20Monro\nThis talk will cover the ins and outs of building a javascript project using nothing but npm & bash.  No gulp or grunt at all.  I'll cover linting, mocha tests, babel, webpack and more.  I'll also cover how to use npm for versioning, deployment, publishing to npm, dependency management.  I've been using npm and node for over 3 years and have worked with and without grunt/gulp and I'm MUCH happier with just plain old npm & bash as it is easier to maintain and follow.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zIZ_gGShHaE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zIZ_gGShHaE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zIZ_gGShHaE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zIZ_gGShHaE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zIZ_gGShHaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zIZ_gGShHaE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zytFL2tEYHHXBH9Td7O9kFtVqHU\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLlVhX3ZHUlBuQXRN",
+    "snippet": {
+      "publishedAt": "2016-12-07T21:16:26.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Jumpstarting Selenium Testing in Your Organization with Javascript, WebdriverIO & Cucumber",
+      "description": "Josh Cypher\nhttp://nodevember.org/talk/Josh%20Cypher\nWith modern software development moving at a rapid pace, automation engineers may find it difficult to keep up with frequent changes. But if parts of the testing process are incorporated into everyone's workflow, this creates the potential for automated testing to mirror software delivery.\r\n\r\nMy goal is to make software testing more accessible to entire product and engineering teams by providing familiar tools that allow individuals to easily contribute to the automation process.\r\n\r\nFor this talk, I will explore how we can meet developers halfway by using the javascript-based testing framework WebdriverIO, demonstrate how product managers can create living documentation and test cases using Cucumber, and talk about sharing page objects and testing libraries across multiple services using NPM.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ua_vGRPnAtM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ua_vGRPnAtM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ua_vGRPnAtM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ua_vGRPnAtM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ua_vGRPnAtM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ua_vGRPnAtM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jvKJ0Ym5dSxf8PHW58CDwkzfpsM\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLmdWM0hRdWVXQjY0",
+    "snippet": {
+      "publishedAt": "2016-12-07T21:16:27.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Choosing the Right API Architecture",
+      "description": "Caleb Meredith\nhttp://nodevember.org/talk/Caleb%20Meredith\nIn this session you will learn about the most popular API architectures of today. You’ll learn what Dr. Roy Fielding’s REST actually is, and why it might be time to move on to newer architectures. You’ll learn a little about the JSON API specification and its relationship to REST. Then of course we’ll take a deep dive into both Netflix’s Falcor and Facebook’s GraphQL—their similarities, their differences, and their tradeoffs from an unbiased developer.\r\n\r\nAt the end of this session you’ll get a practical recommendation of which API architecture to adopt for your next project, in addition to knowing the problems all modern API architectures still share with a vision of the future for our API architectures.\r\n\r\nAn API will always at the center of our apps from now into the foreseeable future. A healthy API will benefit a development team immensely, but a poor API will only cost development teams. Knowing your API architectures is an important first step so you can make the best decisions from the beginning.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gV3HQueWB64/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gV3HQueWB64/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gV3HQueWB64/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gV3HQueWB64/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gV3HQueWB64/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gV3HQueWB64"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6bu9GCkQ-MHLhmWCrPG49F4AruA\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLlM0ZXo3MzlmbGVz",
+    "snippet": {
+      "publishedAt": "2016-12-07T21:16:27.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Rapidly Iterating on Microservices using Docker, Kubernetes, and Node.js",
+      "description": "William Blankenship\nhttp://nodevember.org/talk/William%20Blankenship\nModern application development is service heavy. It’s practical for a seemingly small project to be using Node.js, Postgres, NGinx, Redis, and RabbitMQ all deployed in the cloud. This has brought us to an interesting point, where we may have multiple projects with multiple service dependencies and they may not all be compatible. Each Developer on your team has a special snowflake of a development environment, and the phrase \"works on my machine\" is becoming common place. Docker gives us an easy way out.\r\n\r\nIn this talk, we will walk through capturing your  service dependencies using docker-compose, in the same way that package.json captures module dependencies, then we will leverage this to generate a stable reference environment for your team to develop against. We will show you how to rapidly iterate on a code base using this method. We will live code an example application that uses RabbitMQ, NGinx, and Node.js to demonstrate the power of this workflow, and ultimately push the entire stack to a production Kubernetes cluster.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S4ez739fles/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S4ez739fles/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S4ez739fles/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S4ez739fles/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S4ez739fles/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "S4ez739fles"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q_i4wo7Cwz1mPGParUhTtdco2H4\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLmlEVThGSk1kQU84",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:22.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Lessons learned prototyping a wearable for rock climbers with Node",
+      "description": "Aaron Larner\nhttp://nodevember.org/talk/Aaron%20Larner\nAs a kid my life was very scripted. Wake up, eat breakfast, go to school, come home, do homework, eat dinner, watch TV, rinse and repeat. As children we don't have very much power to influence the world around us, which is why I fell in love with programming. It gave me ultimate control over a virtual space of my making, where I could create almost anything that I could imagine. Fifteen years since I first learned to code in BASIC, aspiring developers and seasoned professionals alike now have the power to influence not just virtual spaces, but also the physical world.\r\n\r\nAt the beginning of 2016 I set out to learn how to apply my existing programming skills to hardware. I toyed with Arduino, Raspberry Pi and an AR Drone before I ultimately settled on the Tessel 2 as a way to bring what was in my imagination into the physical world.\r\n\r\nMy goal was to create a wristband for rock climbers to automatically track stats, progress and injuries. To create the wristband I would need to use RFID, Blue Tooth Low Energy, and of course, JavaScript.\r\n\r\nIn this talk I'll share what I learned while prototyping the wristband using Node. I'll give an overview of the landscape for prototyping hardware projects and explain why I settled on the Tessel 2 as my micro controller of choice. Then I'll describe the process I went through to build the prototype, including the steps I took, the challenges I faced and how I overcame them. Finally I'll show a demo of the product and discuss next steps for improving the form factor and bringing it to market.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iDU8FJMdAO8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iDU8FJMdAO8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iDU8FJMdAO8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iDU8FJMdAO8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iDU8FJMdAO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iDU8FJMdAO8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZQCEsB0XzFHUb2_kkuh1aFdD-Lk\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLl9fYjZrMnBSM1Rn",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:23.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Now & Next",
+      "description": "Guillermo Rauch\nhttp://nodevember.org/keynote/Guillermo%20Rauch\nThis talk will explore creating and deploying universal, server-rendered applications in JavaScript, with just one command.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/__b6k2pR3Tg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/__b6k2pR3Tg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/__b6k2pR3Tg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/__b6k2pR3Tg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/__b6k2pR3Tg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "__b6k2pR3Tg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yJiQc_p-2KzDvqxuW2Q-04tiZgE\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLmhwS1B5YnFzUExZ",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:23.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Smarter & Cuter Bots",
+      "description": "Rachel White\nhttp://nodevember.org/talk/Rachel%20White\nEveryone loves a good twitter bot, and node lets you get one up and running very easily. But what if we made bots cuter and more intelligent? Instead of using text as fodder for this bot, I'll show you how to use Twitter's API, ImageMagick, and Microsoft's Face API to manipulate selfies with cute overlays.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hpKPybqsPLY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hpKPybqsPLY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hpKPybqsPLY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hpKPybqsPLY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hpKPybqsPLY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hpKPybqsPLY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-3HlKsP-mo79hqfOg9HAbLPF_BI\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLkFGaG1icEdhRnIw",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:23.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Promises are terrible; start using them!",
+      "description": "Hunter Loftis\nhttp://nodevember.org/talk/Hunter%20Loftis\nBetween callbacks and Promises, Heroku’s Node.js platform owner Hunter Loftis prefers callbacks - they’re simpler. However, he urges everyone, module authors and app developers, to adopt Promises for all their current work, so the node community can have something much better in the near future.\r\n\r\nThe TC39 async/await proposal is currently at stage 3 (\"Candidate\"), and is scheduled for stage 4 (\"Finished\") by the end of November.\r\nGoogle's V8 team has been making progress with their draft implementation, and it may even be available behind a feature flag in node 7.\r\nWith async/await, async workflows will be easier to write, read, and reason about in JavaScript - a pain that we've all felt for a long time.\r\nThere will be no more need for bandaids like async, Bluebird, or co, and modern frameworks like Koa will finally be pleasant to work with.\r\n\r\nBut none of this will be accessible to anyone whose apps and modules are still based on callbacks,\r\nso this talk will show how to move from callbacks, to Promises, then finally to async/await - and the future of JavaScript!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AFhmbpGaFr0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AFhmbpGaFr0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AFhmbpGaFr0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AFhmbpGaFr0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AFhmbpGaFr0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AFhmbpGaFr0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/57nD1lcEtRT1VJZPmNFbJfGKNRc\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLmNNeEk4bjM5M1pN",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:23.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Fizz buzzkill - Answering tricky JS interview questions",
+      "description": "Russell Anderson\nhttp://nodevember.org/talk/Russell%20Anderson\n### Fizz buzzkill - Answering tricky JS interview questions\r\n\r\nWe all work in our respective silos when writing JavaScript, be it a framework or library. After a few years working as a Front-end dev, I looked at a list of \"JS interview\" questions and realized that I couldn't answer many of them (at least not well). So I set out on a long, somewhat lonesome journey of JS discovery, and am pleased to share my findings with you, in the form of a talk.\r\n\r\nRegardless of how you feel about getting asked random questions meant to trick you up in an interview (you should be appalled), my talk will cover some basic JS subtleties, and hopefully fill in some knowledge gaps w/r/t:\r\n- Hoisting and variable scope\r\n- Expressions v. statements\r\n- Undeclared v. undefined v. null\r\n- Equality comparisons\r\n- How to properly walk out if an interviewer asks you to do fizz buzz\r\n- Much, much more (time permitting)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cMxI8n393ZM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cMxI8n393ZM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cMxI8n393ZM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cMxI8n393ZM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cMxI8n393ZM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cMxI8n393ZM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LtvYOZEZ75N0csQ0qxp-efYgMlk\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLmNzV0FVNFpTd3BB",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:24.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Tracing Asynchronous Operations with Node's AsyncWrap API",
+      "description": "Lance Ball\nhttp://nodevember.org/talk/Lance%20Ball\nEver felt the pain of useless Node.js stack traces? Ever wanted to understand exactly what is taking so long with that one HTTP request? Tracing asynchronous code paths in Node.js is notoriously difficult, making it very hard to understand what is going wrong when your application blows up. Since Node.js version 4.0, however, Node has included an as-yet undocumented, and still in progress feature known as `AsyncWrap`. In this talk you will learn about the upcoming `AsyncWrap` API and how you can use it to to gain a better understanding of what went wrong when your application fails, and where potential asynchronous processing bottlenecks are lurking.\r\n\r\nIn this talk I will present the `AsyncWrap` API with discussion of its potential usages in user applications and custom frameworks. I will discuss existing packages that provide an abstraction layer over this low-level API, learn where unexpected gotchas lay in wait, and finally demonstrate the development of a simple package, making use of the new `AsyncWrap` API to provide better, more complete stack traces of asynchronous executions.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/csWAU4ZSwpA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/csWAU4ZSwpA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/csWAU4ZSwpA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/csWAU4ZSwpA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/csWAU4ZSwpA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "csWAU4ZSwpA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gB4Oa2_YbNPQWoaf_j21oi_fvK4\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLlBPbW5MLVBydUFz",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:25.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "JavaScript Security: What You Need to Know to Write Secure Applications in JS",
+      "description": "Jared Smith\nhttp://nodevember.org/talk/Jared%20Smith\nThought you knew JavaScript security? Well, you don't. At least not as well as you thought you did. From CSRF to crypto, I'm going to teach you everything you absolutely must know to write secure JavaScript, especially web applications in particular, both front and backend. An emphasis will be put on teaching *practical* techniques and *best practices* that you can immediately go back to your company or organization and implement.\r\n\r\nAmong the topics we will cover are preventing common and not-so-common but still critical vulnerabilities in JavaScript code, ranging from CSRF, command injection, improper password handling, broken authentication and authorization, bad cryptography, and more. We will also cover the best practices when attempting to write secure JavaScript code, on both the front and backend. From things like properly implementing user management schemes to as high-level as convincing your co-workers that security *does matter*, we will explore as much as possible in the time we have together.\r\n\r\nBest of all, you *don't have to have security experience*! Come as you are and dive into the intertwined worlds of JavaScript and security and learn how to write the most secure JavaScript and Node.JS applications of your life.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/POmnL-PruAs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/POmnL-PruAs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/POmnL-PruAs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/POmnL-PruAs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/POmnL-PruAs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "POmnL-PruAs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VLK4-xmT0WtRkw1v2bhym4-oO9o\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLmFrelhfOVFrY3Vn",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:25.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Microservices! Containers! Node.js!",
+      "description": "Wyatt Preul\nhttp://nodevember.org/talk/Wyatt%20Preul",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/akzX_9Qkcug/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/akzX_9Qkcug/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/akzX_9Qkcug/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/akzX_9Qkcug/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/akzX_9Qkcug/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "akzX_9Qkcug"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6NLDPwsrd4uIrfaR_xveejnv1A4\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLm9xcmRmWW5UZFI4",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:25.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "This Is NativeScript",
+      "description": "Burke Holland\nhttp://nodevember.org/talk/Burke%20Holland\n[ Camera opens on Leonidas who has recovered from his death in the movie The 300 and is now a JavaScript developer. His greatest challenge is yet to come - he has been tasked with building a native mobile application ]\r\n\r\nNative Developer - \"Listen carefully developer: in order to build a truly native mobile application, you need to learn native languages. All these languages require is that you learn each and every one of them. A token of your submission.\"\r\n\r\nLeonidas - \"Submission. Well, that's bit of a problem. Also, NativeScript allows you to build truly native mobile apps with just JavaScript. Cross-platform as well.\"\r\n\r\nNative Developer - \"You're mad! No man! No man builds native mobile apps with JavaScript and no web view!\"\r\n\r\nLeonidas - \"Madness... THIS. IS. NATIVESCRIPT.\"\r\n\r\nNative Developer - “Whoa. Settle down. That meme is getting really old you know.\"\r\n\r\nLeonidas - “Sorry, I got a little worked up. Let me show you how NativeScript lets you build truly native apps with JavaScript, but without being confined to a web view.\"\r\n\r\nNative Developer - \"Sweet! Let's sit right here on the edge of this bottomless pit and you can tell me all about it.\"",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oqrdfYnTdR8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oqrdfYnTdR8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oqrdfYnTdR8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oqrdfYnTdR8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oqrdfYnTdR8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oqrdfYnTdR8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OuroQzYvlzD-VYbnfqNSffrt3PY\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLkh0RW5PYW9QdUtB",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:26.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Generating a new async workflow... with generators!",
+      "description": "Jordan Kasper\nhttp://nodevember.org/talk/Jordan%20Kasper\nChrome, Firefox, Node - even Microsoft Edge - all of these have added basic support for generators, but this area of JavaScript is still shrouded in mystery and inexperience. Generators allow developers to write functions which can be paused and resumed at will. When used well, this can create much simpler asynchronous workflows and avoid callback hell without the need for complex structures such as Promises. In this session we'll dive into generators and the 'yield' keyword to show attendees what they are, and more importantly why they should care! We'll look at some use cases and see just how these structures can be used to solve problems. Coming out of this session, developers will have a greater understanding of this new feature in ES6/2015 and what's coming next!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HtEnOaoPuKA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HtEnOaoPuKA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HtEnOaoPuKA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HtEnOaoPuKA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HtEnOaoPuKA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HtEnOaoPuKA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FZJlgzQM3oEOuCHqL2IQ5NWYFP4\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLjhhMGdhWmw5T0Zj",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:27.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "The story of redux-logic, a new approach to organizing business logic with Redux",
+      "description": "Jeff Barczewski\nhttp://nodevember.org/talk/Jeff%20Barczewski\nLike many of you, I was searching for the best way to build my JavaScript applications. How do I structure my code properly so my app can grow without being boxed in? I started experimenting to find the best approach to use for my Redux apps. There seemed to be a good sized gap between my ideal goals and the way others were doing things.\r\n\r\nWas I doing things wrong or just misunderstanding the ideas? I explored further by reading blog articles, questions and answer forums, github issues trying to gain all the knowledge I could. It seemed like I was still missing something. The solutions people were leading me to were either lacking in capabilities or the resulting code was much too complex for my liking.\r\n\r\nI wanted things to be simple and straight-forward so that any of my teammates could easily pick things up, understand, and be comfortable working with it. How could these solutions be the recommended ways to structure my code? Is there a better way?\r\n\r\nAfter finally grasping the essence of what I was looking for and taking inspiration from existing projects, I set out to build that small focused library. I wanted to see if it might be possible. It seemed reasonable on paper, but would it work?\r\n\r\nI share all the highlights of my journey and explain the simple inner workings of redux-logic. Everyone who attends will come out with a better understanding of business logic and how to apply it in Redux.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8a0gaZl9OFc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8a0gaZl9OFc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8a0gaZl9OFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8a0gaZl9OFc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8a0gaZl9OFc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8a0gaZl9OFc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6hq82yrscvL4PmHhiLOIuXtZq-E\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLnZDa1NMWDduUjlZ",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:27.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "textarea distributed",
+      "description": "Jason Orendorff\nhttp://nodevember.org/keynote/Jason%20Orendorff\nHow hard can it be to make a `‹textarea›` that multiple users can edit at once?\r\n\r\nIn the first half of this talk, we'll show three simple, easy ways to implement a shared textarea, with code you can try out in your browser. What could go wrong?\r\n\r\nIn the second half, we'll do a postmortem on the first half. We'll watch some snail races, talk about relativity, dig into eventual consistency and CRDTs, and show how the shared textarea relates to problems you might have in your own app's back end. If we're really lucky, we might even edit some text together.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vCkSLX7nR9Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vCkSLX7nR9Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vCkSLX7nR9Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vCkSLX7nR9Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vCkSLX7nR9Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vCkSLX7nR9Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/33BujdI4wkIGdlrhkHGalclphDk\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLmNxSzE4X3JIdDl3",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:43.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Reasonable JavaScript",
+      "description": "Preethi Kasireddy\nhttp://nodevember.org/keynote/Preethi%20Kasireddy\nIn this talk, we’ll look at why JavaScript's versatility and easy of use makes it hard sometimes to write code that is easy to reason about. We’ll then delve into a specific set of methodologies and tools we can use to make our JavaScript code safer, more reliable and more predictable. With a little effort, it becomes infinitely possible to write JavaScript code that is easy to reason about.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cqK18_rHt9w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cqK18_rHt9w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cqK18_rHt9w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cqK18_rHt9w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cqK18_rHt9w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cqK18_rHt9w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/N_v6MExHsrVyxMqotRcef9dkm0g\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLmFQU3ZIVDlVU084",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:42.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Public Speaking without Barfing on Your Shoes",
+      "description": "David Neal\nhttp://nodevember.org/talk/David%20Neal\nSooner or later, we are called on to speak. Out loud. In front of an audience. We may have to present something to our team, our leadership, or even a larger group of (--gulp--) mostly strangers. Public speaking strikes fear into the hearts of nearly everyone... especially those of us who are very shy. Imagining people in their underwear does not help.\r\n\r\nI have been speaking at conferences, user groups, and meetups for many years. However, as a shy introvert, this is not something that comes natural to me! If I can do it, so can you! In this fun and light-hearted talk, I want to share with you what I have learned from my hard-won experience. Introverts and extroverts alike will walk away with practical tips on preparing and giving effective presentations.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aPSvHT9USO8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aPSvHT9USO8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aPSvHT9USO8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aPSvHT9USO8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aPSvHT9USO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "aPSvHT9USO8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g3D75etaHY8jgpYEAgMANonzW4Q\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLnV6WEZ2ZDBfSUVv",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:41.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "Universal Apps: Lessons from the trenches",
+      "description": "Jonathan Creamer\nhttp://nodevember.org/talk/Jonathan%20Creamer\nThere's no question that Universal Apps are one of the most widely talked about ways of building modern web applications. There are countless starter kits, boilerplates, generators, etc etc, so trying to pick and choose what to use in your own Universal App is a daunting task. Most every kit starts with React at the bottom, but from there where do you go?! So many options is both a blessing and a curse for the modern web developer. How to manage application state? Container components? Client side routing? Back end tools? Babel? Typescript? OMG. \r\n\r\nThankfully after months of researching and building, this talk will cover many lessons learned on the best ways to get started building Universal Apps. How to manage state with redux, how to set up your back end with express to render React on the server, as well many pro tips picked up along the way.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uzXFvd0_IEo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uzXFvd0_IEo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uzXFvd0_IEo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uzXFvd0_IEo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uzXFvd0_IEo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uzXFvd0_IEo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LGIliSVKhdFhVv9PBj33qZfJwfE\"",
+    "id": "VVU3ejBuT0U4SVRmckduWEpnTnpZYUVRLjBfVk4yOUVOeF9V",
+    "snippet": {
+      "publishedAt": "2016-11-28T23:21:40.000Z",
+      "channelId": "UC7z0nOE8ITfrGnXJgNzYaEQ",
+      "title": "@WalmartLab’s Migrated to React and Nodejs in Less Than a Year",
+      "description": "Alex Grigoryan\nhttp://nodevember.org/talk/Alex%20Grigoryan\nThe story of how @WalmartLabs successfully migrated to React and Nodejs with efficiency and speed. At the end of this talk, you should be able to make your own successful strategy to transform your technology stack quickly and successfully.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0_VN29ENx_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0_VN29ENx_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0_VN29ENx_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0_VN29ENx_U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0_VN29ENx_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Nodevember",
+      "playlistId": "UU7z0nOE8ITfrGnXJgNzYaEQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0_VN29ENx_U"
+      }
+    }
+  }
+]

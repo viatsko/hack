@@ -1,0 +1,362 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vfYU9pLUZF2i6FCJyW4r2juVaZk\"",
+    "id": "VVVXcXFub255TDdhVmVVWWw1WXA4VHJRLnVaUDNaQU9ST00w",
+    "snippet": {
+      "publishedAt": "2016-06-02T16:12:45.000Z",
+      "channelId": "UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "title": "MindCoding 2016 Final, Round 2",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uZP3ZAOROM0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uZP3ZAOROM0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uZP3ZAOROM0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uZP3ZAOROM0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uZP3ZAOROM0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bohdan Pryshchenko",
+      "playlistId": "UUWqqnonyL7aVeUYl5Yp8TrQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uZP3ZAOROM0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qlfZZbRR1CwoyG83sk9T6fHy_gE\"",
+    "id": "VVVXcXFub255TDdhVmVVWWw1WXA4VHJRLktCV19USlREM1h3",
+    "snippet": {
+      "publishedAt": "2016-06-02T16:12:43.000Z",
+      "channelId": "UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "title": "MindCoding 2016 Final, Round 1",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KBW_TJTD3Xw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KBW_TJTD3Xw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KBW_TJTD3Xw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KBW_TJTD3Xw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KBW_TJTD3Xw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bohdan Pryshchenko",
+      "playlistId": "UUWqqnonyL7aVeUYl5Yp8TrQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KBW_TJTD3Xw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X80Uc51qt7r4Knf2jIIR26VQU-o\"",
+    "id": "VVVXcXFub255TDdhVmVVWWw1WXA4VHJRLkJvX0t5bjAtcHlB",
+    "snippet": {
+      "publishedAt": "2015-08-31T12:38:38.000Z",
+      "channelId": "UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "title": "SNSS 2015 Round 5 - screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bo_Kyn0-pyA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bo_Kyn0-pyA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bo_Kyn0-pyA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Bo_Kyn0-pyA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Bo_Kyn0-pyA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bohdan Pryshchenko",
+      "playlistId": "UUWqqnonyL7aVeUYl5Yp8TrQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Bo_Kyn0-pyA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1uja8QnDS1HBCv2DtrSiGXKhDAg\"",
+    "id": "VVVXcXFub255TDdhVmVVWWw1WXA4VHJRLnN3NzFoYkJxaU1J",
+    "snippet": {
+      "publishedAt": "2015-08-31T12:37:09.000Z",
+      "channelId": "UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "title": "SNSS 2015 Round 4 - screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sw71hbBqiMI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sw71hbBqiMI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sw71hbBqiMI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sw71hbBqiMI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sw71hbBqiMI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bohdan Pryshchenko",
+      "playlistId": "UUWqqnonyL7aVeUYl5Yp8TrQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sw71hbBqiMI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/i_ons43JUtbWXdDVyRzL2rpOZr8\"",
+    "id": "VVVXcXFub255TDdhVmVVWWw1WXA4VHJRLm95ZHVwc3UwaFVn",
+    "snippet": {
+      "publishedAt": "2015-08-31T12:26:40.000Z",
+      "channelId": "UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "title": "SNSS 2015 Round 3 - screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oydupsu0hUg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oydupsu0hUg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oydupsu0hUg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oydupsu0hUg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oydupsu0hUg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bohdan Pryshchenko",
+      "playlistId": "UUWqqnonyL7aVeUYl5Yp8TrQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oydupsu0hUg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/b5h-BmV6fRH0bNkbQJoeqp84Sr8\"",
+    "id": "VVVXcXFub255TDdhVmVVWWw1WXA4VHJRLndNM0pTa1RoWmNv",
+    "snippet": {
+      "publishedAt": "2015-08-31T12:16:42.000Z",
+      "channelId": "UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "title": "SNSS 2015 Round 2 - screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wM3JSkThZco/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wM3JSkThZco/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wM3JSkThZco/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wM3JSkThZco/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wM3JSkThZco/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bohdan Pryshchenko",
+      "playlistId": "UUWqqnonyL7aVeUYl5Yp8TrQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wM3JSkThZco"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/y9lEsx03vszBNORhZGz0z68LEOw\"",
+    "id": "VVVXcXFub255TDdhVmVVWWw1WXA4VHJRLkF4LWxkWGdrOTEw",
+    "snippet": {
+      "publishedAt": "2015-08-31T12:09:53.000Z",
+      "channelId": "UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "title": "SNSS 2015 Round 1 - screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ax-ldXgk910/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ax-ldXgk910/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ax-ldXgk910/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ax-ldXgk910/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ax-ldXgk910/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bohdan Pryshchenko",
+      "playlistId": "UUWqqnonyL7aVeUYl5Yp8TrQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ax-ldXgk910"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Qc8keCLSQY4rHapV3unaXHocJZg\"",
+    "id": "VVVXcXFub255TDdhVmVVWWw1WXA4VHJRLkFucVRzUktaUmZZ",
+    "snippet": {
+      "publishedAt": "2015-01-29T11:13:20.000Z",
+      "channelId": "UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "title": "SNWS 2015 Round 4 - screencast",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AnqTsRKZRfY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AnqTsRKZRfY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AnqTsRKZRfY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AnqTsRKZRfY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AnqTsRKZRfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bohdan Pryshchenko",
+      "playlistId": "UUWqqnonyL7aVeUYl5Yp8TrQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AnqTsRKZRfY"
+      }
+    }
+  }
+]

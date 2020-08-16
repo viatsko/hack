@@ -1,0 +1,872 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MDIjtRVU9sX1ymJderRPDhhZgqg\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLmhXVkNIY0dTUzdv",
+    "snippet": {
+      "publishedAt": "2019-03-29T09:20:09.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Analog Clock Development Tutorial JavaScript CSS",
+      "description": "Learn to develop analog clocks or watches using core JavaScript and CSS.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hWVCHcGSS7o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hWVCHcGSS7o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hWVCHcGSS7o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hWVCHcGSS7o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hWVCHcGSS7o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hWVCHcGSS7o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eYcgnsEu2pNAW9-nGwwRoD7sgOk\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLkt0M0F1V1pXVVEw",
+    "snippet": {
+      "publishedAt": "2019-03-26T00:15:29.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "JavaScript Date Time Object Tutorial",
+      "description": "Learn to extract and manipulate data from the JavaScript Date object.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Kt3AuWZWUQ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Kt3AuWZWUQ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Kt3AuWZWUQ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Kt3AuWZWUQ0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Kt3AuWZWUQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Kt3AuWZWUQ0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Im_77uDRzHdED2D7kWiNPdXxarc\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLmpqUkZTVkJScndB",
+    "snippet": {
+      "publishedAt": "2017-10-02T17:12:20.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Custom Checkbox and Radio Buttons Scratch Development Tutorial",
+      "description": "Learn to build custom checkbox and radio button interfaces in order to gain full control over their design and functionality without requiring a ridiculous amount of CSS code, CSS hacks or third party frameworks. We're going to use just a few lines of CSS to set their appearance, and just a few lines of JavaScript to establish their functionality.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jjRFSVBRrwA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jjRFSVBRrwA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jjRFSVBRrwA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jjRFSVBRrwA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jjRFSVBRrwA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jjRFSVBRrwA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/B24N-H8DOkR7MOQxmSf1myN8KpY\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLkphUmdSa2xDeldv",
+    "snippet": {
+      "publishedAt": "2017-07-11T21:27:47.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "WAPG 7 3D Animation Technologies for Web Browser",
+      "description": "In this final part of the Guide we discuss 3D animation technologies for browser software and web development. 3D animation design and development on the web is a very broad topic involving a massive amount of technologies, tools, frameworks and software.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JaRgRklCzWo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JaRgRklCzWo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JaRgRklCzWo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JaRgRklCzWo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JaRgRklCzWo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JaRgRklCzWo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/12R3T56IDrftn7K3pyMD_oUQLbg\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLmJGNVM5cTk3VFU4",
+    "snippet": {
+      "publishedAt": "2017-06-21T18:05:42.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "WAPG 6 SVG Animation Programming SMIL JavaScript CSS",
+      "description": "Learn SVG animation techniques using animation elements(SMIL), JavaScript and CSS.\nLesson Code: http://www.developphp.com/video/JavaScript/WAPG-6-SVG-Animation-Programming-SMIL-JavaScript-CSS",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bF5S9q97TU8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bF5S9q97TU8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bF5S9q97TU8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bF5S9q97TU8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bF5S9q97TU8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bF5S9q97TU8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XxC572CNk1h85itpxIC83vP2dUA\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLm4tQXVTb3BVbDZz",
+    "snippet": {
+      "publishedAt": "2017-04-04T12:11:33.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Custom Mouse Cursor Tutorial Canvas CSS HTML",
+      "description": "Lesson Code: http://www.developphp.com/video/CSS/Custom-Mouse-Cursor-Tutorial-Canvas-CSS-HTML\nLearn how to change the mouse cursor or pointer to a custom cursor and change the hotspot for the click area.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n-AuSopUl6s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n-AuSopUl6s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n-AuSopUl6s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/n-AuSopUl6s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "n-AuSopUl6s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BQqXXeaZY-uPewwL6q_acvCG6No\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLmgtendMNjE1cmI0",
+    "snippet": {
+      "publishedAt": "2017-04-02T17:11:09.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "WAPG 5 Collision Hit Detection DOM Programming JavaScript Tutorial",
+      "description": "Lesson Code: http://www.developphp.com/video/JavaScript/WAPG-5-Collision-Hit-Detection-DOM-Programming-JavaScript-Tutorial\nLearn collision and hit detection in the DOM. The DOM is the normal development environment. We already made collision and hit detection tutorials for the HTML5 canvas in my Canvas Bootcamp playlist, which you can find on my channel any time you want.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h-zwL615rb4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h-zwL615rb4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h-zwL615rb4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/h-zwL615rb4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "h-zwL615rb4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vpfEVX9_xpgra1hcR_iwCjP6lvQ\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLkk4dkt2MzhpREg4",
+    "snippet": {
+      "publishedAt": "2017-02-09T04:33:34.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "WAPG 4 Script Based Animation Programming JavaScript CSS Tutorial",
+      "description": "Lesson Code: http://www.developphp.com/video/JavaScript/WAPG-4-Script-Based-Animation-Programming-JavaScript-CSS-Tutorial\nLearn to program script-based animations with JavaScript using requestAnimationFrame, cancelAnimationFrame, setInterval or setTimeout. Using timing methods provides a greater level of control over how things animate on the screen and is ideal for video game development and other interactive animated applications. requestAnimationFrame is a method that invokes a callback function and uses the browser software's display refresh rate which is usually 60 Frames Per Second.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I8vKv38iDH8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I8vKv38iDH8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I8vKv38iDH8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I8vKv38iDH8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "I8vKv38iDH8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TSEIhRc32w5I2B73GzwK8QU4kd8\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLjRIY1BzajEtOFhZ",
+    "snippet": {
+      "publishedAt": "2016-12-14T16:01:11.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Holiday Christmas Lights Animation Tutorial CSS JavaScript",
+      "description": "Learn to design, animate and render a set of holiday light bulbs using CSS and JavaScript. Happy Holidays everyone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4HcPsj1-8XY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4HcPsj1-8XY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4HcPsj1-8XY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4HcPsj1-8XY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4HcPsj1-8XY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7lQLX7hERoZf4kmng342TLhFlRw\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLm03U0Jlc3lFWDFr",
+    "snippet": {
+      "publishedAt": "2016-12-07T18:20:30.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "WAPG 3 Sprite Animation Programming CSS JavaScript",
+      "description": "In this video we cover sprite animation programming in the DOM and on the Canvas. Learn to make dynamic and interactive sprite sheet animations.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m7SBesyEX1k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m7SBesyEX1k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m7SBesyEX1k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m7SBesyEX1k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "m7SBesyEX1k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dJlDJVYNWwuuFAHcxVTmSY3dBGs\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLmNQSU9Ha2tJYVdz",
+    "snippet": {
+      "publishedAt": "2016-11-05T22:40:08.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "WAPG 2 keyframes Animation Programming CSS JavaScript",
+      "description": "Lesson Code: http://www.developphp.com/video/JavaScript/WAPG-2-keyframes-Animation-Programming-CSS-JavaScript\nLearn keyframes animation programming with CSS and JavaScript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cPIOGkkIaWs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cPIOGkkIaWs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cPIOGkkIaWs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cPIOGkkIaWs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cPIOGkkIaWs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cPIOGkkIaWs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Gw4XS501GiHngegMv3Punc0sOtU\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLjZ4THd4Z3lVMDNz",
+    "snippet": {
+      "publishedAt": "2016-11-01T01:17:21.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "WAPG 1 Transition Animation Programming CSS JavaScript",
+      "description": "Donations: https://paypal.me/adamkhoury\nLesson Code: http://www.developphp.com/video/JavaScript/WAPG-1-Transition-Animation-Programming-CSS-JavaScript\nIn this first video we'll briefly take a look at animation technologies that we'll be exploring in the guide, then we'll begin transition programming because transitions are a great place to ease beginners into the more advanced material that will be covered later.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6xLwxgyU03s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6xLwxgyU03s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6xLwxgyU03s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6xLwxgyU03s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6xLwxgyU03s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6xLwxgyU03s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vTp0BRKK3sw3i9Mb2m7hDk3nlzs\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLmxiQWlqWEQyZ0hr",
+    "snippet": {
+      "publishedAt": "2016-08-28T21:00:34.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Parallax Effect Animation Multiple Background CSS Tutorial",
+      "description": "Lesson Code: http://www.developphp.com/video/CSS/Parallax-Effect-Animation-Multiple-Background-CSS-Tutorial\nLearn to rig parallax effect animations using the new CSS3 multiple backgrounds capabilities. We are using a single DIV element to make all of the magic happen, pure CSS and no complicated scripting. You can integrate sprite animations inside of the DIV to make even cooler effects.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lbAijXD2gHk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lbAijXD2gHk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lbAijXD2gHk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lbAijXD2gHk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lbAijXD2gHk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sa7cLLIjcmSdiYNLX0zFz6uy45g\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLnRsblhWRVlfWllv",
+    "snippet": {
+      "publishedAt": "2016-08-26T15:53:40.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Background Position keyframes Animation CSS Tutorial",
+      "description": "Lesson Code: http://www.developphp.com/video/CSS/Background-Position-keyframes-Animation-CSS-Tutorial\nLearn to animate background images in multiple directions. Your backgrounds can animate in any direction, up, down, left, right, or diagonally. We'll be using the CSS keyframes rule and the background-position property to create the effect.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tlnXVEY_ZYo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tlnXVEY_ZYo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tlnXVEY_ZYo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tlnXVEY_ZYo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tlnXVEY_ZYo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tlnXVEY_ZYo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2cuDlp1GzpptDWdrf6pglp61HYI\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLnRNbVh6akpXbG5V",
+    "snippet": {
+      "publishedAt": "2016-07-13T22:23:26.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Contact Form Web Application Tutorial Ajax HTML5 PHP",
+      "description": "Lesson Code: http://www.developphp.com/video/JavaScript/Contact-Form-Web-Application-Tutorial-Ajax-HTML5-PHP\nIn this exercise we will demonstrate how to build a modern all-purpose website contact form that uses new HTML5 features, Ajax and PHP. Everything happens without reloading the page or navigating to another document to parse the data. You can put this form to work on any website that processes PHP, and you can modify it for other purposes.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tMmXzjJWlnU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tMmXzjJWlnU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tMmXzjJWlnU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tMmXzjJWlnU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tMmXzjJWlnU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tMmXzjJWlnU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NO46oJ1ZkU6mw2stfLlTwPuyxSQ\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLjgyazZyNFRNc0lN",
+    "snippet": {
+      "publishedAt": "2016-04-20T06:14:34.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Send SMS Text Messages to Mobile Phone PHP Tutorial",
+      "description": "Lesson Code: http://www.developphp.com/video/PHP/Send-SMS-Text-Messages-to-Mobile-Phone-PHP-Tutorial\nLearn how to use PHP to send SMS text messages to mobile phones programmatically and automatically. You can use this to send text messages to your website members, clients or customers from a web based platform.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/82k6r4TMsIM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/82k6r4TMsIM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/82k6r4TMsIM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/82k6r4TMsIM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/82k6r4TMsIM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "82k6r4TMsIM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gz3EbZO6f08U4n_D0Al2skQDlfQ\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLnRDMngxaTZUQjgw",
+    "snippet": {
+      "publishedAt": "2016-04-20T00:06:45.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "How to Detect User Browser JavaScript Programming Tutorial",
+      "description": "Lesson Code: http://www.developphp.com/video/JavaScript/How-to-Detect-User-Browser-JavaScript-Tutorial\nLearn how to detect the user browser software using JavaScript. There are various different ways to go about obtaining the result. This script is written to best convey the logic to someone new to programming. We also make special considerations for modern versions of Internet Explorer browser detection in this exercise.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tC2x1i6TB80/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tC2x1i6TB80/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tC2x1i6TB80/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tC2x1i6TB80/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tC2x1i6TB80/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tC2x1i6TB80"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wuHJXAaFSYqNvwUG5CjcHZA4huI\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLkdYTU5mc3RMQk9J",
+    "snippet": {
+      "publishedAt": "2016-04-10T21:26:29.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "File Upload Drag and Drop Tutorial HTML5 JavaScript PHP",
+      "description": "Code: http://www.developphp.com/video/JavaScript/File-Upload-Drag-and-Drop-Tutorial-HTML5-JavaScript-PHP\nIn this programming exercise you can gain insight into building file upload applications with popular Drag and Drap features like YouTube, Facebook and other highly successful websites offer along with the regular file upload mechanisms. It is very easy to do with the new HTML5 Drag and Drop features. It is all simple JavaScript and PHP code and you do not need to use a 3rd party framework or any bulky libraries.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GXMNfstLBOI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GXMNfstLBOI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GXMNfstLBOI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GXMNfstLBOI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GXMNfstLBOI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GXMNfstLBOI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zT83oHHw9xhtsZiVy76pozUAcfk\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLlN4bVR2cFUyNjBZ",
+    "snippet": {
+      "publishedAt": "2016-04-01T06:04:45.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Drag and Drop Application Development DnD Tutorial",
+      "description": "Code Reference: http://www.developphp.com/video/JavaScript/Drag-and-Drop-Application-Development-DnD-Tutorial\nLearn how to build a drag and drop applications using JavaScript. We will also teach you how to read the drop zone, that way you can pass the data in the drop zone to your server side or database for saving.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SxmTvpU260Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SxmTvpU260Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SxmTvpU260Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SxmTvpU260Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SxmTvpU260Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SxmTvpU260Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/31HGy4sirnscQklzrDZUU7KZrj8\"",
+    "id": "VVVwelJEZzBvclFCWkZCUHplWG0xeU5nLjVHLVhGaUFIdHBV",
+    "snippet": {
+      "publishedAt": "2016-03-21T08:41:34.000Z",
+      "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "title": "Flat Icons HTML Code Symbols Discovery JavaScript",
+      "description": "Lesson Code: http://www.developphp.com/video/JavaScript/Flat-Icons-HTML-Code-Symbols-Discovery-JavaScript\nIn this exercise we will show how writing just a few lines of JavaScript will allow you to render, browse and discover the entire set of HTML code symbols and icons.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5G-XFiAHtpU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5G-XFiAHtpU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5G-XFiAHtpU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5G-XFiAHtpU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5G-XFiAHtpU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Adam Khoury",
+      "playlistId": "UUpzRDg0orQBZFBPzeXm1yNg",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5G-XFiAHtpU"
+      }
+    }
+  }
+]

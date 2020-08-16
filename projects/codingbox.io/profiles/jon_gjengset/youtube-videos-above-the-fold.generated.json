@@ -1,0 +1,872 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nuf_FiVIkOdh7RhnK3PSAs6zAmQ\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLmtpTVVJMHk5MVlJ",
+    "snippet": {
+      "publishedAt": "2020-04-02T01:53:12.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "(Partially) fixing a bug in a Rust research database",
+      "description": "I've regularly had people ask me to do a live-stream on Noria, a database prototype I've been developing in Rust as part of my research at MIT. If you don't know about Noria already, it's a new type of database that uses data-flow to provide incrementally maintained, partial materialized SQL views. The code is at https://github.com/mit-pdos/noria, which also has links to the research paper and such for those wanting to dive deeper!\n\nSo far, I've hesitated to do a stream on my research, as I worried that it might be hard to follow given that you'd be dropped into a big and relatively complicated code base. But with a pandemic sweeping the world, and everyone stuck at home, I figured providing a more \"brainy\" video might be exactly what some people are looking for.\n\nFor this stream, I had a relatively clear change I needed to make, and a decent idea of how to make it, which presented a good starting point. In the video, I go through how Noria works, what the bug is, and how to fix it, all in the space of about three hours. We don't end up completely fixing the bug, but at least we make a lot of progress, and hopefully it gives some decent insight into what working on this sort of stuff is like!\n\nYou can watch the live version with comments at https://www.youtube.com/watch?v=xoUKplrB9dA",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kiMUI0y91YI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kiMUI0y91YI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kiMUI0y91YI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kiMUI0y91YI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kiMUI0y91YI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kiMUI0y91YI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/d2TYbuLvuoMXFJLmGcuh2buOMIA\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLkRuVC1MVVFnYzdz",
+    "snippet": {
+      "publishedAt": "2020-03-07T01:19:43.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Considering Rust",
+      "description": "The Rust programming language has become a serious contender in the space of \"systems\" programming languages, and has recently been adopted by many of the tech giants for \"serious\" projects. In response to this, more companies are now considering whether they too should add Rust to their tech stack. This talk hopes to help you make that decision. We go through how the language compares to many current alternatives and what the language has to offer, but also what it's primary drawbacks are and its long-term viability prospects.\n\n\n\nYou can find the slides here https://jon.thesquareplanet.com/slides/considering-rust/, or in PDF format here https://jon.thesquareplanet.com/slides/considering-rust/export.pdf.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DnT-LUQgc7s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DnT-LUQgc7s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DnT-LUQgc7s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DnT-LUQgc7s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DnT-LUQgc7s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DnT-LUQgc7s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/raUHQsRaA0x1SQovfWi7EusRVN0\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLl96NGZaa21sdnJz",
+    "snippet": {
+      "publishedAt": "2020-01-19T14:08:56.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Porting Java's ConcurrentHashMap to Rust (part 3)",
+      "description": "This stream is (probably) the last segment in our journey into porting Java's ConcurrentHashMap to Rust. We start writing some tests for the map, and fix the bugs that they uncover. We also implement the core iterator type for the map, and port a small part of the JDK test suite for ConcurrentHashMap.\n\n\n\nThe stream starts off with a quick walk-through of TODOs in the code, and then we get into writing some initial tests in 00:16:37. Some intermediate points of interest:\n - 00:52:04: Why writing a garbage collection test is hard\n - 01:21:37: First concurrent test + pain\n\n - 02:37:12: Snack time and Q&A\n - 02:47:30: Implementing the iterator\n - 04:59:47: Porting some JDK tests\n\n\nYou can see our progress at https://github.com/jonhoo/flurry. The Java code we were working from is included in that repository, or you can view it at https://hg.openjdk.java.net/jdk/jdk13/file/0368f3a073a9/src/java.base/share/classes/java/util/concurrent/ConcurrentHashMap.java.\n\nYou can watch the live version with comments at https://www.youtube.com/watch?v=7OcFds2rN5w",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_z4fZkmlvrs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_z4fZkmlvrs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_z4fZkmlvrs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_z4fZkmlvrs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qjNcmaqWC-l0tv2gdAR2mLkk9wI\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLjAxOEdYTWpmZHFn",
+    "snippet": {
+      "publishedAt": "2019-12-15T02:22:33.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Porting Java's ConcurrentHashMap to Rust (part 2)",
+      "description": "In this stream we continue the work of porting Java's ConcurrentHashMap to Rust. We finish up the concurrent hash table resizing code, and then dive into the safety-critical code around collecting garbage. At this point, the code with support for get, put, and resize compiles, though it has not been tested yet.\n\nThere's a short break at 01:51:04 which ends around 01:56:16. The unsafe garbage collection code starts after the break.\n\nYou can see our progress at https://github.com/jonhoo/flurry. The Java code we were working from is included in that repository, or you can view it at https://hg.openjdk.java.net/jdk/jdk13/file/0368f3a073a9/src/java.base/share/classes/java/util/concurrent/ConcurrentHashMap.java.\n\nYou can watch the live version with comments at https://www.youtube.com/watch?v=wfNFHKImtY8",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/018GXMjfdqg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/018GXMjfdqg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/018GXMjfdqg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "018GXMjfdqg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JXLahAH-K2NJ54l75owvnSB5Jy0\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLktQYnJJM3hXZENn",
+    "snippet": {
+      "publishedAt": "2019-11-17T22:10:30.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Why are my videos so damn long‽",
+      "description": "I often get the question: why are your videos so damn long?\nAnd I think the answer gets to the heart of this channel, so I wanted to address it directly in a video of its own. I'll try to keep it short!\n\nThis channel is intended for Rustaceans who are ready to move past the introductory material, or experienced programmers coming from other languages who want to see how things work in Rust world. Specifically, I wanted to give viewers experience with what it's like to write Rust code \"for real\". To show the entire development cycle from start to finish to demonstrate everything you'd need if you were to work with Rust yourself in the wild. That includes reading up on background material, as well as writing, debugging, and testing the code. And it turns out that those things take time. For example, our TCP implementation took three streams of five hours each, and at the end there is still much left to do.\n\nI'm frequently asked whether I could just \"edit down\" the videos, and I think that would be counter to the goal of this channel. If I removed the debugging, the head-scratching, the documentation reading, I think that would get rid of one of the most valuable aspect of the stream: watching someone work through a problem, and observing all the little tricks and techniques they use as they do so. I think there is a lot of value in watching an experienced programmer get \"stuck\", and then observing their process for getting \"unstuck\", since that is so much of what you will be spending your time doing one day. This is a truthful rendition of what doing this work is like, and I think leaving in only the \"good\" parts would just reinforce the unfortunate artificial image we've created of \"perfect\" programmers that never make mistakes.\n\nThis all said, I realize that six hours is a long time. But I really don't expect you to watch it all in one go. Watch for as long as you'd like, take a break, and come back to it some other time. The video isn't going anywhere. And feel free to watch my videos at higher speed. You can always skip over parts you find uninteresting, or go back to re-watch something that you found particular interesting.\n\nIt could also be that this format is just not for you. If you feel that way, maybe try one of my open-source streams instead, which are naturally split into many smaller chunks (~90m each) first. They are also not edited, but may be more digestible. Just look for the timestamp links in the video description.\n\nAnd with that out of the way, have a great day, and I hope to see you on a live-stream soon!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KPbrI3xWdCg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KPbrI3xWdCg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KPbrI3xWdCg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KPbrI3xWdCg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KPbrI3xWdCg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KPbrI3xWdCg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ePRhjabKWERVp4jZawyEyx8LfR4\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLnlRRldtR2FGQmpr",
+    "snippet": {
+      "publishedAt": "2019-11-17T15:47:15.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Porting Java's ConcurrentHashMap to Rust (part 1)",
+      "description": "In this stream we begin the work of porting Java's ConcurrentHashMap to Rust. It will be a journey to get all the way there, but we got through most of the get, insert, and resize operations. Of particular note is the work required to go from the Java code's reliance on the garbage collector to Rust's runtime-free model. See also the commit for the stream at https://github.com/jonhoo/flurry/commit/50fc36cb4056e68ea96fbf8f214886faf4657a4e.\n\nYou can see our progress at https://github.com/jonhoo/flurry. The Java code we were working from is included in that repository, or you can view it at https://hg.openjdk.java.net/jdk/jdk13/file/0368f3a073a9/src/java.base/share/classes/java/util/concurrent/ConcurrentHashMap.java.\n\nYou can watch the live version with comments at https://youtu.be/hUi6HyVOAKM",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yQFWmGaFBjk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yQFWmGaFBjk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yQFWmGaFBjk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yQFWmGaFBjk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JP3nMpaHKQfKLg5U1AP3OhMAFZk\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLmJKbWxJNFVnLXAw",
+    "snippet": {
+      "publishedAt": "2019-10-20T00:53:28.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Rust open-source contributions stream: Rust tools and std::future",
+      "description": "Yay, another open-source contributions stream!\n\nLike last time, we're going to go through a few open-source Rust projects and see if we can contribute something to them. In about 90 minutes per crate, we'll find an issue we want to address, dig through the code for how to fix it, and (hopefully) submit a PR in the end.\n\nThis time I wanted to focus on Rust tooling, to show that contributing to the Rust core tools is not as scary as people may think. So, we make contributions to both cargo (to fix https://github.com/rust-lang/cargo/issues/7510) and rustup (to fix https://github.com/rust-lang/rustup.rs/issues/2004). In addition, by popular demand, we also port a crate (https://github.com/bIgBV/tokio-beanstalkd/) from the old-style futures (0.1) to std::future and async/await.\n\nCheckpoints:\n\n - 00:03:17 Fix cargo clean's interaction with symlinks\n - 02:01:25 Port tokio-beanstalkd to async/await and std::future\n - 03:04:05 Add support for --profile to rustup install\n - 04:21:30 Closing remarks\n\nIn this stream we submitted https://github.com/rust-lang/cargo/pull/7527, https://github.com/bIgBV/tokio-beanstalkd/pull/10, and https://github.com/rust-lang/rustup.rs/pull/2075.\n\nOriginal live stream recording with chat history here: https://www.youtube.com/watch?v=DmLCmgj4oWU",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bJmlI4Ug-p0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bJmlI4Ug-p0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bJmlI4Ug-p0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bJmlI4Ug-p0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bJmlI4Ug-p0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bJmlI4Ug-p0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nn2xMoJR7ncr2xRFzUYLEn1612k\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLkRrTXdZeGZTWU5R",
+    "snippet": {
+      "publishedAt": "2019-09-14T22:18:18.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "The Why, What, and How of Pinning in Rust",
+      "description": "With the Future trait stabilized and async/await coming soon, many more people are being exposed to the Pin type and its sibling trait Unpin. In this video, we dive deep into what these types are, why they are needed, how they work, and how to use them. We also dig into the connection to Futures and async/await, and discuss how you safely move from old code that does not use pinning to new code that does.\n\nThis is pretty dense and subtle material, but hopefully serves as a good and thorough overview of pinning in Rust. If you want to know how it all fits together, this stream probably has you covered! To help you navigate, here are the major transition points:\n\n0:03:50 — What's the problem we're trying to solve?\n0:28:19 — How does pinning help?\n0:31:55 — What is Unpin?\n0:35:14 — Working with pinned types\n0:44:20 — An example of implementing Future\n0:51:02 — Pin::new vs Pin::new_unchecked\n0:59:16 — The problem with Drop\n1:03:13 — Quick recap\n1:07:26 — Why impl Unpin is safe\n1:12:34 — Structural pinning\n1:30:14 — The curious case of Box::pin\n1:50:49 — Avoiding unsafe with pin-project\n2:04:59 — Why is Pin::set okay?\n2:08:03 — Pinning beyond Future\n2:12:30 — Some quick questions\n2:17:02 — Real-world examples of transitioning to Pin in tower\n2:26:34 — pin-project and Drop\n2:34:17 — Q&A!\n\nYou can vote for the next stream topic at https://jon.thesquareplanet.com/live-coding/ !\n\nLive version with chat history here: https://www.youtube.com/watch?v=UuuhMDinEBg",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DkMwYxfSYNQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DkMwYxfSYNQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DkMwYxfSYNQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DkMwYxfSYNQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DkMwYxfSYNQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DkMwYxfSYNQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/I7BQuYeRUEmWp89xPjcIp-5i0FA\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLktWV0hUMVRBaXJV",
+    "snippet": {
+      "publishedAt": "2019-06-17T03:01:50.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Procedural Macros in Rust (part 2)",
+      "description": "In this stream, we dive deeper into Rust's procedural macros, following on from the previous stream. We continue to follow David Tolnay's excellent proc-macro workshop from Rust Latam back in March 2019: https://github.com/dtolnay/proc-macro-workshop, and go for the seq! and #[sorted] proc-macros!\n\nYou can find my Amazon Wish List at https://www.amazon.com/hz/wishlist/ls/EI8GP25AL8FU?ref_=wl_share.\nYou can find the code over at https://github.com/jonhoo/proc-macro-workshop.\nAnd you can see the live version with comments at https://www.youtube.com/watch?v=6XRCXJhO-QE",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KVWHT1TAirU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KVWHT1TAirU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KVWHT1TAirU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KVWHT1TAirU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KVWHT1TAirU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KVWHT1TAirU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xGY0Z7DnJVpW9_3fflMa4Xqpe4I\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLmdlb3ZTSzN3TUI4",
+    "snippet": {
+      "publishedAt": "2019-06-02T23:52:33.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Procedural Macros in Rust (part 1)",
+      "description": "In this stream, we take a look at Rust's procedural macros. These are much more flexible than the declarative macros you get with the macro_rules! construct, and effectively allow you to write source-code transformations as a separate program. Take a look at https://doc.rust-lang.org/book/ch19-06-macros.html and https://doc.rust-lang.org/nightly/reference/procedural-macros.html for details.\n\nIn particular, we follow David Tolnay's excellent proc-macro workshop from Rust Latam back in March 2019: https://github.com/dtolnay/proc-macro-workshop. The goal is to implement the custom derive(Builder) project (the first one listed). We managed to get all the way through and then some!\n\nFor tools, we ended up relying quite heavily on David's https://github.com/dtolnay/syn and https://github.com/dtolnay/quote, as well as the very handy cargo-expand tool: https://github.com/dtolnay/cargo-expand.\n\nYou can find the code over at https://github.com/jonhoo/proc-macro-workshop.\n\nOh, and the issue with formatting doc comments we encountered at the end has already been fixed @ https://github.com/rust-lang/rustfmt/pull/3548 !\n\nYou can see the live version with comments at https://www.youtube.com/watch?v=0-sMn2fXYG4",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/geovSK3wMB8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/geovSK3wMB8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/geovSK3wMB8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/geovSK3wMB8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/geovSK3wMB8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "geovSK3wMB8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zeyd9kdaS1xxW4isDgMUmkSKAcc\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLjhHRTZsdExSSkE0",
+    "snippet": {
+      "publishedAt": "2019-05-12T01:18:29.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Implementing TCP in Rust (part 3)",
+      "description": "In this stream, we continue to expand on our user-space TCP stack from last time. This time, we're implementing support for application-controlled shutdown, as well as reading and writing data. Most of the challenge here is to handle TCP retransmissions correctly, both so that we don't yield duplicate data, and so that the data the application sends is reliably communicated to the other side. We got shutdown and reads working completely, but sadly writes did not work even though it looks like we are following the protocol correctly. Suggestions welcome!\n\nThis is the last stream (for now) in the \"Implementing TCP\" series. While we didn't end up with a complete implementation, I think we have gone through most of the interesting Rust parts of the problem. I also want to keep moving to new topics so that there's something for everyone in the audience. The deeper we get in a series, the more technical and less approachable it tends to get. The next stream will hopefully be in ~2 weeks, and you can vote on what you'd like the next stream topic to be at https://jon.thesquareplanet.com/live-coding/.\n\nYou can find the implementation here: https://github.com/jonhoo/rust-tcp\n\nSee the live version with (most) comments at https://www.youtube.com/watch?v=5PplR73WTyo",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8GE6ltLRJA4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8GE6ltLRJA4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8GE6ltLRJA4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8GE6ltLRJA4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8GE6ltLRJA4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8GE6ltLRJA4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Cra6XwDlNs7DvlmkZ0P2ZnCyyus\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLk9DcHQxSTBNV1hF",
+    "snippet": {
+      "publishedAt": "2019-03-16T21:43:12.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Implementing TCP in Rust (part 2)",
+      "description": "In this stream, we continue to expand on our user-space TCP stack from last time. We focus primarily on the interface this time, and try to approximate the std::net::Tcp* types as best we can, including support for managing multiple TCP streams. While the implementation still cannot read or write data, most of the building blocks are now in place, including support for blocking operations!\n\nThe next stream sadly won't be until early May, but when that happens, the hope is to have full support for reading and writing data!\n\nYou can find the implementation here: https://github.com/jonhoo/rust-tcp\n\nSee the live version with (most) comments at https://youtu.be/EVdaDPokpHI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OCpt1I0MWXE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OCpt1I0MWXE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OCpt1I0MWXE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OCpt1I0MWXE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OCpt1I0MWXE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OCpt1I0MWXE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/btAcbG4RcSCDvPBFQlt5g3CttI0\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLmJ6amE5ZlFXemRB",
+    "snippet": {
+      "publishedAt": "2019-02-24T02:00:11.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Implementing TCP in Rust (part 1)",
+      "description": "In this stream, we started implementing the ubiquitous TCP protocol that underlies much of the traffic on the internet! In particular, we followed RFC 793 — https://tools.ietf.org/html/rfc793 — which describes the original protocol, with the goal of being able to set up and tear down a connection with a \"real\" TCP stack at the other end (netcat in particular). We're writing it using a user-space networking interface (see https://www.kernel.org/doc/Documentation/networking/tuntap.txt and the Rust bindings at https://docs.rs/tun-tap/).\n\nWe got decently far, and are now able to both establish an incoming TCP connection (i.e., perform the TCP three-way handshake) and terminate the connection cleanly. You can find the current code at https://github.com/jonhoo/rust-tcp. There's still a long way to go though, as we still need to add support for data segments, retransmissions, and timers; so that's what we'll cover in the next stream! Eventually, we will also want to implement RFC 1122 — https://tools.ietf.org/html/rfc1122 — which lays out a number of further enhancements that must be made in order to interoperate nicely on the internet. This is also discussed in RFC 7414: https://tools.ietf.org/html/rfc7414#section-2, which we're also aiming to support.\n\nYou can see the live version with comments at https://youtu.be/_OnJ9z-e_TY",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bzja9fQWzdA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bzja9fQWzdA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bzja9fQWzdA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bzja9fQWzdA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bzja9fQWzdA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bzja9fQWzdA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/m-eX_Rj8DfTHjTkZYRZ_X3jawNE\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLmxsZXlUN29MX29n",
+    "snippet": {
+      "publishedAt": "2019-02-09T16:56:58.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "About the channel",
+      "description": "A short video about me and the purpose of this channel. The URL for voting on upcoming stream ideas is https://jon.thesquareplanet.com/live-coding/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lleyT7oL_og/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lleyT7oL_og/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lleyT7oL_og/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lleyT7oL_og/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lleyT7oL_og/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lleyT7oL_og"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RSxhdw5tgowAroefMjgH9b6Hhl0\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLlF5MXRRZXNYYzdr",
+    "snippet": {
+      "publishedAt": "2019-02-03T02:45:06.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Porting flamegraph to Rust — part 2",
+      "description": "In this stream, we're continuing our work to port the flamegraph profiling tool to Rust: http://www.brendangregg.com/flamegraphs.html. In this part, we focused on the actual flame graph generation (that is, the SVG), and thus on porting the flamegraph.pl script that does all the rendering: https://github.com/brendangregg/FlameGraph/blob/master/flamegraph.pl. Towards the end, we have a port of that script that is renders complete flame graphs pretty much identically to the original flamegraph tool, modulo some minor pixel differences and the lack of a color scheme! You can see the repository for the Rust port at https://github.com/jonhoo/inferno, where I'll add issues for all the features that are still remaining. Most of them are pretty minor, but may present interesting starting points if you want to practice your Rust!\n\nLive version with chat history here: https://youtu.be/nyXzYc9msvs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qy1tQesXc7k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qy1tQesXc7k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qy1tQesXc7k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qy1tQesXc7k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qy1tQesXc7k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Qy1tQesXc7k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AjAGJhuO_NUnbVGX8paYbsK5mOM\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLmpUcEstYk5aaUE0",
+    "snippet": {
+      "publishedAt": "2019-01-27T00:08:21.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Porting flamegraph to Rust — part 1",
+      "description": "In this stream, we started porting parts of the flamegraph profiling tool to Rust: http://www.brendangregg.com/flamegraphs.html. In this part, we focused on figuring out how the tool works, and on porting the stackcollapse-perf script that does most of the heavy-lifting: https://github.com/brendangregg/FlameGraph/blob/master/stackcollapse-perf.pl. Towards the end, we have an almost complete port of that script that is ~10x faster than the original! You can see the repository for the Rust port at https://github.com/jonhoo/inferno.\n\nLive version with chat history here: https://youtu.be/ZL2JlBPUOlY",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jTpK-bNZiA4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jTpK-bNZiA4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jTpK-bNZiA4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jTpK-bNZiA4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jTpK-bNZiA4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jTpK-bNZiA4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gDMl84few7AfNIflGK1N5ZcKJ7o\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLnMxOUc2bjBVanNN",
+    "snippet": {
+      "publishedAt": "2019-01-05T13:52:58.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Rust at speed — building a fast concurrent database",
+      "description": "This is a guest lecture I gave at Two Sigma  in November 2018 where I discussed the experience of using Rust for building larger, high-performance systems. In it, I cover what makes Rust an attractive option for such projects; Noria, the high-performance research database prototype I've built using Rust; an interesting concurrent data-structure we use in Noria; and how I've found Rust to work in that context.\n\nThe presentation slides are available at https://jon.tsp.io/slides/rust-twosigma/ .\nYou can read more about Noria at https://pdos.csail.mit.edu/noria .",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s19G6n0UjsM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s19G6n0UjsM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s19G6n0UjsM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s19G6n0UjsM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s19G6n0UjsM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "s19G6n0UjsM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dcb7RSAcCiaJgm4GU4zbWSbLjoM\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLjlfM2tyQVF0RDJr",
+    "snippet": {
+      "publishedAt": "2018-11-17T23:11:52.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "The What and How of Futures and async/await in Rust",
+      "description": "Futures are Rust's way of expressing asynchronous computations, but even after reading the documentation, it can be hard to figure out how all the pieces of futures (and tokio) fit together. While this may not matter too much if you're just *using* futures, it becomes a stumbling block once you want to implement asynchronous primitives yourself. The highly anticipated async and await keywords that are coming down the pike promise to greatly reduce the friction of writing and using asynchronous code, but add even more to the mystery of how this stuff all works.\n\nNOTE: The YouTube transcoding process seems to have introduce audio lag on all the non-1080p versions. I'll report it to YT, but if it's bothering you, the 1080p version works fine :)\n\nIn this stream, we tackle all of this head on. We go through what futures are, how they work, how they are used to represent things like asynchronous I/O (like networking), how they are executed, and how they are evolving as they are being adopted into the standard library. We also discuss async/await, and how they affect futures, and how Rust's proposed pinning types act as the glue to make async/await work.\n\nThis is pretty dense material, but hopefully serves as a good and thorough overview of futures in Rust. If you want to know how it all works, this stream probably has you covered! To help you navigate, here are the major transition points:\n\n0:05:57 - What are futures?\n0:16:39 - How are futures executed?\n0:26:10 - Super weird audio problems\n0:29:09 - All good again! (you didn't miss anything)\n0:50:04 - How do you integrate futures with I/O?\n1:36:11 - Driving futures with Tokio\n1:49:28 - Multi-threaded future execution\n2:15:00 - Stream and Sink\n2:17:11 - (brief aside about tokio-io-pool)\n2:24:07 - Putting futures in the standard library\n2:30:00 - Arbitrary self types\n2:33:46 - What is async/await?\n2:46:58 - Why is async/await hard?\n2:53:34 - Self-referential data-types\n2:58:48 - Pinning!\n3:50:40 - Q&A\n\nThe tokio documentation push is being organized at https://github.com/tokio-rs/doc-push.\n\nYou can vote for the next stream topic at https://jon.thesquareplanet.com/live-coding/ !\n\nLive version with chat history here: https://youtu.be/fYE4qm6rbLE",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9_3krAQtD2k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9_3krAQtD2k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9_3krAQtD2k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9_3krAQtD2k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9_3krAQtD2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9_3krAQtD2k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nAOaQCHVwRuKKBN4FSnS4ZIFRWk\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLjhMU05OLVk5RnRn",
+    "snippet": {
+      "publishedAt": "2018-11-16T04:34:04.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Building a ranked-choice voting site for new stream ideas",
+      "description": "This stream is pretty different from the other ones. It's relatively informal, and is mostly me hacking together a website for you all to vote on upcoming stream ideas. I had this idea that it'd be cool to use ranked choice voting for it, since it would allow you to vote once for many ideas, as opposed to having to run many one-off Twitter polls, and that's what we're implementing here. It's mostly just hacking together rocket.rs + diesel + https://github.com/LivingInSyn/rcir, but some of you may still find it interesting!\n\nThe final voting site code is up at https://github.com/jonhoo/vote.rs, and you can start voting at https://jon.thesquareplanet.com/live-coding/.\n\nLive version with chat history here: https://youtu.be/WGUVYhXx2KA",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8LSNN-Y9Ftg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8LSNN-Y9Ftg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8LSNN-Y9Ftg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8LSNN-Y9Ftg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8LSNN-Y9Ftg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8LSNN-Y9Ftg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0l51W9Rg6QgIVJHXou7nvMWJEfY\"",
+    "id": "VVVfaUQweHBwQnd3c3JNOURlZ0M1Y1FRLjhVekx1TWlHczlz",
+    "snippet": {
+      "publishedAt": "2018-09-30T21:11:43.000Z",
+      "channelId": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "title": "Rust open-source contributions stream",
+      "description": "This time we're trying something new! We're going to go through a few open-source Rust projects and see if we can contribute something to them. In about 90 minutes per crate, we'll go through the crate's organization and API, look for things that look out-of-place or can be improved, and then try to make and submit a PR that fixes it!\n\nCheckpoints:\n\n - 00:05:20 Juniper Hyper integration — https://github.com/graphql-rust/juniper/tree/master/juniper_hyper\n - 01:44:44 Beanstalkd client — https://github.com/bIgBV/tokio-beanstalkd\n - 02:59:55 Argon2 password hashing — https://github.com/bcmyers/argonautica/tree/master/argonautica-rs\n\nSee also https://twitter.com/Jonhoo/status/1038092691966447616. In this stream we submitted https://github.com/graphql-rust/juniper/pull/256, https://github.com/bIgBV/tokio-beanstalkd/pull/3, and https://github.com/bcmyers/argonautica/pull/7.\n\nOriginal live stream recording with chat history here: https://www.youtube.com/watch?v=C4EG-jqrlfA",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8UzLuMiGs9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8UzLuMiGs9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8UzLuMiGs9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8UzLuMiGs9s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8UzLuMiGs9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jon Gjengset",
+      "playlistId": "UU_iD0xppBwwsrM9DegC5cQQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8UzLuMiGs9s"
+      }
+    }
+  }
+]

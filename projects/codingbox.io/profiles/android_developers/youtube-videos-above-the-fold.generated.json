@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rMIF6crUGoktm9zx0JnhcnxOXp0\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLnpmQllKcmhNWndR",
+    "snippet": {
+      "publishedAt": "2020-04-17T21:47:57.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Google Play PolicyBytes - 2020 年春のポリシー更新内容 (Japanese)",
+      "description": "Google シニアポリシーアドバイザーの Reirui Ri が、2020年春に更新される、定期購入、バックグラウンドでの位置情報の取得、不正なソフトウェア、リソースダウンロード等のポリシーについて解説いたします。動画をご覧の皆様には、是非これらポリシーの更新内容をご理解いただき、ベストプラクティスの実践に役立てていただきたいと考えております。\n\n具体的なポリシーの更新内容をすぐにご覧になりたい方は、リソースダウンロード (0:56), 不正なソフトウェア (2:06),  操作されたメディア (2:53), 実現不可能な機能 (4:49), ファミリー(5:57), バックグラウンドでの位置情報の取得  (8:40), 定期購入 (9:28) から再生してください。\n\nデベロッパーポリシーセンター →https://reurl.cc/Aqdqd8\nPlay アカデミーでポリシーを学ぶ  → https://g.co/playacademy/policy \nGoogle Play Trust and Safety ブログ更新  → https://goo.gle/2RDghg9 \n\nPlay PolicyBytes → https://goo.gle/3banmwm \nAndroid Developers をチャンネル登録する → https://goo.gle/AndroidDevs \n\n#GooglePlay #Featured #Policy",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zfBYJrhMZwQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zfBYJrhMZwQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zfBYJrhMZwQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zfBYJrhMZwQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zfBYJrhMZwQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zfBYJrhMZwQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-luKY31EnK3SMEXypdsBCLaBjYg\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLk1Zal9FUllVeFlB",
+    "snippet": {
+      "publishedAt": "2020-04-17T21:45:58.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Google Play PolicyBytes - 2020 春季政策更新 (Mandarin)",
+      "description": "来自Google Play内容运营团队的Jean Yen在影片中向大家讲解了2020年春季Google Play的政策在订阅、后台位置访问、恶意软件以及资源下载等方面的更新。影片中我们提供了帮助您的应用合乎规范的最佳做法以及实用资源，千万别错过！\n\n有关特定政策更新，请跳至以下部分：资源下载（1:06），恶意软件（2:20），操纵媒体内容（2:52），无法实现的功能（4:46），家庭政策（6:13），后台位置信息（8:38）和订阅（9:17）\n\n访问开发者政策中心 →https://reurl.cc/0oEo9l\n通过Play Academy 线上课程学习政策 → https://g.co/playacademy/policy \nGoogle Play 政策相关文章  → https://goo.gle/2RDghg9 \n\n播放PolicyBytes → https://goo.gle/3banmwm \nAndroid Android Developers → https://goo.gle/AndroidDevs \n\n\n\n#GooglePlay #Featured #Policy",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MYj_ERYUxYA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MYj_ERYUxYA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MYj_ERYUxYA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MYj_ERYUxYA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MYj_ERYUxYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MYj_ERYUxYA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6_adKEsK7qKijfCc1vpnUaBk_Q0\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLkNjeTlQbF9sZzA4",
+    "snippet": {
+      "publishedAt": "2020-04-17T21:44:50.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Google Play PolicyBytes - 2020년 봄 정책 업데이트 (Korean)",
+      "description": "구글 플레이 정책 담당자 최문석님이 구독, 백그라운드 위치정보, 맬웨어, 리소스 다운로드 등 2020년 봄 구글 플레이 정책 업데이트 사항에 대해 설명해드립니다. 업데이트 내용과 더불어 Best Practice, 주요 정책위반 사항, 관련 도움말 등에 대해서도 알아보세요. \n\n리소스 파일 다운로드 (01:10)\n악성 코드 (02:16)\n사기 행위 (02:57)\n불가능한 기능 (04:13)\n가족 (05:17)\nBackground 위치정보 (07:12)\n구독 (07:49)\n\n\n개발자 정책센터 →https://reurl.cc/GVeVEd\nPlay Academy 정책 교육 → https://g.co/playacademy/policy \n업데이트 관련 블로그  → https://goo.gle/2RDghg9 \n\nPlay PolicyBytes → https://goo.gle/3banmwm \n안드로이드 개발자 구독 → https://goo.gle/AndroidDevs \n\n\n#GooglePlay #Featured #Policy",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ccy9Pl_lg08/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ccy9Pl_lg08/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ccy9Pl_lg08/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ccy9Pl_lg08/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ccy9Pl_lg08/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ccy9Pl_lg08"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GzxWvmDHu2u7GRv-g1RLzcT0AQQ\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLlRERi1Hdm5LQzE4",
+    "snippet": {
+      "publishedAt": "2020-04-16T14:00:09.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Google Play PolicyBytes - Spring 2020 Policy Updates",
+      "description": "Joe Davis, Outreach and Policy Education Lead at Google, explains the spring 2020 Play policy updates on subscriptions, background location access, malware, resource downloads, and more. Stay tuned to learn more about these updates, plus best practices for app compliance on Google Play and resources to help you understand the new updates.\n\nFor quick answers about a specific policy update, jump right to the section on resource downloads (1:49), malware (2:52), manipulated media (3:33), impossible functionality (5:16), families (6:33), background location (8:37), and subscriptions (9:11) \n\nVisit the Developer Policy Center → https://goo.gle/30Ip9nM\nLearn Policy with Play Academy → https://g.co/playacademy/policy \nGoogle Play Trust and Safety Update Blog Post  → https://goo.gle/2RDghg9 \n\nPlay PolicyBytes → https://goo.gle/3banmwm \nSubscribe to Android Developers → https://goo.gle/AndroidDevs \n\n\n\n\n\n#GooglePlay #Featured #Policy",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TDF-GvnKC18/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TDF-GvnKC18/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TDF-GvnKC18/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TDF-GvnKC18/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TDF-GvnKC18/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TDF-GvnKC18"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/t7xjFtulAqalBLWCQjfV-4wZTbg\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLkhHU2otSlJwdXhv",
+    "snippet": {
+      "publishedAt": "2020-04-15T16:00:18.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Android Jetpack: CameraX Beta",
+      "description": "CameraX is a Jetpack support library created to make camera app development easier. Stay tuned to learn more about the CameraX API and use cases!\n\nIssue tracker → https://goo.gle/2TzweoT \nCameraX documentation → https://goo.gle/2RGrDzJ \nCameraX sample app → https://goo.gle/2VbXVVy \nStack overflow tag → https://goo.gle/34KAENB \n\nAndroid Jetpack playlist → https://goo.gle/32RR0CD \nSubscribe to Android Developers → https://goo.gle/AndroidDevs \n\n\n\n\n#Jetpack #Featured #AndroidDev",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HGSj-JRpuxo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HGSj-JRpuxo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HGSj-JRpuxo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HGSj-JRpuxo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HGSj-JRpuxo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HGSj-JRpuxo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KdRVEyG63EjPNI7IReebiJKM62U\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLkNwOHdXTHpHWWxz",
+    "snippet": {
+      "publishedAt": "2020-04-11T00:02:15.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Vulnerability Disclosure Program (VDP)",
+      "description": "No organization has perfect security. Security and privacy are tantamount to user trust in your app, but breaches can occur daily. Imagine if you could tap into the knowledge of hundreds of security researchers, all helping you identify vulnerabilities in your apps. You could find and fix vulnerabilities as they're introduced into production, helping reduce the risk of security incidents. You can also use this data to find root causes of vulnerabilities and make overarching improvements to your security program. These courses will teach you how to create a “Vulnerability Disclosure Program” (VDP). A VDP empowers your organization to work with external security researchers to find and fix vulnerabilities before they are exploited.\n\nFor more information visit: https://g.co/playacademy/vdp\nSubscribe to Android Developers → https://goo.gle/AndroidDevs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Cp8wWLzGYls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Cp8wWLzGYls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Cp8wWLzGYls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Cp8wWLzGYls/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Cp8wWLzGYls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Cp8wWLzGYls"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tX46ODmdc7w0qviPUSTCIxD3T7I\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLjJvdl8yM2ZUd3lV",
+    "snippet": {
+      "publishedAt": "2020-04-10T17:00:02.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Now in Android: 15 - Android 11 features, AndroidX, videos, articles, and more!",
+      "description": "Welcome to Now in Android, your ongoing guide to what’s new and notable in the world of Android development. In this video, Chet Haase goes over the new Android 11 features, AndroidX releases and migration guides, screencasts, videos and articles about Kotlin, Jetpack, and Android Studio, and an audio podcast about… audio.\n\nFor links to these items, check out Now in Android #15 on Medium → https://goo.gle/2Rn0QII \n \nNow in Android podcast → https://goo.gle/3dvjWWs \nNow in Android articles → https://goo.gle/2xtWmsu \n\nNow in Android playlist → https://goo.gle/now-in-android \nSubscribe to Android Developers → https://goo.gle/AndroidDevs \n\n\n\n#Featured #Android11 #AndroidDevs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2ov_23fTwyU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2ov_23fTwyU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2ov_23fTwyU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2ov_23fTwyU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2ov_23fTwyU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2ov_23fTwyU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VidQLDHclWVakYFxJ0eJ3VRtluU\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLlpURFhvMC1TS3VV",
+    "snippet": {
+      "publishedAt": "2020-04-02T17:03:24.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Kotlin Coroutines 101 - Android Conference Talks",
+      "description": "Manuel Vivo, Android Engineer from the Developer Relations team at Google, gives an introduction to Kotlin Coroutines. Stay tuned to find out about the problems coroutines are trying to solve, how to use coroutines in Android, how to test them, and much more!\n\nCoroutines codelab → https://goo.gle/2R3DS9k \nAdvanced coroutines codelab → https://goo.gle/2R1ojz6 \nTesting coroutines talk → https://goo.gle/3bMiUn8 \nCancellation and exceptions in coroutines → https://goo.gle/39wgxU8 \n\nAndroid Conference Talks playlist → https://goo.gle/2WmhoEb \nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#Kotlin #AndroidDev #Featured",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZTDXo0-SKuU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZTDXo0-SKuU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZTDXo0-SKuU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZTDXo0-SKuU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZTDXo0-SKuU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZTDXo0-SKuU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2HolDLj75PofymKj2lO2qWPPlXo\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLndBUUNzOC1hNm1n",
+    "snippet": {
+      "publishedAt": "2020-03-30T17:00:19.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Inline functions - Kotlin Vocabulary",
+      "description": "Improve your app by saving some extra object allocations with inline functions! \n\nStay tuned to see what happens when you pass lambda functions as parameters, what inline does under the hood, and what you should be aware of when working with inline functions.\n\n#KotlinVocabulary playlist → https://goo.gle/2wHr94N \nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#Kotlin #AndroidDev #Featured",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wAQCs8-a6mg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wAQCs8-a6mg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wAQCs8-a6mg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wAQCs8-a6mg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wAQCs8-a6mg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wAQCs8-a6mg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/26nwkXchJ1z7dMwXLaDDrE10Op8\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLnFUb2k1OUNRRjk4",
+    "snippet": {
+      "publishedAt": "2020-03-28T00:00:11.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Now in Android: 14 - Android 11 Developer Preview 2, Android X releases, game development, and more!",
+      "description": "Welcome to Now in Android, your ongoing guide to what’s new and notable in the world of Android development. In this video, Chet Haase goes over the new Android 11 Developer Preview 2, Android X releases, game development, recent articles, videos, and podcasts, and much more! \n\nFor links to these items, check out Now in Android #14 on Medium → https://goo.gle/3dpxToO \n\nNow in Android podcast → https://goo.gle/3dvjWWs \nNow in Android articles → https://goo.gle/2xtWmsu \n\nNow in Android playlist → https://goo.gle/now-in-android \nSubscribe to Android Developers → https://goo.gle/AndroidDevs \n\n\n\n#Featured #Android11 #AndroidDevs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qToi59CQF98/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qToi59CQF98/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qToi59CQF98/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qToi59CQF98/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qToi59CQF98/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qToi59CQF98"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Z2_sQxo65FKU27rhzhjYB6sZ9mI\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLkJzVG1ub01MZGZr",
+    "snippet": {
+      "publishedAt": "2020-03-23T17:00:13.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Deliver higher quality games on more devices (Google Games Dev Summit)",
+      "description": "Building a high quality game is hard. Ensuring it works on many Android devices is harder. Learn about new tools to test your game efficiently before launch, and improve stability and performance once it’s live. This includes Android performance tuner, which unlocks new metrics and insights in Android vitals.\n\nResource(s):\n- Apply to join new game developer preview programs for the Android Performance Tuner, game loops and more→ https://goo.gle/3daeyrE\n\nCatch up on all of the announcements from our Google for Games Developer Summit → https://goo.gle/2Ww7WxV or at https://goo.gle/2J0Q3iY and learn about all of the offerings we have to help game developers building on Android → http://d.android.com/games\n\nSpeaker(s): Lauren Mytton\n\nWatch more Google for Games Developer Summit: \nMobile Sessions → https://goo.gle/2Ixkxsn \nCloud Sessions → https://goo.gle/2TQr1rD  \nStadia Sessions → https://goo.gle/331sK1B \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nWe'd love to hear your feedback. Please take this short survey to help us improve on future sessions: https://goo.gle/3b80qxl",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BsTmnoMLdfk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BsTmnoMLdfk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BsTmnoMLdfk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BsTmnoMLdfk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BsTmnoMLdfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BsTmnoMLdfk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ytxyQpKosY-Hqxp2FnDPmVkVq40\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLmtBRDBoa1otS2lB",
+    "snippet": {
+      "publishedAt": "2020-03-23T17:00:12.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Protect your game's integrity on Google Play (Google Games Dev Summit)",
+      "description": "Learn about Android and Google Play tools you can use to protect your games and players while reducing issues like tampering and piracy. Read on Medium → https://medium.com/googleplaydev/protect-your-game-and-players-on-google-play-c3fa376fb375\n\nSpeaker: https://twitter.com/iamdom\n\nLearn about building games on Android and Google Play → https://d.android.com/games\nWatch more Google for Games Developer Summit: \nMobile Sessions → https://goo.gle/2Ixkxsn \nCloud Sessions → https://goo.gle/2TQr1rD  \nStadia Sessions → https://goo.gle/331sK1B \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nWe'd love to hear your feedback. Please take this short survey to help us improve on future sessions: https://goo.gle/3dhoCyY",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kAD0hkZ-KiA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kAD0hkZ-KiA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kAD0hkZ-KiA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kAD0hkZ-KiA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kAD0hkZ-KiA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kAD0hkZ-KiA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L-R5u8UROOn4t3xQYTGCcicd2x0\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLldXOUdldnBFbzFz",
+    "snippet": {
+      "publishedAt": "2020-03-23T17:00:15.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Google Play Asset Delivery for games: Product deep dive and case studies (Google Games Dev Summit)",
+      "description": "Optimize your game delivery with the new App Bundle for games, which \nenables free, customizable delivery of large game assets. Learn about the flexible delivery modes, texture compression targeting, and automatic updates, which lets you rely on Play to deliver the right assets to the right devices at right time.\n\nResource(s):\n- Learn more about Google Play Asset Delivery → https://goo.gle/2QE8ZYL\n\n- Apply to join new game developer preview programs → https://goo.gle/3daeyrE\n\nCatch up on all of the announcements from our Google for Games Developer Summit → https://goo.gle/2Ww7WxV or at https://goo.gle/2J0Q3iY and learn about all of the offerings we have to help game developers building on Android → http://d.android.com/games\n\nSpeaker(s): Yafit Becher, Alessandro Dovis\n\nWatch more Google for Games Developer Summit: \nMobile Sessions → https://goo.gle/2Ixkxsn \nCloud Sessions → https://goo.gle/2TQr1rD  \nStadia Sessions → https://goo.gle/331sK1B \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nWe'd love to hear your feedback. Please take this short survey to help us improve on future sessions: https://goo.gle/38ZFcAc",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WW9GevpEo1s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WW9GevpEo1s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WW9GevpEo1s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WW9GevpEo1s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WW9GevpEo1s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WW9GevpEo1s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Opr6_zFIEqVewQ347i2Z9TgluYE\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLkNyblN5Rnl4MTFj",
+    "snippet": {
+      "publishedAt": "2020-03-23T17:00:11.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Android memory tools and best practices (Google Games Dev Summit)",
+      "description": "Memory issues can be challenging to deal with. This talk will describe some new tools for helping you reduce memory usage and detect problems.\n\nResource(s): \n- Apply to join new game developer preview programs → https://goo.gle/3daeyrE\n\nCatch up on all of the announcements from our Google for Games Developer Summit → https://goo.gle/2Ww7WxV or at https://goo.gle/2J0Q3iY and learn about all of the offerings we have to help game developers building on Android → http://d.android.com/games\n\nSpeaker(s): Bill Bilodeau\n\nWatch more Google for Games Developer Summit: \nMobile Sessions → https://goo.gle/2Ixkxsn \nCloud Sessions → https://goo.gle/2TQr1rD  \nStadia Sessions → https://goo.gle/331sK1B \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nWe'd love to hear your feedback. Please take this short survey to help us improve on future sessions: https://goo.gle/3deEzGl",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CrnSyFyx11c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CrnSyFyx11c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CrnSyFyx11c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CrnSyFyx11c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CrnSyFyx11c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CrnSyFyx11c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xfexYoMn9cnlnziyYzLnwC5okOI\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLkpYUUJkTU5ETDdr",
+    "snippet": {
+      "publishedAt": "2020-03-23T17:00:12.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "What's new in Android game development tools (Google Games Dev Summit)",
+      "description": "Learn about our new development and profiling tools built specifically for Android game developers. Improve productivity with new features that allow you to build and deploy your game more efficiently, and use updated profilers to fine tune your game's performance.\n\nResource(s): \n- Apply to join new game developer preview programs for the Android Game Development Extension and the Android GPU Inspector → https://goo.gle/3daeyrE\n\n- Install the Game Package Registry for Unity → https://goo.gle/38XckZq\n\n- Download the latest Android Studio Canary build  → https://goo.gle/2WrzYup\n\nCatch up on all of the announcements from our Google for Games Developer Summit → https://goo.gle/2Ww7WxV or at https://goo.gle/2J0Q3iY and learn about all of the offerings we have to help game developers building on Android → http://d.android.com/games\n\nSpeaker(s): Jon Tsao\n\nWatch more Google for Games Developer Summit: \nMobile Sessions → https://goo.gle/2Ixkxsn \nCloud Sessions → https://goo.gle/2TQr1rD  \nStadia Sessions → https://goo.gle/331sK1B \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nWe'd love to hear your feedback. Please take this short survey to help us improve on future sessions:  https://goo.gle/2xadWBX",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JXQBdMNDL7k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JXQBdMNDL7k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JXQBdMNDL7k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JXQBdMNDL7k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JXQBdMNDL7k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JXQBdMNDL7k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8Q2SDzpIou85gziArxtqMfVFGTk\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLjduOXZUWXMxN19R",
+    "snippet": {
+      "publishedAt": "2020-03-23T17:00:11.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "What's new in Android graphics optimization tools (Google Games Dev Summit)",
+      "description": "Learn about the Android GPU Inspector, a new graphics profiling tool to help you optimize your games by providing insights into the workloads that are executing on an Android GPU.\n\nResource(s):\n- Learn more → https://goo.gle/3a8VwQw \n\n- Apply to join new game developer preview programs → https://goo.gle/3daeyrE\n\nCatch up on all of the announcements from our Google for Games Developer Summit → https://goo.gle/2Ww7WxV or at https://goo.gle/2J0Q3iY and learn about all of the offerings we have to help game developers building on Android → http://d.android.com/games\n\nSpeaker(s): Jay Kong\n\nWatch more Google for Games Developer Summit: \nMobile Sessions → https://goo.gle/2Ixkxsn \nCloud Sessions → https://goo.gle/2TQr1rD \nStadia Sessions → https://goo.gle/331sK1B \n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\nWe'd love to hear your feedback. Please take this short survey to help us improve on future sessions: https://goo.gle/2IXpStp",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7n9vTYs17_Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7n9vTYs17_Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7n9vTYs17_Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7n9vTYs17_Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7n9vTYs17_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7n9vTYs17_Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xXqXIEYoXnpSOsr7okv5dh2SP3Q\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLklRZi12dElDLVVj",
+    "snippet": {
+      "publishedAt": "2020-03-16T17:04:37.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Suspend functions - Kotlin Vocabulary",
+      "description": "Coroutines in Kotlin simplify asynchronous operations on Android. In this video, we go more in depth about why coroutines are important, how they work under the hood, how a coroutine can suspend without blocking threads, and much more!\n\n#KotlinVocabulary playlist → https://goo.gle/2wHr94N \nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#Kotlin #AndroidDev #Featured",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IQf-vtIC-Uc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IQf-vtIC-Uc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IQf-vtIC-Uc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IQf-vtIC-Uc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IQf-vtIC-Uc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IQf-vtIC-Uc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EGLBMnnIILc9uACcsiac8mbuh_4\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLjJoLXZ1WEMwU0Y4",
+    "snippet": {
+      "publishedAt": "2020-03-26T16:00:36.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Assembling your Jetpack - Android Conference Talk",
+      "description": "Tiem Song, Developer Programs Engineer on the Android DevRel team, goes over the variety of tools and libraries that Jetpack has to offer to make Android development easier than ever before. Stay tuned to find out more on AndroidX and Sunflower - a gardening app illustrating Android development best practices with Jetpack.\n\nSunflower repository → https://goo.gle/android-sunflower\n\nAndroid Conference Talks playlist → https://goo.gle/2WmhoEb \nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#Android #Jetpack #Featured",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2h-vuXC0SF8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2h-vuXC0SF8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2h-vuXC0SF8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2h-vuXC0SF8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2h-vuXC0SF8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2h-vuXC0SF8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LTKVeCZzdWsWyuPSrNf_x9jx3HQ\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLnl4TlJPenU5blFR",
+    "snippet": {
+      "publishedAt": "2020-03-12T19:26:55.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Easy Android accessibility - Android Conference Talks",
+      "description": "You've made a great app, so you should make sure *all* of your users can use it! In this talk, you'll learn how users of different accessibility services interact with your app, and find out about common accessibility issues and their solutions. Lyla Fujiwara and Shailen Tuli will dive into the basics of accessibility and demo Talk Back, Switch Access, Accessibility Scanner, Play launch reports and the Espresso ATF integration. \n\nWhy accessibility? - 0:30\nKnowing your users - 2:34\nAccessibility interaction model - 4:20\nCommon accessibility problems - 8:01 \nAccessibility Scanner (fixing problems) - 8:42\nPre-launch reports - 12:05\nTesting for accessibility (with Espresso) - 13:24\nWrap up - 21:45\n\nBuilding more accessible apps → https://goo.gle/2vgJSEb \n\nAndroid Conference Talks playlist → https://goo.gle/2WmhoEb \nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#Android #AndroidDev #Featured",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yxNROzu9nQQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yxNROzu9nQQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yxNROzu9nQQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yxNROzu9nQQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yxNROzu9nQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yxNROzu9nQQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OoEr7kmtEQtJSqTJzZBvOEyMV8Y\"",
+    "id": "VVVWSEZicVhxb1l2RVdNMURkeGwwUURnLm1DOUY0YkFnbzlj",
+    "snippet": {
+      "publishedAt": "2020-03-06T18:00:07.000Z",
+      "channelId": "UCVHFbqXqoYvEWM1Ddxl0QDg",
+      "title": "Android Developer Story: IGG finds success in India with Google Play",
+      "description": "IGG is a Singapore based mobile gaming company specializing in global real-time strategy and tower defense games. India, with its growing online population, is a key market in their global growth strategy. Learn how with the help of localization, co marketing and an effective Youtube strategy, they found success in the market.\n\nAndroid Developer Stories → https://goo.gle/2PwZc6M\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#story #game #featured #googleplay",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mC9F4bAgo9c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mC9F4bAgo9c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mC9F4bAgo9c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mC9F4bAgo9c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mC9F4bAgo9c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Android Developers",
+      "playlistId": "UUVHFbqXqoYvEWM1Ddxl0QDg",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mC9F4bAgo9c"
+      }
+    }
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/41Wb19cH4gvClW0-STmU7GOtPmE\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LkRMR1dXQlloemw4",
+    "snippet": {
+      "publishedAt": "2019-05-02T06:06:27.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "LibreHosters A federation of networks for cooperation and solidarity through distributed platforms.",
+      "description": "by Jon Richter\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/UD2.218A/librehosters.webm\n\n\nlibrehosters is a network of cooperation and solidarity that uses free software to encourage decentralisation through federation and distributed platforms. The values of the group connect transparency, fairness and privacy with a culture of data portability and public contributions to the commons. \n\nIn this presentation we show how people with interest in self-hosting, system administrators from not-for-profit initiatives and members of hosting collectives are federating practices and infrastructure outside of the commercial market. Early members of the recently bootstrapped network will be present to counsel the conversation. \n\nA data-driven approach to reactive provisioning of immutable infrastructure will be outlined and put into context with the diverse needs of associated user communities in the network. This will allow to close with an outlook about how to preconceive a federated computational commons, in which user data is not tainted by hegemonic discourses. After a session about so-called migration networks (of user data) at OuiShare Labs Camp #3 in 2015, the conversation continued between a flock of hosting providers independently. Over the years a list of awesome-librehosters quickly filled, which only underlined the need for a cooperative praxis around independently hosting user and community infrastructure. \n\nWith the emergence of the federated messaging network Matrix, different hosting providers interested in supporting distributed computation environments got in touch directly on the channel #librehosters:matrix.allmende.io and prepared a physical meeting over the course of the year 2018. This ultimately gave birth to Librehosters as an independent, informal entity. \n\nIn there, groups and individuals find a communication and exchange platform about practices of Self-Hosting in general, Docker Compose and systemd based hosting with libre.sh in particular, plus a prospect of a shared Kubernetes-based hosting environment. A data-driven approach to framing the conversation are the application catalogue and member directory. \n\nThe latter currently (26.11.2018) renders into \n\n```\n{\n\"weho.st\" : \"https://weho.st/librehost.json\",\n\"Petites Singularités\" : \"https://ps.lesoiseaux.io/librehost.json\",\n\"lain haus\" : \"https://lain.haus/librehost.json\",\n\"Indie.Host\" : \"https://indie.host/librehost.json\",\n\"aktivix.org\" : \"https://aktivix.org/librehost.json\",\n\"Webarchitects Cooperative\" : \"https://www.webarchitects.coop/librehost-api/librehost.json\",\n\"hackerspaces.be\" : \"https://hackerspaces.be/librehost.json\",\n\"snopyta.org\" : \"https://snopyta.org/librehost.json\"\n} \n\n``` \n\nand presents the beginning of a wider federation of computing resources. One can imagine a directory per offered service, where producers of FLOSS can find an easy to find, maybe even canonical place for hosting offers of their respective applications. \n\nThe movement inbetween the Librehosters leads to a convergence of documentation and practice within the field of self-determined hosting, which eases the sharing of use cases and appropriate answers to reappearing needs. General acceptance receive federated platforms, such as file, calendar and contacts sharing with Nextcloud, microblogging with Mastodon, instant messaging with Matrix/Riot, but also the communication and collaboration environments Discourse for post-email, web-native discussion spaces and CodiMD Markdown pads alike. \n\nThe convergence of hosting practices within a self-determined network of practitioners taking care of user data helps with achieving data portability between platforms and providers, provides a social network for security training &amp; mutual audit and enables a commoning of process and resources within the hosting communities to construct shared infrastructure. \n\nHow to join the network?\n\nThe librehosters network is work in progress at this point. The first gathering kicked of the creation of the network, inspired by the CHATONS network in the french speaking world. Libre Selfhosters are also welcome in the network. \n\nHow to participate in the project?\n\nWe currently have a discussion ongoing at talk.libreho.st and are developing tools at lab.libreho.st. A list of librehosters will soon be published at libreho.st/librehosters. If you would like to be included in this list please add a librehost.json file to your projects website and add the project itself to the librehosters directory repository. \n\nRoom: UD2.218A\nScheduled start: 2019-02-02 12:00:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DLGWWBYhzl8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DLGWWBYhzl8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DLGWWBYhzl8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DLGWWBYhzl8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DLGWWBYhzl8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DLGWWBYhzl8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HLeaVpCxb9h940h5C7q17pJOC1s\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LmFoRWlRZ19XX0dN",
+    "snippet": {
+      "publishedAt": "2019-05-02T05:05:24.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Enough: How journalism can benefit from free software",
+      "description": "by Veronika Nad\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/UD2.218A/enough_how_journalism_can_benefit_from_free_software.webm\n\n\nEnough is a set of tools, online and self-hosted, as well as a community composed of technical people and journalists. The tools were designed to empower journalists and Human Rights Defenders when protecting their privacy, and their sources in the digital era. We will run you through the approach with examples of practical application. We hope to inspire developers and sysadmins to help journalists and provide them with the tools they need when the freedom of the press is challenged. It‘s not news that journalism has undergone significant changes since the beginning of digitalization: from methods and tools applied in news rooms to the pace at which information is received, processed and outdated, today‘s news are as heavily influenced by modern technology as every other aspect of our lives. While many of these changes contribute to the empowerment of citizens, some of them pose challenges and threats to the traditional role of journalism as safeguard of informed public debates which our societies depend on. \n\nOne of them is the growing number of intermediaries involved in communication: Journalists rely on Google, Facebook and other private companies to communicate with sources or store documents online. At the same time, a lack of regulation facilitates the access of governments to data collected by said intermediaries, and legislation introduced all across the globe in the name of terror prevention and protecting national security contributes to curtailing civil liberties. All of these taken together significantly increase the risk of abuse through regulators to inhibit journalists from doing their job – which, in turn, becomes all the more important in that very same context to protect the public interest in a fair and free society. \n\nAn answer to this would be to empower journalists to maintain control over their data. But because only few of them have the technological know-how to make use of tools that would allow them to do so, they require support. Establishing closer cooperation between journalists and technological experts is one effective way to close this gap. \n\nThis is why we promote the use of the communication platform Enough: based on Free Software exclusively, it offers journalists and Human Rights Defenders a way of communicating and exchanging documents with their sources through an interface that seems familiar to them. At the same time, Enough is embedded and maintained by a decentralized community composed of technological experts, who can support users in technical questions. \n\nRoom: UD2.218A\nScheduled start: 2019-02-02 15:00:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ahEiQg_W_GM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ahEiQg_W_GM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ahEiQg_W_GM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ahEiQg_W_GM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ahEiQg_W_GM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ahEiQg_W_GM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mNHhbATOlqJuE5h88zwgbFLZ5D4\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3Lm1PMVJoWkppckJN",
+    "snippet": {
+      "publishedAt": "2019-05-02T04:05:57.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Making your Python code write your Python code Discover Python's 'ast' module to see how you can an…",
+      "description": "Making your Python code write your Python code Discover Python's 'ast' module to see how you can analyze and generate Python code\nby Marcin Sobczyk\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/UD2.120/python_ast_module.webm\n\n\nHave you ever wondered how much of your code could be generated automatically? Introspection, mutation, extension - Python's uber-dynamic nature allows us to do all kinds of kinky stuff. In this presentation we will take a look at the 'ast' module and see how it allows us to analyze and produce Python code. By leveraging it's power, we will try to create useful tools and even our own DSLs! \n\nRoom: UD2.120 (Chavanne)\nScheduled start: 2019-02-03 12:00:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mO1RhZJirBM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mO1RhZJirBM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mO1RhZJirBM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mO1RhZJirBM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mO1RhZJirBM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mO1RhZJirBM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1Mo2KlRkZDXEpzSmhw7XuTVPoe8\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3Li11ZXdVamNuc3Rj",
+    "snippet": {
+      "publishedAt": "2019-05-02T03:10:41.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "When open source meets quantum computing Opening keynote",
+      "description": "by Tomas Babej\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/AW1.121/qosf_oss_meets_qc.webm\n\n\nThis talks overviews the available quantum computing paradigms and outlines the pratical possiblities of leveraging and exploring the promised power of quantum computing processors that developers have today. \n\nRoom: AW1.121\nScheduled start: 2019-02-02 10:30:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-uewUjcnstc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-uewUjcnstc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-uewUjcnstc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-uewUjcnstc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-uewUjcnstc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-uewUjcnstc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1Busu0E7t0pJycz6Q2dY2K9smOE\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LkNlSGFLWWxYZjVV",
+    "snippet": {
+      "publishedAt": "2019-05-02T02:05:49.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "The consequences of sync_binlog != 1",
+      "description": "by Jean-François Gagné\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/H.1301/sync_binlog_use_default.webm\n\n\nHave you ever needed to get some additional write throughput from MySQL ?  If yes, you probably found that setting syncbinlog to 0 (and trxcommit to 2) gives you an extra performance boost.  As all such easy optimisation, it comes at a cost.  This talk explains how this tuning works, presents its consequences and gives recommendations to avoid them.  This will bring us to the details of how MySQL commits transactions and how those are replicated to slaves.  Come to this talk to learn how to get the benefit of this tuning the right way and to learn some replication internals. \n\nRoom: H.1301 (Cornil)\nScheduled start: 2019-02-02 11:40:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CeHaKYlXf5U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CeHaKYlXf5U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CeHaKYlXf5U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CeHaKYlXf5U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CeHaKYlXf5U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CeHaKYlXf5U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/w75yTF-mCHBCVVCM2tXY17L1U7Y\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LnBhTzJrd0hXT0x3",
+    "snippet": {
+      "publishedAt": "2019-05-02T01:06:30.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Deep Dive: Kubernetes Metrics with Prometheus",
+      "description": "by Matthias Loibl and Sergiusz Urbaniak\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/UB2.252A/deep_dive_kubernetes_metrics_with_prometheus.webm\n\n\nKubernetes traditionally uses metrics for its core scheduling decisions - in the beginning all of this started with an opinionated internal stack. Since then Kubernetes has introduced 3 orthogonal standardized metrics APIs. As of today many implementations exist - i.e. for cloud providers and on premise. In this talk we will first show the community process around metrics in Kubernetes, how the Special Interest Group (SIG) for instrumentation works and how to get involved. We will do an overview and deep dive in all 3 metric APIs, with a concrete fully open source Prometheus based deployment example. Once we have Prometheus running we will show how to bridge the gap between Prometheus and Kubernetes to use these APIs. Finally, we will conclude the talk with an example on scaling your deployments based on custom metrics served by your Prometheus. \n\nRoom: UB2.252A (Lameere)\nScheduled start: 2019-02-03 15:50:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/paO2kwHWOLw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/paO2kwHWOLw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/paO2kwHWOLw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/paO2kwHWOLw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/paO2kwHWOLw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "paO2kwHWOLw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ai7kjfJ2bfYlCd5MTYI8poKTu3c\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LmRzVERMbXNBakZr",
+    "snippet": {
+      "publishedAt": "2019-05-02T01:07:56.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "A new approach to container isolation with Nabla",
+      "description": "by Brandon Lum\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/UA2.114/containers_nabla.webm\n\n\nDespite its many advantages, containers have not been accepted as isolated sandboxes. In this talk, we present Nabla containers, which uses library OS/unikernel techniques to avoid system calls and thereby reduce the attack surface on the host kernel. We will demonstrate the running of popular applications (node.js, python, redis, etc.) on container ecosystems (kubernetes, etc.) as nabla containers (using &lt; 9 syscalls). In addition, We will compare isolation and performance metrics against other isolation technologies (gvisor, kata, etc.) Horizontal attacks are an important security concern for cloud providers and its tenants. Despite its many advantages, containers have not been accepted as isolated sandboxes, which is crucial for container-native clouds. The exposure of the syscall interface directly to untrusted workloads has greatly increased the number of exploits possible to the host. \n\nWe present Nabla containers, which uses library OS/unikernel techniques to avoid system calls and thereby reduce the attack surface on the host kernel. Using our OCI runtime, runnc (https://github.com/nabla-containers/runnc), we show the running of popular applcations: Node.js, python, redis, etc. permitting the use of &lt; 9 syscalls via seccomp. In this talk, we will discuss and demo how we have leveraged libOS ideas in a novel way and compare isolation and            performance metrics against other technologies such as gvisor and Kata Containers. In addition, we will demonstrate the running nabla containers with the existing container ecosystems such as kubernetes. \n\nRoom: UA2.114 (Baudoux)\nScheduled start: 2019-02-03 15:05:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dsTDLmsAjFk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dsTDLmsAjFk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dsTDLmsAjFk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dsTDLmsAjFk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dsTDLmsAjFk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dsTDLmsAjFk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FtbReyJQeWrSUDSi74O2uaaxE6M\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LkoyQnJzV084ck5N",
+    "snippet": {
+      "publishedAt": "2019-05-02T01:06:37.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Breaking Down Language Barriers Localizing for access, activism and preservation",
+      "description": "by Erin McConnell\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/AW1.120/localizing.webm\n\n\nWe will introduce the work of Localization Lab and localization as a key element of bridging the digital divide. We will also discuss the essential connections between emerging connectivity in vulnerable societies, adoption of open source tools, means to oppose or prevent censorship and localization into local languages. Only about 25% of the world's population speaks English natively or as a second language, however English still dominates over half of website content. This dominance also extends to Free and Open Source Software. While FOSS plays a large role in bridging the digital divide and bringing access to technology and the open Internet to new users around the globe, these tools and spaces are only as effective as they are linguistically accessible. \n\nOver the past 5 years, Localization Lab has built a network of over 6,000 volunteers worldwide who localize open source, digital security and circumvention tools for communities in need. In this session we will share experiences we have had working with communities around the globe who are localizing digital security tools out of necessity, as language preservation, and as forms of activism. We will also discuss the importance of planning for localization in the early design stages and how you can improve your tools by harnessing the knowledge and experience of localizers as end users. \n\nYou should leave the session excited to promote language diversity in tech and on the Internet and with ideas for how you can improve FOSS localization efforts as a translator or a developer. \n\nRoom: AW1.120\nScheduled start: 2019-02-02 13:00:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J2BrsWO8rNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J2BrsWO8rNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J2BrsWO8rNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J2BrsWO8rNM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J2BrsWO8rNM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "J2BrsWO8rNM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nISV-uW4OhwFcrXVhBbuFyaYdyE\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LkZ5NWVLcU04LU9B",
+    "snippet": {
+      "publishedAt": "2019-05-02T00:09:40.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Solid: taking back the Web through decentralization App development as we know it will radically ch…",
+      "description": "Solid: taking back the Web through decentralization App development as we know it will radically change\nby Ruben Verborgh\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/Janson/solid_web_decentralization.webm\n\n\nSolid is a new ecosystem for the Web, in which people store their own data instead of having to upload it to applications. This changes how we will build apps: we no longer have to harvest people's data, but ask permission to access people's data space. Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Its mission is to reshape the web as we know it. Solid will foster a new breed of applications with capabilities above and beyond anything that exists today. \n\nWithin the Solid ecosystem, people decide where they store their data. Photos they take, comments they write, contacts in their address book, calendar events, how many miles they run each day from their fitness tracker… these are all stored in their Solid pod. This Solid pod can be in their house or workplace, or with an online provider of their choice. Since they own their data, they are free to move it at any time, without interruption of service. People can give apps permission to read or write to parts of their Solid pod. So whenever they’re opening up a new app, they don’t have to fill out their details ever again. Things saved through one app are available in another: syncing is never needed, because data stays with people. \n\nThis approach protects people's privacy and is also great for developers: we can build apps without harvesting massive amounts of data first. \n\nRoom: Janson\nScheduled start: 2019-02-03 10:00:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Fy5eKqM8-OA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Fy5eKqM8-OA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Fy5eKqM8-OA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Fy5eKqM8-OA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Fy5eKqM8-OA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Fy5eKqM8-OA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1YiLHqp-5comKg7MSg4pwm_DawI\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LlRNTGVCQlcyQ05R",
+    "snippet": {
+      "publishedAt": "2019-05-01T23:06:53.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Introduction to reSIProcate A quickstart for C++ SIP application development",
+      "description": "by Daniel Pocock\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/H.1309/resiprocate.webm\n\n\nPocock, from the reSIProcate development team, explains how to integrate SIP capabilities into new or existing C++ applications, with a quick look at some of the new APIs for AMQP and Python integration. \n\nRoom: H.1309 (Van Rijn)\nScheduled start: 2019-02-03 11:55:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TMLeBBW2CNQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TMLeBBW2CNQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TMLeBBW2CNQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TMLeBBW2CNQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TMLeBBW2CNQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TMLeBBW2CNQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WHCqEKbWrmGAow7GNtc6JhDSBXU\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3Lk5weVJac2JkSlhF",
+    "snippet": {
+      "publishedAt": "2019-05-01T23:07:00.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Call C++ from Rust with the cpp crate Interoperate with C++ libraries, using Qt as an example",
+      "description": "by Olivier Goffart\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/UD2.208/rust_cpp.webm\n\n\nThere is a lot of existing code and libraries written in C++. The cpp crates allow to embed easily\nC++ within your rust code so you can call interoperate with the existing C++ code.\nIn this talk, we will see how to use this create and how it works behind the scenes.\nAs an example, we will look at the qmetaobject which expose Qt api to Rust. \n\nRoom: UD2.208 (Decroly)\nScheduled start: 2019-02-03 15:40:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NpyRZsbdJXE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NpyRZsbdJXE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NpyRZsbdJXE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NpyRZsbdJXE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NpyRZsbdJXE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NpyRZsbdJXE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xCya38aLGv_RIluIjnIkSu4GI2s\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LnVTclhwV0hDOXpj",
+    "snippet": {
+      "publishedAt": "2019-05-01T23:06:27.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "GraphHopper Routing Engine - New Features Overview of the latest features and development",
+      "description": "by Peter Karich\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/AW1.126/geo_graphhopper.webm\n\n\nGraphHopper is one of the popular open source routing engines and has a steady stream of new features. For example we recently introduced the Isochrone API and added real time routing features for public transit. \n\nIn this talk I will give a brief overview of what is possible today and give also some insights of what will be possible with the upcoming releases. \n\nRoom: AW1.126\nScheduled start: 2019-02-03 12:25:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uSrXpWHC9zc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uSrXpWHC9zc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uSrXpWHC9zc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uSrXpWHC9zc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uSrXpWHC9zc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uSrXpWHC9zc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/itE_58BDRhDlKWd_JTdM2Ljp4s0\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LlRuQXJIWVJZVDNV",
+    "snippet": {
+      "publishedAt": "2019-05-01T22:11:11.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "A year of Container Kernel Work Past, Present, and Future of Container Kernel Features",
+      "description": "by Christian Brauner\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/UA2.114/containers_kernel_update.webm\n\n\nIn this talk we will focus on container related kernel features. We will take\nan in-depth, technical look at what features have been worked on, are currently\nworked, or are planned. Containers have become ubiquitous. Nowadays, the computing landscape is mostly\nconcerned with a higher-level view on the functionality and features of\ncontainers (e.g. orchestration). In this talk we will take a step back and\nfocus on the low-level aspects that make containers possible. Specifically, we\nwill look at kernel features that have been implemented in the last year(s),\nfeatures that are currently being worked on and features that are planned in\nthe future. We will try to take a closer technical look and not shy away from\nanalysing code and patchsets where needed. The goal of the talk is to inform\nusers about the kernel development status but also to raise awareness that all\nthe shiny glitter takes a lot of difficult technical arguments and patches that\nare not just \"boring plumbing\" but actually are pretty exciting. \n\nRoom: UA2.114 (Baudoux)\nScheduled start: 2019-02-03 11:40:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TnArHYRYT3U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TnArHYRYT3U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TnArHYRYT3U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TnArHYRYT3U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TnArHYRYT3U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TnArHYRYT3U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qpQAGzAM2fIVWNrpSRIZvsre98o\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3Lm82ZUVCSlpzUzRV",
+    "snippet": {
+      "publishedAt": "2019-05-01T22:07:16.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Evolution of file system and disk management in HelenOS",
+      "description": "by Jiri Svoboda\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/AW1.121/helenos_file_system.webm\n\n\nFile systems are the cornerstone of operating system functionality. The disk/FS management layer is just as important. Having a driver for a persistent file system is no good if you have to mount it manually after each reboot. We offer a tour of disk and file system management in HelenOS, explained in the most obvious way: chronologically. \n\nRoom: AW1.121\nScheduled start: 2019-02-03 15:25:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o6eEBJZsS4U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o6eEBJZsS4U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o6eEBJZsS4U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o6eEBJZsS4U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o6eEBJZsS4U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "o6eEBJZsS4U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/COUoCtgyale5N2Rujpd8eaSqeKg\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LjdXeXUxNXUxX1B3",
+    "snippet": {
+      "publishedAt": "2019-05-01T22:09:27.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Taming The Dinosaur: How Eclipse was Performance Tuned",
+      "description": "by Karsten Thoms\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/UD2.119/eclipse_tuning_2019.webm\n\n\nWhile increasing amount of features usually result in poorer performance and more memory consumption, Eclipse Photon has proven the opposite: The Eclipse Platform got faster and less memory hungry than before. This has been achieved by intensive profiling of multiple use cases and refactorings derived from the analysis. \n\nThis talk will take a look behind the scenes and shows how profiling tools can help to understand performance bottlenecks in Eclipse based products and Java applications in general. Attendees will learn about the YourKit Java Profiler tool, which while being a commercial product can be used for free on Open Source development. I will discuss some former hot spots identified in the Eclipse platform with analysis screenshots and how they got resolved. \n\nRoom: UD2.119\nScheduled start: 2019-02-03 13:35:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7Wyu15u1_Pw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7Wyu15u1_Pw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7Wyu15u1_Pw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7Wyu15u1_Pw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7Wyu15u1_Pw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7Wyu15u1_Pw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Emc-FS6EKOeb1nX0H-a9zoGQ4KQ\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3Lkl0WTNYZHdwTXM0",
+    "snippet": {
+      "publishedAt": "2019-05-01T22:09:26.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Node.js feature-flipping through Git Git as a Continuous Manager",
+      "description": "by Matthias Dugué\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/H.1308/git_continuous_manager.webm\n\n\nLet's imagine you run a complex service or app, and you have to manage a backend solution that grows fast. You have to find a way to handle the releases cycle. It means taking care of restarting services, migrating databases, expiring caches, as well as notifying client's apps for the update. Now, add a new layer of complexity: to quickly try-and-fail, you also use a feature-flipping architecture that allows you to run tests on various client segments. Even for a limited amount of time. And, because your team is great, you deliver several times a day. To address all those needs, Node.js is a great candidate. Properly hooked behind a Git repository that will allow you to push your codebase and configs, we can conceive a modular system to manage your deployment process. Based on Streams and Functional Programming, we will present a global solution capable to deliver your codebase and reprocess its configuration on-the-fly. With a simple git push. Let's see what a modern, robust, and distributed deployment platform should look like. \n\nRoom: H.1308 (Rolin)\nScheduled start: 2019-02-03 16:00:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ItY3XdwpMs4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ItY3XdwpMs4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ItY3XdwpMs4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ItY3XdwpMs4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ItY3XdwpMs4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ItY3XdwpMs4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FJd_Ya7sWLCUiYCpcuPYpCuJOy4\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LkpRWENpand2dC1B",
+    "snippet": {
+      "publishedAt": "2019-05-01T20:07:57.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Stories from BIND9 refactoring Dealing with code that can drink legally",
+      "description": "by Witold Kręcicki\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/K.4.601/dns_bind9_refactoring.webm\n\n\nBind9 code is 21 years old - it was written in times without all the modern buzz-words like test-driven development, QA and code quality. Having working on refactoring the code I want to guide the audience through the process of refactoring one particular function - query_find, showing the mistakes made on the way, cul-de-sacs entered, hours and days lost, for others to learn on my mistakes. \n\nRoom: K.4.601\nScheduled start: 2019-02-03 10:45:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JQXCijwvt-A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JQXCijwvt-A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JQXCijwvt-A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JQXCijwvt-A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JQXCijwvt-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JQXCijwvt-A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-7USHYKMVNK8koDEvU9jg_T0KlA\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LmZXVzVEOGlBc1Q0",
+    "snippet": {
+      "publishedAt": "2019-05-01T20:06:05.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Open Source Geolocation The story and challenges ahead",
+      "description": "by Zeeshan Ali\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/AW1.126/geo_locationchallenges.webm\n\n\nIn this talk, Zeeshan will share his story of development of Geoclue, the open source geolocation service for Linux. He'll talk about the challenges and setbacks faced during these years in developing a framework designed to provide a simple API to application developers while also addressing the privacy issues related to giving out users' location to random applications. Also presented will be the current big problems faced by the project and possible solutions to them. \n\nRoom: AW1.126\nScheduled start: 2019-02-03 14:10:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fWW5D8iAsT4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fWW5D8iAsT4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fWW5D8iAsT4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fWW5D8iAsT4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fWW5D8iAsT4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fWW5D8iAsT4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MqZUgceESexvCT2uFScrRqizvL8\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LjV0UEZKTlBtNkVR",
+    "snippet": {
+      "publishedAt": "2019-03-06T07:13:15.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "D-Wave's Software Development Kit",
+      "description": "by Alexander Condello\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/AW1.121/dwave_sdk.webm\n\n\nD-Wave's Ocean software tools are an open source ecosystem for solving customer-scale problems on the quantum computer. \n\nThe D-Wave System solves a particular problem - the Binary Quadratic Model (also known as the QUBO or Ising problem). We will provide an overview of the open source tools that are used to express your problem as a BQM and to convert that BQM into something that can be solved by the quantum computer. \n\nFinally we will motivate open sourcing these steps, and discuss the areas that interested users can participate in the project. \n\nRoom: AW1.121\nScheduled start: 2019-02-02 12:25:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5tPFJNPm6EQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5tPFJNPm6EQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5tPFJNPm6EQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5tPFJNPm6EQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5tPFJNPm6EQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5tPFJNPm6EQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KOuW8rdX96JXUZeZhKGRcLt0ajk\"",
+    "id": "VVU5TnVKSW1VYmFTTktpd0YyYmRTZkF3LjN5SWM1SVltN2JR",
+    "snippet": {
+      "publishedAt": "2019-03-05T20:07:24.000Z",
+      "channelId": "UC9NuJImUbaSNKiwF2bdSfAw",
+      "title": "Migrating from Adobe Connect - the Victory of FOSS Over Proprietary Software",
+      "description": "by Jess Portnoy\n\nAt: FOSDEM 2019\nhttps://video.fosdem.org/2019/H.1309/media_migrating.webm\n\n\nAdobe Connect is a proprietary platform for virtual presentations, conferencing sessions and screen recordings.\nRecently, one of our customers has requested our assistance in migrating their content from Adobe Connect to Kaltura.\nWe've released the project as FOSS [licensed under AGPLv3].\nThis session will cover the challenges we faced and the FOSS tools we used to overcome them. During the session, we will review the steps the code takes in order to extract and process the data associated with an Adobe Connect recording [video and audio files, metadata, etc].\nWe'll walk attendees through our use of FFmpeg, Selenium, Mozilla's Geckodriver and OpenCV and demonstrate how they were harnessed for the purpose of migrating the content. \n\nWe will conclude with a live demo of the migration process. \n\nRoom: H.1309 (Van Rijn)\nScheduled start: 2019-02-02 16:30:00+01",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3yIc5IYm7bQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3yIc5IYm7bQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3yIc5IYm7bQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3yIc5IYm7bQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3yIc5IYm7bQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FOSDEM",
+      "playlistId": "UU9NuJImUbaSNKiwF2bdSfAw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3yIc5IYm7bQ"
+      }
+    }
+  }
+]

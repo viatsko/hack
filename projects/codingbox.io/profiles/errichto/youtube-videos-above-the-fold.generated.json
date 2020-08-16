@@ -1,0 +1,892 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4kgpI3P010-l9a2_u5oj2C12mmw\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlktYkdzb2d6U3NR",
+    "snippet": {
+      "publishedAt": "2020-04-21T16:39:17.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Google Code Jam 2020 1B - Screencast & Commentary",
+      "description": "Screencast of Google Code Jam '20 Round 1B. Timestamps and links:\n0:00 A statement\n0:45 C statement\n1:50 C naive solution\n6:36 C exponential solution\n8:42 C correct solution\n12:32 C testing & debugging\n14:20 A solution\n18:43 A testing & strange bug\n20:03 B statement\n20:32 B solution\n22:40 thoughts after the contest\n25:00 final results and correcting B\ncontest link: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2\ncodeforces discussion: https://codeforces.com/blog/entry/76281\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y-bGsogzSsQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Y-bGsogzSsQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/spbCJ_yPjYt-ryGwMHNIAhtZI24\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlJ5QUdFYjRWV28w",
+    "snippet": {
+      "publishedAt": "2020-04-21T07:00:20.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 20 - Binary Search Tree from Preorder Traversal",
+      "description": "Binary Search Tree is an important data structure and you should be able to construct it from an array. I'm showing O(N^2) and then O(N) solution starting at 8:49\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RyAGEb4VWo0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RyAGEb4VWo0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CktuhbtRI-pN7SWxz6FFSMFeXt4\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLjg0YThmUXA1aEpB",
+    "snippet": {
+      "publishedAt": "2020-04-20T07:00:04.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 19 - Search in Rotated Sorted Array",
+      "description": "We have a binary search problem today: given a sorted array after shifting like [4, 6, 9, 2, 3], find a target value X. Watch my lecture about binary search here: https://www.youtube.com/watch?v=GU7DpgHINWQ\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/84a8fQp5hJA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "84a8fQp5hJA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EVwzhgtTnm0sda9-NqhHW9JkFA0\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk5MMTJuY2hSb1VF",
+    "snippet": {
+      "publishedAt": "2020-04-19T07:00:08.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 18 - Grid Minimum Path Sum",
+      "description": "Find the minimum-sum path between two corners of a grid, only going down or right each time. This is a standard dynamic programming problem. Learn iterative dynamic programming with my three lecture videos: https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NL12nchRoUE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NL12nchRoUE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CDxO4HV6Mmc0Ro_CIpK2j7c4PdU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnNkdXUxbjV1WlVF",
+    "snippet": {
+      "publishedAt": "2020-04-18T07:00:17.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 17 - Number of Islands (Grid BFS Algorithm)",
+      "description": "Each cell of a grid is water or land. Find the number of islands (connected components of land cells). There are at least three solutions: DFS, BFS or DSU (also called Find&Union).\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sduu1n5uZUE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sduu1n5uZUE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YBm274T9wSEt-GLCZEP9eh8SrCg\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnBpVDU4ZE5MUGhn",
+    "snippet": {
+      "publishedAt": "2020-04-17T07:00:15.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 16 - Wildcards Bracket String (I Struggle)",
+      "description": "In problem \"Valid Parenthesis String\", you need to replace characters '*' with opening and closing brackets (or remove them) in order to get a valid bracket sequence. It's the first time when I don't know how to solve a problem and I need to guess, and then think much longer to understand what happened.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/piT58dNLPhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "piT58dNLPhg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EcHxHTUBfT22_Jr0MPaKSOiS7Eo\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkUwRnFBYkhqZjRF",
+    "snippet": {
+      "publishedAt": "2020-04-16T07:17:37.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 15 - Product of Array Except Self",
+      "description": "For every position of an array, compute the product of all other numbers. We can either use a known technique related to prefixes, or we can do some case analysis.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E0FqAbHjf4E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "E0FqAbHjf4E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4Jq0M6vUUWcEWMwZpw9EDseuQC8\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnV6anRhZkJ2eVJV",
+    "snippet": {
+      "publishedAt": "2020-04-15T07:00:31.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 14 - String Shifts",
+      "description": "Easy coding interview problem: given a string, you need to perform multiple shifts to left or right.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uzjtafBvyRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uzjtafBvyRU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9AYStaMsrMkdkwO0olu7CRlK9us\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLi1POWJhMGlNVUhz",
+    "snippet": {
+      "publishedAt": "2020-04-14T07:12:44.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 13 - Contiguous Array (C++ & Python)",
+      "description": "100k live stream: https://youtu.be/rEGDNd-9PAU\nFind the longest subarray with equal number of zeros and ones. How to apply prefix sums here?\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-O9ba0iMUHs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-O9ba0iMUHs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kRjDWx9uu5vIXPlP3TFtfwKV6KU\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnJFR0ROZC05UEFV",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:09:38.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "Coding Live Until I Hit 101k Subscribers",
+      "description": "Doing some algo and coding until I hit 100k subs. Something from Code Jam, Codeforces, Leetcode? Suggest problems in the chat! Links will be posted here: https://github.com/Errichto/youtube/wiki/Current-notes\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Twitch live streams: https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n- Competitive Programming Discord: https://discordapp.com/invite/UzaURu7\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rEGDNd-9PAU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rEGDNd-9PAU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aHKF9WPNmkArA45KJZzUWEFeXOY\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkp3anNlalJkZEZj",
+    "snippet": {
+      "publishedAt": "2020-04-13T07:18:33.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 12 - Last Stone Weight (C++ & Python)",
+      "description": "Simulate the process of taking two max elements and inserting their difference to a structure.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JwjsejRddFc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JwjsejRddFc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uOUM2uGvuMZidnH_-c0wC_yF3R0\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk1fQmFPSGtUdHlZ",
+    "snippet": {
+      "publishedAt": "2020-04-12T07:00:06.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 11 - Diameter of Binary Tree (DFS)",
+      "description": "You are given a pointer to the root of a binary tree. Find the diameter: the longest path in this tree. See my coding this coding interview problem from scratch and then explaining the solution.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/M_BaOHkTtyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "M_BaOHkTtyY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bkKxcJzxvKXyjIzgx3EU2NGyFiY\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLkdodlQ5T2I4YXBz",
+    "snippet": {
+      "publishedAt": "2020-04-11T07:00:06.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 10 - Min Stack C++ Implementation",
+      "description": "This coding interview problem is: implement stack that also support query for minimum element. Can you create such a data structure?\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GhvT9Ob8aps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GhvT9Ob8aps"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZTMm4rIQf3gzoduITk0OxZmvV5w\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLi1sUzRnVU1MS000",
+    "snippet": {
+      "publishedAt": "2020-04-10T07:11:09.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "(HARD?) LeetCode Day 9 - Backpace String Compare in O(1) Space",
+      "description": "We need to compare two modified strings in O(1) space. This was quite difficult for me but hey, maybe that's a good thing.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-lS4gUMLKM4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-lS4gUMLKM4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0dZaYm_b8qt9JdNuCdOEpIQjRvo\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLndxNE9aWjNZTGo0",
+    "snippet": {
+      "publishedAt": "2020-04-09T07:00:30.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Day 8 - Middle of a Linked List (Two Pointers)",
+      "description": "Middle of a Linked List is another frequent coding interview problem, this time involving a linked list structure and O(1) extra space requirement, so we can't just transform this list into an array.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day, here's contest link: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wq4OZZ3YLj4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wq4OZZ3YLj4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jgnz59aCE4w0v5YGB32KsjXG1yg\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk9WdmdpV2VLSTE0",
+    "snippet": {
+      "publishedAt": "2020-04-08T16:51:49.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Week 1 Summary + Divide&Conquer and More",
+      "description": "Week 1 Summary of solving Leetcode coding interview problems daily. I will talk about harder versions of some problems.\nAll codes: https://github.com/Errichto/youtube/tree/master/leetcode/april-2020-challenge\n0:34 Week Summary\n3:05 Divide & Conquer (Max Subarray)\n14:57 Best time to buy & sell, why greedy differences work?\n18:32 Best time to buy & sell, Multiple units dp\n20:07 Best time to buy & sell, Multiple units, greedy-ish solution\n32:28 IOI 2015 problem \"Horses\"\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OVvgiWeKI14/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OVvgiWeKI14"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/do2MPZP8GYCAL6HerjExJ1ojsIY\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLnFfa3VnYkdET3pZ",
+    "snippet": {
+      "publishedAt": "2020-04-08T07:00:19.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Challenge Day 7 - Too Easy? Harder Version!",
+      "description": "Count elements x such that x+1 exists too. You must be fluent with hashsets to nail your coding interviews, but what about a harder version of a problem where hashset won't be enough?\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q_kugbGDOzY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "q_kugbGDOzY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LGBfQobR3m8JUyMCSMqHV0kTzZk\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlU4Z2x2NHNYNlB3",
+    "snippet": {
+      "publishedAt": "2020-04-07T07:00:19.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Challenge Day 6 - Anagrams and Canonical Form",
+      "description": "Group given strings into anagrams. To solve this coding interview problem, you need a knowledge of term from math: canonical representation.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U8glv4sX6Pw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "U8glv4sX6Pw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-5Uw5wABLWdj1WaoGv83X4EZmw8\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLlZheUt2Q2c0dnZR",
+    "snippet": {
+      "publishedAt": "2020-04-06T18:02:23.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "HARD Constructive Problem E | Google Code Jam 2020 Qual Round",
+      "description": "Hard constructive problem E from Code Jam 2020 Qual'.\n0:24 statement\n0:57 simple analysis\n2:25 what to put on diagonal?\n6:25 solution 1 (construction and cases)\n11:13 solution 2 (matchings)\n20:59 summary & bye\nround link: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27\nmy codes and slides: https://github.com/Errichto/youtube/tree/master/GCJ/2020/qual\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VayKvCg4vvQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VayKvCg4vvQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VayKvCg4vvQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VayKvCg4vvQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g5nQDOX8_8kvFlax_fNu90Y0oFs\"",
+    "id": "VVVCcl9GdTZxOWlIWVFDaDEzam1wYnJnLk1UbkZJRjJJMmd3",
+    "snippet": {
+      "publishedAt": "2020-04-06T07:00:08.000Z",
+      "channelId": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "title": "LeetCode Challenge Day 5 - Buy and Sell Stock II",
+      "description": "Given price of stock for each day, write a program to compute maximum possible profit by making multiple transactions. This is a good example of Dynamic Programming problem and for more on this topic, watch my series of DP lectures https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo.\nLeetcode holds a 30-day Challenge in April with a new coding interview problem appearing each day. I'm participating and will upload a video for each day just after the deadline at midnight PST. Participate here https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/\n\nSubscribe for more educational videos on algorithms, coding interviews and competitive programming.\n\n- Github repository: https://github.com/Errichto/youtube\n- Live streams on 2nd YT channel and on Twitch: https://www.youtube.com/errichto2 & https://www.twitch.tv/errichto\n- FB and Twitter: https://www.facebook.com/errichto & https://twitter.com/errichto\n- Frequently Asked Questions: https://github.com/Errichto/youtube/wiki/FAQ\n\n#Coding #Programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MTnFIF2I2gw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Errichto",
+      "playlistId": "UUBr_Fu6q9iHYQCh13jmpbrg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MTnFIF2I2gw"
+      }
+    }
+  }
+]

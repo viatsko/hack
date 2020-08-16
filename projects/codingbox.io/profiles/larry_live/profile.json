@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zsquXNTL7oW3jow6QL3JG74SB6c\"",
+      "id": "UCl3tJFKsFrw2p_Wxf1YDSow",
+      "snippet": {
+        "title": "Programming Live with Larry",
+        "description": "Larry was a former red Topcoder. Watch him solve,  explain, and analyze problems both as an interviewer and an interviewee.  Join him on twitch and solve problems alongside him!",
+        "customUrl": "algorithmist",
+        "publishedAt": "2019-04-18T03:00:49.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwTbVnXYe--GqIM2XpypvECXoJ2KYVQtPFPow=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwTbVnXYe--GqIM2XpypvECXoJ2KYVQtPFPow=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwTbVnXYe--GqIM2XpypvECXoJ2KYVQtPFPow=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Programming Live with Larry",
+          "description": "Larry was a former red Topcoder. Watch him solve,  explain, and analyze problems both as an interviewer and an interviewee.  Join him on twitch and solve problems alongside him!"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUl3tJFKsFrw2p_Wxf1YDSow",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUl3tJFKsFrw2p_Wxf1YDSow"
+  },
+  "displayName": "Programming Live with Larry",
+  "description": "Larry was a former red Topcoder. Watch him solve,  explain, and analyze problems both as an interviewer and an interviewee.  Join him on twitch and solve problems alongside him!",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwTbVnXYe--GqIM2XpypvECXoJ2KYVQtPFPow=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwTbVnXYe--GqIM2XpypvECXoJ2KYVQtPFPow=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwTbVnXYe--GqIM2XpypvECXoJ2KYVQtPFPow=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

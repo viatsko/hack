@@ -1,0 +1,62 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cIabdebaJyDkO8cy3qtbow44koU\"",
+      "id": "UCuA5dbeqfwHD-el2zScxhug",
+      "snippet": {
+        "title": "Denis Aksiutsik",
+        "description": "",
+        "publishedAt": "2015-12-05T10:22:50.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzkLhOv9o6_eikXfY4sH3zxqTurgIT9d7Pnvg=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzkLhOv9o6_eikXfY4sH3zxqTurgIT9d7Pnvg=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzkLhOv9o6_eikXfY4sH3zxqTurgIT9d7Pnvg=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Denis Aksiutsik",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUuA5dbeqfwHD-el2zScxhug",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUuA5dbeqfwHD-el2zScxhug"
+  },
+  "displayName": "Denis Aksiutsik",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzkLhOv9o6_eikXfY4sH3zxqTurgIT9d7Pnvg=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzkLhOv9o6_eikXfY4sH3zxqTurgIT9d7Pnvg=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzkLhOv9o6_eikXfY4sH3zxqTurgIT9d7Pnvg=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

@@ -1,0 +1,872 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/axseTFjOgqMhmIgA6vdBiPwT9Kw\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLk9xc254QmV6STRB",
+    "snippet": {
+      "publishedAt": "2019-05-21T16:59:19.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Technical Interview | Binary Tree Average Value Across Level",
+      "description": "In this coding interview, we end up going through to find the average values on each level of a binary tree.\n\nThis is a warmup question and would be considered a Leetcode easy.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OqsnxBezI4A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OqsnxBezI4A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OqsnxBezI4A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OqsnxBezI4A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OqsnxBezI4A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OqsnxBezI4A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/M0D2uAlzsApChb7W_PN25XJatsw\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLlA5QmdMUHYyTTlr",
+    "snippet": {
+      "publishedAt": "2019-05-20T17:07:47.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Technical Interview | Combination Sum with Target",
+      "description": "Coding interview. In this mock interview, we end up going through a problem to find the entire set of combinations from an array that can sum to a specific target.\n\nWe start off with not using duplicates from the array then extend to also allow for duplicate selection.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P9BgLPv2M9k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P9BgLPv2M9k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P9BgLPv2M9k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/P9BgLPv2M9k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/P9BgLPv2M9k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "P9BgLPv2M9k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5HWmtVuI_NlQ0xo9qQO6JFbqNLw\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLlJXTmN2cG83UEtF",
+    "snippet": {
+      "publishedAt": "2019-05-19T14:15:06.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Technical Interview | Vertical Traversal of a Binary Tree",
+      "description": "Coding interview. In this coding interview, I go over a vertical tree traversal question with a computer science university student.\n\nProblem:\nReturn the vertical traversal of a binary tree. The vertical traversal assigns a column depth to each node in the binary tree and then prints out the traversal going from the left-most column to the right-most column. Order within a specific column are determined by going from top to bottom in the binary tree.\n\nExample:\n\n     3 \n4       2       = [[4], [3, 2], [2], [5]]\n     2     5\n\nOne approach for solving this problem is to create a map which maps from level to the associated list for a column level and running BFS. BFS ensures we get a level by level traversal on the tree.\n\nThe solution approach taken in the video is to run DFS first and then sort the resulting map.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RWNcvpo7PKE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RWNcvpo7PKE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RWNcvpo7PKE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RWNcvpo7PKE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RWNcvpo7PKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RWNcvpo7PKE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DfsKPit0pCtee0oCJJ8xpn5sbkI\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLlVUclM3amxkMEh3",
+    "snippet": {
+      "publishedAt": "2019-04-02T03:49:02.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "python for spooky ghosts",
+      "description": "coding tech",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UTrS7jld0Hw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UTrS7jld0Hw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UTrS7jld0Hw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UTrS7jld0Hw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KuKOnjalL2EJVnPdzaSIc2Xf7eU\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLmxFdklWU3NEUURB",
+    "snippet": {
+      "publishedAt": "2019-03-31T05:54:49.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "coding before bed",
+      "description": "that feel when you do 0 work during the day",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lEvIVSsDQDA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lEvIVSsDQDA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lEvIVSsDQDA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lEvIVSsDQDA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/47oibL5-auD5nm-i1Zopag7VbPg\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLmlBUFJub0Z6YVgw",
+    "snippet": {
+      "publishedAt": "2019-02-28T20:48:48.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Technical Interview with a UAV Engineer",
+      "description": "Programming interview questions and answers. In this mock interview, we go through a warmup question to merge all of the intervals for meeting times.\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iAPRnoFzaX0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iAPRnoFzaX0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iAPRnoFzaX0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iAPRnoFzaX0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iAPRnoFzaX0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iAPRnoFzaX0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/j2CFM-5Z0wkTLH-uwC8Otd2ipZo\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLm51TTg0ZW9fOWFB",
+    "snippet": {
+      "publishedAt": "2019-02-26T19:54:45.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Technical Interview with a Boxed Engineer",
+      "description": "Programming interview questions and answers. In this mock interview, I end up interviewing a more experienced engineer working at Boxed. We go through a warmup question for merging all overlapping intervals.\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nuM84eo_9aA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nuM84eo_9aA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nuM84eo_9aA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nuM84eo_9aA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nuM84eo_9aA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nuM84eo_9aA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_d_9fKWygfepNFpN7PVRxKdm6Jg\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLkppYkNNMFpYdF9R",
+    "snippet": {
+      "publishedAt": "2019-02-25T04:04:17.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Technical Interview with a Koder Engineer Part 2",
+      "description": "Programming interview questions and answers. In this mock programming interview, I end up interviewing a software engineer from Koder. All interviews conducted on https://interviewing.io\n\nWe end up going through a binary search problem on an array to find the first and last occurrence of an element.\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JibCM0ZXt_Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JibCM0ZXt_Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JibCM0ZXt_Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JibCM0ZXt_Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JibCM0ZXt_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JibCM0ZXt_Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bRn7rKQ2AKhCqJ3Clrm0ZHnFKnI\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLmtfQWl3MTZnNXVN",
+    "snippet": {
+      "publishedAt": "2019-02-24T18:47:50.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Technical Interview with a Koder Engineer",
+      "description": "Programming interview questions and answers. In this mock programming interview, I end up interviewing a software engineer from Koder. All interviews conducted on https://interviewing.io\n\nWe end up going through a level-by-level traversal problem, which is solved using breadth-first search.\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k_Aiw16g5uM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k_Aiw16g5uM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k_Aiw16g5uM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k_Aiw16g5uM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k_Aiw16g5uM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k_Aiw16g5uM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WS9WilJHBxW5bmWQNOTCYez0ANk\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLmVNemFHczRTRmJ3",
+    "snippet": {
+      "publishedAt": "2019-02-21T20:22:23.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Technical Interview with a Weedmaps Engineer Part 2",
+      "description": "Programming interview questions and answers. In this mock interview, I end up interviewing a software engineer at Weedmaps. We go through a question to generate letter combinations for phone numbers.  All interviews conducted on https://interviewing.io\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eMzaGs4SFbw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eMzaGs4SFbw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eMzaGs4SFbw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eMzaGs4SFbw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eMzaGs4SFbw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eMzaGs4SFbw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uBV-Jrn1Dmo_aC_REXa7Pg0CtEc\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLko2bl8tZjdXWS1Z",
+    "snippet": {
+      "publishedAt": "2019-02-19T21:47:25.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Technical Interview with a Weedmaps Engineer",
+      "description": "Programming interview questions and answers. In this mock interview, I end up interviewing a software engineer at Weedmaps. We go through a small question to find the lowest common ancestor in a binary search tree.  All interviews conducted on https://interviewing.io\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J6n_-f7WY-Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J6n_-f7WY-Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J6n_-f7WY-Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J6n_-f7WY-Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J6n_-f7WY-Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "J6n_-f7WY-Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_HZRfB1fZ6bZJCg-HZmH5VEyKI0\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLmV5aUIwWFlwR1hj",
+    "snippet": {
+      "publishedAt": "2019-02-18T19:24:49.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Coding Interview | Symmetric Tree Question",
+      "description": "Programming interview questions and answers. In this mock coding interview, I'm asked to determine whether a tree is symmetric (both iterative and recursive solutions). All interviews conducted on https://interviewing.io\n\nInterview Rating:\n\nDo you want to advance this person to the next round (e.g. onsite)? \nYes\n\nTechnical Skills: 4/4\nProblem Solving Ability: 4/4\nCommunication: 4/4\n\nSelf Review:\nHow well do you think you did?\n4/4\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eyiB0XYpGXc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eyiB0XYpGXc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eyiB0XYpGXc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eyiB0XYpGXc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eyiB0XYpGXc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eyiB0XYpGXc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yDY5yWwqpRBrdK2pH5uClXjc5XI\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLnhqZ2V2OFotSGVF",
+    "snippet": {
+      "publishedAt": "2019-02-17T17:50:59.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Coding Interview | Merge K Sorted LIsts",
+      "description": "Programming interview questions and answers. In this mock coding interview, I'm given a question to merge k sorted lists. \n\nInterview Rating:\n\nDo you want to advance this person to the next round (e.g. onsite)? \nYes\n\nTechnical Skills: 4/4\nProblem Solving Ability: 4/4\nCommunication: 4/4\n\nSelf Review:\nHow well do you think you did?\n4/4\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xjgev8Z-HeE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xjgev8Z-HeE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xjgev8Z-HeE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xjgev8Z-HeE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xjgev8Z-HeE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xjgev8Z-HeE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KFy8GLd0SiQ1sok-yFl1dPMGmgk\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLjdXeEl5S2hHUGpR",
+    "snippet": {
+      "publishedAt": "2019-02-12T17:10:39.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Coding Interview | Celebrity Problem",
+      "description": "Programming interview questions and answers. In this mock interview, I'm given a problem called the \"celebrity problem\", where you have to find an individual that everyone in the group knows, but who doesn't know anyone else in the group. All interviews conducted on https://interviewing.io\n\nInterview Rating:\n\nDo you want to advance this person to the next round (e.g. onsite)? \nYes\n\nTechnical Skills: 4/4\nProblem Solving Ability: 4/4\nCommunication: 4/4\n\nSelf Review:\nHow well do you think you did?\n4/4\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7WxIyKhGPjQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7WxIyKhGPjQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7WxIyKhGPjQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7WxIyKhGPjQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7WxIyKhGPjQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7WxIyKhGPjQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XhimVLISuDcq3-DWSkkB7EaI9Xo\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLlVEOWdTcUp6Q0FV",
+    "snippet": {
+      "publishedAt": "2019-02-09T17:33:39.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Coding Interview | Max Islands DFS Question",
+      "description": "Programming interview questions and answers. In this mock coding, I get a question relating to islands and DFS. All interviews conducted on https://interviewing.io\n\nInterview Rating:\n\nDo you want to advance this person to the next round (e.g. onsite)? \nYes\n\nTechnical Skills: 4/4\nProblem Solving Ability: 4/4\nCommunication: 4/4\n\nSelf Review:\nHow well do you think you did?\n4/4\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UD9gSqJzCAU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UD9gSqJzCAU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UD9gSqJzCAU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UD9gSqJzCAU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UD9gSqJzCAU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UD9gSqJzCAU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JaKpWOYZ-N54SRTaKwJYTOeTmRQ\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLmNnbEdxN3JUdVBF",
+    "snippet": {
+      "publishedAt": "2019-02-08T19:35:49.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Coding Interview | Stack Questions",
+      "description": "Programming interview questions and answers. In this mock coding interview, I end up getting a series of stack related questions.  All interviews conducted on https://interviewing.io\n\nInterview Rating:\n\nDo you want to advance this person to the next round (e.g. onsite)? \nYes\n\nTechnical Skills: 4/4\nProblem Solving Ability: 4/4\nCommunication: 4/4\n\nSelf Review:\nHow well do you think you did?\n3/4\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cglGq7rTuPE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cglGq7rTuPE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cglGq7rTuPE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cglGq7rTuPE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cglGq7rTuPE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cglGq7rTuPE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OS3QqdjDLnB_PeobURGQXmzIrBw\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLjYzalROOU00U3Zr",
+    "snippet": {
+      "publishedAt": "2019-02-07T19:11:43.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Coding Interview | Number of Steps DP Problem",
+      "description": "Programming interview questions and answers. In this mock coding interview, I end up getting a simple dynamic programming problem (likely Leetcode easy).  All interviews conducted on https://interviewing.io\n\nInterview Rating:\n\nDo you want to advance this person to the next round (e.g. onsite)? \nYes\n\nTechnical Skills: 4/4\nProblem Solving Ability: 3/4\nCommunication: 4/4\n\nSelf Review:\nHow well do you think you did?\n4/4\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/63jTN9M4Svk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/63jTN9M4Svk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/63jTN9M4Svk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/63jTN9M4Svk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/63jTN9M4Svk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "63jTN9M4Svk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Hshy4KnqEWxpq4frYml9TFmIwG8\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLnJsd01wY3BxMTBV",
+    "snippet": {
+      "publishedAt": "2019-02-06T19:23:22.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Coding Interview | Decode Ways Leetcode",
+      "description": "Programming interview questions and answers. In this mock coding interview, I end up getting a common question from Leetcode called \"Decode Ways.\"\n\nAll interviews conducted on https://interviewing.io\n\nInterview Rating:\n\nDo you want to advance this person to the next round (e.g. onsite)? \nYes\n\nTechnical Skills: 4/4\nProblem Solving Ability: 3/4\nCommunication: 4/4\n\nSelf Review:\nHow well do you think you did?\n4/4\n\nIf you're interested in doing some mock interviews on your own, you can check out https://interviewing.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rlwMpcpq10U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rlwMpcpq10U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rlwMpcpq10U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rlwMpcpq10U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rlwMpcpq10U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rlwMpcpq10U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W2JrCsyPhK0TIZoC6AuvuErfyWE\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLjN5RzFTMUpuV0Rj",
+    "snippet": {
+      "publishedAt": "2019-02-05T19:00:46.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Coding Interview with an Engineering Student from UofT",
+      "description": "Programming interview questions and answers. In this mock coding interview, I'm doing a mock interview with my friend Rahman, who's currently studying Engineering Science at the University of Toronto (UofT).\n\nI don't say much during the video and Rahman self-directs the conversation.\n\nThere's a small bug in the code shown at the end of the video, relating to initial 0 values on the board, but that's corrected pretty quickly afterward.\n\nAs the interviewer, I'm mainly looking for bug-free code, and that's what we end up with at the end.\n\nInterview Rating:\n\nDo you want to advance this person to the next round (e.g. onsite)? Yes",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3yG1S1JnWDc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3yG1S1JnWDc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3yG1S1JnWDc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3yG1S1JnWDc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3yG1S1JnWDc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3yG1S1JnWDc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OTbjYeA9R5QxRgn_PqZLm6EVOmQ\"",
+    "id": "VVVBanNIM1VDSnJkLXhBZlVCc0ItZE9nLjVWcUVxOWFVallZ",
+    "snippet": {
+      "publishedAt": "2019-03-30T01:33:47.000Z",
+      "channelId": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "title": "Live Coding Questions",
+      "description": "random Qs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5VqEq9aUjYY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5VqEq9aUjYY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5VqEq9aUjYY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "abrar",
+      "playlistId": "UUAjsH3UCJrd-xAfUBsB-dOg",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5VqEq9aUjYY"
+      }
+    }
+  }
+]

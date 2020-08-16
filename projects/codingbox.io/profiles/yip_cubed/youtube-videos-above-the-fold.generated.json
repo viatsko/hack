@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IPm7B3CeMt4FdsvWGcduRh2Y3FU\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLnhsVnFJRXNSNk5r",
+    "snippet": {
+      "publishedAt": "2019-12-31T01:15:34.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Convert Binary Number in a Linked List to Integer - LeetCode",
+      "description": "// https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/\n// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed\n// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xlVqIEsR6Nk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xlVqIEsR6Nk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xlVqIEsR6Nk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xlVqIEsR6Nk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xlVqIEsR6Nk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xlVqIEsR6Nk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/b9008NPhhWShAUeDvG771i6urCg\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLnh3ZUZzb2FGR2t3",
+    "snippet": {
+      "publishedAt": "2019-12-31T00:43:56.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Find N Unique Integers Sum up to Zero - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed\n// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xweFsoaFGkw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xweFsoaFGkw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xweFsoaFGkw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xweFsoaFGkw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xweFsoaFGkw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xweFsoaFGkw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/04a7UpJDxezxmUI8WQOowd3yeqk\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLk1jMjYwME44cWxF",
+    "snippet": {
+      "publishedAt": "2019-12-31T00:38:30.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Replace Elements with Greatest Element on Right Side - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed\n// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mc2600N8qlE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mc2600N8qlE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mc2600N8qlE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mc2600N8qlE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Mc2600N8qlE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Mc2600N8qlE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lOHm1mNHBFJra7LlJ8_iZhFMRBs\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLk1iUF81OUJRbjlz",
+    "snippet": {
+      "publishedAt": "2019-12-23T04:06:26.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Cells with Odd Values in a Matrix - LeetCode",
+      "description": "// https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/\n\n// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed\n// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MbP_59BQn9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MbP_59BQn9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MbP_59BQn9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MbP_59BQn9s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MbP_59BQn9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MbP_59BQn9s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6bdsZPsFlL2zkocG1PtM_AJ8j9A\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLlRKZFpKWHpVbVFz",
+    "snippet": {
+      "publishedAt": "2019-12-22T22:23:46.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Play with Chips - LeetCode",
+      "description": "Should have taken 10 min, but took 1:15 because I DID NOT UNDERSTAND THE PROBLEM!\n\nLesson learned, maybe\n\n// https://leetcode.com/problems/play-with-chips/\n\n// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed\n// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos\n// -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TJdZJXzUmQs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TJdZJXzUmQs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TJdZJXzUmQs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TJdZJXzUmQs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TJdZJXzUmQs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TJdZJXzUmQs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jUqOGtHx0d-ZHBEM5FEJtR7hvHM\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLmMzbV94TVdSejFv",
+    "snippet": {
+      "publishedAt": "2019-11-28T19:08:05.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Is Subsequence - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed\n// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos\n// -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c3m_xMWRz1o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c3m_xMWRz1o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c3m_xMWRz1o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c3m_xMWRz1o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c3m_xMWRz1o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c3m_xMWRz1o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fZvmLsIswPcYCObZC-gPzpykgPg\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLjR3UV9DN085U2lr",
+    "snippet": {
+      "publishedAt": "2019-11-28T18:17:03.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Guess Number Higher or Lower - LeetCode",
+      "description": "Watch live at https://www.twitch.tv/yipcubed -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4wQ_C7O9Sik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4wQ_C7O9Sik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4wQ_C7O9Sik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4wQ_C7O9Sik/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4wQ_C7O9Sik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4wQ_C7O9Sik"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JVKXmKwHOE93Txoh8iZ2H5U5TBY\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLnRoMWhyWWZoLWZj",
+    "snippet": {
+      "publishedAt": "2019-10-05T12:22:50.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "Yu-Gi-Oh! Fluffal Combo with Frightfur Sabre-Tooth and Frightfur Tiger",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/th1hrYfh-fc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/th1hrYfh-fc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/th1hrYfh-fc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/th1hrYfh-fc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/th1hrYfh-fc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "th1hrYfh-fc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/udIRYNMJP_W0yvah6tCaSYffXEg\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLlp4ZXlFbFh3aENV",
+    "snippet": {
+      "publishedAt": "2019-09-26T02:21:14.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Valid Perfect Square - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZxeyElXwhCU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZxeyElXwhCU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZxeyElXwhCU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZxeyElXwhCU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZxeyElXwhCU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZxeyElXwhCU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tbOLJ5obyv6HOA7x8Zpt79OgKrM\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLmRfdllfdnd4MXhn",
+    "snippet": {
+      "publishedAt": "2019-09-24T15:50:00.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] First Bad Version - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed\n// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos\n// -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d_vY_vwx1xg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d_vY_vwx1xg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d_vY_vwx1xg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d_vY_vwx1xg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d_vY_vwx1xg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "d_vY_vwx1xg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aqzeXWoFNDkTzOiuSlbc_2o5oQ4\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLjBuQ2pzYWRpZjFF",
+    "snippet": {
+      "publishedAt": "2019-09-13T00:23:20.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Distance Between Bus Stops - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed\n// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0nCjsadif1E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0nCjsadif1E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0nCjsadif1E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0nCjsadif1E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0nCjsadif1E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0nCjsadif1E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Pw_EuKNX6MChpK-7fBlON8v9HuM\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLlpjRGh0Zk5abU5v",
+    "snippet": {
+      "publishedAt": "2019-08-22T23:19:56.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Goat Latin - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed\n// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZcDhtfNZmNo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZcDhtfNZmNo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZcDhtfNZmNo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZcDhtfNZmNo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZcDhtfNZmNo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZcDhtfNZmNo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0vRRRFHa_XS6UO8pgTJqbKqTCIQ\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLnhfN0FiSWxzeFFB",
+    "snippet": {
+      "publishedAt": "2019-07-31T20:45:18.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Detect Capital - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x_7AbIlsxQA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x_7AbIlsxQA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x_7AbIlsxQA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/x_7AbIlsxQA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/x_7AbIlsxQA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "x_7AbIlsxQA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_2vR4tYne0xHhY46UKRplKSkWyA\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLkdFX2FIR0wydGlF",
+    "snippet": {
+      "publishedAt": "2019-07-30T21:41:54.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Number of Segments in a String - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GE_aHGL2tiE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GE_aHGL2tiE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GE_aHGL2tiE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GE_aHGL2tiE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GE_aHGL2tiE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GE_aHGL2tiE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K12_CSPahbP6m32x2HT14k1cge4\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLmMxTVFKWTVLbkww",
+    "snippet": {
+      "publishedAt": "2019-07-30T21:02:17.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Add Strings - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c1MQJY5KnL0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c1MQJY5KnL0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c1MQJY5KnL0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c1MQJY5KnL0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c1MQJY5KnL0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c1MQJY5KnL0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Y4KJyoNZ4O4ndG-7g1d8-STAKn0\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLkdmLTlMaEJwc0tZ",
+    "snippet": {
+      "publishedAt": "2019-07-30T20:40:44.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Ransom Note - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Gf-9LhBpsKY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Gf-9LhBpsKY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Gf-9LhBpsKY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Gf-9LhBpsKY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Gf-9LhBpsKY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Gf-9LhBpsKY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9BvxY4HfgVoViVP7pJRNUCqwIGY\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLmJOSVc0XzR3ZVpz",
+    "snippet": {
+      "publishedAt": "2019-07-30T20:41:24.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Long Pressed Name - LeetCode",
+      "description": "// Live coding problems, watch at\n// https://www.twitch.tv/yipcubed -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bNIW4_4weZs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bNIW4_4weZs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bNIW4_4weZs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bNIW4_4weZs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bNIW4_4weZs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bNIW4_4weZs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EHYhZ3m3ndV-spZwSEvjk5bYG-Y\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLlRqc0hjelJDTHlr",
+    "snippet": {
+      "publishedAt": "2019-07-26T23:57:31.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Relative Sort Array -- LeetCode",
+      "description": "// Live coding problems, watch at https://www.twitch.tv/yipcubed  -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TjsHczRCLyk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TjsHczRCLyk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TjsHczRCLyk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TjsHczRCLyk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TjsHczRCLyk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TjsHczRCLyk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Et5o4gD2VzEasASE1yLibC5kHxw\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLkxJNHRIVU9rSGNn",
+    "snippet": {
+      "publishedAt": "2019-07-25T17:48:03.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] Occurrences After Bigram - LeetCode",
+      "description": "// Live coding problems, watch at https://www.twitch.tv/yipcubed -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LI4tHUOkHcg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LI4tHUOkHcg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LI4tHUOkHcg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LI4tHUOkHcg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LI4tHUOkHcg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LI4tHUOkHcg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wybwXszdbs3-XyVMp-xXEEahgiQ\"",
+    "id": "VVVUVl9VT1B1N0VXWHZZV3NCRnhNc1NBLmNUY1V1WG9BXzdv",
+    "snippet": {
+      "publishedAt": "2019-07-25T01:06:20.000Z",
+      "channelId": "UCTV_UOPu7EWXvYWsBFxMsSA",
+      "title": "[C++] N-Repeated Element in Size 2N Array - LeetCode",
+      "description": "// Live coding problems, watch at https://www.twitch.tv/yipcubed -- Watch live at https://www.twitch.tv/yipcubed",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cTcUuXoA_7o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cTcUuXoA_7o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cTcUuXoA_7o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cTcUuXoA_7o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cTcUuXoA_7o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yip Cubed",
+      "playlistId": "UUTV_UOPu7EWXvYWsBFxMsSA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cTcUuXoA_7o"
+      }
+    }
+  }
+]

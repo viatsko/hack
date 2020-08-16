@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Zwz-F1lffaZ8Kv_1mKn2auMJfr0\"",
+      "id": "UCIP244iNzbn4iEkDOgczvcQ",
+      "snippet": {
+        "title": "Cascadia JS",
+        "description": "CascadiaJS is a two-day conference on the cutting edge of JavaScript. Browser, server, OS – we cover it all. We are an inclusive, kind community that is constantly growing in the Pacific Northwest of the US.",
+        "customUrl": "cascadiajsconf",
+        "publishedAt": "2012-11-09T18:30:18.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyaoTXyDCptZ4gj4E2n1vdLymqWxCZU6tK-VA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyaoTXyDCptZ4gj4E2n1vdLymqWxCZU6tK-VA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyaoTXyDCptZ4gj4E2n1vdLymqWxCZU6tK-VA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Cascadia JS",
+          "description": "CascadiaJS is a two-day conference on the cutting edge of JavaScript. Browser, server, OS – we cover it all. We are an inclusive, kind community that is constantly growing in the Pacific Northwest of the US."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUIP244iNzbn4iEkDOgczvcQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUIP244iNzbn4iEkDOgczvcQ"
+  },
+  "displayName": "Cascadia JS",
+  "description": "CascadiaJS is a two-day conference on the cutting edge of JavaScript. Browser, server, OS – we cover it all. We are an inclusive, kind community that is constantly growing in the Pacific Northwest of the US.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyaoTXyDCptZ4gj4E2n1vdLymqWxCZU6tK-VA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyaoTXyDCptZ4gj4E2n1vdLymqWxCZU6tK-VA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyaoTXyDCptZ4gj4E2n1vdLymqWxCZU6tK-VA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

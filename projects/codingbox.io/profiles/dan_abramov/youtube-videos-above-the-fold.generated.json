@@ -1,0 +1,272 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5mS9eOsyXdNghSAAfqCq_WNEL0A\"",
+    "id": "VVVWaEVqaUNMbjJ2NE1FdDNRNFQyaWFBLlF1XzZJdG5sRFFn",
+    "snippet": {
+      "publishedAt": "2016-12-13T10:15:44.000Z",
+      "channelId": "UCVhEjiCLn2v4MEt3Q4T2iaA",
+      "title": "React Stack vs Fiber",
+      "description": "Demo comparison of Stack (current) and Fiber (experimental, likely next) implementations of React. In the demo, we update the whole tree every second to show the next number. Additionally we change a node's style on hover. A few things to note:\n\n* Components are artificially slowed down with an expensive render function. This causes jank in the Stack reconciler because it always updates everything synchronously. \n\n* Fiber reconciler animation is smooth because it splits work in chunks. So it works on a few components while idle, then works on a few other components, and so on, until the whole tree is ready. Only then it \"commits\" an update, flushing changes to the DOM.\n\n* Even though Fiber can split work in chunks, the UI is updated only when everything is ready. Partial updates can be annoying to the user in larger apps so we avoid them.\n\n* Fiber lets us specify that some updates are more important than others. The update to the whole tree is low-priority so it finishes whenever it's ready. However the hover is has a high priority because it is a user interaction and we want to avoid a lag. Therefore hovering forces the full UI update to keep it consistent. There is a little jank when we hover but it is still much more interactive than the Stack version.\n\n* Internally Fiber uses requestIdleCallback() browser API to perform low-priority computations and yield back to the browser to keep the animation smooth.\n\nLearn more about Fiber: https://www.youtube.com/watch?v=aV1271hd9ew",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qu_6ItnlDQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qu_6ItnlDQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qu_6ItnlDQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qu_6ItnlDQg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qu_6ItnlDQg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Abramov",
+      "playlistId": "UUVhEjiCLn2v4MEt3Q4T2iaA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Qu_6ItnlDQg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_rKKvk0Ddz6JfKA4qJtkzYB1LnM\"",
+    "id": "VVVWaEVqaUNMbjJ2NE1FdDNRNFQyaWFBLmdaSUJfLWtSYXpz",
+    "snippet": {
+      "publishedAt": "2016-10-25T19:14:04.000Z",
+      "channelId": "UCVhEjiCLn2v4MEt3Q4T2iaA",
+      "title": "Dan Codes",
+      "description": "Here I am, writing some codes that run on computers.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gZIB_-kRazs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gZIB_-kRazs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gZIB_-kRazs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gZIB_-kRazs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gZIB_-kRazs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Abramov",
+      "playlistId": "UUVhEjiCLn2v4MEt3Q4T2iaA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gZIB_-kRazs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TfWD36_WJ1yz43Vdgp1r2GoFfcY\"",
+    "id": "VVVWaEVqaUNMbjJ2NE1FdDNRNFQyaWFBLmt1WnpMNlZVUTZN",
+    "snippet": {
+      "publishedAt": "2016-10-25T16:33:04.000Z",
+      "channelId": "UCVhEjiCLn2v4MEt3Q4T2iaA",
+      "title": "Dan Codes",
+      "description": "Here I am, writing some codes that run on computers.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kuZzL6VUQ6M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kuZzL6VUQ6M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kuZzL6VUQ6M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kuZzL6VUQ6M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kuZzL6VUQ6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Abramov",
+      "playlistId": "UUVhEjiCLn2v4MEt3Q4T2iaA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kuZzL6VUQ6M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bvBjaHG94paQUORI9jRHBpAIu6I\"",
+    "id": "VVVWaEVqaUNMbjJ2NE1FdDNRNFQyaWFBLkt6YXlYM09CbWtz",
+    "snippet": {
+      "publishedAt": "2016-10-19T18:12:20.000Z",
+      "channelId": "UCVhEjiCLn2v4MEt3Q4T2iaA",
+      "title": "Dan Codes",
+      "description": "Here I am, writing some codes that run on computers.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KzayX3OBmks/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KzayX3OBmks/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KzayX3OBmks/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KzayX3OBmks/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KzayX3OBmks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Abramov",
+      "playlistId": "UUVhEjiCLn2v4MEt3Q4T2iaA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KzayX3OBmks"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/T5sK8P8l6cdettS4zEBCZ76alIQ\"",
+    "id": "VVVWaEVqaUNMbjJ2NE1FdDNRNFQyaWFBLllBM3o5ODJ3bWdB",
+    "snippet": {
+      "publishedAt": "2016-10-19T14:31:08.000Z",
+      "channelId": "UCVhEjiCLn2v4MEt3Q4T2iaA",
+      "title": "Dan Codes",
+      "description": "Here I am, writing some codes that run on computers.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YA3z982wmgA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YA3z982wmgA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YA3z982wmgA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YA3z982wmgA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YA3z982wmgA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Abramov",
+      "playlistId": "UUVhEjiCLn2v4MEt3Q4T2iaA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YA3z982wmgA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NchpdudcaZUT8KUl6vQJcMbT_Dc\"",
+    "id": "VVVWaEVqaUNMbjJ2NE1FdDNRNFQyaWFBLmpERXRXb3hBSWRV",
+    "snippet": {
+      "publishedAt": "2016-10-14T16:00:14.000Z",
+      "channelId": "UCVhEjiCLn2v4MEt3Q4T2iaA",
+      "title": "Dan Codes",
+      "description": "Here I am, writing some codes that run on computers.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jDEtWoxAIdU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jDEtWoxAIdU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jDEtWoxAIdU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jDEtWoxAIdU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jDEtWoxAIdU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Abramov",
+      "playlistId": "UUVhEjiCLn2v4MEt3Q4T2iaA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jDEtWoxAIdU"
+      }
+    }
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/McINwj75InAu6ZGYzCZ714DZ4Ns\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLkw3TWlFMXpPNVBJ",
+    "snippet": {
+      "publishedAt": "2020-04-21T17:28:50.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "What is Wolfram Language? (Stephen Wolfram) | AI Podcast Clips",
+      "description": "Full episode with Stephen Wolfram (Apr 2020): https://www.youtube.com/watch?v=ez773teNFYA\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nStephen Wolfram is a computer scientist, mathematician, and theoretical physicist who is the founder and CEO of Wolfram Research, a company behind Mathematica, Wolfram Alpha, Wolfram Language, and the new Wolfram Physics project. He is the author of several books including A New Kind of Science, which on a personal note was one of the most influential books in my journey in computer science and artificial intelligence.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L7MiE1zO5PI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L7MiE1zO5PI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L7MiE1zO5PI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L7MiE1zO5PI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L7MiE1zO5PI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "L7MiE1zO5PI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K0-WVFHUNQNS6OcPhfQB6qqQHUI\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLlZndUdfeTA1WGU4",
+    "snippet": {
+      "publishedAt": "2020-04-20T00:56:06.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Cellular Automata and Rule 30 (Stephen Wolfram) | AI Podcast Clips",
+      "description": "Full episode with Stephen Wolfram (Apr 2020): https://www.youtube.com/watch?v=ez773teNFYA\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nStephen Wolfram is a computer scientist, mathematician, and theoretical physicist who is the founder and CEO of Wolfram Research, a company behind Mathematica, Wolfram Alpha, Wolfram Language, and the new Wolfram Physics project. He is the author of several books including A New Kind of Science, which on a personal note was one of the most influential books in my journey in computer science and artificial intelligence.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VguG_y05Xe8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VguG_y05Xe8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VguG_y05Xe8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VguG_y05Xe8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VguG_y05Xe8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VguG_y05Xe8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-bjLcmbO8mmAmNXBSLXFp4hkBrA\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLlYzN2VXVm0tOUJB",
+    "snippet": {
+      "publishedAt": "2020-04-20T18:30:11.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Richard Feynman on Computation (Stephen Wolfram) | AI Podcast Clips",
+      "description": "Full episode with Stephen Wolfram (Apr 2020): https://www.youtube.com/watch?v=ez773teNFYA\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nStephen Wolfram is a computer scientist, mathematician, and theoretical physicist who is the founder and CEO of Wolfram Research, a company behind Mathematica, Wolfram Alpha, Wolfram Language, and the new Wolfram Physics project. He is the author of several books including A New Kind of Science, which on a personal note was one of the most influential books in my journey in computer science and artificial intelligence.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V37eWVm-9BA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V37eWVm-9BA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V37eWVm-9BA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/V37eWVm-9BA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/V37eWVm-9BA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "V37eWVm-9BA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3G6bWeWCALOCRhNViIWotiim0yI\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLlZQYUJSalNycTJB",
+    "snippet": {
+      "publishedAt": "2020-04-20T12:57:24.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Toward a Fundamental Theory of Physics (Stephen Wolfram) | AI Podcast Clips",
+      "description": "Full episode with Stephen Wolfram (Apr 2020): https://www.youtube.com/watch?v=ez773teNFYA\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nStephen Wolfram is a computer scientist, mathematician, and theoretical physicist who is the founder and CEO of Wolfram Research, a company behind Mathematica, Wolfram Alpha, Wolfram Language, and the new Wolfram Physics project. He is the author of several books including A New Kind of Science, which on a personal note was one of the most influential books in my journey in computer science and artificial intelligence.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VPaBRjSrq2A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VPaBRjSrq2A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VPaBRjSrq2A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VPaBRjSrq2A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VPaBRjSrq2A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VPaBRjSrq2A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7ldJIpcVu0W0lPFeye79KQbD68Y\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLmV6NzczdGVORllB",
+    "snippet": {
+      "publishedAt": "2020-04-18T18:28:11.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Stephen Wolfram: Cellular Automata, Computation, and Physics | AI Podcast #89 with Lex Fridman",
+      "description": "Stephen Wolfram is a computer scientist, mathematician, and theoretical physicist who is the founder and CEO of Wolfram Research, a company behind Mathematica, Wolfram Alpha, Wolfram Language, and the new Wolfram Physics project. He is the author of several books including A New Kind of Science, which on a personal note was one of the most influential books in my journey in computer science and artificial intelligence. This conversation is part of the Artificial Intelligence podcast.\n\nSupport this podcast by signing up with these sponsors:\n- ExpressVPN at https://www.expressvpn.com/lexpod\n- Cash App - use code \"LexPodcast\" and download:\n- Cash App (App Store): https://apple.co/2sPrUHe\n- Cash App (Google Play): https://bit.ly/2MlvP5w\n\nEPISODE LINKS:\nStephen's Twitter: https://twitter.com/stephen_wolfram\nStephen's Website: https://www.stephenwolfram.com/\nWolfram Research Twitter: https://twitter.com/WolframResearch\nWolfram Research YouTube: https://www.youtube.com/user/WolframResearch\nWolfram Research Website: https://www.wolfram.com/\nWolfram Alpha: https://www.wolframalpha.com/\nA New Kind of Science (book): https://amzn.to/34JruB2\n\nINFO:\nPodcast website:\nhttps://lexfridman.com/ai\nApple Podcasts:\nhttps://apple.co/2lwqZIr\nSpotify:\nhttps://spoti.fi/2nEwCF8\nRSS:\nhttps://lexfridman.com/category/ai/feed/\nFull episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\nClips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nOUTLINE:\n0:00 - Introduction\n4:16 - Communicating with an alien intelligence\n12:11 - Monolith in 2001: A Space Odyssey\n29:06 - What is computation?\n44:54 - Physics emerging from computation\n1:14:10 - Simulation\n1:19:23 - Fundamental theory of physics\n1:28:01 - Richard Feynman\n1:39:57 - Role of ego in science\n1:47:21 - Cellular automata\n2:15:08 - Wolfram language\n2:55:14 - What is intelligence?\n2:57:47 - Consciousness\n3:02:36 - Mortality\n3:05:47 - Meaning of life\n\nCONNECT:\n- Subscribe to this YouTube channel\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ez773teNFYA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ez773teNFYA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ez773teNFYA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ez773teNFYA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ez773teNFYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ez773teNFYA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/i8CGCaw7mS_kLtssa5b1_AMiEPA\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLkNkaUpHRE5RQW84",
+    "snippet": {
+      "publishedAt": "2020-04-15T14:00:41.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "I'm Most Proud of Trying - Eric Weinstein | AI Podcast Clips",
+      "description": "Full episode with Eric Weinstein (Apr 2020): https://www.youtube.com/watch?v=rIAZJNe7YtE\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nEric Weinstein is a mathematician with a bold and piercing intelligence, unafraid to explore the biggest questions in the universe and shine a light on the darkest corners of our society. He is the host of The Portal podcast, a part of which, he recently released his 2013 Oxford lecture on his theory of Geometric Unity that is at the center of his lifelong efforts in arriving at a theory of everything that unifies the fundamental laws of physics.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CdiJGDNQAo8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CdiJGDNQAo8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CdiJGDNQAo8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CdiJGDNQAo8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CdiJGDNQAo8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CdiJGDNQAo8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-TgaSIAUBU2XziiEfc4KV33wLB8\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLmZnR1pNUkoxNW9Z",
+    "snippet": {
+      "publishedAt": "2020-04-17T15:58:07.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Eric Weinstein's Harvard Story - The System Breaks Down in Novel Situations | AI Podcast Clips",
+      "description": "Full episode with Eric Weinstein (Apr 2020): https://www.youtube.com/watch?v=rIAZJNe7YtE\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nEric Weinstein is a mathematician with a bold and piercing intelligence, unafraid to explore the biggest questions in the universe and shine a light on the darkest corners of our society. He is the host of The Portal podcast, a part of which, he recently released his 2013 Oxford lecture on his theory of Geometric Unity that is at the center of his lifelong efforts in arriving at a theory of everything that unifies the fundamental laws of physics.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fgGZMRJ15oY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fgGZMRJ15oY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fgGZMRJ15oY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fgGZMRJ15oY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fgGZMRJ15oY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fgGZMRJ15oY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aCTDGwZ5coe5NAKdU3lisldfIOo\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLlpLNXI5T1o3M1hn",
+    "snippet": {
+      "publishedAt": "2020-04-15T00:25:16.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Take Back MIT (Eric Weinstein) | AI Podcast Clips",
+      "description": "Full episode with Eric Weinstein (Apr 2020): https://www.youtube.com/watch?v=rIAZJNe7YtE\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nEric Weinstein is a mathematician with a bold and piercing intelligence, unafraid to explore the biggest questions in the universe and shine a light on the darkest corners of our society. He is the host of The Portal podcast, a part of which, he recently released his 2013 Oxford lecture on his theory of Geometric Unity that is at the center of his lifelong efforts in arriving at a theory of everything that unifies the fundamental laws of physics.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZK5r9OZ73Xg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZK5r9OZ73Xg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZK5r9OZ73Xg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZK5r9OZ73Xg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZK5r9OZ73Xg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZK5r9OZ73Xg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mkM-iZEu4Pf0qgNqJ9MrTZvzjQM\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLl8ySVNubFQ3ajlB",
+    "snippet": {
+      "publishedAt": "2020-04-16T14:00:35.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Elon Musk Makes Sense to Me (Eric Weinstein) | AI Podcast Clips",
+      "description": "Full episode with Eric Weinstein (Apr 2020): https://www.youtube.com/watch?v=rIAZJNe7YtE\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nEric Weinstein is a mathematician with a bold and piercing intelligence, unafraid to explore the biggest questions in the universe and shine a light on the darkest corners of our society. He is the host of The Portal podcast, a part of which, he recently released his 2013 Oxford lecture on his theory of Geometric Unity that is at the center of his lifelong efforts in arriving at a theory of everything that unifies the fundamental laws of physics.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_2ISnlT7j9A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_2ISnlT7j9A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_2ISnlT7j9A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_2ISnlT7j9A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_2ISnlT7j9A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_2ISnlT7j9A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/S2ydi4DIx1_rfizEwIZ2-PeFlpA\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLnZkVzlYREJ1eGpV",
+    "snippet": {
+      "publishedAt": "2020-04-15T20:00:11.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Geometric Unity - A Theory of Everything (Eric Weinstein) | AI Podcast Clips",
+      "description": "Full episode with Eric Weinstein (Apr 2020): https://www.youtube.com/watch?v=rIAZJNe7YtE\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nEric Weinstein is a mathematician with a bold and piercing intelligence, unafraid to explore the biggest questions in the universe and shine a light on the darkest corners of our society. He is the host of The Portal podcast, a part of which, he recently released his 2013 Oxford lecture on his theory of Geometric Unity that is at the center of his lifelong efforts in arriving at a theory of everything that unifies the fundamental laws of physics.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vdW9XDBuxjU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vdW9XDBuxjU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vdW9XDBuxjU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vdW9XDBuxjU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vdW9XDBuxjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vdW9XDBuxjU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/a-maar1IbgMpsAF0_k4wvYKKCpo\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLnJJQVpKTmU3WXRF",
+    "snippet": {
+      "publishedAt": "2020-04-13T20:51:35.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Eric Weinstein: Geometric Unity and the Call for New Ideas, Leaders & Institutions | AI Podcast #88",
+      "description": "Eric Weinstein is a mathematician with a bold and piercing intelligence, unafraid to explore the biggest questions in the universe and shine a light on the darkest corners of our society. He is the host of The Portal podcast, a part of which, he recently released his 2013 Oxford lecture on his theory of Geometric Unity that is at the center of his lifelong efforts in arriving at a theory of everything that unifies the fundamental laws of physics. This conversation is part of the Artificial Intelligence podcast.\n\nSupport this podcast by signing up with these sponsors:\n- Cash App - use code \"LexPodcast\" and download:\n- Cash App (App Store): https://apple.co/2sPrUHe\n- Cash App (Google Play): https://bit.ly/2MlvP5w\n\nEPISODE LINKS:\nEric's Twitter: https://twitter.com/EricRWeinstein\nEric's YouTube: https://www.youtube.com/ericweinsteinphd\nThe Portal podcast: https://podcasts.apple.com/us/podcast/the-portal/id1469999563\nGraph, Wall, Tome wiki: https://theportal.wiki/wiki/Graph,_Wall,_Tome\n\nINFO:\nPodcast website:\nhttps://lexfridman.com/ai\nApple Podcasts:\nhttps://apple.co/2lwqZIr\nSpotify:\nhttps://spoti.fi/2nEwCF8\nRSS:\nhttps://lexfridman.com/category/ai/feed/\nFull episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\nClips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nOUTLINE:\n0:00 - Introduction\n2:08 - World War II and the Coronavirus Pandemic\n14:03 - New leaders\n31:18 - Hope for our time\n34:23 - WHO\n44:19 - Geometric unity\n1:38:55 - We need to get off this planet\n1:40:47 - Elon Musk\n1:46:58 - Take Back MIT\n2:15:31 - The time at Harvard\n2:37:01 - The Portal\n2:42:58 - Legacy\n\nCONNECT:\n- Subscribe to this YouTube channel\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rIAZJNe7YtE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rIAZJNe7YtE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rIAZJNe7YtE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rIAZJNe7YtE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rIAZJNe7YtE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rIAZJNe7YtE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/z1fsylkigF3CH0MO8iuhPLWvS2o\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLnZBTmZ3bTQ1MGRF",
+    "snippet": {
+      "publishedAt": "2020-04-12T13:42:45.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Richard Dawkins: Meaning of Life | AI Podcast Clips",
+      "description": "Full episode with Richard Dawkins (Apr 2020): https://www.youtube.com/watch?v=5f-JlzBuUUU\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nRichard Dawkins is an evolutionary biologist, and author of The Selfish Gene, The Blind Watchmaker, The God Delusion, The Magic of Reality, The Greatest Show on Earth, and his latest Outgrowing God. He is the originator and popularizer of a lot of fascinating ideas in evolutionary biology and science in general, including funny enough the introduction of the word meme in his 1976 book The Selfish Gene, which in the context of a gene-centered view of evolution is an exceptionally powerful idea. He is outspoken, bold, and often fearless in his defense of science and reason, and in this way, is one of the most influential thinkers of our time.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vANfwm450dE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vANfwm450dE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vANfwm450dE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vANfwm450dE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vANfwm450dE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vANfwm450dE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/d4xtW3PD4gx_XpdEZ7Vl2sJz8RE\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLnprdWRSeThiOEpZ",
+    "snippet": {
+      "publishedAt": "2020-04-10T17:31:42.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Richard Dawkins: The Programmer of the Simulation Came About Through Evolution | AI Podcast Clips",
+      "description": "Full episode with Richard Dawkins (Apr 2020): https://www.youtube.com/watch?v=5f-JlzBuUUU\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nRichard Dawkins is an evolutionary biologist, and author of The Selfish Gene, The Blind Watchmaker, The God Delusion, The Magic of Reality, The Greatest Show on Earth, and his latest Outgrowing God. He is the originator and popularizer of a lot of fascinating ideas in evolutionary biology and science in general, including funny enough the introduction of the word meme in his 1976 book The Selfish Gene, which in the context of a gene-centered view of evolution is an exceptionally powerful idea. He is outspoken, bold, and often fearless in his defense of science and reason, and in this way, is one of the most influential thinkers of our time.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zkudRy8b8JY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zkudRy8b8JY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zkudRy8b8JY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zkudRy8b8JY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zkudRy8b8JY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zkudRy8b8JY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/291mIxdrZYuB_U2TzM8OhQntUPY\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLlhwbEZNRHg5TGxB",
+    "snippet": {
+      "publishedAt": "2020-04-11T12:36:08.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Richard Dawkins: Memes | AI Podcast Clips",
+      "description": "Full episode with Richard Dawkins (Apr 2020): https://www.youtube.com/watch?v=5f-JlzBuUUU\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nRichard Dawkins is an evolutionary biologist, and author of The Selfish Gene, The Blind Watchmaker, The God Delusion, The Magic of Reality, The Greatest Show on Earth, and his latest Outgrowing God. He is the originator and popularizer of a lot of fascinating ideas in evolutionary biology and science in general, including funny enough the introduction of the word meme in his 1976 book The Selfish Gene, which in the context of a gene-centered view of evolution is an exceptionally powerful idea. He is outspoken, bold, and often fearless in his defense of science and reason, and in this way, is one of the most influential thinkers of our time.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XplFMDx9LlA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XplFMDx9LlA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XplFMDx9LlA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XplFMDx9LlA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XplFMDx9LlA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XplFMDx9LlA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/B40V19O9YMX2QZaU5HI_m8lYi-Q\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLjVmLUpsekJ1VVVV",
+    "snippet": {
+      "publishedAt": "2020-04-09T22:42:29.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Richard Dawkins: Evolution, Intelligence, Simulation, and Memes | AI Podcast #87 with Lex Fridman",
+      "description": "Richard Dawkins is an evolutionary biologist, and author of The Selfish Gene, The Blind Watchmaker, The God Delusion, The Magic of Reality, The Greatest Show on Earth, and his latest Outgrowing God. He is the originator and popularizer of a lot of fascinating ideas in evolutionary biology and science in general, including funny enough the introduction of the word meme in his 1976 book The Selfish Gene, which in the context of a gene-centered view of evolution is an exceptionally powerful idea. He is outspoken, bold, and often fearless in his defense of science and reason, and in this way, is one of the most influential thinkers of our time. This conversation is part of the Artificial Intelligence podcast.\n\nPS: There is some occasional noise in the audio, which I tried to clean up in the edit.\n\nSupport this podcast by signing up with these sponsors:\n- Cash App - use code \"LexPodcast\" and download:\n- Cash App (App Store): https://apple.co/2sPrUHe\n- Cash App (Google Play): https://bit.ly/2MlvP5w\n\nEPISODE LINKS:\nRichard's Website: https://www.richarddawkins.net/\nRichard's Twitter: https://twitter.com/RichardDawkins\nRichard's Books:\n- Selfish Gene: https://amzn.to/34tpHQy\n- The Magic of Reality: https://amzn.to/3c0aqZQ\n- The Blind Watchmaker: https://amzn.to/2RqV5tH\n- The God Delusion: https://amzn.to/2JPrxlc\n- Outgrowing God: https://amzn.to/3ebFess\n- The Greatest Show on Earth: https://amzn.to/2Rp2j1h\n\nINFO:\nPodcast website:\nhttps://lexfridman.com/ai\nApple Podcasts:\nhttps://apple.co/2lwqZIr\nSpotify:\nhttps://spoti.fi/2nEwCF8\nRSS:\nhttps://lexfridman.com/category/ai/feed/\nFull episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\nClips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nOUTLINE:\n0:00 - Introduction\n2:31 - Intelligent life in the universe\n5:03 - Engineering intelligence (are there shortcuts?)\n7:06 - Is the evolutionary process efficient?\n10:39 - Human brain and AGI\n15:31 - Memes\n26:37 - Does society need religion?\n33:10 - Conspiracy theories\n39:10 - Where do morals come from in humans?\n46:10 - AI began with the ancient wish to forge the gods\n49:18 - Simulation\n56:58 - Books that influenced you\n1:02:53 - Meaning of life\n\nCONNECT:\n- Subscribe to this YouTube channel\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5f-JlzBuUUU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5f-JlzBuUUU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5f-JlzBuUUU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5f-JlzBuUUU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5f-JlzBuUUU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5f-JlzBuUUU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wWgHJeF-Ie9Q8pPvtfTzVZ8PNyU\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLlVmTXlwMXdGZ3hF",
+    "snippet": {
+      "publishedAt": "2020-04-06T10:28:15.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "The Way Out is Love",
+      "description": "I wrote this song yesterday, thinking about the time we're in, about my grandfather in WWII, about the strength of community and the human spirit in tough times. Here are the lyrics:\n\nthe way out is love\n\nmy granddad was a soldier\non the fronts in 41\nthe bullets took his brothers\nbut his stubborn luck held on\n\nthe sky was filled with fire\nmillions lost in flames\nhate and love were all there\nand the world's never the same\n\n some days will sink in sadness\n and the weight of them too tough\n don't lose yourself to madness\n the way out is love\n\nwhen the new york towers crumbled\nwe were all new yorkers too\nfor a moment all just human\nnot the same old red or blue\n\nand the wicked'll go on scheming\nfor the power in the pain\nbut the heart that longs for freedom\nis a fire they'll never tame\n\n some days will sink in sadness\n and the weight of them too tough\n don't lose yourself to madness\n the way out is love\n\nthe virus took our comfort\nthat was never  ours to own\nwhen the enemy is inside us\nwe're together but alone\n\nthis life is so damn fragile\na leaf caught by the wind\nbut every breath that's tragic\nignites a hope within\n\n some days will sink in sadness\n and the weight of them too tough\n don't lose yourself to madness\n the way out is love",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UfMyp1wFgxE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UfMyp1wFgxE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UfMyp1wFgxE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UfMyp1wFgxE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UfMyp1wFgxE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UfMyp1wFgxE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HzU7DwbtZEydLhBOfA0cnPfidfE\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLkJBMkJPVDNBNzB3",
+    "snippet": {
+      "publishedAt": "2020-04-05T15:28:33.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "How is Coronavirus Transmitted and Do Masks Work?",
+      "description": "A video discussing latest research on masks (cloth, surgical, N95) and how they help in various transmission modes (aerosol, droplet) for source control and as PPE.\n\nSlides for this video: https://bit.ly/2yCj5U3\nReferences sheet: https://bit.ly/covid-transmission\n\nOUTLINE:\n0:00 - Overview\n3:05 - Modes of transmission\n11:03 - Do masks work?\n14:42 - Takeaways\n\nKEY CITATIONS:\n\n[19] https://www.nature.com/articles/s41591-020-0843-2\nRespiratory virus shedding in exhaled breath and efficacy of face masks\n\n[21] https://bit.ly/3aMTkyr\nTesting the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?\n\nCONNECT:\n- Subscribe to this YouTube channel\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BA2BOT3A70w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BA2BOT3A70w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BA2BOT3A70w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BA2BOT3A70w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BA2BOT3A70w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BA2BOT3A70w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pv_tQhv0gm0-NOi7uYke8sVUFxY\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLmU3N05rU2pueUg0",
+    "snippet": {
+      "publishedAt": "2020-04-04T23:20:01.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips",
+      "description": "Full episode with David Silver (Apr 2020): https://www.youtube.com/watch?v=uPUEq8d73JI\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nDavid Silver leads the reinforcement learning research group at DeepMind and was lead researcher on AlphaGo, AlphaZero and co-lead on AlphaStar, and MuZero and lot of important work in reinforcement learning.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e77NkSjnyH4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e77NkSjnyH4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e77NkSjnyH4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/e77NkSjnyH4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/e77NkSjnyH4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "e77NkSjnyH4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dysg6aMJy780wJKNdzWj-f4Bmks\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLmhYZ3FpazZIWGMw",
+    "snippet": {
+      "publishedAt": "2020-04-04T15:56:28.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Consciousness is Not a Computation (Roger Penrose) | AI Podcast Clips",
+      "description": "Full episode with Roger Penrose (Mar 2020): https://www.youtube.com/watch?v=orMtwOz6Db0\nClips channel (Lex Clips): https://www.youtube.com/lexclips\nMain channel (Lex Fridman): https://www.youtube.com/lexfridman\n(more links below)\n\nPodcast full episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\n\nPodcasts clips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nPodcast website:\nhttps://lexfridman.com/ai\n\nPodcast on Apple Podcasts (iTunes):\nhttps://apple.co/2lwqZIr\n\nPodcast on Spotify:\nhttps://spoti.fi/2nEwCF8\n\nPodcast RSS:\nhttps://lexfridman.com/category/ai/feed/\n\nRoger Penrose is physicist, mathematician, and philosopher at University of Oxford. He has made fundamental contributions in many disciplines from the mathematical physics of general relativity and cosmology to the limitations of a computational view of consciousness.\n\nSubscribe to this YouTube channel or connect on:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hXgqik6HXc0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hXgqik6HXc0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hXgqik6HXc0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hXgqik6HXc0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hXgqik6HXc0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hXgqik6HXc0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/b-2_vC1XUMIC4tGH9AbCDpa7cmI\"",
+    "id": "VVVTSFpLeWF3Yjc3aXhEZHNHb2c0aVdBLm9kMm1YbTZaSkV3",
+    "snippet": {
+      "publishedAt": "2020-04-03T00:43:24.000Z",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Forever oscillate between dissatisfaction and gratitude",
+      "description": "This is a clip from a full talk titled \"Escaping the Local Optimum of Low Expectation\": https://www.youtube.com/watch?v=5qjA8HPJl_0",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/od2mXm6ZJEw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/od2mXm6ZJEw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/od2mXm6ZJEw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/od2mXm6ZJEw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/od2mXm6ZJEw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lex Fridman",
+      "playlistId": "UUSHZKyawb77ixDdsGog4iWA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "od2mXm6ZJEw"
+      }
+    }
+  }
+]

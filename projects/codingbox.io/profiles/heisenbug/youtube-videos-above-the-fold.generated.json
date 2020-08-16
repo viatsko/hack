@@ -1,0 +1,852 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GO3Y0M21o7x_AqjNzprVENRzAOM\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LlJfa19keUJHU2lZ",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:10:19.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Павел Щедухин — Автоматизация тестирования аналитики мобильного приложения",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nПавел расскажет про то, как его команда пришла к необходимости автоматизации тестирования аналитики мобильного приложения OZON. Как это сделать, сколько времени заняло. Вы услышите про использование сниффера в автоматизации и тестирование с доступом к базе.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R_k_dyBGSiY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R_k_dyBGSiY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R_k_dyBGSiY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R_k_dyBGSiY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R_k_dyBGSiY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "R_k_dyBGSiY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/swxDPGAvwT7nzWFqnNcCxhzS2qY\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LkowRzEya3NOM0ZB",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:10:01.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Николай Козлов — Реальная оптимизация изображений мобильных приложений",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nВ этом докладе Николай расскажет об опыте Badoo по оптимизации загрузки изображений мобильных приложений, о важности четкого понимания чего ждут от команды и причем тут вообще тестировщики. Также в докладе будет информация о подготовке мобильного тестового стенда и о том, как менять стенд под меняющиеся условия тестирования.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J0G12ksN3FA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J0G12ksN3FA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J0G12ksN3FA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J0G12ksN3FA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J0G12ksN3FA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "J0G12ksN3FA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vMQgCdy8VvI6mxdCqxGW9IzJXto\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LjRNWmZ0VVdNMFM4",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:09:44.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Виталий Фридман — Designing and building with privacy in mind",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nДоклад Виталия будет посвящен UX-паттернам, методикам, стратегиям и важным решениям, которым стоит уделить внимание при проектировании и разработке сайтов и приложений с учетом требований конфиденциальности. Из доклада вы вынесете набор полезных методик, антипримеров и пару советов, как сделать сайт/приложение, отвечающее требованиям GDPR и соблюдающее право пользователя на частную жизнь.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4MZftUWM0S8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4MZftUWM0S8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4MZftUWM0S8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4MZftUWM0S8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4MZftUWM0S8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4MZftUWM0S8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HxtZvHzFzO9NdDtRNYGTFfXt-1M\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LlVtRUFqMHUwRHNj",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:09:26.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Артем Ерошенко — Визуализация покрытия автотестов",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nСовременные способы измерения покрытия хороши только для разработки. При этом количество полезной информации из отчетов покрытия крайне мало. С одной стороны, есть все строчки кода, которые не были задействованы в ходе выполнения тестов. С другой стороны, единственная важная информация — это процент покрытия. При этом интересно не абсолютное значение, а дельта с предыдущим. Артем представит несколько простых решений, которые позволяют оценивать покрытие тестов, написанных автоматизаторами тестирования.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UmEAj0u0Dsc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UmEAj0u0Dsc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UmEAj0u0Dsc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UmEAj0u0Dsc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UmEAj0u0Dsc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UmEAj0u0Dsc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fSixdomfLhwlFxz95_if9lwJlTE\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LmFoQWotcW9Cdl9n",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:09:09.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Алексей Тюрин — Решаем проблемы Espresso автотестов Android в реальном мире",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nЧасто проекты, которые уже набрали ход и имеют большую кодовую базу, приходят к тому, что нужно писать автотесты. В том числе и UI-автотесты. В такой ситуации у вас нет возможности значительно переделать архитектуру проекта под тесты. В итоге создаваемые тесты становятся не стабильными и больше отвлекают команду развития продукта, чем помогают ей.\n\nВ своем докладе Алексей рассажет:\n\n- как снизить порог вхождения в тесты участников проекта;\n- как выстроить понятную и простую архитектуру UI-автотестов;\n- как сделать тесты стабильными не изменяя архитектуру приложения, и как бороться с возникающими flaky-тестами;\n- как внедрить решение в CI и построить систему отчетов, понятную всем заинтересованным участникам.\n\nВсе решения будут показаны на примере конкретного демо-приложения. Это приложение будет размещено на GitHub в открытом доступе.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ahAj-qoBv_g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ahAj-qoBv_g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ahAj-qoBv_g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ahAj-qoBv_g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ahAj-qoBv_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ahAj-qoBv_g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ppm4gPIl1-ynh9GSS3w8SY3IzWQ\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3Lms4cmZwNjMzdXhz",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:08:54.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Adrián Bolonio — Testing Web Accessibility",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nWhen we develop a new web application, we often put a lot of work on the design, on making it beautiful and usable. In other words, we want our web app to be effective, efficient and satisfying for the user. But a lot of times we don’t think about the user experience for people with disabilities, including people with age-related impairments.\n\nFor the web, accessibility (a11y) means that people with disabilities can perceive, understand, navigate and interact with websites and tools and that they can contribute equally without barriers. Our role as frontend and web developers is to create clear interfaces to make people understand and care about data, independently of their disabilities or impairments, but what we, developers, often forget is to ensure that the code we write follows the Web Content Accessibility Guidelines (WCAG), and the only way to achieve that is testing, either manual or automated.\n\nAutomated web a11y tests can free up our QA team from manual testing every part of our application but they can’t automatically and magically make our site accessible.\n\nWe should use automated a11y tests as one step of a larger testing process. Don’t forget that only 20% to 50% of all accessibility issues can automatically be detected.\n\nAdrián will show you some testing tools, libraries and techniques to increase the a11y test coverage of your code with a simple React application example.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k8rfp633uxs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k8rfp633uxs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k8rfp633uxs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k8rfp633uxs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k8rfp633uxs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k8rfp633uxs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JxmouW-g5MRdduIX_t1vRLly110\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LmRaNWxyNjVhYXZj",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:08:37.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Adam Carmi — AI and Testing  Tips from the trenches",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nAI is changing our world. It is being employed in all types of applications and increasingly impacts the way we build and test software. However, although machine learning has been around for decades, very little real-world experience is publicly available on how to test AI based systems.\n\nIn this talk, Adam will share practical AI testing tips from our years of experience building an AI-powered service at Applitools. We will cover common approaches to implementing AI: from hand-coded algorithms to classic machine learning and deep learning, and review their applicability to solving different types of problems and the challenges involved. Speaker will share practical tips for testing AI-based features including how to determine if accuracy is a sufficient quality measure for a statistical model, how to avoid degrading the overall quality of a system when improving the accuracy of a specific model, why and how to \"canary test\" your candidate models in production, and many others. Lastly, we'll explore areas where you can easily utilize AI to reduce your automated test maintenance overhead.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dZ5lr65aavc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dZ5lr65aavc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dZ5lr65aavc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dZ5lr65aavc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dZ5lr65aavc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dZ5lr65aavc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W04TtLQc5QfKy4KcxdGK7H6Teu4\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LlRvUEJ5UWJUZnpV",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:05:23.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Александр Воробей — Автоматизация микрофронтендов, или Как в Тинькофф тестируют библиотеки",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nВ докладе пойдет речь об автоматизации тестирования библиотеки компонентов. На примере библиотеки, разрабатываемой в Тинькофф, будет рассмотрен полный процесс от начала автоматизации до настоящего времени. \n\nБудет рассказано:\n\n- какие инструменты были использованы и какие критерии были важны для выбора инструмента;\n- с какими проблемами столкнулись и как их решили;\n- мысли о том, как бы действовали, если бы могли начать все сначала или на какие грабли можно было бы не наступать.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ToPByQbTfzU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ToPByQbTfzU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ToPByQbTfzU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ToPByQbTfzU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ToPByQbTfzU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ToPByQbTfzU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AcTVFtsCRV7Z6tT1WwI3KVjfky4\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LnNWUzkwYjJJazFN",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:05:40.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Sebastian Daschner — Make testing Enterprise Java more joyful",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nTesting is still a topic that most developers would like to avoid. Even though it is crucial for working software, developing and maintaining tests takes certain time and effort — especially for distributed applications or when changes in existing functionality forces test scenarios to adapt. Omitting software tests can’t be the solution; therefore, how can we tackle enterprise tests effectively and productively?\n\nOne of the key aspects will be how to write maintainable test code with high quality that embraces principles of software craftsmanship. All of the time will be spent live-coding typical test cases with different scopes using different technologies. While Sebastian will be focusing on Jakarta EE, the concepts and approaches hold true for all enterprise Java projects.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sVS90b2Ik1M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sVS90b2Ik1M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sVS90b2Ik1M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sVS90b2Ik1M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/j6tHmcI62Vq1t4U9E20X4aqpu7s\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LjB4NFNpWWtaVE9F",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:05:07.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Noemi Ferrera — Deep into virtual reality testing",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nAs VR applications are growing in popularity and users, we need to find ways of testing them faster and more accurately.\n\nIn this talk, Noemi will present specific ways of testing VR apps in Unity using Unity's test runner (for unit/integration tests) and Unity's profiler tool (for performance tests). The audience should have some basic knowledge about testing and test types and some exposure to coding. Exposure to VR or Unity/C# is desirable but not mandatory.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0x4SiYkZTOE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0x4SiYkZTOE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0x4SiYkZTOE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0x4SiYkZTOE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0x4SiYkZTOE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0x4SiYkZTOE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aExXxd0cbVlJOVdmGnMeoFp9yx4\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LkZDcVBfbk9VcHA0",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:05:58.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Сергей Мохин — Современный подход к тестированию локализации на iOS",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nСергей хочет рассказать про то, как с новыми фичами Xcode мы относительно быстро проверяем, как выглядит мультиязычное (10+ языков) iOS-приложение на всех языках и на всех типах экранов iPhone.\n\nВы узнаете, какие были проблемы и как XCTestPlan уменьшил время на тестирование локализации и тестирование верстки приложения. Спикер покажет наглядно простенький тест на двух-трех языках и двух-трех экранах. А также расскажет чего не хватает XCTestPlan.\n\nСуть доклада Сергея в том, что если у вас есть написанный на Swift UI-тест, который пробегает все экраны, то вам можно с минимумом усилий получить скриншоты всех экранов для всех поддерживаемых языков на экранах нескольких размеров (iPhone SE, XS Max и пр.). Решение проблемы в том, что, если вы в вашем проекте для решения схожих задач не хотите использовать сторонние решения, например, Fastline, то теперь их можно спокойно не использовать.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FCqP_nOUpp4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FCqP_nOUpp4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FCqP_nOUpp4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FCqP_nOUpp4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FCqP_nOUpp4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FCqP_nOUpp4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bip0xg507d20BUTE_sC2h8UI0Lw\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LnctVlh4WWE4RUpZ",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:06:50.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Сергей Махетов — Kafka  Тестирование и эксплуатация в условиях ограниченных ресурсов",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nЦелевая аудитория: разработчики, тестировщики, ops в системах с Kafka в основе.\n\nВ докладе пойдет речь о практиках, используемых для работы с Kafka. Вы услышите интересные случаи из тестирования и эксплуатации Kafka и приложений, которые взаимодействуют с ней.\n\nКонтур является одним из главных поставщиков решений для бизнеса в части предоставления налоговой отчетности, электронного документооборота, ведения бухгалтерии, систем ОФД, ЕГАИС и других решений B2B и B2G. Количество сервисов, приложений, транзакций огромно, и для них всех нужно собирать данные телеметрии — логи, метрики, трассировки, затем транспортировать и распределять их в соответствующие приложения для алертинга, хранения и последующего анализа.\n\nСергей и его команда разрабатывают транспорт для телеметрии сервисов и приложений с Kafka в основе. Система прокачивает на данном этапе 300 тысяч сообщений в секунду на небольшом кластере и этот объем продолжает расти.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w-VXxYa8EJY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w-VXxYa8EJY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w-VXxYa8EJY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/w-VXxYa8EJY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/w-VXxYa8EJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "w-VXxYa8EJY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Larg-prq2YlaFbBm975nLpy_CI4\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LllBYjdZb0VkNm1N",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:06:32.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Мария Соколова — Lincheck  Тестирование многопоточной структуры данных в Java",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nЕсли вы писали многопоточный код, то знаете, что сложно написать его корректно сразу. Для тестирования обычно пишут стресс-тесты, покрывающие лишь некоторые опасные сценарии исполнения. Но часто для поиска ошибки такого подхода оказывается недостаточно. Для решения этой проблемы был создан lincheck — пока единственный инструмент в мире JVM, позволяющий удобно тестировать корректность (обычно линеаризуемость) многопоточного кода.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YAb7YoEd6mM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YAb7YoEd6mM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YAb7YoEd6mM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YAb7YoEd6mM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GmwqOwZIKLb3h9lqGyVQ9WFAXTg\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LndEemx0bjhtRUw0",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:06:15.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Вячеслав Смирнов — Не ждите сообщений, получайте их  Асинхронное тестирование производительности",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nДоклад о разработке плагинов для Gatling и тестировании производительности через RabbitMQ, и решении технических проблем и создании новых.\n\nДоклад основан на опыте команды Raiffeisen Business Platform по тестированию производительности асинхронных микросервисов, которые принимают запросы через RabbitMQ по протоколу AMQP и отвечают в RabbitMQ.\n\nВ качестве инструмента для подачи нагрузки был выбран Gatling. И в ходе написания тестов были решены следующие технические проблемы:\n\n- как подать нагрузку через RabbitMQ, когда нет плагина для AMQP;\n- как написать оптимальный Gatling-сценарий, который не будет потреблять гигабайты оперативной памяти;\n- как эффективно замерить длительность от момента отправки сообщения в одну очередь, до момента появления сообщения в другой очереди, и не забыть момент появления сообщения во временной очереди;\n- как логировать асинхронные операции, какой подход выбрать для разделения десятка сценариев в рамках одного Gatling-теста.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wDzltn8mEL4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wDzltn8mEL4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wDzltn8mEL4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wDzltn8mEL4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NFk6tvuXinitkmhUG_ydNmJ2dR8\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LkthY01aSXl0cS1N",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:07:08.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Виктория Кашлина Антон Власов — Делаем свой микроскоп для тестирования iOS приложения",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nОтладка и тестирование — неотъемлемая часть жизни разработчика. Но мало кто знает о новых инструментах, предоставляемых Apple в целях модернизации данного процесса — signpost является одним из таких примеров.\n\nВ проекте Сбербанк Онлайн используются подобные инструменты, которые позволяют найти тонкие места в работе кода и принимать лучшие решения по его совершенствованию. Следующим шагом стало создание своего кастомного инструмента, который позволил отладить баги сторонней библиотеки, за счет которой большая команда Сбербанка писала юнит-тесты.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KacMZIytq-M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KacMZIytq-M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KacMZIytq-M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KacMZIytq-M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wxxH5aumhItey71GkMyigh3tQ7M\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LmV2M3BBVTBTaXpv",
+    "snippet": {
+      "publishedAt": "2020-02-20T12:08:21.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Барух Садогурский — У нас Девопс. Никого не уволили. Но делать-то что?!",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nИтак, мы выяснили, что никто никого увольнять не собирается. Это, конечно, хорошо. Но мы также выяснили, что если не меняться, то нас ждет застой, разруха и Кобол — и это, конечно, страшно. Что же делать?\n\nВ этом докладе Барух расскажет, что учить, с кем говорить, что делать, когда довод «но вот в Нефликсе сын маминой подруги делает девопс» не работает. Мы обсудим что знать (список литературы), с кем говорить (кто же такие stakeholder'ы, и зачем они вцепились в свой стейк, это же какая-то фишка омского мясокомбината, да?), и что говорить: какие приводить тезисы и как убеждать в необходимости цифровой трансформации, ради бизнеса вообще, и тестировщиков в частности.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ev3pAU0Sizo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ev3pAU0Sizo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ev3pAU0Sizo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ev3pAU0Sizo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5QJJ3WCeOtaOPkjd9dzPFwFfeOY\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LnYzaUZiMHU1ZXhn",
+    "snippet": {
+      "publishedAt": "2020-02-20T11:03:22.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Артём Несиоловский — Тестирование игрового движка Amazon Lumberyard  Подходы и инструменты",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nДоклад о тестировании игрового движка Amazon Lumberyard, большого мультиплатформенного проекта; о сложностях, возникающих при ручном тестировании и их решениях, а также инструментах для автоматизации.\n\nВ докладе будет рассказано про:\n\nОсобенности тестирования игровых движков;\nACC-моделирование проекта для улучшения тестового покрытия;\nИнструменты для автоматизации 3D-графики, игровой логики, интерфейса редактора и производительности игры;\nИнтересные игровые баги и поиски баланса в ручном и автоматизированном тестировании.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v3iFb0u5exg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v3iFb0u5exg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v3iFb0u5exg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v3iFb0u5exg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v3iFb0u5exg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "v3iFb0u5exg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oACpOfTa83fbC0MHjE8c43dLvnY\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3Lm1Tc3F6UXB3OFZz",
+    "snippet": {
+      "publishedAt": "2020-02-20T11:02:48.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Артем Никитин — Тестирование Kubernetes оператора",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nНа конференциях по тестированию в последнее время все чаще и чаще упоминается Kubernetes. Но в основном в контексте как его использовать. Артем же хочет поделиться с аудиторией какого это — разрабатывать, тестировать и релизить функциональность для расширения Kubernetes. Команда Артема работает над оператором, который позволяет эксплуатировать Elasctic Stack на Kubernetes. Особенностью этого доклада будет также то, практически все упомянутое в нем находится в публичном доступе.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mSsqzQpw8Vs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mSsqzQpw8Vs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mSsqzQpw8Vs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mSsqzQpw8Vs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mSsqzQpw8Vs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mSsqzQpw8Vs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lTV8Kzinlq95GNs_7knmn9oqsjc\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LkU4N1lrWGhkeEFB",
+    "snippet": {
+      "publishedAt": "2020-02-20T11:02:23.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Александра Сватикова — Статическое тестирование безопасности инструментами из open source",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nЦель доклада: рассказать о применении SonarQube и Find Security Bugs для поиска уязвимостей в своем проекте.\n\nТехнологии: кастомные правила пишутся на Java, в качестве примера продемонстрируют веб-приложение на Java.\n\nЦелевая аудитория: автоматизаторы тестирования, специалисты по безопасности.\n\nЛюди узнают о возможности применения статического анализа кода для тестирования безопасности и увидят базовые примеры добавления собственных детекторов при анализе исходного кода.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E87YkXhdxAA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E87YkXhdxAA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E87YkXhdxAA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E87YkXhdxAA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E87YkXhdxAA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "E87YkXhdxAA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oxB2jqYzWCiXdisS9vT6U8ZOuDM\"",
+    "id": "VVVYNmZqWmExNjd0U3lfNHJ5VExjT0J3LnJQZDgzeXBha0xj",
+    "snippet": {
+      "publishedAt": "2020-02-20T11:02:05.000Z",
+      "channelId": "UCX6fjZa167tSy_4ryTLcOBw",
+      "title": "Ingo Philipp — Will a bot steal your spot in software testing",
+      "description": "Ближайшая конференция — Heisenbug 2020 Piter\n14-15 июня, Park Inn by Radisson Пулковская\nПодробности и билеты: https://bit.ly/heisenbug2020piter\n\nStephen Hawking, Bill Gates, and Elon Musk have one thing in common (besides wealth): they’re all terrified of the so-called AI apocalypse, a hypothetical scenario where intelligent machines become our overlords and exterminate mankind. Will AI also take over software testing? Ingo's answer to this question comes in three parts.\n\nIn part (A) he will explore the hype around AI to explain why we are even asking this question. In part (B) we will explore how to define (artificial) intelligence to make sure that you understand answer to this question. In part (C) Ingo will dive deeper into software testing to finally answer this question.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rPd83ypakLc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rPd83ypakLc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rPd83ypakLc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rPd83ypakLc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rPd83ypakLc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Heisenbug",
+      "playlistId": "UUX6fjZa167tSy_4ryTLcOBw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rPd83ypakLc"
+      }
+    }
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/t0AZ3fLr5rjuKIpA-Dt0Mn8LsTI\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LnZhUTBOOTA4Mk53",
+    "snippet": {
+      "publishedAt": "2020-04-20T12:00:35.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "How To Deploy A Vue App To A VPS With Git",
+      "description": "🚨 Sign up to Linode using the code below and get a $20 credit! \nhttps://linode.com/programwitherik\n\nHow do you deploy a Vue.js app? How do you deploy it to a SSH server using Nginx and git? In this video we look at setup a server, and using Git to push content for us! #vps #vuejs #git\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n0:00 Introduction\n1:38  Setup VPS on Linode\n3:32 SSH into server setup basic accounts and security\n8:25  Install Yarn\n9:32 Install Nginx and configure\n13:11 Setup Git Repository on Server\n16:18 Push Git repository to remote server\n21:23 Bonus content! Click here to find out!\n\n\n\n 👉Check out my last video on creating a Modal with vue and Tailwind CSS\nhttps://youtu.be/MNkjaPCY7NA\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\nhttps://cli.vuejs.org/guide/deployment.html\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vaQ0N9082Nw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vaQ0N9082Nw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vaQ0N9082Nw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vaQ0N9082Nw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vaQ0N9082Nw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vaQ0N9082Nw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Bs3QTcgrOYvPbFMws4-ym2zMZCg\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3Lk1Oa2phUENZN05B",
+    "snippet": {
+      "publishedAt": "2020-04-17T12:00:22.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Create Modals With Tailwind CSS and Vue Is Super Easy!",
+      "description": "Vue.js is awesome, Tailwind CSS is awesome. So why not combine both and create an app? In this video I create a modal using Tailwind CSS! Let's do it! #tailwindcss #tailwind #css\n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n0:00 Intro\n1:30 Install Tailwind CSS and Tailwind Intellisense\n7:24 Create A Button with Tailwind CSS\n12:46 Add Toggle with Vue and Background\n14:15 Create Modal Box\n\n\n 👉Check out my last video on Vue Components!\nhttps://youtu.be/rKWSj3zfBAs\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\nhttps://github.com/ErikCH/VueComponen...\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MNkjaPCY7NA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MNkjaPCY7NA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MNkjaPCY7NA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MNkjaPCY7NA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MNkjaPCY7NA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MNkjaPCY7NA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KR1oZ_4zxZwqBw0mTviuV9TZI7w\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3Lmh3ek5DQ0ZFR0RB",
+    "snippet": {
+      "publishedAt": "2020-04-15T12:00:21.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "How to prepare for Technical Interviews",
+      "description": "How do you pass a technical interview? How do you pass your interview to get a job at Google, Facebook, Apple etc? In this video I discuss some fun techniques you can use to pass that interview!\n\nThanks to our sponsor Devmountain coding bootcamp.\nCheck out Devmountain here - http://bit.ly/30mc1oq\n\n0:00  - Intro\n2:08  - Understanding The Interview Process\n7:51  - Use the Star Pattern\n10:06 - Before On Site Interview\n15:39 - During Interview\n19:56 - Try, Try, Again\n22:18 - Bonus: (Find out what it is?)\n\n👉Check out my last video on Vue Components passing\nhttps://youtu.be/rKWSj3zfBAs\n\n👉Get my Create Awesome Vue.js Apps With Nuxt.js for 50% off! Click here: https://bit.ly/34Efuk0  (Click Buy Now)\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hwzNCCFEGDA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hwzNCCFEGDA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hwzNCCFEGDA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hwzNCCFEGDA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hwzNCCFEGDA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hwzNCCFEGDA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TBs6OZD1IZG7wgG9snGjFnk_f4E\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LnJLV1NqM3pmQkFz",
+    "snippet": {
+      "publishedAt": "2020-04-13T12:00:26.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "5 Easy Ways To Pass Info To Vue Components!",
+      "description": "Vue.js is really easy to pass information to components. There is props, inject/provide, Vuex and more! In this video I discuss the various ways you can use to level up your Vue.js skills with components!\n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\n0:00 - Intro\n2:26 - Overview of project\n5:10 - Props\n7:50 - Inject/Provide\n13:05 - this.$refs\n16:28 - Vue.prototype\n18:28 - Bonus (click here to find out what it is!)\n20:10 - Vuex\n\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n👉Check out my last video on Express and serverless!\nhttps://youtu.be/aJlvJsdVTLU\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\nhttps://github.com/ErikCH/VueComponentExample\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rKWSj3zfBAs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rKWSj3zfBAs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rKWSj3zfBAs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rKWSj3zfBAs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rKWSj3zfBAs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rKWSj3zfBAs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SxZfx6ewdoARPQdifff2An89EnI\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LmFKbHZKc2RWVExV",
+    "snippet": {
+      "publishedAt": "2020-04-10T12:00:01.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "LEARN HOW TO CREATE A SERVERLESS EXPRESS APP IN 25 MINUTES (AWS LAMBDA)",
+      "description": "Express JS is an awesome opinionated framework for Node.js that helps you create REST end points. Let's take a look at using it with Serverless functions using AWS Lambda functions!\n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\n👉Check out my last video on Vue lazy loading components!\nhttps://youtu.be/sHXRfyNdjLo\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aJlvJsdVTLU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aJlvJsdVTLU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aJlvJsdVTLU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aJlvJsdVTLU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aJlvJsdVTLU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "aJlvJsdVTLU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/f4Jq5Cgsgy2a1XZOK25QvKQ1ovc\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LkpsZ0t5YnJhb3k0",
+    "snippet": {
+      "publishedAt": "2020-04-06T12:00:09.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "LEARN EXPRESS JS IN 15 MINUTES!",
+      "description": "Express JS is an awesome opinionated framework for Node.js that helps you create REST end points. Let's learn Express.js in 15 minutes! \n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\n👉Check out my last video on Vue lazy loading components!\nhttps://youtu.be/sHXRfyNdjLo\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JlgKybraoy4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JlgKybraoy4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JlgKybraoy4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JlgKybraoy4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JlgKybraoy4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JlgKybraoy4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dPpS-NbezfC7XMKQpttJ6yCvq3M\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3Lm5vaDVTa2UwaEd3",
+    "snippet": {
+      "publishedAt": "2020-03-27T12:00:20.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "BEST VSCODE THEME EVER, WAS I WRONG??! (UPDATE!!)",
+      "description": "There are a lot of great VSCode themee, but which one is the best?! In this video I discuss your guys feedback on what I thought the best VSCode theme ever was! #vscode #Webdevelopment\n\n👉Check out the original video on the best VSCode theme  ever!\nhttps://youtu.be/T_sL7SO4wMg\n\nThanks to our sponsor Devmountain coding bootcamp.\nCheck out Devmountain here - http://bit.ly/30mc1oq\n\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/noh5Ske0hGw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/noh5Ske0hGw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/noh5Ske0hGw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/noh5Ske0hGw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/noh5Ske0hGw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "noh5Ske0hGw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YGgKb2K3UxAbWCBoYBax4dKKViM\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3Li11Q1VDbXJOZ2Vv",
+    "snippet": {
+      "publishedAt": "2020-03-16T07:00:00.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Vue: Routing For Dummies",
+      "description": "Working with routes in Vue is easy, but you need to know how it works. In this video we explore how to setup Vue routing and guards and a few other gotchas you should know! #vue #vuejs #vuerouting\n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\n👉Check out my last video on Vue 3!\nhttps://youtu.be/HD33tNIXRtg\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-uCUCmrNgeo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-uCUCmrNgeo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-uCUCmrNgeo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-uCUCmrNgeo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-uCUCmrNgeo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-uCUCmrNgeo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/l-UaLuDEsrOtnA8HMdQxA7XTknQ\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LnNIWFJmeU5kakxv",
+    "snippet": {
+      "publishedAt": "2020-03-30T12:00:21.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "How To Lazy Load Components In Vue.js!",
+      "description": "Lazy Loading Components in Vue.js is really interesting. In this video we'll see how you can lazy load components with Vue.js and what to look out for!\n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\n👉Check out my last video on Vue 3!\nhttps://youtu.be/HD33tNIXRtg\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sHXRfyNdjLo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sHXRfyNdjLo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sHXRfyNdjLo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sHXRfyNdjLo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sHXRfyNdjLo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sHXRfyNdjLo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wiC8i2p4Vt_BLRJ3cEi7uegOKIY\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LkdBcFNDVjI1T2pv",
+    "snippet": {
+      "publishedAt": "2020-03-23T12:15:00.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Element UI Vue Introduction (Component Framework) On Basics (First Look)",
+      "description": "Element UI is a neat Vue.js component framework. It has dozesn of really neat components. In this video I discuss how to get started with Element UI for your Vue projects. #vuejs #elementui\n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\n👉Check out my video on Asyc Components In Vue.js\nhttps://youtu.be/UAhBc0Rse9Q\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GApSCV25Ojo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GApSCV25Ojo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GApSCV25Ojo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GApSCV25Ojo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GApSCV25Ojo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GApSCV25Ojo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nmqnB2x9tO2XIsUThVY1gDh5auc\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LlVBaEJjMFJzZTlR",
+    "snippet": {
+      "publishedAt": "2020-03-20T12:00:10.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "A Deep Dive Into Async Components In Vue! (Should You Use This?)",
+      "description": "Vue.js has something called Async components. It's a neat way to load components only when you need it! In this tutorial I'll discuss with you how asycronous components work in Vue.js! We'll do a deep dive!\n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\n👉Check out my last video on Vue 3!\nhttps://youtu.be/HD33tNIXRtg\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UAhBc0Rse9Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UAhBc0Rse9Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UAhBc0Rse9Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UAhBc0Rse9Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UAhBc0Rse9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UAhBc0Rse9Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NsqnLp-N-X3zb09mOHaa6jUAoMY\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3Lk9jRVJLWTVMUmU4",
+    "snippet": {
+      "publishedAt": "2020-03-13T12:00:09.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Top 10 Programming Books Of All Time (Development Books)",
+      "description": "Programmers and development books are very common. But what are the all time classics and best programming books of all time? In this video I discuss my all time favorites and what I think you should read!\n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\nBooks Listed In This Video\n\n📚Design Patterns\nhttps://amzn.to/2TrMgRK\n\n📚Clean Code\nhttps://amzn.to/2TEvHAY\n\n\n📚Code Complete 2 \nhttps://amzn.to/2TuteKx\n\n\n📚Mythical Man Month\nhttps://amzn.to/3azu66m\n\n\n📚The Pragmatic Programmer\nhttps://amzn.to/2Tqlj0v\n\n\n📚Cracking the Coding Interview\nhttps://amzn.to/38tv02F\n\n\n📚JavaScript The Good Parts\nhttps://amzn.to/2VN72wB\n\n\n\n📚The Clean Coder\nhttps://amzn.to/2xfXtfx\n\n\n📚You Don’t Know JS\nhttps://amzn.to/39svzuP\n\n\n📚Introduction to Algorithms\nhttps://amzn.to/32TH6AU\n\n\n📚The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage\nhttps://amzn.to/2IoVhog\n\n👉Check out my last video on Vue 3!\nhttps://youtu.be/HD33tNIXRtg\n\n📚 Sign up here to get the first chapter of my book (Vue.js in Action) and a cheatsheet - http://bit.ly/2GWWuEw\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OcERKY5LRe8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OcERKY5LRe8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OcERKY5LRe8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OcERKY5LRe8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OcERKY5LRe8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OcERKY5LRe8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7RaAdz9BbjuglPZhQIfCiqvljIc\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LkhEMzN0TklYUnRn",
+    "snippet": {
+      "publishedAt": "2020-03-09T12:00:04.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Vue 3 Portals Tutorial - First Look!",
+      "description": "Vue 3 is right around the corner and Vue 3 portals is just about out! This is a neat feature of Vue.js that allows people to transfer information from one place to another. Check out Vue 3 portals today!\n\nCheck now if your .TECH is available! Link - https://go.tech/erik \nUse Code erik.tech at Checkout for a special 80% OFF on 1 & 5 Year .TECH Domains!\n\n👉Check out my last video on Coding For Kids!\nhttps://youtu.be/zWAkX1EbU84\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n___\n\nLinks (and code)\nhttps://github.com/ErikCH/Vue3PortalExample\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch\nMY FACEBOOK — http://www.facebook.com/programwitherik",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HD33tNIXRtg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HD33tNIXRtg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HD33tNIXRtg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HD33tNIXRtg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HD33tNIXRtg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HD33tNIXRtg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DSpzz-0XICCtx8Kr1f-H1vYHgjk\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LmwwZVpDdkpjWVo4",
+    "snippet": {
+      "publishedAt": "2020-03-02T13:00:11.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Create A Vue App With Render Functions Tutorial! What Is it?",
+      "description": "Render functions are a neat way in Vue to create components without a template tag. in this video we'll discus what Render function are and how to use them!\n\n👉Check out my last video on 5 things I learned from an open source project\nhttps://youtu.be/HVF6aGCc1uM\n\n\n📚 Sign up and get a free chapter of my Vue.js book!! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch\nMY FACEBOOK — http://www.facebook.com/programwitherik",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l0eZCvJcYZ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l0eZCvJcYZ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l0eZCvJcYZ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l0eZCvJcYZ8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l0eZCvJcYZ8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l0eZCvJcYZ8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ytkj0wY0Swz5IYg1Zbjb2NQJ4YU\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LkhWRjZhR0NjMXVN",
+    "snippet": {
+      "publishedAt": "2020-02-28T13:00:06.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "5 Things I Learned From Running An Open Source Project (Dev YouTube List)",
+      "description": "What development YouTube channels should you check out, and how do you run an open source project? What have I learned! Let's take a look!\n\n👉Check out my last video on Vue 3 Suspense\nhttps://youtu.be/tf4hESzBXcU\n\nContribute to the list of ultimate YouTube channels from the video!\nhttps://github.com/ErikCH/DevYouTubeList\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\nhttps://github.com/ErikCH/DevYouTubeList\n\n\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch\nMY FACEBOOK — http://www.facebook.com/programwitherik",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HVF6aGCc1uM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HVF6aGCc1uM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HVF6aGCc1uM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HVF6aGCc1uM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HVF6aGCc1uM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HVF6aGCc1uM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CQob3BqfkpggTDde5iMmw8vgis8\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LnRmNGhFU3pCWGNV",
+    "snippet": {
+      "publishedAt": "2020-02-24T13:00:11.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Vue 3 Suspense Tutorial! First Look!",
+      "description": "Vue.js 3.0 is almost out, and one neat feature it will be supporting is Suspense! Suspense is a way to have fallbacks for asychronous components. Let's take a look!\n\n★★JavaScript Bundle  to do with Eduonix★★ ( Apply coupon - \"ERIK20\" to get 20% off!)\nMighty JavaScript Bundle  - http://bit.ly/2vMctku  \n\n👉Check out my last video on 5 Fun APIs\nhttps://youtu.be/v2bi4a2iMf0\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n___\n\nLinks (and code)\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch\nMY FACEBOOK — http://www.facebook.com/programwitherik",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tf4hESzBXcU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tf4hESzBXcU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tf4hESzBXcU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tf4hESzBXcU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tf4hESzBXcU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tf4hESzBXcU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1NMgsJGCA7NBScBsfR17P17OZqs\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LnYyYmk0YTJpTWYw",
+    "snippet": {
+      "publishedAt": "2020-02-21T13:00:26.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Top 5 Fun APIs For Every Developer - With Examples",
+      "description": "There are a lot of APIs that web developers can use. But which ones are the most fun to use? In this video I explore my top APIs that I think you should use for fun.\n\nThanks to our sponsor Devmountain coding bootcamp.\nCheck out Devmountain here - http://bit.ly/30mc1oq\n\n\n👉Check out my last video on the best VSCode theme out there!\nhttps://youtu.be/T_sL7SO4wMg\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\nhttps://github.com/ErikCH/SunVue\n\n\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch\nMY FACEBOOK — http://www.facebook.com/programwitherik",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v2bi4a2iMf0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v2bi4a2iMf0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v2bi4a2iMf0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v2bi4a2iMf0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v2bi4a2iMf0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "v2bi4a2iMf0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3cpGBh1VrwSz-Za-zzHnJaKjCtg\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LlRfc0w3U080d01n",
+    "snippet": {
+      "publishedAt": "2020-02-17T13:00:13.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Best VS Code Theme Ever?",
+      "description": "📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\nVisual studio code or VS Code is a very popular IDE. What is the best theme you can use? Let's take a look at it, Synthwave 84! How to install it and how to get started!\n\n👉Check out my last video on Vue 3 Composition\nhttps://youtu.be/NM71cqoNt3w\n\n📚 Sign up and get notified about my new Vue 3 course! —  http://bit.ly/2vFWBQi\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\n\n\n\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch\nMY FACEBOOK — http://www.facebook.com/programwitherik",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T_sL7SO4wMg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T_sL7SO4wMg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T_sL7SO4wMg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T_sL7SO4wMg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/T_sL7SO4wMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "T_sL7SO4wMg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qfwk4Ncqpj094mxiEwik8QyW5AU\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3Lk5NNzFjcW9OdDN3",
+    "snippet": {
+      "publishedAt": "2020-02-14T13:00:10.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Vue 3 Composition API - Converting Over A Vue 2 Component",
+      "description": "The Vue.js Composition API is just about out! Let's take a look at converting a Vue 2 app to using the Vue 3 composition API!\n\n👉Check out my last video on my Vue 3\nhttps://youtu.be/-Ov3RydVx2Y\n\n📚 Sign up and get notified about my new Vue 3 course! —  https://www.vuecourse.tech/\n\n\n♡ ♡ ♡ \n\nMY COURSES - \n→ VUE.JS + NUXT.JS (Two Courses In One) -  http://bit.ly/2LalQka\n\n♡ ♡ ♡  \n\nMake Sure To Check These Courses Out On Udemy! 💻 \n\n→ JAVASCRIPT ALGORITHMS COLT STEELE'S COURSE - http://bit.ly/2L8HSPV\n\n→ THE WEB DEVELOPER BOOTCAMP (GREAT FOR BEGINNERS) — http://bit.ly/2zP4alw\n\n→ THE ADVANCED WEB DEVELOPER BOOTCAMP  — http://bit.ly/2h53MYg\n\n→ THE ULTIMATE VUE JS 2 COURSE - http://bit.ly/2CTvsvx\n\n→ CHECK OUT THIS COURSE - Angular 8 - The Complete Guide - http://bit.ly/2sCMxWm\n\n→  Check out the 100 Front End Interview Question Challenge here - http://bit.ly/2NM9GAm\n\n→ The Complete 2019 Web Development Bootcamp - Angela Yu - http://bit.ly/2ADKEKD\n\n\n👉 Algo expert is the best way to learn algorithms! Check out my code and get 15% off at checkout with code \"erik\" http://algoexpert.io/erik\n\n___\n\nLinks (and code)\nComing Soon!\n\n\n\n\nMY WEBSITE — http://www.programwitherik.com\nMY TWITTER — http://www.twitter.com/erikch\nMY FACEBOOK — http://www.facebook.com/programwitherik",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NM71cqoNt3w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NM71cqoNt3w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NM71cqoNt3w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NM71cqoNt3w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NM71cqoNt3w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NM71cqoNt3w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6AmjexzRU5DrJCf9MD90Odgv4wY\"",
+    "id": "VVVzaFozcmRvQ0xqRFl1VFJfUkJ1Ynp3LnpXQWtYMUViVTg0",
+    "snippet": {
+      "publishedAt": "2020-03-06T11:00:10.000Z",
+      "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+      "title": "Explore Coding with Disney Codeillusion | HOW TO TEACH KIDS HOW TO PROGRAM",
+      "description": "In this video we teach my daughter Vivian how to program by using Disney's Codeilllusion. We look at how to create fun entertaining apps that kids can learn really easily. What's really neat is that you use Disney characters that teach you how to program for kids.\n\nMake sure to check out the best tools to teach kids how to code, Disney's Codeillusion - click here - http://bit.ly/ProgramwithErik\n\n👉Check out my last video on Vue!\nhttps://youtu.be/l0eZCvJcYZ8\n\n\n📚 Sign up and get a free chapter of my Vue.js book!! —  http://bit.ly/2vFWBQi",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zWAkX1EbU84/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zWAkX1EbU84/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zWAkX1EbU84/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zWAkX1EbU84/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zWAkX1EbU84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Program With Erik",
+      "playlistId": "UUshZ3rdoCLjDYuTR_RBubzw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zWAkX1EbU84"
+      }
+    }
+  }
+]

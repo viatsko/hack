@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Bc-6th89QlDZWG_SK-REn061dV8\"",
+      "id": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "snippet": {
+        "title": "The Net Ninja",
+        "description": "Black-belt your development skills. Tutorials on:\n\n- Modern JavaScript (beginner to advanced)\n- Node.js\n- React\n- Vue.js\n- Firebase\n- MongoDB\n- HTML & CSS\n- Plus loads more...",
+        "customUrl": "thenetninja",
+        "publishedAt": "2015-04-08T20:11:22.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxaHFKV1h_7Fb0zzXlOCrHPLzqxjpYeiPNMgw=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxaHFKV1h_7Fb0zzXlOCrHPLzqxjpYeiPNMgw=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxaHFKV1h_7Fb0zzXlOCrHPLzqxjpYeiPNMgw=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Net Ninja",
+          "description": "Black-belt your development skills. Tutorials on:\n\n- Modern JavaScript (beginner to advanced)\n- Node.js\n- React\n- Vue.js\n- Firebase\n- MongoDB\n- HTML & CSS\n- Plus loads more..."
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUW5YeuERMmlnqo4oq8vwUpg",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUW5YeuERMmlnqo4oq8vwUpg"
+  },
+  "displayName": "The Net Ninja",
+  "description": "Black-belt your development skills. Tutorials on:\n\n- Modern JavaScript (beginner to advanced)\n- Node.js\n- React\n- Vue.js\n- Firebase\n- MongoDB\n- HTML & CSS\n- Plus loads more...",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxaHFKV1h_7Fb0zzXlOCrHPLzqxjpYeiPNMgw=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxaHFKV1h_7Fb0zzXlOCrHPLzqxjpYeiPNMgw=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxaHFKV1h_7Fb0zzXlOCrHPLzqxjpYeiPNMgw=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/01v1qroecO_NycoGqrgFrl4gj-s\"",
+      "id": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "snippet": {
+        "title": "JavaScript Conference Armenia",
+        "description": "JavaScript talks and workshops at JS Conf Armenia events",
+        "customUrl": "javascriptconferencearmenia",
+        "publishedAt": "2018-01-23T05:51:06.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJw-sqpjWjQC8p-0db_az7ogZ6dayeVCi0O0IQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJw-sqpjWjQC8p-0db_az7ogZ6dayeVCi0O0IQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJw-sqpjWjQC8p-0db_az7ogZ6dayeVCi0O0IQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "JavaScript Conference Armenia",
+          "description": "JavaScript talks and workshops at JS Conf Armenia events"
+        },
+        "country": "AM"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUkzEOKU959F6_T0OaQBH4VQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUkzEOKU959F6_T0OaQBH4VQ"
+  },
+  "displayName": "JavaScript Conference Armenia",
+  "description": "JavaScript talks and workshops at JS Conf Armenia events",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJw-sqpjWjQC8p-0db_az7ogZ6dayeVCi0O0IQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJw-sqpjWjQC8p-0db_az7ogZ6dayeVCi0O0IQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJw-sqpjWjQC8p-0db_az7ogZ6dayeVCi0O0IQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

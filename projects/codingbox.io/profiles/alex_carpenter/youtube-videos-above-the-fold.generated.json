@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Lv_yX9up6WNisPE8PLsvGISo0nk",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLndWNzdHd09ZMjJ3",
+    "snippet": {
+      "publishedAt": "2020-04-20T12:18:21Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to use Eleventy filters",
+      "description": "Eleventy filters allow you to build functionality on top of the templating language you are using. In this tutorial we make a date formatting filter using the Luxon JavaScript library, as well as a favorites and limit filter that allows you to curate your homepage.\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wV77GwOY22w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wV77GwOY22w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wV77GwOY22w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wV77GwOY22w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wV77GwOY22w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wV77GwOY22w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AOJe3CMLTKCyC5aolzW34rN7Nas\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLm5VbEI4U1IwMzl3",
+    "snippet": {
+      "publishedAt": "2020-04-14T12:12:30.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to use Eleventy paired shortcodes",
+      "description": "Nunjucks and Liquid allow you to create reusable pieces of content via shortcodes within Eleventy. Shortcodes are defined in your eleventy config and can be used in your templates or markdown files.\n\n\nIn this tutorial I walk you through making a reusable Bootstrap alert using paired shortcodes and Nunjucks.\n\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nUlB8SR039w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nUlB8SR039w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nUlB8SR039w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nUlB8SR039w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nUlB8SR039w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nUlB8SR039w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/inaaJp--EDY0700v8jZOXELmXR4\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLm1UMTBaSmRsaDlZ",
+    "snippet": {
+      "publishedAt": "2020-03-16T14:15:00.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to add gradient overlays to your images with CSS",
+      "description": "Learn how to add a gradient overlay to your images to create a nice modern effect.\n\nView the demo code https://codepen.io/alexcarpenter/pen/RwPyoyE\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mT10ZJdlh9Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mT10ZJdlh9Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mT10ZJdlh9Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mT10ZJdlh9Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mT10ZJdlh9Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mT10ZJdlh9Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Skk_wp1hi-ZrB9EYt0i8CD9jITE\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLm1MWmpLQkMzUjM0",
+    "snippet": {
+      "publishedAt": "2020-03-11T16:38:53.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to use the object-fit CSS property to scale images responsively",
+      "description": "How to use object-fit cover to scale images based on the length of text content.\n\nView the demo code: https://codepen.io/alexcarpenter/pen/YzXeEbV\nobject-fit browser support: https://caniuse.com/#search=object-fit\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mLZjKBC3R34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mLZjKBC3R34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mLZjKBC3R34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mLZjKBC3R34/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mLZjKBC3R34/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mLZjKBC3R34"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fFvWvUeVN1k8Z151vOqLYr9IcnU\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLkhFNFdqejNXU2lz",
+    "snippet": {
+      "publishedAt": "2020-02-25T13:00:43.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to create skewed backgrounds with CSS",
+      "description": "View the demo code https://codepen.io/alexcarpenter/pen/PoqWvKg\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HE4Wjz3WSis/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HE4Wjz3WSis/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HE4Wjz3WSis/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HE4Wjz3WSis/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HE4Wjz3WSis/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HE4Wjz3WSis"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3auYyZw8JNkeAf4XDGwjj066oI4\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLng1RHg1emdEd25J",
+    "snippet": {
+      "publishedAt": "2020-02-19T23:30:01.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to create vertical text with CSS",
+      "description": "How to use CSS writing modes to create vertical text within your websites.\n\nView the demo code https://codepen.io/alexcarpenter/pen/rNVMdGE\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x5Dx5zgDwnI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x5Dx5zgDwnI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x5Dx5zgDwnI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/x5Dx5zgDwnI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/x5Dx5zgDwnI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "x5Dx5zgDwnI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cpoo_eKUt9bOXuu7WFRzxTG78y4\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLmhYc0owQnVGaDlJ",
+    "snippet": {
+      "publishedAt": "2020-02-19T00:33:38.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to add a gradient to text with CSS",
+      "description": "Make your text blocks stand out by adding a gradient to your text with CSS.\n\nView the demo code https://codepen.io/alexcarpenter/pen/VwLjEYO\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hXsJ0BuFh9I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hXsJ0BuFh9I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hXsJ0BuFh9I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hXsJ0BuFh9I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hXsJ0BuFh9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hXsJ0BuFh9I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/umy-LG2YXsSXrWgKFnk71x41Cm8\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLmw1SGNrZF9WOGRv",
+    "snippet": {
+      "publishedAt": "2020-02-10T15:04:57.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to use flexbox CSS auto margins",
+      "description": "View the demo code on CodePen https://codepen.io/alexcarpenter/pen/dyoopeX\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l5Hckd_V8do/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l5Hckd_V8do/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l5Hckd_V8do/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l5Hckd_V8do/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l5Hckd_V8do/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l5Hckd_V8do"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Xc_rF9m6DUVmOq4IT95CfEjawY8\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLnFQUnZFSnIxTHZJ",
+    "snippet": {
+      "publishedAt": "2020-02-06T00:45:35.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "Using a pseudo element to mimic a rgba value",
+      "description": "How I used a pseudo element to mimic a rgba value for the pill component I use on my website.\n\nYou can view the CSS code for my website here https://github.com/alexcarpenter/alexcarpenter.me/blob/master/src/_includes/assets/app.css\n\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qPRvEJr1LvI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qPRvEJr1LvI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qPRvEJr1LvI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qPRvEJr1LvI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qPRvEJr1LvI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qPRvEJr1LvI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EOmMznECmCzxbF8bqodxn9kY35M\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLjhvbXlOczZzMzkw",
+    "snippet": {
+      "publishedAt": "2020-02-03T14:34:16.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to make your own CSS media object pattern",
+      "description": "Originally created by Nicole Sullivan back in 2010 http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/, the media object is a common web pattern that \"could save you hundreds of lines of code\".\n\nView the demo code https://codepen.io/alexcarpenter/pen/LYEwXRV?editors=1101\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n\n—\n\n\nSubscribe to this YouTube channel:\n\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8omyNs6s390/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8omyNs6s390/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8omyNs6s390/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8omyNs6s390/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8omyNs6s390/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8omyNs6s390"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/j9-VWf6WaHrOs0_yA4uGw0u16CY\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLlBfQW84T3VJX3ZJ",
+    "snippet": {
+      "publishedAt": "2020-02-03T12:39:23.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "Learning Tailwind CSS part 1",
+      "description": "After seeing lots of talk about Tailwind CSS and some of Adam Wathan's streams (totally butchered his last name in the first few minutes 😐) I wanted to take some time to learn Tailwind CSS myself. I was a bit ambitious at what I thought I could accomplish during this recording, but I am excited to continue exploring how Tailwind might fit into some of my projects.\n\nVSCode settings: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P_Ao8OuI_vI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P_Ao8OuI_vI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P_Ao8OuI_vI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/P_Ao8OuI_vI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/P_Ao8OuI_vI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "P_Ao8OuI_vI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/q5ZiQRBHJQ18I5oRo5UQ4S6tqH4\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLm05ZE5MTWJDamtr",
+    "snippet": {
+      "publishedAt": "2020-01-27T13:30:42.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to style a select element with CSS",
+      "description": "Learn how to style a select element without the need of wrapper elements or psuedo elements to create a custom select to use within your websites.\n\nDemo: https://codepen.io/alexcarpenter/pen/zYxbgVX\nSVGOMG: https://jakearchibald.github.io/svgomg/\nb64.io: http://b64.io/\nLearn more: https://www.filamentgroup.com/lab/select-css.html\n\nVSCode theme and font family: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m9dNLMbCjkk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m9dNLMbCjkk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m9dNLMbCjkk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m9dNLMbCjkk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m9dNLMbCjkk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "m9dNLMbCjkk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/o4qMgADU5TmGEOBOScKmpACApoA\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLjUyNGVtVVBIc044",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:48:55.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to create a sticky footer with CSS",
+      "description": "How to use flexbox and auto margins to create a sticky footer with CSS.\n\nDemo https://codepen.io/alexcarpenter/pen/YzPvQWr\n\nVSCode theme and font family: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/524emUPHsN8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/524emUPHsN8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/524emUPHsN8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/524emUPHsN8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/524emUPHsN8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "524emUPHsN8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CpNZoAqJOGcKCU2inMy0GgOBbng\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLkZodTgzVFM5TWxz",
+    "snippet": {
+      "publishedAt": "2020-01-10T13:54:27.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "Stacking content with CSS Grid to create a tabbed interface",
+      "description": "Learn how to use CSS Grid to stack tab panels on top of one another to be able to animate between different states.\n\nVSCode theme and font family: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Fhu83TS9Mls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Fhu83TS9Mls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Fhu83TS9Mls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Fhu83TS9Mls/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Fhu83TS9Mls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Fhu83TS9Mls"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JYtChi2VYsy5fzdMG87PddvHAZA\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLjU0WWVJUTdFb19n",
+    "snippet": {
+      "publishedAt": "2019-11-22T00:22:19.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to create custom checkbox and radio inputs with CSS",
+      "description": "Create an accessible custom checkbox or radio input with CSS.\n\nForgot to outline in the screencast that it is important to make sure your custom input also has a focus state, so I added a code sample to the posting within how to apply the focus state - https://alexcarpenter.me/screencasts/2019/11/custom-inputs/\n\nhttps://alexcarpenter.me\nhttps://twitter.com/hybrid_alex",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/54YeIQ7Eo_g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/54YeIQ7Eo_g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/54YeIQ7Eo_g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/54YeIQ7Eo_g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/54YeIQ7Eo_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "54YeIQ7Eo_g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ykqmDAzC6aCD3epaZVdXxvJcWx0\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLks1cm1RWGxJb21r",
+    "snippet": {
+      "publishedAt": "2019-02-28T13:54:39.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "Style your default global links using the :not CSS selector",
+      "description": "Style you default global links without affecting your component links styles.\n\nVSCode theme and font family: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K5rmQXlIomk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K5rmQXlIomk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K5rmQXlIomk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K5rmQXlIomk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K5rmQXlIomk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "K5rmQXlIomk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hap88lLVUN3TBOzhjMlcg7he_z0\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLk9rY1VVX0ctd1ZV",
+    "snippet": {
+      "publishedAt": "2019-02-24T23:49:22.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "Build conditional layouts with CSS Flexbox",
+      "description": "Learn how to build flexible and resilient layouts with CSS Flexbox.\n\n---\n\nWEBSITE: https://alexcarpenter.me\nTWITTER: https://twitter.com/hybrid_alex\nGITHUB: https://github.com/alexcarpenter\nVSCODE CONFIG: https://alexcarpenter.me/vscode",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OkcUU_G-wVU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OkcUU_G-wVU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OkcUU_G-wVU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OkcUU_G-wVU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OkcUU_G-wVU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OkcUU_G-wVU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/E6azyf2-KoCRwk3Jlg3EylhfjwI\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLnQ0THBzN2VVS2ZN",
+    "snippet": {
+      "publishedAt": "2019-02-24T19:22:49.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to center an element within its parent container with CSS",
+      "description": "4 methods for centering an element within its parent container with CSS.\n\n---\n\nWEBSITE: https://alexcarpenter.me\nTWITTER: https://twitter.com/hybrid_alex\nGITHUB: https://github.com/alexcarpenter\nVSCODE CONFIG: https://alexcarpenter.me/vscode",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t4Lps7eUKfM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t4Lps7eUKfM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t4Lps7eUKfM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t4Lps7eUKfM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t4Lps7eUKfM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "t4Lps7eUKfM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Idxj9oMbGF5u2dYaESz6BjCcGyc\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLnNaSnJjT2ZCYU5Z",
+    "snippet": {
+      "publishedAt": "2019-02-14T12:04:15.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "How to create overlapping images with CSS Grid",
+      "description": "Create an overlapping image effect with CSS Grid. No absolute positioning or negative margins needed!\n\nVSCode theme and font family: https://alexcarpenter.me/vscode\nWebsite: https://alexcarpenter.me\nNewsletter: https://alexcarpenter.me/newsletter\nTwitter: https://twitter.com/hybrid_alex\n\n—\n\nSubscribe to this YouTube channel:\n\nhttps://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg?sub_confirmation=1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sZJrcOfBaNY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sZJrcOfBaNY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sZJrcOfBaNY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sZJrcOfBaNY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sZJrcOfBaNY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sZJrcOfBaNY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/c9bQbAmAZdB0EMQW6OgPkwlDdv8\"",
+    "id": "VVUyakpvUWx6dkxQdm5ZZm93QUVWYU9nLktNbTJwSWdBeTFF",
+    "snippet": {
+      "publishedAt": "2019-01-14T13:47:19.000Z",
+      "channelId": "UC2jJoQlzvLPvnYfowAEVaOg",
+      "title": "What is JavaScript event delegation?",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KMm2pIgAy1E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KMm2pIgAy1E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KMm2pIgAy1E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KMm2pIgAy1E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KMm2pIgAy1E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alex Carpenter",
+      "playlistId": "UU2jJoQlzvLPvnYfowAEVaOg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KMm2pIgAy1E"
+      }
+    }
+  }
+]

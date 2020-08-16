@@ -1,0 +1,66 @@
+{
+  "tags": ["apple"],
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7C1WZPk_mX4zqVf-5FFIIV8hbk8\"",
+      "id": "UChjRM_qQAaOAiLNbOGbYcRA",
+      "snippet": {
+        "title": "9to5Mac",
+        "description": "At 9to5, we make great efforts to be a top influencer in the tech community by consistently breaking exclusive news and being the first to report information our readers care about. Our video content consists of reviews, tutorials, and tips involving anything and everything Apple. Be sure to subscribe in order to stay up to date with all of our latest content.",
+        "customUrl": "9to5mac",
+        "publishedAt": "2014-09-01T15:22:05.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyAHpxPD21Wj67tueelIyGt1W9rWArMvki0IA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyAHpxPD21Wj67tueelIyGt1W9rWArMvki0IA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyAHpxPD21Wj67tueelIyGt1W9rWArMvki0IA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "9to5Mac",
+          "description": "At 9to5, we make great efforts to be a top influencer in the tech community by consistently breaking exclusive news and being the first to report information our readers care about. Our video content consists of reviews, tutorials, and tips involving anything and everything Apple. Be sure to subscribe in order to stay up to date with all of our latest content."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "LLhjRM_qQAaOAiLNbOGbYcRA",
+          "uploads": "UUhjRM_qQAaOAiLNbOGbYcRA",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUhjRM_qQAaOAiLNbOGbYcRA"
+  },
+  "displayName": "9to5Mac",
+  "description": "At 9to5, we make great efforts to be a top influencer in the tech community by consistently breaking exclusive news and being the first to report information our readers care about. Our video content consists of reviews, tutorials, and tips involving anything and everything Apple. Be sure to subscribe in order to stay up to date with all of our latest content.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyAHpxPD21Wj67tueelIyGt1W9rWArMvki0IA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyAHpxPD21Wj67tueelIyGt1W9rWArMvki0IA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJyAHpxPD21Wj67tueelIyGt1W9rWArMvki0IA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

@@ -1,0 +1,892 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/r2s-9Ps9bcmBFSG_jgC7uLIu2Lo\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LjZHLXhvNjI4Q0hV",
+    "snippet": {
+      "publishedAt": "2014-03-08T03:36:58.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Search Quality at LinkedIn",
+      "description": "Presented to the Bay Area Search Meetup on February 26, 2014\n\nhttp://www.meetup.com/Bay-Area-Search/events/136150622/\n\nAt LinkedIn, we face a number of challenges in delivering high quality search results to 277M+ members. Our results are highly personalized, requiring us to build machine-learned relevance models that combine document, query, and user features. And our emphasis on entities (names, companies, job titles, etc.) affects how we process and understand queries. In this talk, we'll talk about these challenges in detail, and we'll describe some of the solutions we are building to address them.\n\nSpeakers:\n\nSatya Kanduri has worked on LinkedIn search relevance since 2011. Most recently he led the development of LinkedIn's machine-learned ranking platform. He previously worked at Microsoft, improving relevance for Bing Product Search. He has an MS in Computer Science from the University of Nebraska - Lincoln, and a BE in Computer Science from the Osmania University College of Engineering.\n\nAbhimanyu Lad has worked at LinkedIn as a software engineer and data scientist since 2011. He has worked on a variety of relevance and query understanding problems, including query intent prediction, query suggestion, and spelling correction. He has a PhD in Computer Science from CMU, where he worked on developing machine learning techniques for diversifying search results. \n\nhttp://www.slideshare.net/dtunkelang/search-quality-at-linkedin",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6G-xo628CHU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6G-xo628CHU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6G-xo628CHU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6G-xo628CHU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6G-xo628CHU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6G-xo628CHU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DZgyqTdQle9aSW1H3Nzlk39Y2Qg\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LktaSHpyUkhKcWJv",
+    "snippet": {
+      "publishedAt": "2013-10-16T18:57:34.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Hadoop YARN Meeting - 27 September 2013",
+      "description": "With Apache Hadoop 2 going beta, now is a good time to catch up and take stock of where we are going and how different applications are being built on top.\n\n  1.  YARN API stabilization\n  2.  YARN RM Restart\n  3.  Apache Samza\n  4.  Apache Giraph\n  5.  Apache Helix\n  6.  Apache Tez",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KZHzrRHJqbo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KZHzrRHJqbo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KZHzrRHJqbo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KZHzrRHJqbo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KZHzrRHJqbo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KZHzrRHJqbo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Sms-GQZh3aDY3wsy28n6DDkPtS0\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LnZOQ0cwWWgzbFlv",
+    "snippet": {
+      "publishedAt": "2013-08-09T21:26:13.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Stealth Accessibility",
+      "description": "Sarah Clatterbuck is the WebDev in charge of LinkedIn's montetization products, and also the fearless leader of the LinkedIn Web Accessibility Task Force. In this talk Sarah discusses how her team promotes awareness of web accessibility and organizes the execution of improving LinkedIn's accessibility for all users.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vNCG0Yh3lYo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vNCG0Yh3lYo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vNCG0Yh3lYo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vNCG0Yh3lYo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vNCG0Yh3lYo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BzJUFQA5nd86TyJI6BcqaBXMqo4\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LmZ2SGs3S1dhMjVv",
+    "snippet": {
+      "publishedAt": "2013-06-17T04:39:52.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Introduction to JavaScript Unit Testing with Venus.js",
+      "description": "This talk begins with a brief overview of different ways to test code written for the web, including black-box vs. white-box testing techniques. From here, we focus on white-box unit testing and how to write unit tests for JavaScript code using Venus.js. By the end of the session, you will understand why unit testing is important, the challenges involved in unit testing JavaScript code, and the tools and techniques which are available to overcome these challenges.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fvHk7KWa25o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fvHk7KWa25o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fvHk7KWa25o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fvHk7KWa25o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fvHk7KWa25o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gI9YL8FvuLM51aOUcU7WddgpLI4\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LlpTNlFxTkowVlJB",
+    "snippet": {
+      "publishedAt": "2013-05-09T23:04:31.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Graphics on the web with Eric Rowell",
+      "description": "How do you create data visualizations and other graphics in the browser, with technologies like SVG and Canvas? What are the pros and cons of the different technologies? What are the popular JavaScript libraries for graphics on the web, and how do you pick which one to use?\n\nEric Rowell is a Senior Web Developer at LinkedIn. Outside of his day job, Eric is the author of KineticJS. He is also the creator of HTML5CanvasTutorials.com, and author of the highly rated HTML5 Canvas Cookbook.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZS6QqNJ0VRA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZS6QqNJ0VRA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZS6QqNJ0VRA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZS6QqNJ0VRA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZS6QqNJ0VRA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZS6QqNJ0VRA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AhakFmldWyNbVin5VNsTVgQtOkQ\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LjFKYmRGQjRYZFhR",
+    "snippet": {
+      "publishedAt": "2013-04-08T21:22:15.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Sass-based Styleguides with Chris Eppstein & Krys Taylor",
+      "description": "Front End Developers United meetup hosted a talk by Chris Eppstein at LinkedIn on February 28, 2013 at 6:30 PM. Chris spoke on how SASS, Compass, and related tools can help developers and designers work better together.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1JbdFB4XdXQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1JbdFB4XdXQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1JbdFB4XdXQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1JbdFB4XdXQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1JbdFB4XdXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1JbdFB4XdXQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xtYcx8rDVtdSWe6qNzgz6x3JRws\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LjNRQ0c2RDBuakY4",
+    "snippet": {
+      "publishedAt": "2013-04-15T17:42:01.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Using Dust.js at Paypal and LinkedIn",
+      "description": "Jeff Harrell from PayPal talks about how he and his team at PayPalare using Dust and JavaScript templating to enable rapid, lean UX development from prototype to production, and to bridge their legacy and new UI technology stacks.\n\nFrom LinkedIn, Veena Basavarajpresents on how LinkedIn uses [3]Dust.js to render page templates, using JavaScript, on both the client and server. She will be talking about challenges and solutions for generating e-mails, site SEO, formatting / localization, and AB testing.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3QCG6D0njF8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3QCG6D0njF8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3QCG6D0njF8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3QCG6D0njF8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3QCG6D0njF8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3QCG6D0njF8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MT-GwLR8Zk7ET6XGEkEpiv1_ttw\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LmUwRXBya0JhbXZR",
+    "snippet": {
+      "publishedAt": "2013-04-08T17:49:04.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Build your own Heroku with Cloud Foundry",
+      "description": "If you use Heroku for your pet projects, then you can now use open source Cloud Foundry for your work projects.\n\nIn this talk, we look at how to easily get Cloud Foundry running on your own AWS account or on OpenStack running on your macmini or your corporate data center. We look at how to scale it, how to upgrade it over time, and most importantly: how to deploy applications in less than 30 seconds.\n\nDr Nic Williams is the creator of the tools that make all this possible for you, and also the CEO of Stark & Wayne, the consultancy for Cloud Foundry users.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e0EprkBamvQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e0EprkBamvQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e0EprkBamvQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/e0EprkBamvQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/e0EprkBamvQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "e0EprkBamvQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kGgz7CmeBbs-8O6bBsQtB6OqRzE\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3Lk1VXzJweEhFbUU4",
+    "snippet": {
+      "publishedAt": "2012-09-15T01:04:00.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Crowdsourcing: Achieving Data Quality with Imperfect Humans",
+      "description": "http://data.linkedin.com\n\nCrowdsourcing is a great tool to collect data and support machine learning -- it is the ultimate form of outsourcing. But crowdsourcing introduces budget and quality challenges that must be addressed to realize its benefits.\n\nIn this talk, I will discuss the use of crowdsourcing for building robust machine learning models quickly and under budget constraints. I'll operate under the realistic assumption that we are processing imperfect labels that reflect random and systematic error on the part of human workers. I will also describe our \"beat the machine\" system engages humans to improve a machine learning system by discovering cases where the machine fails and fails while confident on being correct. I'll use classification problems that arise in online advertising.\n\nFinally, I'll discuss our latest results showing that mice and Mechanical Turk workers are not that different after all.\n\n\nAbout the Speaker:\n\nPanos Ipeirotis is an Associate Professor and George A. Kellner Faculty Fellow at the Department of Information, Operations, and Management Sciences at Leonard N. Stern School of Business of New York University. \n\nHis recent research interests focus on crowdsourcing and on mining user-generated content on the Internet. He received his Ph.D. degree in Computer Science from Columbia University in 2004, with distinction. \n\nHe has received three \"Best Paper\" awards (IEEE ICDE 2005, ACM SIGMOD 2006, WWW 2011), two \"Best Paper Runner Up\" awards (JCDL 2002, ACM KDD 2008), and is also a recipient of a CAREER award from the National Science Foundation.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MU_2pxHEmE8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MU_2pxHEmE8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MU_2pxHEmE8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MU_2pxHEmE8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MU_2pxHEmE8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MU_2pxHEmE8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kL2L28RukAu8XY0hTUMY3VWeso0\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3Li1JWXFneDhKeGxV",
+    "snippet": {
+      "publishedAt": "2012-08-17T22:44:36.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "JS Unit Testing",
+      "description": "...with Seth McLaughlin.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-IYqgx8JxlU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-IYqgx8JxlU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-IYqgx8JxlU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-IYqgx8JxlU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-IYqgx8JxlU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-IYqgx8JxlU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SxlvXkbz6zMotTpsWoPV8UejD_w\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LjhxdXZrVG55enlj",
+    "snippet": {
+      "publishedAt": "2012-08-17T22:44:07.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "The Curious Case of Dust",
+      "description": "...with Veena Basavaraj.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8quvkTnyzyc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8quvkTnyzyc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8quvkTnyzyc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8quvkTnyzyc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8quvkTnyzyc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8quvkTnyzyc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/T93OyXK0JVLqZwPIuqfh2p5fIH4\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LjhRcnhlOVBud3VR",
+    "snippet": {
+      "publishedAt": "2012-08-08T22:46:29.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "JS Coding Standards",
+      "description": "...with Samuel Mburu.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8Qrxe9PnwuQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8Qrxe9PnwuQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8Qrxe9PnwuQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8Qrxe9PnwuQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8Qrxe9PnwuQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8Qrxe9PnwuQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3K876OE5jJWI_v6saQV4V5ID4GY\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LmZ0OVI3MlI3VGxJ",
+    "snippet": {
+      "publishedAt": "2012-08-03T23:03:54.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Building A Performant HTML5 App",
+      "description": "...with Trunal Bhanse and Akhilesh Gupta.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ft9R72R7TlI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ft9R72R7TlI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ft9R72R7TlI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ft9R72R7TlI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ft9R72R7TlI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ft9R72R7TlI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FC9JU-2BOEfnOUi1XXc8BTfl1lI\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3Lm1wTEZSaElHeE40",
+    "snippet": {
+      "publishedAt": "2012-08-03T23:02:56.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "JQuery at LinkedIn",
+      "description": "...with Kiro Risk.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mpLFRhIGxN4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mpLFRhIGxN4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mpLFRhIGxN4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mpLFRhIGxN4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mpLFRhIGxN4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mpLFRhIGxN4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/smoT5PtNzxYUfsoWG30v_fRxmLA\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LnBDRWluQ1BOWTlv",
+    "snippet": {
+      "publishedAt": "2012-07-21T06:42:51.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "LinkedIn Homebrew",
+      "description": "with Jakob Heuser and Matt Powell.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pCEinCPNY9o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pCEinCPNY9o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pCEinCPNY9o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pCEinCPNY9o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pCEinCPNY9o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pCEinCPNY9o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/30LIriNTgT8zUSS5kZnAzTMp32E\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LjV2c3JxLTlWaFpz",
+    "snippet": {
+      "publishedAt": "2012-07-11T23:37:57.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Object Oriented Programming",
+      "description": "with Kiro Risk.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5vsrq-9VhZs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5vsrq-9VhZs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5vsrq-9VhZs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5vsrq-9VhZs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5vsrq-9VhZs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5vsrq-9VhZs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MTyTlz_05jSNjHm2TsV-PPu0N2k\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LnZYV09LWlZkUmFJ",
+    "snippet": {
+      "publishedAt": "2012-07-11T23:37:57.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Scoping",
+      "description": "with Kiro Risk.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vXWOKZVdRaI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vXWOKZVdRaI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vXWOKZVdRaI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vXWOKZVdRaI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vXWOKZVdRaI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vXWOKZVdRaI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZwpiHHvzo45PLx90iQiTSR7ChPw\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3Lklic3B5eEpwcFU4",
+    "snippet": {
+      "publishedAt": "2012-07-10T19:46:46.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "AJAX at LinkedIn",
+      "description": "with Tim Lynn.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IbspyxJppU8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IbspyxJppU8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IbspyxJppU8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IbspyxJppU8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IbspyxJppU8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IbspyxJppU8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RcUBA8Elsg6kaLVckRDyPPGJ0YE\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LmVvZ05LV0x2enI0",
+    "snippet": {
+      "publishedAt": "2012-07-10T19:46:46.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Javascript Debugging",
+      "description": "with Jim Gourgoutis.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eogNKWLvzr4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eogNKWLvzr4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eogNKWLvzr4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eogNKWLvzr4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eogNKWLvzr4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eogNKWLvzr4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VuBt_GuMhGeRa6ELCtS_Kw8_CRA\"",
+    "id": "VVVfX3R4MGQ3RXMxQXFpcFYzbkxTdzR3LlhlaWlFZ3V4Uk5z",
+    "snippet": {
+      "publishedAt": "2012-06-21T21:17:57.000Z",
+      "channelId": "UC__tx0d7Es1AqipV3nLSw4w",
+      "title": "Scala Usage at LinkedIn",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XeiiEguxRNs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XeiiEguxRNs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XeiiEguxRNs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XeiiEguxRNs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XeiiEguxRNs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LinkedInTechTalks",
+      "playlistId": "UU__tx0d7Es1AqipV3nLSw4w",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XeiiEguxRNs"
+      }
+    }
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "tags": ["google"],
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K3ngOoL7rqi2XrCqx2VMnuTp5jo\"",
+      "id": "UCkWLGZL69LhjjgGRKhcAE_w",
+      "snippet": {
+        "title": "Google for Startups",
+        "description": "Welcome to the official Google for Startups YouTube channel. Wherever your startup is, from concept to scale up, Google for Startups helps move your business forward with the best of Google’s products, connections, and best practices.",
+        "customUrl": "entrepreneurs",
+        "publishedAt": "2012-08-16T01:20:17.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJz2lRDAcKDnxP0W7FX8Y681AiqWVIDEbQomTQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJz2lRDAcKDnxP0W7FX8Y681AiqWVIDEbQomTQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJz2lRDAcKDnxP0W7FX8Y681AiqWVIDEbQomTQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Google for Startups",
+          "description": "Welcome to the official Google for Startups YouTube channel. Wherever your startup is, from concept to scale up, Google for Startups helps move your business forward with the best of Google’s products, connections, and best practices."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUkWLGZL69LhjjgGRKhcAE_w",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUkWLGZL69LhjjgGRKhcAE_w"
+  },
+  "displayName": "Google for Startups",
+  "description": "Welcome to the official Google for Startups YouTube channel. Wherever your startup is, from concept to scale up, Google for Startups helps move your business forward with the best of Google’s products, connections, and best practices.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJz2lRDAcKDnxP0W7FX8Y681AiqWVIDEbQomTQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJz2lRDAcKDnxP0W7FX8Y681AiqWVIDEbQomTQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJz2lRDAcKDnxP0W7FX8Y681AiqWVIDEbQomTQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

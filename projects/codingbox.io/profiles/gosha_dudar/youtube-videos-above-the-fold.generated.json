@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2UWoyoz_fODfglPrvf8rAiezIC0\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3Lk5fS05tWlhpQ05J",
+    "snippet": {
+      "publishedAt": "2020-04-21T14:00:12.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Язык Си для начинающих / #6 - Функции в Си",
+      "description": "Функции являются небольшими подпрограммами внутри вашей программы.  За счёт функций можно вынести повторяющийся код в одно место и далее к нему обращаться. За урок мы научимся работать с функциями в Си.\n\n1) Урок на сайте itProger: https://itproger.com/course/c-programming/6\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N_KNmZXiCNI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N_KNmZXiCNI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N_KNmZXiCNI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/N_KNmZXiCNI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/N_KNmZXiCNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "N_KNmZXiCNI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/e-a6e--F60nH8BTxzf0HYmyEaAw\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LjVtQkt6VnM1TVkw",
+    "snippet": {
+      "publishedAt": "2020-04-17T13:45:00.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Сделал Java программу с интерфейсом / Погодное приложение",
+      "description": "Вы думаете разработка программ на Java это сложный процесс? Пфф, я хочу вас в этом переубедить и это видео тому доказательство!\n\n💻 OpenWeatherMap: https://openweathermap.org/\n🔓 JSON Java: https://mvnrepository.com/artifact/org.json/json/20190722\n☕️ Программа обучения Java: https://bit.ly/3a6Cv09\n✏️ Статья на itProger: https://itproger.com/news/271\n\n✔ Сообщество программистов: https://itproger.com/\r\n\r\n✔ -------------\r\nВступай в группу Вк - https://vk.com/prog_life 🚀\r\nГруппа FaceBook - https://goo.gl/XW0aaP\r\nИнстаграм itProger: https://www.instagram.com/itproger_official/\r\n\r\nInstagram: https://www.instagram.com/gosha_dudar/\r\nTelegram: http://t.me/itProger_official\r\nTwitter - https://twitter.com/GoshaDudar\r\n\r\n- Уроки от #GoshaDudar 👨🏼‍💻\r\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5mBKzVs5MY0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5mBKzVs5MY0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5mBKzVs5MY0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5mBKzVs5MY0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5mBKzVs5MY0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5mBKzVs5MY0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uIS7dsF-t5myElCvwBVqLyK6EF4\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LlFvSl95dlB0dGxj",
+    "snippet": {
+      "publishedAt": "2020-04-10T13:15:02.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Пишем телеграм бота на Python / Бот по выбору языка программирования",
+      "description": "Создание ботов для телеграмм это не столь сложное дело, но зато очень интересное. За видео мы с вами сделаем бота и рассмотрим все тонкости его создания и выгрузки на сервер.\n\n💻 Телеграмм бот: https://t.me/ChooseItprogerBot\n🔓 Телеграмм API: https://pypi.org/project/pyTelegramBotAPI/\n🐍 Программа обучения Python: https://bit.ly/2ykXWh7\n✏️ Статья на itProger: https://bit.ly/39Jjdhr\n\n✔ Сообщество программистов: https://itproger.com/\r\n\r\n✔ -------------\r\nВступай в группу Вк - https://vk.com/prog_life 🚀\r\nГруппа FaceBook - https://goo.gl/XW0aaP\r\nИнстаграм itProger: https://www.instagram.com/itproger_official/\r\n\r\nInstagram: https://www.instagram.com/gosha_dudar/\r\nTelegram: http://t.me/itProger_official\r\nTwitter - https://twitter.com/GoshaDudar\r\n\r\n- Уроки от #GoshaDudar 👨🏼‍💻\r\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QoJ_yvPttlc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QoJ_yvPttlc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QoJ_yvPttlc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QoJ_yvPttlc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QoJ_yvPttlc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QoJ_yvPttlc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/R1IGnz7TBIwj-FgJXPQGyjHXrN8\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LmEwVlZETUd3UzBr",
+    "snippet": {
+      "publishedAt": "2020-03-31T14:00:02.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Телеграмм и коронавирус / Пишем бота на Python с отслеживанием данных",
+      "description": "Создаем простого, но функционального бота телеграмм для отслеживания статистики заболеваний по коронавирусу. Если тема ботов вам понравилась, то напишите об этом 😉\n\n🦠 Телеграмм бот: https://t.me/CoronaItprogerBot\n📝 Библиотека COVID19: https://pypi.org/project/COVID19Py/\n🔓 Телеграмм API: https://pypi.org/project/pyTelegramBotAPI/\n✏️ Статья на itProger: https://bit.ly/2WYAuR3\n🐍 Программа обучения Python: https://bit.ly/2ykXWh7\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a0VVDMGwS0k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a0VVDMGwS0k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a0VVDMGwS0k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a0VVDMGwS0k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a0VVDMGwS0k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "a0VVDMGwS0k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/o2X-fNIOV3bKG8h2eQTxfaWO3ms\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LnhnaVFBMC1mcVFJ",
+    "snippet": {
+      "publishedAt": "2020-04-19T14:00:34.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Язык Си для начинающих / #5 - Циклы и операторы в них",
+      "description": "За счёт циклов вы можете создавать повторяющийся код множество раз подряд. В языке Си существует несколько циклов, а также операторов в них. За урок мы научимся работать с циклами в Си.\n\n1) Урок на сайте itProger: https://itproger.com/course/c-programming/5\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xgiQA0-fqQI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xgiQA0-fqQI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xgiQA0-fqQI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xgiQA0-fqQI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xgiQA0-fqQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xgiQA0-fqQI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JZQBeazOzMBR03-JFpFbeLG94-c\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LkNfUHkzSWdSeFNr",
+    "snippet": {
+      "publishedAt": "2020-04-12T14:00:04.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Язык Си для начинающих / #4 - Условные операторы",
+      "description": "Условные конструкции очень полезны, ведь позволяют выполнить проверку какого-либо условия и в зависимости от результата выполнить определенный код в программе. За урок мы научимся работать с оператором if else, а также switch case.\n\n1) Урок на сайте itProger: https://itproger.com/course/c-programming/4\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C_Py3IgRxSk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C_Py3IgRxSk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C_Py3IgRxSk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/C_Py3IgRxSk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/C_Py3IgRxSk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "C_Py3IgRxSk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Pmoekhzkb-WXqtLiB-EL2Q1tHdM\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LlpwbWw5MUNZOGpZ",
+    "snippet": {
+      "publishedAt": "2020-04-08T14:00:26.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Язык Си для начинающих / #3 - Массивы данных",
+      "description": "Массивы данных позволяют хранить большой объем информации в одном месте. В языке Си они представляют возможности для работы со строками. За урок мы научимся работать с массивами и познакомимся с созданием строк.\n\n1) Урок на сайте itProger: https://itproger.com/course/c-programming/3\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zpml91CY8jY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zpml91CY8jY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zpml91CY8jY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Zpml91CY8jY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Zpml91CY8jY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Zpml91CY8jY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ucMtYF3L9VwpbsmdWFRvkcmPzuA\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LlF2dFlhVVVvNG5J",
+    "snippet": {
+      "publishedAt": "2020-04-04T14:00:10.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Язык Си для начинающих / #2 - Переменные и типы данных",
+      "description": "Переменные являются важной частью любого языка программирования. В ходе урока мы познакомимся с написанием переменных, а также изучим различные типы данных. Также мы научимся выводить и получать данные от пользователя.\n\n1) Урок на сайте itProger: https://itproger.com/course/c-programming/2\n\n✔ Сообщество программистов: https://itproger.com/\r\n\r\n✔ -------------\r\nВступай в группу Вк - https://vk.com/prog_life 🚀\r\nГруппа FaceBook - https://goo.gl/XW0aaP\r\nИнстаграм itProger: https://www.instagram.com/itproger_official/\r\n\r\nInstagram: https://www.instagram.com/gosha_dudar/\r\nTelegram: http://t.me/itProger_official\r\nTwitter - https://twitter.com/GoshaDudar\r\n\r\n- Уроки от #GoshaDudar 👨🏼‍💻\r\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QvtYaUUo4nI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QvtYaUUo4nI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QvtYaUUo4nI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QvtYaUUo4nI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QvtYaUUo4nI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QvtYaUUo4nI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tjHziGO-u42hdTftcIfo5Sp4zio\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LmhCSjRCV2hQME9F",
+    "snippet": {
+      "publishedAt": "2020-04-01T14:00:11.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Язык Си для начинающих / #1 - Введение в язык Си",
+      "description": "Представляем курс по изучению языка программирования Си. Си является одним из самых популярных языков в программировании и ща его изучение обычно берутся ещё в школе или университете.\n\n1) Курс на сайте itProger: https://itproger.com/course/c-programming\n2) Code Blocks: http://www.codeblocks.org/\n3) Программа Visual Studio: https://visualstudio.microsoft.com/ru/vs/\n4) Онлайн редактор кода: https://www.tutorialspoint.com/compile_c_online.php\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hBJ4BWhP0OE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hBJ4BWhP0OE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hBJ4BWhP0OE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hBJ4BWhP0OE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hBJ4BWhP0OE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hBJ4BWhP0OE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-Nci6bQWCsUAIj4rWCc3yFNwRTo\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LlZtTExyWGxBMXhj",
+    "snippet": {
+      "publishedAt": "2020-03-28T13:00:21.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Дополненная реальность / Создание игры на Unity",
+      "description": "Разработка приложений с дополненной реальностью не так страшна как вам кажется. В этом видео я постараюсь вам доказать, что создать AR игру или приложение может кажет!\n\n💣 Программа обучения Unity: https://itproger.com/intensive/unity?source=yt\n✏️ Статья по данному видео: https://itproger.com/news/267\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VmLLrXlA1xc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VmLLrXlA1xc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VmLLrXlA1xc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VmLLrXlA1xc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VmLLrXlA1xc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VmLLrXlA1xc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Cy8jw0SVEJ7GZfFTWkn4sRcYCGI\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LjRMNTdvWTNKMzc4",
+    "snippet": {
+      "publishedAt": "2020-03-21T14:30:02.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Сделал Python программу для отслеживания курса валют",
+      "description": "Делаем программу на Python для отслеживания курсов валют и отправки почты при изменении курса.\n\n✅ Наш мерч: http://shop.itproger.com/?source=yt\n🐍 Программа обучения Python: https://itproger.com/intensive/python?source=yt\n✏️ Статья на itProger с кодом программы: https://itproger.com/news/266\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4L57oY3J378/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4L57oY3J378/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4L57oY3J378/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4L57oY3J378/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4L57oY3J378/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4L57oY3J378"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Zsv1fmwDh7ubVeEqtgs9z-ToeFA\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LmM2NmRzLXVFMmF3",
+    "snippet": {
+      "publishedAt": "2020-02-28T15:00:10.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Пора заклеивать камеру на ноутбуках!",
+      "description": "Большинство подумают что тема глупая, но так ли это? На самом деле есть достоверные факты, что камеру в некоторых случаях все же стоит заклеивать. Зачем и нужно ли - отвечу в этом видео!\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c66ds-uE2aw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c66ds-uE2aw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c66ds-uE2aw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c66ds-uE2aw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c66ds-uE2aw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c66ds-uE2aw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ej4Wxr67xb2NCHDLR5wMJjjSNps\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LnVyT0VyNnFwSVM0",
+    "snippet": {
+      "publishedAt": "2020-02-21T14:45:00.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Где платят больше? Зарплаты программистов в разных странах",
+      "description": "Где платят больше? Извечный вопрос, на который я постараюсь ответить в данном видео ролике!\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/urOEr6qpIS4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/urOEr6qpIS4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/urOEr6qpIS4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/urOEr6qpIS4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/urOEr6qpIS4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "urOEr6qpIS4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/k7I5mFNGtMQTk2Ew8mjadhDZHgk\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LmlGdmhYV3RXMGVB",
+    "snippet": {
+      "publishedAt": "2020-02-11T15:00:09.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Программист за 30 лет: можно ли добиться УСПЕХА?",
+      "description": "Стоит ли становиться программистом, если вам уже более 30 лет? 💻 Разобью интригу и скажу что да, стоит, а вот более детальные советы смотрите в видео 🎥\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaLessons",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iFvhXWtW0eA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iFvhXWtW0eA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iFvhXWtW0eA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iFvhXWtW0eA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iFvhXWtW0eA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iFvhXWtW0eA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KGRk-Nt6s_iHwl5LmNJz2REyL90\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LlIzWU5QbTdabVlZ",
+    "snippet": {
+      "publishedAt": "2020-03-26T15:00:25.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Уроки Java Spring Boot / #7 - Редактирование и удаление",
+      "description": "За урок мы добавим возможность для редактирования и удаления статьей из базы данных. Мы создадим несколько новых обработчиков и страниц для реализации полноценной системы управления записями.\n\n1) Урок на сайте itProger: https://itproger.com/course/java-spring/7\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaSpring",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R3YNPm7ZmYY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R3YNPm7ZmYY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R3YNPm7ZmYY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R3YNPm7ZmYY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R3YNPm7ZmYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "R3YNPm7ZmYY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aorZd2dutWRTARPkMKDanU8bLcI\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LlpKVUFSOFhlNkNZ",
+    "snippet": {
+      "publishedAt": "2020-03-22T15:00:25.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Уроки Java Spring Boot / #6 - Вывод каждой из статей",
+      "description": "В ходе урока мы добавим динамическую страницу, на которой будут отображаться различные статьи в зависимости от параметра переданного в URL адресе. \n\n1) Урок на сайте itProger: https://itproger.com/course/java-spring/6\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaSpring",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZJUAR8Xe6CY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZJUAR8Xe6CY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZJUAR8Xe6CY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZJUAR8Xe6CY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZJUAR8Xe6CY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZJUAR8Xe6CY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JlWD8AB6ESiQWm_i5N0lZ2UPHTk\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LnNQSDU4bGJ6WXZv",
+    "snippet": {
+      "publishedAt": "2020-03-18T15:00:14.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Уроки Java Spring Boot / #5 - Форма добавления записей через сайт",
+      "description": "Мы создадим функционал для добавления статей в базу данных прямиком через форму на сайте. В ходе урока мы создадим форму, пропишем обработчики для получения данных, а также научимся сохранять новые статьи в MySQL базу данных.\n\n1) Урок на сайте itProger: https://itproger.com/course/java-spring/5\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaSpring",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sPH58lbzYvo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sPH58lbzYvo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sPH58lbzYvo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sPH58lbzYvo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sPH58lbzYvo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sPH58lbzYvo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zorkNWZXb1EWt6B2F_sXpNnwDwo\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3Lm9HSzJLdWZ2eE0w",
+    "snippet": {
+      "publishedAt": "2020-03-13T15:00:22.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Уроки Java Spring Boot / #4 - Работа с базой данных MySQL. Создание модели",
+      "description": "Начиная с этого урока мы приступаем к работе с базой данных внутри нашего Java Spring проекта. За урок мы создадим базу данных MySQL и выполним подключение к ней через Java Spring и технологию JDBC.\n\n1) Урок на сайте itProger: https://itproger.com/course/java-spring/4\n2) Программа MAMP: https://www.mamp.info/en/\n3) Программа OpenServer: https://ospanel.io/\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaSpring",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oGK2KufvxM0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oGK2KufvxM0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oGK2KufvxM0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oGK2KufvxM0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oGK2KufvxM0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oGK2KufvxM0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/w6HLViLTozU2fbfHcP6xXvyaeEw\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LlMxb09NSm9yWjJ3",
+    "snippet": {
+      "publishedAt": "2020-03-09T15:00:05.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Уроки Java Spring Boot / #3 - Разработка раздела «Блог»",
+      "description": "Наш сайт будет представлять из себя мини веб-блог. На ресурсе будет возможность добавления, редактирования, удаления и просмотра всех новостных статей. За урок мы создадим раздел «Блог» на сайте.\n\n1) Урок на сайте itProger: https://itproger.com/course/java-spring/3\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaSpring",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S1oOMJorZ2w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S1oOMJorZ2w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S1oOMJorZ2w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S1oOMJorZ2w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S1oOMJorZ2w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "S1oOMJorZ2w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/i08rZIooqfNL-zdZthtViKgCXJQ\"",
+    "id": "VVV2dVk5MDRlbDdKdkJsUGJkcWJmZ3V3LjVzNTBaajhZSUU4",
+    "snippet": {
+      "publishedAt": "2020-03-05T15:00:00.000Z",
+      "channelId": "UCvuY904el7JvBlPbdqbfguw",
+      "title": "Уроки Java Spring Boot / #2 - Главная страница сайта",
+      "description": "Каждый веб-сайт содержит основную страницу, что является презентационной страницей сайта. В ходе урока мы создадим все классы и файлы для отображения главной страницы сайта в браузере. Мы подключим стили Bootstrap и сделаем красивый вид для страницы.\n\n1) Урок на сайте itProger: https://itproger.com/course/java-spring/2\n2) Документация по установке MVC: https://spring.io/guides/gs/serving-web-content/\n3) Официальный сайт Bootstrap: https://getbootstrap.com/\n4) Bootstrap CDN: https://www.bootstrapcdn.com/\n5) Курс по Bootstrap: https://itproger.com/course/bootstrap\n\n✔ Сообщество программистов: https://itproger.com/\n\n✔ -------------\nВступай в группу Вк - https://vk.com/prog_life 🚀\nГруппа FaceBook - https://goo.gl/XW0aaP\nИнстаграм itProger: https://www.instagram.com/itproger_official/\n\nInstagram: https://www.instagram.com/gosha_dudar/\nTelegram: http://t.me/itProger_official\nTwitter - https://twitter.com/GoshaDudar\n\n- Уроки от #GoshaDudar 👨🏼‍💻\n- Все уроки по хештегу #goshaSpring",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5s50Zj8YIE8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5s50Zj8YIE8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5s50Zj8YIE8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5s50Zj8YIE8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5s50Zj8YIE8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Гоша Дударь",
+      "playlistId": "UUvuY904el7JvBlPbdqbfguw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5s50Zj8YIE8"
+      }
+    }
+  }
+]

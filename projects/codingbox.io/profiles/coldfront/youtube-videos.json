@@ -1,0 +1,2522 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OSXOiuNAuFlgB7GWRvgcVlgSHMc\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Li1QYnBXWUJSQmdN",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:37:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Charlie Gerard on Mind control in JavaScript - Experimenting with alternative interactions",
+      "description": "Charlie Gerard - on future of emotive interfaces\nA typical interaction with a device or interface involves touching it. Either you're pressing buttons on a controller, swiping on a touchscreen or clicking on your laptop's trackpad. But what if you could control things without the use of your hands? What if you could use... your thoughts? \n\nFor the past couple of years, I have been tinkering with a brain sensor and developed an open-source JavaScript framework to allow me (or anyone else) to control interfaces or robots using facial expressions and mental commands. In this talk, I will be sharing what I learnt, showing how it works and talking about the future possibilities of alternative interactions.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-PbpWYBRBgM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-PbpWYBRBgM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-PbpWYBRBgM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-PbpWYBRBgM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-PbpWYBRBgM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-PbpWYBRBgM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EjXerVgb9D1vQf8ksqUQGi7GagI\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LldHYTdVMEU5c2JV",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:37:14.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Mina Markham on Do the Most Good •  ColdFront 2018",
+      "description": "Mina Markham - on future of doing good as a developer\nTechnology can be a huge driving force for good, but unfortunately, sometimes it misses the mark. What do we do when our work causes harm? And what do can we do when technology is not the solution? \n\nIn this talk, Mina shares reflections from her work in social good space, and explores strategies to take your activism from behind the keyboard and echo chambers out into the real world.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WGa7U0E9sbU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WGa7U0E9sbU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WGa7U0E9sbU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WGa7U0E9sbU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WGa7U0E9sbU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WGa7U0E9sbU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TAfUa0mAou-fs_msKR7LYztlj6w\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Lk5mTHptUE9fZ1VF",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:36:33.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Jacob Rossi on Uniting the real world with the virtual •  ColdFront 2018",
+      "description": "Jacob Rossi - on future of WebXR\nToday’s VR headsets are powerful, untethered, lighter, and more immersive, and yet it’s still early days for the technology. Choosing to target VR users can be a big bet, but what if the same immersive content could run on your phone that does in VR? In this talk, Jacob will explore what we’re learning about the web in VR, how to reach more users by uniting 2D and VR, and advances coming down the pipe to WebXR that will take those experiences to the next level.\n\nSlides: https://speakerdeck.com/jacobrossi/uniting-the-real-world-with-the-virtual",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NfLzmPO_gUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NfLzmPO_gUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NfLzmPO_gUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NfLzmPO_gUE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NfLzmPO_gUE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NfLzmPO_gUE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/M3vN5YOmD7q0bpviPb63uZDHVsw\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LmJHeTktenA1YW1V",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:35:55.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Holger Bartel on The Untold Benefits of Ethical Design •  ColdFront 2018",
+      "description": "Holger Bartel - on future of Product Design\nEthics need to be at the core of everything we build. We have to consider our impact and rethink how to build digital products. This way we will not only create more responsible products, but gain additional benefits in the areas of performance, security, privacy and user happiness. This talk will show how to truly care about our users and improve the user experience at the same time. Most importantly, this talk is a guide, a technical inspiration, will question the status quo and help us build for a better web.\n\nSlides: https://noti.st/foobartel/iNBMSA/the-untold-benefits-of-ethical-design",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bGy9-zp5amU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bGy9-zp5amU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bGy9-zp5amU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bGy9-zp5amU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bGy9-zp5amU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bGy9-zp5amU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oQ8fNN0R6iomMvwcACC6fXB7AV8\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LmdJLVA5SEIybGY4",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:35:17.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Kenneth Christiansen on On the fly WebP decoding with Web Assembly and Service Workers",
+      "description": "Showcase of what's possible with Web Assembly and Service Workers today",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gI-P9HB2lf8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gI-P9HB2lf8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gI-P9HB2lf8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gI-P9HB2lf8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gI-P9HB2lf8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gI-P9HB2lf8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WEVKkT3uEO24CfCEx4aTHK8lSgE\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Lkw4N2FDTUp1V05N",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:32:01.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Myles Borins on Top-Level Awaiting for Godot •  ColdFront 2018",
+      "description": "Myles Borins - on future of open web standards\nIt goes without saying that one of the largest challenges in JavaScipt is handling asynchronicity. Along come Async / Await, a language feature made popular by C#. Developers can now use the keyword await to write code in a synchronous fashion without blocking the main thread. The only catch is that the await keyword needs to be used in an asyncfunction. \n\nWhat if that were not the case? What if await could be used anywhere inside a JavaScript module? This talk follows the adventure of implementing the Top-Level await feature in the JavaScript language. From deep dives into module loading to a high level overview of socializing standards changes, this talk covers the process of what it takes to change the JavaScript language.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L87aCMJuWNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L87aCMJuWNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L87aCMJuWNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L87aCMJuWNM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L87aCMJuWNM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "L87aCMJuWNM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-SA5BRIO5Ax3Nx4cAMYplHFjLvw\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LlRiT3hQaGNWekNj",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:17:08.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Sara Soueidan on Inclusively Responsive UIs with CSS and SVG •  ColdFront 2018",
+      "description": "Sara Soueidan - on future of real-world CSS\nCSS has advanced so much in the last few years and new features were added to it that make our lives as developers easier. But on the other hand some features have been added that are there to provide a better experience for our users as well, as long as we utilize them to do so. \n\nIn this talk, Sara is going to cover some of the most useful CSS and SVG features, and how they can be used to make more usable products that respond to user's needs and preferences, to create overall more inclusive interfaces.\n\nSlides: https://www.sarasoueidan.com/slides/css-for-ux-v2.pdf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TbOxPhcVzCc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TbOxPhcVzCc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TbOxPhcVzCc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TbOxPhcVzCc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TbOxPhcVzCc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TbOxPhcVzCc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oySZVz5M5_TivbdqGF1J0UvCm58\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LkZqa1loei0yWWVF",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:24:57.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Vitaly Friedman on New Adventures In Responsive Web Design •  ColdFront 2018",
+      "description": "Vitaly Friedman - on future adventures in front-end\nYou’re a smart cookie. If someone asks you to build a responsive accordion, you’ll figure it out. The same goes for a table. Or a calendar. Or, God forbid, a multi-level-mega-drop-down. But how would you go around slightly more complicated components? \n\nWhat if you had to build a sophisticated car configurator with a real-time updated 3D view? What about an advanced feature comparison table, a music festival schedule, an election map, an airfare booking and check-in, a live world football championship leaderboard and a theatre map seat selection? In this session, we’ll take a microscopic examination of common interface components and problems appearing in responsive user interfaces — and we’ll look into simple art-direction techniques to create unique and memorable experiences. \n\nTighten up your seatbelt! Beware: you will not be able to unlearn what you’ll learn in the session! Ah, one more thing, take the techniques with a grain of salt — we do not take responsibility for sleepless nights and nightmares caused by the content of this session.\n\nSlides: https://www.dropbox.com/s/zxgkbfflz3a8ys0/coldfront-design-patterns.pdf?dl=0",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FjkYhz-2YeE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FjkYhz-2YeE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FjkYhz-2YeE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FjkYhz-2YeE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FjkYhz-2YeE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FjkYhz-2YeE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jzWGU5sSetn4MW5Y69GyX7ywPSQ\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LlkxV2I0YTFNLVhj",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:23:52.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Shirley Wu on Data visualizations on the web •  ColdFront 2018",
+      "description": "Data visualizations are becoming more common on the web, from visual essays to internal business analytics to features within products. But visualizations and D3.js - the library most commonly used for developing these visualizations - are still considered niche in the front-end ecosystem. The lack of adoption may come from the initial friction developers face when learning D3.js, but with frameworks like React and Vue, that friction can be greatly reduced. \n\nIn this talk, I'll speak about how React and Vue can make working with D3.js easier, and how to use D3.js with either of the frameworks. Then, I'll show how we can write more complex interactions with less code using D3.js and React.js. I hope this talk will show how fun it is to create data visualizations for the web, and I hope it'll lead to more visualizations on the web\n\nSlides, resources, and more : https://twitter.com/sxywu/status/1063037082057261057",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y1Wb4a1M-Xc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y1Wb4a1M-Xc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y1Wb4a1M-Xc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y1Wb4a1M-Xc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y1Wb4a1M-Xc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Y1Wb4a1M-Xc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-ZplErNlvZ6YIDIe1RDce5JK5iY\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LjFLZC1aSG1NekQ0",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:22:26.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Harry Roberts on It’s My (Third) Party, and I’ll Cry if I Want To •  ColdFront 2018",
+      "description": "Like it or not, a huge part of modern web development involves the use of third-party providers: fonts, analytics, ads, tracking, and more all have an impact of performance, and can leave us (or, more worryingly, our visitors) susceptible to performance degradation. \n\nIn this talk, we’ll take a look at unruly or uninvited (third-)party guests: how to detect them, how to audit them, and how to manage them. We’ll also look at the different tools available to help us stress-test and quantify the overhead these third parties bring, and what that means for users and businesses alike.\n\nhttps://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1Kd-ZHmMzD4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1Kd-ZHmMzD4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1Kd-ZHmMzD4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1Kd-ZHmMzD4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1Kd-ZHmMzD4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1Kd-ZHmMzD4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6CE-drl-Y-jQu_16eBT5LH3lsCo\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LkNiMzJFYUZIejc0",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:21:44.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Srđan Rašić on Building AR apps with ARKit on iOS  •  ColdFront 2018",
+      "description": "It was not until recently that the term AR has been reserved for a small group of developers, researchers and tech enthusiasts. All that changed with a game catching the interest of the general public and the subsequent introduction of Apple's own technology that promises to deliver augmented reality experiences to the masses - ARKit. \n\nIn this interactive session, we will learn what ARKit is, get a glimpse of what it can do and show you how easy it is to get started with it.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Cb32EaFHz74/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Cb32EaFHz74/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Cb32EaFHz74/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Cb32EaFHz74/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Cb32EaFHz74/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Cb32EaFHz74"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fv3H7fFuTyup06K0JPEosOjEszI\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LkJpVXpLT1ZLRnlv",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:21:10.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Lars Cimber on Working with AR •  ColdFront 2018",
+      "description": "Lars Cimber + Mina Ashena - on working with VR\nWith AR capabilities on millions of phones, the users can experience a whole new level of interaction with physical objects. During this presentation we will delve into the key cases Jayway believes will propel AR, i.e. where we see most interest from our customers. We will announce a new AR application, and show in a live coding session how this app takes advantage of image and object recognition of ARKit",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BiUzKOVKFyo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BiUzKOVKFyo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BiUzKOVKFyo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BiUzKOVKFyo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BiUzKOVKFyo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BiUzKOVKFyo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QdjJl8Cjj2INPkChHfv1zgTr374\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LnNsNVRhTjdFd2pR",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:20:11.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Michael Thomsen on A fresh perspective on multi-platform UI •  ColdFront 2018",
+      "description": "Michael Thomsen - on future of cross-platform native apps\nFlutter is a Google-sponsored open-source SDK for creating multi-platform user interfaces. We will talk about how Flutter is very different from similar frameworks, any why we have made the technical choices we have.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sl5TaN7EwjQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sl5TaN7EwjQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sl5TaN7EwjQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sl5TaN7EwjQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sl5TaN7EwjQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sl5TaN7EwjQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YP74k5H0NcifeIIjk-XEtthQBNU\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LkxNU3JSU1lEV21n",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:19:22.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Brent Vatne on What's next for React Native and Expo •  ColdFront 2018",
+      "description": "Brent Vatne - on future of Expo and React Native\nFabric is a re-implementation of much of the internals of React Native that draws inspiration from the experiences of over three years of production use and turns initial design decisions upside down. In particular, it moves away from a mainly asynchronous bridge between the JavaScript and native runtimes by leveraging the React Fiber architecture. We’ll look at Fabric with a focus on what problems it aims to solve and which will problems will remain. \n\nWe’ll also discuss the company that I work on, Expo. Expo is an important part of the React Native ecosystem because it builds tools, services, and libraries around React Native core that are increasingly depended on by the community. It removes the native build step required to get started and provides a “Create React App”-style experience. Expo also provides a CodeSandbox style web playground called Snack. A key piece of Expo is the extensive native API wrapper modules that are available out of the box. Up until recently, this package has been monolithic and developers have had to buy into the entire Expo toolchain in order to take advantage of the native modules. We recently re-architected them so React Native users can use as few or as many as they like, and Flutter, Cordova, or even normal native apps can take advantage of them to have a cleaner cross-platform interface for interacting with native APIs. \n\nWe’ll talk about these “universal modules” and other exciting projects underway.\n\nSlides:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LMSrRSYDWmg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LMSrRSYDWmg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LMSrRSYDWmg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LMSrRSYDWmg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LMSrRSYDWmg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LMSrRSYDWmg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Qgna-cD_K7R2uODuyy0Zemy7z74\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LlFxWmN2RzQ0QzBV",
+    "snippet": {
+      "publishedAt": "2018-11-22T04:19:34.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Michael Flarup on Designing for Augmented Reality •  ColdFront 2018",
+      "description": "Michael Flarup - on designing for Augmented Reality\nWe thought we could port our existing game to an AR experience. We couldn't. Here's what happened and everything we learned. \n\nIn this talk I'll take the audience through the journey we went on creating our first AR-only experience. Our game Conduct AR! I'll talk about how many of the assumptions we had going in turned out to be wrong and how we worked to change them in a race to launch alongside iOS 11. \n\nIt'll be an explosive, entertaining and visual journey into one of the most exciting frontiers in technology today.\n\nSlides: https://www.dropbox.com/sh/b8lxdl6ufzpvxmb/AADhdNmHCGpgCRaqfVm1PmUda?dl=0",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QqZcvG44C0U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QqZcvG44C0U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QqZcvG44C0U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QqZcvG44C0U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QqZcvG44C0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QqZcvG44C0U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XeVsb2JTtH5IGrpZ0pZZYcd0t4Y\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LnFkbEw5WjhQZElv",
+    "snippet": {
+      "publishedAt": "2018-11-21T20:05:04.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Sarah Drasner on The future of web animation •  ColdFront 2018",
+      "description": "We talk a lot about how to animate on the web, and what's possible in browsers today, but where is animation heading? In this talk, we'll start with some bleeing edge techniques such as native-like page transitions with client side rendering, but then we'll push it further. The intersection of health and animation with biofeedback sensors, the future of 3d in the browser complete with interviews with people who are writing these specs... this talk will show that in terms of animation on the web, we're just getting started.\n\nSlides:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qdlL9Z8PdIo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qdlL9Z8PdIo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qdlL9Z8PdIo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qdlL9Z8PdIo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qdlL9Z8PdIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qdlL9Z8PdIo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iudyy_qBfs_8fLK1vYbuQ_lW8N0\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LnpYSnVFcDhkNmd3",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:31.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Recap",
+      "description": "ColdFront17 • Recap",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zXJuEp8d6gw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zXJuEp8d6gw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zXJuEp8d6gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zXJuEp8d6gw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zXJuEp8d6gw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zXJuEp8d6gw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/E635PPnMP7PtdTWnZq5IskoA_eg\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LjFtWnlOUl9laXNV",
+    "snippet": {
+      "publishedAt": "2017-10-31T00:50:41.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Panel debate: Day 2",
+      "description": "A summary of Day 2 talks, facilicated by our lovely host. Open QA.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1mZyNR_eisU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1mZyNR_eisU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1mZyNR_eisU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1mZyNR_eisU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1mZyNR_eisU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1mZyNR_eisU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XvmNrqwu0AubXD-vXcfofIB0bdE\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LkkyQlpMSUZsLVRJ",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:31.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Henrik Joreteg: Keynote: Betting on The Web",
+      "description": "For the good part of a decade I’ve been building mobile web apps. I’ll explain why I believe, more than ever, that the web is the future of mobile and IoT.\n\nBlog post: https://joreteg.com/blog/betting-on-the-web\nTwitter: https://twitter.com/henrikjoreteg",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I2BZLIFl-TI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I2BZLIFl-TI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I2BZLIFl-TI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I2BZLIFl-TI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/I2BZLIFl-TI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "I2BZLIFl-TI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hFGJoofelWD8yaZ76XFGIID55Q8\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LmpnX0FSakJHcHpF",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Eric Muntz: Why MailChimp loves the web",
+      "description": "MailChimp supports more than 16 million users who deliver more than a billion emails per day. None of this would be possible without the web! MailChimp’s developers love the web because it allows them to efficiently provide high-quality tools carefully designed for their users. The web allows MailChimp and the small businesses MailChimp supports to be themselves, and that makes all the difference. This talk will focus on success stories and lessons learned from embracing the web and development practices to be successful using the web to provide high-quality software to small businesses.\n\nTwitter: https://twitter.com/muntzen",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jg_ARjBGpzE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jg_ARjBGpzE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jg_ARjBGpzE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jg_ARjBGpzE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jg_ARjBGpzE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jg_ARjBGpzE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/upevpiVeKtN38TT4X2c6w3AyCMM\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LlhXeUlON0RVSk9r",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Jessica Lord: Scale Down, People Up: Making the Web More Approachable",
+      "description": "This talk is about ideas and existing tools—some you may take for granted, like spreadsheets—that can help make building on the web easier. These things reduce the barrier to going from idea to online and help make the web a better place for all, whether you're a beginner or not.\n\nSlides: https://speakerdeck.com/jllord/scale-down-people-up\nTwitter: https://twitter.com/jllord",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XWyIN7DUJOk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XWyIN7DUJOk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XWyIN7DUJOk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XWyIN7DUJOk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XWyIN7DUJOk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XWyIN7DUJOk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cdmWnq0U2vaYEHfNWybc2sN-ucQ\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LjY1YWhzWEZucWx3",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Una Kravets: From Doodles to Dashboards, Data Flows, and Docs",
+      "description": "Developers don’t always take a step back to think about how they be better at learning and teaching: at engaging and audience and building a bigger product community. That’s where technical diagramming can really make an impact. Using visuals can help you unblock your work, uncover bugs, and even have a better understanding of a technical concept you thought you had already mastered. This talk will go over some of those benefits and how to use doodling and technical diagramming in your own work to be a more effective developer and community member.\n\nTwitter: https://twitter.com/una",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/65ahsXFnqlw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/65ahsXFnqlw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/65ahsXFnqlw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/65ahsXFnqlw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/65ahsXFnqlw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "65ahsXFnqlw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FuXiMF9iXduofvSUQ2Cobt9zOlo\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LjItdVo0eGhzMlBF",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Kenneth Rohde Christiansen: Bridging the web and the physical world",
+      "description": "The improvements in size, features and price of hardware has ushered new opportunities in creating small, smart devices (aka internet-of-things) which can be integrated in homes and industries. In these places, the devices can help automate common tasks, as well as give information about the state of things, such as temperature of a machine, air quality etc.\n\nInstalling an app for one such devices might seem fine at first, but it doesn’t scale nicely to 100s of devices, or devices you seldom interact with, like in an industrial setting. Devices might even have different security restrictions, like being locked behind a physical key.\n\nSo how do we communicate with these devices? The web has always been known for its low fraction and easy onboarding. No need to install any software, just type in a URL and off you go. And it has always been very secure with its sandbox system, and companies can even have URLs be restricted to certain WiFi networks (intranet).\n\nIn the last couple of years, the web has taken a quantum leap in usability, with offline support, and many ways to make the experience very app-like. So the question is unavoidable, can the web be the platform to make smart devices succeed?\n\nThe web lives in a sandbox, and its security model has allowed people to trust it and for it to grow enormously over time, but the world is changing around us. There is a growing need to access new hardware capabilities such as sensors or just connect to devices around us.\n\nThe great news is that the web sandbox is growing with new capabilities and with new security models, allowing us to connect to devices via Bluetooth, USB or even talk NFC. There are now even ways to directly get magnetometer readings on Android devices.\n\nIn this talk we will look at this new landscape and how it enables the new wave of smart devices. We will also look at how easy it is to use some of these new APIs.\n\nCome join me for a look at how the web can make your smart devices success\n\nSlides: https://docs.google.com/presentation/d/13urpBTcAnKCi8iOccQfM4nIKDdxQrg5Qj6gymGPkk3s/mobilepresent?slide=id.g24e228bf8a_0_0\nTwitter: https://twitter.com/kennethrohde",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2-uZ4xhs2PE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2-uZ4xhs2PE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2-uZ4xhs2PE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2-uZ4xhs2PE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2-uZ4xhs2PE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2-uZ4xhs2PE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qqobRYq1wdxitDXUXSYIwrzNy68\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LnRiZlI3aF8ycWdZ",
+    "snippet": {
+      "publishedAt": "2017-10-31T00:50:31.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Panel debate: Day 1",
+      "description": "A summary of Day 1 talks, facilitated by our lovely host. Open QA.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tbfR7h_2qgY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tbfR7h_2qgY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tbfR7h_2qgY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tbfR7h_2qgY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tbfR7h_2qgY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tbfR7h_2qgY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eaGJousvxb7Js58le7IOfZ2oCbE\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Lmw0Q21KX1pEQUl3",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Ruth John, Martin Schuhfuss, Matt Mckegg: LiveJS: Making Music with JavaScript",
+      "description": "We are proud to have Martin Schuhfuss, Matt McKegg and Ruth John joining us to show what's possible with WebMIDI, and JavaScript to generate music, visualizations and lightning. Our venue VEGA is the centerstage for many bands in Copenhagen, and with LiveJS we are showing that JavaScript can play music too!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l4CmJ_ZDAIw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l4CmJ_ZDAIw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l4CmJ_ZDAIw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l4CmJ_ZDAIw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l4CmJ_ZDAIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l4CmJ_ZDAIw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PICeBxzSmgjAkx7YRARn4MP07ts\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LmlwRXlfSXo3aGh3",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Jordan Santell: The future of Virtual and Augmented Reality for the web",
+      "description": "Jordan Santell: The future of Virtual and Augmented Reality for the web\n\nTwitter: https://twitter.com/jsantell",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ipEy_Iz7hhw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ipEy_Iz7hhw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ipEy_Iz7hhw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ipEy_Iz7hhw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ipEy_Iz7hhw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ipEy_Iz7hhw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/egmDR4e84Z-EP99_kuh29jVDqvM\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LnItSGMzaE45ZTZJ",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Sam Richard: Magic Tricks with CSS Houdini",
+      "description": "This talk will focus on the working being done by the CSS Houdini Task Force to provide us with the ability to extend the browser's render engine with JavaScript, above and beyond simply running JS on the main thread or a web worker.\n\nThis talk will focus on the following:\n\nWhat is the Houdini Task Force?\n\nWhat types of things can we expect to see coming from them?\n\nWhat's available today and where, what's going to be available in the future\n\nPractical examples, with code, that can be played with today\n\nAs what is available is currently being worked on, this talk with be as up-to- date of an overview of what's available and coming in the future as can be provided. This stuff is definitely in the future type stuff, but learning about it now will prepare attendees for what they can expect browsers to be capable of doing in the upcoming years.\n\nSlides: http://snugug.github.io/magic-tricks-with-houdini\nTwitter: https://twitter.com/snugug",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r-Hc3hN9e6I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r-Hc3hN9e6I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r-Hc3hN9e6I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r-Hc3hN9e6I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r-Hc3hN9e6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "r-Hc3hN9e6I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/E0OdlOf9RGoTTVl4ZXZt7sMF2W4\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LnJjT0FPdG4ycG1N",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Ken Wheeler: Why we need a better browser",
+      "description": "In this talk, I will explain the challenges we face developing modern webapps on a platform that wasn't intended for application development. We will explore the problems, some potential solutions and what a next generation browser could look like\n\nSlides: http://coldfront.surge.sh/\nTwitter: https://twitter.com/ken_wheeler",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rcOAOtn2pmM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rcOAOtn2pmM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rcOAOtn2pmM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rcOAOtn2pmM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rcOAOtn2pmM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rcOAOtn2pmM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6H43rOWvAoEsKFQUYXTtzzrgNQA\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Lm0yaGxwRzY0Unpz",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:31.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Ben Schwarz: Real world connectivity: Beyond the bubble",
+      "description": "Every talk you’ll hear about ‘web performance’ will tell you that shaving 100ms from response time produced a 1% sales yield for Amazon, or maybe that 40% of web visitors will abandon your site when it takes more then 3 seconds to load? While those are impressive, there are some more interesting metrics that we need to talk about.\n\nDid you know that 43% of the humans on this planet have access to the internet, but 57% do not? Did you know that in 2016 India brought 100 million NEW users to the internet for the very first time? When you take a glance into the current state of global connectivity, you might realise that the internet you think you know so well exists on an entirely different plane.\n\nThrough the guise of user-experience and empathy, we’ll study the state of global connectivity, connection speeds, population, and the costs of data in order to re-centre how we think about our role as designers and developers for the web today.\n\nSlides: https://speakerdeck.com/benschwarz/beyond-the-bubble\nTwitter: https://twitter.com/benschwarz",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m2hlpG64Rzs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m2hlpG64Rzs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m2hlpG64Rzs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m2hlpG64Rzs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m2hlpG64Rzs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "m2hlpG64Rzs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QHLrn0nQHk4fzpKG9Z6J_g6Wpl0\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LldTV185bHhEd1RB",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Peter O'Shaughnessy: The Samsung Internet Story: Why Samsung Made a Web Browser",
+      "description": "As the third most used mobile web browser in Europe according to StatCounter, Samsung Internet is “the biggest browser you’ve probably never heard of!”. This is the story of why we are developing our own browser and contributing into the open source Chromium project. Plus the web technologies we’re most excited about and how we want to help push the web forwards. This talk will reveal the behind-the-scenes history of the browser and what it means for web developers. It will also touch on the wider themes of browser diversity and the rise of the “Chromia” - multiple browsers based on Chromium.\n\nSlides: https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/\nTwitter: https://twitter.com/poshaughnessy",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WSW_9lxDwTA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WSW_9lxDwTA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WSW_9lxDwTA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WSW_9lxDwTA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WSW_9lxDwTA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WSW_9lxDwTA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZmOOGT6FcR2D946vAyww5P4XHo4\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Lkd2VDZ0WGE1aTN3",
+    "snippet": {
+      "publishedAt": "2017-10-30T08:46:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront17 • Evangelina Ferreira: The Magic of Color",
+      "description": "The Magic of Color' and how you can use variables, filters, blend-modes and 'CSS4' color functions to create wonderful layouts and organize your code better; and how you can use all this today with PostCSS.\n\nSlides: http://evaferreira.com.ar/coldfront\nTwitter: https://twitter.com/evaferreira92",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GvT6tXa5i3w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GvT6tXa5i3w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GvT6tXa5i3w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GvT6tXa5i3w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GvT6tXa5i3w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GvT6tXa5i3w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GsY4EP_y5tpWrDPpp6lX9xYQvXE\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Li14LU1kSEtSc0xv",
+    "snippet": {
+      "publishedAt": "2017-08-10T16:24:26.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront 2017 teaser",
+      "description": "https://www.dropbox.com/s/7rpzmhjmbz2opbm/cold2.mp4?dl=0",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-x-MdHKRsLo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-x-MdHKRsLo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-x-MdHKRsLo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-x-MdHKRsLo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-x-MdHKRsLo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-x-MdHKRsLo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oZ-YNxaEGzlyy5vr7ec03MmE5KU\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LnU3Q1YwdkZPMnNn",
+    "snippet": {
+      "publishedAt": "2016-09-21T17:56:48.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront16 •  Recap",
+      "description": "Music: \"Lean On (8 Bit Remix Cover Version) [Tribute to Major Lazer ft. DJ Snake] - 8 Bit Universe\" - https://www.youtube.com/watch?v=ySpfP_BV5dA - non-exclusive AUDIO MASTER LICENSE",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u7CV0vFO2sg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u7CV0vFO2sg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u7CV0vFO2sg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/u7CV0vFO2sg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/u7CV0vFO2sg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "u7CV0vFO2sg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/q0YP4mNwsiLPrBhHPu5dCVwAMBU\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LlhSNmVNXzVwQWIw",
+    "snippet": {
+      "publishedAt": "2016-09-19T04:10:34.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront16 • Glenn Maddern: The Future of Reusable CSS",
+      "description": "Last year, myself and a few others started discussing ideas about how we could enhance CSS — ideas about isolation of styling information, reuse of visual traits, and improving developer experience. Some projects had already suggested a solution by converting CSS into JavaScript in some form, but we didn't want to lose what we loved about CSS. We discovered that by making CSS files local instead of global, a huge class of problems disappeared, and the CSS Modules project was born. But there's another core problem in CSS — sharing. What's the best way you could publish a CSS framework like Bootstrap? How could publish a suite of React components with styling that is customisable yet consistent? Where do Web Components fit into the mix? Despite all the progress we and other teams have made, these questions remain unanswered. But there is a change coming. Native CSS Variables are now supported in a majority of browsers and have the power to completely upend the way we write and share CSS. This is a talk about what that might look like.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XR6eM_5pAb0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XR6eM_5pAb0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XR6eM_5pAb0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XR6eM_5pAb0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XR6eM_5pAb0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XR6eM_5pAb0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/npD_Xxli5M6Og_zJX9w2LpoWIGI\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LldhT3hrd1FaclhN",
+    "snippet": {
+      "publishedAt": "2016-09-19T04:05:54.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront16 • Soledad Penadés: Servo - a browser engine for the 21st century",
+      "description": "Introducing Servo. Written in a new language, Rust, Servo is a browser developed with efficiency, performance and safety in mind. In this talk we’ll look at how Servo is addressing these architectural and environmental changes, and most crucially, what this means for browse vendors, web developers and users. We’ll also look at ways in which other browsers and projects can benefit from our work on Servo and how we’ve developed an extremely active community of contributors in just a few years time.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WaOxkwQZrXM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WaOxkwQZrXM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WaOxkwQZrXM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WaOxkwQZrXM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WaOxkwQZrXM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WaOxkwQZrXM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/S25sk-UC7mRAKXNQExmjup6C1_s\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LnAyczRRcU9seVZz",
+    "snippet": {
+      "publishedAt": "2016-09-19T04:03:14.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront16 • Mathias Bynens: Front-End Performance - The Dark Side",
+      "description": "Instead of talking about techniques that lead to better client-side performance, this presentation focuses on security-sensitive situations in which performance can actually be a bug rather than a feature.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p2s4QqOlyVs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p2s4QqOlyVs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p2s4QqOlyVs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/p2s4QqOlyVs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/p2s4QqOlyVs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "p2s4QqOlyVs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6IDQIY4aYBOnbAMef1pZbxt1Cqc\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LlFWdVJiYTBOR0tn",
+    "snippet": {
+      "publishedAt": "2016-09-19T04:01:32.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront16 • Bruce Lawson: WWW - WORLD WIDE WEB, NOT WEALTHY WESTERNERS' WEB",
+      "description": "As the population and economies of the West stay static, the developing economies are seeing huge expansion, and a rising youthful population that have grown up with the Web. But there are challenges to web access in Asia and Africa that we need to understand if we want to reach the next 4 billion people with fast, performant sites. Bruce will bring facts, figures and research from his years living in Asia and from working for Opera (often the only browser that people can use) to show you how to bring your brands to new markets.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QVuRba0NGKg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QVuRba0NGKg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QVuRba0NGKg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QVuRba0NGKg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QVuRba0NGKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QVuRba0NGKg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Paed6Ycci7LKIogktFTvWkXG5P8\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Lko4d1U2RXdreWZn",
+    "snippet": {
+      "publishedAt": "2016-09-19T03:59:20.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront16 • Stephanie Rieger: The Internet of Things is for People",
+      "description": "If the company you work for doesn’t build fitness trackers, or robots, or smart light bulbs, or a cloud service that aims to connect all these things, you could be forgiven for not caring all that much about today's Internet of Things. My aim with this talk is to shift the conversation away from things and back to people. In doing so, I hope to also arm you with tools to better understand, and find your place, within this complex but fascinating landscape.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J8wU6Ewkyfg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J8wU6Ewkyfg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J8wU6Ewkyfg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J8wU6Ewkyfg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J8wU6Ewkyfg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "J8wU6Ewkyfg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kQDQD4FHx45lQNfC9zFC2d-qdjg\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LjFNT1I3N1U5ZVJz",
+    "snippet": {
+      "publishedAt": "2016-09-19T03:40:53.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront16 • Robert Nyman: The future of the web platform",
+      "description": "Taking a bird's-eye view on the web platform, how it fits in and relates to native mobile platforms, where it's going and how to make sure it stays relevant.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1MOR77U9eRs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1MOR77U9eRs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1MOR77U9eRs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1MOR77U9eRs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1MOR77U9eRs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1MOR77U9eRs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CIMwjNEhd-2HnSOywaK5H9t-oYc\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LlNWM1VPXzJQZnR3",
+    "snippet": {
+      "publishedAt": "2016-09-19T03:52:54.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront16 • Liv Erickson: Immersion in the Browser - Building the VR Web",
+      "description": "As virtual and augmented reality devices begin making their way into our lives, how we experience data and information is shifting into 3D. Today’s web technologies are shaping the future of the VR web and bringing immersive experiences to support cross-platform, device-agnostic virtual reality experiences right in the browser. In this talk, we’ll cover the experimental WebVR API and how new libraries and frameworks are developing to support immersive technologies that work on devices from Google Cardboard to the Oculus Rift.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SV3UO_2Pftw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SV3UO_2Pftw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SV3UO_2Pftw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SV3UO_2Pftw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SV3UO_2Pftw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SV3UO_2Pftw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OiSrAkw_FMca-fWCkcLZDkNoLfs\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LkVPTnlWYnphaG9r",
+    "snippet": {
+      "publishedAt": "2015-10-01T14:07:00.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "David Rousset: Microsoft Edge, a break from the past",
+      "description": "During this session, we will quickly review why we’ve decided to break from the past to build a brand new browser for Windows 10. I’ll share the reasons and our vision for the future. We will then spend some time reviewing some of the features we’ve implemented in our rendering and Chakra engines such our very complete support of ECMAScript 6, asm.js, gamepad, web audio or CSS Filters",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EONyVbzahok/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EONyVbzahok/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EONyVbzahok/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EONyVbzahok/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EONyVbzahok/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EONyVbzahok"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pkWZ8i6GTmKyyuA0CAXDtcxUm3k\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LlIxWFpvTUViS25n",
+    "snippet": {
+      "publishedAt": "2015-10-01T14:07:00.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Lea Verou: The Missing Slice",
+      "description": "Think of the humble pie chart. Simple and ubiquitous, yet surprisingly difficult to create with Web technologies in a flexible, maintainable way. Faced with this simple goal, Lea will take you on a colorful interactive journey through several aspects of CSS and SVG and will sweep you off your feet with clever ways to use them.\n\nAt the end, you will have your pie and animate it too, but do not be fooled: the real takeaway of this talk has little to do with pie charts and a lot to do with problem solving via the tools the Open Web Platform offers us today.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R1XZoMEbKng/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R1XZoMEbKng/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R1XZoMEbKng/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R1XZoMEbKng/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R1XZoMEbKng/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "R1XZoMEbKng"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tKMS-wL9weyYL6CxNFxbNUWZvXE\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LldBMHNOc21FY1ow",
+    "snippet": {
+      "publishedAt": "2015-10-01T14:06:59.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Alex Feyerke: Offline First (Web) Apps",
+      "description": "A couple of years ago, mobile devices became A Thing™, and it took us all a couple more years to realise what the design implications were. From this, we got responsive webdesign. It took a whole lot longer to grasp the structural implications: all of our (web)apps and sites have been potentially distributed systems for quite a while now, running on devices with varying degrees of connectivity.\n\nHowever, we've mostly been building them with a pre-2007 desktop understanding of the internet. This has led to widespread frustration, a lot of wasted time, and many stupid error messages. This is a talk both about how that happened and why it's time to change. About what it actually means to design, structure and build an offline-first app. About the benefits, opportunities and challenges of the approach, and how it can make your apps faster, more fun, and more robust.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WA0sNsmEcZ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WA0sNsmEcZ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WA0sNsmEcZ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WA0sNsmEcZ0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WA0sNsmEcZ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WA0sNsmEcZ0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jMDm_rHfaTwrPGRE15DvWWfEYp0\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LmhjYk5kTERXQ084",
+    "snippet": {
+      "publishedAt": "2015-10-01T14:07:00.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Feross Aboukhadijeh: Web Apps of The Future",
+      "description": "The ideal app is peer-to-peer, offline, and decentralized. Apps should protect users from censorship, the addition of user-hostile features, and data loss due to business failure. Good news! The future is here early; it's possible to build a service like this today, using WebRTC, Service Workers, Web Crypto, and replicating databases. Welcome to the future!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hcbNdLDWCO8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hcbNdLDWCO8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hcbNdLDWCO8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hcbNdLDWCO8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hcbNdLDWCO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 43,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hcbNdLDWCO8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UTnUoCFMVmnnGw1-gQo_KWSHkaY\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LjNhdzZVMnVWbDBJ",
+    "snippet": {
+      "publishedAt": "2015-10-01T14:07:00.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Jeremy Keith: Resilience",
+      "description": "Web browsers have become so powerful that developers are now treating them as if they were a runtime environment as predictable as any other. But the truth is that we still need to deal with many unknown factors that torpedo our assumptions.\n\nThe web is where Postel's Law meets Murphy's Law. So we can't treat web development is if it were just another flavour of software. Instead we must work with the grain of the web. Fortunately there are tried and tested approaches to building for the web that will result in experiences that are robust, flexible, and resilient.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3aw6U2uVl0I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3aw6U2uVl0I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3aw6U2uVl0I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3aw6U2uVl0I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3aw6U2uVl0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 44,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3aw6U2uVl0I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3XBGzliI3qi_o2gXE2Hct8gQlzM\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Ll9zQldlWDN1LVZ3",
+    "snippet": {
+      "publishedAt": "2015-10-01T14:07:04.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Vitaly Friedman: Real-Life Responsive Web Design",
+      "description": "Responsive design is in. Everybody’s talking about it and diligently putting together responsive websites. Yet it’s no easy task to design and build good, fast, and flexible responsive pages.\n\nHow do you achieve your goal faster? Which front-end techniques should you use to build flexible components? What design patterns should you use and how do you deal with complicated tables, maps, forms, and interactive elements?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_sBWeX3u-Vw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_sBWeX3u-Vw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_sBWeX3u-Vw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_sBWeX3u-Vw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_sBWeX3u-Vw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 45,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_sBWeX3u-Vw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ppni15yiKSxbQhmzv5rCAzdrQP8\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LjdYLV93TzVhUkZv",
+    "snippet": {
+      "publishedAt": "2015-10-01T14:06:59.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Paul Kinlan: The headless web and the future of the web on mobile.",
+      "description": "Mobile is eating the world and it changes the way that users across the globe interact with software and services. The web is changing too. Technologies such as Service Worker, Physical Web, new device API's and native-app integrated browser shells all add new user touchpoints not only inside the browser, but now outside directly on users devices. As front-end developers we need to change the way that we build our sites and apps today.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7X-_wO5aRFo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7X-_wO5aRFo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7X-_wO5aRFo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7X-_wO5aRFo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7X-_wO5aRFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 46,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7X-_wO5aRFo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hswyHvuVjr1cYDwkqhlUTyRzoTE\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LkZoXzBfdFFnRlpr",
+    "snippet": {
+      "publishedAt": "2015-09-28T11:11:47.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "ColdFront Conference 2015",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Fh_0_tQgFZk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Fh_0_tQgFZk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Fh_0_tQgFZk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Fh_0_tQgFZk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Fh_0_tQgFZk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 47,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Fh_0_tQgFZk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7w0aJi37IAsbPp-8-GXrLow77o8\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LmlLVnJMMnRfRzMw",
+    "snippet": {
+      "publishedAt": "2015-09-06T08:25:11.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Nat Buckley: Stop what you are doing. You're breaking the web.",
+      "description": "Nat Buckley - Freelance Technologist.\n\nNat has been working with creative usages of the web, connected hardware, running Friday Code Club and teaching HTML/CSS at University of London\n\nhttp://natbuckley.co.uk/\nhttps://twitter.com/ntlk",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iKVrL2t_G30/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iKVrL2t_G30/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iKVrL2t_G30/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iKVrL2t_G30/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iKVrL2t_G30/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 48,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iKVrL2t_G30"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/I-7jEIj8tOE9aYe-PoPBU2wc3S0\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3Lm5tcTBKaGlGVjFn",
+    "snippet": {
+      "publishedAt": "2015-09-06T08:27:18.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Peter Hedenskog: Giving you ways to increase, but also explain site performance, to your boss.",
+      "description": "Peter Hedenskog - sitespeed.io author\n\nPeter has been working with web performance for the past many years, and his latests project is a web performance analyser called sitespeed.io.\n\nhttp://peterhedenskog.com/\nhttps://twitter.com/soulislove",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nmq0JhiFV1g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nmq0JhiFV1g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nmq0JhiFV1g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nmq0JhiFV1g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nmq0JhiFV1g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 49,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nmq0JhiFV1g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OdO0T9o33TXEWWX2fPLoelvmy3U\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LmVWUFNYSWhRRS04",
+    "snippet": {
+      "publishedAt": "2015-09-06T08:23:45.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Guillermo Rauch: How to build the modern, optimistic and reactive user interface, we all want.",
+      "description": "Guillermo Rauch - socket.io author\n\nGuillermo has been focusing on the realtime web for a while, and is the brain behind popular the socket.io framework.\n\nhttp://devthought.com/\nhttps://twitter.com/rauchg",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eVPSXIhQE-8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eVPSXIhQE-8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eVPSXIhQE-8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eVPSXIhQE-8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eVPSXIhQE-8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 50,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eVPSXIhQE-8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VBC03qRJOZtaTjVi_1c82qYPtzk\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LjNGSnp0VnFNMG13",
+    "snippet": {
+      "publishedAt": "2015-09-06T08:20:10.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Phil Hawksworth: How to simplify your life by embracing static site generation",
+      "description": "Phil Hawksworth - Technical Director, R/GA.\n\nPhil is a JavaScript developer who has been developing for the Web since the late 90s. He focuses on unobtrusive JavaScript, open web standards and tasty browser shenanigan.\n\nhttp://hawksworx.com/\nhttps://twitter.com/philhawksworth",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3FJztVqM0mw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3FJztVqM0mw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3FJztVqM0mw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3FJztVqM0mw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3FJztVqM0mw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 51,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3FJztVqM0mw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YLeui6KLr2o9-nfiniQ6ApOG6NQ\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LjB3czEzTFJyOGpV",
+    "snippet": {
+      "publishedAt": "2015-09-06T08:19:29.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Christian Heilmann: The web in a mobile world dominated by native platforms.",
+      "description": "Christian Heilmann - Developer Evangelist, Mozilla\n\nChristian is the face of Mozilla, and is well-known in our community. He doesn't need any further introduction.\n\nhttp://christianheilmann.com/\nhttps://twitter.com/codepo8",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0ws13LRr8jU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0ws13LRr8jU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0ws13LRr8jU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0ws13LRr8jU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0ws13LRr8jU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 52,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0ws13LRr8jU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vGmIVyYBYN153FRQ-AoQFUUwyuc\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LkRyOXoyYjh1d1Vr",
+    "snippet": {
+      "publishedAt": "2015-09-06T08:19:58.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Mathias Buus: Pushing the limits of JavaScript with P2P and streaming BitTorrent",
+      "description": "Mathias Buus - node.js hacker / mad scientist\n@mafintosh\n\nMathias is a Copenhagen based JavaScript hacker who loves open source and is the author of more than 200 node modules.\n\nhttps://twitter.com/mafintosh\nhttps://github.com/mafintosh",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dr9z2b8uwUk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dr9z2b8uwUk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dr9z2b8uwUk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dr9z2b8uwUk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Dr9z2b8uwUk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 53,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Dr9z2b8uwUk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sd0_HLzYssNo9SY1JzMetGKK2uE\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LkRJT3JXa3VDcTZr",
+    "snippet": {
+      "publishedAt": "2015-09-06T08:20:20.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Erik Bryn: Ember.js, and why the framework helps you unlocking unprecedented productivity.",
+      "description": "Erik Bryn - Ember.js Core Team\n\nErik has been helping companies like Netflix, Mozilla, Square, Zendesk, Zoho and LiveNation to build and optimize their Ember applications.\n\nhttps://twitter.com/ebryn\nhttp://erikbryn.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DIOrWkuCq6k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DIOrWkuCq6k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DIOrWkuCq6k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DIOrWkuCq6k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DIOrWkuCq6k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 54,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DIOrWkuCq6k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EJwO73SxqloAbwadr4leZ6DNvqQ\"",
+    "id": "VVVaSGJaVmpHMndYYUxDdUhLM0xaNWx3LlBZVW9xY1Ryc2tV",
+    "snippet": {
+      "publishedAt": "2015-09-06T08:17:46.000Z",
+      "channelId": "UCZHbZVjG2wXaLCuHK3LZ5lw",
+      "title": "Kasper Lund: Why Google thinks you should drop everything you do and pick up their Dart.",
+      "description": "Kasper Lund - Software engineer, Google\n\nKasper is the co-founder of the Dart project at Google, but before starting that project he worked on adaptive optimizations in V8.\nhttp://verdich.dk/kasper/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PYUoqcTrskU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PYUoqcTrskU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PYUoqcTrskU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PYUoqcTrskU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PYUoqcTrskU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ColdFront",
+      "playlistId": "UUZHbZVjG2wXaLCuHK3LZ5lw",
+      "position": 55,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PYUoqcTrskU"
+      }
+    }
+  }
+]

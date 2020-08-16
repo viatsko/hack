@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mhBrGonWoinSKzUWtiaE3A1hm8Y\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LkZock82WE9QY1A0",
+    "snippet": {
+      "publishedAt": "2020-04-11T04:00:02.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "GoogleCodeJam 2020 Round 1A",
+      "description": "GoogleCodeJam 2020 Round 1A by Um_nik - https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FhrO6XOPcP4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FhrO6XOPcP4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FhrO6XOPcP4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FhrO6XOPcP4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FhrO6XOPcP4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FhrO6XOPcP4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bzp38ZcfaM8M2n9Lbgx13NfbqeA\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LkxkREQ0MkV3Wktj",
+    "snippet": {
+      "publishedAt": "2020-04-10T17:48:08.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "CF Educational 85 with commentary",
+      "description": "Codeforces Educational Round 85 by Um_nik - https://codeforces.com/contest/1334",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LdDD42EwZKc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LdDD42EwZKc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LdDD42EwZKc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LdDD42EwZKc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LdDD42EwZKc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LdDD42EwZKc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bIsv83H_p8x0DJzj64KvKCfG7mA\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LlpUd3dJeVFBa1Q4",
+    "snippet": {
+      "publishedAt": "2020-04-03T18:01:07.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "CF 631",
+      "description": "CF 631 by Um_nik - https://codeforces.com/contest/1329",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZTwwIyQAkT8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZTwwIyQAkT8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZTwwIyQAkT8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZTwwIyQAkT8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZTwwIyQAkT8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZTwwIyQAkT8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SxXwix3sM9Lo0KD3hWXyuSkg5fA\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LnFWVXZfX0o1VjFJ",
+    "snippet": {
+      "publishedAt": "2020-03-30T17:14:04.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "NNSU Almost Retired in 2020 ICPC North America Championship (GP of North America)",
+      "description": "https://codeforces.com/blog/entry/74151",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qVUv__J5V1I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qVUv__J5V1I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qVUv__J5V1I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qVUv__J5V1I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qVUv__J5V1I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qVUv__J5V1I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nvuxvsw0axryUnivLOBmHZIGV58\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LmxuR29SQXo2RmZJ",
+    "snippet": {
+      "publishedAt": "2020-03-30T16:50:25.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "NNSU Almost Retired in The 2019 China Collegiate Programming Contest Harbin Site",
+      "description": "https://codeforces.com/gym/102394",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lnGoRAz6FfI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lnGoRAz6FfI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lnGoRAz6FfI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lnGoRAz6FfI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lnGoRAz6FfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lnGoRAz6FfI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iekf1L8LaGPCyPqIiR7yCCDQqRk\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3Ll9HV1pkWlo4QTQ4",
+    "snippet": {
+      "publishedAt": "2020-03-30T16:21:34.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "NNSU Almost Retired in 2017 Benelux Algorithm Programming Contest (BAPC 17)",
+      "description": "https://codeforces.com/gym/101666\n\nFor some reason, audio is not recorded",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_GWZdZZ8A48/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_GWZdZZ8A48/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_GWZdZZ8A48/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_GWZdZZ8A48/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_GWZdZZ8A48/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_GWZdZZ8A48"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vB2Ftl8ShG0FSd-5Phdg9A9sIJA\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LnZJajlyUjRNU21v",
+    "snippet": {
+      "publishedAt": "2020-03-26T09:41:27.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "NNSU Almost Retired in 2019-2020 ACM-ICPC Latin American Regional Programming Contest",
+      "description": "https://codeforces.com/gym/102428",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vIj9rR4MSmo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vIj9rR4MSmo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vIj9rR4MSmo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vIj9rR4MSmo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vIj9rR4MSmo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vIj9rR4MSmo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/htNlYucO29jBw9LNlb3xH3O_vRY\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LkExN181MEVlclFR",
+    "snippet": {
+      "publishedAt": "2020-03-25T22:12:23.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "NNSU Almost Retired in 2018 Chinese Multi-University Training, Nanjing U Contest",
+      "description": "https://codeforces.com/gym/102192",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A17_50EerQQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A17_50EerQQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A17_50EerQQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/A17_50EerQQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/A17_50EerQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "A17_50EerQQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9iYJ9XvpRQohuOli2wZz1j78ALg\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LlVzVkYtdkFHQnpn",
+    "snippet": {
+      "publishedAt": "2020-03-25T19:39:46.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "NNSU Almost Retired in 2019 China Collegiate Programming Contest Qinhuangdao Onsite",
+      "description": "https://codeforces.com/gym/102361",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UsVF-vAGBzg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UsVF-vAGBzg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UsVF-vAGBzg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UsVF-vAGBzg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UsVF-vAGBzg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UsVF-vAGBzg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ecbYh-MewSB8mDAgAoOC_77OQD4\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3Llg0S1F6bFg2X2VZ",
+    "snippet": {
+      "publishedAt": "2020-03-14T16:45:00.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "CF 628 with commentary in English",
+      "description": "CF 628 by Um_nik - https://codeforces.com/contest/1325",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X4KQzlX6_eY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X4KQzlX6_eY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X4KQzlX6_eY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X4KQzlX6_eY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X4KQzlX6_eY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "X4KQzlX6_eY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ckcX8NF3aN9P-W6US9fKnlE0H8w\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LmhBaVYyVnRwbXZZ",
+    "snippet": {
+      "publishedAt": "2020-03-04T19:52:00.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "CodeCraft-20 with commentary in English",
+      "description": "CodeCraft-20 by Um_nik - https://codeforces.com/contest/1316",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hAiV2VtpmvY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hAiV2VtpmvY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hAiV2VtpmvY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hAiV2VtpmvY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hAiV2VtpmvY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hAiV2VtpmvY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5hXVY9J0Js02WgoXg1wPoFKhrMM\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LmcxaXhsSGxJUXcw",
+    "snippet": {
+      "publishedAt": "2020-03-04T10:42:18.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "USACO 19/20 January Platinum",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g1ixlHlIQw0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g1ixlHlIQw0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g1ixlHlIQw0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g1ixlHlIQw0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g1ixlHlIQw0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "g1ixlHlIQw0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CvZNdjBqHAA2UtDdMeZDG_dZFiE\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3Lm04WE5sQm1RRjBF",
+    "snippet": {
+      "publishedAt": "2020-03-04T10:59:39.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "SNWS20 Round 3",
+      "description": "SNWS20 Round 3 by Um_nik - https://contest.yandex.com/snws2020/contest/16520/enter",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m8XNlBmQF0E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m8XNlBmQF0E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m8XNlBmQF0E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m8XNlBmQF0E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m8XNlBmQF0E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "m8XNlBmQF0E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sP21UoKoVOc0WrAG_SpR0P4gLpw\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LmNCR2JaV1lsc05F",
+    "snippet": {
+      "publishedAt": "2020-03-04T10:46:48.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "SNWS20 Round 2",
+      "description": "SNWS20 Round 2 by Um_nik - https://contest.yandex.com/snws2020/contest/16519/enter",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cBGbZWYlsNE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cBGbZWYlsNE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cBGbZWYlsNE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cBGbZWYlsNE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cBGbZWYlsNE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cBGbZWYlsNE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ugACtGAcTFPEkxHhlnXL4_dtJFc\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LkpHV1ZGUE5ONjFr",
+    "snippet": {
+      "publishedAt": "2020-03-04T12:03:43.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "Ozon Tech Challenge 2020",
+      "description": "Ozon Tech Challenge 2020 by Um_nik - https://codeforces.com/contest/1305",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JGWVFPNN61k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JGWVFPNN61k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JGWVFPNN61k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JGWVFPNN61k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JGWVFPNN61k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JGWVFPNN61k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MRvhN0FmrN1eqjKn2RniJqaQSco\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LjZuZDFkbm5UVGY0",
+    "snippet": {
+      "publishedAt": "2020-03-04T11:24:34.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "CF 621",
+      "description": "Codeforces Round 621 by Um_nik - https://codeforces.com/contest/1307",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6nd1dnnTTf4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6nd1dnnTTf4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6nd1dnnTTf4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6nd1dnnTTf4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6nd1dnnTTf4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6nd1dnnTTf4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GYWSbb_IM3NcEm_oo6qPWAdFjJs\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3Lk1Fbkx5NWVscldZ",
+    "snippet": {
+      "publishedAt": "2020-03-04T09:29:19.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "CF 614 A-D",
+      "description": "Codeforces Round 614 by Um_nik - https://codeforces.com/contest/1292\nVideo is cut after 55 minutes for some reason :(",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MEnLy5elrWY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MEnLy5elrWY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MEnLy5elrWY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MEnLy5elrWY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MEnLy5elrWY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MEnLy5elrWY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0ct2cniJAEMYes8_PESr48ECnx8\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LkhKenQ0aFZUQU84",
+    "snippet": {
+      "publishedAt": "2020-03-25T20:11:10.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "NNSU Almost Retired in Petrozavodsk Winter Camp 2020 Day 5",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HJzt4hVTAO8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HJzt4hVTAO8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HJzt4hVTAO8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HJzt4hVTAO8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HJzt4hVTAO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HJzt4hVTAO8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/f9LGTUottdmhGNqL1qRPq6I9hKA\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LkxOZzhncFg2Yjdr",
+    "snippet": {
+      "publishedAt": "2020-02-27T20:12:29.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "NNSU Almost Retired in Petrozavodsk Winter Camp 2020 Day 9 (GP of Zheijang)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LNg8gpX6b7k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LNg8gpX6b7k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LNg8gpX6b7k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LNg8gpX6b7k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LNg8gpX6b7k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LNg8gpX6b7k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BbxBvTSn1So_4187TskGpTAiTys\"",
+    "id": "VVUzLXBralo4LUQ0YVc4UWZhRXh1TWp3LnZSZVJRLTNRaUdj",
+    "snippet": {
+      "publishedAt": "2020-02-16T13:00:17.000Z",
+      "channelId": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "title": "NNSU Almost Retired in Petrozavodsk Winter Camp 2020 Day 7 (GP of Gomel)",
+      "description": "Gennady Korotkevich Contest 05",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vReRQ-3QiGc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vReRQ-3QiGc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vReRQ-3QiGc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vReRQ-3QiGc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vReRQ-3QiGc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "umnik_team",
+      "playlistId": "UU3-pkjZ8-D4aW8QfaExuMjw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vReRQ-3QiGc"
+      }
+    }
+  }
+]

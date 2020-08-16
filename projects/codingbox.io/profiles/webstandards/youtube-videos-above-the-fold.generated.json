@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lbY6XHiga6kzQfpLozoQruoEmyA\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLm8ya3dyT2Nlc2o4",
+    "snippet": {
+      "publishedAt": "2020-04-21T16:12:09.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "226. Браузеры, Chakra Core, Shower 3.0, jQuery, Гитхаб, ES-импорты, TC39, Телеграм против веба",
+      "description": "21 апреля 2020\n\n— Вадим Макеев\n— Никита Дубко\n— Сергей Рубанов\n\n00:01:07 События\n00:02:59 Новости браузеров\n00:09:25 Chakra Core уходит сообществу\n00:21:00 Релиз Shower 3.0\n00:25:17 jQuery всё ещё нужна\n00:33:09 Гитхаб подешевел\n00:37:06 ES-импорты для разработки\n00:45:33 Будни TC39\n00:56:10 Телеграм против веба\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nСобытия\n\nPiterJS онлайн 23 апреля — https://medium.com/p/124ccbb29821\n32 видео с FrontendConf 2019 — https://www.youtube.com/playlist?list=PLknJ4Vr6efQHldqCyBU5gpi7KPJEMbj4H\n\nНовости браузеров\n\nFlexbox & grid may soon work on fieldset elements! — https://twitter.com/keithjgrant/status/1250912283804368896\nChromium: Flexbox/grid doesn’t work on fieldset elements — https://bugs.chromium.org/p/chromium/issues/detail?id=375693#c80\nHTML5 Accessibility — https://www.html5accessibility.com/\nLayoutNG: Flexbox implementation — https://bugs.chromium.org/p/chromium/issues/detail?id=845235\n\nChakra Core уходит сообществу\n\nChakraCore Transition — https://github.com/microsoft/ChakraCore/issues/6384\n\nРелиз Shower 3.0\n\nДемо Shower — https://shwr.me/\nShower Core — https://github.com/shower/core\n\njQuery всё ещё нужна\n\njQuery 3.5.0 Released! — http://blog.jquery.com/2020/04/10/jquery-3-5-0-released/\nJavaScript по БЭМ — https://ru.bem.info/methodology/js/\n\nГитхаб подешевел\n\nGitHub is now free for teams — https://github.blog/2020-04-14-github-is-now-free-for-teams/\nFAQ about changes to GitHub’s plans — https://help.github.com/en/github/getting-started-with-github/faq-about-changes-to-githubs-plans\n\nES-импорты для разработки\n\nИмпорт локальных модулей на сайте The F-Word — https://github.com/fword-dev/f-word.dev/blob/master/src/scripts/index.js\n\nБудни TC39\n\nСайт TC39 — https://tc39.es/\n\nТелеграм против веба \n\nJuliarderity: ECMAScript, WebAssembly, Web APIs, specs — https://t.me/juliarderity\nАдвент-календарь постов про индивеб — https://marinintim.com/2019/indieweb/\nWebmascon Project — http://webmascon.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o2kwrOcesj8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o2kwrOcesj8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o2kwrOcesj8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o2kwrOcesj8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o2kwrOcesj8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "o2kwrOcesj8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yicjN9_ADSDYn71IwW6TETQIkFU\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLnNSa0lHU0dSejZB",
+    "snippet": {
+      "publishedAt": "2020-04-13T14:36:58.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "225. The F-Word, новинки браузеров, AVIF, WebStorm 2020.1, PostCSS 8.0, CSS-нудизм и тёмные темы",
+      "description": "13 апреля 2020\n\n— Вадим Макеев\n— Никита Дубко\n— Маша Просвирнина\n\n00:00:24 Подкасты\n00:06:08 События\n00:07:42 Новинки браузеров\n00:22:00 Формат изображений AVIF\n00:30:52 Релиз WebStorm 2020.1\n00:40:28 Планы на PostCSS 8.0\n00:48:48 CSS-нудизм и дефолты\n00:57:25 Тёмные темы\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nПодкасты\n\nНовый подкаст The F-Word — https://f-word.dev/\n\nСобытия\n\nGET PROF IT онлайн 22 апреля — https://events.epam.com/events/get-prof-it-js-devops/agenda?f[0][categories][]=JavaScript\nВебинар Тимура Шемсединова по Node.js, онлайн 7, 14, 21 апреля — https://fwdays.com/en/event/node-js-in-2020\n\nНовинки браузеров\n\nRelease Notes for Safari TP 104 — https://webkit.org/blog/10264/release-notes-for-safari-technology-preview-104/\nWeb Animations in Safari 13.1 — https://webkit.org/blog/10266/web-animations-in-safari-13-1/\nNew in Chrome 81 — https://developers.google.com/web/updates/2020/04/nic81\nInteract with NFC devices on Chrome for Android — https://web.dev/nfc/\nFirefox 75 в обзоре Марата Таналина — https://tanalin.com/blog/2020/04/firefox-75/\nFirefox 75: Ambitions for April — https://hacks.mozilla.org/2020/04/firefox-75-ambitions-for-april/\n\nФормат изображений AVIF\n\nAVIF image format — https://twitter.com/mathias/status/1248135249663574017\nMozilla: Intent to implement AVIF — https://groups.google.com/forum/#!topic/mozilla.dev.platform/bIM8ZaFS-d8\nChromium: Support AVIF — https://bugs.chromium.org/p/chromium/issues/detail?id=960620\nWebKit: AVIF decoding support — https://bugs.webkit.org/show_bug.cgi?id=207750\nNetflix: AVIF for Next-Gen Image Coding — https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4\n\nРелиз WebStorm 2020.1\n\nРелиз WebStorm 2020.1 на Хабре — https://habr.com/ru/company/JetBrains/blog/495228/\nРелиз WebStorm 2020.1 в официальном блоге — https://blog.jetbrains.com/webstorm/2020/04/webstorm-2020-1/\nWebStorm Bug and Issue Tracker — https://youtrack.jetbrains.com/issues/WEB\n\nПланы на PostCSS 8.0\n\nPostCSS 8.0 is coming — https://evilmartians.com/chronicles/postcss-8-is-coming-here-is-what-it-brings\nPostCSS — https://postcss.org/\nOpen Collective: Eleventy — https://opencollective.com/11ty\nOpen Collective: PostCSS — https://opencollective.com/postcss\nOpen Collective: Stylelint — https://opencollective.com/stylelint\n\nCSS-нудизм и дефолты\n\nCSS Naked Day 2020 — https://meyerweb.com/eric/thoughts/2020/04/09/css-naked-day-2020/\nCSS Remedy — https://github.com/jensimmons/cssremedy\nCSS-нудизм — https://pepelsbey.net/2008/04/css-nudism/\n\nТёмные темы\n\nBuilding dark mode on Stack Overflow — https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/\nFOUDT: Flash of Unstyled Dark Theme — https://webcloud.se/blog/2020-04-06-flash-of-unstyled-dark-theme/\nImproved dark mode default styling — https://web.dev/color-scheme/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sRkIGSGRz6A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sRkIGSGRz6A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sRkIGSGRz6A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sRkIGSGRz6A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sRkIGSGRz6A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sRkIGSGRz6A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RK8p7g5rS0bMinWxkZPpMG5qNxI\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLkhBZ0RCWEotODFN",
+    "snippet": {
+      "publishedAt": "2020-04-06T11:30:15.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "224. Safari и Chrome, ES2020, дизайнеры и код, палитры, анимации, устаревший Git Flow и видеоплееры",
+      "description": "6 апреля 2020\n\n— Вадим Макеев\n— Никита Дубко\n— Алексей Авдеев\n\n00:01:13 События\n00:04:00 Safari 13.1 и формы в Chrome\n00:16:56 Определившийся ES 2020\n00:27:45 Как дизайнерам учить код\n00:40:24 Генератор цветовой палитры\n00:47:38 Git Flow устарел\n00:55:30 Видеоплееры в вебе\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nСобытия\n\nЯ.Субботник онлайн 25 апреля — https://events.yandex.ru/events/yasubbotnik/25-apr-2020\nГенератор событий для календаря Веб-стандартов — https://github.com/web-standards-ru/calendar-generator\n\nSafari 13.1 и формы в Chrome\n\nNew WebKit Features in Safari 13.1 — https://webkit.org/blog/10247/new-webkit-features-in-safari-13-1/\nUpdates to form controls and focus — https://blog.chromium.org/2020/03/updates-to-form-controls-and-focus.html\n\nОпределившийся ES 2020\n\nECMAScript 2020: the final feature set — https://2ality.com/2019/12/ecmascript-2020.html\nES2020 Candidate — https://github.com/tc39/ecma262/releases/tag/es2020\n\nКак дизайнерам учить код\n\n1. The Terminal And Text Editors — https://www.smashingmagazine.com/2020/03/designers-code-terminal-text-editors-part-1/\n2. Git, HTML/CSS, Engineering Principles — https://www.smashingmagazine.com/2020/03/designers-code-git-hmtl-css-engineering-principles/\n\nГенератор цветовой палитры\n\nTema. Simple palette generator — https://yoksel.github.io/tema/\n\nНовый синтаксис CSS-анимаций\n\nProposal: Time-based Keyframe Animations — https://github.com/w3c/csswg-drafts/issues/4907\n\nGit Flow устарел\n\nПожалуйста, перестаньте рекомендовать Git Flow — https://habr.com/ru/company/flant/blog/491320/\nA successful Git branching model — https://nvie.com/posts/a-successful-git-branching-model/\nGitHub Flow — https://guides.github.com/introduction/flow/\n\nВидеоплееры в вебе\n\nОбзор видеоплееров для веба — https://habr.com/ru/post/493674/\nBetter web video with AV1 codec — https://evilmartians.com/chronicles/better-web-video-with-av1-codec\nAnatomy of a Web Media Experience — https://youtu.be/lXm6jOQLe1Y",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HAgDBXJ-81M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HAgDBXJ-81M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HAgDBXJ-81M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HAgDBXJ-81M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HAgDBXJ-81M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HAgDBXJ-81M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TMT5-WdSVfAUh1NtvrAGT8eZufw\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLnRHeUY2Um84X1B3",
+    "snippet": {
+      "publishedAt": "2020-03-30T09:50:19.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "223. Safari, третьи куки и ваши хранилища, Prettier, быстрые картинки, старые трюки, auto в CSS",
+      "description": "30 марта 2020\n\n— Вадим Макеев\n— Никита Дубко\n\n00:00:23 Подкасты\n00:02:36 События\n00:05:11 Safari и третьи куки\n00:14:07 Safari и ваши хранилища\n00:21:20 Спор про Prettier\n00:33:51 Быстрые картинки\n00:48:44 Старые трюки\n00:59:35 Auto в CSS\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nПодкасты\n\nPodcast-list — https://github.com/web-standards-ru/podcasts-list\nUndefined в Apple Podcasts — https://podcasts.apple.com/podcast/id1499128651\nUndefined в Яндекс.Музыке — https://music.yandex.ru/album/10034426\nUndefined во ВКонтакте — https://vk.com/podcasts-184747164\n\nСобытия\n\nGeekle онлайн 2 апреля — https://www.geekle.us/\nMinskCSS Meetup онлайн 8 апреля — https://minskcss.timepad.ru/event/1289579/\nOdessaJS в Одессе 4–5 июля — http://odessajs.org/\n\nSafari и третьи куки\n\nUpcoming Chrome and Chrome OS releases — https://chromereleases.googleblog.com/2020/03/upcoming-chrome-and-chrome-os-releases.html\nChrome and Chrome OS release updates — https://chromereleases.googleblog.com/2020/03/chrome-and-chrome-os-release-updates.html\nFull Third-Party Cookie Blocking and More — https://webkit.org/blog/10218/full-third-party-cookie-blocking-and-more/\n\nSafari и ваши хранилища\n\nApple just killed Offline Web Apps — https://ar.al/2020/03/25/apple-just-killed-offline-web-apps-while-purporting-to-protect-your-privacy-why-thats-a-bad-thing-and-why-you-should-care/\nJournal—Apple’s attack on service workers — https://adactio.com/journal/16619\n\nСпор про Prettier\n\nPrettier 2.0 “2020” — https://prettier.io/blog/2020/03/21/2.0.0.html\n\nБыстрые картинки\n\nEmbracing modern image formats — https://joshwcomeau.com/performance/embracing-modern-image-formats/\nКартинки как коробки — что внутри? — https://habr.com/ru/company/yandex/blog/493616/\n\nСтарые трюки\n\nMaintaining Performance — https://daverupert.com/2020/03/maintaining-performance/\nWhen is a lazy-loaded image “about to intersect the viewport” — https://github.com/whatwg/html/issues/5408\n\nAuto в CSS\n\nEverything About Auto in CSS — https://ishadeed.com/article/auto-css/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tGyF6Ro8_Pw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tGyF6Ro8_Pw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tGyF6Ro8_Pw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tGyF6Ro8_Pw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tGyF6Ro8_Pw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tGyF6Ro8_Pw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wublX34SU9F1PFN_Exvs6tTo4WA\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLmNYd281NGRLdVg4",
+    "snippet": {
+      "publishedAt": "2020-03-24T10:50:17.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "222. GitHub и npm, iPad с курсором, URL, липкие таблицы, User-Agent, вёрстка писем, закрывайте теги!",
+      "description": "24 марта 2020\n\n— Вадим Макеев\n— Никита Дубко\n— Ольга Алексашенко\n\n00:00:40 События\n00:04:09 GitHub и npm\n00:18:07 iPad с курсором\n00:23:38 История URL\n00:32:54 Липкие таблицы\n00:40:40 Жизнь без User-Agent\n00:50:30 Вёрстка писем\n00:56:22 Закрывайте теги!\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nСобытия\n\nTver.io JavaScript Meetup в Твери онлайн 19 марта — https://youtu.be/3Yy_YUTZxe4\nВидео с Я 💛 Фронтенд 2020 — https://youtube.com/playlist?list=PLKaafC45L_SRLlyOzp6xBMUh0kn2eQBUd\nVideo Recording and Live Streaming for RK — https://aworkinprogress.dev/video-recording-and-live-streaming-for-rk/\nThe RK Recording Tour — https://youtu.be/cCATNI9vNag\n\nGitHub и npm\n\nGitHub Mobile — https://github.com/mobile\nNpm is joining GitHub — https://github.blog/2020-03-16-npm-is-joining-github/\nThe economics of open source — https://youtu.be/MO8hZlgK5zc\n\niPad с курсором\n\niPad Pro Cursor with Craig Federighi — https://youtu.be/jijhJj_rNDI\n\nИстория URL\n\nThe History of the URL — https://blog.cloudflare.com/the-history-of-the-url/\n\nЛипкие таблицы\n\nFixed Table Headers — https://adrianroselli.com/2020/01/fixed-table-headers.html\n\nЖизнь без User-Agent\n\nMy findings after browsing the web without a UA header for one week — https://webplatform.news/issues/2020-03-19\nВстречайте бабушку, Виталий Харисов — https://youtu.be/_muWJOUe420\n\nВёрстка писем\n\nGood Email Code — https://www.goodemailcode.com/\nPunched card coding — https://youtu.be/xhUfiOSOk3g\n\nЗакрывайте теги!\n\nStop using closing tags for the HTML elements — https://twitter.com/tabatkins/status/1240027435246051328\n«Не закрывайте теги!» — https://css-live.ru/verstka/do-not-close-tags.html",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cXwo54dKuX8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cXwo54dKuX8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cXwo54dKuX8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cXwo54dKuX8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cXwo54dKuX8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cXwo54dKuX8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Sr0zRcjtqoNWE5Ey_3zWU3-8ly8\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLkNjVGh4SnpRdVFn",
+    "snippet": {
+      "publishedAt": "2020-03-17T13:10:20.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "221. Отмена событий, Firefox и KaiOS, ненужный CSS, вьюпорт, размеры картинок, цвета, Vue.js",
+      "description": "17 марта 2020\n\n— Вадим Макеев\n— Никита Дубко\n— Наташа Теплухина\n\n00:01:10 Мета и подкасты\n00:06:06 Отмена событий\n00:14:59 Firefox обновит KaiOS\n00:19:41 Ненужный CSS в DevTools\n00:26:19 Такой сложный вьюпорт\n00:33:18 Размеры и загрузка картинок\n00:39:40 Смешивание цветов\n00:44:47 Команда Vue.js Core\n01:01:11 Документация и перевод\n01:09:04 Планы Vue.js\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nМета и подкасты\n\nThe CSS Podcast — https://pod.link/thecsspodcast\n\nОтмена событий\n\nJS Fwdays онлайн в Киеве 14 марта — https://fwdays.com/en/event/js-fwdays-2020\nIWD 2020 онлайн в Калининграде 15 марта — http://gdg-kgd.tilda.ws/iwd2020\nKharkivCSS в Харькове осенью — https://kharkivcss.org/\nHolyJS в Питере в июне — https://holyjs-piter.ru/\nIT Global Meetup в Питере в июне — https://piter-united.ru\nPitercss_class берёт паузу — https://twitter.com/pitercss_class/status/1238118866594795520\nPiterJS не унывает — https://twitter.com/gopiterjs/status/1237744608844697600\nKrasnodar Backend miniConf — https://krd.dev/events/19\nCodeFest в Новосибирске 28–29 марта — https://2020.codefest.ru/program/frontend\nКалендарь «Веб-стандартов» — https://github.com/web-standards-ru/calendar\n\nFirefox обновит KaiOS\n\nKaiOS Technologies and Mozilla partner — https://www.kaiostech.com/press/kaios-technologies-and-mozilla-partner-to-enable-a-healthy-mobile-internet-for-everyone/\nFirefox 74 — https://tanalin.com/blog/2020/03/firefox-74/\n\nНенужный CSS в DevTools\n\nWhen CSS doesn’t do anything — https://blog.logrocket.com/when-css-doesnt-do-anything/\n\nТакой сложный вьюпорт\n\nCSS Viewport Units — https://ishadeed.com/article/viewport-units/\n\nРазмеры и загрузка картинок\n\nSetting Height And Width On Images Is Important Again — https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/\n\nСмешивание цветов\n\nWhen 255 × 0 does not Equal Zero — https://danielcwilson.com/blog/2020/03/blend-modes-in-spaaaace/\nЦветосмешение — https://pepelsbey.net/2010/08/color-blending/\n\nVue.js\n\nVue.js: The Documentary — https://youtu.be/OrxmtDw4pVI\nНовый участник Vue core team — https://twitter.com/KiaKing85/status/1237747709303345154\nESLint-плагин теперь поддерживает синтаксис Vue3 — https://github.com/vuejs/eslint-plugin-vue/releases/tag/v7.0.0-alpha.0\nVue’s Darkest Day — https://dev.to/danielelkington/vue-s-darkest-day-3fgh",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CcThxJzQuQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CcThxJzQuQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CcThxJzQuQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CcThxJzQuQg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CcThxJzQuQg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CcThxJzQuQg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QD6nQJQC8VlclXqSESZM5e-iMLA\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLmhDZV94YWdsWTcw",
+    "snippet": {
+      "publishedAt": "2020-03-11T10:04:37.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "220. Цветовая гамма, история CSS, сборка в Rome, фильм про Vue, i18n, Google Fonts, геймдев, митапы",
+      "description": "11 марта 2020\n\n— Никита Дубко\n— Маша Просвирнина\n— Александр Коротаев\n\n00:00:57 События\n00:11:39 Широкая цветовая гамма\n00:15:11 Этапы развития CSS\n00:20:28 Вся сборка ведёт в Rome\n00:26:16 Фильм про Vue.js\n00:30:59 Интернационализация\n00:36:30 Юбилей Google Fonts\n00:40:11 Фронтендер в геймдеве\n00:58:50 Зарубежные митапы\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nСобытия\n\nIt-knot в Воронеже 12 марта — https://mybusinessvrn.timepad.ru/event/1266377/\nTver.io в Твери 19 марта — https://go.tver.io/meetup-2020-03-19\nFront-end Hero Meetup в Черкассах 19 марта — https://www.facebook.com/events/190995978662066/\nAngular meetup #17 в Москве 23 марта — https://meetup.tinkoff.ru/event/angular-meetup-17/\nMoscowcss №18 в Москве 24 марта — https://moscowcss.timepad.ru/event/1278244/\nMoscowJS 49 в Москве 26 марта — https://www.moscowjs.org/event/moscowjs-49\nJSNation в Амстердаме 3–5 июня — https://jsnation.com/\n\nШирокая цветовая гамма\n\nWide Gamut Color in CSS with Display-P3 — https://webkit.org/blog/10042/wide-gamut-color-in-css-with-display-p3/\n\nЭтапы развития CSS\n\nCSS Specification Timelines, Updated and Modernized — https://meyerweb.com/eric/thoughts/2020/03/03/css-specification-timelines-updated-and-modernized/\n\nВся сборка ведёт в Rome\n\nRome, a new JavaScript Toolchain — https://jasonformat.com/rome-javascript-toolchain/\n\nФильм про Vue.js\n\nVue.js: The Documentary — https://youtu.be/OrxmtDw4pVI\n\nИнтернационализация\n\nJavaScript Internationalization in 2020 — https://diary.braniecki.net/2020/02/14/js-intl-in-2020/\n\nЮбилей Google Fonts\n\nВариативные шрифты с кириллицей — https://fonts.google.com/?vfonly&subset=cyrillic\n\nФронтендер в геймдеве\n\nСоздание аркадной игры на ванильном JavaScript — http://odinokun.com/2020-03-02-sozdanie-arkadnoj-igry-na-vanilnom-javascript.html\n\nЗарубежные митапы\n\nMeetup.com — https://www.meetup.com/\nGrow Paris — https://www.grow.paris/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hCe_xaglY70/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hCe_xaglY70/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hCe_xaglY70/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hCe_xaglY70/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hCe_xaglY70/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hCe_xaglY70"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3KsOrj_wwA77Ze6l0hHve4OxiYU\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLmZaRXZvS2hzQ1FJ",
+    "snippet": {
+      "publishedAt": "2020-03-03T05:18:32.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "219. Отладка перфоманса, --save-dev, CSS4 и другие мечты, что такое софт-скилы и зачем их качать",
+      "description": "3 марта 2020\n\n— Алексей Симоненко\n— Вадим Макеев\n— Андрей Смирнов\n\n00:01:46 События\n00:07:25 Отладка перфоманса\n00:12:04 Разный --save-dev\n00:18:06 CSS4, продолжение\n00:30:10 Мечты о CSS\n00:37:51 Софт-скилы\n00:46:59 Чему учить сотрудника\n01:00:45 Что такое софт и хард\n01:10:05 Мягкий фронтендер\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nСобытия\n\nЯ ❤ Фронтенд в Москве 29 февраля — https://ilovefrontend.ru/\nPitercss_class в Питере 21 марта — https://vk.com/@pitercss_class-16\nKolesa Conf в Алматы 12 апреля — https://kolesa-conf.kz/\nFrontend United в Минске 30 апреля—2 мая — https://www.frontendunited.org/\nCommunity-Z — https://community-z.com/\n\nОтладка перфоманса\n\nIn-Browser Performance Linting With Feature Policies — https://timkadlec.com/remembers/2020-02-20-in-browser-performance-linting-with-feature-policies/\n\nРазный --save-dev\n\nВы используете devDependencies неправильно — https://incubator.flaks.dev/devdependencies-mistake\n\nCSS4, продолжение\n\nВ W3C появилась общественная группа по CSS4 — https://css-live.ru/vecssti-s-polej/v-w3c-poyavilas-obshhestvennaya-gruppa-po-css4.html\n\nМечты о CSS\n\nSome Imaginary CSS — https://cloudfour.com/thinks/some-imaginary-css/\n\nСофт-скилы\n\nПочему не надо становиться руководителем — https://youtu.be/1mIcdj_ZXT8\nКарьерная трансформация софт-скилов — https://youtu.be/47Ef2flrXtQ?t=3276",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fZEvoKhsCQI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fZEvoKhsCQI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fZEvoKhsCQI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fZEvoKhsCQI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fZEvoKhsCQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fZEvoKhsCQI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rgV7EZCM4j0dFPP_7CXEcRyGU0E\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLmFyTmRHc29SdmU4",
+    "snippet": {
+      "publishedAt": "2020-02-25T07:20:34.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "218. Опять гриды, градиенты всё лучше, блокирующий CSS, веб-компоненты, всё про кнопки и disabled",
+      "description": "25 февраля 2020\n\n—  Вадим Макеев\n—  Никита Дубко\n—  Ольга Алексашенко\n—  Глафира Жур\n\n00:00:48 События\n00:09:06 Опять гриды\n00:17:25 Градиенты всё лучше\n00:22:22 Блокирующий CSS\n00:27:47 Веб-компоненты\n00:37:49 Всё про кнопки\n00:51:48 Как работает disabled\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nСобытия\n\nPitercss_meetup в Питере 25 февраля — https://medium.com/p/90c6048e37d8\nJS Meetup в Харькове 27 февраля — https://www.facebook.com/events/690696308368697/\nAccessibility Club Minsk Meetup #1 в Минске 22 апреля — https://www.facebook.com/events/669523740451814/\n\nОпять гриды\n\nПонимание CSS Grid: Создание Grid-контейнера — https://habr.com/ru/post/487566/\nUnderstanding CSS Grid: Grid Lines — https://www.smashingmagazine.com/2020/01/understanding-css-grid-lines/\nUnderstanding CSS Grid: Grid Template Areas — https://www.smashingmagazine.com/2020/02/understanding-css-grid-template-areas/\n\nГрадиенты всё лучше\n\nWhile You Weren’t Looking, CSS Gradients Got Better — https://css-tricks.com/while-you-werent-looking-css-gradients-got-better/\n\nБлокирующий CSS\n\nWhen CSS Blocks — https://timkadlec.com/remembers/2020-02-13-when-css-blocks/)\n\nВеб-компоненты\n\nВеб-компоненты на сайте Леруа Мерлен — https://habr.com/ru/company/leroy_merlin/blog/488648/\nDeclarative Shadow DOM — https://github.com/mfreed7/declarative-shadow-dom\n\nВсё про кнопки\n\nStyling The Good Ol’ Button Element — https://ishadeed.com/article/styling-the-good-old-button/\nA Complete Guide to Links and Buttons — https://css-tricks.com/a-complete-guide-to-links-and-buttons/\n\nКак работает disabled\n\nDisabled form controls and how to tackle them — https://catalin.red/disabled-form-controls/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/arNdGsoRve8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/arNdGsoRve8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/arNdGsoRve8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/arNdGsoRve8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/arNdGsoRve8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "arNdGsoRve8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kZu5F9bsBLWTULvM23hSZzT_IOo\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLm8xYy1ucHlZYnhn",
+    "snippet": {
+      "publishedAt": "2020-02-18T07:00:33.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "217. Firefox 73, Angular 9, Container Queries, Web We Want, CSS4, JS поедает HTML, DOM Reflow",
+      "description": "18 февраля 2020\n\n— Вадим Макеев\n— Никита Дубко\n— Маша Просвирнина\n\n00:00:51 События\n00:06:24 Новинки Firefox 73\n00:09:08 Angular 9 с новым сборщиком\n00:14:29 Container Queries\n00:24:13 Web We Want\n00:36:16 Нужен ли нам CSS4\n00:50:05 Как JS поедает HTML\n00:59:10 Избегаем DOM Reflow\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nСобытия\n\nPiterJS №45 в Питере 20 февраля — https://medium.com/p/81a011211b2e\nOdessaFrontend #15 в Одессе 21 февраля — https://odessafrontend.com/\nMoscowJS 48 в Москве 27 февраля — https://www.moscowjs.org/event/moscowjs-48\nЯ ❤︎ Фронтенд в Москве 29 февраля — https://ilovefrontend.ru/\nFrontend Panda Meetup #39 в Иннополисе 29 февраля — https://panda-meetup.ru/innopolis-frontend-meetup\nDeveloper Circles в Москве 5 марта — https://facebook-developer-circle-moscow-front-end.splashthat.com/\nJavaScript fwdays в Киеве 14 марта — https://fwdays.com/en/event/js-fwdays-2020\nKharkivCSS #5 в Харькове 28 марта — http://kharkivcss.org/\nVoxxed Days в Минске 31 мая — https://voxxeddays.com/minsk/\n\nНовинки Firefox 73\n\nFirefox 73 — https://tanalin.com/blog/2020/02/firefox-73/\n\nAngular 9 с новым сборщиком\n\nVersion 9 of Angular Now Available — https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3\n\nContainer Queries\n\nToward Responsive Elements — https://bkardell.com/blog/TowardResponsive.html\n\nWeb We Want\n\nBuilding the Web We Want — https://css-tricks.com/building-the-web-we-want/\nCould browsers fix more a11y problems automatically? — https://hiddedevries.nl/en/blog/2020-02-04-could-browsers-fix-more-accessibility-problems-automatically\n\nНужен ли нам CSS4\n\nLet’s Define CSS 4 — https://github.com/w3c/csswg-drafts/issues/4770\n\nКак JS поедает HTML\n\nWhy JavaScript is Eating HTML — https://css-tricks.com/why-javascript-is-eating-html/\nHydration — https://adactio.com/journal/16404\n\nИзбегаем DOM Reflow\n\nMinimising DOM Reflow/Layout Thrashing — https://medium.com/p/76ac7c4d2d4f",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o1c-npyYbxg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o1c-npyYbxg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o1c-npyYbxg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o1c-npyYbxg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o1c-npyYbxg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "o1c-npyYbxg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uO_464Sj6fXFRUZlGBws0iVDxMQ\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLnl6cjZHZFg3cUY0",
+    "snippet": {
+      "publishedAt": "2020-02-11T07:10:47.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "216. Ручной SVG, Puppeteer 2.1 с Firefox, снова Yarn 2, что такое TeamCity, компоненты в Storybook",
+      "description": "11 февраля 2020\n\n— Вадим Макеев\n— Филипп Рябчун\n\n00:00:49 Ручной SVG\n00:10:22 Puppeteer 2.1 с Firefox\n00:15:51 И снова Yarn 2\n00:23:52 Что такое TeamCity\n00:33:15 Фронтенд TeamCity\n00:39:05 Компоненты в Storybook\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nРучной SVG\n\nOptimising SVGs for the Web — https://css-irl.info/optimising-svgs-for-the-web/\n\nPuppeteer 2.1 с Firefox\n\nPlaywright — https://github.com/microsoft/playwright\nPuppeteer v2.1.0 — https://github.com/puppeteer/puppeteer/releases/tag/v2.1.0\n\nИ снова Yarn 2\n\nIntroducing Yarn 2 — https://dev.to/arcanis/introducing-yarn-2-4eh1\n\nЧто такое TeamCity\n\nTeamCity — https://www.jetbrains.com/teamcity/\nБета TeamCity Cloud — https://www.jetbrains.com/lp/teamcity/cloud\nПубличный сервер TeamCity — https://teamcity.jetbrains.com/project/_Root?mode=builds\nКак использовать CI для тестирования фронтенда — https://youtu.be/S15emUnJh1M\n\nФронтенд TeamCity\n\nCSS Modules — https://github.com/css-modules/css-modules\n\nКомпоненты в Storybook\n\nStorybook — https://storybook.js.org/\nАддон StoryShots — https://github.com/storybookjs/storybook/tree/master/addons/storyshots/storyshots-core\nАддон StoryShots + Puppeteer — https://github.com/storybookjs/storybook/tree/master/addons/storyshots/storyshots-puppeteer\nАддон A11y — https://github.com/storybookjs/storybook/tree/next/addons/a11y\nАддон Knobs — https://github.com/storybookjs/storybook/tree/next/addons/knobs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yzr6GdX7qF4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yzr6GdX7qF4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yzr6GdX7qF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yzr6GdX7qF4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yzr6GdX7qF4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yzr6GdX7qF4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zTJRzUlYyndJ8dwdPZv_-IqXBxo\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLmQ4SGNWSEpTbnM4",
+    "snippet": {
+      "publishedAt": "2020-02-04T15:26:17.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "215. Перфоманс сначала или потом, воркеры, офлайн, без JS, чистый CSS и грязный результат",
+      "description": "4 февраля 2020\n\n— Вадим Макеев\n— Никита Дубко\n— Андрей Мелихов\n\n00:01:18 События\n00:06:52 Перфоманс: сначала или потом\n00:22:01 Воркеры сложнее чем кажутся\n00:39:17 Интерфейс для офлайна\n00:48:36 Можно ли без JS и нужно ли\n01:06:59 Чистый CSS и грязный результат\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nСобытия\n\nSPB Frontend в Питере 6 февраля — https://spb-frontend-events.timepad.ru/event/1244397/\nIT-knot в Воронеже 13 февраля — https://mybusinessvrn.timepad.ru/event/1240955/\nNodeSchool в Питере 29 февраля — https://github.com/nodeschool/spb/issues/79\nHolyJS в Питере 10–11 апреля — https://holyjs-piter.ru/\nHolyJS в Москве 13–14 ноября — https://holyjs-moscow.ru/\n\nПерфоманс: сначала или потом\n\nМикрооптимизации производительности и JavaScript — https://medium.com/devschacht/optimizations-and-javascript-f8e060d3eae3\nPerformance first — https://tonsky.me/blog/performance-first/\n\nВоркеры сложнее чем кажутся\n\nJavaScript in parallel - web workers explained — https://dev.to/g33konaut/javascript-in-parallel-web-workers-explained-5588\nComlink makes WebWorkers enjoyable — https://github.com/GoogleChromeLabs/comlink\n\nИнтерфейс для офлайна\n\nIndexing your offline-capable pages with the Content Indexing API — https://web.dev/content-indexing-api/\n\nМожно ли без JS\n\nApollo GraphQL without JavaScript — https://hugogiraudel.com/2020/01/21/apollo-graphql-without-javascript/\n\nЧистый CSS и грязный результат\n\nCan you make a countdown timer in pure CSS? — https://www.chenhuijing.com/blog/can-you-make-a-countdown-timer-in-pure-css/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d8HcVHJSns8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d8HcVHJSns8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d8HcVHJSns8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d8HcVHJSns8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d8HcVHJSns8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "d8HcVHJSns8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/N005LJPZ39dz5NxbF8w1zXw5eHI\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLlRMX0ZoNS14eU93",
+    "snippet": {
+      "publishedAt": "2020-01-28T07:10:47.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "214. Подкасты, Safari, браузер Flow, эра IE, CSSWG, Yarn или npm, Playwright, JetBrains Mono",
+      "description": "28 января 2020\n\n— Вадим Макеев\n— Никита Дубко\n\n00:00:46 Подкасты\n00:07:24 События\n00:10:44 Новинки Safari TP\n00:16:05 Новый браузер Flow\n00:19:26 Уходит эра IE\n00:28:56 Новости от CSSWG\n00:43:39 Зачем Yarn, если npm\n00:55:07 Playwright вместо Puppeteer\n01:05:02 Шрифт JetBrains Mono\n\nСлушайте свежие эпизоды в\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nCastBox — https://castbox.fm/channel/id1177814\nPocket Casts — https://pca.st/moFp\nOvercast — https://overcast.fm/itunes1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыке — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nили подписывайтесь на RSS — https://web-standards.ru/podcast/feed/\n\nЧитайте новости в\nТвиттере — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбуке — https://www.facebook.com/webstandardsru\nТелеграме — https://t.me/webstandards_ru\n\nПоддержите нас\nна Патреоне — https://www.patreon.com/webstandards_ru\nили переводом\nна Яндекс.Деньги — https://money.yandex.ru/to/41001119329753\nили PayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте в Слаке — http://slack.web-standards.ru/\n\nПодкасты\n\nПодборка полезных подкастов для IT-специалистов — https://academy.yandex.ru/posts/podborka-poleznykh-podkastov-dlya-it-spetsialistov\nЗапуск завтра — https://libolibo.ru/zapuskzavtra\n\nСобытия\n\nMinskJS Meetup 7 в Минске 13 февраля — https://minskjs.timepad.ru/event/1239059/\nЯ ❤︎ Фронтенд в Москве 29 февраля — https://ilovefrontend.ru/\n\nНовинки Safari TP\n\nRelease Notes for Safari Technology Preview 99 — https://webkit.org/blog/9992/release-notes-for-safari-technology-preview-99/\nCSS Images L4: image-set — https://drafts.csswg.org/css-images-4/#image-set-notation\n\nНовый браузер Flow\n\nNew browser on the block: Flow — https://www.quirksmode.org/blog/archives/2020/01/new_browser_on.html\nPresto and WebKit at Waldemar Thranes gate 98, Oslo — https://twitter.com/brucel/status/1185895844517744640\n\nУходит эра IE\n\nToday, the Trident Era Ends — https://schepp.dev/posts/today-the-trident-era-ends/\n\nНовости от CSSWG\n\nAdd vhc value — https://github.com/w3c/csswg-drafts/issues/4329\nCSS Values L4 — https://www.w3.org/TR/css-values-4/\nAdding Math functions to CSS — https://twitter.com/tabatkins/status/1219934786321600515\n\nЗачем Yarn, если npm\n\nIntroducing Yarn 2 — https://dev.to/arcanis/introducing-yarn-2-4eh1\n\nPlaywright вместо Puppeteer\n\nPlaywright — https://github.com/microsoft/playwright\nPuppeteer — https://github.com/puppeteer/puppeteer\n\nШрифт JetBrains Mono\n\nJetBrains Mono — https://www.jetbrains.com/lp/mono/\nFira Code — https://github.com/tonsky/FiraCode",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TL_Fh5-xyOw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TL_Fh5-xyOw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TL_Fh5-xyOw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TL_Fh5-xyOw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TL_Fh5-xyOw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TL_Fh5-xyOw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MlG_dC6dbF3EViZ6DDjIhWB1wZE\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLlNCYl9PRllVWnFv",
+    "snippet": {
+      "publishedAt": "2020-01-20T13:12:38.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "213. Edge, User-Agent, чужие куки, Babel 7.8.0, Google Fonts, зачем всё-таки HTTP/2",
+      "description": "20 января 2020: Microsoft Edge, прощание с User-Agent, ограничение сторонних кук, коротко про Babel 7.8.0, причины хостить Google Fonts, зачем всё-таки HTTP/2.\n\n— Вадим Макеев\n— Никита Дубко\n\nСодержание\n\n00:00:47 События\n00:07:32 Microsoft Edge\n00:14:32 Прощание с User-Agent\n00:24:59 Ограничение сторонних кук\n00:35:54 Коротко про Babel 7.8.0\n00:39:13 Причины хостить Google Fonts\n00:47:54 Зачем всё-таки HTTP/2\n\nСлушайте:\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://podcasts.apple.com/podcast/id1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыка — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nRSS — https://web-standards.ru/podcast/feed/\n\nЧитайте:\nТвиттер — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбук — https://www.facebook.com/webstandardsru\nТелеграм — https://t.me/webstandards_ru\n\nПоддержите:\nПатреон — https://www.patreon.com/webstandards_ru\nЯндекс.Деньги — https://money.yandex.ru/to/41001119329753\nPayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте: http://slack.web-standards.ru/\n\nСобытия\n\nStorm The Front Meetup 7 в Гомеле 25 января — https://community-z.com/events/stormthefront-meetup-7\nPitera11y_meetup 2 в Санкт-Петербурге 28 января — https://medium.com/pitercss-meetup/pitera11y-meetup-2-2ae1b2d084eb\nPiterJS #44 в Санкт-Петербурге 30 января — https://medium.com/piterjs/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-piterjs-44-e14e8c6a3649\nKharkivCSS в Харькове 28 марта — http://kharkivcss.org/\nJSNation в Амстердаме 3–5 июня — https://jsnation.com/\nCSS Day в Амстердаме 11–12 июня — https://cssday.nl/2020\nAccessibility Club Summit в Амстердаме 13–14 июня — https://accessibility-club.org/event/accessibility-club-summit-2020\n\nMicrosoft Edge\n\nUpgrading to the new Microsoft Edge — https://blogs.windows.com/msedgedev/2020/01/15/upgrading-new-microsoft-edge-79-chromium/, Кайл Пфлуг\nWeb Components — https://www.webcomponents.org/\n\nПрощание с User-Agent\n\nIntent to Deprecate and Freeze: The User-Agent string — https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/-2JIRNMWJ7s/yHe4tQNLCgAJ\n\nОграничение сторонних кук\n\nA path towards making third party cookies obsolete — https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html\nPrivacy Community Group — https://privacycg.github.io/\n\nКоротко про Babel 7.8.0\n\nBabel 7.8.0: ES 2020, .mjs config files and @babel/cli improvements — https://babeljs.io/blog/2020/01/11/7.8.0\n\nПричины хостить Google Fonts\n\nShould you self-host Google Fonts? — https://www.tunetheweb.com/blog/should-you-self-host-google-fonts/\n\nЗачем всё-таки HTTP/2\n\nPerf testing HTTP/1.1 vs HTTP/2 vs HTTP/2 + Server Push for REST APIs — https://evertpot.com/h2-parallelism/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SBb_OFYUZqo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SBb_OFYUZqo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SBb_OFYUZqo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SBb_OFYUZqo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SBb_OFYUZqo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SBb_OFYUZqo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/z_mBhQK5KZfuwXswaWVkTdoxuIY\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLmpMaHFTN25UTG8w",
+    "snippet": {
+      "publishedAt": "2020-01-13T10:21:40.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "212. Firefox 72, Shadow Parts, новые формы, сервис-воркеры, Masonry, ментальная модель JS",
+      "description": "13 января 2020: Новинки Firefox 72, Shadow Parts в Firefox, новые формы в новом Edge, шаблоны в сервис-воркерах, плиточная раскладка на гридах, ментальная модель JavaScript.\n\n— Вадим Макеев\n— Мария Просвирнина\n— Никита Дубко\n\nСодержание\n\n00:01:00 События\n00:06:54 Новинки Firefox 72\n00:20:29 Shadow Parts в Firefox\n00:24:38 Новые формы в новом Edge\n00:29:37 Шаблоны в сервис-воркерах\n00:41:26 Плиточная раскладка на гридах\n00:46:20 Ментальная модель JavaScript\n\nСлушайте:\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://podcasts.apple.com/podcast/id1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыка — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nRSS — https://web-standards.ru/podcast/feed/\n\nЧитайте:\nТвиттер — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбук — https://www.facebook.com/webstandardsru\nТелеграм — https://t.me/webstandards_ru\n\nПоддержите:\nПатреон — https://www.patreon.com/webstandards_ru\nЯндекс.Деньги — https://money.yandex.ru/to/41001119329753\nPayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте: http://slack.web-standards.ru/\n\nСобытия\n\nMoscowJS 47 в Москве 30 января — https://www.moscowjs.org/event/moscowjs-47\nMoscowcss №17 в Москве 6 февраля — https://moscowcss.timepad.ru/event/1228234\nKharkivCSS в Харькове 28 марта — http://kharkivcss.org/\nJSNation в Амстердаме 3–5 июня — https://jsnation.com/\nСкидка 15% на JSNation — https://www.eventbrite.com/e/jsnation-conference-2020-tickets-71547014045?discount=WebStandardsRu\n\nНовинки Firefox 72\n\nFirefox 72 — our first song of 2020 — https://hacks.mozilla.org/2020/01/firefox-72-our-first-song-of-2020/\n\nShadow Parts в Firefox\n\nCSS Shadow Parts are coming! — https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5\n\nНовые формы в новом Edge\n\nForm Controls Refresh enabled — https://groups.google.com/a/chromium.org/d/msg/blink-dev/kscJbfVjR5k/z73iZYlHCQAJ\nHTML isn’t done! — https://youtu.be/ZFvPLrKZywA\nImproving form controls in Microsoft Edge and Chromium — https://blogs.windows.com/msedgedev/2019/10/15/form-controls-microsoft-edge-chromium/\n\nШаблоны в сервис-воркерах\n\nSmaller HTML Payloads with Service Workers — https://philipwalton.com/articles/smaller-html-payloads-with-service-workers/\n\nПлиточная раскладка на гридах\n\nСтандарт CSS для Masonry-раскладки — https://css-live.ru/vecssti-s-polej/standart-css-dlya-masonry-raskladki-ot-idei-k-pervym-konkretnym-narabotkam.html\n\nМентальная модель JavaScript\n\nИз чего сделан JavaScript? — https://habr.com/p/482472/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jLhqS7nTLo0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jLhqS7nTLo0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jLhqS7nTLo0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jLhqS7nTLo0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jLhqS7nTLo0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jLhqS7nTLo0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Mp5pR62HbrO1TMBeVprVFPwKOCI\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLkZPQ1NBZXFtbzRz",
+    "snippet": {
+      "publishedAt": "2020-01-09T07:25:36.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "211. Софт-скилы, футбол и жизнь без фронтенда, веб-компоненты, React, гриды, перфоманс, дайвёрсити",
+      "description": "9 января 2020: Софт-скилы, футбол и жизнь без фронтенда, веб-компоненты и React, гриды или флексы, когда перфоманс, дайвёрсити и Веб-стандарты 2020.\n\n— Ольга Алексашенко\n— Вадим Макеев\n— Мария Просвирнина\n— Алексей Симоненко\n\nСодержание\n\n00:01:13 Оля с пожеланиями\n00:05:39 Лёша с софт-скилами\n00:24:29 Маша с футболом\n00:28:42 Вадим без фронтенда\n00:38:07 Веб-компоненты и React\n00:57:06 Гриды, флексы и тренды\n01:06:50 Когда перфоманс\n01:19:44 Дайвёрсити\n01:26:18 Веб-стандарты 2020\n\nСлушайте:\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://podcasts.apple.com/podcast/id1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыка — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nRSS — https://web-standards.ru/podcast/feed/\n\nЧитайте:\nТвиттер — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбук — https://www.facebook.com/webstandardsru\nТелеграм — https://t.me/webstandards_ru\n\nПоддержите:\nПатреон — https://www.patreon.com/webstandards_ru\nЯндекс.Деньги — https://money.yandex.ru/to/41001119329753\nPayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте: http://slack.web-standards.ru/\n\nЛёша с софт-скилами\n\nDevWhatYouLove — https://devwhatyoulove.com/\nTeamLead Conf — https://teamleadconf.ru/\n\nМаша с футболом\n\nOkko Спорт — https://okko.sport/\nЗапуск трансляций Английской Премьер-лиги в новом формате — https://www.highload.ru/moscow/2019/abstracts/6087\n\nВадим без фронтенда\n\nLP — Любимые пластинки — https://3lp.me/\nПодкастерская — http://castpodcast.ru/\n\nВеб-компоненты и React\n\nIgalia — https://www.igalia.com/\nPaul Lewis — Custom Web Shadow Elements, or Whatever… — https://vimeo.com/364370506\nAlex Russell — The Mobile Web: MIA — https://vimeo.com/364402896\n\nГриды или флексы\n\nGrid или Flexbox? — https://habr.com/p/448916/\n\nКогда перфоманс\n\nSize Limit — https://github.com/ai/size-limit",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FOCSAeqmo4s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FOCSAeqmo4s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FOCSAeqmo4s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FOCSAeqmo4s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FOCSAeqmo4s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FOCSAeqmo4s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TsQ0MoW8yE6CZENF3OD4iZ5UR2Q\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLjZMdFVvZDlDMmYw",
+    "snippet": {
+      "publishedAt": "2019-12-31T07:56:15.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "210. Console.log или debug, вариативные шрифты, принципы a11y, НГ акции, одноразовый код",
+      "description": "31 декабря 2019: Console.log или debug, вариативные шрифты, принципы доступности, новогодние акции, одноразовый код.\n\n— Вадим Макеев\n— Алексей Симоненко\n— Катя Климович\n— Александр Малинин\n\nСодержание\n\n00:03:21 Console.log или debug\n00:10:57 Вариативные шрифты\n00:24:06 Принципы доступности\n00:31:23 Новогодние акции\n00:58:02 Одноразовый код\n\nСлушайте:\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://podcasts.apple.com/podcast/id1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыка — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nRSS — https://web-standards.ru/podcast/feed/\n\nЧитайте:\nТвиттер — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбук — https://www.facebook.com/webstandardsru\nТелеграм — https://t.me/webstandards_ru\n\nПоддержите:\nПатреон — https://www.patreon.com/webstandards_ru\nЯндекс.Деньги — https://money.yandex.ru/to/41001119329753\nPayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте: http://slack.web-standards.ru/\n\nОперация «Javascripton 2020»\n\nПрисоединиться к игре — https://htmlacademy.ru/special/newyear/2020?user_id=168175&amp;utm_source=ws&amp;utm_medium=podcast&amp;utm_campaign=311219&amp;utm_content=link\n\nConsole.log или debug\n\nFrontend Panda Meetup #35 в Москве 18 января — https://panda-meetup.ru/msk-frontend-meetup-6\nMastering JS console.log like a Pro — https://medium.com/p/1c634e6393f9\nConsole.log — это alert на стероидах — https://vk.com/wall-32017543_22312\n\nВариативные шрифты\n\nВведение в вариативные шрифты — https://medium.com/p/3f2b6123e1cd, Джейсон Парменталь\n\nПринципы доступности\n\nWhat a Year of Learning and Teaching Accessibility Taught Me — https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/\n\nНовогодние акции HTML Academy\n\n2019: Очень странный Новый год — https://htmlacademy.ru/blog/academy/events/stranger-new-year\n2018: Остановили Рагнарёк — https://htmlacademy.ru/blog/academy/events/stop-ragnarok-new-year\n2017: Победа над Витахультом — https://htmlacademy.ru/blog/academy/events/battle-for-the-new-year\n2016: Новогодняя гонка — https://htmlacademy.ru/blog/academy/events/surviving-in-the-new-years-race\n2015: Первая новогодняя акция — https://htmlacademy.ru/blog/academy/events/christmas-campaign",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6LtUod9C2f0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6LtUod9C2f0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6LtUod9C2f0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6LtUod9C2f0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6LtUod9C2f0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6LtUod9C2f0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/H83Fei72SExUPGUL46qFllWKdGc\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLjBmbHppeE5iSWVR",
+    "snippet": {
+      "publishedAt": "2019-12-24T09:17:42.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "209. Что не так с HTML и что можно с этим сделать, ШРИ Яндекса",
+      "description": "24 декабря 2019: Отсутствие событий, что не так с HTML и что можно с этим сделать, Школа разработки интерфейсов Яндекса.\n\n— Ольга Алексашенко\n— Вадим Макеев\n— Дмитрий Андриянов\n\nСодержание\n\n00:01:50 Отсутствие событий\n00:02:56 Что не так с HTML\n00:29:09 Что можно с этим сделать\n00:42:07 ШРИ Яндекса\n\nСлушайте:\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://podcasts.apple.com/podcast/id1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыка — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nRSS — https://web-standards.ru/podcast/feed/\n\nЧитайте:\nТвиттер — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбук — https://www.facebook.com/webstandardsru\nТелеграм — https://t.me/webstandards_ru\n\nПоддержите:\nПатреон — https://www.patreon.com/webstandards_ru\nЯндекс.Деньги — https://money.yandex.ru/to/41001119329753\nPayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте: http://slack.web-standards.ru/\n\nОтсутствие событий\n\nУбирает старые даты Frontendconf — https://github.com/web-standards-ru/calendar/commit/03ae96a9426c6826d64cb7d7d72ae21553142110\n\nЧто не так с HTML\n\nWhy details is Not an Accordion — https://daverupert.com/2019/12/why-details-is-not-an-accordion/\nPanels and Panel Sets Extension — https://bkardell.com/common-panel/index.src.html\n\nЧто можно с этим сделать\n\nBrowsers are very hesitant to invest any time in the controls — https://twitter.com/domenic/status/1206750011322753025\nScraping Burned Toast — https://adrianroselli.com/2019/06/scraping-burned-toast.html\nHTML is a living language — https://gomakethings.com/html-is-a-living-language/\n\nШРИ Яндекса\n\nРегистрация в ШРИ — https://account.shri.yandex/\nДоклад про ШРИ на Я.Субботнике — https://youtu.be/jPqNyF0hH3k?t=334",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0flzixNbIeQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0flzixNbIeQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0flzixNbIeQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0flzixNbIeQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0flzixNbIeQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0flzixNbIeQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/siENe1xnM7SfI4BW0QWEcAr8XBI\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLmhNQjVfMTV3VUhz",
+    "snippet": {
+      "publishedAt": "2019-12-16T06:48:35.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "208. Идея MapML, WebAssembly, Docker для фронтендера, красивый или быстрый код, жизнь в Швеции",
+      "description": "16 декабря 2019: События вообще и в Швеции, идея стандарта MapML, снова WebAssembly, зачем фронтендеру Docker, красивый код и быстрый код, жизнь айтишника в Швеции.\n\n— Вадим Макеев\n— Кир Белевич\n— Максим Иванов\n— Роман Прудников\n\nСодержание\n\n00:02:34 События вообще и в Швеции\n00:18:30 Идея стандарта MapML\n00:28:48 И снова WebAssembly\n00:39:42 Зачем фронтендеру Docker\n00:49:18 Красивый код и быстрый код\n01:02:26 Жизнь айтишника в Швеции\n\nСлушайте:\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыка — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nRSS — https://web-standards.ru/podcast/feed/\n\nЧитайте:\nТвиттер — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбук — https://www.facebook.com/webstandardsru\nТелеграм — https://t.me/webstandards_ru\n\nПоддержите:\nПатреон — https://www.patreon.com/webstandards_ru\nЯндекс.Деньги — https://money.yandex.ru/to/41001119329753\nPayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте: http://slack.web-standards.ru/\n\nКир, Максим, Роман\n\nКир в Твиттере — https://twitter.com/deepsweet\nМаксим в Твиттере — https://twitter.com/satansdeer\nРоман в Твиттере — https://twitter.com/rayproud\n\nСобытия вообще в Швеции\n\nMsk Vue.js Meetup #6 в Москве 19 декабря — https://msk-vuejs.ru/events/ev6.html\nFikaJS — https://www.meetup.com/FikaJS/\n\nИдея стандарта MapML\n\nThe Design of MapML — https://www.w3.org/community/maps4html/2019/12/09/the-design-of-mapml/\n\nИ снова WebAssembly\n\nW3C brings a new language to the Web — https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en\nA Real-World Benchmark of WebAssembly vs. ES6 — https://medium.com/p/d85a23f8e193\n\nЗачем фронтендеру Docker\n\nDocker для фронтендера. Часть 1. Зачем? — https://habr.com/ru/post/478932/\n\nКрасивый код и быстрый код\n\nThe unseen perf costs of CSS-in-JS in React apps — https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/\nJavaScript component-level CPU costs — https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hMB5_15wUHs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hMB5_15wUHs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hMB5_15wUHs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hMB5_15wUHs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hMB5_15wUHs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hMB5_15wUHs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MxzTa9QLFGnqtDeDidX1Nl_QvfY\"",
+    "id": "VVVZMzVkbEplLVY1Sl9JcXpVLVhrc0FnLndub2daYTBBcFFr",
+    "snippet": {
+      "publishedAt": "2019-12-09T12:30:42.000Z",
+      "channelId": "UCY35dlJe-V5J_IqzU-XksAg",
+      "title": "207. 10 лет фронтенда, Firefox 71, WASM, YouTube, селект, экономия трафика в CSS, реклама, WSD всё",
+      "description": "9 декабря 2019: 10 лет фронтенда на графике, новинки Firefox 71, WASM 4-й язык веба, лёгкая вставка YouTube, доступный кастомный селект, экономия трафика в CSS, ненавязчивая реклама, WSD всё.\n\n— Вадим Макеев\n— Саша Шинкевич\n— Никита Дубко\n\nСодержание\n\n00:01:02 События\n00:11:25 10 лет фронтенда на графике\n00:13:59 Новинки Firefox 71\n00:26:32 WASM 4-й язык веба\n00:33:39 Лёгкая вставка YouTube\n00:38:54 Доступный кастомный селект\n00:43:11 Экономия трафика в CSS\n00:49:26 Ненавязчивая реклама\n00:53:16 WSD всё\n\nСлушайте:\nGoogle Podcasts — https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8\nApple Podcasts — https://itunes.apple.com/podcast/id1080500016\nВКонтакте — https://vk.com/podcasts-32017543\nЯндекс.Музыка — https://music.yandex.ru/album/6245956\nSpotify — https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV\nYouTube — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go\nSoundCloud — https://soundcloud.com/web-standards\nRSS — https://web-standards.ru/podcast/feed/\n\nЧитайте:\nТвиттер — https://twitter.com/webstandards_ru\nВКонтакте — https://vk.com/webstandards_ru\nФейсбук — https://www.facebook.com/webstandardsru\nТелеграм — https://t.me/webstandards_ru\n\nПоддержите:\nПатреон — https://www.patreon.com/webstandards_ru\nЯндекс.Деньги — https://money.yandex.ru/to/41001119329753\nPayPal — https://www.paypal.me/pepelsbey\n\nОбсуждайте: http://slack.web-standards.ru/\n\nСобытия\n\nSEMrush IT meetup #2 в Питере 11 декабря — https://semrush.timepad.ru/event/1133928/\nKazanJS #9 в Казани 12 декабря — https://twitter.com/kazan_js/status/1202220866358140931\nBEMup в Казани 13 декабря — https://events.yandex.ru/events/bem/13-dec-2019\nSPBfiller JS Meetup #2 в Питере 14 декабря — https://spbfiller.timepad.ru/event/1131523/\nOdessaFrontend #14 в Одессе 18 декабря — https://odessafrontend.com/\nПоследний WSD в Минске 7 декабря — https://wsd.events/2019/12/07/\n\n10 лет фронтенда на графике\n\nБольше 10 лет фронтенда — https://web-standards-ru.github.io/10-years-of-frontend/\nРепозиторий на Гитхабе — https://github.com/web-standards-ru/10-years-of-frontend\n\nНовинки Firefox 71\n\nFirefox 71: A year-end arrival — https://hacks.mozilla.org/2019/12/firefox-71-a-year-end-arrival/\nFirefox 71 — http://tanalin.com/blog/2019/12/firefox-71/\n\nWASM 4-й язык веба\n\nWebAssembly becomes a W3C Recommendation — https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en\nКак мы внедряли WebAssembly в Яндекс.Картах и почему оставили JS — https://habr.com/p/475382/\n\nЛёгкая вставка YouTube\n\nLite YouTube Embed — https://github.com/paulirish/lite-youtube-embed\n\nДоступный кастомный селект\n\nMaking a Better Custom Select Element — https://24ways.org/2019/making-a-better-custom-select-element/\n\nЭкономия трафика в CSS\n\nProposal: prefers-reduced-data — https://github.com/w3c/csswg-drafts/issues/2370\n\nНенавязчивая реклама\n\n— Dealing with Ads in 2020 — https://schepp.dev/posts/ad-integration-in-2020/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wnogZa0ApQk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wnogZa0ApQk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wnogZa0ApQk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wnogZa0ApQk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wnogZa0ApQk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Веб-стандарты",
+      "playlistId": "UUY35dlJe-V5J_IqzU-XksAg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wnogZa0ApQk"
+      }
+    }
+  }
+]

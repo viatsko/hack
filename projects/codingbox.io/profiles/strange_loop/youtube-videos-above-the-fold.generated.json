@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QVzbdNH7w2FxGEo7mhAld2iTnPo\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LnZ3WnhIVmNmd3V3",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:57:09.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Building a Unified Cancer Immunotherapy Data Library\" by Lacey Kitch and Ben Kamphaus",
+      "description": "The introduction of immunotherapies has revolutionized the treatment of cancer and ushered in a corresponding explosion of research into cancer, the immune system, and their interaction. In September 2018, there were 3,394 Cancer Immunotherapy agents being tested in clinical trials - a 67% increase from the number of agents being tested one year earlier. With this explosion in research comes an explosion of data and the challenge of keeping track of and unifying published and public data so that research organizations can stay on top of the field.\n\nTo address this challenge we've created CANDEL, the Cancer Data and Evidence Library, a database system that leverages Datomic to store individual molecular measurements and clinical sample metadata in a single knowledgebase. Datomic's schema is expressive, allowing us to map the variety of representations different organizations and researchers work with into a common form, as well as to capture new concepts as our knowledge of molecular and cancer biology evolves.\n\nData can be loaded in the system without knowledge of Datomic internals by using a configurable, data-driven ETL pipeline we developed in Clojure. Data scientists can take advantage of the full power of datalog queries directly from their existing R analysis environment. Furthermore, Datomic's immutable history ensures any analysis will be reproducible, enabling large teams to collaborate on complex analysis projects with ease and confidence.\n\nLacey Kitch\nParker Institute for Cancer Immunotherapy\n\nLacey is Director of Informatics at The Parker Institute for Cancer Immunotherapy (PICI), a nonprofit that aims to accelerate the development of Immunotherapies and get them to patients faster through enabling great research. She has been applying data science and machine learning to biological and health-related datasets for many years, including in her PhD work at Stanford, where she developed novel algorithms to analyze optical brain imaging data to learn about memory. Now, she focuses on the development of data infrastructure and its application in translational analysis at PICI. As a cancer survivor herself, she's passionate about PICI's cause, and believes that there's a ton that good technology can contribute to accelerating cures for cancer.\n\nBen Kamphaus\nCognitect, Inc.\n@benkamphaus\n\nBen Kamphaus is a software developer and data scientist at Cognitect. He has a PhD in Geography from SUNY Buffalo where he got his initial exposure to interdisciplinary challenges in data infrastructure, including the use of ontologies, RDF, and other approaches to finding and expressing common data representations. These days he relies heavily on Clojure and Datomic to stay sane when moving data between systems and use contexts. In his free time he hikes, runs, climbs, writes science fiction, and produces electronic music as PatternShift.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vwZxHVcfwuw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vwZxHVcfwuw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vwZxHVcfwuw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vwZxHVcfwuw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vwZxHVcfwuw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vwZxHVcfwuw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ftph3LLiop_TR6sHGWUZccCAepg\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3Lkl3d3BvS2hyS2Zv",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:14:44.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Riding the stream processing wave\" by Samarth Shetty",
+      "description": "At LinkedIn, we run several thousands of stream processing applications which, coupled with our scale, has exposed us to some unique challenges. We will talk about the 3 kinds of applications that have made the most impact on our stream processing platform.\n\nMachine Learning applications are driving some of the latest innovations for streaming. The current trend is to train a model in batch environments and do inference in online environments. We built some native capabilities such as \"side-inputs\" for handling large state, while allowing features to be continuously pushed from offline grids to streaming environments. Data Scientists prefer DSL's for feature generation and access. Consequently, we built the ability to convert a machine learning DSL to a streaming job and use it for feature engineering. We will talk about this capability and how this can be extended to convert Hive, Pig or other custom DSL to streaming applications.\n\nWe have observed the emergence of applications that are moving from batch processing mode to nearline processing mode as well as operating on both batch (HDFS) and streaming (Kafka) datasets (e.g Experimentation). At LinkedIn, we use Samza for stream processing, and Samza applications can achieve offline-online convergence of stream and batch processing by simply switching the streaming input systems like Kafka with HDFS-based input. Apache Beam integration for Samza enables the capability to execute in different environments. Streaming applications now maintain very large local state, and during deployments, application or node failures it is critical to restore this state to its previous version. We will talk about the impact of these failures on large stateful applications and some of the recent improvements we have made in host affinity, state restore and our new standby container solution.\n\nSamarth Shetty\nLinkedIn\n\nSamarth Shetty is an engineering leader with 14+ years of experience in building global scale cloud infrastructure. At LinkedIn, he leads the Stream processing(Apache Samza) and Data pipeline(Brooklin and Databus) teams. Prior to LinkedIn, he led development teams that built core components for Azure Storage, Azure CDN, and Windows at Microsoft.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IwwpoKhrKfo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IwwpoKhrKfo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IwwpoKhrKfo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IwwpoKhrKfo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IwwpoKhrKfo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IwwpoKhrKfo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CIx_b4xWWdv1dfCdvlPvjt3G6-U\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3Lm8xbVpqdkJyU09r",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:13:27.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Privacy Governance & Explainability in ML/AI\" by Jared Maslin",
+      "description": "Since the General Data Protection Regulation (GDPR) went into effect in May 2018, matters of data privacy have grown from minor organizational adjustments to enterprise-level initiatives with impact on innovation and day-to-day operations alike. While privacy compliance may be straightforward in some areas, the growth and expansion of machine learning (ML) and artificial intelligence (AI) have has created an impasse between consumer data and processes that are, to say the least, difficult to fully explain. Integrating processes with ML and AI techniques often prove to significantly benefit the accuracy and efficiency of processes and decision making, but one's ability to fully understand precisely how an output was generated or a decision was made for an individual is much easier said than done. Yet, regulators across the globe are challenging businesses to explain how they are using governance techniques to protect consumer data privacy and to explain how decision making within ML/AI is impacting consumers. How can one identify bias? What processes can be introduced to protect consumer privacy while rooting out potential bias in the underlying models? In this talk, we will explore methods for enhancing privacy and governing data that is used for ML/AI, as well as to consider procedural approaches available for rooting out bias and building a foundation for consumer confidence in an otherwise complex and opaque space.\n\nJared Maslin\nSlalom Consulting\n\nJared is a Solution Architect with Slalom Consulting in St. Louis, as well as an Educator with the University of California, Berkeley, where he supports a course on Human Values and Ethics in Data Science. Jared has more than a decade of diverse experience in Data Privacy, Data Analytics, Auditing, Compliance, and Finance, which has contributed to a unique perspective in the space.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o1mZjvBrSOk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o1mZjvBrSOk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o1mZjvBrSOk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o1mZjvBrSOk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o1mZjvBrSOk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "o1mZjvBrSOk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qpE6ySaROFequvLv4HsAQU76PhI\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LnhOdXR4bXM2U0g0",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:11:58.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"New programming constructs for probabilistic AI\" by Marco Cusumano-Towner",
+      "description": "What if it were possible to do state-of-the-art AI programming without having to do math? This talk presents novel programming constructs for probabilistic AI that automate and hide difficult mathematical and numerical details from the user. These constructs are analogous to automatic differentiation for deep learning, but apply to a broader class of AI approaches that exhibit more aspects of human-like intelligence and can work without any training data.\n\nThese constructs also enable a new conceptual framework for probabilistic AI that replaces arcane mathematical objects with code that is more accessible to programmers without advanced mathematical training. In this framework, the user first writes a stochastic simulator that produces imaginary data sets. The user then writes a simple metaprogram that analyzes the simulator code alongside an observed real-world data set, and inverts the simulator to return inferences about events that could explain that data.\n\nThe talk will illustrate these concepts using code written using Gen, a general-purpose probabilistic programming system. Gen makes it feasible to use powerful AI approaches that were previously deemed infeasible because of their engineering complexity. The talk will show how to infer the 3D structure and content of a scene from an image by inverting a graphics renderer and how to find the hidden compositional structure in time series data to make more accurate forecasts, both in under 100 lines of code.\n\nMarco Cusumano-Towner\nMIT Probabilistic Computing Project\n\nMarco Cusumano-Towner created the general-purpose probabilistic programming system Gen while working at the MIT Probabilistic Computing Project. He is a fourth-year PhD student in electrical engineering and computer science at MIT, co-advised by Vikash Mansinghka and Josh Tenenbaum. Before MIT, Marco led an analytics team at a clinical cancer diagnostics startup, and studied at Stanford and UC Berkeley. As an undergraduate under the supervision of Pieter Abbeel, Marco developed systems for autonomous robotic manipulation of deformable materials (a.k.a. robotic laundry-folding). He has presented his research at leading academic conferences in programming languages (PLDI, POPL), machine learning (NeurIPS), and robotics (ICRA). Marco is interested in developing programming languages, systems, user interfaces, and other tools that make it easier to develop applications of automated probabilistic reasoning.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xNutxms6SH4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xNutxms6SH4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xNutxms6SH4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xNutxms6SH4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xNutxms6SH4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xNutxms6SH4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NiX0c6UVvLzYF9FgP7Ro-072oUo\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LllXS1RWMVI1blU0",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:10:55.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Empowering people to build a digital bank\" by Eric Yoshimura and Riad Vargas",
+      "description": "We are going to talk about how we built, maintain and scale our microservices architecture. We are a fast-growing digital bank with a lot of challenges regarding scalability, operability and reliability and we would like to present a structured talk about the key components of our ecosystem and also how they interact with each other. Since day-one we architectured our entire infrastructure to run on cloud and to be platform agnostic, that gave us the ability of growing fast and ensuring our high standards reliability. Nowadays we decouple our infrastructure from EC2 Amazon instances to Kubernetes where we gained the desired agnosticism. There's a few characteristics that are not so usual and gives us a lot of leverage when compared to our competitors, things like Sharding and Homogeneous Codebase, using functional programming as our main paradigm. Also, we build and maintain abstractions that help our engineering team to smoothly operate and constantly improve their microservices, and furthermore the products we offer to customers. One of things we use to achieve high levels of resilience and reliability is Kubernetes with our own developed tooling and abstractions, which allows us to provide fast interaction cycle and an even more optimized way to deploy services and other infrastructure parts. For instance, we deploy things like Thanos, Prometheus and Grafana using those abstractions to ensure fast-ish manner to release and control software versioning.\n\nEric Yoshimura\nNubank\n@ericyoshimura_\n\nEric Yoshimura is a Software Enginner at Nubank, currently living in São Paulo, Brazil. Nowadays working on a SRE team helping to build an awesome monitoring platform. In spare time, Eric likes to watch NHL games and learn about economics stuff.\n\nRiad Vargas\nNubank\n@riadvargas\n\nRiad Vargas is a Software Engineer at Nubank, with more than 2 years of experience developing and maintaining microservices in the financial industry, focused in functional programming, transactional databases and SRE stuff.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YWKTV1R5nU4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YWKTV1R5nU4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YWKTV1R5nU4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YWKTV1R5nU4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YWKTV1R5nU4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YWKTV1R5nU4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X_647ME7IEchnP7zObERQVmwWPI\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3Lld5a1NkZ3RMREQw",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:09:38.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Pattern Matching @ Scale Using Finite State Machine\" by Ajit Koti and Rashmi Shamprasad",
+      "description": "Working with data often means trying to locate data that fits patterns, akin to finding a needle in a haystack. When we add big data from non homogenous sources to the mix, this problem becomes exponentially complex. One of the use cases at Netflix, is about improving the Sign Up experience through experimentation. Being able to find user journeys across billions of events; that follow certain patterns, is a key insight into simplifying the sign up process.\n\nThis gave us an idea to build a framework to express these user journey patterns that could be translated into a Non Deterministic Finite State Machine. One of the ideas that we adapted from Ken Thompson's 1968 CACM paper, was to create an NDFA around patterns defined using regex that could support backtracking. The next step was applying the state machine across billions of events at scale using Spark. The final piece to the puzzle was to make it easily usable by Data Engineers, Scientists and Analysts alike.\n\nIn this talk, we will cover how we built this framework (dubbed \"Conduit\") and the design decisions resulting from challenges along the way. We will also talk about how this can be adapted to real time applications in the future.\n\nAjit Koti\nNetflix\n@ajitkoti\n\nAjit Koti is a Senior Engineer on the Growth Data Engineering team at Netflix, building products that enable Non Member Acquisition & Experimentation. He has over 14 years of experience building and architecting large-scale distributed systems and services. Ajit has previously built Big Data Solutions for Fanatics and IBM Labs.\n\nRashmi Shamprasad\nNetflix\n@rshamprasad\n\nPassionate about all things data, Rashmi Shamprasad is a Senior Data Engineer on the Growth Data Engineering team at Netflix, building data products that enable Non Member Acquisition & Experimentation. With over 9 years of experience working in Big Data, her previous stints include building Big Data solutions at PayPal and eBay. Rashmi holds a Masters in Computer Applications and Bachelors in Commerce.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WykSdgtLDD0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WykSdgtLDD0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WykSdgtLDD0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WykSdgtLDD0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WykSdgtLDD0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WykSdgtLDD0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UhuxtCtdQDsm93JBrL87so8qJB8\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LktfS1E0d0JwTGJZ",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:08:25.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"¡Escuincla babosa! A Python Deep Learning Telenovela\" by Lorena Mesa",
+      "description": "Telenovelas are beloved for their over the top drama and intricate plot twists. In this talk, we'll review popular telenovelas to synthesize a typical telenovela arc and use it to train a deep learning model.\n\nWhat would a telenovela script look like as imagined by a neural network? To answer this question, we'll examine three Python deep learning frameworks - Keras, PyTorch, and TensorFlow - to determine the process of translating a telenovela into a neural network and ultimately determine which one will be best for the task at hand. Be prepared for amor, pasiòn, and y el misterioso!\n\nLorena Mesa\nGitHub\n@loooorenanicole\n\nolitical scientist turned coder, Lorena Mesa is a data engineer on GitHub's software intelligence systems team, Director on the Python Software Foundation, and PyLadies Chicago co-organizer. Lorena's time at Obama for America and her subsequent graduate research required her to learn how to transform messy, incomplete data into intelligible analysis on topics like predicting Latinx voter behavior. It's this unique background in research and applied mathematics that drove Lorena to pursue a career in engineering and data science. One part activist, one part Star Wars fanatic, and another part Trekkie, Lorena abides by the motto to \"live long and prosper\".",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K_KQ4wBpLbY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K_KQ4wBpLbY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K_KQ4wBpLbY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K_KQ4wBpLbY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K_KQ4wBpLbY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "K_KQ4wBpLbY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zXkHeb46gbYOpdQpD40O87XKtfk\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LmR4WTVDZFpOenNr",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:07:17.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"CSS Algorithms\" by Lara Schenck",
+      "description": "Wait...CSS algorithms? Can one really write algorithms in CSS? Absolutely.\n\nThis talk is all about CSS algorithms: what they are, how to write them, and the potential impacts of a word like \"algorithm\" when it comes to both the CSS in your code-bases and CSS in the larger context of web development.\n\nLara Schenck\nPenske Media Corporation\n@laras126\n\nLara Schenck is fascinated by the profound, yet subtle, overlap between programming, computer science fundamentals, and CSS. She spreads her enthusiasm for this topic at her day job as a Design Ops Engineer for Penske Media Corporation, where she leads the design systems effort for big media publications powered by WordPress, and through speaking and community involvement. Lara writes about her work and life [on her blog](https://notlaura.com/blog/), illustrates [friendly monsters](https://notlaura.com/monsters), and inspires all of us who work with the web to seek a deeper understanding of the code we write and the tools we use.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dxY5CdZNzsk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dxY5CdZNzsk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dxY5CdZNzsk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dxY5CdZNzsk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dxY5CdZNzsk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dxY5CdZNzsk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6RFDegN50_ejZWtZ0Dedl10KULA\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LjdqU2ZKb21iVWVZ",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:06:29.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"A better story for Kubernetes secrets\" by Seth Vargo",
+      "description": "Secrets are a key pillar of Kubernetes, but anyone with access to etcd can all the plaintext values!\n\nAttendees will learn techniques for securing Kubernetes secrets including encryption, KMS plugins, and tools like HashiCorp Vault, and the tradeoffs of each approach to better secure their clusters.\n\nSeth Vargo\nGoogle\n@sethvargo\n\nSeth Vargo is an engineer at Google Cloud. Previously he worked at HashiCorp, Chef Software, CustomInk, and some Pittsburgh-based startups. He is the author of Learning Chef and is passionate about reducing inequality in technology. When he is not writing, working on open source, teaching, or speaking at conferences, Seth advises non-profits.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7jSfJombUeY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7jSfJombUeY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7jSfJombUeY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7jSfJombUeY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7jSfJombUeY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7jSfJombUeY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FjXNIDYB0ak-cFHbFmKOoaI2sys\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LlFLOHN2ejQ5RE1B",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:05:36.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Why do tree ensembles work?\" by Joe Ross",
+      "description": "Ensembles of decision trees (e.g., the random forest and AdaBoost algorithms) are powerful and well-known methods of classification and regression. This talk will survey work aimed at understanding the statistical properties of decision tree ensembles, with the goal of explaining why they work. After sketching the algorithms, we will give an initial explanation for their effectiveness via generic arguments (bias-variance decomposition, Hoeffding's inequality), then proceed to more detailed topics (the interpretation of random forests as kernel machines, the role of the margin, interpolation). The audience is expected to have some experience with supervised learning and statistical arguments.\n\nJoe Ross\nSignalFx\n@robusteza\n\nJoe Ross holds a PhD in mathematics from Columbia University and was a researcher and instructor in pure mathematics, most recently at the University of Southern California. He has given more than 20 talks about his research at conferences and universities throughout the world (Germany, Japan, Turkey, USA). He has also been the primary lecturer for many undergraduate and graduate math courses, and has given countless informal seminars. He has 9 publications in peer-reviewed mathematics journals. Joe has worked as a data scientist at machine learning/analytics startups for five years; in his current role, he focuses on a variety of time series (anomaly detection, forecasting, correlation) and sampling problems that arise in monitoring.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QK8svz49DMA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QK8svz49DMA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QK8svz49DMA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QK8svz49DMA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QK8svz49DMA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QK8svz49DMA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ut-cwL_dKdPGfZaSYdsShUtKlEw\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LjNXYmlReUFGcFdR",
+    "snippet": {
+      "publishedAt": "2019-09-16T21:11:19.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Apache Pulsar and the Legacy of Telegraphy\" by Jowanza Joseph",
+      "description": "The Wireless Telegraph was invited in the 1890s and quickly spread to be the dominant method of peer-to-peer communication throughout the 19th century. As a method of communication, the Telegraph allowed for a secure, Intercontinental, high-throughput and extensible message transmission. Toward the end of its popularity, Telegraphs were a broadcast protocol (one sender to many recipients), and their utility skyrocketed. The design considerations and engineering of the Telegraph are seen in contemporary messaging systems, especially Apache Pulsar. This talk covers the design considerations required to enabled globally distributed, low-latency applications to run on top of Apache Pulsar. From the storage model to replication and deployment, I explore each of these design decisions and how they contrast with the design of wireless telegraphy. The talk concludes with a demo of Apache Pulsar functions and Pulsar SQL, displaying the extensibility of Pulsar. Attendees can expect to learn a brief history of wireless telegraphy and a deep understanding of the design of Apache Pulsar.\n\nJowanza Joseph\nPluralsight\n@Jowanza\n\nJowanza is a software engineer at Pluralsight. Previous to Pluralsight, Jowanza worked at Adobe, Zagg, and Edge by Ascential on machine learning, distributed microservices and distributed data processing. Jowana is a frequent conference speaker including appearances at Open Source Summit, O'Reilly Strata, Scala by the Bay, Open West and All Things Open. Jowanza contributes to several open source projects and is an active blogger on his website.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3WbiQyAFpWQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3WbiQyAFpWQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3WbiQyAFpWQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3WbiQyAFpWQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3WbiQyAFpWQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3WbiQyAFpWQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bFBuRydy9KYO-QPTd6hhvz1QP5k\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3Ll9mQTd2a1ZKaEY4",
+    "snippet": {
+      "publishedAt": "2019-09-16T12:46:13.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Easy Abstract Interpretation with SPARTA\" by Arnaud Venet and Jez Ng",
+      "description": "Using abstract interpretation to build a scalable tool from scratch is a daunting engineering task that generally requires a protracted development effort. To streamline that process, we built (SPARTA)1, a C++ library of components for building high-performance static analyzers that can run in a production environment. SPARTA provides the building blocks so an engineer can focus solely on the logic that extracts the desired information from the program. The library ensures that the resulting analysis is sound, efficient, and scalable.\n\nSPARTA is actively used by Facebook, most notably in our open-source Android bytecode optimizing compiler Redex. However, SPARTA is language-independent and contains no Android-specific logic.\n\nIn this talk we will go over some of the algorithms behind SPARTA, the benefits we've obtained, and we will show you how to use it in your own analyses.\n\nArnaud Venet\nFacebook\n\nArnaud got his PhD in abstract interpretation from the École Polytechnique in 1998 and has helped spread the use of scalable static analysis in industry since then.\n\nJez Ng\nFacebook\n\nJez has been hacking on programming languages and runtimes at Facebook for the past five years: first on the Hack typechecker and then on the Redex optimizing compiler for Android. While an undergraduate at Amherst College, he also worked on Doppio, one of the first JVM implementations in the browser.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_fA7vkVJhF8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_fA7vkVJhF8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_fA7vkVJhF8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_fA7vkVJhF8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_fA7vkVJhF8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_fA7vkVJhF8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/p1oNtapKNeL-N3j11eTnAbMgo24\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3Lm5NS3F6VUJqamY0",
+    "snippet": {
+      "publishedAt": "2019-09-16T12:45:15.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"How to Fix AI: Solutions to ML Bias (And Why They Don't Matter)\" by Joyce Xu",
+      "description": "Bias in machine learning is a Problem. This is common knowledge for many of us now, and yet our algorithms continue to operate unfairly in the real world, perpetuating structural inequality along lines of class and color. After all, \"better training data\" is not so easy to get our hands on, right?\n\nIn this talk, I argue that it is time for us to begin building algorithms that are designed to be resilient to biased data. Building on a basic introduction to ML concepts, I present an in-depth, intuitive explanation of several deep learning techniques that combat underlying bias in data, and use these models to explore what \"algorithmic fairness\" really means in measurable terms. Finally, diving into a few case studies of real world systems, I suggest that even perfect \"fairness\" is not necessarily the fairy-tale ending we like to think it is. Blindly optimizing for it may still miss the real problem behind AI bias, and to come to a real solution we may just have to reframe the problem itself.\n\nJoyce Xu\nSidewalk Labs\n@joycex99\n\nJoyce is an AI/ML engineer (tinkerer?) who might be a little too excited about history, urban studies, and binging HBO to be a productive tech worker. She is currently at Sidewalk Labs, where she's thinking about how to engineer privacy-preserving ML solutions in urban mobility and sustainability. Previously, she conducted research at DeepMind and the Stanford NLP Group, where her pursuits centered around multi-agent reinforcement learning and natural language generation respectively. Having begun her journey in AI self-taught, she is a strong advocate of accessibility in research and tooling: she's helped build an open-source ML framework for functional programming in Clojure, and blogs regularly on AI research and fundamentals. When she's not busy daydreaming about becoming a DJ, she sometimes looks forward to finishing her university studies at Stanford.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nMKqzUBjjf4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nMKqzUBjjf4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nMKqzUBjjf4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nMKqzUBjjf4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nMKqzUBjjf4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nMKqzUBjjf4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OibJucvcKhO8RS6TTYYhTbkP5ZI\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LnlVLUhVYjhYeWtn",
+    "snippet": {
+      "publishedAt": "2019-09-16T03:00:40.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"#lang wishful thinking\" by Vlad Kozin",
+      "description": "What might solving a real production problem in a language specifically designed for building languages that cooperate look like? Racket lets you program by fusing multiple DSLs together, reshaping and moulding your language to fit the domain, putting up towers of languages, in fact, each level closer to the language of the desired discourse. Get a glimpse of how this might work by implementing something that's simple yet spans a whole range on the abstraction ladder from bit twiddling to Web frameworks. Learn how to really go off on a tangent while implementing FastCGI protocol in Racket: we won't tie ourselves to the defaults that Racket designers blessed us with, but boldly employ wishful thinking, borrow readily from other languages. We won't rush to map domain vocabulary onto what basic building blocks our language provides - we'll try to actually speak the language of the domain. Want prototypes with Lua-style metatables? Concise syntax? Single and multiple inheritance with generic dispatch? How generic should that generic be? Multimethods? Full Metaobject Protocol, maybe? Beyond Metaobject Protocol? A language of patterns to avoid bit twiddling? That one Web framework that speaks the language of the Web yet lets you write plain \"desktop app\" code? Build yourself a better language. Dare say: I wish I could - then make it so.\n\nVlad Kozin\n@zeRusski\n\nDilettante programmer from London who taught himself programming with Racket through HtDP and PLAI, did some paid Javascript, which he does not recommend, then paid Clojure, which he does. He has now gone back to the roots and writes lots of Racket. Former @yandex and @droitfintech. Fall'13 @recursecenter aka @hackerschool alum.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yU-HUb8Xykg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yU-HUb8Xykg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yU-HUb8Xykg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yU-HUb8Xykg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yU-HUb8Xykg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yU-HUb8Xykg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yEpH8-RIHINibsTxAyP99rXHkmk\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LmpLU3o3VzVkVGdZ",
+    "snippet": {
+      "publishedAt": "2019-09-16T02:59:29.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Rhapsody in Zero Knowledge: Proving Without Revealing\" by Tony Arcieri",
+      "description": "What does it mean to prove something? Propositional logic requires we reveal propositions and then prove them true, but what if it were possible to create proofs which reveal nothing but their own validity? This is the core idea behind the emergent field of zero knowledge proofs: a decades old solution to a problem we didn't even know existed yet. As we increasingly turn to machine learning to solve problems related to security, such as detecting frauds, fakes, or other threat actors, solutions increasingly rely on accumulating massive amounts of personal data, undermining privacy and risking data breaches. This talk is about how we don't have to sacrifice privacy to get security, and the potential power of constraints, complexity, and universal verifiable computation, and assumes no prior knowledge of cryptography or proof systems.\n\nTony Arcieri\niqlusion\n@bascule\n\nCo-founder @iqlusioninc, formerly @square @chain. Cryptography dilettante, polyglot programmer, key management wrangler, and infrastructure security specialist",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jKSz7W5dTgY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jKSz7W5dTgY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jKSz7W5dTgY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jKSz7W5dTgY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jKSz7W5dTgY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jKSz7W5dTgY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q_lwuvCVRf-4bBZu5dEbQkWbb2E\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LmdDV3RrdkRRMlpJ",
+    "snippet": {
+      "publishedAt": "2019-09-16T02:58:16.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Unison: a new distributed programming language\" by Paul Chiusano",
+      "description": "Unison is an open source functional programming language with special support for building distributed, elastic systems. It began as an experiment: rethink all aspects of the programming experience, including the core language, runtime, tooling, as well as code versioning and publishing, and then do whatever is necessary to eliminate needless complexity and make building software once again delightful, or at the very least, reasonable.\n\nWe're used to thinking of a program as a thing that describes what a single OS process will do, and then using a separate layer of technologies outside of our programming languages to \"configure\" many separate programs into a single distributed, elastic \"system\". This gets complicated. The core language of Unison starts with the premise that no matter how many nodes a computation occupies, it should be expressible via a single program, not many separate programs. Unison programs can describe their own deployment, elastically scale and orchestrate themselves, and deploy themselves in parallel onto any number of nodes for execution.\n\nThis talk introduces the Unison language and its tooling and shows what it can be like to program systems of any size with this model of computing.\n\nPaul Chiusano\nUnison Computing\n@pchiusano\n\nPaul Chiusano started the research that led to the Unison language and is a cofounder of Unison Computing, a public benefit corp. He has over a decade of experience with purely functional programming in Haskell and Scala and coauthored the book Functional Programming in Scala. He lives and works in Somerville, MA.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gCWtkvDQ2ZI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gCWtkvDQ2ZI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gCWtkvDQ2ZI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gCWtkvDQ2ZI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gCWtkvDQ2ZI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gCWtkvDQ2ZI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3lKB_Mtgi8Yv6D85NMHiyAozQ-8\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LkFOWU1paTNTeXBn",
+    "snippet": {
+      "publishedAt": "2019-09-16T02:56:13.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Minimalist Piano Forever\" by Mouse Reeve",
+      "description": "French composer Erik Satie was the forefather of avant-garde music, the founder of a one-man occult sect, and the inventor of entirely new genres for his hauntingly repetitive, minimalist piano works. Personally, I could listen to his \"Gnossiennes\" forever, so I created a way to do so, using digital sheet music, markov chains, and browser-based midi to create a generative, unending Gnossienne. This talk will explore the strategies, algorithms, and libraries I used to go from 19th and 20th century piano music to generative audio and on-the-fly sheet music in the browser. It features forays into topics ranging from how to make computer generated music sound more natural, to Erik Satie's very peculiar life.\n\nMouse Reeve\nInternet Archive\n@tripofmice\n\nMouse is a software engineer at the Internet Archive, working on preserving the web and making it freely available to anyone on the internet. They have an academic background in anthropology and mathematics, with strong interests in linguistics, generative art, and historical occultism. Mouse created the internet's best social network where no one is allowed to use the letter e, and dabbles in vegan patisserie, social justice, and looking at flowers. They care very deeply about nonsense.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ANYMii3Sypg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ANYMii3Sypg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ANYMii3Sypg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ANYMii3Sypg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ANYMii3Sypg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ANYMii3Sypg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3PR_LyiJoQC1S-9YY_Vd6_XMRmc\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LlFuNlRDWEptSVRN",
+    "snippet": {
+      "publishedAt": "2019-09-16T02:50:39.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Ruby on the Apple II: Adventures in Retro Programming\" by Colin Fulton",
+      "description": "The minimum system requirements for PowerPoint 2019 are 4 GB of RAM and a 1.6 GHz CPU. The system requirements for this talk are a few kilobytes of RAM, a 5 1/4\" floppy disk drive, and a 30 year old computer.\n\nWith an 8-bit CPU running at 1 megahertz and kilobytes of RAM, the Apple ][ was a humble machine. Many people first learned to program on it, but the languages designed for the Apple ][ tended to be clumsy and limiting by modern standards. Surely it isn't possible to fit a language as dynamic, rich, and complicated as Ruby on such a limited machine, right?\n\nCome see Ruby running where it has never run before, learn how programming was done decades ago.\n\nColin Fulton\nDuo Security\n@PeterQuines\n\nComing from the world of theatre design and art, Colin is a front-end developer and web accessibility specialist at Duo Security, a division of Cisco. When they aren't at work they are doing silly things like implementing chess games in untyped lambda calculus or writing Conway's Game of Life in significantly fewer characters than it took to write this bio.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qn6TCXJmITM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qn6TCXJmITM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qn6TCXJmITM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qn6TCXJmITM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qn6TCXJmITM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Qn6TCXJmITM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7l8_vJVIxxn6RZa-HtWOeXhcsJ4\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3LkVONjFONlN2a2RN",
+    "snippet": {
+      "publishedAt": "2019-09-16T01:16:34.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"The strange loop making parasitic insects our friends\" by Mary Marek-Spartz",
+      "description": "The history of ecology and functional programming are intertwined. The Fibonacci sequence, commonly used to illustrate recursion for learners of functional programming, was initially created to model a population of rabbits. In 1935, the entomologist John Nicholson and the physicist Victor Bailey published The Balance of Animal Populations. They proposed equations to represent the population interaction between a parasitic wasp and its insect host. At the heart of the Nicholson-Bailey model is a mutually recursive relationship: a strange loop. The two populations depend upon each other and will recurse forever or crash as they both approach zero. The model became a paradigm in ecological modeling and is an essential tool in the field of biological control, where insect parasites that lay their eggs inside an invasive pest species are augmented for pest management. However, Nicholson-Bailey type models used in biological control studies rarely utilize high-level programming language tools. Generations is an open-source Python package containing parameterizable modules for understanding the population dynamics of biological control insects and their target plants (invasive weeds). Generations models the response of an invasive plant population to an herbivorous parasite, through a set of recursive functions. Come learn how functional programming is used to find organic solutions to invasive species problems to save native ecosystems and minimize the use of pesticides.\n\nMary Marek-Spartz\nUniversity of Minnesota, Twin Cities\n@mMarekSpartz\n\nI am an Entomology PhD student at the University of Minnesota working on weed biological control projects. I have a Master's degree from St. Mary's University of Minnesota in Geographic Information Science and I have been an adjunct instructor there since 2016, teaching programming principles for GIS and data informatics and geospatial analysis. I have recently been working with Python, R, and JavaScript. In my spare time, I enjoy working on natural science illustrations as a way of combining my technical and creative skills.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EN61N6SvkdM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EN61N6SvkdM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EN61N6SvkdM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EN61N6SvkdM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EN61N6SvkdM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EN61N6SvkdM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SdkjVODXe7-XBEMl95drsxjk7Bg\"",
+    "id": "VVVfUUlmSHZOOWF1eTJDb09kU2ZNV0R3Lkx3aDZZZF9rZnNR",
+    "snippet": {
+      "publishedAt": "2019-09-16T01:14:28.000Z",
+      "channelId": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "title": "\"Automating Operations of a Global CDN\" by Robert Fernandes",
+      "description": "Aspects of the Netflix growth story are very visible - the transition from physical media delivery to digital streaming, or from a domestic focus to a global one. However, there are some transitions that may be less noticeable.\n\nOne example of these unnoticed transitions is from reliance on commercial CDN providers for content delivery, to utilizing an in-house, purpose-built global CDN known as Open Connect. This is the sole provider of all Netflix streaming content.\n\nEfficiently operating this global CDN requires more than just competent personnel. There is heavy reliance on software automation and tooling, which helps the CDN scale at a faster pace than the headcount required to run it.\n\nGiven the fast-paced growth of Netflix streaming, there have been many challenges in how to best support Open Connect operations with automation. Teams emerged to collectively build applications that help meet these needs, but over time these applications ballooned to relatively large, siloed monoliths that are functional, but often difficult to deploy and manage.\n\nThrough this talk, you will receive insight into how we have streamlined our automation story. How we actively transitioned from large monoliths to a more decomposed, scalable set of microservices we refer to as the Open Connect Administration Platform. You will be walked through our automation journey - our history, our future, the pitfalls we have encountered and the lessons we have learned along the way.\n\nRobert Fernandes\nNetflix\n@bovilexic\n\nFor the last 2 years Robert Fernandes has lead the Open Connect Tools team within Netflix, which handles the software automation and tooling for the Netflix global CDN. Prior to managing this team, he was a contributing engineer on the team for over 4 years - helping to build and maintain a large portion of the suite of solutions it takes to operate the CDN. Prior to Netflix, Robert spent over a decade in the government R&D space working for a national research laboratory, followed by a few years in the area of enterprise business collaboration software. His entire career has been spent as an architect and a generalist, working on all parts of the stack - from data and persistence, to middle tier services and APIs, all the way up to front end design and development using a variety of UI frameworks.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Lwh6Yd_kfsQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Lwh6Yd_kfsQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Lwh6Yd_kfsQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Lwh6Yd_kfsQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Lwh6Yd_kfsQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Strange Loop",
+      "playlistId": "UU_QIfHvN9auy2CoOdSfMWDw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Lwh6Yd_kfsQ"
+      }
+    }
+  }
+]

@@ -1,0 +1,4842 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V1dl4mbfl5JBtB2f2yc1XHK5SLI\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnlsRzhfZDlRazFV",
+    "snippet": {
+      "publishedAt": "2020-04-18T17:00:32.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что делает браузер, чтобы загрузить Веб-страницу?",
+      "description": "#soer  #ityoutubersru\n\nВ это видео отвечаю на популярный вопрос на собеседованиях, где просят объяснить, как браузер загружает веб страницу, после того как вводится URL.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru\nInstagram -  https://www.instagram.com/fact0rial/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ylG8_d9Qk1U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ylG8_d9Qk1U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ylG8_d9Qk1U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ylG8_d9Qk1U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ylG8_d9Qk1U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ylG8_d9Qk1U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/r9NYnmziRrFGC6iYmRNQV8Y7fSQ\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLld0NzM3dnJUMHQ4",
+    "snippet": {
+      "publishedAt": "2020-04-10T12:00:29.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Красивый и эффективный терминал Linux",
+      "description": "#soer  #linux\n\nВ этом видео расскажу о эффективном сетапе терминала для изучения исходников и бинарников в ОС Linux. \n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru\nInstagram -  https://www.instagram.com/fact0rial/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Wt737vrT0t8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Wt737vrT0t8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Wt737vrT0t8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Wt737vrT0t8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Wt737vrT0t8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Wt737vrT0t8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oOYskSX7P1B_SFuS2qgXXNwEasU\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLml5bmZPNmFKZmZv",
+    "snippet": {
+      "publishedAt": "2020-03-14T14:00:12.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как делать code review (часть 2)",
+      "description": "#soer  #codereview\n\nВ первой части мы поговорили про то какие моменты должны быть в самом ревью, а в этом видео я хочу сделать упор на то как должен быть организован процесс ревью.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru\nInstagram -  https://www.instagram.com/fact0rial/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iynfO6aJffo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iynfO6aJffo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iynfO6aJffo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iynfO6aJffo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iynfO6aJffo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iynfO6aJffo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/88wcu_SKk3N8e2xz2nduzTM_PpY\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkpoV2owR0dhYW9B",
+    "snippet": {
+      "publishedAt": "2020-03-04T07:00:04.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что на самом деле представляет из себя монолит в архитектуре программы?",
+      "description": "#soer #архитектура #сложно\n\nВ этом видео я попытался кратко рассказать о различии между монолитом на уровне кода и приложения. Кратко рассмотрел проблемы микросервисной архитектуры, достоинства трехслойной архитектуры, а так же процесс перехода от монолита к модульной архитектуре.\n\n\n\n\n\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru\nInstagram -  https://www.instagram.com/devs2devs/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JhWj0GGaaoA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JhWj0GGaaoA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JhWj0GGaaoA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JhWj0GGaaoA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JhWj0GGaaoA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lnCO-hNJhoAqV9cfAigk6cV2koc\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLm9SVXBaLUtFeEdz",
+    "snippet": {
+      "publishedAt": "2020-01-19T17:23:24.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Первый стрим IT YouTubers",
+      "description": "#soer  #ityoutubersru\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru\nInstagram -  https://www.instagram.com/fact0rial/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oRUpZ-KExGs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oRUpZ-KExGs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oRUpZ-KExGs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oRUpZ-KExGs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XPmilN4PN7ty193JtVp2faTcpp0\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkZ0N0xFaXp1ck44",
+    "snippet": {
+      "publishedAt": "2019-12-31T07:00:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "ИТОГИ ГОДА И ПОЗДРАВЛЕНИЕ ОТ СОЕРА",
+      "description": "#soer  #ityoutubersru\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ft7LEizurN8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ft7LEizurN8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ft7LEizurN8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ft7LEizurN8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ft7LEizurN8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ft7LEizurN8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cYpan9bX-H2GBAphHVQ48QC5Xbw\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjJxY0tVcDZJVk4w",
+    "snippet": {
+      "publishedAt": "2019-12-30T12:30:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "10 НЕУДОБНЫХ ВОПРОСОВ ПРОГРАММИСТУ",
+      "description": "#soer  #ityoutubersru\n\nДве недели назад я запустил сбор вопросов для этого видео, вопросов пришло много, но я отобрал только 11. Можно было задавать любые вопросы, даже те, которые кажутся неудобными.\nЧто из этого получилось смотрите в видео. Отвечал максимально честно!\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2qcKUp6IVN0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2qcKUp6IVN0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2qcKUp6IVN0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2qcKUp6IVN0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aLpwqsJae9iDNxYMCKFgGHB6D_s\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmJZZDlGYXZSUWZJ",
+    "snippet": {
+      "publishedAt": "2019-12-28T12:00:09.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Про архитектора программных решений",
+      "description": "#soer  #ityoutubersru\n\nДавайте немного поговорим о том кто же такой архитектор программных решений\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bYd9FavRQfI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bYd9FavRQfI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bYd9FavRQfI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bYd9FavRQfI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bYd9FavRQfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bYd9FavRQfI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OH5UoPV3_23uKyAqHQxBLojcFVI\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmIwVndHc2Q5c1Fr",
+    "snippet": {
+      "publishedAt": "2019-12-18T13:00:06.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "ПОСТРОЕНИЕ КАРЬЕРЫ В IT | 5 СОВЕТОВ ОТ СОЕРА",
+      "description": "#soer  #ityoutubersru\n\nПостарался честно рассказать о тех моментах, которые мешают построению успешной карьеры.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b0VwGsd9sQk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b0VwGsd9sQk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b0VwGsd9sQk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b0VwGsd9sQk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b0VwGsd9sQk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "b0VwGsd9sQk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/n7-3UtttQokaMeZZY8YGOM9XQTU\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjZMYTN1bTZ4Z2tr",
+    "snippet": {
+      "publishedAt": "2019-12-09T13:00:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "КАК ЧИТАТЬ ИСХОДНЫЕ КОДЫ | СОВЕТЫ ОТ СОЕРА",
+      "description": "#soer  #ityoutubersru\n\nКороткое видео с советами как можно подступиться к задаче по чтению чужих исходных кодов и почему это важно\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6La3um6xgkk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6La3um6xgkk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6La3um6xgkk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6La3um6xgkk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6La3um6xgkk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6La3um6xgkk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pPrP84chbV-26hG6gDQvAVKa84M\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnVTbmxpXzRCckVB",
+    "snippet": {
+      "publishedAt": "2019-12-02T13:30:02.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Про абстракции в программировании и АйТи",
+      "description": "#soer  #ityoutubersru\n\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uSnli_4BrEA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uSnli_4BrEA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uSnli_4BrEA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uSnli_4BrEA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uSnli_4BrEA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uSnli_4BrEA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/T5iBfyYjhbKZkSlUev8AVQACEFw\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkNoRlFNemZwWWJJ",
+    "snippet": {
+      "publishedAt": "2019-11-22T18:15:02.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Анализ исходного кода Redux | Функциональная композиция |  Middleware",
+      "description": "#soer  #ityoutubersru\nВ этом видео речь пойдет о применении в Redux таких техника как:\n- функциональная композиция\n- каррирование\n- чистые функции\n- функции высшего поряка\n- рекурсии\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ChFQMzfpYbI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ChFQMzfpYbI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ChFQMzfpYbI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ChFQMzfpYbI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ChFQMzfpYbI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W63nkJ3tlMOt6MPBey39_5DzxI0\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLk9Eak9KTXFSLVh3",
+    "snippet": {
+      "publishedAt": "2019-11-13T07:00:04.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Пишу программу в машинных кодах",
+      "description": "#soer  #ityoutubersru\n\nВ этом видео я показываю как можно написать и скормить конкретные инструкции для процессора. \n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ODjOJMqR-Xw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ODjOJMqR-Xw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ODjOJMqR-Xw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ODjOJMqR-Xw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ODjOJMqR-Xw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uK7VAc3qbi4HPNzSoQ8YyNmCGgE\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkh6YkgyVWZBcnA0",
+    "snippet": {
+      "publishedAt": "2019-10-30T07:30:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Голая правда о программистах | САТИРА",
+      "description": "#soer  #ityoutubersru #сатира \n\nНемного юмора про программистов не помешает.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HzbH2UfArp4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HzbH2UfArp4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HzbH2UfArp4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HzbH2UfArp4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HzbH2UfArp4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HzbH2UfArp4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dpiM9JvMpsv2ToxtQlioMby7rsY\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmQtQ3dDaElBWXFn",
+    "snippet": {
+      "publishedAt": "2019-10-23T07:30:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Чему можно научиться анализируя исходники Angular",
+      "description": "#soer #ityoutubersru\n\nПопытался понятным языком рассказать о том как можно использовать исходники проекта для анализа с разбиением на шаги/коммиты.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d-CwChIAYqg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d-CwChIAYqg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d-CwChIAYqg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d-CwChIAYqg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "d-CwChIAYqg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pNZej5A3zj2_w4iC1lrEb8GnVrQ\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmtHdG9nc3Q4M0N3",
+    "snippet": {
+      "publishedAt": "2019-10-16T09:30:05.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Уверен, что понимаешь как #хэшировать пароли правильно?",
+      "description": "#soer #ityoutubersru #хэш\n\nОчень часто сталкиваюсь с ситуацией, когда люди путают хэш таблицы и радужные таблицы. Не могут сказать чем криптографический хэш отличается от функции формирования ключа. Не понимают как расчитать кост параметры.\nВ этом видео я попытался собрать всю инфу, которую надо знать для хэширования паролей правильно.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kGtogst83Cw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kGtogst83Cw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kGtogst83Cw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kGtogst83Cw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kGtogst83Cw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hLbpAxYvDPElibZpT7vCTgtXiEI\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnBUWjl5SG45QnRV",
+    "snippet": {
+      "publishedAt": "2019-10-09T09:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Дизассемблирование| Пролог | Эпилог | Красная зона",
+      "description": "#soer #ityoutubersru\n\nВ это видео речь пойдет о таких частях дизассмблированный функции как пролог и эпилог. А так же расскажу как красная зона влияет на резервирование места на стеке.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pTZ9yHn9BtU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pTZ9yHn9BtU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pTZ9yHn9BtU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pTZ9yHn9BtU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pTZ9yHn9BtU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bFP-Kw7IFu7ludievAsvw-HeeFE\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkpxVWdmeUg3Q2pJ",
+    "snippet": {
+      "publishedAt": "2019-09-25T10:30:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Перезапись буфера на стеке (Stackoverflow) | Защита Stack Canary | Протекция стека",
+      "description": "#soer #ityoutubersru\n\nВ этом видео я рассказываю о уязвимости \"переполненние стекового буфера\" и о методе защиты \"стековая канарейка\"\nВидео состит из двух частей \"теория\" и \"практика\".\n\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JqUgfyH7CjI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JqUgfyH7CjI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JqUgfyH7CjI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JqUgfyH7CjI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JqUgfyH7CjI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2C5khywD23DQ7SVxZ7oS7_or_1I\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLm1teFlYZnp0YTJF",
+    "snippet": {
+      "publishedAt": "2019-09-20T11:30:05.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Предугадывание #rand | линейный конгруэнтный метод | стандартный Си",
+      "description": "#soer #ityoutubersru\n\nНесмотря на то, что цели в 3000 лайков мы не достигли, все равно решил опубликовать видос по rand. Знаю, что многие старались и собирали лайки как могли: Поэтому в качестве исключения, можно отойти от правил.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mmxYXfzta2E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mmxYXfzta2E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mmxYXfzta2E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mmxYXfzta2E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mmxYXfzta2E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gqaNgcH4hr81Dez-p2nP_4XsAPA\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjBYV1hjbHRWb3Rz",
+    "snippet": {
+      "publishedAt": "2019-10-02T07:30:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Монолитность на уровне приложения и кода",
+      "description": "#soer #ityoutubersru\n\nВ прошлом видео начал разговор про архитектуру кода и приложения. В этом хочу продолжить эту тему и поговорить про монолитность. Посыл видео в том, что нарезанный на кусочки монолит не перестает быть монолитом.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0XWXcltVots/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0XWXcltVots/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0XWXcltVots/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0XWXcltVots/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0XWXcltVots"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GKdhc49eGPA__FQoqMo0fjyG3oQ\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjBYT3BZMDFPb3VN",
+    "snippet": {
+      "publishedAt": "2019-09-18T05:00:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "#Архитектура приложения и кода",
+      "description": "#soer #ityoutubersru\n\nПопытался коротко изложить чем архитектура кода отличается от архитектуры приложения. Что получилось судить вам.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0XOpY01OouM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0XOpY01OouM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0XOpY01OouM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0XOpY01OouM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0XOpY01OouM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0XOpY01OouM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sGXja524GYjrewSxYL6hQpmmH_E\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLktwMW5mdzBMRFhj",
+    "snippet": {
+      "publishedAt": "2019-09-11T07:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "G.R.A.S.P | шаблоны проектирования",
+      "description": "#soer #ityoutubersru\n\nGRASP считается одним из самых трудных для понимания наборов архитектурных шаблонов и принципов. В этом видео предлагаю вам свое понимание этих шаблонов с позиции практического использования.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Kp1nfw0LDXc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Kp1nfw0LDXc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Kp1nfw0LDXc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Kp1nfw0LDXc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Kp1nfw0LDXc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Xqjr9n2E0gAX6Gc7bZYEWz0b8ic\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLi1xTE1UQjYxWlNz",
+    "snippet": {
+      "publishedAt": "2019-09-04T07:15:02.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Пишем свой #rand | Линейный конгруэнтный метод",
+      "description": "#soer #ityoutubersru\n\nВ это видео мы разберемеся с тем как написать псевдослучайный генератор чисел с помощью Линейного конгруэнтного метода.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-qLMTB61ZSs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-qLMTB61ZSs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-qLMTB61ZSs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-qLMTB61ZSs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-qLMTB61ZSs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/l5-KeuoSMLC-Z2qv8uJvRm-qD-k\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjVhbGNmTjRhWUhv",
+    "snippet": {
+      "publishedAt": "2019-08-20T13:30:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Софт для реверс-инжиниринга программ",
+      "description": "В видео речь пойдет про \n\nIda Pro (free)\nx64dbg (плагины snowmen, x64dbg2ghidra)\nGhidra\nRadare2 \n\nЗатрону поверхностно windbg, binary ninja, gdb\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5alcfN4aYHo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5alcfN4aYHo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5alcfN4aYHo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5alcfN4aYHo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5alcfN4aYHo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dh7M9pkflS_FOgGvlxUAevO0RoQ\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkR1TDQ2aDlSend3",
+    "snippet": {
+      "publishedAt": "2019-08-28T07:15:02.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как проходить #собеседование",
+      "description": "#soer  #ityoutubersru\n\nДавайте немного поговорим про собеседования и можно ли повысить свои шансы при их прохождении\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DuL46h9Rzww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DuL46h9Rzww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DuL46h9Rzww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DuL46h9Rzww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DuL46h9Rzww"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RqXA00D-9u3Lg_itagaxKYcIFaE\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmhlRE1qMmdta1VZ",
+    "snippet": {
+      "publishedAt": "2019-08-08T13:48:10.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Devs2Devs | про исключения",
+      "description": "#soer #devs2devs\n\nРассекречиваю видео из проекта devs2devs где отвечаю на вопрос про исключения.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/heDMj2gmkUY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/heDMj2gmkUY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/heDMj2gmkUY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/heDMj2gmkUY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/heDMj2gmkUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "heDMj2gmkUY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HTmgXwdbKi9fCfp2Q0wDIHu571Y\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkRlRmNManlDY19n",
+    "snippet": {
+      "publishedAt": "2019-08-07T07:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как написать #patch для исполняемого файла",
+      "description": "#soer #patch #ityoutubersru\nВ этом учебном ролике я расскажу как можно посмотреть какой машинный код сгенерирован в результате компиляции программы на Си и как можно изменить его поведение с помощью патча двоичного кода.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DeFcLjyCc_g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DeFcLjyCc_g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DeFcLjyCc_g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DeFcLjyCc_g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DeFcLjyCc_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DeFcLjyCc_g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/npx6Q14fmeivlHIpACfa9J6ZZac\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLldmZkRlcGNETHlF",
+    "snippet": {
+      "publishedAt": "2019-08-01T02:11:21.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Пока играет песня пишу программу всех пермутаций",
+      "description": "#soer  #ityoutubersru #Эргот\n\nБыла ночь, было настроение... С разрешения группы Эргот и под ее песню \"Карающий\" сделал небольшой Code Challenge\n\nСсылка на песни: https://soundcloud.com/ergoth-official\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WffDepcDLyE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WffDepcDLyE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WffDepcDLyE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WffDepcDLyE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WffDepcDLyE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WffDepcDLyE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ACZyen98rXEwGyOJyM5z47o57z4\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjV6U1I3RmZhTENZ",
+    "snippet": {
+      "publishedAt": "2019-07-31T09:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Почему этот код крутится в бесконечном цикле?",
+      "description": "#soer  #ityoutubersru\nРассказываю почему если использовать тип Float в цикле, то можно оказаться в ситуации, когда цикл никогда не закончится.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5zSR7FfaLCY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5zSR7FfaLCY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5zSR7FfaLCY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5zSR7FfaLCY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5zSR7FfaLCY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/r5ZC8AitwY7lC1ctEiE5wnsEmjg\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlRUVEstdHo3bGtz",
+    "snippet": {
+      "publishedAt": "2019-07-24T07:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Основы #HEX для хакеров",
+      "description": "#soer #ityoutubersru\n\n1. Кратко что такое шестнадцатеричная система счисления\n2. 10 замечательных чисел, которые нужно запомнить\n3. Базовая арифметика\n4. Простейшие преобразования\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TTTK-tz7lks/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TTTK-tz7lks/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TTTK-tz7lks/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TTTK-tz7lks/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TTTK-tz7lks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TTTK-tz7lks"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cKyZoi6XDGSAiNi4syX3fEHwGqs\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkJWaGc1bnkzZV84",
+    "snippet": {
+      "publishedAt": "2019-07-16T07:00:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Компьютерные #очки - мой опыт использования",
+      "description": "#soer #ityoutubersru #очки\n\nВ этом видео коротко о принципе действия и моем опыте использования компьютерных очков.\n\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BVhg5ny3e_8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BVhg5ny3e_8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BVhg5ny3e_8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BVhg5ny3e_8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BVhg5ny3e_8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BVhg5ny3e_8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JYMNqm09uf-CxPQcC5Fw49rn2q8\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjh5bjd2c21qTDYw",
+    "snippet": {
+      "publishedAt": "2019-07-02T07:15:02.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Исследуем float | хаккерский подход",
+      "description": "#alterego #float #ityoutubersru\n\nВ это видео речь пойдет о числах с плавающей запятой. Я расскажу как они хранятся в скомпилированных файлах. Как можно найти и заменить переменную в исполняемом файле, не прибегая к компиляции.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8yn7vsmjL60/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8yn7vsmjL60/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8yn7vsmjL60/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8yn7vsmjL60/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8yn7vsmjL60"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KtjxmJIatOUk29BXf0k-7KNlv7I\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkxRdF9uenI0OVJR",
+    "snippet": {
+      "publishedAt": "2019-06-25T07:00:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как стать программистом за месяц",
+      "description": "#itstart2019 #ityoutubersru\n\nДругие видео на похожие темы:\n\nАйТиБорода: https://youtu.be/yd11QD72EvM\nПросто: разработка: https://youtu.be/9GfE1QurGHE\nCODE BLOG: https://youtu.be/Lucr70WCv48\nwebDev: https://youtu.be/__TPqWJLJGw\nFrontCoder: https://youtu.be/p1SN_PUFnQE\ndotnet4u: https://youtu.be/SvXfDTzRi1c\nБыть Программистом: https://youtu.be/B3kVGrd3XTQ\nSoftware Engineer - Soer: https://youtu.be/LQt_nzr49RQ\nМир IT c Антоном Павленко: https://youtu.be/lNRwAg9eaqo\nMurrengan: https://youtu.be/h6LMuJokd3g\nIT-KAMASUTRA: https://youtu.be/__B3kJ8YhSw\nDKA-DEVELOP: https://youtu.be/whw0b-quqG0\nMarlin: \nСергей Немчинский: https://youtu.be/uHgOl8uxeDA\nТипичный Верстальщик  https://youtu.be/lmPRuEzX24I\nMisha Newcomer - https://youtu.be/f8Nvjl1Ss4c\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LQt_nzr49RQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LQt_nzr49RQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LQt_nzr49RQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LQt_nzr49RQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LQt_nzr49RQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iaTGoDSXeosEPCgcFOTV1WyFgjw\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlQxQUU1N2ppVUZz",
+    "snippet": {
+      "publishedAt": "2019-06-10T13:37:50.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Синий диплом. 8364 часа. Чему научили в ВУЗе за 5 лет!",
+      "description": "#soer #влог #влогпрограммиста #ityoutubersru\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T1AE57jiUFs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T1AE57jiUFs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T1AE57jiUFs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T1AE57jiUFs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "T1AE57jiUFs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_-ezt526UC0SH_RXEy7wQ8ujmWA\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnJabGpuay1lVkpz",
+    "snippet": {
+      "publishedAt": "2019-05-22T12:11:11.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что делать если задают некорректные вопросы на собеседовании",
+      "description": "#soer #влог #ityoutubersru\nВ этом видео я рассказываю о том как можно набрать дополнительные очки на собеседовании, если вам задают стандартные, да еще и некорректные вопросы.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rZljnk-eVJs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rZljnk-eVJs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rZljnk-eVJs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rZljnk-eVJs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rZljnk-eVJs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VYMpSryM7IvGiWQZPv6GvgN1Ris\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjFpSkNvd2xyQ2VN",
+    "snippet": {
+      "publishedAt": "2019-05-03T07:15:02.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Недостатки работы программистом",
+      "description": "#soer #влог #влогпрограммиста #ityoutubersru\n\nЧасто задают один и тот же вопрос \"Какие недостатки в работе программистом?\". Думаю, что сама профессия программиста может быть очень интересной, когда речь идет о интересном проекте и интересных задачах. Но есть побочные эффекты, о которых неплохо знать, и об это в видео.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1iJCowlrCeM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1iJCowlrCeM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1iJCowlrCeM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1iJCowlrCeM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1iJCowlrCeM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9cj1ny31KhSm0cDXvSxdpDLpXVA\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlozRWd5RnR3ZkVR",
+    "snippet": {
+      "publishedAt": "2019-04-17T07:00:03.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "A Day in the life of a Software Enginner | Russia Siberia",
+      "description": "All videos - #itlife2019 #ityoutubersru\n\nMoldova https://youtu.be/2uWk-tJkzL4\nRussia, Siberia https://youtu.be/Z3EgyFtwfEQ\nBelarus https://youtu.be/ceuYpUQTpeY\nUSA https://youtu.be/ztfj0MVwmBw\nGermany https://youtu.be/2JIaiMJS92I",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z3EgyFtwfEQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z3EgyFtwfEQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z3EgyFtwfEQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Z3EgyFtwfEQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Z3EgyFtwfEQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Z3EgyFtwfEQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JlIvlJvtrrrcPa17kczquwpRYPg\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnBwbUdzanZNSkEw",
+    "snippet": {
+      "publishedAt": "2019-04-08T09:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "КАК СОЗДАЮТСЯ ENTERPRISE ПРИЛОЖЕНИЯ",
+      "description": "#soer #влог #влогпрограммиста\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ppmGsjvMJA0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ppmGsjvMJA0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ppmGsjvMJA0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ppmGsjvMJA0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ppmGsjvMJA0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OVKvYSpyoIRhZnE3q5u594D2Cz8\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlBBeWZ0X2I1UVQw",
+    "snippet": {
+      "publishedAt": "2019-04-05T09:15:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Cтрашное слово #DEVOPS",
+      "description": "#soer #влог #влогпрограммиста #devops\n\nDEVOPS инженер - профессия которая стремительно набирает обороты. Многих интересует как найти работу в сфере DEVOPS, но при этом нет никакого понимания что же это за философия такая. Поэтому в этом видео расскажу вещи, которые важно знать. \n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PAyft_b5QT0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PAyft_b5QT0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PAyft_b5QT0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PAyft_b5QT0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PAyft_b5QT0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vfA1-fjnl0k-xQTBgWDCTbc15GQ\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlNkS3ktdE9YNTVR",
+    "snippet": {
+      "publishedAt": "2019-03-29T09:15:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как настроение влияет на код",
+      "description": "#soer #влог #влогпрограммиста\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SdKy-tOX55Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SdKy-tOX55Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SdKy-tOX55Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SdKy-tOX55Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SdKy-tOX55Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tCGBDwIXCMo7mqIfETkEYti72ew\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLk5kNzV1R3V2YzRN",
+    "snippet": {
+      "publishedAt": "2019-03-25T09:15:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Важные законы программирования",
+      "description": "#soer #влог #влогпрограммиста\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Nd75uGuvc4M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Nd75uGuvc4M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Nd75uGuvc4M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Nd75uGuvc4M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Nd75uGuvc4M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XpNMvsJGUbfwvondQLnw2u4mAh4\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLk1vQk1neXFHTFRz",
+    "snippet": {
+      "publishedAt": "2019-03-22T09:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как не попасть в ловушку идеальности",
+      "description": "О боже! Нет! Соер признает, что он тоже ошибается! ))))\n\n#soer #влог #влогпрограммиста\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MoBMgyqGLTs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MoBMgyqGLTs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MoBMgyqGLTs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MoBMgyqGLTs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FIMG-PSpysQefVCwhiozNteZ2kg\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmdCUEk0ekRPYnNZ",
+    "snippet": {
+      "publishedAt": "2019-03-18T09:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как изучать программирование с полного нуля / мотивация / саморазвитие",
+      "description": "#soer #влог #влогпрограммиста\nВ этом видео я затронул важные вопросы связанные именно с тем КАК обучаться, а не ЧЕМУ. Поэтому видео не о том, что нужно выучить и по каким книгам заниматься. А о том, как построить процесс обучения  и что препятствует эффективному обучению программированию.\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gBPI4zDObsY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gBPI4zDObsY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gBPI4zDObsY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gBPI4zDObsY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gBPI4zDObsY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KuBKHsCM9_saNZMJnGkNUlwG5tg\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLm1YU3gwZnA4am1V",
+    "snippet": {
+      "publishedAt": "2019-03-15T09:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Боль и слезы повторного использования компонентов программы",
+      "description": "#soer #влог #влогпрограммиста\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mXSx0fp8jmU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mXSx0fp8jmU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mXSx0fp8jmU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mXSx0fp8jmU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 43,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mXSx0fp8jmU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2mPFghn3Jf90rWY7CEXgFTZCMO4\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLm9xT1RvR3F1UjZZ",
+    "snippet": {
+      "publishedAt": "2019-03-11T09:15:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Впечатляющие 3D сайты",
+      "description": "Понедельник - день тяжелый, поэтому предлагаю немного расслабиться и насладиться красивой подборкой сайтов сделанных на threejs\n\n#soer \n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oqOToGquR6Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oqOToGquR6Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oqOToGquR6Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oqOToGquR6Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 44,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oqOToGquR6Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/80N-ZM8zRNsoVSOvmDdmcDZsAsg\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnZPVEdpZk53Sk04",
+    "snippet": {
+      "publishedAt": "2019-03-07T09:15:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Почему SCRUM не методология",
+      "description": "#soer #влог #влогпрограммиста #scrum\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vOTGifNwJM8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vOTGifNwJM8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vOTGifNwJM8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 45,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vOTGifNwJM8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GUSL3W2OgYawGGM0vx-KwdpGpa0\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlYyZlV6VDc0aHN3",
+    "snippet": {
+      "publishedAt": "2019-03-04T09:15:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как доводить начатое до конца",
+      "description": "#soer #влог #влогпрограммиста #мотивация\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V2fUzT74hsw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V2fUzT74hsw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V2fUzT74hsw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/V2fUzT74hsw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 46,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "V2fUzT74hsw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0mzTPq72lnmy0uVIpCKeCMK8eIg\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnpNRTRTT0NIVDBJ",
+    "snippet": {
+      "publishedAt": "2019-03-01T09:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что нужно знать про ООП",
+      "description": "#soer #влог #влогпрограммиста\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zME4SOCHT0I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zME4SOCHT0I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zME4SOCHT0I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zME4SOCHT0I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 47,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zME4SOCHT0I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MI59b-JHEaIuki5FI17vhXZ3jdQ\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjc3TFNQS0pUSVRV",
+    "snippet": {
+      "publishedAt": "2019-02-25T09:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что такое Definition of Done (SCRUM)",
+      "description": "#soer #влог #влогпрограммиста\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/77LSPKJTITU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/77LSPKJTITU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/77LSPKJTITU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/77LSPKJTITU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 48,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "77LSPKJTITU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UKwDDvNluMQVRHq5Xo6MGjsPm4Q\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmMtZTA4eE1KUHY0",
+    "snippet": {
+      "publishedAt": "2019-02-22T09:15:00.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Писать свой код или использовать готовый",
+      "description": "#soer #влог #влогпрограммиста\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c-e08xMJPv4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c-e08xMJPv4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c-e08xMJPv4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c-e08xMJPv4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 49,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c-e08xMJPv4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "7S74k50Zmd__XFiozknb9aJiwjk",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmstWE1xTGx4UHl3",
+    "snippet": {
+      "publishedAt": "2019-02-18T09:15:00Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Почему прототипирование может угробить заказной проект",
+      "description": "Важно! Не надо проецировать сказанное в видео на стартапы и собственные пет-проекты. Речь в видео идет о коммерческой разработке с наемными сотрудниками, техническим заданием, определенным бюджетом и сроками разработки.\n\nВ данном видео под прототипом понимается то, чем он является - черновым наброском будущей системы.\n\nКогда у вас нет понимания каким должен быть конечный продукт, или нет четких сроков, или разработка ведется эволюционными методами, то это совсем другая история, которую нужно рассматривать отдельно.\n#soer #влог #влогпрограммиста\n\nЧат для программистов - https://discord.gg/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k-XMqLlxPyw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k-XMqLlxPyw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k-XMqLlxPyw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k-XMqLlxPyw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 50,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k-XMqLlxPyw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "zO-Yltp_bAOx4-DJQ5tmo84ZkSo",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkZkTklJZXVHRlZN",
+    "snippet": {
+      "publishedAt": "2019-02-08T09:15:01Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "О чем подумать до написания программы?",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FdNIIeuGFVM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FdNIIeuGFVM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FdNIIeuGFVM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FdNIIeuGFVM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 51,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FdNIIeuGFVM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "dlgIjh8CW37P93ceSoPpwFq0PCk",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkktOEExNl9ETXFN",
+    "snippet": {
+      "publishedAt": "2019-02-04T09:15:00Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как правильно именовать переменные",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I-8A16_DMqM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I-8A16_DMqM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I-8A16_DMqM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I-8A16_DMqM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 52,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "I-8A16_DMqM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "D6ywjWj8wJmhqZnAoMt-pQBWqMg",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmFjLU5ieEs0dFVF",
+    "snippet": {
+      "publishedAt": "2019-02-01T09:45:00Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Какой язык программирования учить в 2019",
+      "description": "#soer #влог #влогпрограммиста\nВ этом видео я расскажу какие языки программирования учить. А так же кратко остановлюсь на истории таких языков как: Си, Java, JavaScript, Python, Perl и некоторых других.\n\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ac-NbxK4tUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ac-NbxK4tUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ac-NbxK4tUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ac-NbxK4tUE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 53,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ac-NbxK4tUE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "z2GHvQc1MUgt3da22QXFHijyrQs",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmRtZjA1UGJXMTNJ",
+    "snippet": {
+      "publishedAt": "2019-01-25T09:30:00Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Непрерывная интеграция, доставка и развертывание",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dmf05PbW13I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dmf05PbW13I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dmf05PbW13I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dmf05PbW13I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 54,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dmf05PbW13I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "xjegAInULP9rbYqXKU5F4EnaYTw",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLm5yTlNjX2k5U2lF",
+    "snippet": {
+      "publishedAt": "2019-01-18T09:00:08Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Про code review",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nrNSc_i9SiE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nrNSc_i9SiE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nrNSc_i9SiE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nrNSc_i9SiE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 55,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nrNSc_i9SiE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "HewwGhXasmXsCEa5gqQeNBtWEw8",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnNKZlVYOWpseDRR",
+    "snippet": {
+      "publishedAt": "2019-01-17T02:06:47Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "🎤Про стартапы и стартап клуб",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sJfUX9jlx4Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sJfUX9jlx4Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sJfUX9jlx4Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 56,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sJfUX9jlx4Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "xPHUFnSR4RTZX0YZveqDK3c3efs",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmVTUFk1di1PRmxn",
+    "snippet": {
+      "publishedAt": "2019-01-16T07:14:20Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "О важности технологии разработки",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eSPY5v-OFlg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eSPY5v-OFlg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eSPY5v-OFlg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eSPY5v-OFlg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 57,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eSPY5v-OFlg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "1NbV-8lpiD6NPuq_iUT33wEcR6M",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmZ5dkxDSDRSVGtV",
+    "snippet": {
+      "publishedAt": "2019-01-09T10:54:07Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Про технический долг",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fyvLCH4RTkU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fyvLCH4RTkU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fyvLCH4RTkU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fyvLCH4RTkU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 58,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fyvLCH4RTkU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "pxdIvh2s7h-NGIfKugTvtxOWCH8",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlhNYVIwSnRRdC1V",
+    "snippet": {
+      "publishedAt": "2018-12-19T06:34:27Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Разбираю Angular CSS Lexer",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XMaR0JtQt-U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XMaR0JtQt-U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XMaR0JtQt-U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XMaR0JtQt-U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 59,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XMaR0JtQt-U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "yo-jgZ19LHSZQ8EhlYg8cW3x8cE",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkx4WEJVU1dSTXlB",
+    "snippet": {
+      "publishedAt": "2018-12-17T09:30:00Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Код - хороший учитель, но плохой рассказчик",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LxXBUSWRMyA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LxXBUSWRMyA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LxXBUSWRMyA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LxXBUSWRMyA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 60,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LxXBUSWRMyA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "2ifurfTcncg42gtdaxKq34pGw1E",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmtGT2xUZ1FhMnp3",
+    "snippet": {
+      "publishedAt": "2018-12-05T03:38:37Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как победить перфекционизм",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kFOlTgQa2zw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kFOlTgQa2zw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kFOlTgQa2zw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kFOlTgQa2zw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 61,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kFOlTgQa2zw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "eWCqEHoD-fyOfB94ppH-snAJCYY",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLktPMEFKc0J2WnYw",
+    "snippet": {
+      "publishedAt": "2018-12-03T06:59:37Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Стали джуном, а что дальше?",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KO0AJsBvZv0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KO0AJsBvZv0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KO0AJsBvZv0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KO0AJsBvZv0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 62,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KO0AJsBvZv0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "d-zKgHsGxQsSc0DkzDCcbBnHfqw",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjVDeFRhT0hRdFFr",
+    "snippet": {
+      "publishedAt": "2018-11-26T08:58:12Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Почему я не хочу быть ментором?",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5CxTaOHQtQk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5CxTaOHQtQk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5CxTaOHQtQk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5CxTaOHQtQk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 63,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5CxTaOHQtQk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "o6yrgCNeNliCtrAHo4wfgjOGnkA",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnZCZlZoNFVpcGdZ",
+    "snippet": {
+      "publishedAt": "2018-11-19T05:58:21Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Ошибки при поиске работы программистом",
+      "description": "#soer #влог #влогпрограммиста\nЧасто программисты совершают ошибки еще до того как устроятся на работу - много тратят времени на обучение, мало анализируют рынок, мало думают о том как лучше строить свою карьеру/. В этом видео поговорим как раз про это!\n\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vBfVh4UipgY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vBfVh4UipgY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vBfVh4UipgY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vBfVh4UipgY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 64,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vBfVh4UipgY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "erNUZPyQWgMQKLe4yTSM2TUDW9c",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmZJZ01hOW53RUdJ",
+    "snippet": {
+      "publishedAt": "2018-11-14T06:17:08Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Рабочее место  Data Science разработчика",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fIgMa9nwEGI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fIgMa9nwEGI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fIgMa9nwEGI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fIgMa9nwEGI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 65,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fIgMa9nwEGI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "e869XfSmkl7_EDuL2KC74XTO1hA",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkJZcU1rN2d6b21z",
+    "snippet": {
+      "publishedAt": "2018-11-12T10:19:22Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Самый простой workflow для разработки приложения",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BYqMk7gzoms/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BYqMk7gzoms/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BYqMk7gzoms/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BYqMk7gzoms/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 66,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BYqMk7gzoms"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "5ezvyEzed774YUFdDvFPdXta7hs",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnF5SmpqN1I1ZXpv",
+    "snippet": {
+      "publishedAt": "2018-11-08T06:30:57Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Высшее образование и продуктивный возраст",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qyJjj7R5ezo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qyJjj7R5ezo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qyJjj7R5ezo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qyJjj7R5ezo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 67,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qyJjj7R5ezo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "VeYap96n6IxuLWjVgMHXNUPD72I",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjBLX3NBcnlEUVVZ",
+    "snippet": {
+      "publishedAt": "2018-10-30T08:03:58Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как UML диаграммы реализуются в коде",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0K_sAryDQUY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0K_sAryDQUY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0K_sAryDQUY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0K_sAryDQUY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 68,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0K_sAryDQUY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "eXLlAa8jz0_nuFj0wwwptcT87cc",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjlDaGJvVU9ZMlB3",
+    "snippet": {
+      "publishedAt": "2018-10-25T08:02:56Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Анализ github проекта Streamlines #3: Код",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9ChboUOY2Pw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9ChboUOY2Pw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9ChboUOY2Pw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 69,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9ChboUOY2Pw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "_vENUoHY_oNgRzeFQo9ptj8ulGs",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmw1ZmQ4eENUZ3k0",
+    "snippet": {
+      "publishedAt": "2018-10-15T07:17:36Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Почему console.log для отладки - это архаизм",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l5fd8xCTgy4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l5fd8xCTgy4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l5fd8xCTgy4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 70,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l5fd8xCTgy4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "3V9xcn_JQZWtjVbvvidY3UHrGF4",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmd2ZGJkZndId2FN",
+    "snippet": {
+      "publishedAt": "2018-10-08T10:16:24Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Рабочее пространство фронтендера",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gvdbdfwHwaM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gvdbdfwHwaM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gvdbdfwHwaM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 71,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gvdbdfwHwaM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "HvHGjt9bdjyC-Ymudy1BLGlfIQE",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLm1rcTgyV01NaEFN",
+    "snippet": {
+      "publishedAt": "2018-09-30T12:45:14Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Стоит ли программисту поменять стек знаний",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mkq82WMMhAM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mkq82WMMhAM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mkq82WMMhAM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mkq82WMMhAM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 72,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mkq82WMMhAM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "H40IsXHpb4AESGG6OOhNYA1-JvE",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjBkNERsaGRDdkZJ",
+    "snippet": {
+      "publishedAt": "2018-09-26T04:03:14Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Почему требования к программистам стали проще",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0d4DlhdCvFI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0d4DlhdCvFI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0d4DlhdCvFI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 73,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0d4DlhdCvFI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "qcWEsemZ4Bzz5L4yp8d14y6llP4",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLl9udkJqTGtuV1cw",
+    "snippet": {
+      "publishedAt": "2018-09-27T06:27:00Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как программистам совмещать работу и изучение нового",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_nvBjLknWW0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_nvBjLknWW0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_nvBjLknWW0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 74,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_nvBjLknWW0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "z1ChGVVNVs8UGzRP0rw5fyjt12k",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmsxdVh3eTdNOEtj",
+    "snippet": {
+      "publishedAt": "2018-09-21T05:29:01Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Карьера удаленных сотрудников",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k1uXwy7M8Kc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k1uXwy7M8Kc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k1uXwy7M8Kc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 75,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k1uXwy7M8Kc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "KITMEv-UvfZIascB-PxPrB2tDuw",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlVaV3lKMlVURHhv",
+    "snippet": {
+      "publishedAt": "2018-09-14T10:08:30Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "несколько советов о карьере в IT",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UZWyJ2UTDxo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UZWyJ2UTDxo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UZWyJ2UTDxo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 76,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UZWyJ2UTDxo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ntuo-n_n4lbGK4D8_07ZuGWt43o",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLml3eWlxQm5yUG1V",
+    "snippet": {
+      "publishedAt": "2018-09-23T12:25:33Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "CodeWars: Simple SQL Engine (3/3)",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iwyiqBnrPmU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iwyiqBnrPmU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iwyiqBnrPmU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 77,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iwyiqBnrPmU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "uOqUK9YNgsw735vpoEj_Ojk0_zY",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkNMc09ScnRfZnYw",
+    "snippet": {
+      "publishedAt": "2018-09-10T12:27:09Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Codewars: Simple SQL Engine  (1/3)",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CLsORrt_fv0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CLsORrt_fv0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CLsORrt_fv0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 78,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CLsORrt_fv0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "5IV1geErnmM8EF0loovPd_xxIac",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLl9hZzcwXzdrdmlV",
+    "snippet": {
+      "publishedAt": "2018-09-18T04:57:03Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Codewars: Simple SQL Engine (2/3)",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_ag70_7kviU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_ag70_7kviU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_ag70_7kviU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 79,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_ag70_7kviU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jFdCmiJlLqG0lY_yI6KfZCD9eFQ",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmp6N2NJNEp2ZXhj",
+    "snippet": {
+      "publishedAt": "2018-05-16T08:43:17Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Мой путь в IT",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jz7cI4Jvexc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jz7cI4Jvexc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jz7cI4Jvexc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 80,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jz7cI4Jvexc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "qjFzHzy1jiGzQTapP9bQPbjUD9Q",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLk9mNExSYmdELTRZ",
+    "snippet": {
+      "publishedAt": "2018-05-02T14:53:36Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Почему я считаю, что веб это просто",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Of4LRbgD-4Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Of4LRbgD-4Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Of4LRbgD-4Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 81,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Of4LRbgD-4Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Yk-19dSfWYUddROHi6Td1sTnAvQ",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLm9YVzhNN0ZET3Aw",
+    "snippet": {
+      "publishedAt": "2018-04-18T02:27:56Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как я выводил проект из крутого пике",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oXW8M7FDOp0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oXW8M7FDOp0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oXW8M7FDOp0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 82,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oXW8M7FDOp0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "1PlRPehhTfowo4M7JcTpC7HgCu0",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjhrdU9rRnBXRW9J",
+    "snippet": {
+      "publishedAt": "2018-04-17T07:09:49Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как самообучаться эффективно (качественно vs количественно)",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8kuOkFpWEoI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8kuOkFpWEoI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8kuOkFpWEoI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8kuOkFpWEoI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 83,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8kuOkFpWEoI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "gQVANq4Sv68falZnvC5Act7SdIM",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmJrQWlWaXI0dFRj",
+    "snippet": {
+      "publishedAt": "2018-04-16T03:09:30Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Сколько зарабатывают программисты",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bkAiVir4tTc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bkAiVir4tTc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bkAiVir4tTc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bkAiVir4tTc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 84,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bkAiVir4tTc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "_NuuU8UAz_AmfZqUU_yuzo1FtIA",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjBZLWNlekI2cW00",
+    "snippet": {
+      "publishedAt": "2018-03-30T03:59:35Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Где работать программисту",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0Y-cezB6qm4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0Y-cezB6qm4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0Y-cezB6qm4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 85,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0Y-cezB6qm4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "eMan9nmfrwOYe6XgekWgSNlzfO4",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlNUMkk5YjN2YzVB",
+    "snippet": {
+      "publishedAt": "2018-03-29T04:39:11Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что значит быть хорошим программистом?",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ST2I9b3vc5A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ST2I9b3vc5A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ST2I9b3vc5A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 86,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ST2I9b3vc5A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "fgCeHBRVNSKd2LT5rVgub30tugk",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkhVN19GSHprSmFN",
+    "snippet": {
+      "publishedAt": "2018-02-26T09:00:00Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "JavaScript ▶︎ 3 КРУТЫХ ХАКА О КОТОРЫХ ТЫ ДОЛЖЕН ЗНАТЬ",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HU7_FHzkJaM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HU7_FHzkJaM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HU7_FHzkJaM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 87,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HU7_FHzkJaM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "2dRHN_T1z8U9vK_3lyW6V2_J0Gw",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnE3ZWlLeFVjV2JV",
+    "snippet": {
+      "publishedAt": "2018-02-07T07:28:55Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Javascript ▶︎ Секреты числа Пи",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q7eiKxUcWbU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q7eiKxUcWbU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q7eiKxUcWbU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 88,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "q7eiKxUcWbU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "XkMROwlWTAb8TzWKFhG5y4UIots",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnQ4cnR5Z1VvYmZR",
+    "snippet": {
+      "publishedAt": "2018-01-26T05:45:45Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Решение самых сложных задач с codewars #4",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t8rtygUobfQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t8rtygUobfQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t8rtygUobfQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 89,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "t8rtygUobfQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "p1c087CZbtmstsCVEqZqNgqibX4",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkpvSDFQYi1sa29V",
+    "snippet": {
+      "publishedAt": "2018-01-25T06:42:30Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Решение самых сложных задач с codewars #3.",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JoH1Pb-lkoU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JoH1Pb-lkoU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JoH1Pb-lkoU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 90,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JoH1Pb-lkoU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "QTGO1xPEsyZq5CpSd61V5n_PnoU",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnRGN3lHZzk2Q0NV",
+    "snippet": {
+      "publishedAt": "2018-01-24T12:20:55Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Решение сложных задач с codewars #2",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tF7yGg96CCU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tF7yGg96CCU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tF7yGg96CCU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 91,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tF7yGg96CCU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "nGLIx-Jd8Cq1jCdUztyQDtLm7jg",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmRrWUVuWVFuSlE4",
+    "snippet": {
+      "publishedAt": "2018-01-23T05:57:04Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Решение сложных задач с codewars #1",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dkYEnYQnJQ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dkYEnYQnJQ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dkYEnYQnJQ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 92,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dkYEnYQnJQ8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "4uBhn_RHDkfZcoF27MHPLxnmqJk",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjFUZlc1bzFuMnM4",
+    "snippet": {
+      "publishedAt": "2017-12-09T04:48:20Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Unity Melee Combat AI",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1TfW5o1n2s8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1TfW5o1n2s8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1TfW5o1n2s8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 93,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1TfW5o1n2s8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "EcT0EVAzQEbxHCM5qQFDXAdj4K0",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnF4Q3RGdkF6ZC1N",
+    "snippet": {
+      "publishedAt": "2017-11-29T05:48:28Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Вопрос-ответ: Зачем учить алгоритмы",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qxCtFvAzd-M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qxCtFvAzd-M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qxCtFvAzd-M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qxCtFvAzd-M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 94,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qxCtFvAzd-M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "SemsQA2BqOi4TmYBFoPivPjnYaw",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmtZbjRKR0ROYzRz",
+    "snippet": {
+      "publishedAt": "2017-11-10T13:25:18Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Виртуальные поединки, отчет за первый месяц",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kYn4JGDNc4s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kYn4JGDNc4s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kYn4JGDNc4s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kYn4JGDNc4s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 95,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kYn4JGDNc4s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Sa2YyuHrVY_OqJxMjfoKFtoKHcA",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnFuUm9WeVNteXJn",
+    "snippet": {
+      "publishedAt": "2017-10-11T04:01:23Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Вопрос-Ответ: Внутренние причины выгорания",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qnRoVySmyrg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qnRoVySmyrg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qnRoVySmyrg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qnRoVySmyrg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 96,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qnRoVySmyrg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "yotsOC7EnYMyEFEE4ryL85wG5zU",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjhzMTNScjR3SHM4",
+    "snippet": {
+      "publishedAt": "2017-10-09T13:24:58Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Вопрос-Ответ: как бороться с эмоциональным выгоранием",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8s13Rr4wHs8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8s13Rr4wHs8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8s13Rr4wHs8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8s13Rr4wHs8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 97,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8s13Rr4wHs8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "KzrYzpdxYsRvFEDKhHzNoKLMVKs",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLm1pRkVGVzlQVVI0",
+    "snippet": {
+      "publishedAt": "2017-10-05T09:44:36Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Пара идей об использовании дополненной реальности на канале",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/miFEFW9PUR4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/miFEFW9PUR4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/miFEFW9PUR4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/miFEFW9PUR4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 98,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "miFEFW9PUR4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "HrXzJjT_-S72THRJjYfS3MkaTo4",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmswZURaVm1ialVv",
+    "snippet": {
+      "publishedAt": "2017-09-25T05:40:12Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как научиться читать технические книги быстро | советы по скорочтению для программистов",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k0eDZVmbjUo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k0eDZVmbjUo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k0eDZVmbjUo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k0eDZVmbjUo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 99,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k0eDZVmbjUo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q7CcsGhCT7lwW511FiTeVxPBmyg\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjV2T0lkQUduUjhZ",
+    "snippet": {
+      "publishedAt": "2017-09-14T07:45:07.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Можно начать работать программистом в 28 лет?",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5vOIdAGnR8Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5vOIdAGnR8Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5vOIdAGnR8Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 100,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5vOIdAGnR8Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ajss81qQ6FkA1UlmP9lQHHUDAek\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjRQRGVXaGE0M2hR",
+    "snippet": {
+      "publishedAt": "2017-09-13T02:42:47.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что лучше глубокие или поверхностные знания",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4PDeWha43hQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4PDeWha43hQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4PDeWha43hQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4PDeWha43hQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 101,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4PDeWha43hQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ra9CXcWcfd00Yk4zf-yC3FvRkB4\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlVIaFE3NHV3Q25z",
+    "snippet": {
+      "publishedAt": "2017-08-20T06:52:01.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Пример разработки простой функции на JavaScript",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UHhQ74uwCns/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UHhQ74uwCns/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UHhQ74uwCns/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UHhQ74uwCns/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 102,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UHhQ74uwCns"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oGXoekirKiu2sZXFwPGAC0--TtA\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmo2X3JRWm1Zd19j",
+    "snippet": {
+      "publishedAt": "2017-08-18T09:50:08.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Инженерное мышление в программировании",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j6_rQZmYw_c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j6_rQZmYw_c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j6_rQZmYw_c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j6_rQZmYw_c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 103,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "j6_rQZmYw_c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/l26UEfXfUDkL7HEv8tAtHCma8UY\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmZJVFg3djBDYlQ0",
+    "snippet": {
+      "publishedAt": "2017-08-14T08:01:39.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Откровенно про фриланс",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fITX7v0CbT4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fITX7v0CbT4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fITX7v0CbT4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fITX7v0CbT4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 104,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fITX7v0CbT4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PnBvHaIkGFbnx3USE_7L1yK4TzM\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlFLRnJ4RWtWdXNn",
+    "snippet": {
+      "publishedAt": "2017-08-11T13:58:35.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что такое метапрограммирование",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QKFrxEkVusg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QKFrxEkVusg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QKFrxEkVusg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QKFrxEkVusg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 105,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QKFrxEkVusg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-qSztslrdwoIgJpGtB9JGKLsP5I\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnpqX1dOcTR0TkNz",
+    "snippet": {
+      "publishedAt": "2017-08-09T11:22:31.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Про стандарты государственные и зарубежные",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zj_WNq4tNCs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zj_WNq4tNCs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zj_WNq4tNCs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zj_WNq4tNCs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 106,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zj_WNq4tNCs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Br2yZDcs5mVS6i_W-ldgcGU8nLI\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkFLenJPNXkwQjJF",
+    "snippet": {
+      "publishedAt": "2017-08-07T15:11:49.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что такое функциональное программирование",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AKzrO5y0B2E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AKzrO5y0B2E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AKzrO5y0B2E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 107,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AKzrO5y0B2E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Xpvub_Pg9nMqfArGsyZJYZ5v5Qo\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLk5KTXJIdzE4c05r",
+    "snippet": {
+      "publishedAt": "2017-08-06T14:35:33.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как бороться с ситуацией \"Мусор на входе - мусор на выходе\"",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NJMrHw18sNk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NJMrHw18sNk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NJMrHw18sNk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NJMrHw18sNk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 108,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NJMrHw18sNk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DcS3EFjfaBJhBUIF17Naa2jXANc\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjZ4QlMxd0NiUE1N",
+    "snippet": {
+      "publishedAt": "2017-08-05T18:53:37.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Как проходить собеседование на IT специальность",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6xBS1wCbPMM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6xBS1wCbPMM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6xBS1wCbPMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6xBS1wCbPMM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 109,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6xBS1wCbPMM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_dEdMIeUrSh90ukRmVUrVkyVdKQ\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLkp5cnJjSURYSERF",
+    "snippet": {
+      "publishedAt": "2017-07-31T09:48:20.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Стратегия саморазвития для программиста",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JyrrcIDXHDE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JyrrcIDXHDE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JyrrcIDXHDE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JyrrcIDXHDE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 110,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JyrrcIDXHDE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mK5x91Gb7z7JcagDchttRaULKww\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLlVMMXlzdGtGVDA0",
+    "snippet": {
+      "publishedAt": "2017-07-30T05:41:23.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Плюсы высшего образования для программиста",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UL1ystkFT04/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UL1ystkFT04/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UL1ystkFT04/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UL1ystkFT04/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 111,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UL1ystkFT04"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HuwMi-Ja6hBo1qTMJazInve6nXU\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmdhNVlEeFVfaWlR",
+    "snippet": {
+      "publishedAt": "2017-07-29T17:50:35.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Реферальный кабинет для заработка через Интернет",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ga5YDxU_iiQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ga5YDxU_iiQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ga5YDxU_iiQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ga5YDxU_iiQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 112,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ga5YDxU_iiQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3dPkCxn3QhaTxhtr2og8Yuf5thk\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLm5jYWg1MEFhc0hj",
+    "snippet": {
+      "publishedAt": "2017-07-26T14:41:47.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "AngularJS vs React vs VUE.js",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ncah50AasHc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ncah50AasHc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ncah50AasHc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ncah50AasHc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 113,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ncah50AasHc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/o62imrT3b4Li3JYFoiI79L1ZOQ0\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmU2UjhNYzAxNUlz",
+    "snippet": {
+      "publishedAt": "2017-07-23T18:39:56.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Для чего нужны jQuery, AngularJS и vue js",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e6R8Mc015Is/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e6R8Mc015Is/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e6R8Mc015Is/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/e6R8Mc015Is/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/e6R8Mc015Is/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 114,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "e6R8Mc015Is"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ku-3iRPLiaX2UNff5xW5ITJIOLM\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLmRZZElVSzlhMjlj",
+    "snippet": {
+      "publishedAt": "2017-07-18T13:59:42.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Пассивный заработок в Интернете для программиста",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dYdIUK9a29c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dYdIUK9a29c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dYdIUK9a29c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dYdIUK9a29c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dYdIUK9a29c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 115,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dYdIUK9a29c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UVqUeP7-0-JaLkd4sXH_MrdN3lo\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLnlnRzhLdnM0TVFZ",
+    "snippet": {
+      "publishedAt": "2017-07-17T11:39:44.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Что должен знать Джуниор разработчик?",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ygG8Kvs4MQY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ygG8Kvs4MQY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ygG8Kvs4MQY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ygG8Kvs4MQY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ygG8Kvs4MQY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 116,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ygG8Kvs4MQY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mTJ3BuAbFAMahXaQZd3s3N2-2HI\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjRfY1lxRkFMRzcw",
+    "snippet": {
+      "publishedAt": "2017-07-16T15:01:31.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Какие языки программирования учить?",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4_cYqFALG70/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4_cYqFALG70/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4_cYqFALG70/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4_cYqFALG70/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 117,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4_cYqFALG70"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3KOrIjmRKR4ymCYMzBtOD70qtnM\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLk5Ec21qLUJtdkFv",
+    "snippet": {
+      "publishedAt": "2017-07-11T08:24:27.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Почему программные интерфейсы должны быть предсказуемы",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NDsmj-BmvAo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NDsmj-BmvAo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NDsmj-BmvAo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NDsmj-BmvAo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NDsmj-BmvAo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 118,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NDsmj-BmvAo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4T8TZ5ipaVHylcCoRko7U81xja4\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLjY5dUtFNFpCRU1B",
+    "snippet": {
+      "publishedAt": "2017-07-08T15:02:09.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Нужна ли математика программистам?",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/69uKE4ZBEMA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/69uKE4ZBEMA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/69uKE4ZBEMA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/69uKE4ZBEMA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 119,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "69uKE4ZBEMA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/O3C7bfHbXa5-TBbjb6SDGBHZkaM\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLk1rbTRYaUtjZHJj",
+    "snippet": {
+      "publishedAt": "2017-07-08T08:34:56.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Наследование против композиции",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mkm4XiKcdrc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mkm4XiKcdrc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mkm4XiKcdrc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mkm4XiKcdrc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 120,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Mkm4XiKcdrc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V2Aq2_Yb_NnJ2jO__K_x1_fxpr0\"",
+    "id": "VVVlX1RjSmFyZnMtSEt5M055U3k4S25nLl9WSWtValp1SU1V",
+    "snippet": {
+      "publishedAt": "2017-05-11T14:52:30.000Z",
+      "channelId": "UCe_TcJarfs-HKy3NySy8Kng",
+      "title": "Попытка креатива про квадрокоптер (начало)",
+      "description": "#soer #влог #влогпрограммиста\nЧат для программистов - https://discordapp.com/invite/3UVJWAs\nСпонсорская помощь - https://www.patreon.com/soersoft\n\nГруппа ВК - https://vk.com/codeartblog\nGithub - https://github.com/soersoft\nВеб-сайт - http://codeart.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_VIkUjZuIMU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_VIkUjZuIMU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_VIkUjZuIMU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_VIkUjZuIMU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_VIkUjZuIMU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "S0ER",
+      "playlistId": "UUe_TcJarfs-HKy3NySy8Kng",
+      "position": 121,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_VIkUjZuIMU"
+      }
+    }
+  }
+]

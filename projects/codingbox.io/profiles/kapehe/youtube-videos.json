@@ -1,0 +1,127 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mEdcu3Am8-tCdBwj77oh0mzEa3U\"",
+    "id": "VVVXdjMwS3didENoakFaQnpaNThPUXd3LlpJMkQwQ0k0VFhz",
+    "snippet": {
+      "publishedAt": "2020-04-20T16:47:37.000Z",
+      "channelId": "UCWv30KwbtChjAZBzZ58OQww",
+      "title": "Creating Your First Pull Request in GitHub",
+      "description": "In this video, we are going to go over each step in creating a pull request in GitHub.\n\n1. Cloning into a project : 1:23\n2. Creating a new branch off of the master branch : 3:23\n1. `git status` : 5:02\n2. `git add .` or `git add filename` : 5:50\n3. `git status` : 6:12\n4. `git commit -m \"message here\"` : 6:45\n5. `git push origin branchname` : 8:15\n6. Go to the repo in GitHub and create the pull request! : 10:15\n7. Tada!! 🎉PR Created! : 11:08\n\nhttps://scotch.io/tutorials/creating-your-first-pull-request-in-github",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZI2D0CI4TXs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZI2D0CI4TXs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZI2D0CI4TXs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZI2D0CI4TXs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZI2D0CI4TXs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Kapehe",
+      "playlistId": "UUWv30KwbtChjAZBzZ58OQww",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZI2D0CI4TXs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XW_GQZgQRvNqv7BUJE9kQn1I3hg\"",
+    "id": "VVVXdjMwS3didENoakFaQnpaNThPUXd3LnduWUw0eVVkLXow",
+    "snippet": {
+      "publishedAt": "2020-04-16T00:34:28.000Z",
+      "channelId": "UCWv30KwbtChjAZBzZ58OQww",
+      "title": "7 Git Commands You May Not Know 🥳",
+      "description": "In this video, we are going to go over the top 7 lesser-known Git commands. Some of these you may have used, some may be new to you, and some you might think there's no way this is going to work! Let's try them out! 💃\n\n1. git add -p 0:22\n2. git commit --amend 2:47\n3. git reset --soft HEAD~1 3:57\n4. git checkout 6:11\n5. git cherry-pick 8:58\n6. git stash 11:23\n7. git help 13:47\n\nhttps://scotch.io/bar-talk/7-lesser-known-git-commands",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wnYL4yUd-z0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wnYL4yUd-z0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wnYL4yUd-z0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Kapehe",
+      "playlistId": "UUWv30KwbtChjAZBzZ58OQww",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wnYL4yUd-z0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XEweh8xPM6Le5Vu7CPVKVvLLORE\"",
+    "id": "VVVXdjMwS3didENoakFaQnpaNThPUXd3LmtHMVYtQmxHZlRz",
+    "snippet": {
+      "publishedAt": "2020-04-15T23:01:37.000Z",
+      "channelId": "UCWv30KwbtChjAZBzZ58OQww",
+      "title": "Workout from Home... With Pets!",
+      "description": "Do your own at home workouts. But without any weights! We're gonna use our trusty pets!!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kG1V-BlGfTs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kG1V-BlGfTs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kG1V-BlGfTs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kG1V-BlGfTs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kG1V-BlGfTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Kapehe",
+      "playlistId": "UUWv30KwbtChjAZBzZ58OQww",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kG1V-BlGfTs"
+      }
+    }
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-_TGsto-7kwmqbobp6wFj1Gb8PQ\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLnVva3JnVW44N3VN",
+    "snippet": {
+      "publishedAt": "2020-04-16T11:49:08.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "[Тизер] Разбор доклада Баруха Садогурского 17.04.2020",
+      "description": "Впервые в своей истории JUG.ru выходит обеими ногами в онлайн и представляет вам новый формат: разбор доклада с экспертами. Вашему вниманию мы представим живой разбор доклада Баруха Садогурского «DevOps для разработчиков (или против них?!)». В разборе будут участвовать:\n\n – Барух Садогурский, Developer Advocate в компании JFrog, автор доклада, евангелист DevOps и любимец публики;\n – Антон Кекс, основатель компании Codeborne, гуру методологии XP, практикующий разработчик и настоящий Software Craftsman;\n – Олег Анастасьев, ведущий разработчик в Одноклассниках, гуру распределенных систем и облачных решений;\n – Леонид Игольник, Angel Investor, Startup Mentor and Advisor из Кремниевой Долины.\n – Алексей Федоров, продюсер в JUG Ru Group, лидер питерского JUG и организатор Java-конференций Joker и JPoint;\n\nУчастие бесплатное! Регистрация по ссылке: https://jugru.timepad.ru/event/1297348/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uokrgUn87uM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uokrgUn87uM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uokrgUn87uM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uokrgUn87uM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fJjhZz4yzlGmFWGo5_x1qRtf-lc\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLlBhX3RGakx5Vzhz",
+    "snippet": {
+      "publishedAt": "2020-04-17T17:38:58.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Разбор доклада Баруха Садогурского «Devops для разработчиков (или против них?!)»",
+      "description": "Телеграм-чат для обсуждения: https://t.me/jug_ru\n\n****\n\nСпонсоры митапа: ALM Works, Infobip\n\nALM Works\nРебята делают офигенный плагин Structure for JIRA:\nhttps://almworks.com/structure/overview.html\nУзнать о карьерных возможностях в ALM Works: \ncareers@almworks.com\n\nInfobip\nInfobip — международный поставщик мобильных коммуникационных решений.\nhttps://www.infobip.com/\nУзнать о карьерных возможностях в Infobip: \nhttps://www.infobip.com/careers?department=1246073&location=ru\n\n****\n\nВпервые в своей истории JUG.ru выходит обеими ногами в онлайн и представляет вам новый формат: разбор доклада с экспертами. Вашему вниманию мы представим живой разбор доклада Баруха Садогурского «DevOps для разработчиков (или против них?!)». В разборе будут участвовать:\n\n— Барух Садогурский (https://twitter.com/jbaruch), Developer Advocate в компании JFrog, автор доклада, евангелист DevOps и любимец публики;\n— Антон Кекс (https://twitter.com/antonkeks), основатель компании Codeborne, гуру методологии XP, практикующий разработчик и настоящий Software Craftsman;\n— Олег Анастасьев (https://twitter.com/m0nstermind), ведущий разработчик в Одноклассниках, гуру распределенных систем и облачных решений;\n— Алексей Федоров (https://twitter.com/23derevo), продюсер в JUG Ru Group, лидер питерского JUG и организатор Java-конференций Joker и JPoint;\n— Леонид Игольник, Angel Investor, Startup Mentor and Advisor из Кремниевой Долины.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pa_tFjLyW8s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pa_tFjLyW8s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pa_tFjLyW8s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Pa_tFjLyW8s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Pa_tFjLyW8s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Pa_tFjLyW8s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/d46Jkt4KFz2PGpL0LYzYanbUWG4\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLnYzUUhyUENhV1VB",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:38:21.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Gerrit Grunwald — Not dead yet — Java on desktop",
+      "description": "Interestingly a lot of people say Java on desktop is dead and yes it is not in the hyped zone anymore. But on the other hand, it is still widely used. This session will try to give an overview on Java on desktop and why it is not dead yet. Gerrit will give examples for scenarios where Java on desktop shines and others where you better choose a web application. It will also show the state of JavaFX with all it's different flavors like standard JavaFX on desktop, on embedded, on mobile using Gluon and on the web using JPro. And of course, there will be demos for those different scenarios.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v3QHrPCaWUA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v3QHrPCaWUA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v3QHrPCaWUA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "v3QHrPCaWUA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/f6UnLE1wVbVjQiByq-cEBZnTR8U\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLnhvVHJnQTJ6T0pJ",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:58:01.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Юрий Артамонов — Краш-курс по IntelliJ IDEA Plugin DevKit",
+      "description": "В жизни любого специалиста наступает момент, когда во всех существующих инструментах чего-то не хватает. То вендор IDE фичу никак не реализует, то фреймворк изобрели на свою голову, а про инструменты не подумали. Хватит это терпеть, давайте пойдём и реализуем.\n\nВ этом докладе Юрий расскажет как быстро разобраться в Plugin DevKit и написать что-то полезное, не погибнув под грузом новых знаний. Будем приближать технологическую сингулярность, совершенствуя свой инструмент самостоятельно.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xoTrgA2zOJI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xoTrgA2zOJI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xoTrgA2zOJI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xoTrgA2zOJI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xoTrgA2zOJI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xoTrgA2zOJI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_1df1q-DudEGqYSVG3zfEZMHG0Q\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLnFuZW1la0M1WjlF",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:57:42.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Олег Ненашев — War Story: Как мы внедряли поддержку Java 11 в Jenkins",
+      "description": "Сказ о том, как мы внедряли поддержку Java 11 в Jenkins — одном из наиболее популярных серверов автоматизации для CI/CD. Цель доклада — рассказать о том, с какими проблемами мы столкнулись в реальном крупном Maven-проекте, и о том, как мы их решали. Доклад не имеет отношения к Jenkins как таковому, целевая аудитория — разработчики, которые планируют переезд на Java 11.\n\nКак нам удалось поддержать Java 11 и сохранить совместимость с Java 8? Как мы обеспечили сборку и тестирование проектов в Java 9..11? Насколько на нас повлияли новая система модулей, multi-release JARs и несовместимые изменения в Java (reflection, classloading, удаление компонентов Java EE/Jakarta)? И как автоматизировать тестирование, чтобы не переделывать всё с каждым новым релизом Java? И что мы, в конце концов, получили от миграции на Java 11?\n\nСправка: Jenkins имеет огромную кодовую базу: Java, Groovy, нативные библиотеки и даже немного Kotlin. Проект включает сотни зависимостей, 1500+ плагинов, а также десятки стандартных и самописных dev-тулов (Maven, Gradle). Впридачу — 10 лет обратной совместимости и огромное количество легаси-кода. Если вы заметили сходство со своими Java-проектами и думаете о миграции на Java 11, то посмотрите этот доклад :)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qnemekC5Z9E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qnemekC5Z9E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qnemekC5Z9E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qnemekC5Z9E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qnemekC5Z9E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qnemekC5Z9E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pbcb3w2NcqVZidj7PaRF4wU7Sds\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLjRRcG5DYmk1UXlR",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:57:24.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Евгений Борисов и Кирилл Толкачёв — Spring Reactive Ripper",
+      "description": "Все вы слышали фразу: «Человек, научившийся пользоваться молотком, во всем начинает видеть гвоздь». В мире программирования это очень часто происходит с новыми и модными технологиями, которые далеко не всегда применяются по назначению. В результате мы имеем более сложный API, который могут поддерживать только прошедшие медные трубы, кучи багов и прочие проблемы программисты.\n\nКак нам избежать сломанных пальцев и разбитых молотком вещей при попытке внедрить React?\n\nМы рассмотрим пример системы, в которой есть проблемы и, конечно же, попробуем отрефакторить её в реактивном стиле. Рассмотрим преимущества и недостатки не только подхода, но и API конкретных реализаций. Оценим сложность, которая была до рефакторинга, и ту сложность, которую мы привнесли после. Постараемся разобраться что игрушки, а что нет.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4QpnCbi5QyQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4QpnCbi5QyQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4QpnCbi5QyQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4QpnCbi5QyQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4QpnCbi5QyQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4QpnCbi5QyQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kx4RRT33NvDCNTiuC1TeKhYo5_0\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLmUybFhqX3Q3WkJj",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:57:05.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Simone Bordet — Concurrent Garbage collectors: ZGC & Shenandoah",
+      "description": "Java 11/12 introduced two new Garbage Collectors: ZGC and Shenandoah. The main objective of these two new GCs is to reduce GC pauses to only few milliseconds (and possibly under a millisecond), therefore solving once and for all the GC problem.\n\nThis session will present these two new GCs, how to use them, how to configure them, how they work and an initial discussion on their performances.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e2lXj_t7ZBc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e2lXj_t7ZBc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e2lXj_t7ZBc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/e2lXj_t7ZBc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/e2lXj_t7ZBc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "e2lXj_t7ZBc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/N02E1gs9kiOnxaeKxmJ5-WEAav0\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLlE0MzljUkxvaEpR",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:56:46.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Juergen Hoeller & Josh Long — Reactive Spring revisited",
+      "description": "The reactive revolution continues. For as much as we've been talking about reactive programming in Spring for the last few years, the journey has only just begun. Join Josh Long and Juergen Hoeller for a live coding session around Spring Framework 5.2 and Spring Boot 2.2, looking at how to build reactive microservices for next-generation cloud architectures. Some of the things we may cover include:\n\n- reactive NoSQL data access;\n- reactive SQL data access with R2DBC;\n- orchestration and reliability patterns like client-side load balancing, circuit breakers, and hedging;\n- messaging and service integration with Apache Kafka or RSocket;\n- API gateways with Spring Cloud Gateway and patterns like rate limiting;\n- API adapters;\n- serverless programming with Spring Cloud Function and project Riff;\n- reactive authentication and authorization with Spring Security.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q439cRLohJQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q439cRLohJQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q439cRLohJQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q439cRLohJQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q439cRLohJQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Q439cRLohJQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xfcbVNsyB75cNHeIXyy42FpoRn8\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLlJZTEVJUkhXc1Zv",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:56:28.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Ionut Balosin — A race of two compilers: GraalVM JIT versus HotSpot JIT C2",
+      "description": "The talk reveals how traditional Just In Time Compiler (e.g. JIT C2) from HotSpot/OpenJDK internally manages runtime optimizations for hot methods in comparison to the new, state of the art, GraalVM JIT Compiler on the same source code, emphasizing the internals and strategies used by each Compiler to achieve better performance in most common situations (or code patterns). For each optimization, there is Java source code and the corresponding generated assembly code to prove what happens under the hood. Each test is covered by a dedicated benchmark (JMH), timings and conclusions.\n\nFew topics of the agenda:\n\n- [Parcial] Scalar replacement;\n- Virtual calls;\n- Vectorization and Loop optimizations (few cases).\nThe tools used during my research study are JITWatch, Java Measurement Harness, and perf. All test scenarios will be launched against the latest official Java release (e.g. version 12).\n\nTarget audience:\n\n- senior developers;\n- performance engineers.\n\nThe talk is based on Ionut's article which raised a lot of interest across Compiler guys and he got in contact with few of them. This is a kind of interesting talk speaker would like to share with you at JokerConf.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RYLEIRHWsVo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RYLEIRHWsVo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RYLEIRHWsVo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RYLEIRHWsVo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RYLEIRHWsVo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RYLEIRHWsVo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/j7MZne0Z9f5ze-Q5yEVGoS7Urg4\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLlBER2pqZWNXVGtZ",
+    "snippet": {
+      "publishedAt": "2019-12-27T16:00:07.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Joker 2019. Интервью с Олегом Докукой",
+      "description": "Joker 2019. Интервью.\nУчастники: Антон Черноусов (@golodnyj), Олег Докука, Олег Чирухин.\n\nОлег Докука известен работой в области реактивного программирования, в частности он коммитит в Spring и Reactor. Мы поспрашивали его о написанной им книге, действительно ли он управился с ней всего за три месяца, и о том, как писать книги параллельно с работой и всей остальной жизнью. Обсудили, какие книги по реактивщине стоит почитать. \n\nДальнейший разговор был ближе к теме его доклада: оказывается, что реактивный неблокирующий код не такой уж быстрый, как кажется на первый взгляд , и существуют способы его ускорить. Сколько усилий на это тратится? Стоит ли опуститься до программирования на Netty? \n\nМы жертвуем производительностью в пользу быстрого решения проблем — не окажется ли, что с пришествием тех же fiber-ов из Project Loom всё это станет ненужным? Мы проговорили встроенные фичи протокола RSocket, проблему реализации под множество платформ (например, на сайте не выложено реализации для .NET), и узнали, в чём профит разработчиков — не из одного альтруизма же они всё это делают?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PDGjjecWTkY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PDGjjecWTkY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PDGjjecWTkY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PDGjjecWTkY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PDGjjecWTkY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PDGjjecWTkY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fabEk_rg1C5ALI1_-7hTV4weRpk\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLnJyZkFWOVBuT2RF",
+    "snippet": {
+      "publishedAt": "2019-12-21T09:00:14.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Joker 2019. Интервью с Себастьяном Дашнером",
+      "description": "Joker 2019. Интервью.\nУчастники: Евгений Трифонов, Себастьян Дашнер, Олег Чирухин.\n\nSebastian Dashner — Lead Java Developer Advocate в IBM, работающий над JavaEE и JakartaEE. Кроме всего прочего, он часто путешествует и в последнее время начал изучать русский, при том что его родной язык — немецкий. Мы обсудили, какую пользу даёт знакомство с различными языками и понимает ли он доклады на русском. Более того, это один из немногих спикеров, который несколько раз прилетал из Европы на конференции в Новосибирске, поэтому интересно было узнать, что его привлекает в России, зачем сюда возвращаться. \n\nДальше разговор перешёл на обсуждение его рабочих вопросов вокруг Java: что именно можно делать в JCP, что можно делать для улучшения таких древностей как JAX-RS. Поговорили о текущем состоянии JakartaEE 8, переезде на инфраструктуру Eclipse, планах на будущее, и как всё это отражается на обычных людях. Например, можно ли смигрировать проект, написанный на JavaEE, напрямую на JakartaEE. \n\nКонечно же, коснулись его любимой темы — OpenLiberty: чем оно отличается от WebSphere Liberty, есть ли там какие-то инновации или это всё то же самое, что было годами, а также, как решаются сложные вопросы вроде тестирования в условиях долгой загрузки сервера приложений, можно ли гонять их в Docker.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rrfAV9PnOdE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rrfAV9PnOdE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rrfAV9PnOdE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rrfAV9PnOdE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rrfAV9PnOdE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rrfAV9PnOdE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iFTp-arq5M30mgZ3LX57FS2JEFU\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLjR1eXVEVzJBSTVJ",
+    "snippet": {
+      "publishedAt": "2019-12-17T10:00:01.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Joker 2019. Интервью с Антоном Черноусовым",
+      "description": "Joker 2019. Интервью\nУчастники: Олег Чирухин, Антон Черноусов (@golodnyj), Евгений Трифонов.\n\nВ этом интервью мы пообщались с Антоном Черноусовым, более известным как Голодный, ведущим подкаста The Art Of Programming. Первой темой стали, конечно, подкасты: мы обсудили его первый микрофон и необходимость покупки более серьёзного оборудования, возникновение подкаста \"Разбор Полётов\" и краудфандинг. \n\nВторая большая тема — продуктовый менеджмент и кастдев. Должен ли продакт писать код? Помогает ли в менеджменте бэкграунд в разработчика и наоборот — стал бы ты писать код иначе после пары лет работы продактом. Как разработчику стать продуктовым менеджером, сколько времени займёт, чтобы вкатиться в тему, и зачем всё это вообще нужно (действительно ли это интересно и полезно)?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4uyuDW2AI5I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4uyuDW2AI5I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4uyuDW2AI5I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4uyuDW2AI5I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4uyuDW2AI5I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4uyuDW2AI5I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sc6vJLpj7OAY9VSmDZkUJ_U--LU\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLnNucmJvYkJWanlj",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:55:34.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Сергей Куксенко — Нужны ли в Java «инлайн»-типы? Узкий взгляд инженера по производительности на п",
+      "description": "Типы-значения — это главная часть экспериментального проекта Valhalla, которая должна наделить язык Java новыми способностями. Это история не только о производительности, но и о безопасности, абстракции, выразительности, легкости сопровождения и т. д. Но этот доклад посвящен производительности, тому, какие преимущества типы-значения принесут Java в этом плане и как ими воспользоваться.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/snrbobBVjyc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/snrbobBVjyc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/snrbobBVjyc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/snrbobBVjyc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/snrbobBVjyc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "snrbobBVjyc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/y1-YryXznQEscPDZbz5uiEepi4o\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLnotR0VieVhLZXRF",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:53:26.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Барух Садогурский — DevOps для разработчиков (или против них?!)",
+      "description": "DevOps — это заговор сисадминов, чтобы заставить разработчиков делать чужую работу, но мы слишком умны, чтобы попасться на эту элементарную уловку ребрендингом! Посудите сами: мы написали код, он проходит тесты. Он, очевидно, работает и работает хорошо (Мы гордимся собой? Да!). И тут мы закончили.\n\nНо приходят эти «визионеры» (все из operations, прошу заметить!) и рассказывают нам, что теперь надо учить YAML, Docker, Kubernetes и Terraform, потому что внезапно это наша головная боль?!\n\nВ этом докладе мы поговорим о том, зачем разработчикам нужен или не нужен DevOps. Мы рассмотрим аргументы, которые приводят идеологи DevOps, и решим, состоятельны они или нет. К концу доклада, будем надеяться, нам станет понятно, действительно ли это способ, который поможет нам (разработчикам) поставлять лучший код в прод чаще, или это, как всегда, разводка маркетологов и евангелистов.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z-GEbyXKetE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z-GEbyXKetE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z-GEbyXKetE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z-GEbyXKetE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z-GEbyXKetE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "z-GEbyXKetE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0GZA2P7YHFyaWOw4I97VkampFRs\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLjVZMEFscWI5SF9J",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:54:22.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Тагир Валеев — Java 9-14:  Маленькие оптимизации",
+      "description": "Мы видели много докладов об улучшениях в свежих версиях Java. Модули, var, неизменяемые коллекции, switch-выражения достаточно популярны среди докладчиков. Большие улучшения производительности, будь то новые сборщики мусора или компактные строки, тоже освещались. Однако мало кто говорит о маленькой работе в стандартной библиотеке. Между тем эта работа идёт, и незаметно для пользователей Java становится немного быстрее тут или там.\n\nВ этом докладе поговорим о маленьких улучшениях производительности в самых базовых и вездесущих классах вроде String, ArrayList, HashSet, которые были реализованы после выхода Java 8 и делают нашу жизнь лучше.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5Y0Alqb9H_I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5Y0Alqb9H_I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5Y0Alqb9H_I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5Y0Alqb9H_I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5Y0Alqb9H_I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5Y0Alqb9H_I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X7iLMjd1LKG2FFY9NmYRhlfUzUI\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLnhnWjhLeVVEanZR",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:55:16.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Сергей Егоров — Testcontainers: Год спустя",
+      "description": "Скорее всего, многие уже слышали про библиотеку Testcontainers, позволяющую быстро и кроссплатформенно запускать из ваших JUnit (и не только) тестов Docker-контейнеры с популярными базами данных, Selenium-браузерами и вообще всем, что умеет бегать в Docker. С возможностью запускать как локально при разработке, так и на CI-серверах без изменений.\n\nВот только с той скоростью, с которой она развивается, не все поспевают за анонсами и новыми фичами. А ведь их было много!\n\nДанный доклад расскажет о прошлом, настоящем и даже запланированном будущем Testcontainers, и полезен как начинающим пользователям библиотеки, так и лояльным адептам интеграционного тестирования с помощью Docker.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xgZ8KyUDjvQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xgZ8KyUDjvQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xgZ8KyUDjvQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xgZ8KyUDjvQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xgZ8KyUDjvQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xgZ8KyUDjvQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zUk5tgSS1NrfK-g-7S-Up1V0bbo\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLng5dHZKaldDcnI0",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:56:10.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Олег Анастасьев — Эффективные надежные микросервисы",
+      "description": "В Одноклассниках запросы пользователей обслуживает более 200 видов уникальных типов сервисов. Множество этих сервисов используют прием совмещения в одном процессе JVM бизнес-логики и распределенной отказоустойчивой базы данных Cassandra. Это позволяет нам строить высоконагруженные сервисы, управляющие сотнями миллиардов записей с миллионами операций в секунду на них.\n\nВ данном докладе мы поговорим о том, какие преимущества появляются при совмещении бизнес-логики и БД, обсудим как состояние влияет на надежность и доступность сервисов, а также обсудим как этот прием позволил значительно повысить быстродействие наших сервисов.\n\nНо не все базы данных подходят для этого. Мы подробно рассмотрим какие базы данных подходят для встраивания в ваш следующий микросервис, а какие — нет.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x9tvJjWCrr4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x9tvJjWCrr4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x9tvJjWCrr4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/x9tvJjWCrr4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/x9tvJjWCrr4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "x9tvJjWCrr4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HWGeb6Oy4NxLry-zZmyXixAV06E\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLlFWLXVlMVlNZGRz",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:55:53.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Дмитрий Писклов — Микросервисы, отвечающие за несколько микросекунд — друзья и враги",
+      "description": "В этом докладе мы поговорим о том, что такое ультра-низкие задержки в микросервисах. Рассмотрим, какие факторы влияют на задержки: аппаратные и программные, на уровне приложения, JVM, операционной системы, чипсета и процессора, и как можно их нивелировать для достижения минимальных задержек. Расскажем о thread affinity, изоляции процессоров, влиянии процессорных ядер друг на друга, а также о shared memory и использовании технологий, основанных на shared memory в качестве IPC для микросервисов.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QV-ue1YMdds/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QV-ue1YMdds/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QV-ue1YMdds/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QV-ue1YMdds/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QV-ue1YMdds/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QV-ue1YMdds"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/z5C0l7Q-Qfb2qya2wuYdIxYwzqU\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLlRJR2Q3Y3ByWGlV",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:54:03.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Remi Forax — The sinuous path toward Valhalla",
+      "description": "When Java was created at the beginning of the 90s, the cost of a pointer dereference and the cost of addition were roughly similar. Nowadays, we have hardware with hundreds of gigs of RAM, the cost of a pointer dereference is 3 order magnitude the cost of an addition, so the Java model of every object is a reference to an address in RAM is not aligned anymore with the current state of the hardware. It's time for a little lifting.\n\n\"The OpenJDK project Valhalla starts 5 years ago, and aims to introduce a new kind of object, the inline object.\" During this session, Remi will tell the history of the Valhalla project, the choices that have been made, the breakthrough, what still needs to be done and when the project will land in the main OpenJDK branch.\n\nThis talk is for the courageous that are not afraid about bytecode representation, VM internals and work in progress details.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TIGd7cprXiU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TIGd7cprXiU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TIGd7cprXiU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TIGd7cprXiU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0dZ9sWXUQsrFlUBh-dW4IyvgqBw\"",
+    "id": "VVVZckdZVDdCc3dzSkdrbUc3LUlBRjhnLjZvUm14am9lMDNn",
+    "snippet": {
+      "publishedAt": "2020-02-14T12:54:41.000Z",
+      "channelId": "UCYrGYT7BswsJGkmG7-IAF8g",
+      "title": "Juan Fumero — TornadoVM: A virtual machine for exploiting high performance heterogeneous hardware",
+      "description": "The proliferation of heterogeneous hardware in recent years means that every system we program is likely to include a mix of computing elements; each of these with different hardware characteristics that enable programmers to improve performance while decreasing energy consumption. These new heterogeneous devices include multi-core CPUs, GPUs, and FPGAs. This trend has been followed by changes in software development norms that do not necessarily favor programmers.\n\nA prime example is the two most popular heterogeneous programming languages, CUDA and OpenCL, which expose several low-level features to the API, making them difficult to use by non-expert users. Instead of using low-level programming languages, developers in industry and academia tend to use higher-level, object-oriented programming languages, typically executed on managed runtime environments, such as Java, R, Python, and JavaScript. Although many programmers might expect that such programming languages would have already been adapted for transparent execution on heterogeneous hardware, the reality is that their support is either very limited or absent.\n\nIn this talk, we present TornadoVM, a plugin for OpenJDK that allows Java programmers to automatically run on Heterogeneous Hardware such as multi-core CPUs, GPUs, and FPGAs. Furthermore, TornadoVM can perform task-migration from one device to another at runtime, entirely transparent for the user. To do so, TornadoVM consists of three software components: 1) A simple API for composing pipelines of existing Java methods. 2) An optimizing JIT compiler that extends the Graal compiler with hardware-aware optimizations that generate OpenCL C code. 3) A runtime system that executes TornadoVM specific bytecodes, performs memory management and schedules the code for execution on GPUs, multi-core CPUs, and FPGAs.\n\nThe target audience for this talk is Java programmers that would like to smoothly run programs on GPUs and FPGAs without any knowledge about the underlying hardware details, and complex parallel and heterogeneous programming models.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6oRmxjoe03g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6oRmxjoe03g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6oRmxjoe03g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6oRmxjoe03g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6oRmxjoe03g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JUG .ru",
+      "playlistId": "UUYrGYT7BswsJGkmG7-IAF8g",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6oRmxjoe03g"
+      }
+    }
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MOsJL8AAAch5x1Tim_m6PFATDuI\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LkdKaHpQbjhqQXJj",
+    "snippet": {
+      "publishedAt": "2020-01-17T17:15:44.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Приглашаем на DevOpsConf 2020",
+      "description": "Приглашаем на профессиональную конференцию по интеграции процессов разработки, тестирования и эксплуатации\n\nВстретимся 7 и 8 сентября в Москве \n\nПодробности и билеты по ссылке https://bitly.su/HrimEen",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GJhzPn8jArc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GJhzPn8jArc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GJhzPn8jArc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GJhzPn8jArc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GJhzPn8jArc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GJhzPn8jArc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_eIrTqGl1jD5qioGb_Ligtmvdk4\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LnV2X1l2UXdDY2Uw",
+    "snippet": {
+      "publishedAt": "2019-12-27T19:52:29.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Поздравление С Новым Годом от Программного комитета DevOpsConf",
+      "description": "До встречи на #DevOpsConf2020\nhttp://devopsconf.io/moscow/2020",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uv_YvQwCce0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uv_YvQwCce0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uv_YvQwCce0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uv_YvQwCce0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uv_YvQwCce0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uv_YvQwCce0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/n6XNbe6QyIxI8s8QJv9-w4kQp_4\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3Li1SNk5iVlFVZHd3",
+    "snippet": {
+      "publishedAt": "2019-12-19T09:23:26.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Видеоотчет о DevOpsConf 2019",
+      "description": "Профессиональная конференция по интеграции процессов разработки, тестирования и эксплуатации \n\nhttps://devopsconf.io/\n\n30 сентября и 1 октября 2019\nМосква, Инфопространство",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-R6NbVQUdww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-R6NbVQUdww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-R6NbVQUdww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-R6NbVQUdww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-R6NbVQUdww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-R6NbVQUdww"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rfH-UhIn2yxMoEvoyo2evUTYFBs\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LlhVRV9sNjNvWnY0",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:12:51.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Митап",
+      "description": "DevOpsConf 2019\n\nТезисы:\nhttp://devopsconf.io/moscow/2019/meetups\n\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XUE_l63oZv4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XUE_l63oZv4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XUE_l63oZv4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XUE_l63oZv4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XUE_l63oZv4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XUE_l63oZv4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aKVG13vjnVHC1UZNMOvc9mm5CNk\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LnZ3VzFBOVBNYjk4",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:12:56.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Переезд конфигурации / Лев Гончаров",
+      "description": "DevOpsConf 2019\n\nТезисы:\nhttp://devopsconf.io/moscow/2019/meetups\n\n\nПереезд конфигурации 120ВМ coreos - centos + ansible за 18 месяцев\n\nУ нас было множество ВМ на CoreOS которыми было не удобно управлять. задача была структурировать. это вылилось в перенос конфигурации 120 ВМ на Ansible, кучу общений, межкультурные приколы и т.д.\n\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vwW1A9PMb98/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vwW1A9PMb98/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vwW1A9PMb98/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vwW1A9PMb98/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vwW1A9PMb98/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vwW1A9PMb98"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SDqoRvpAXNxhtEZhaBPv9joVR7M\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LkRPTV8zYUVfalhF",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:13:04.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Как наша компания при выпуске софта начала использовать SCA / Дарья Орешкина",
+      "description": "DevOpsConf 2019\n\nТезисы:\nhttp://devopsconf.io/moscow/2019/meetups\n\nМы узнали про новую технологию проверки open source с\nпомощью инструмента класса software composition analysis, решили проверить на себе. Технически все было просто - развертывание и эксплуатация инструмента затруднений не вызывали, тем не менее, простым этот проект не назовешь... Мой доклад про реальный опыт и неожиданные вопросы на пути к безопасной разработке.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DOM_3aE_jXE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DOM_3aE_jXE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DOM_3aE_jXE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DOM_3aE_jXE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DOM_3aE_jXE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DOM_3aE_jXE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8HlVZ9kdRwWNsVOuVorhUmTlL7Q\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LkpDdU53WHRlMGcw",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:13:10.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Интервью с Sebastian Daschner",
+      "description": "DevOpsConf 2019\n\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JCuNwXte0g0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JCuNwXte0g0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JCuNwXte0g0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JCuNwXte0g0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JCuNwXte0g0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JCuNwXte0g0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eDFB2iQxSS95ly6jNW5KDrAKAJM\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3Lk1TdnZMcHpob3k4",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:13:18.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Gitlab CI. Сборка докер образа с проверками на уязвимости / Алексей Цыкунов",
+      "description": "DevOpsConf 2019\n\nТезисы:\nhttp://devopsconf.io/moscow/2019/meetups\n\nПошаговый разбор, как построить пайплайн для сборки образа с проверками на уязвимости и получением отчетов в merge request.\nИспользуется инструментарий: gitlab ci, dind executor, snyk, harbor + clair, gitlab api\n- установка gitlab\n- установка harbor\n- настройка репозитория\n- сборка простого проекта\n- настройка gitlab-ci.yml\n\nИтог - принимающий мерж тимлид видит 2 отчета об уязвимостях непосредственно в окне мерж реквеста\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MSvvLpzhoy8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MSvvLpzhoy8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MSvvLpzhoy8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MSvvLpzhoy8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MSvvLpzhoy8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MSvvLpzhoy8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1r6NmgcHrHFMfYGXEesji9h2xzo\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LjEtYVd1WW9hX2g4",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:13:24.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "How to setup full stack monitoring of your Kubernetes cluster in minutes / Peter Jüntgen",
+      "description": "DevOpsConf 2019\n\nТезисы:\nhttp://devopsconf.io/moscow/2019/meetups\n\nInstana’s automatic application monitoring solution discovers application infrastructure and service components, deploys monitoring sensors for the application’s technology stack, traces all application requests – without requiring any human configuration or even application restarts. During this session the installation and usage of Instana in a Kubernetes cluster will be demonstrated.\n\nДокладчик: Peter Jüntgen, Director Technical Sales Europe, Instana\nЯзык воркшопа: Английский\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1-aWuYoa_h8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1-aWuYoa_h8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1-aWuYoa_h8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1-aWuYoa_h8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1-aWuYoa_h8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1-aWuYoa_h8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SjTKv7_VO-8Oz7T-k4pFtyVo2kM\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3Lmw1bUdMekRVUUcw",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:13:32.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Как правильно \"продать\" DevOps руководству? / Артём Черневский",
+      "description": "DevOpsConf 2019\n\nТезисы:\nhttp://devopsconf.io/moscow/2019/meetups\n\n\"Как Вы яхту назовете - так она и поплывет!\" - говорил персонаж одного известного мультфильма. Проект внедрения DevOps также очень важно \"правильно начать\" - то есть сформировать верные ожидания у Вашего руководства по целевым результатам, срокам, временным и финансовым инвестициям. Спрогнозировать как изменятся культура коммуникаций, программа найма и обучения персонала, финансовая мотивация. От чего можно отказаться в ходе проекта, а что должно остаться неизменным. Каждая компания самостоятельно отвечает на эти вопросы, находя свой уникальный путь развития. На митапе мы рассмотрим примеры нескольких таких компаний, постараемся вместе сформулировать основные факторы успешных внедрений DevOps, решим несколько кейсов в рамках практических работ. \n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l5mGLzDUQG0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l5mGLzDUQG0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l5mGLzDUQG0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l5mGLzDUQG0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l5mGLzDUQG0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l5mGLzDUQG0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/POdp-Ce5urR_zVOeC9uwb4w_nEQ\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LmVDdjJkeDBCbUk4",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:13:40.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Когда проекту нужен сетевой инженер? / Алексей Учакин",
+      "description": "DevOpsConf 2019\n\nТезисы:\nhttp://devopsconf.io/moscow/2019/meetups\n\nИтак, у вас есть веб-проект. Обычно всё начинается с одного сервера (а то и виртуалки) на каком-нибудь хостинге.\n\nПотом появляется бэкенд, фронтенд, база данных. Число серверов (железных и/или виртуальных) растёт. Но без сети от них никакого толку.\n\nНо нужен ли вам выделенный сетевой инженер? На каком этапе? А может, с его обязанностями справится ваш системный администратор или DevOPS/SRE-инженер? Или вообще отдать сеть на откуп датацентру - в конце концов, им деньги за это платят.\n\nНа митапе ведущие подкаста linkmeup расскажут о собственном опыте, и будут рады услышать мнения гостей.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eCv2dx0BmI8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eCv2dx0BmI8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eCv2dx0BmI8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eCv2dx0BmI8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eCv2dx0BmI8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eCv2dx0BmI8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/shJJ98YZ-zI6lGU1sx8Ot3j6bL0\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LnJ5cUNpZndPbVBj",
+    "snippet": {
+      "publishedAt": "2019-12-10T18:44:09.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Что мы узнали об SRE, когда обработали первые 150к production-инцидентов / Матвей Кукуй (Amixr.IO)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с DevOpsConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.       \n--------\nКалендарь конференций - https://ontico.ru\n--------\nDevOpsConf 2019\n\nТезисы и презентация:\nhttp://devopsconf.io/moscow/2019/abstracts/5508\n\nМы в Amixr.IO пропускаем через свой бэкенд production-инциденты клиентов. Готовы поделиться статистикой, инсайтами о том, как десятки команд по всему миру дежурят, разбирают инциденты, организуют работу и строят надежные системы. \n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ryqCifwOmPc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ryqCifwOmPc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ryqCifwOmPc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ryqCifwOmPc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ryqCifwOmPc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ryqCifwOmPc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L3swTzZTYr8OCIt1JFCqQ5S58xY\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LlJ3YTJPa3NhbTNr",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:14:04.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "SDLC & Compliance. Через тернии в продакшн / Илья Митруков (Технологический Центр Дойче Банка)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с DevOpsConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.       \n--------\nКалендарь конференций - https://ontico.ru\n--------\nDevOpsConf 2019\n\nТезисы и презентация:\nhttp://devopsconf.io/moscow/2019/abstracts/5603\n\nКогда вы — глобальный банк, и в вашем портфолио десятки тысяч приложений, вам не остается ничего другого, кроме как стандартизировать управление разработкой в масштабах всей компании. Это позволяет поддерживать и демонстрировать комплайнс, а также держать планку качества разрабатываемых приложений. С другой стороны, это не может не накладывать отпечаток на ежедневную рутину подготовки релизов: «все эти ваши процессы, апрувы, контролы — да кто их придумал, вообще?». \n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Rwa2Oksam3k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Rwa2Oksam3k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Rwa2Oksam3k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Rwa2Oksam3k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Rwa2Oksam3k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Rwa2Oksam3k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wKA3hF1AlJsS_PmENwOKJ0zedPA\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3Lm1SN0pQSjVEUTFN",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:14:14.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "НТ в CI/CD большого решения / Владимир Хонин (МегаФон)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с DevOpsConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.       \n--------\nКалендарь конференций - https://ontico.ru\n--------\nDevOpsConf 2019\n\nТезисы и презентация:\nhttp://devopsconf.io/moscow/2019/abstracts/5775\n\nКак не улететь при нагрузке и проходить QG быстро на примере Единого Биллинга МегаФон.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mR7JPJ5DQ1M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mR7JPJ5DQ1M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mR7JPJ5DQ1M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mR7JPJ5DQ1M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mR7JPJ5DQ1M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mR7JPJ5DQ1M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sMEd23mSbb8Pk564nE0NCzl9dhY\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LldaOVpTT2F2U2I4",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:14:22.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Как (вы)жить без отдела безопасности / Мона Архипова (sudo.su)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с DevOpsConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.       \n--------\nКалендарь конференций - https://ontico.ru\n--------\nDevOpsConf 2019\n\nТезисы и презентация:\nhttp://devopsconf.io/moscow/2019/abstracts/5478\n\nОсновные темы, которые будут рассматриваться:\n1) Основы безопасности. Что и от кого защищаем.\n2) Оперативный мониторинг ИТ и ИБ: есть два стула. Основные подходы и параллели в построении мониторинга.\n3) Рутинные процессы безопасности.\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WZ9ZSOavSb8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WZ9ZSOavSb8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WZ9ZSOavSb8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WZ9ZSOavSb8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WZ9ZSOavSb8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WZ9ZSOavSb8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fRlu0ouxz2d9EADNMKZI__F3xvs\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LlR4Wm54Y1RvMFI4",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:14:27.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Приносим DevOps в DWH/BI. Проблемы и их решение / Василий Куценко (Газпромбанк)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с DevOpsConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.       \n--------\nКалендарь конференций - https://ontico.ru\n--------\nDevOpsConf 2019\n\nТезисы и презентация:\nhttp://devopsconf.io/moscow/2019/abstracts/5795\n\n- Как развивать IT-культуру в разработке данных;\n- фундаментальные проблемы в DWH/BI с т.з. DevOps;\n- как привнести культуру DevOps в работу с данными? Практические советы;\n- в чем отличия Pipeline для работы с данными от “классических” приложений;\n- какие средства автоматизации реально полезны в контексте работы с данными.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TxZnxcTo0R8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TxZnxcTo0R8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TxZnxcTo0R8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TxZnxcTo0R8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TxZnxcTo0R8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TxZnxcTo0R8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NC8U5lJCmMsXnjfSyQ-4jO74XBA\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LmxCWmFqMDlRem93",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:14:33.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "DevOps в заказной разработке / Антон Хлевицкий (МегаФон)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с DevOpsConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.       \n--------\nКалендарь конференций - https://ontico.ru\n--------\nDevOpsConf 2019\n\nТезисы и презентация:\nhttp://devopsconf.io/moscow/2019/abstracts/5744\n\nПоговорим о том:\n* как мы живем в биллинге с заказной разработкой от нескольких поставщиков ПО;\n* как выполняем сценарии развертывания и управления высоконагруженных биллинговых приложений на базе Jenkins, Ansible, Git, сохраняя требуемый уровень отказоустойчивости;\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lBZaj09Qzow/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lBZaj09Qzow/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lBZaj09Qzow/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lBZaj09Qzow/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lBZaj09Qzow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lBZaj09Qzow"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XIBIIzVOFTG1rmT91isqDGnD8n0\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LnYzM0VGb3VLNHJ3",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:14:38.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Применение DevOps в разработке сложного кросс-платформенного фреймворка / Петр Грибанов (1С)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с DevOpsConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.       \n--------\nКалендарь конференций - https://ontico.ru\n--------\nDevOpsConf 2019\n\nТезисы и презентация:\nhttp://devopsconf.io/moscow/2019/abstracts/5836\n\n1С производит инструменты для быстрой разработки кросс-платформенных бизнес-приложений и рантайм для их работы (общее название – платформа «1С:Предприятие»). Бизнес-софт, разработанный на нашей платформе, работает на Windows, Linux, macOS, Android, iOS, в браузерах, использует СУБД MS SQL, Oracle, IBM DB2, PostgreSQL. Наш софт используют 5 миллионов конечных пользователей в 1.5 миллионах организаций. Исходники платформы «1С:Предприятие» - более 10 млн. строк кода (C++, Java, JavaScript).\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v33EFouK4rw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v33EFouK4rw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v33EFouK4rw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v33EFouK4rw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v33EFouK4rw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "v33EFouK4rw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XuuV1cO17z165aAbtmdK7MjH6qw\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3Lm83NVdqMi1md29F",
+    "snippet": {
+      "publishedAt": "2020-04-14T16:14:44.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Ускорение сайта Якитория в 5 раз без переписывания кода / Александр Бурцев (BramaBrama)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с DevOpsConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.       \n--------\nКалендарь конференций - https://ontico.ru\n--------\nDevOpsConf 2019\n\nТезисы и презентация:\nhttp://devopsconf.io/moscow/2019/abstracts/5976\n\nВ рамках обслуживания сайта Якитория мы провели соревнование между командой администраторов и командой разработки, кто сделает лучшее предложение клиенту. В результате использования DevOps-инструментов мы не только нашли наиболее интересный вариант модернизации проекта, но и ускорили работу сайта в 5 раз, сократив издержки на сервера. \n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o75Wj2-fwoE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o75Wj2-fwoE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o75Wj2-fwoE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o75Wj2-fwoE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o75Wj2-fwoE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "o75Wj2-fwoE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0A4wN0IMGuE1nq5vv5Vm23Lrbj8\"",
+    "id": "VVUxbkRJVDl0aHFvRlNTeHZMeVBIRjV3LlNzc0x3TWJNclE0",
+    "snippet": {
+      "publishedAt": "2019-12-10T18:44:43.000Z",
+      "channelId": "UC1nDIT9thqoFSSxvLyPHF5w",
+      "title": "Как правильно использовать доступный объем хранилища. Рецепт Playkey  / Владимир Рябов",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с DevOpsConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.       \n--------\nКалендарь конференций - https://ontico.ru\n--------\nDevOpsConf 2019\n\nТезисы и презентация:\nhttp://devopsconf.io/moscow/2019/abstracts/5323\n\n* Что такое объем хранилища и эффективно ли вы его используете?\n* Как дать нескольким сотням пользователей по 10 Тб доступного для изменения и модификации контента, используя всего 20 ТБ?\n* Можно ли “на лету” синхронизировать эти данные между несколькими дата-центрами?\n* Можно ли хранить данные пользователей со сжатием в 5 раз и предоставлять их в real-time?\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SssLwMbMrQ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SssLwMbMrQ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SssLwMbMrQ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SssLwMbMrQ4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SssLwMbMrQ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevOps Channel",
+      "playlistId": "UU1nDIT9thqoFSSxvLyPHF5w",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SssLwMbMrQ4"
+      }
+    }
+  }
+]

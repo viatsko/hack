@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PtL4QEWgA93XqTl-9r6gOREOeOY\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLjNXWGdXMlZ5Y1Vn",
+    "snippet": {
+      "publishedAt": "2020-04-16T13:02:00.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S04E10. Базовые алгоритмы теории чисел",
+      "description": "Алгоритмы и структуры данных. Семестр 4. Лекция 10.\n\nНа десятой лекции мы поговорили о базовых алгоритмах теории чисел, проверке числа на простоту, факторизации чисел, нахождении наибольшего общего делителя, решении диофантовых уравнений и китайской теореме об остатках.\n\nУниверситет ИТМО, 2020 г.\nКатегория",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3WXgW2VycUg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3WXgW2VycUg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3WXgW2VycUg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3WXgW2VycUg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3WXgW2VycUg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3WXgW2VycUg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/y2C4rxNi2mUAZbW9tfBzbtCrMmo\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLldxdk14WlJZZTNJ",
+    "snippet": {
+      "publishedAt": "2020-04-15T15:25:24.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S02E10. Link-Cut Tree",
+      "description": "Алгоритмы и структуры данных. Семестр 2. Лекция 10.\n\nНа десятой лекции мы продолжили говорить про запросы на деревьях. Разобрали структуру данных Link-Cut Tree.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WqvMxZRYe3I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WqvMxZRYe3I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WqvMxZRYe3I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WqvMxZRYe3I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WqvMxZRYe3I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WqvMxZRYe3I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/u6NprMyPzo57p88RH6AM0fW4YOY\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLnJyWDlNRkU2WTRB",
+    "snippet": {
+      "publishedAt": "2020-04-09T13:19:14.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S04E09. Алгоритмы Штор-Вагнера и Каргера-Штейна",
+      "description": "Алгоритмы и структуры данных. Семестр 4. Лекция 9.\n\nНа девятой лекции мы рассмотрели задачу о поиске глобального разреза, изучили алгоритмы Штор-Вагнера и Каргера-Штейна.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rrX9MFE6Y4A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rrX9MFE6Y4A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rrX9MFE6Y4A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rrX9MFE6Y4A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rrX9MFE6Y4A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rrX9MFE6Y4A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EM0fqWyTIZz8HcBeho8VzaVvP4I\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLlZ2WmRjWXA4QjJr",
+    "snippet": {
+      "publishedAt": "2020-04-08T14:07:10.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S02E09. Heavy-Light декомпозиция",
+      "description": "Алгоритмы и структуры данных. Семестр 2. Лекция 9.\n\nНа девятой лекции мы продолжили говорить про запросы на деревьях. Разобрали метод, который называется heavy-light декомпозиция.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VvZdcYp8B2k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VvZdcYp8B2k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VvZdcYp8B2k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VvZdcYp8B2k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VvZdcYp8B2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VvZdcYp8B2k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8p1bF3uBFqW1Az71dLvtNHj0imM\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLk9oclROYlBIZEtr",
+    "snippet": {
+      "publishedAt": "2020-04-02T11:43:44.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S04E08. Поток минимальной стоимости",
+      "description": "Алгоритмы и структуры данных. Семестр 4. Лекция 8.\n\nНа восьмой лекции мы рассмотрели задачу поиска потока минимальной стоимости.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OhrTNbPHdKk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OhrTNbPHdKk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OhrTNbPHdKk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OhrTNbPHdKk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OhrTNbPHdKk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OhrTNbPHdKk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UZXU_0INvG1DYkC9oUcPJ09K5KM\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLkM3b1ZROXZzVkRZ",
+    "snippet": {
+      "publishedAt": "2020-04-01T12:19:23.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S02E08. Двоичные подъемы. LCA. Алгоритм Фарах-Колтона и Бендера",
+      "description": "Алгоритмы и структуры данных. Семестр 2. Лекция 8.\n\nНа восьмой лекции мы начали говорить про запросы на деревьях. Разобрали метод двоичных подъемов и изучили алгоритм Фарах-Колтона и Бендера для нахождения ближайшего общего предка.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C7oVQ9vsVDY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C7oVQ9vsVDY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C7oVQ9vsVDY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/C7oVQ9vsVDY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/C7oVQ9vsVDY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "C7oVQ9vsVDY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yPE3Fc-1sfzj6_keoNFDoHqOFEA\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLjZlRnpSQ3JxRVU0",
+    "snippet": {
+      "publishedAt": "2020-03-26T14:14:50.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S04E07. Задача о назначениях. Венгерский алгоритм",
+      "description": "Алгоритмы и структуры данных. Семестр 4. Лекция 7.\n\nНа седьмой лекции мы поговорили о задаче о назначениях и венгерском алгоритме.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6eFzRCrqEU4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6eFzRCrqEU4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6eFzRCrqEU4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6eFzRCrqEU4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6eFzRCrqEU4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6eFzRCrqEU4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aS9VM2jaMv1QBHSCeuRjS23pKSA\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLmpMZkhkc1hCSERZ",
+    "snippet": {
+      "publishedAt": "2020-03-25T20:25:37.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "Вечерний стрим 25.03.2020",
+      "description": "Решали задачи:\nhttps://atcoder.jp/contests/abc156/\nhttps://atcoder.jp/contests/abc157/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jLfHdsXBHDY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jLfHdsXBHDY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jLfHdsXBHDY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jLfHdsXBHDY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jLfHdsXBHDY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jLfHdsXBHDY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4qZvTVm2QQJWdINp5z7c8-irCbo\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLnp2WkVGcXhtZ09Z",
+    "snippet": {
+      "publishedAt": "2020-03-25T12:29:21.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S02E07. Splay дерево",
+      "description": "Алгоритмы и структуры данных. Семестр 2. Лекция 7.\n\nНа седьмой лекции мы продолжили говорить про сбалансированные деревья поиска. Изучили, как работает Splay дерево и поговорили о том, почему оно может быть лучше других деревьев поиска.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zvZEFqxmgOY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zvZEFqxmgOY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zvZEFqxmgOY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zvZEFqxmgOY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zvZEFqxmgOY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zvZEFqxmgOY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PkZLW4A3ruMlIVz8XLeO2yKmO-I\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLkI3VHhjQk0wQi1R",
+    "snippet": {
+      "publishedAt": "2020-03-19T13:33:11.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S04E06. Двунаправленные и кососимметрические потоки.",
+      "description": "Алгоритмы и структуры данных. Семестр 4. Лекция 6.\n\nНа шестой лекции мы познакомились с теорией двунаправленных и кососимметрических потоков.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B7TxcBM0B-Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B7TxcBM0B-Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B7TxcBM0B-Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/B7TxcBM0B-Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/B7TxcBM0B-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "B7TxcBM0B-Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9D7RxPsIGG5u5azBB9-zmeqeVpI\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLm5YeFFZUVFFUHdR",
+    "snippet": {
+      "publishedAt": "2020-03-18T16:04:19.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S02E06. Декартово дерево, дерево по неявному ключу",
+      "description": "Алгоритмы и структуры данных. Семестр 2. Лекция 6.\n\nНа шестой лекции мы продолжили говорить про сбалансированные деревья поиска. Изучили, как работает декартово дерево, а так же познакомились с новой структурой данных - деревом поиска по неявному ключу. \n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nXxQYQQEPwQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nXxQYQQEPwQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nXxQYQQEPwQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nXxQYQQEPwQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nXxQYQQEPwQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nXxQYQQEPwQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ali-ljMxrN2S8FPnVbMgBQpyTAQ\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLjU3RE10NzZoM1VB",
+    "snippet": {
+      "publishedAt": "2020-03-16T09:00:08.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "Вечерний стрим 15.03.2020",
+      "description": "Решали задачи:\nhttps://atcoder.jp/contests/abc155/\nhttps://acm.timus.ru/problem.aspx?num=1546",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/57DMt76h3UA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/57DMt76h3UA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/57DMt76h3UA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/57DMt76h3UA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/57DMt76h3UA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "57DMt76h3UA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9bbiMXV5fO9182tiDzWuxFBVWNc\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLnQwUm9mRlVpRFpJ",
+    "snippet": {
+      "publishedAt": "2020-03-12T22:57:53.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S04E05. Потоки. Алгоритмы Гольдберга-Тарьяна и Хопкрофта-Карпа",
+      "description": "Алгоритмы и структуры данных. Семестр 4. Лекция 5.\n\nПродолжили говорить о задаче поиска максимального потока. Разобрали алгоритмы Гольдберга-Тарьяна и Хопкрофта-Карпа.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t0RofFUiDZI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t0RofFUiDZI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t0RofFUiDZI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t0RofFUiDZI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t0RofFUiDZI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "t0RofFUiDZI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zVN9qnUf8QY4mGkEf1tipyq1Qzw\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLmdHYXRtNUcxSXk4",
+    "snippet": {
+      "publishedAt": "2020-03-11T15:47:39.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S02E05. Дерево поиска, AVL-дерево",
+      "description": "Алгоритмы и структуры данных. Семестр 2. Лекция 5.\n\nНа пятой лекции мы начали говорить про сбалансированные деревья поиска. Рассмотрели основные операции, которые можно с ним делать, и изучили способ балансировки, который используется в AVL-дереве. \n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gGatm5G1Iy8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gGatm5G1Iy8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gGatm5G1Iy8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gGatm5G1Iy8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gGatm5G1Iy8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gGatm5G1Iy8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Gwpl8j4q67CRWJK9BpaoGT9nr9g\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLlFTcEZHTU5Kajk0",
+    "snippet": {
+      "publishedAt": "2020-03-05T22:25:22.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "Вечерний стрим 05.03.2020",
+      "description": "Решали задачи:\nhttps://atcoder.jp/contests/abc153/\nhttps://atcoder.jp/contests/abc154/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QSpFGMNJj94/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QSpFGMNJj94/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QSpFGMNJj94/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QSpFGMNJj94/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QSpFGMNJj94/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QSpFGMNJj94"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ug0SIXRaySjyguZAR_23murnieY\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLnk1UEw0XzdlT3V3",
+    "snippet": {
+      "publishedAt": "2020-03-05T21:42:28.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S04E04. Потоки. Алгоритмы Эдмонса-Карпа и Диница. Масштабирование потока",
+      "description": "Алгоритмы и структуры данных. Семестр 4. Лекция 4.\n\nПродолжили говорить о задаче поиска максимального потока. Разобрали алгоритмы Эдмонса-Карпа и Диница, а так же метод масштабирование потока\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y5PL4_7eOuw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y5PL4_7eOuw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y5PL4_7eOuw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/y5PL4_7eOuw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/y5PL4_7eOuw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "y5PL4_7eOuw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Sk4thGWfWIBdHMt6o2_CQnO5Hdc\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLmVMVEhPYmVEVkQ4",
+    "snippet": {
+      "publishedAt": "2020-03-04T21:07:48.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S02E04. Двумерные задачи на дерево отрезков",
+      "description": "Алгоритмы и структуры данных. Семестр 2. Лекция 4.\n\nНа четвертой лекции мы поговорили о двумерных задачах, которые решаются с помощью дерева отрезков. Обсудили метод сканирующей прямой и построили двумерные версии дерева отрезков, разреженной таблицы и дерева Фенвика.\n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eLTHObeDVD8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eLTHObeDVD8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eLTHObeDVD8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eLTHObeDVD8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eLTHObeDVD8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eLTHObeDVD8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NVVAHdNk11J-67_wIJMWVSUIDHU\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLjJGOVNpMVJHTkw0",
+    "snippet": {
+      "publishedAt": "2020-02-27T21:35:31.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S04E03. Потоки, разрезы. Алгоритм Форда-Фалкерсона",
+      "description": "Алгоритмы и структуры данных. Семестр 4. Лекция 3.\n\nНачали говорить о задаче поиска максимального потока. Разобрали основные понятия теории потоков и рассмотрели алгоритм Форда-Фалкерсона. \n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2F9Si1RGNL4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2F9Si1RGNL4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2F9Si1RGNL4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2F9Si1RGNL4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2F9Si1RGNL4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2F9Si1RGNL4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jU7tS-wjE2Bhhf2BJK6LdGN6Joc\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLkQwTlFTX2x5clkw",
+    "snippet": {
+      "publishedAt": "2020-02-26T23:11:17.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "АиСД S02E03. Разреженная таблица. Дерево Фенвика",
+      "description": "Алгоритмы и структуры данных. Семестр 2. Лекция 3.\n\nНа третьей лекции мы рассмотрели еще несколько важных структур данных для обработки запросов на отрезках: разреженную таблицу и дерево Фенвика, также немного поговорили о том, зачем может понадобиться персистентное дерево отрезков. \n\nУниверситет ИТМО, 2020 г.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D0NQS_lyrY0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D0NQS_lyrY0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D0NQS_lyrY0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D0NQS_lyrY0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D0NQS_lyrY0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "D0NQS_lyrY0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sMsD2h3pAdqVwakNtwtIwoEfg6M\"",
+    "id": "VVU5V0RrQ3lVbE5UbmNxMVktbUZTZ0xRLk1aeHdrR1lSMWZB",
+    "snippet": {
+      "publishedAt": "2020-02-24T16:08:32.000Z",
+      "channelId": "UC9WDkCyUlNTncq1Y-mFSgLQ",
+      "title": "Паша и алгосы. Innopolis Open 2020",
+      "description": "Еще один выездной выпуск, с олимпиады Innopolis Open 2020.\nhttps://olymp.innopolis.ru/ooui/oui-2019-20/informatics/\nЗадачи можно порешать тут:\nhttps://codeforces.com/contests/102534\n\nЗацените наш новый курс, там уже есть первое занятие про суффиксный массив: \nhttps://codeforces.com/edu/courses\n\nMusic:\nExtreme Energy by MusicToday80: https://soundcloud.com/musictoday80/rock-music/\nHigher by Roa https://soundcloud.com/roa_music1031",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MZxwkGYR1fA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MZxwkGYR1fA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MZxwkGYR1fA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MZxwkGYR1fA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MZxwkGYR1fA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pavel Mavrin",
+      "playlistId": "UU9WDkCyUlNTncq1Y-mFSgLQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MZxwkGYR1fA"
+      }
+    }
+  }
+]

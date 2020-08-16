@@ -1,0 +1,862 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qJTy6c5exOvg2UXlGzlddajQYAk\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLkFBc3NrMk5fb1Br",
+    "snippet": {
+      "publishedAt": "2020-04-15T18:24:54.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "TCP Meltdown - Computerphile",
+      "description": "Why it's a bad idea to build a Virtual Private Network using TCP. Dr Steve Bagley on TCP over TCP...\n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AAssk2N_oPk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AAssk2N_oPk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AAssk2N_oPk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AAssk2N_oPk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AAssk2N_oPk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AAssk2N_oPk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L_lGtuQ8JdckXhf6F4cKp5KxlyA\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLnFXMzYxazMtQnRV",
+    "snippet": {
+      "publishedAt": "2020-04-08T18:03:22.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Taming Kerberos - Computerphile",
+      "description": "Kerberos is an authentication method - Dr Mike Pound explains how it works so neatly.\n\nEXTRA BITS: Kerberos Q&A https://youtu.be/QN4WmZXi4tg \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qW361k3-BtU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qW361k3-BtU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qW361k3-BtU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qW361k3-BtU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qW361k3-BtU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qW361k3-BtU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5lq5N4HtTvyXV6lqHROGbOWCkto\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLnBzbXVfVkF1aWFn",
+    "snippet": {
+      "publishedAt": "2020-04-01T14:38:52.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Curried Functions - Computerphile",
+      "description": "It's all about the input. You can't always give all a function's inputs at the same time. Professor Graham Hutton explains about curried functions.\n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed by Graham Hutton and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/psmu_VAuiag/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/psmu_VAuiag/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/psmu_VAuiag/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/psmu_VAuiag/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/psmu_VAuiag/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "psmu_VAuiag"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6UnySa0GIB5OeYhOkUIds755dcI\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLjFtdFNOVmRDN3RN",
+    "snippet": {
+      "publishedAt": "2020-03-25T16:03:29.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "VPN & Remote Working - Computerphile",
+      "description": "As we move towards a remote working culture, Dr Steve Bagley remotely connects to explain what VPN is & how it works. \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed by Dr Steve Bagley and Sean Riley and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1mtSNVdC7tM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1mtSNVdC7tM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1mtSNVdC7tM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1mtSNVdC7tM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1mtSNVdC7tM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1mtSNVdC7tM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dyU1n1hHDIgxAn4DrbsApKeDLAc\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLjBBMWU4ZWNlSXNZ",
+    "snippet": {
+      "publishedAt": "2020-03-18T17:06:16.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Why My Computer Wants to Forget (How Dynamic Memory Works) - Computerphile",
+      "description": "To save silicon, RAM is built to forget. Dr Steve Bagley explains how dynamic memory saves on space but at a cost.\n\nComputer Memory Playlist: https://www.youtube.com/playlist?list=PLzH6n4zXuckoxFPyhsMOYMGqyZOeN2SDJ \nHow Autofocus Works:  https://youtu.be/B-TOUPXytw4 \nWhy CPUs have Caches: https://youtu.be/6JpLD3PUAZk \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0A1e8eceIsY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0A1e8eceIsY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0A1e8eceIsY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0A1e8eceIsY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0A1e8eceIsY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0A1e8eceIsY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Bg058GuVyImEY2-q-g2EtIpJY_4\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLnBneld4T3RrMXpn",
+    "snippet": {
+      "publishedAt": "2020-03-13T18:32:52.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "128 Bit or 256 Bit Encryption? - Computerphile",
+      "description": "What do the various levels of encryption mean, and why use one over another? Dr Mike Pound takes us through the cryptic world of encryption levels. \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pgzWxOtk1zg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pgzWxOtk1zg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pgzWxOtk1zg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pgzWxOtk1zg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pgzWxOtk1zg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pgzWxOtk1zg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rh53cLA0dVA8vYrPsplRGWqUjwI\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLkViTDlPRmx4d1Y4",
+    "snippet": {
+      "publishedAt": "2020-03-11T15:37:08.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Nintendo NES FamiCom Creator - Computerphile",
+      "description": "Bring Donkey Kong home! - The unenviable task given to Masayuki Uemura by Nintendo bosses in the early '80s. Unimpressed by Atari's 2600 they set out to bring a true videogame arcade experience into the home.\n\nMany thanks to The National Videogame Museum in Sheffield UK for setting up this interview: http://bit.ly/C_NVM \n\nThanks also to Akinori Nakamura for interpreting for us. \n\nSee the full (almost) un-edited interview here: https://www.youtube.com/watch?v=zYeDqmV_W1k \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EbL9OFlxwV8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EbL9OFlxwV8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EbL9OFlxwV8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EbL9OFlxwV8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EbL9OFlxwV8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EbL9OFlxwV8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4bK_oSB04Wi-dAABueG4rdaAXjo\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLjd0Q051NENualZj",
+    "snippet": {
+      "publishedAt": "2020-03-04T18:53:11.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Coding Trees in Python - Computerphile",
+      "description": "For Mathematics, trees are more useful than strings. Professor Thorsten Altenkirch takes us through a functional approach to coding them in Python.\n\nThorsten's Python programming book: https://bit.ly/2p3r5IT  \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7tCNu4CnjVc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7tCNu4CnjVc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7tCNu4CnjVc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7tCNu4CnjVc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7tCNu4CnjVc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7tCNu4CnjVc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_-CwlPcznkTZOu1LfnBk_Qs0iPY\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLk0zeDVaM2lJb1NV",
+    "snippet": {
+      "publishedAt": "2020-02-27T16:04:18.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "RegEx Roman Numerals - Computerphile",
+      "description": "Working with regular expressions to decode Roman Numerals. Professor Brailsford is on the case. \n\nEXTRA BITS - Roman Numerals Reminder: https://youtu.be/j4opDit220w \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M3x5Z3iIoSU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M3x5Z3iIoSU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M3x5Z3iIoSU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/M3x5Z3iIoSU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/M3x5Z3iIoSU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "M3x5Z3iIoSU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/clCqXI5EFQKEx4NEDAjHQK3iy1k\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLkItVE9VUFh5dHc0",
+    "snippet": {
+      "publishedAt": "2020-02-14T18:34:53.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "How Autofocus Works - Computerphile",
+      "description": "Why are some cameras faster to focus than others? Dr Andy French explains the different approaches the computers inside cameras use to focus. \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B-TOUPXytw4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B-TOUPXytw4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B-TOUPXytw4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/B-TOUPXytw4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/B-TOUPXytw4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "B-TOUPXytw4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/d05SqmKhP-NOM2GGhveJG9e78kE\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLkdfVVlYekd1cXZN",
+    "snippet": {
+      "publishedAt": "2020-02-12T20:03:05.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Python Sudoku Solver - Computerphile",
+      "description": "Fun comes in many forms - playing puzzles, or writing programs that solve the puzzles for you. Professor Thorsten Altenkirch on a recursive Sudoku solver. \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G_UYXzGuqvM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G_UYXzGuqvM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G_UYXzGuqvM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G_UYXzGuqvM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G_UYXzGuqvM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "G_UYXzGuqvM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/clctHDXMe1HI5sevIYwumq8Yl9M\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLkZHaGozQ0d4bDhJ",
+    "snippet": {
+      "publishedAt": "2020-02-19T13:45:01.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Feistel Cipher - Computerphile",
+      "description": "One of the most elegant solutions for cryptography. Dr Mike Pound explains one of his most favourite ciphers.\n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FGhj3CGxl8I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FGhj3CGxl8I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FGhj3CGxl8I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FGhj3CGxl8I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FGhj3CGxl8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FGhj3CGxl8I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/35FnUnNONczTpSJeYQNkrW8zCfM\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLkRmSzgzeEV0Sl9r",
+    "snippet": {
+      "publishedAt": "2020-02-07T17:05:16.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Multi-Dimensional Data (as used in Tensors) - Computerphile",
+      "description": "How do computers represent multi-dimensional data? Dr Mike Pound explains the mapping. \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DfK83xEtJ_k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DfK83xEtJ_k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DfK83xEtJ_k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DfK83xEtJ_k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DfK83xEtJ_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DfK83xEtJ_k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TfHjgfWwLHbHfep5DBZ9mANFyvU\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLmREdFpMbTdISUpz",
+    "snippet": {
+      "publishedAt": "2020-02-05T14:32:22.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Functional Parsing - Computerphile",
+      "description": "Functional or Combinator Parsing explained by Professor Graham Hutton. \n\n\n\nProfessor Hutton's Functional Parsing Library: http://bit.ly/C_FunctParsLib \n\n\n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dDtZLm7HIJs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dDtZLm7HIJs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dDtZLm7HIJs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dDtZLm7HIJs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dDtZLm7HIJs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dDtZLm7HIJs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mhSC232GIj0Qg2E5yhTI9iCZ4RI\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLjMxclUtVnpGNXd3",
+    "snippet": {
+      "publishedAt": "2020-01-30T18:15:45.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "AI Safety Gym - Computerphile",
+      "description": "Check out today's sponsor Fasthosts for all of your UK web hosting needs: https://www.fasthosts.co.uk/computerphile\n\nRob Miles discusses the idea of a gym for training AI algorithms.\n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/31rU-VzF5ww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/31rU-VzF5ww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/31rU-VzF5ww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/31rU-VzF5ww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/31rU-VzF5ww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "31rU-VzF5ww"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UmCjouwGNB8eY9uUvUaSBD_riGo\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLjZnZGRLLWNPeFlj",
+    "snippet": {
+      "publishedAt": "2020-01-28T18:59:49.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Using Regular Expressions - Computerphile",
+      "description": "Professor Brailsford takes the theory of RegEx and puts it into practice. \n\nEXTRA BITS: https://youtu.be/4uMS2ZPsoVw \n\n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6gddK-cOxYc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6gddK-cOxYc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6gddK-cOxYc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6gddK-cOxYc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6gddK-cOxYc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6gddK-cOxYc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TOA3MMPwfYPkCJUfXOhArwYiLWU\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLmdOSEN4SDM1d1lV",
+    "snippet": {
+      "publishedAt": "2020-01-23T15:02:12.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Sega Megadrive Hello World - Computerphile",
+      "description": "Check out today's sponsor Fasthosts for all of your UK web hosting needs: https://www.fasthosts.co.uk/computerphile \n\nHello World on the Sega Megadrive/Genesis - its quite an involved process to write Hello World on a machine that doesn't even have an operating system. Matt Phillips, of Big Evil Corp demostrates the 'wonky R'\n\nMore from Matt: https://bit.ly/C_BEC \n\nThanks to the National Videogame Museum for hosting us: https://bit.ly/C_NVM \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gNHCxH35wYU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gNHCxH35wYU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gNHCxH35wYU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gNHCxH35wYU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cA4HzUoxs8xO3fl6B1u4oC5NJ5E\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLmVLakJpeTBPUGtZ",
+    "snippet": {
+      "publishedAt": "2020-01-17T19:09:41.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Email Endianness Problems - Computerphile",
+      "description": "In the early days the UK had its own thoughts on how email addresses should look. Dr Julian Onions was there!\n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eKjBiy0OPkY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eKjBiy0OPkY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eKjBiy0OPkY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eKjBiy0OPkY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rMJ9cT5GN3qVNRGIGcUz4qph8_Y\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLlpEMGpYdWNIWFVR",
+    "snippet": {
+      "publishedAt": "2020-01-15T20:38:42.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Gaming Museum - Computerphile",
+      "description": "Atari to Zelda, the National Videogame Museum has it covered - Conor Clarke gave Computerphile a personal tour.\n\nMore about the National Videogame Museum: http://bit.ly/C_NVM \n \nTanglewood / Sega Game Development: https://www.youtube.com/playlist?list=PLzH6n4zXuckpNBPBn9BzKN4Ms_dkDFF6S \nAI's Game Playing Challenge: https://www.youtube.com/watch?v=5oXyibEgJr0 \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZD0jXucHXUQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZD0jXucHXUQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZD0jXucHXUQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZD0jXucHXUQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rbXkJ0348Rq1znbfGUUGLNxGSYM\"",
+    "id": "VVU5LXktNmNzdTVXR20yOUk3Sml3cG5BLjUyOEpjM3E4NkY4",
+    "snippet": {
+      "publishedAt": "2020-01-09T17:00:17.000Z",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Regular Expressions - Computerphile",
+      "description": "Professor Brailsford on one of our most requested topics. \n\nPlaylist of Videos the Prof mentioned: https://www.youtube.com/playlist?list=PLzH6n4zXuckpkgSrHX87sDCmEZSumytL3 \n\nEXTRA BITS: https://youtu.be/-U_ggjfLc1g\n\nhttps://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/528Jc3q86F8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/528Jc3q86F8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/528Jc3q86F8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Computerphile",
+      "playlistId": "UU9-y-6csu5WGm29I7JiwpnA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "528Jc3q86F8"
+      }
+    }
+  }
+]

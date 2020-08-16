@@ -1,0 +1,337 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vm49uP9Qt9BNVcsnd6t64eKk5uc\"",
+    "id": "VVVISHZZR0xheDJmSnloaWRHLW5fd0t3Lk9JZTJseGg1bGt3",
+    "snippet": {
+      "publishedAt": "2017-07-16T17:51:46.000Z",
+      "channelId": "UCHHvYGLax2fJyhidG-n_wKw",
+      "title": "Initial Nuxt Routing Setup",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OIe2lxh5lkw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OIe2lxh5lkw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OIe2lxh5lkw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OIe2lxh5lkw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Sarah Drasner",
+      "playlistId": "UUHHvYGLax2fJyhidG-n_wKw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OIe2lxh5lkw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/R4oVIMbemjWKzVXLwSfUDEk9LIQ\"",
+    "id": "VVVISHZZR0xheDJmSnloaWRHLW5fd0t3LnBvYkxPdGNib19n",
+    "snippet": {
+      "publishedAt": "2017-07-16T17:48:13.000Z",
+      "channelId": "UCHHvYGLax2fJyhidG-n_wKw",
+      "title": "Simplest Nuxt Page Transition",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pobLOtcbo_g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pobLOtcbo_g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pobLOtcbo_g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pobLOtcbo_g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pobLOtcbo_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sarah Drasner",
+      "playlistId": "UUHHvYGLax2fJyhidG-n_wKw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pobLOtcbo_g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6fWoy0jqinGS6PXsg4bT6nRhWKo\"",
+    "id": "VVVISHZZR0xheDJmSnloaWRHLW5fd0t3LmpHVWlBbDRvdjNN",
+    "snippet": {
+      "publishedAt": "2017-07-16T17:47:12.000Z",
+      "channelId": "UCHHvYGLax2fJyhidG-n_wKw",
+      "title": "two css2",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jGUiAl4ov3M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jGUiAl4ov3M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jGUiAl4ov3M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jGUiAl4ov3M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jGUiAl4ov3M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sarah Drasner",
+      "playlistId": "UUHHvYGLax2fJyhidG-n_wKw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jGUiAl4ov3M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CIFKl0NdpPEzC1MI9vjpo66jdKs\"",
+    "id": "VVVISHZZR0xheDJmSnloaWRHLW5fd0t3LnVGVV9HcWVaNXN3",
+    "snippet": {
+      "publishedAt": "2017-07-16T17:46:02.000Z",
+      "channelId": "UCHHvYGLax2fJyhidG-n_wKw",
+      "title": "Nuxt CSS page transitions",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uFU_GqeZ5sw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uFU_GqeZ5sw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uFU_GqeZ5sw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uFU_GqeZ5sw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uFU_GqeZ5sw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sarah Drasner",
+      "playlistId": "UUHHvYGLax2fJyhidG-n_wKw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uFU_GqeZ5sw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iZ64c6APVCYrEiyKtMpbaoHXjms\"",
+    "id": "VVVISHZZR0xheDJmSnloaWRHLW5fd0t3Lm0wU1BHVDNWYWk4",
+    "snippet": {
+      "publishedAt": "2017-07-16T17:44:30.000Z",
+      "channelId": "UCHHvYGLax2fJyhidG-n_wKw",
+      "title": "Nuxt Type Demo Responsive",
+      "description": "The real demo lives at: https://nuxt-type.now.sh/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m0SPGT3Vai8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m0SPGT3Vai8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m0SPGT3Vai8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m0SPGT3Vai8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Sarah Drasner",
+      "playlistId": "UUHHvYGLax2fJyhidG-n_wKw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "m0SPGT3Vai8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gvC_VDR-4LE4ckIbQ1E5loI-Vj8\"",
+    "id": "VVVISHZZR0xheDJmSnloaWRHLW5fd0t3Ljh0MVBkaXppSV9V",
+    "snippet": {
+      "publishedAt": "2017-07-16T17:41:04.000Z",
+      "channelId": "UCHHvYGLax2fJyhidG-n_wKw",
+      "title": "Simple JS hooks in Nuxt",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8t1PdiziI_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8t1PdiziI_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8t1PdiziI_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8t1PdiziI_U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8t1PdiziI_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sarah Drasner",
+      "playlistId": "UUHHvYGLax2fJyhidG-n_wKw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8t1PdiziI_U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NTJdn4obhgE7pOXQUq04tjsTjJk\"",
+    "id": "VVVISHZZR0xheDJmSnloaWRHLW5fd0t3LlFzVkJWTjFrS0dn",
+    "snippet": {
+      "publishedAt": "2016-10-27T15:28:34.000Z",
+      "channelId": "UCHHvYGLax2fJyhidG-n_wKw",
+      "title": "SVG Geometric Primitive Take 2",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QsVBVN1kKGg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QsVBVN1kKGg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QsVBVN1kKGg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QsVBVN1kKGg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Sarah Drasner",
+      "playlistId": "UUHHvYGLax2fJyhidG-n_wKw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QsVBVN1kKGg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Hgqx1B6sRAfan8FcLkGfn0S4WOo\"",
+    "id": "VVVISHZZR0xheDJmSnloaWRHLW5fd0t3LndKT1IxaGQyWjZv",
+    "snippet": {
+      "publishedAt": "2014-08-15T20:05:14.000Z",
+      "channelId": "UCHHvYGLax2fJyhidG-n_wKw",
+      "title": "aphyr ice jump",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wJOR1hd2Z6o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wJOR1hd2Z6o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wJOR1hd2Z6o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sarah Drasner",
+      "playlistId": "UUHHvYGLax2fJyhidG-n_wKw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wJOR1hd2Z6o"
+      }
+    }
+  }
+]

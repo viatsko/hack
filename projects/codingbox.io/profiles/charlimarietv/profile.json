@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vith97VgKyEEQyFOCZaQkpzXqQw\"",
+      "id": "UCScRSwdX0t31gjk3MYXIuYQ",
+      "snippet": {
+        "title": "CharliMarieTV",
+        "description": "Hello there! I'm Charli and I'm a web and graphic designer from New Zealand currently living in London and posting design videos every Saturday about tools, projects, and concepts and vlogs every Tuesday about my life as a designer. Please subscribe and say hi in the comments so we can be friends :)",
+        "customUrl": "charlimarietv",
+        "publishedAt": "2013-09-18T08:57:02.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwy6wJ2UTUjSKzAjqw6b5Y9o8vw3ebtM-Z37A=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwy6wJ2UTUjSKzAjqw6b5Y9o8vw3ebtM-Z37A=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwy6wJ2UTUjSKzAjqw6b5Y9o8vw3ebtM-Z37A=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "CharliMarieTV",
+          "description": "Hello there! I'm Charli and I'm a web and graphic designer from New Zealand currently living in London and posting design videos every Saturday about tools, projects, and concepts and vlogs every Tuesday about my life as a designer. Please subscribe and say hi in the comments so we can be friends :)"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUScRSwdX0t31gjk3MYXIuYQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUScRSwdX0t31gjk3MYXIuYQ"
+  },
+  "displayName": "CharliMarieTV",
+  "description": "Hello there! I'm Charli and I'm a web and graphic designer from New Zealand currently living in London and posting design videos every Saturday about tools, projects, and concepts and vlogs every Tuesday about my life as a designer. Please subscribe and say hi in the comments so we can be friends :)",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwy6wJ2UTUjSKzAjqw6b5Y9o8vw3ebtM-Z37A=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwy6wJ2UTUjSKzAjqw6b5Y9o8vw3ebtM-Z37A=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwy6wJ2UTUjSKzAjqw6b5Y9o8vw3ebtM-Z37A=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

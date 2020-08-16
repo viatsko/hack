@@ -1,0 +1,1747 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wQEfGL1klpHmDrnuXCgjgfaX7r0\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LmxvdHdkRUs2RFVV",
+    "snippet": {
+      "publishedAt": "2019-03-08T20:34:24.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 38 - NAIPC 2019 w/ Lewin Gan",
+      "description": "In this week's episode, the problems from the NAIPC 2019 contest are discussed in full with Lewin Gan.\n\n00:00 - Welcome\n01:34 - J: Subsequences in Substrings\n07:44 - G: Intersecting Rectangles\n12:11 - A: Piece of Cake\n17:07 - M: XOR Sequences\n26:44 - D: It's a Mod, Mod, Mod, Mod World\n40:28 - B: Busy Board\n49:01 - E: Monotony\n55:23 - F: Heaps of Fun\n01:04:00 - I: Cutting Strings\n01:12:50 - L: Planes, Trains, but not Automobiles\n01:21:24 - K: Knights of the Tarot Cards\n01:31:32 - C: Cost of Living\n01:36:38 - H: Rocket Powered Hovercraft",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lotwdEK6DUU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lotwdEK6DUU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lotwdEK6DUU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lotwdEK6DUU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lotwdEK6DUU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lotwdEK6DUU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3jWWprQqYnd_ZOMGixrYvpYI2xA\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3Ljk3b3ZWQUpCYmtB",
+    "snippet": {
+      "publishedAt": "2019-01-21T19:07:34.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 37 - Venture Cup w/ Scott Wu",
+      "description": "This week's episode sees the return of Scott Wu. We discuss the Venture Cup contest on Codeforces, the interest of venture capitalists in competitive programmers, and the relation of esports to competitive programming. We also discuss the problem \"Group Projects\" from Venture Cup.\n\n00:00 - Welcome\n00:42 - About Scott\n02:05 - Streaming\n26:48 - Venture Cup\n39:15 - Group Projects",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/97ovVAJBbkA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/97ovVAJBbkA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/97ovVAJBbkA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/97ovVAJBbkA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/97ovVAJBbkA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "97ovVAJBbkA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lGjdYaSpNVWnZB8vjdVbzcroioY\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3Lm5kTGd6STJUSjNj",
+    "snippet": {
+      "publishedAt": "2019-01-16T21:06:52.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 36 - El Toll Caves w/ Mikhail Tikhomirov",
+      "description": "This week's episode will discuss the Codeforces problem \"El Toll Caves\" with the author Mikhail Tikhomirov. Mikhail is the also known by his handle Endagorion.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ndLgzI2TJ3c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ndLgzI2TJ3c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ndLgzI2TJ3c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ndLgzI2TJ3c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6cKxjVYaw3UIeZ7Rky3EA3X5WCQ\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LnBPdjRMUk50MGpv",
+    "snippet": {
+      "publishedAt": "2019-01-09T03:03:37.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 35 - Looking for a Challenge? w/ Tomasz Idziaszek",
+      "description": "This week's episode is a discussion of the famous Polish Olympiad book \"Looking for a Challenge\". My guest discusses Polish contests, the history behind the book, and his problem \"Termites\" from the book.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pOv4LRNt0jo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pOv4LRNt0jo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pOv4LRNt0jo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pOv4LRNt0jo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pOv4LRNt0jo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pOv4LRNt0jo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SMfY257-mFwvNR2EwUldW2Th9VM\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LjlwLU0wSkp6X2FR",
+    "snippet": {
+      "publishedAt": "2018-12-22T15:48:34.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 34 - Educational Streaming w/ Errichto",
+      "description": "In this week's episode, I'll be speaking to Errichto about educational streaming for competitive programming tasks.\n\nThe discussion will start off with a discussion of his Codeforces problem Disjoint Triangles and related problems. After which we will discuss the benefits of educational streaming to programming contests and how to popularize competitive programming to a wider audience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9p-M0JJz_aQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9p-M0JJz_aQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9p-M0JJz_aQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9p-M0JJz_aQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9p-M0JJz_aQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9p-M0JJz_aQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uhV_xINplsTnNAL9wFiMIMmL4oo\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LksxaS13UDgyWmRv",
+    "snippet": {
+      "publishedAt": "2018-12-01T03:28:39.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 33 - Maximum Flow Intuition",
+      "description": "In this episode an intuitive maximum flow explanation is presented that avoids the typical formalization of maximum flow.\n\n00:00 - Welcome\n01:05 - Why Intuition?\n02:40 - Sample Problem\n07:21 - Balance of Degrees\n09:08 - Second Sample Problem\n11:35 - Parallel Edges\n14:56 - Implementation of Ford-Fulkerson\n22:40 - Next Episode Announcements\n\nThanks to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K1i-wP82Zdo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K1i-wP82Zdo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K1i-wP82Zdo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K1i-wP82Zdo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K1i-wP82Zdo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "K1i-wP82Zdo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NTyHL3n4o5cYRxiXL_9FCyIsK1Y\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LkVHX0hmRk1NMGxF",
+    "snippet": {
+      "publishedAt": "2018-08-20T02:54:49.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 32 - Fracturing Search",
+      "description": "In this week's episode, I discuss an enumeration algorithm, fracturing search, to find the kth smallest spanning tree in a graph.\n\n00:00 - Introduction\n00:42 - Minimum Spanning Trees\n01:45 - Kth Smallest Spanning Tree\n03:21 - Fracturing Search\n07:02 - Fracturing a Sequence\n11:47 - The Algorithm By Hand\n13:23 - Coding\n15:54 - Coding the Search\n22:10 - Coding createPartition\n26:55 - Debugging and Testing\n29:15 - Runtime Analysis\n31:57 - Properties of Fracturing Search",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EG_HfFMM0lE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EG_HfFMM0lE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EG_HfFMM0lE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EG_HfFMM0lE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EG_HfFMM0lE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EG_HfFMM0lE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_Iys4dvrcbeNpwgU12beoQo2pA8\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LmJMeHNzZXQ3MDZF",
+    "snippet": {
+      "publishedAt": "2018-02-10T21:12:13.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 31 - Orchestra w/ Scott Wu",
+      "description": "In this week's episode, I will discuss the Codeforces problem Orchestra (http://codeforces.com/contest/627/problem/E) with Scott Wu.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bLxsset706E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bLxsset706E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bLxsset706E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bLxsset706E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bLxsset706E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bLxsset706E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mgVg8SUOEplvXfmaoFKMnzv8VcE\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LmVyS2xMRVhMS3lZ",
+    "snippet": {
+      "publishedAt": "2018-01-21T19:13:02.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 30 - Treaps",
+      "description": "In this week's episode, I will discuss the treap data structure.\n\n00:00 - Welcome\n04:04 - Random BST\n08:05 - Goals\n12:00 - Naive Construction\n14:12 - Treap\n17:01 - Rebalancing\n21:15 - Insertions\n25:35 - Split Operation\n29:02 - Meld Operation\n35:20 - Operating on Treap (Query)\n40:45 - Delete Operation\n42:28 - Rope Data Structure\n46:40 - Implicit Indexing\n50:24 - Rope Operations\n56:15 - Reverse Operation\n01:00:30 - \"Select Upper Range\" Operation\n01:02:35 - Answering Questions and Next Episode Announcements\n\nThanks to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/erKlLEXLKyY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/erKlLEXLKyY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/erKlLEXLKyY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/erKlLEXLKyY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/erKlLEXLKyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "erKlLEXLKyY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_g6htGa6C9_RHaYWxIcPb4bbktc\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LjhyOWJMbW41ZGdz",
+    "snippet": {
+      "publishedAt": "2017-12-16T23:54:41.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 29 - Rainbow Roads w/ Lewin Gan",
+      "description": "This week's episode features Lewin Gan and will cover his ICPC problem Rainbow Roads. You can find the problem statement here: https://open.kattis.com/problems/rainbowroads\n\n01:20 - Lewin intro, problem description\n07:11 - analysis of the problem, brute solution\n09:36 - marking approach O(n^2), analyzing bad cases\n13:56 - improving subproblem runtime\n19:36 - alternative approaches\n30:45 - coding\n\nThank you to Mikhail Goncharov for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8r9bLmn5dgs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8r9bLmn5dgs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8r9bLmn5dgs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8r9bLmn5dgs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8r9bLmn5dgs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8r9bLmn5dgs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TkaqCYu2pS8q3Qlkyy08kmNXR5w\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LkVLY1F0LTc0Yk53",
+    "snippet": {
+      "publishedAt": "2017-07-27T01:42:21.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 28 - Sparse Tables and LCA",
+      "description": "This week's episode will cover sparse tables and their relationship to the lowest common ancestor problem. I'll be discussing the so called \"Euler tour of a tree\" which is really just a tree traversal and explain how it helps with this formulation.\n\n00:00 - Welcome\n00:39 - Euler Tour of a Tree\n04:12 - Tree Linearization\n09:48 - LCA Algorithm w/ RMQ\n10:46 - Sparse Table\n12:09 - Pre-computation\n13:56 - Queries\n17:40 - Observations\n20:06 - Implementation of LCA w/ RMQ\n35:13 - Next Week Announcements\n\nThanks to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EKcQt-74bNw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EKcQt-74bNw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EKcQt-74bNw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EKcQt-74bNw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EKcQt-74bNw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EKcQt-74bNw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VP52sHN9a8GRhG_z76x5BFg0w0A\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LjlXYmVqN0Z5NUx3",
+    "snippet": {
+      "publishedAt": "2017-07-23T20:55:59.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 27 - Topological Sort and Kosaraju's Algorithm",
+      "description": "This week's episode will cover two methods for constructing a topological sort of a graph and Kosaraju's algorithm for finding strongly connected components.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9Wbej7Fy5Lw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9Wbej7Fy5Lw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9Wbej7Fy5Lw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9Wbej7Fy5Lw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9Wbej7Fy5Lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9Wbej7Fy5Lw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cJqZenZT_Hrrx1aTiqbx__pNwxM\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3Lms2N3VlRVVCTG5J",
+    "snippet": {
+      "publishedAt": "2017-07-22T02:50:08.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 26 - Fibonacci Machine",
+      "description": "This week's episode will cover the solution to the Polish Algorithmic Engagements problem Fibonacci Machine.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k67ueEUBLnI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k67ueEUBLnI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k67ueEUBLnI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k67ueEUBLnI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k67ueEUBLnI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k67ueEUBLnI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Gv9Zx68t601M0mCbtL-QU5Ye7vc\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LlZ2MG1uNFFmNHJZ",
+    "snippet": {
+      "publishedAt": "2017-07-16T15:05:15.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 25 - Desert Wind",
+      "description": "This week's episode will discuss an old Topcoder problem, Desert Wind.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vv0mn4Qf4rY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vv0mn4Qf4rY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vv0mn4Qf4rY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Vv0mn4Qf4rY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Vv0mn4Qf4rY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Vv0mn4Qf4rY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OrrWsf6CJeRZ7m7ykz2AQtY5AXQ\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LjBuTll5M3JsdGdB",
+    "snippet": {
+      "publishedAt": "2017-07-08T03:00:11.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 24 - 2SAT",
+      "description": "This week's episode will cover the 2-satisfiability problem. We'll merge the ideas from strongly connected components and combine them with some ideas from propositional logic.\n\n00:00 - Welcome\n02:30 - SAT\n06:55 - Goals\n08:42 - Disjunctive Syllogism\n12:19 - Implication Graph\n14:00 - Sample Modeling\n21:35 - Observations on Implication Graph\n30:40 - 2-SAT Algorithm\n33:10 - Correctness\n35:20 - Adding Other Pieces\n38:42 - Illumination Problem\n43:45 - Illumination Problem (alternative version)\n46:13 - Piece It Together Problem\n48:17 - Solution Discussion w/ 2-SAT\n56:20 - Implementation of Piece It Together\n01:50:15 - Next Week Announcements\n\nThanks to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0nNYy3rltgA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0nNYy3rltgA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0nNYy3rltgA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0nNYy3rltgA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0nNYy3rltgA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0nNYy3rltgA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/InZ5dxRMbyTqx2FDJ5_FYwX9wN8\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3Lno5b09hZEJnTzlJ",
+    "snippet": {
+      "publishedAt": "2017-06-24T02:12:53.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 23 - Strongly Connected Components",
+      "description": "This week's episode will cover how to use lowlinking to extract the strongly connected components from directed graphs.\n\n00:58 Definition of strongly connected components\n02:58 Warshall's transitive closure algorithm O(V^3)\n05:18 Refresher on edge types during DFS\n06:35 Properties of SCC in DFS\n10:15 Detecting and extracting SCC during DFS\n15:40 Extracting SCC example by hand\n22:56 Building meta-graph, properties\n28:23 Coding Tarjan's SCC algorithm\n44:47 Equivalences problem\n47:46 Algorithm overview\n49:53 Lower bound on number of edges to add\n55:23 Coding solution to Equivalences\n\nThank you to Mikhail Goncharov for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z9oOadBgO9I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z9oOadBgO9I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z9oOadBgO9I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z9oOadBgO9I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z9oOadBgO9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "z9oOadBgO9I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8Y35jYrpkrq6uuAO-Y_GFZ6_vwA\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LnRSVGV6THZQWjNr",
+    "snippet": {
+      "publishedAt": "2017-06-17T01:50:04.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 22 - Biconnected Decompositions",
+      "description": "In this episode, I discuss how to solve problems using undirected graph information we learned to extract last week through the DFS lowlinking technique.\n\n00:52 - Problem: make graph 2-edge-connected\n15:10 - Using Euler tour to simplify pendant matching\n19:54 - ICPC World Finals problem \"Mining Your Own Business\"\n23:53 - Creating a tree of biconnected components\n28:55 - Leveraging meta-tree to solve our problem\n32:33 - Avoiding explicit construction of meta-tree\n33:45 - \"Lucky Cities\" SEERC-ICPC problem\n37:03 - Cycle lengths and bipartite graphs\n39:11 - Proof: Every vertex of a non-bipartite 2-vertex-connected graph lies on an odd-cycle\n\nThank you to Mikhail Goncharov for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tRTezLvPZ3k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tRTezLvPZ3k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tRTezLvPZ3k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tRTezLvPZ3k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tRTezLvPZ3k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tRTezLvPZ3k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6sjRDPjDyhvuNEhfx1ysYOZ8Gfo\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LmlZSnFnTUtZc2RJ",
+    "snippet": {
+      "publishedAt": "2017-06-11T19:33:16.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 21 - DFS Lowlink",
+      "description": "This week's episode will cover the lowlinking technique for undirected graphs.\n\n01:15 - Cut vertex definition\n02:25 - Cut edge definition\n03:51 - Naive approaches\n05:30 - Analyzing DFS (edge types)\n11:38 - Finding bridges with DFS\n13:26 - Subtree aggregates and lowlinking\n16:27 - Detecting bridges with lowlink\n17:45 - Detecting cut vertices with lowlink\n22:18 - Special case for root cut vertex\n25:16 - Coding detection of cut vertices and edges\n44:37 - k-connectivity definitions\n47:35 - 2-vertex-connected components\n52:13 - 2-edge-connected components\n55:57 - Menger's Theorem\n59:30 - Modifying DFS for 2-vertex-connected components\n1:03:36 - Written example of the algorithm running\n1:10:09 - Coding extraction of 2-vertex-connected-components\n\nThank you to Mikhail Goncharov for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iYJqgMKYsdI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iYJqgMKYsdI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iYJqgMKYsdI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iYJqgMKYsdI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iYJqgMKYsdI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iYJqgMKYsdI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qV8vzVYP9fVpXzVApQgE4Xmvecw\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LnJsVGtkNHlPUXBF",
+    "snippet": {
+      "publishedAt": "2017-05-13T02:15:24.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 20 - Bitmask Dynamic Programming",
+      "description": "This week's episode will cover techniques for embedding bitmasks into dynamic programming states. I'll also discuss the \"rolling bitmask\" technique.\n\n02:20 - FloorBoards problem\n11:24 - Coding FloorBoards\n22:20 - \"Reach for the Stars\" problem\n32:52 - Coding \"Reach for the Stars\"\n46:05 - OrderOfTheHats problem\n48:48 - Feedback arc set problem\n60:01 - Coding OrderOfTheHats\n\nThank you to Mikhail Goncharov for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rlTkd4yOQpE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rlTkd4yOQpE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rlTkd4yOQpE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rlTkd4yOQpE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rlTkd4yOQpE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rlTkd4yOQpE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Cs2zyJYzwIcL0vBGngqgfhANKFk\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LlU0TzNTd0RhbUE0",
+    "snippet": {
+      "publishedAt": "2017-05-07T02:05:08.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 19 - Knapsack",
+      "description": "This week's episode will cover Knapsack and the solution to this problem:\nhttps://open.kattis.com/problems/thief\n\n01:10 - Knapsack overview\n04:45 - 0/1 knapsack\n08:34 - 0/INF knapsack\n11:55 - Iterative DP for knapsack\n14:00 - Worked example for iterative DP\n20:40 - 0/K knapsack\n22:20 - Partition problem in relation to knapsack (Polarization)\n25:20 - Reduction of partition to subset sum\n26:35 - Speeding up O(n * S) in Polarization\n30:22 - Iterative DP for Subset Sum with 0..K repetitions\n38:12 - mapping back to 0/K Knapsack, O(n * S) again!\n44:30 - Jewel Thief\n\nThank you to Mikhail Goncharov for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U4O3SwDamA4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U4O3SwDamA4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U4O3SwDamA4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U4O3SwDamA4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U4O3SwDamA4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "U4O3SwDamA4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iCpH0e-3UteoHY4Dkuj1JUSLZLo\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LjNueHRZMUtTdHd3",
+    "snippet": {
+      "publishedAt": "2017-04-28T02:06:34.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 18 - Tree Traversal Trickery",
+      "description": "This week's episode will cover some tricks involving the calculation of preorder and postorder numbers, including some knapsack problems on trees.\n\n00:00 - Welcome\n01:17 - Sample Problem (Sum Query on Subtrees)\n05:25 - Nested intervals Approach\n07:05 - Tree Linearization\n08:52 - Sample Solution\n11:05 - Family Fortune Problem\n13:11 - Tree DP\n17:17 - Knapsack Style DP\n24:47 - Implementation of Knapsack\n38:10 - Implementation of Tree DP\n51:00 - Optimizing Tree DP\n\nThank you to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3nxtY1KStww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3nxtY1KStww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3nxtY1KStww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3nxtY1KStww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3nxtY1KStww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3nxtY1KStww"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gKIswnHliE9HvpAgnVg0G04-rOM\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LmtPZmE2dDhXbmJJ",
+    "snippet": {
+      "publishedAt": "2017-04-22T02:10:17.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 17 - Binary Lifting",
+      "description": "This week's episode will cover how to find LCAs (least common ancestors) quickly in rooted trees using binary lifiting.\n\n00:00 - Welcome\n02:35 - Least Common Ancestor (LCA)\n04:09 - Naive Approach\n06:45 - Binary Lifting\n10:04 - Building the Table\n12:33 - Walk Function\n14:45 - LCA Computation\n21:13 - Tourists Problem\n25:44 - Harmonic Sum Bound Intuition\n28:35 - Solution Ideas Discussion\n32:20 - Implementation of Tourists\n48:55 - Finding Bottlenecks Problem\n51:00 - Modified Dijkstra's Algorithm Solution\n52:23 - Binary Search Solution\n54:02 - Max Spanning Tree Solution\n01:03:35 - Next Week Announcements\n\nThank you to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kOfa6t8WnbI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kOfa6t8WnbI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kOfa6t8WnbI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kOfa6t8WnbI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kOfa6t8WnbI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kOfa6t8WnbI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X0r29Je8oeToshD2kozTMQgaH0o\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3Lk4yZ1J6Z2pKWFp3",
+    "snippet": {
+      "publishedAt": "2017-04-18T01:59:05.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 16 - Ski Resort",
+      "description": "This week's episode will cover a solution to Ski Resort from NAIPC 2017.\n\nYou can find the problem here:\nhttps://open.kattis.com/problems/skiresort\n\n00:00 - Welcome\n03:03 - Ski Resort Problem\n09:10 - Constraints\n13:20 - Dominator Trees\n17:33 - Dominator Trees on DAG\n23:20 - Solution Idea Discussion\n28:50 - Tricky Cases\n38:20 - Reachability Test\n44:45 - Solution Overview\n48:21 - Alternative Solution\n51:55 - Next Week Announcements\n\nThank you to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N2gRzgjJXZw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N2gRzgjJXZw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N2gRzgjJXZw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/N2gRzgjJXZw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/N2gRzgjJXZw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "N2gRzgjJXZw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/flyFvLCCXiLO14hgF9IdWdhpQ_I\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LmcyLWtUWDBHSU9n",
+    "snippet": {
+      "publishedAt": "2017-04-08T02:14:11.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 15 - Split the Sequence",
+      "description": "On this week's episode I will be discussing and coding the solution to the problem Split the Sequence from APIO 2014.\n\n00:00 - Welcome and Announcements\n03:55 - Split the Sequence Problem\n07:17 - Approach 1: Brute Force\n08:25 - Approach 2: Parenthesis Placement DP\n13:25 - Implementation with Parenthesis Placement\n24:48 - Greedy Observation\n27:05 - Associativity Property Proof\n29:55 - Approach 3: \"Take it or not\" style DP\n32:15 - Implementation of Improved Solution\n39:20 - Approach 4: Convex Hull Optimization\n44:06 - Implementation with Convex Hull Optimization\n58:36 - Solution Retrieval\n\nThank you to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g2-kTX0GIOg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g2-kTX0GIOg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g2-kTX0GIOg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g2-kTX0GIOg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g2-kTX0GIOg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "g2-kTX0GIOg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/m1EGzDYYqjKJauSu5CSZHRXhuEc\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3Lk9xMXNlS0p2ZlFV",
+    "snippet": {
+      "publishedAt": "2017-04-01T02:16:46.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 14 - Exchange Arguments",
+      "description": "This week's episode will cover several greedy problems. The focus will be on proving their correctness through exchange arguments. I'll also present techniques for discovering such properties.\n\n00:00 - Welcome\n03:14 - Maximize Product Problem\n07:35 - Coin Change Discussion\n10:12 - Probing Technique\n15:13 - Proof of Greedy Property for U.S Coins\n22:27 - Probing Overview\n23:35 - Recap for U.S Coin Change\n26:41 - Minimizing Dot Product Problem\n30:53 - Greedy Solution Proof\n39:25 - Exchange Arguments Overview\n44:00 - TheProgrammingContestDivOne Topcoder Problem\n46:40 - Solution Idea Discussion\n56:05 - Implementation of TheProgrammingContestDivOne\n01:04:00 - Next Week Announcements\n\nThank you to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Oq1seKJvfQU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Oq1seKJvfQU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Oq1seKJvfQU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Oq1seKJvfQU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Oq1seKJvfQU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Oq1seKJvfQU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DzZ-exotBflXI_V9XL2nd_CHguU\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LnZ1ZUw4dEREd2ZF",
+    "snippet": {
+      "publishedAt": "2017-03-27T01:44:51.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 13 - YATP w/ Lewin Gan",
+      "description": "This week's episode will feature Lewin Gan. We will be discussing his problem from last year's NAIPC, Yet Another Tree Problem (YATP).\n\n00:00 - Welcome\n00:35 - Description of YATP\n04:50 - Lewin Solution Discussion\n26:40 - Matt Solution Discussion\n37:05 - Next Week Announcements\n\nThank you to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vueL8tDDwfE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vueL8tDDwfE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vueL8tDDwfE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vueL8tDDwfE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vueL8tDDwfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vueL8tDDwfE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PpakuBrLh0swgEsuI5BrnZimZcE\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LjNwazAycDEtd2VV",
+    "snippet": {
+      "publishedAt": "2017-03-19T18:30:35.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 12 - Divide and Conquer on Trees",
+      "description": "This week's episode will cover the divide and conquer technique on trees. This technique is a precursor for understanding the centroid decomposition trees data structure.\n\n00:00 - Welcome\n02:55 - Centroid\n04:50 - Introduction for Divide and Conquer on Trees\n07:47 - Runtime Analysis\n10:30 - Pattern of Subproblems\n11:58 - Yin Yang Paths Problem (Easier Version)\n16:30 - Solution for Easier Version\n21:00 - Extension to more than two Subtrees\n25:07 - Yin Yang Paths Problem\n28:00 - Solution Ideas Discussion\n33:13 - Implementation of Yin Yang Paths\n01:11:45 - Next Week Announcements\n\nThank you to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3pk02p1-weU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3pk02p1-weU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3pk02p1-weU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3pk02p1-weU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3pk02p1-weU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3pk02p1-weU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TzdSki2kLlQuq3Kgw1gbIahQ_CQ\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3Lk9ySDJhaDR5bHY0",
+    "snippet": {
+      "publishedAt": "2017-03-11T04:24:18.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 11 - Convex Hull Optimization",
+      "description": "This week's episode will cover the technique of convex hull optimization. I'll be live coding two problems (Covered Walkway, Machine Works). You can find the links to these problems in the blog.\n\n00:00 - Welcome and Announcements\n04:28 - Covered Walkway Problem\n08:28 - Solution Ideas Discussion\n15:20 - Implementation with Solution Bag\n22:26 - Need for Optimization\n26:42 - Chain of Best Solutions\n30:55 - Invariants\n36:32 - Implementation of Covered Walkway\n47:00 - Machine Works Problem\n50:39 - Solution Ideas Discussion\n56:23 - Implementation with Solution Bag\n01:07:35 - Needs for Convex Hull Optimization\n01:15:45 - Invariants\n01:20:14 - Implementation of Machine Works\n\nThank you to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OrH2ah4ylv4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OrH2ah4ylv4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OrH2ah4ylv4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OrH2ah4ylv4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OrH2ah4ylv4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OrH2ah4ylv4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ub_hOXh7DL7YgmxXYYWi6-DPX3E\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LmNHTHhMZ3FfMk9R",
+    "snippet": {
+      "publishedAt": "2017-03-04T03:25:41.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 10 - Pitcher Pouring",
+      "description": "This week's episode will extend ideas from solution bags to cover pitcher pouring algorithms.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cGLxLgq_2OQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cGLxLgq_2OQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cGLxLgq_2OQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cGLxLgq_2OQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cGLxLgq_2OQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cGLxLgq_2OQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BNKKFR169Nu9_ZGk3fWI_UCQ6pQ\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3Lm9hWXNXbm9oWHBB",
+    "snippet": {
+      "publishedAt": "2017-02-25T03:26:41.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 9 - Solution Bags",
+      "description": "This week's episode will cover solution bags. This is an alternative way of thinking about dynamic programming that yields itself to optimizations using data structures. This episode is a precursor to the convex hull optimization technique.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oaYsWnohXpA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oaYsWnohXpA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oaYsWnohXpA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oaYsWnohXpA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oaYsWnohXpA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oaYsWnohXpA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lGdwSWOn7ymjR8rBGu5ivIOBKqk\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LkJHNHZBb1Y1a1d3",
+    "snippet": {
+      "publishedAt": "2017-02-18T03:17:52.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 7 - Steiner Trees",
+      "description": "This episode will cover Steiner Trees and techniques for efficient solutions for different constraints.\n\n00:00 - Welcome\n01:40 - Introduction to Steiner Trees\n03:50 - Terminals and Steiner points\n05:38 - Karp's NP-Complete problems\n08:18 - First Approach on small number of terminals\n11:55 - \"Spider Man\" Algorithm\n15:13 - Special Cases of Reduced Trees\n16:15 - Caterpillar Graphs\n22:00 - Runtime Analysis of \"Spider Man\" Algorithm\n24:00 - Second Approach, Dynamic Programming\n30:05 - Pseudo-code\n33:18 - Runtime Analysis of Dynamic Programming Method\n34:45 - \"Proof of Complexity\" of Subsets of Subsets\n37:33 - Ticket to Ride Problem\n41:32 - Solution Ideas Discussion\n43:20 - Implementation of Ticket to Ride\n01:06:00 - Brute Force Ideas involving Steiner Points\n01:07:35 - Streaming Setup Discussion\n01:09:30 - Next Week Announcements\n\nThank you to Rockett for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BG4vAoV5kWw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BG4vAoV5kWw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BG4vAoV5kWw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BG4vAoV5kWw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BG4vAoV5kWw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BG4vAoV5kWw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NTQm0JRnPvtYKt0OdbG6Xttm0NM\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LlVyZ1ljZklUNDJN",
+    "snippet": {
+      "publishedAt": "2017-02-19T19:18:19.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 8 - AtCoder w/ Makoto Soejima",
+      "description": "This week’s episode features a special guest, Makoto Soejima. We will be discussing AtCoder and one of his beautiful problems.\n\nYou can find the problem here: http://cf16-exhibition-final.contest.atcoder.jp/tasks/cf16_exhibition_final_i",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UrgYcfIT42M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UrgYcfIT42M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UrgYcfIT42M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UrgYcfIT42M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UrgYcfIT42M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UrgYcfIT42M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Uzjs2h2rUOXySHIjb9EL6p_9JRM\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3Lk9QRFJZa0NXZEdz",
+    "snippet": {
+      "publishedAt": "2017-02-04T03:19:29.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 6 - USACO Dec '16",
+      "description": "This week I will review two problems from a recent USACO contest, the gold problem \"Lasers and Mirrors\" and the platinum problem \"Robotic Cow Herd\".\n\nThe problems can be found here:\nhttp://www.usaco.org/index.php?page=viewproblem2&cpid=671\nhttp://www.usaco.org/index.php?page=viewproblem2&cpid=674",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OPDRYkCWdGs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OPDRYkCWdGs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OPDRYkCWdGs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OPDRYkCWdGs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OPDRYkCWdGs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OPDRYkCWdGs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/olzJxk4k75bdr0n2LipVnLiNb5k\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LmdYbjJ5VUhwdlJF",
+    "snippet": {
+      "publishedAt": "2017-01-28T03:30:07.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 5 - Geometric Sweeps w/ Lewin Gan",
+      "description": "This week's episode features a special guest, Lewin Gan. We will discuss problems involving the geometric sweep idea.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gXn2yUHpvRE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gXn2yUHpvRE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gXn2yUHpvRE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gXn2yUHpvRE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gXn2yUHpvRE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gXn2yUHpvRE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oYlZ2Ekc_DVd6CjGmbw6LRcmHDE\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LlRyLXhFR29CeUZR",
+    "snippet": {
+      "publishedAt": "2017-01-21T02:58:58.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 4 - Segment Trees",
+      "description": "By popular request, this week's episode will cover segment trees. I'll cover both the theory side and implementation of this popular data structure.\n\nYou can practice segment trees on this problem: http://codeforces.com/problemset/problem/52/C\n\n03:12 - Segment tree as a data structure of divide and conquer\n06:42 - Example of using segment tree for range minimum query\n14:17 - Analyzing runtime of queries\n17:01 - Lazy propagation\n20:20 - Example of lazy propagation\n26:25 - Representing tree as an array\n28:52 - Coding segment tree\n51:14 - Announcements\n\nThank you to Mikhail Goncharov for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Tr-xEGoByFQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Tr-xEGoByFQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Tr-xEGoByFQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Tr-xEGoByFQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Tr-xEGoByFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Tr-xEGoByFQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rOVdRKzXgZKBNJ3D1zeWHt0diew\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LnJBMVpldmFtR0Rj",
+    "snippet": {
+      "publishedAt": "2017-01-14T03:10:13.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 3 - Rolling Hashes and Bloom Filters",
+      "description": "This week's episode will cover the natural marriage between rolling hashes and bloom filters.\n\nYou can find the problem covered here: http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1370\nMy suggested follow up problem is Osmosmjerka: http://hsin.hr/coci/contest4_tasks.pdf\nThe analysis of bloom filters and some handy trade-off tables are here: http://pages.cs.wisc.edu/~cao/papers/summary-cache/node8.html\n\n00:43 - Encoding strings as a large numbers\n04:27 - Rolling hash as a deque, \"add last\" and \"poll first\" operations\n10:16 - \"add first\" and \"poll last\" operations\n14:44 - Estimating probability of hash collision\n21:50 - Multiple mods to decrease collisions probability\n26:36 - Rabin-Karp algorithm\n30:09 - Hash of string concatenation\n32:48 - Generalizing rolling hash, e.g. freq. table\n36:13 - \"Hidden Anagrams\" problem\n40:00 - Hash sets are too slow; bloom filter to the rescue\n45:12 - Selecting parameters for bloom filter\n\nThank you to Mikhail Goncharov for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rA1ZevamGDc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rA1ZevamGDc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rA1ZevamGDc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rA1ZevamGDc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rA1ZevamGDc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rA1ZevamGDc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_GAUauM4ClrY4lcMjeH_w7U6B2Y\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LjNWc0k4N3VQdFJV",
+    "snippet": {
+      "publishedAt": "2017-01-07T03:15:35.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 2 - Fancy Antiques w/ Deon Nicholas",
+      "description": "This week's episode will feature a special guest, Deon Nicholas. Deon is an ICPC World Finalist from the University of Waterloo placing 13th in 2015.\n\n01:12 - History behind the problem\n02:57 - Problem statement, example case\n04:55 - Brute force solution\n06:57 - Graph representation \n11:31 - Reducing the problem to vertex cover\n12:48 - A heuristic for vertex cover\n14:07 - High-level solution plan\n15:08 - Deriving algorithm runtime\n19:45 - Improved exponential base\n22:04 - Proof by induction for Fibonacci sequence's growth\n31:04 - Trick for checking subset faster\n36:43 - Reduction to min-cost vertex cover\n38:40 - Sort vertices by degree heuristic\n41:50 - Narayana's cow sequence\n45:03 - Sometimes backtracking is justified\n47:16 - Meet in the middle approach\n57:45 - Deon's company and app\n\nThank you to Mikhail Goncharov for the time links!\n\nWe will discuss his problem Fancy Antiques from NAIPC 2016. You can find the problem here: https://open.kattis.com/problems/antiques\n\nSolutions can be found on David Van Brackle's judging blog: http://serjudging.vanb.org/?p=924",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3VsI87uPtRU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3VsI87uPtRU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3VsI87uPtRU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3VsI87uPtRU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3VsI87uPtRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3VsI87uPtRU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aVofLC-ETlLdZrQ1hHlBZIV9hEs\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LjJQRmw5M1dNX2Fv",
+    "snippet": {
+      "publishedAt": "2016-12-31T03:12:44.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 1 - Trees and Diameters",
+      "description": "This week I will present some properties of trees and how to find useful information about a given tree quickly. I'll also prove the correctness of these techniques.\n\n01:48 - Equivalent definitions of tree\n05:00 - Diameter of graph\n09:04 - Technique of rooting tree\n13:32 - Diameter in O(n) by subtree aggregates\n18:37 - Greedy algorithm to find diameter\n22:45 - Proof of greedy algorithm\n32:28 - Bonus questions for viewers about diameters\n33:50 - Remoteness and center of a tree\n36:50 - How to find center\n38:03 - Proof that center lies on diameter\n46:35 - Centroid definition\n50:00 - Finding centroid\n55:21 - Properties of centroids\n57:38 - Counting diameters problem\n1:06:05 - Announcements for next week\n\nThank you to Mikhail Goncharov for the time links!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2PFl93WM_ao/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2PFl93WM_ao/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2PFl93WM_ao/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2PFl93WM_ao/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2PFl93WM_ao/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2PFl93WM_ao"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5nkWXesmzEe02mSMYMzMNGNDcMo\"",
+    "id": "VVVCTHI3SVNhX1lEeTVxZUFUdXBmMjZ3LmtQYUpmQVV3VmlZ",
+    "snippet": {
+      "publishedAt": "2016-12-24T03:02:44.000Z",
+      "channelId": "UCBLr7ISa_YDy5qeATupf26w",
+      "title": "Episode 0 - Fenwick Trees",
+      "description": "The first broadcast of Algorithms Live! This week will be lecture style. I'll present a popular data structure in competitive programming, the Fenwick Tree. The data structure is also known as a binary indexed tree or BIT.\n\n01:25 - Overview, when a BIT is useful\n02:50 - Range sums\n07:02 - Idea of Fenwick tree; construction by hand\n10:55 - Computing prefix sum\n14:55 - Updating element\n17:12 - Walking the BIT, lowest one bit\n20:33 - Implementing BIT in java\n24:16 - Counting inversions problem\n30:28 - Kth largest element problem\n44:52 - Range updates and point queries\n50:25 - Recommended problems\n52:00 - Next week announcement, chat\n\nThank you to Mikhail Goncharov for the time links!\n\nFor extra practice you can try the following problems:\nhttp://usaco.org/index.php?page=viewproblem2&cpid=91\nhttps://open.kattis.com/problems/moviecollection\n\nTopcoder also has an excellent tutorial on this data structure:\nhttps://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kPaJfAUwViY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kPaJfAUwViY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kPaJfAUwViY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kPaJfAUwViY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kPaJfAUwViY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Algorithms Live!",
+      "playlistId": "UUBLr7ISa_YDy5qeATupf26w",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kPaJfAUwViY"
+      }
+    }
+  }
+]

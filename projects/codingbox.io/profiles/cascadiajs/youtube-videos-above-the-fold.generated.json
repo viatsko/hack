@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fNoy1-gAkVpZEQjakbFcne5aB8k\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLjRiRmo5YWF2UDZZ",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "CascadiaJS 2019 Sights and Sounds",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4bFj9aavP6Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4bFj9aavP6Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4bFj9aavP6Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4bFj9aavP6Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4bFj9aavP6Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4bFj9aavP6Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ytJO3vHZGQAggGt5f8hnQ3UVxqM\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLi1VdVdiVmlyRmow",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:33:12.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Closing CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-UuWbVirFj0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-UuWbVirFj0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-UuWbVirFj0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-UuWbVirFj0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-UuWbVirFj0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-UuWbVirFj0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ctaT4ASlHdTL2WTScrtFIOXi0bo\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLmp2QjhkWUVIZF9N",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:33:15.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Opening Day Two of CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jvB8dYEHd_M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jvB8dYEHd_M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jvB8dYEHd_M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jvB8dYEHd_M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jvB8dYEHd_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jvB8dYEHd_M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QGZ5Q25q3qcjBeJiZHk8TFYbBVY\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLkgzRUxfVHRRc1dN",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:33:09.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Opening CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H3EL_TtQsWM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H3EL_TtQsWM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H3EL_TtQsWM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/H3EL_TtQsWM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/H3EL_TtQsWM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "H3EL_TtQsWM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/k-N0sMVFYho2WhJr_hGMhm2zkuY\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLlZlSWtoZ2ItaTY4",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Futurist Code Bases - Integrating JS of the Future Today | Brian Holt | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VeIkhgb-i68/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VeIkhgb-i68/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VeIkhgb-i68/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VeIkhgb-i68/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VeIkhgb-i68/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VeIkhgb-i68"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kjbrzJrP-yMh8oNdY62-REh92lM\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLnhCOGxrcXhRbHV3",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:33:11.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Machine Learning for Front-End Devs | Charlie Gerard | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nMachine learning can have some pretty complicated concepts to grasp if you’re not a data scientist. However, recent developments in tooling make it more and more accessible for developers and people with little or no experience. In this presentation, we will talk about the different applications, possibilities, tools and resources, as well as show a few examples and demos, so you can get started building your own experiments using machine learning in JavaScript.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xB8lkqxQluw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xB8lkqxQluw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xB8lkqxQluw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xB8lkqxQluw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xB8lkqxQluw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xB8lkqxQluw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/C_PoAEtWZWdlcfgfqAtDRtz-PjQ\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLlpJSWVCT0xPZ1R3",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "How to Have an Amicable Breakup With A JavaScript Library | Daria Caraway | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nChoosing a JavaScript library is a lot like dating: the longer you commit yourself, the messier it is when you decide to break up.  Whether something better comes along, or the library is deprecated, changing a dependency often requires a lot of time or leaves the code in a less attractive state. In this talk you will learn some techniques that will help ease the pain of this situation.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZIIeBOLOgTw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZIIeBOLOgTw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZIIeBOLOgTw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZIIeBOLOgTw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZIIeBOLOgTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZIIeBOLOgTw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/i9wcVkXKR15pHjqR2Fjj4jEPQoY\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLlNEZHNENUFtS1lB",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:33:00.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Accessibility is a Hydra | EJ Mason | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nWhen Hercules fought the hydra, its heads would grow back no matter how many times he cut them off. Web accessibility professionals put repeated effort toward fighting accessibility barriers, and often feel like their work is never done. If we want to prevail against accessibility barriers, we have to understand our own hydra: we have to talk about ableism.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SDdsD5AmKYA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SDdsD5AmKYA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SDdsD5AmKYA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SDdsD5AmKYA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SDdsD5AmKYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SDdsD5AmKYA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2gvSprOgNiAP0-bGQw1aO5R6TUM\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLmRIUndtdlduYmxF",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Rebuilding a Faster, Lazier Slack | Samantha Siow | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nA new version of Slack is rolling out for our desktop customers, built from the ground up to be faster, more efficient, and easier to work on. In this talk, I’ll focus on our move from an eager data model to a lazily loaded and incomplete data model, and how that made for a speedier Slack experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dHRwmvWnblE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dHRwmvWnblE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dHRwmvWnblE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dHRwmvWnblE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dHRwmvWnblE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dHRwmvWnblE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xFc7LGRLaR_LhVF3b2Hl0knsMAY\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLndtYTJmX2NxUm53",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Authentication for the REST of Us | Divya Sasidharan | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nAuthentication is a complicated subject that is hard to grok, let’s unpack all kinds of auth concepts and examine how we can apply them to our applications.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wma2f_cqRnw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wma2f_cqRnw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wma2f_cqRnw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wma2f_cqRnw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wma2f_cqRnw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wma2f_cqRnw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cPAQo4-3ukdng0nkHBdCJ_990Cs\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLmZySUZrWGhIUjRr",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Making Reusable SVGs with React | Isabela Moreira | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nLearn how to merge your creative side with your coding side in this live-coding talk! Leveraging the practice of reusable code and React components, we’ll create SVG images and animations that can be extended, adapted, and reused throughout your app. See how a few tweaks and props injected into your standard SVG code can give you the power of composable and reusable components!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/frIFkXhHR4k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/frIFkXhHR4k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/frIFkXhHR4k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/frIFkXhHR4k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/frIFkXhHR4k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "frIFkXhHR4k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/f4Vsa-sgm1iuOA3bzHoXUlm9nwQ\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLkpFcFNISTROeWRn",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:33:07.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Portable, Distributable Web Content with Web Packaging | Kinuko Yasuda | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nThe Chrome Loading team has been tackling various “page loading” problems. From optimizing the networking and loading stack, to helping web developers make their site's experience better with new powerful web platform features, we strive for enabling delightful user experiences on the web. In this talk I'd like to talk about one of those new features, which is called \"Web Packaging\".  Web Packaging is a set of proposals that allows web content to be digitally signed and packaged, so that the content can become \"portable\", i.e. it can not only be retrieved from the original publisher’s site, but also via a fast cache, over p2p protocol, via an SD card, or virtually anything you can think of.  We believe this can increase the availability of web content for a wider audience, even where internet connectivity isn’t always available!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JEpSHI4Nydg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JEpSHI4Nydg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JEpSHI4Nydg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JEpSHI4Nydg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JEpSHI4Nydg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JEpSHI4Nydg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3P5glRyQZH32zrs51kMzg0qiijw\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLkdUa3A2ZDFxNUlB",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Controlling a Swarm of Drones with JavaScript | Jasper Schulte | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nWe're pretty used to drones flying around us by now. Until now most of these drones were still controlled by a human operator. But what if we could control them solely using our code? In this talk I will show how to control multiple drones using JavaScript. With the help of Node.js we'll send commands to the drones and read back their telemetry. I will talk about the difficulties of flying and keeping control of a drone completely without human interference. At the end we will actually have a small swarm of drones flying on stage!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GTkp6d1q5IA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GTkp6d1q5IA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GTkp6d1q5IA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GTkp6d1q5IA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GTkp6d1q5IA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GTkp6d1q5IA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/buClDc9Nuzyn6HETFeGfNgefBHA\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLjN3eDgwNkhPZ25B",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:33:15.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "When Porgs Scream at Webpack and Other Stories | Dominik Kundel | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nFor many web developers the world of hardware is very intimidating. There is no easy way to go back from a broken to a working project state. You break something, you replace it — there is no Ctrl/Cmd + z. However, getting a project to work is incredibly fun and rewarding. In this talk we'll be talking about different ways you can use your JavaScript knowledge to build your own hardware projects.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3wx806HOgnA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3wx806HOgnA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3wx806HOgnA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3wx806HOgnA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3wx806HOgnA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3wx806HOgnA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NVqlGwS1eVabsJjDHXLE5fFwlRc\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLjZ0U1luQ1E1Z0lv",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Making Newbie Friendly Codebases | Jerome Hardaway | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nThis talk is about simple rules to making your codebases newbie friendly and jerk proof.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6tSYnCQ5gIo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6tSYnCQ5gIo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6tSYnCQ5gIo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6tSYnCQ5gIo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6tSYnCQ5gIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6tSYnCQ5gIo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/O9wWJcqgbvZzGFL-rvjqof8Ttfc\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLlVnOWs4Sl81d3Zz",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "How to Succeed with Inclusion Initiatives | Ginger Chien | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nLeadership and staff must take intentional, self-aware personal risks to steer workplace culture toward inclusion and its economic benefits. This requires permission and a moral directive from the top to create space, incentivizing management to role model vulnerable and remarkable behaviors, giving employees opportunities to participate in and create their own inclusion activities that involve discovery and testing of personal comfort zones, and to openly reward successes.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ug9k8J_5wvs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ug9k8J_5wvs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ug9k8J_5wvs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ug9k8J_5wvs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ug9k8J_5wvs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ug9k8J_5wvs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7U23yo-Z5hgiE1d1po8f-NQdJBE\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLnFWTW81NEJVcUVB",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:33:04.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "Fair Trade Open Source | Eran Hammer | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nWhat does “sustainable open source” means and how we can create a common vocabulary discussing it? Different people have very different motivations behind their open source work and what makes it sustainable (for them). We'll take a strall through the open source funding landscape and discuss what fairness means.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qVMo54BUqEA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qVMo54BUqEA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qVMo54BUqEA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qVMo54BUqEA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qVMo54BUqEA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qVMo54BUqEA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RO2YnmOx4vU5KneTZWXw3URW3_8\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLndNQVREZTJmeXdJ",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:33:19.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "The Death of the Full Stack Developer | Johnny Ray Austin | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nWhat does it even mean to be a full stack developer in 2019? Can one developer realistically have a solid understanding of all the components of a modern web stack? Let's zoom out and talk about just how far we've come, and how to set realistic expectations for developers.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wMATDe2fywI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wMATDe2fywI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wMATDe2fywI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wMATDe2fywI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wMATDe2fywI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wMATDe2fywI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OHXG6Tjgm3h3AbrrKa9jPbzIApo\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLnVaZFJZUWJJdk1z",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:48.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "The Programmer's Bookshelf | LisaBacker | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nThe Pragmatic Programmer, The Mythical Man-Month, The Cathedral & the Bazaar - these are among the classic works that we are told should be on every programmer's bookshelf. Often, they make it to the shelf, but remain unread. Have you ever wondered why these books are considered such beacons to our community? Have you maybe even felt guilty for not reading them all? We'll go through the \"cliff notes\" edition of these classics, and even a few future classics to inspire you to check out what’s on your own bookshelf.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uZdRYQbIvMs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uZdRYQbIvMs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uZdRYQbIvMs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uZdRYQbIvMs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uZdRYQbIvMs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uZdRYQbIvMs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/So0c0qo-liIjF6Wz6cJeDUfoJN4\"",
+    "id": "VVVJUDI0NGlOemJuNGlFa0RPZ2N6dmNRLm4yWEhsR0Nsd3dr",
+    "snippet": {
+      "publishedAt": "2019-11-27T22:32:49.000Z",
+      "channelId": "UCIP244iNzbn4iEkDOgczvcQ",
+      "title": "To all the Code I've Loved Before | Yuraima Estevez | CascadiaJS 2019",
+      "description": "Join us at CascadiaJS 2020 in Bend, OR 🌲  https://2020.cascadiajs.com\n---\n\nFrom writing your first “Hello, World!” program, to maintaining your an unruly legacy system, and everything in between, the code we write shapes us.  This is a love letter to all the code I’ve written, read, reviewed and (sometimes) loathed.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n2XHlGClwwk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n2XHlGClwwk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n2XHlGClwwk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/n2XHlGClwwk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/n2XHlGClwwk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cascadia JS",
+      "playlistId": "UUIP244iNzbn4iEkDOgczvcQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "n2XHlGClwwk"
+      }
+    }
+  }
+]

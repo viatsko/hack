@@ -1,0 +1,767 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HUBvJaCRsYuZlv2Zn86_3Bypbow\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLldsako1Z3V6Y0xz",
+    "snippet": {
+      "publishedAt": "2013-03-07T19:42:15.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Brad Hill, \"HTML5 Security Realities\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WljJ5guzcLs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WljJ5guzcLs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WljJ5guzcLs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WljJ5guzcLs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WljJ5guzcLs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WljJ5guzcLs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ac_pCQTOxB9zsqX8KBobuQDdKh0\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLlhLcGlQNjBIWHdN",
+    "snippet": {
+      "publishedAt": "2013-02-26T00:00:54.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Eric Meyer, \"The Era of Intentional Layout\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XKpiP60HXwM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XKpiP60HXwM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XKpiP60HXwM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XKpiP60HXwM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XKpiP60HXwM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XKpiP60HXwM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9fJCpb04-WbBtI138FelHw-rdxY\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLlhRV09LQkJKMTE0",
+    "snippet": {
+      "publishedAt": "2013-02-25T23:16:34.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Nicolas Gallagher, \"Questioning best practices\" at W3Conf",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XQWOKBBJ114/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XQWOKBBJ114/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XQWOKBBJ114/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XQWOKBBJ114/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XQWOKBBJ114/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XQWOKBBJ114"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/886bjOKBD0XLMTvWTmucottOMKk\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLnZLMXRsTE9hdnZN",
+    "snippet": {
+      "publishedAt": "2013-02-26T15:12:39.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Léonie Watson, \"Design like you give a damn: Practical accessibility for web pros\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vK1tlLOavvM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vK1tlLOavvM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vK1tlLOavvM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vK1tlLOavvM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vK1tlLOavvM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vK1tlLOavvM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CoB-S55jffzsFianrNTgScB818I\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLjNpa3llN1FjN0Fr",
+    "snippet": {
+      "publishedAt": "2013-02-25T20:02:19.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Lea Verou, \"More CSS Secrets: Another 10 things you may not know about CSS\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3ikye7Qc7Ak/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3ikye7Qc7Ak/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3ikye7Qc7Ak/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3ikye7Qc7Ak/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3ikye7Qc7Ak/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3ikye7Qc7Ak"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9yB76BDTEE6XxATYptN8xD0_6L4\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLkQ3Z3NwN1JuRGZj",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Alexandru Chiculita, \"The Making of CSSFilterLab\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D7gsp7RnDfc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D7gsp7RnDfc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D7gsp7RnDfc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D7gsp7RnDfc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D7gsp7RnDfc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "D7gsp7RnDfc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/M7dLWFH_nqdLpNbRDLlpJvh4yoI\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLjlqTTdVTnBwMjBF",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "CJ Gammon, \"Do androids read electric books?\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9jM7UNpp20E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9jM7UNpp20E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9jM7UNpp20E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9jM7UNpp20E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9jM7UNpp20E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9jM7UNpp20E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7Nu05Jt58cCPk3STBg9Mhqvx5p0\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLjNBZmktdi1tX0dj",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Tomomi Imura, \"Mobile Web: Real Life Examples of HTML5 for Mobile\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3Afi-v-m_Gc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3Afi-v-m_Gc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3Afi-v-m_Gc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3Afi-v-m_Gc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3Afi-v-m_Gc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3Afi-v-m_Gc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KyNx8ZGYgRZILl7MEnNk7jiLVAI\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLmRDRjM5RnJPZUlF",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Luz Caballero, \"Device (dis)orientation?\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dCF39FrOeIE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dCF39FrOeIE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dCF39FrOeIE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dCF39FrOeIE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dCF39FrOeIE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dCF39FrOeIE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OieiS86PA11ID28WB0fG85CLHBc\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLmdUSEFuLW5rUW5J",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Ariya Hidayat, \"Fluid User Interface with Hardware Acceleration\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gTHAn-nkQnI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gTHAn-nkQnI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gTHAn-nkQnI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gTHAn-nkQnI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gTHAn-nkQnI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gTHAn-nkQnI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FZ154Y7mML7IGmGgAIOImTOD2mI\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLkxKUzRmQmpkUE00",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Joshua Davis, \"Beyond Play: the Art of Creative Coding\" at W3Conf 2013 (Strong Language)",
+      "description": "Warning: This talk contains some strong language, as well as inspiration.\n\nW3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LJS4fBjdPM4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LJS4fBjdPM4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LJS4fBjdPM4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LJS4fBjdPM4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LJS4fBjdPM4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LJS4fBjdPM4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W_IIA5YylnF8hXYiZJe8VROXgLg\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLlNDZlZuNEpZNXlr",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Jacob Rossi, \"Pointing Forward\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SCfVn4JY5yk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SCfVn4JY5yk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SCfVn4JY5yk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SCfVn4JY5yk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SCfVn4JY5yk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SCfVn4JY5yk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/08nymd6_mXure9v5Zq6Q1AWFPQg\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLkR0MGYyWGR2cmlR",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Kit Cambridge, \"EcmaScript Next: The Subtleties of ES 6\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dt0f2XdvriQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dt0f2XdvriQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dt0f2XdvriQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dt0f2XdvriQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Dt0f2XdvriQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Dt0f2XdvriQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_7VYlpHPx46ijr4XewhaPdAkvEU\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLmVvckZGdTNBLW0w",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Vicki Murley, \"Know Your Platform: Desktop vs. Mobile\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eorFFu3A-m0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eorFFu3A-m0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eorFFu3A-m0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eorFFu3A-m0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eorFFu3A-m0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eorFFu3A-m0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HsMYyYYzoWNkVO4_QuDuIh2-uIc\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLnI4eGw5aVNBWE8w",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Parashuram Narasimhan, \"Writing for Web pages for the offline world\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r8xl9iSAXO0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r8xl9iSAXO0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r8xl9iSAXO0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r8xl9iSAXO0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r8xl9iSAXO0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "r8xl9iSAXO0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/n3x7agv3nFvSoR0SKN5T7CvIRQY\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLjJDZ0tHWjRib0g0",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Alexis Deveria \"The top web features from caniuse.com you can use today\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2CgKGZ4boH4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2CgKGZ4boH4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2CgKGZ4boH4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2CgKGZ4boH4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2CgKGZ4boH4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2CgKGZ4boH4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VETl4f1liWHPkAwWHkgdy9F_mhw\"",
+    "id": "VVVvd243OTN1SVFVd2pjRFBXaXVtN0lRLmNlOHBJdEt6Si1z",
+    "snippet": {
+      "publishedAt": "2013-02-25T19:14:17.000Z",
+      "channelId": "UCown793uIQUwjcDPWium7IQ",
+      "title": "Doug Schepers & Janet Swisher, \"Web Platform Docs and Community\" at W3Conf 2013",
+      "description": "W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als. If you are a web devel­op­er or designer want­ing to hear the lat­est news on HTML5, CSS, the open web platform and your place in it, come join us!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ce8pItKzJ-s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ce8pItKzJ-s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ce8pItKzJ-s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ce8pItKzJ-s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ce8pItKzJ-s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "W3Conf",
+      "playlistId": "UUown793uIQUwjcDPWium7IQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ce8pItKzJ-s"
+      }
+    }
+  }
+]

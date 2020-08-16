@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/15ptYdUISr7vZndcnJcq-2kLyDY\"",
+      "id": "UC3KEoMzNz8eYnwBC34RaKCQ",
+      "snippet": {
+        "title": "Simone Giertz",
+        "description": "Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.\n\nSwedish but sound American just to confuse you.\n\nWant to send me something? All poop-free packages go here:\n\n60 29th St. \nSuite #217\nSan Francisco, \nCA 94110",
+        "customUrl": "simonegiertz",
+        "publishedAt": "2013-03-15T19:56:07.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJw_Z4n-kgwuaBYo_9tLksf7Lhp_bpkGDMOX-w=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJw_Z4n-kgwuaBYo_9tLksf7Lhp_bpkGDMOX-w=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJw_Z4n-kgwuaBYo_9tLksf7Lhp_bpkGDMOX-w=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Simone Giertz",
+          "description": "Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.\n\nSwedish but sound American just to confuse you.\n\nWant to send me something? All poop-free packages go here:\n\n60 29th St. \nSuite #217\nSan Francisco, \nCA 94110"
+        },
+        "country": "SE"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UU3KEoMzNz8eYnwBC34RaKCQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU3KEoMzNz8eYnwBC34RaKCQ"
+  },
+  "displayName": "Simone Giertz",
+  "description": "Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.\n\nSwedish but sound American just to confuse you.\n\nWant to send me something? All poop-free packages go here:\n\n60 29th St. \nSuite #217\nSan Francisco, \nCA 94110",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJw_Z4n-kgwuaBYo_9tLksf7Lhp_bpkGDMOX-w=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJw_Z4n-kgwuaBYo_9tLksf7Lhp_bpkGDMOX-w=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJw_Z4n-kgwuaBYo_9tLksf7Lhp_bpkGDMOX-w=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

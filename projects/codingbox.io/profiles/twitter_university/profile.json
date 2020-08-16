@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZU2Ds8aXqKcXq_gDNGiEdWmwvN4\"",
+      "id": "UCeDh9omC_xMKrar2srQZiLg",
+      "snippet": {
+        "title": "Twitter University",
+        "description": "Here at Twitter University, we're educating our own engineers & the technical community at large through discussion of emerging technologies, sharing of new ideas, and contributions to Open Source. Follow us at http://twitter.com/university for all the latest from our team!",
+        "publishedAt": "2013-08-14T22:53:51.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxEFotz_5MVH-XSq8EnT-ARErScxOW-NDrAlg=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxEFotz_5MVH-XSq8EnT-ARErScxOW-NDrAlg=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxEFotz_5MVH-XSq8EnT-ARErScxOW-NDrAlg=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Twitter University",
+          "description": "Here at Twitter University, we're educating our own engineers & the technical community at large through discussion of emerging technologies, sharing of new ideas, and contributions to Open Source. Follow us at http://twitter.com/university for all the latest from our team!"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "LLeDh9omC_xMKrar2srQZiLg",
+          "uploads": "UUeDh9omC_xMKrar2srQZiLg",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUeDh9omC_xMKrar2srQZiLg"
+  },
+  "displayName": "Twitter University",
+  "description": "Here at Twitter University, we're educating our own engineers & the technical community at large through discussion of emerging technologies, sharing of new ideas, and contributions to Open Source. Follow us at http://twitter.com/university for all the latest from our team!",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxEFotz_5MVH-XSq8EnT-ARErScxOW-NDrAlg=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxEFotz_5MVH-XSq8EnT-ARErScxOW-NDrAlg=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxEFotz_5MVH-XSq8EnT-ARErScxOW-NDrAlg=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

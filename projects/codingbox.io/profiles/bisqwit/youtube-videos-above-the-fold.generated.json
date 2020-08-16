@@ -1,0 +1,852 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0-tWH63rsjtvDRCZX0fGk_xfMnQ\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLmh4T3dfcDBrTGZJ",
+    "snippet": {
+      "publishedAt": "2020-04-06T16:00:24.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Texture Mapping & Polygon Rasterizing Tutorial (2/2) [C++20]",
+      "description": "Textured polygons are the foundation of nearly all 3D games in existence. Used before even 3D-capable GPUs were a thing, they were rendered using nothing but software. How was that achieved? Let’s explore an easy and intuitive method. We create an extensible 3D polygon rasterizer using nothing but standard C++20 (and libSDL for 2D graphics).\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nYou can contribute subtitles: http://www.youtube.com/timedtext_video?ref=share&v=hxOw_p0kLfI\n\nDownloads:\nhttps://bisqwit.iki.fi/jkp/polytut/\n\nMusic list (s = SPC-OPL conversion):\n— Super Mario RPG ­— Sunken Ship (s)\n— Tales of Phantasia — Final Act (s)\n— Final Fantasy V — World 1+2 (s)\n— Famicom Tantei Club 2 — Interviews (s)\n— Energy Breaker — Heroes’ Adventure (s)\n— Final Fantasy Mystic Quest — Shrine (s)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hxOw_p0kLfI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hxOw_p0kLfI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hxOw_p0kLfI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hxOw_p0kLfI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hxOw_p0kLfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hxOw_p0kLfI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xtuis2TyHxqdQ4NtSJRuDFsuzg4\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLlBhaGJORnlwdWJF",
+    "snippet": {
+      "publishedAt": "2020-03-20T17:00:16.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Texture Mapping & Polygon Rasterizing Tutorial (1/2) [C++20]",
+      "description": "Textured polygons are the foundation of nearly all 3D games in existence. Used before even 3D-capable GPUs were a thing, they were rendered using nothing but software. How was that achieved? Let’s explore an easy and intuitive method. We create an extensible 3D polygon rasterizer using nothing but standard C++20 (and libSDL for 2D graphics).\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nYou can contribute subtitles: http://www.youtube.com/timedtext_video?ref=share&v=PahbNFypubE\n\nDownloads:\nhttps://bisqwit.iki.fi/jkp/polytut/\n\nMusic list (s = SPC-OPL conversion):\n— Energy Breaker — Golden-colored Wind (s)\n— Final Fantasy V — World 1+2 (s)\n— Star Ocean — Past Days (s)\n— Energy Breaker — Heroes’ Adventure (s)\n— Final Fantasy Mystic Quest — Focus Tower (s)\n— Final Fantasy Mystic Quest — Shrine (s)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PahbNFypubE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PahbNFypubE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PahbNFypubE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PahbNFypubE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PahbNFypubE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PahbNFypubE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fW4uOLFG4aglXqgFSkheJVYvI-0\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLkRnaVFjSmZUWUtV",
+    "snippet": {
+      "publishedAt": "2020-02-04T19:45:00.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Dual-Boot Windows-Linux Tutorial (& NVME & LVM & disk migration)",
+      "description": "Do you have a computer that is currently infested with Microsoft Windows? Here is how you can install Linux and have both operating systems operate side-by-side with a “dual booting” solution. Later in the video I’ll show also how to remove Windows altogether and reclaim the disk space for Linux.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nYou can contribute subtitles: http://www.youtube.com/timedtext_video?ref=share&v=DgiQcJfTYKU\n\nNote: Like hamburger advertisements, or my DOS editor, much of this video is built solely for presentation and education purposes, with varying degrees of craftiness. See how many discrepancies you can spot.\n\nMusic list (s = SPC-OPL conversion):\n— The Incredible Machine — Bang Bang\n— Aryol — Arrest (s)\n— Final Fantasy Mystic Quest — Mountain Range (s)\n— Final Fantasy Mystic Quest — Fossil Labyrinth (s)\n— Final Fantasy Mystic Quest — Beautiful Forest (s)\n— Final Fantasy V — The Airship (s)\n— Energy Breaker — Wind that whips (s)\n— Live a Live — Captain of Shooting Stars (s)\n\n#linux #dualboot #tutorial",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DgiQcJfTYKU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DgiQcJfTYKU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DgiQcJfTYKU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DgiQcJfTYKU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DgiQcJfTYKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DgiQcJfTYKU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/16QnE3z1Z0owcoPXlWqXn3M75sc\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLlpNQlFtaE84S3FJ",
+    "snippet": {
+      "publishedAt": "2019-12-23T16:30:15.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Which editor/IDE does Bisqwit use? Answers & some history.",
+      "description": "The most frequently asked question in my channel’s comments is which editor/IDE I use. This video answers that question and provides some history.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nYou can contribute subtitles: http://www.youtube.com/timedtext_video?ref=share&v=9It7Pi8VRBM\n\n#ide #bisqwit #editor\n\nThe Github repositories for That Editor and That Terminal can be found at: https://github.com/bisqwit?tab=repositories",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZMBQmhO8KqI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZMBQmhO8KqI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZMBQmhO8KqI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZMBQmhO8KqI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BueN64Z34MaHkDCJQmyPwHEofuI\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLmc5X0ZZUkFmeXFR",
+    "snippet": {
+      "publishedAt": "2019-11-24T02:12:19.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "x86 mov insns & short history of the most popular CPU architecture",
+      "description": "Intel & AMD are the two main players responsible for shaping the x86_64 architecture that is used today in almost all PCs. But did you know that a company called Zilog also had a hand in it? This video studies the tale of register-to-register MOVe instructions in the x86_64 arch, and the history that led into it.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nYou can contribute subtitles: http://www.youtube.com/timedtext_video?ref=share&v=g9_FYRAfyqQ\n\nMailing address:\n J. YLILUOMA\n P.O. Box 16\n FI–04301 TUUSULA\n FINLAND\n\nDownloads:\n— The original presentation (ODP format): https://bisqwit.iki.fi/jkp/x86registers.odp (for use as reference)\n\nAcknowledgement:\n— Music: Car Setting :: The King of Rally :: Yusuke Takahama (SPC-OPL3 conversion)\n— Music: Game04 :: Descent :: Interplay\n— Music: Fierce Battle :: Final Fantasy V :: Nobuo Uematsu (SPC-OPL3 conversion)\n— Music: Oasis :: Tales of Phantasia :: Motoi Sakuraba (SPC-OPL3 conversion)\n— Music: Heroes’ Adventure :: Energy Breaker :: Yukio Nakajima (SPC-OPL3 conversion)\n— SFX: Mostly from YouTube Audio Library. Some from The Guardian Legend & Lunar Ball.\n\nSPC-OPL3 conversion refers to the homebrew process described in this video: https://youtu.be/7IeO7CYFd9E\n\n#bisqwit #x86_64 #tutorial",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g9_FYRAfyqQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g9_FYRAfyqQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g9_FYRAfyqQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g9_FYRAfyqQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g9_FYRAfyqQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "g9_FYRAfyqQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/T1iwCxLcA7xEDqKrCVnsx-B4HWs\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLnQ5bDA1OHZyVVJv",
+    "snippet": {
+      "publishedAt": "2019-10-11T19:30:01.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Bisqwit analyses TempleOS & its sole author, Terry A. Davis",
+      "description": "This is a frequently asked question. What better way is there to answer plenty of people at once than to make a video about it?\nIn this video, I explain a bit what TempleOS is, who the author is, and then I give out my view about it. If you just want to see my reaction, skip to 4:00.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nTwitter: https://twitter.com/RealBisqwit\nPatreon: https://patreon.com/Bisqwit (alternatives at http://iki.fi/bisqwit/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nYou can contribute subtitles: https://www.youtube.com/timedtext_video?ref=share&v=t9l058vrURo\n\nVideo footage used for illustrations of TempleOS:\n— https://youtu.be/3wsOKDuD6EE\n— https://youtu.be/5IDewQgs44c\n— https://youtu.be/KeEMSpO5EMk\n— https://youtu.be/UCgoxQCf5Jg\n— https://youtu.be/UETsHGAwWZ8\n— https://youtu.be/utfl7dKjLnE\n— https://youtu.be/Tar8kV39P2E\nPicture at 4:05 created by reddit.com/u/kneecapsoup",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t9l058vrURo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t9l058vrURo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t9l058vrURo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t9l058vrURo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t9l058vrURo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "t9l058vrURo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fSE8sOHCwFnAOZpEo9kJdn022eg\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLkpNel9QWW5wSlBZ",
+    "snippet": {
+      "publishedAt": "2019-09-14T20:00:00.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Dyna Blaster ※ reverse engineering on DOS ※ Cracking VG Passwords S2e3",
+      "description": "In the advent of 1990 I played NES games a lot. Knowing nothing about programming but being geekish by nature, I obsessed over cracking the password systems in those games. In this series we will reverse engineer some of these password generators.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nTwitter: https://twitter.com/RealBisqwit\nPatreon: https://patreon.com/Bisqwit (alternatives at http://iki.fi/bisqwit/donate.html)\nTwitch: http://twitch.tv/RealBisqwit\nHomepage: http://iki.fi/bisqwit/\n\nYou can contribute subtitles: http://www.youtube.com/timedtext_video?ref=share&v=JMz_PYnpJPY\n\nDownloads:\nhttps://bisqwit.iki.fi/jkp2/dynablaster-passwords.php\nhttps://github.com/bisqwit/password_codecs/\n\nChannels of the guest star Toni Rosendahl, man of gadgets:\nhttps://www.youtube.com/channel/UC3rC-hEBYllV9y6OcLPfEZw https://www.youtube.com/user/trflight\n\nMore DOS stuff on my channel:\n– https://youtu.be/N8elxpSu9pw Raytracer\n– https://youtu.be/vkUwT9U1GzA OpenGL\n– https://youtu.be/ZwcFV3KrnQA MIDI player\nMore cracking of VG passwords:\n— https://www.youtube.com/playlist?list=PLzLzYGEbdY5nEFQsxzFanSDv_38Hz0w7B\n– https://www.youtube.com/playlist?list=PLzLzYGEbdY5mmad-FKPIlmYUzhKQKr4qy",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JMz_PYnpJPY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JMz_PYnpJPY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JMz_PYnpJPY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JMz_PYnpJPY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JMz_PYnpJPY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JMz_PYnpJPY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/b8-rw54OwC89h1CCN6rLxnc4dUk\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLndpT2FseENRMU13",
+    "snippet": {
+      "publishedAt": "2019-08-31T20:59:00.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Metroid ※ Cracking VG Passwords S2e2",
+      "description": "In the advent of 1990 I played NES games a lot. Knowing nothing about programming but being geekish by nature, I obsessed over cracking the password systems in those games. In this series we will study some of these systems.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nTwitter: https://twitter.com/RealBisqwit\nPatreon: https://patreon.com/Bisqwit (alternatives at http://iki.fi/bisqwit/donate.html)\nTwitch: http://twitch.tv/RealBisqwit\nHomepage: http://iki.fi/bisqwit/\n\nYou can contribute subtitles: http://www.youtube.com/timedtext_video?ref=share&v=wiOalxCQ1Mw\n\nDownloads:\nhttps://iki.fi/bisqwit/jkp2/metroid-passwords.cc\nhttps://github.com/bisqwit/password_codecs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wiOalxCQ1Mw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wiOalxCQ1Mw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wiOalxCQ1Mw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wiOalxCQ1Mw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wiOalxCQ1Mw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wiOalxCQ1Mw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Yq2o27sdZe5qtrLYzC8Mqd0uOpM\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLk9LalhweFRHRUJr",
+    "snippet": {
+      "publishedAt": "2019-07-17T21:30:00.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "How Bisqwit replies to your comments (2019 edition)",
+      "description": "A public service announcement on how YouTube works for content creators.\n\nMay contain trace amounts of hyperbole.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nIn this video I explain the problem where people post YouTube comments, but the content creator either never sees the comment, or is unable to reply because the tools provided by Google just make you jump through too many hoops to do it. I show what causes the problem and how to avoid it. Unfortunately, as a video author, there's absolutely nothing I can do except to create this video to tell people about the problem.\n\nYou can contribute caption translations: https://www.youtube.com/timedtext_video?v=OKjXpxTGEBk&ar=3\n\nMusic:\n— Chrono Trigger :: Guardia Millennial Fair :: Yasunori Mitsuda (converted into MIDI and played through OPL3 emulation through homebrew software)\n— Chrono Trigger :: Kingdom Trial :: Yasunori Mitsuda (SPC-OPL3 conversion, with some changes)\n— Star Ocean :: All for One / Sylvalant Theme :: Motoi Sakuraba (SPC-OPL3 conversion, with some changes)\n— Chrono Trigger :: Morning Sunlight :: Yasunori Mitsuda (SPC-OPL3 conversion, with some changes)\n— Chrono Trigger :: At the Bottom of Night / Sad theme :: Yasunori Mitsuda (SPC-OPL3 conversion, with some changes)\n\n#Bisqwit #Replying #Comments",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OKjXpxTGEBk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OKjXpxTGEBk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OKjXpxTGEBk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OKjXpxTGEBk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BcSwdQXV_V5cjVs6ropr0l3H6fk\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLjd0VXRPXzJCa25R",
+    "snippet": {
+      "publishedAt": "2019-07-11T01:00:01.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "G.I.Joe The Atlantis Factor ※ Cracking VG Passwords S2e1",
+      "description": "In the advent of 1990 I played NES games a lot. Knowing nothing about programming but being geekish by nature, I obsessed over cracking the password systems in those games. In this series we will study some of these systems.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nTwitter: https://twitter.com/RealBisqwit\nPatreon: https://patreon.com/Bisqwit (alternatives at http://iki.fi/bisqwit/donate.html)\nTwitch: http://twitch.tv/RealBisqwit\nHomepage: http://iki.fi/bisqwit/\n\nYou can contribute subtitles: http://www.youtube.com/timedtext_video?ref=share&v=7tUtO_2BknQ\n\nDownloads:\nhttps://iki.fi/bisqwit/jkp2/gijoeatlantis.scm\nhttps://github.com/bisqwit/password_codecs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7tUtO_2BknQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7tUtO_2BknQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7tUtO_2BknQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7tUtO_2BknQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7tUtO_2BknQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7tUtO_2BknQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6gRQeVbCLf0-Dar0IPnamENFskc\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLjV0ZVJnZHN2d0VJ",
+    "snippet": {
+      "publishedAt": "2019-06-22T06:00:04.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Iron Sword ※ Cracking Videogame Passwords S1e13 (Wizards & Warriors II)",
+      "description": "In the advent of 1990 I played NES games a lot. Knowing nothing about programming but being geekish by nature, I obsessed over cracking the password systems in those games. In this series we will study some of these systems.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit (alternatives at https://iki.fi/bisqwit/donate.html)\nPatreon: https://patreon.com/Bisqwit\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nYou can contribute subtitles: https://www.youtube.com/timedtext_video?ref=share&v=5teRgdsvwEI\n\nDownloads:\nhttps://iki.fi/bisqwit/jkp2/ironswordpass.php\nhttps://iki.fi/bisqwit/jkp2/wizwar2.php\n\n#Bisqwit #Programming #ReverseEngineering #Password #NES",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5teRgdsvwEI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5teRgdsvwEI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5teRgdsvwEI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5teRgdsvwEI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5teRgdsvwEI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5teRgdsvwEI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XDq8sBrQ7LSY_pP68VxqS9f7X9A\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLncxQ3czS0ZQaDFB",
+    "snippet": {
+      "publishedAt": "2019-05-31T19:09:23.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "C++ Parameter Declaration Tutorial :: Purpose of different references",
+      "description": "Reference, const reference, rvalue reference, lvalue reference, pointer, const pointer, by value, copy, move… This video explains it all.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nYou can contribute subtitles: http://www.youtube.com/timedtext_video?ref=share&v=w1Cw3KFPh1A\n\nMailing address:\n J. YLILUOMA\n P.O. Box 16\n FI–04301 TUUSULA\n FINLAND\n\nAcknowledgement:\n— Music: various :: Amachi — NostalgiaMusic.com \n— Music: House :: Wonder Project J :: Akihito Mori (SPC-OPL3 conversion)\n— SFX: Mostly from YouTube Audio Library.\n— Video footage contributed by s1xpence, Catsbane and Blizzardo1.\n\nSPC-OPL3 conversion refers to the homebrew process described in this video: https://youtu.be/7IeO7CYFd9E\n\n#bisqwit #cplusplus #tutorial",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w1Cw3KFPh1A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w1Cw3KFPh1A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w1Cw3KFPh1A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/w1Cw3KFPh1A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/w1Cw3KFPh1A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "w1Cw3KFPh1A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-NTk2AAAimJ8UdoTLFuhavdLMg0\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLmhGUG9EYUJUN0d3",
+    "snippet": {
+      "publishedAt": "2019-04-24T19:39:15.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Creating a Terminal Emulator PART 6 [c++ live stream]",
+      "description": "I am creating a special-purpose terminal emulator for my video productions. Welcome to tag along! \n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nMailing address:\n J. YLILUOMA\n P.O. Box 16\n FI-04301 TUUSULA\n FINLAND\n\n#programming #terminal #emulator\n\nFAQ:\nA) Linux.\nA) Cinnamon.\nA) Debian (Testing).\nA) Joe.\nA) Because to learn a new tool (to replace another you are already fluent with) requires a sizable investment in time. It’s not practical, or at least it is very difficult to justify convincingly.\nA) Embedded programming.\nA) Be passionate and never be afraid to experiment. Try things that are challenging and have small unknown parts, and look up the information that you need. Do that for years.\nA) Sorry, I don’t really read books — beginner or otherwise. I have no idea which books are good or not. I get most of my information from the Internet by simply searching for it.\nA) No downloadable playlist. The currently playing song filenames are shown on the right side of the screen at all times. You can look them up in ModArchive, but you may sometimes need to guess a bit.\n\nSource code and more information: https://github.com/bisqwit/that_terminal",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hFPoDaBT7Gw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hFPoDaBT7Gw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hFPoDaBT7Gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hFPoDaBT7Gw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FWD_SJGpdfjrgnz8EHlOjGN-g4w\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLnlHUFVHMHMxbzI0",
+    "snippet": {
+      "publishedAt": "2019-04-14T03:51:35.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Creating a Terminal Emulator PART 5 [c++ live stream]",
+      "description": "I am creating a special-purpose terminal emulator for my video productions. Welcome to tag along! \n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\n#programming #terminal #emulator\n\nFAQ:\nA) Linux.\nA) Cinnamon.\nA) Debian (Testing).\nA) Joe.\nA) Because to learn a new tool (to replace another you are already fluent with) requires a sizable investment in time. It’s not practical, or at least it is very difficult to justify convincingly.\nA) Embedded programming.\nA) Be passionate and never be afraid to experiment. Try things that are challenging and have small unknown parts, and look up the information that you need. Do that for years.\nA) Sorry, I don’t really read books — beginner or otherwise. I have no idea which books are good or not. I get most of my information from the Internet by simply searching for it.\nA) No downloadable playlist. The currently playing song filenames are shown on the right side of the screen at all times. You can look them up in ModArchive, but you may sometimes need to guess a bit.\n\nSource code and more information: https://github.com/bisqwit/that_terminal",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yGPUG0s1o24/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yGPUG0s1o24/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yGPUG0s1o24/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yGPUG0s1o24/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yGPUG0s1o24"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JO2Vv_53F6GF531Ve024uMpxUGs\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLlZKTDJOSzVwMk9N",
+    "snippet": {
+      "publishedAt": "2019-04-10T20:43:20.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Creating a Terminal Emulator PART 4 [c++ live stream]",
+      "description": "I am creating a special-purpose terminal emulator for my video productions. Welcome to tag along! \n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nFAQ:\nA) Linux.\nA) Cinnamon.\nA) Debian (Testing).\nA) Joe.\nA) Because to learn a new tool (to replace another you are already fluent with) requires a sizable investment in time. It’s not practical, or at least it is very difficult to justify convincingly.\nA) Embedded programming.\nA) Be passionate and never be afraid to experiment. Try things that are challenging and have small unknown parts, and look up the information that you need. Do that for years.\nA) Sorry, I don’t really read books — beginner or otherwise. I have no idea which books are good or not. I get most of my information from the Internet by simply searching for it.\nA) On a table right next to me.\nA) No downloadable playlist. The currently playing song filenames are shown on the right side of the screen at all times. You can look them up in ModArchive, but you may sometimes need to guess a bit.\n\nSource code: https://github.com/bisqwit/that_terminal",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VJL2NK5p2OM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VJL2NK5p2OM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VJL2NK5p2OM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VJL2NK5p2OM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VJL2NK5p2OM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VJL2NK5p2OM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qXW1GtYB3AoUzdnTPJXw8iiF3cM\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLklPUVlYb2daWEtR",
+    "snippet": {
+      "publishedAt": "2019-04-03T15:45:01.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Creating a Terminal Emulator PART 2 [c++ live stream]",
+      "description": "I am in the process of rewriting some of the tools that I use for my programming video productions. As a part of this, I am planning to create a special-purpose terminal emulator (virtual terminal). This was broadcast live on my channel on 2 April 2019. The terminal was not completed in this stream. I may livestream the next parts too.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\n#programming #terminal #emulator\n\nFAQ:\nA) Linux.\nA) Cinnamon.\nA) Debian (Testing).\nA) Joe.\nA) Because to learn a new tool (to replace another you are already fluent with) requires a sizable investment in time. It’s not practical, or at least it is very difficult to justify convincingly.\nA) Embedded programming.\nA) Be passionate and never be afraid to experiment. Try things that are challenging and have small unknown parts, and look up the information that you need. Do that for years.\nA) Sorry, I don’t really read books — beginner or otherwise. I have no idea which books are good or not. I get most of my information from the Internet by simply searching for it.\nA) In my car. I didn’t bother fetching them for this stream.\nA) No downloadable playlist. The currently playing song filenames are shown on the right side of the screen at all times. You can look them up in ModArchive, but you may sometimes need to guess a bit.\n\nSource code: https://github.com/bisqwit/that_terminal",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IOQYXogZXKQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IOQYXogZXKQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IOQYXogZXKQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IOQYXogZXKQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IOQYXogZXKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IOQYXogZXKQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nT-P3pd73qd_uT9Wx2jti6gd0v8\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLjlQQl9rQTlycHR3",
+    "snippet": {
+      "publishedAt": "2019-04-07T18:48:34.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Creating a Terminal Emulator PART 3 [c++ live stream]",
+      "description": "I am creating a special-purpose terminal emulator for my video productions. Welcome to tag along!\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\n#programming #terminal #emulator\n\nBackground music: © 甘茶 Amacha / Nostalgia: http://nostalgiamusic.info/\n\nFAQ:\nA) Linux.\nA) Cinnamon.\nA) Debian (Testing).\nA) Joe.\nA) Because to learn a new tool (to replace another you are already fluent with) requires a sizable investment in time. It’s not practical, or at least it is very difficult to justify convincingly.\nA) Embedded programming.\nA) Be passionate and never be afraid to experiment. Try things that are challenging and have small unknown parts, and look up the information that you need. Do that for years.\nA) Sorry, I don’t really read books — beginner or otherwise. I have no idea which books are good or not. I get most of my information from the Internet by simply searching for it.\n\nSource code: https://github.com/bisqwit/that_terminal",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9PB_kA9rptw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9PB_kA9rptw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9PB_kA9rptw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9PB_kA9rptw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qL1EjhREo1ZStB_v7Cvk0Jajxng\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLjllMzhPUnJrYnRj",
+    "snippet": {
+      "publishedAt": "2019-04-01T20:02:05.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Creating a Terminal Emulator [c++ live stream]",
+      "description": "I am in the process of rewriting some of the tools that I use for my programming video productions. As a part of this, I am planning to create a special-purpose terminal emulator (virtual terminal). This was broadcast live on my channel on 31 March 2019. The terminal was not completed in this stream. I may livestream the next parts too.\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\n#programming #terminal #emulator\n\nFAQ:\nA) Linux.\nA) Cinnamon.\nA) Debian (Testing).\nA) Joe.\nA) Because to learn a new tool (to replace another you are already fluent with) requires a sizable investment in time. It’s not practical, or at least it is very difficult to justify convincingly.\nA) Embedded programming.\nA) Be passionate and never be afraid to experiment. Try things that are challenging and have small unknown parts, and look up the information that you need. Do that for years.\nA) Sorry, I don’t really read books — beginner or otherwise. I have no idea which books are good or not. I get most of my information from the Internet by simply searching for it.\nA) In my car. I didn’t bother fetching them for this stream.\nA) No downloadable playlist. The currently playing song filenames are shown on the right side of the screen at all times. You can look them up in ModArchive, but you may sometimes need to guess a bit.\n\nSource code: https://github.com/bisqwit/that_terminal",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9e38ORrkbtc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9e38ORrkbtc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9e38ORrkbtc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9e38ORrkbtc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9e38ORrkbtc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0qwAts3IHpYhgrKuw0N6ctJcj8k\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLlNrdFhoR0VsZjd3",
+    "snippet": {
+      "publishedAt": "2019-02-21T17:30:00.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "My second OpenGL project [tool-assisted C++17, SFML]",
+      "description": "This is my second OpenGL exercise, ever. You can find the first one here: https://www.youtube.com/watch?v=vkUwT9U1GzA\n\nAlso, yay, 75k subscribers! You are awesome!\n\nThe songs are my original compositions from 1997 and 1998. The desktop environment is Enlightenment v0.22, with Elementary 1.21. I am running it in software rendering mode under a Xephyr display server running at 1080p. I was unable to get a nice framerate in 4K modes, even if using hardware rendering without X server nesting. The 3D scene in the end is hardware-rendered in 4K. The terminal is Terminology v1.3.2, and the editor is Joe v4.6. The font is Anka/Coder Bold. I normally use Xterm, but I tweaked things for this video just for fun.\n\nSource code: https://bisqwit.iki.fi/jkp/75000/\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\n#opengl #sfml #bisqwit #tool-assisted #programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SktXhGElf7w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SktXhGElf7w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SktXhGElf7w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SktXhGElf7w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SktXhGElf7w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SktXhGElf7w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ekLzzePXr0CG3kkEkuN6rhCtF7M\"",
+    "id": "VVVLVGVod3lHQ0tGLWIyd28wUkt3cmNnLkpjeW1uM1JHa0Y0",
+    "snippet": {
+      "publishedAt": "2019-01-28T08:00:03.000Z",
+      "channelId": "UCKTehwyGCKF-b2wo0RKwrcg",
+      "title": "Let’s Create a Speech Synthesizer (C++17) with Finnish Accent!",
+      "description": "In this tool-assisted education video, we create a speech synthesizer in modern C++ — with a Finnish accent. The video deconstructs speech and phonemes and explores the Linear Predictive Coding, LPC. The open source programs Praat and Audacity are featured.\n\nAll downloadable materials, including source code: https://github.com/bisqwit/speech_synth_series/\n\nBecome a member: https://youtube.com/Bisqwit/join\n\nMy links:\nTwitter: https://twitter.com/RealBisqwit\nLiberapay: https://liberapay.com/Bisqwit\nSteady: https://steadyhq.com/en/bisqwit\nPatreon: https://patreon.com/Bisqwit (Other options at https://bisqwit.iki.fi/donate.html)\nTwitch: https://twitch.tv/RealBisqwit\nHomepage: https://iki.fi/bisqwit/\n\nCredits, in order of appearance:\n— Music: original composition :: untitled :: Joel Yliluoma\n— Music: Duke Nukem 3D :: Shop n Bag :: Lee Jackson\n— Music: Earthbound :: Twoson :: Akio Ōmuri and others (converted into MIDI and played through OPL3 emulation through homebrew software)\n— Meme: The Fairly OddParents :: If I Had One :: Butch Hartman\n— Music: Chrono Trigger :: Ending :: Yasunori Mitsuda (SPC-OPL3 conversion)\n— Presentation: Haifa University :: Linear Predictive Coding :: Nimrod Peleg 2009\n— Music: original composition :: Space :: Joel Yliluoma\n— Music: Final Fantasy V :: Airship :: Nobuo Uematsu (SPC-OPL3 conversion)\n— Music: Tales of Phantasia :: Freeze  :: Motoi Sakuraba (SPC-OPL3 conversion)\n— Music: Aryol :: Warmup :: Kyohei Sada (SPC-OPL3 conversion)\n\nHow to stop prison radicalization: https://www.youtube.com/watch?v=hWkXfXi5JAk\n\nYou can contribute subtitles: https://www.youtube.com/timedtext_video?ref=share&v=Jcymn3RGkF4 or to any of my videos: https://www.youtube.com/timedtext_cs_panel?tab=2&c=UCKTehwyGCKF-b2wo0RKwrcg\n\n#speechsynthesis #bisqwit #programming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jcymn3RGkF4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jcymn3RGkF4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jcymn3RGkF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Jcymn3RGkF4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Jcymn3RGkF4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bisqwit",
+      "playlistId": "UUKTehwyGCKF-b2wo0RKwrcg",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Jcymn3RGkF4"
+      }
+    }
+  }
+]

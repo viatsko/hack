@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9-qBp9SBCvw9LMBn9aaOdDlOB08\"",
+      "id": "UCjlLfxSPkYluCDetlwbLpjQ",
+      "snippet": {
+        "title": "Egor Kulikov",
+        "description": "",
+        "customUrl": "tcscreencasts",
+        "publishedAt": "2011-10-11T08:41:13.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxynOW_XfI4qH84GVDljldoevgu_X9Dc2A4zA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxynOW_XfI4qH84GVDljldoevgu_X9Dc2A4zA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxynOW_XfI4qH84GVDljldoevgu_X9Dc2A4zA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Egor Kulikov",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUjlLfxSPkYluCDetlwbLpjQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUjlLfxSPkYluCDetlwbLpjQ"
+  },
+  "displayName": "Egor Kulikov",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxynOW_XfI4qH84GVDljldoevgu_X9Dc2A4zA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxynOW_XfI4qH84GVDljldoevgu_X9Dc2A4zA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxynOW_XfI4qH84GVDljldoevgu_X9Dc2A4zA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

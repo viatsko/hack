@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nzL-fN7sz-e0Nw9zE8yzfo7crpA\"",
+      "id": "UCXBhQ05nu3L1abBUGeQ0ahw",
+      "snippet": {
+        "title": "ReactRally",
+        "description": "Videos from the React Rally conferences.",
+        "publishedAt": "2015-08-26T16:39:01.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJybqYXsVegm9J6X3HytXdgROWBSIpn0bizrOg=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJybqYXsVegm9J6X3HytXdgROWBSIpn0bizrOg=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJybqYXsVegm9J6X3HytXdgROWBSIpn0bizrOg=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ReactRally",
+          "description": "Videos from the React Rally conferences."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUXBhQ05nu3L1abBUGeQ0ahw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUXBhQ05nu3L1abBUGeQ0ahw"
+  },
+  "displayName": "ReactRally",
+  "description": "Videos from the React Rally conferences.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJybqYXsVegm9J6X3HytXdgROWBSIpn0bizrOg=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJybqYXsVegm9J6X3HytXdgROWBSIpn0bizrOg=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJybqYXsVegm9J6X3HytXdgROWBSIpn0bizrOg=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

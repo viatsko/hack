@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cAxz3Wz12G5A2NTycc9aTdT0Sj8\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLmsxd3JhV3pxdHZR",
+    "snippet": {
+      "publishedAt": "2016-10-24T11:41:58.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Graph Representation part 03 - Adjacency List",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have talked about Adjacency List representation of Graph and analyzed its time and space complexity of adjacency list representation. \n\nPrevious Lesson: https://www.youtube.com/watch?v=9C2cpQZVRBA&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=41\n\nLesson on Pointers:\nhttps://www.youtube.com/watch?v=ASVB8KAFypk\nhttps://www.youtube.com/watch?v=sHcnvZA2u88\n\nTime Complexity analysis playlist:\nhttps://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn\n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k1wraWzqtvQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k1wraWzqtvQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k1wraWzqtvQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k1wraWzqtvQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k1wraWzqtvQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k1wraWzqtvQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6SbcZj9qfpRyVV4BBvTWWwUsHGY\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLjlDMmNwUVpWUkJB",
+    "snippet": {
+      "publishedAt": "2015-02-20T11:49:30.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Graph Representation part 02 - Adjacency Matrix",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have talked about Adjacency Matrix representation of Graph and analyzed its time and space complexity of adjacency matrix representation. \n\nPrevious Lesson: https://www.youtube.com/watch?v=ZdY1Fp9dKzs&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=40\n \n\nTime Complexity analysis playlist:\nhttps://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn\n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9C2cpQZVRBA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9C2cpQZVRBA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9C2cpQZVRBA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9C2cpQZVRBA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9C2cpQZVRBA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9C2cpQZVRBA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W2bIf-h-QsDqbSb96q_fSLJF6pc\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLlpkWTFGcDlkS3pz",
+    "snippet": {
+      "publishedAt": "2015-01-24T16:26:50.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Graph Representation part 01 - Edge List",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have described how we can represent and store a graph in computer's memory as vertex-list and edge-list. We have analyzed the time and space complexities of such a representation. \nIn next two lessons, we will talk about adjacency matrix and adjacency list representations. \n\nNext Lesson : https://www.youtube.com/watch?v=9C2cpQZVRBA&index=41&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nTime Complexity analysis playlist:\nhttps://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn\n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZdY1Fp9dKzs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZdY1Fp9dKzs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZdY1Fp9dKzs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZdY1Fp9dKzs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZdY1Fp9dKzs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZdY1Fp9dKzs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YqVREkMlaudOCDiivNIM3xy4hMg\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLkFmWXFOM2ZHYXBj",
+    "snippet": {
+      "publishedAt": "2014-09-16T13:02:07.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Data structures: Properties of Graphs",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have described below properties of Graph data structure:\n\na) directed graph vs undirected graph\nb) weighted graph vs unweighted graph\nc) sparse graph vs dense graph\nd)  strongly connected graphs\ne)  Acyclic graphs. \n\nNext Lesson:- https://www.youtube.com/watch?v=ZdY1Fp9dKzs&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=40\n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AfYqN3fGapc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AfYqN3fGapc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AfYqN3fGapc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AfYqN3fGapc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AfYqN3fGapc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AfYqN3fGapc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5_iHyRVQi4lHOC4J5uEhNrZmw2g\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLmdYZ0VEeW9kT0pV",
+    "snippet": {
+      "publishedAt": "2014-09-02T11:25:00.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Data structures: Introduction to graphs",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have described Graph data structure as a mathematical model.  We have briefly described the concept of Graph and some of its applications. \n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gXgEDyodOJU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gXgEDyodOJU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gXgEDyodOJU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gXgEDyodOJU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gXgEDyodOJU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gXgEDyodOJU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PklKnpldCMZjkUjHIO5mHmSZZoM\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLnp4YjhEdkxVcWNN",
+    "snippet": {
+      "publishedAt": "2014-06-23T17:16:47.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Know your data type: int - C Programming Tutorial 08",
+      "description": "See complete series on C programming here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE\n\nIn this tutorial, we have discussed int data-type in detail. \n\nWe have explained below concepts:\n \nHow data is stored in computer's memory.\nSize and range of int\nSigned and unsigned int\nHow negative numbers are stored in binary.\n\nAbout binary number system:\nhttps://www.youtube.com/watch?v=5OBZYhJnne0 \n\nAbout 2's complement notation:\nhttp://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html\n\nFor more such videos and updates, subscribe to our channel:\nhttp://www.youtube.com/mycodeschool \n\nYou may also like/follow us on Facebook/Twitter:\nhttps://www.facebook.com/MyCodeSchool\nhttps://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zxb8DvLUqcM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zxb8DvLUqcM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zxb8DvLUqcM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zxb8DvLUqcM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zxb8DvLUqcM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zxb8DvLUqcM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/F0tx_o3Qbj-BbZ2EXQXxQnLWoJA\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLm9oSFdRZjFIRGZV",
+    "snippet": {
+      "publishedAt": "2014-06-23T14:08:34.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Maximum sum sub-array",
+      "description": "In this lesson, we have solved another famous programming interview question -  finding maximum sub-array sum in an array.\n\nSee source codes here:\nO(n^3) algorithm - https://gist.github.com/mycodeschool/9666221e7527935d8e1d\nO(n^2) algorithm - \nhttps://gist.github.com/mycodeschool/447854ea1844b1b42cd3\nO(NlogN) algorithm - \nhttps://gist.github.com/mycodeschool/8b4bcff69427c8a6f2aa\nO(N) algorithm - \nhttps://gist.github.com/mycodeschool/4b0b01e1d08932066301\n\nSee playlist on programming interview questions here:\nhttps://www.youtube.com/playlist?list=PL2_aWCzGMAwLPEZrZIcNEq9ukGWPfLT4A\n\nSee series on time complexity here:\nhttps://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn&index=2\n\nAnalysis of quicksort:\nhttps://www.youtube.com/watch?v=3Bbm3Prd5Fo\n\n\nYou may also like/follow us on Facebook/Twitter:\nhttps://www.facebook.com/MyCodeSchool\nhttps://twitter.com/mycodeschool\n\nVideo creator : Ashwin Krish - intern at MyCodeSchool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ohHWQf1HDfU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ohHWQf1HDfU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ohHWQf1HDfU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ohHWQf1HDfU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ohHWQf1HDfU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ohHWQf1HDfU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0UkJNRcqMrDFUisbk7nYkE6M3lc\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLnZ2cERiaHFQcnd3",
+    "snippet": {
+      "publishedAt": "2014-06-03T11:05:26.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Using Arithmetic Operators - C Programming Tutorial 07",
+      "description": "See complete series on C programming here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE\n\nIn this tutorial, we have explained how to use arithmetic operators to perform arithmetic in a C program. \n\nFor more such videos and updates, subscribe to our channel:\nhttp://www.youtube.com/mycodeschool \n\nYou may also like/follow us on Facebook/Twitter:\nhttps://www.facebook.com/MyCodeSchool\nhttps://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vvpDbhqPrww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vvpDbhqPrww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vvpDbhqPrww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vvpDbhqPrww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vvpDbhqPrww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vvpDbhqPrww"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lIr6P9MP7yfMKH4LDfXI77izdRg\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLmdFMEdvcENxMzc4",
+    "snippet": {
+      "publishedAt": "2014-05-29T06:40:02.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Find merge point of two linked list",
+      "description": "In this lesson, we have solved a famous programming interview question -  finding merge point of two linked list. We have written a C++ implementation. \n\nSee source code here:\nhttps://gist.github.com/mycodeschool/5bc53cb87905f95e12b3  \n\nSee series on linked list here:\nhttps://www.youtube.com/watch?v=NobHlGUjV3g&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=4\n\nSee series on time complexity here:\nhttps://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn&index=2\n\nAbout sets:\nhttp://www.cplusplus.com/reference/set/set/\n\nYou may also like/follow us on Facebook/Twitter:\nhttps://www.facebook.com/MyCodeSchool\nhttps://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gE0GopCq378/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gE0GopCq378/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gE0GopCq378/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gE0GopCq378/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gE0GopCq378/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gE0GopCq378"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QU7WIopuDOyJxhW1y8RJ56XMhAo\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLnhPSVZYUjM1YUk0",
+    "snippet": {
+      "publishedAt": "2014-05-28T03:25:16.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Input and Output:  Printf and Scanf - C Programming Tutorial 06",
+      "description": "See complete series on C programming here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE\n\nIn this tutorial, we have explained printf and scanf functions in C that are used to read input and write output from command line or Console.\n\nFor more such videos and updates, subscribe to our channel:\nhttp://www.youtube.com/mycodeschool \n\nYou may also like/follow us on Facebook/Twitter:\nhttps://www.facebook.com/MyCodeSchool\nhttps://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xOIVXR35aI4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xOIVXR35aI4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xOIVXR35aI4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xOIVXR35aI4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xOIVXR35aI4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xOIVXR35aI4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hJAUwXmqOrzeCKEsTFRamNB9sgM\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLl9wbnFNejVuclJz",
+    "snippet": {
+      "publishedAt": "2014-05-17T10:30:10.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Find height of a binary tree",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have written code to find height of a binary tree using a simple recursion. \n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_pnqMz5nrRs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_pnqMz5nrRs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_pnqMz5nrRs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_pnqMz5nrRs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_pnqMz5nrRs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_pnqMz5nrRs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qh-LEf8MllCrcRQpU8EhTNAnyxE\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLjVjUGJOQ3Jkb3RB",
+    "snippet": {
+      "publishedAt": "2014-05-17T10:32:17.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Inorder Successor in a binary search tree",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have discussed efficient algorithm to find Inorder successor of a Node in binary search tree. \n\nSee source code here:\nhttps://gist.github.com/mycodeschool/6515e1ec66482faf9d79\n\nSee video on Inorder Traversal here:\nhttps://www.youtube.com/watch?v=gm8DUJJhmY4\n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5cPbNCrdotA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5cPbNCrdotA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5cPbNCrdotA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5cPbNCrdotA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5cPbNCrdotA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5cPbNCrdotA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/09wZ4IuiP362MCCiQCLA8wKeb4E\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLmdjVUxYRTdWaVp3",
+    "snippet": {
+      "publishedAt": "2014-05-01T10:47:54.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Delete a node from Binary Search Tree",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have discussed deletion of a node from binary search tree data structure. We have discussed the core logic and written implementation of it in C++. \n\nSee source code here:\nhttps://gist.github.com/mycodeschool/9465a188248b624afdbf\n\n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gcULXE7ViZw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gcULXE7ViZw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gcULXE7ViZw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gcULXE7ViZw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gcULXE7ViZw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gcULXE7ViZw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/77_Cn2FEEDdPHqbVPALfcpnmIDc\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLnlFd1NHaFNzVDBV",
+    "snippet": {
+      "publishedAt": "2014-04-19T16:57:24.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Check if a binary tree is binary search tree or not",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have written a program in C/C++ to verify whether a given binary tree is binary search tree or not. \n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yEwSGhSsT0U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yEwSGhSsT0U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yEwSGhSsT0U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yEwSGhSsT0U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yEwSGhSsT0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yEwSGhSsT0U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LsjAGnpMKpTgbKjxYivEA5owqjU\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLmdtOERVSkpobVk0",
+    "snippet": {
+      "publishedAt": "2014-04-07T18:12:17.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Binary tree traversal: Preorder, Inorder, Postorder",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have described Preorder, Inorder and Postorder algorithms for binary tree traversal and analyzed their time and space complexities. \n\nSee source code here:\nhttps://gist.github.com/mycodeschool/10016271\n\nFor more on time complexity analysis:\nhttp://www.geeksforgeeks.org/618/\n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gm8DUJJhmY4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gm8DUJJhmY4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gm8DUJJhmY4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gm8DUJJhmY4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gm8DUJJhmY4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gm8DUJJhmY4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EWMJVTpSU_gm0RxFMnvkqS_HVUo\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLjg2ZzhqQVF1ZzA0",
+    "snippet": {
+      "publishedAt": "2014-03-13T05:13:43.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Binary tree: Level Order Traversal",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have discussed level order traversal algorithm for binary tree.\n\nSee source code here:\nhttps://gist.github.com/mycodeschool/9507131\n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/86g8jAQug04/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/86g8jAQug04/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/86g8jAQug04/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/86g8jAQug04/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/86g8jAQug04/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "86g8jAQug04"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dQ_JbTzoKzQu2gZ0dW7aH2gNlCw\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLlZNVnVLcGpfUlFR",
+    "snippet": {
+      "publishedAt": "2014-03-04T16:03:13.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Direction of a point from a line segment",
+      "description": "See complete series on mathematics here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwLL-mEB4ef20f3iqWMGWa25 \n\nIn this lesson, we will see algorithm to find out direction of a point from a line segment. \n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VMVuKpj_RQQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VMVuKpj_RQQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VMVuKpj_RQQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VMVuKpj_RQQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VMVuKpj_RQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VMVuKpj_RQQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GlrBIW0kclZDGTEDlprnfk6O7lA\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLjlSSE82alUtLUdV",
+    "snippet": {
+      "publishedAt": "2014-02-26T01:10:27.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Binary tree traversal - breadth-first and depth-first strategies",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have discussed algorithms for binary tree traversal. We have talked about breadth-first and depth-first strategies for tree traversal like level-order, preorder, inorder and postorder. \n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9RHO6jU--GU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9RHO6jU--GU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9RHO6jU--GU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9RHO6jU--GU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9RHO6jU--GU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9RHO6jU--GU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fvwU2TCEBdK-w3m-udzasfjJwYw\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLlV0OTBrbE5OMjY0",
+    "snippet": {
+      "publishedAt": "2014-02-13T01:37:52.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "Find min and max element in a binary search tree",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have written a program to find minimum or maximum element in a \"binary search tree\" data structure. We have written two solutions - iterative and recursive. \n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ut90klNN264/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ut90klNN264/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ut90klNN264/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ut90klNN264/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ut90klNN264/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ut90klNN264"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/itcBQ2NmDWmwHMHrqym5eZaEOh0\"",
+    "id": "VVVsRUVzVDdEa2RWT19ma3JCdzBPVHJBLmhXb2t5Qm9vMGFJ",
+    "snippet": {
+      "publishedAt": "2014-02-10T16:07:49.000Z",
+      "channelId": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "title": "BST implementation -  memory allocation in stack and heap",
+      "description": "See complete series on data structures here:\nhttp://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P\n\nIn this lesson, we have described how things will move in stack and heap sections of application's memory when binary search tree program discussed in previous lesson will execute. \n\nSee source code here:\nhttps://gist.github.com/mycodeschool/44e1a9183ab0e931f729 \n\nLesson on dynamic memory allocation:\nhttp://www.youtube.com/watch?v=_8-ht2AKyH4&list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_&index=12\n\nFor practice problems and more, visit: http://www.mycodeschool.com \n\nLike us on Facebook: https://www.facebook.com/MyCodeSchool\n\nFollow us on twitter: https://twitter.com/mycodeschool",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hWokyBoo0aI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hWokyBoo0aI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hWokyBoo0aI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hWokyBoo0aI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hWokyBoo0aI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "mycodeschool",
+      "playlistId": "UUlEEsT7DkdVO_fkrBw0OTrA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hWokyBoo0aI"
+      }
+    }
+  }
+]

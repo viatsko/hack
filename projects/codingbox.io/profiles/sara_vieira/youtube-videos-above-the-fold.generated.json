@@ -1,0 +1,867 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sgiNeKlnYfteJfPvMN2Kav9EFb8\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LmJBZkxVUWdwcmRV",
+    "snippet": {
+      "publishedAt": "2019-10-02T18:16:07.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "QueerJS Amsterdam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bAfLUQgprdU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bAfLUQgprdU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bAfLUQgprdU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bAfLUQgprdU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ua3757YDwrFvLhyU2wVuYcuUo_E\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3Lms2eDNBX1BFOGhR",
+    "snippet": {
+      "publishedAt": "2019-06-04T18:38:29.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Humble Brag",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k6x3A_PE8hQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k6x3A_PE8hQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k6x3A_PE8hQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k6x3A_PE8hQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k6x3A_PE8hQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "k6x3A_PE8hQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ojNaHVrSkDWwIPQv6cgUTbWJCEI\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LjdtRk5uTDlkZTZz",
+    "snippet": {
+      "publishedAt": "2019-01-12T09:30:42.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Let's build a CLI",
+      "description": "Making https://github.com/SaraVieira/bake-component",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7mFNnL9de6s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7mFNnL9de6s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7mFNnL9de6s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7mFNnL9de6s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7mFNnL9de6s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7mFNnL9de6s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Tpm43VtuHK54SYVM_o1aiCoBrHs\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LkZMdzRZQWVJaWNj",
+    "snippet": {
+      "publishedAt": "2019-01-08T16:53:47.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Building a movie website with Gatsby PT2",
+      "description": "Making https://shitty-horror-movie.club using gatsby",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FLw4YAeIicc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FLw4YAeIicc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FLw4YAeIicc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FLw4YAeIicc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FLw4YAeIicc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FLw4YAeIicc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Iqc8fNPOA5C7G76-f59KqUl008g\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3Lm9aeEtDOWo3S0ZZ",
+    "snippet": {
+      "publishedAt": "2019-01-08T15:36:08.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Building a movie website with Gatsby PT1",
+      "description": "Making https://shitty-horror-movie.club using gatsby",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oZxKC9j7KFY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oZxKC9j7KFY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oZxKC9j7KFY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oZxKC9j7KFY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oZxKC9j7KFY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oZxKC9j7KFY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ct1GUsI5cj_oW4nw81Kemlw7YXE\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LkJ2Sk5SSjNFQ3Jj",
+    "snippet": {
+      "publishedAt": "2018-12-31T19:57:23.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "React Native Stream PT3",
+      "description": "Third react native stream!\n\nApp almost done 🎉\n\nhttps://github.com/SaraVieira/isthereuber-native",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BvJNRJ3ECrc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BvJNRJ3ECrc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BvJNRJ3ECrc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BvJNRJ3ECrc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BvJNRJ3ECrc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BvJNRJ3ECrc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K_WBzGBFx0XvqY4rCvuUivqoyR4\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LlFPVEpjZEc4cmFB",
+    "snippet": {
+      "publishedAt": "2018-12-27T17:04:06.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "React Native Stream PT2",
+      "description": "As part of #TheShippening I try to make an app in react native using my current browser code:\nhttp://isthereuber.in\n\nThis is part 2. There is no part 1 unfortunately :(",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QOTJcdG8raA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QOTJcdG8raA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QOTJcdG8raA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QOTJcdG8raA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QOTJcdG8raA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QOTJcdG8raA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dzlQ5kbdFsrgRoKBYR_Mc3S2BY8\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LkZCRS1pOGZyRldv",
+    "snippet": {
+      "publishedAt": "2018-10-07T21:52:45.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Sara tries to learn Angular",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FBE-i8frFWo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FBE-i8frFWo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FBE-i8frFWo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FBE-i8frFWo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RnROUsMx3I87iwRBHBGM_JaNuhs\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LlhJNVlqX0ZDeWZF",
+    "snippet": {
+      "publishedAt": "2018-08-08T19:52:24.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "JAMstack Porto - Live Coding GraphQL",
+      "description": "Video from a meetup I did in Porto where I live code a simple Prisma backend and make it work in the frontend with React.\n\nProject: https://github.com/SaraVieira/jamstack-porto",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XI5Yj_FCyfE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XI5Yj_FCyfE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XI5Yj_FCyfE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XI5Yj_FCyfE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XI5Yj_FCyfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XI5Yj_FCyfE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/R5MPpukADAG6QzLjtgauU7Cr750\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LkpDaUl3LUlHVzdV",
+    "snippet": {
+      "publishedAt": "2018-07-20T15:32:44.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Let's talk about Airports",
+      "description": "Have some fun listening to me complaining about airports",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JCiIw-IGW7U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JCiIw-IGW7U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JCiIw-IGW7U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JCiIw-IGW7U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JCiIw-IGW7U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/P5w_uvW23rkJFIy6Mxh1MLntkkE\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LjJTWWEwRjUwTWI0",
+    "snippet": {
+      "publishedAt": "2018-03-19T22:17:18.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "That sweet sweet Mutation component",
+      "description": "Demo: https://codesandbox.io/s/7j0k7m94x6",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2SYa0F50Mb4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2SYa0F50Mb4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2SYa0F50Mb4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2SYa0F50Mb4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2SYa0F50Mb4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2SYa0F50Mb4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/i8HvIv7wtl8U5aVXoegp8Jv_bjU\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LllISjJDYVMwdnBN",
+    "snippet": {
+      "publishedAt": "2018-03-18T19:00:36.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "That sweet sweet Query component",
+      "description": "Let's talk about the new Query component in Apollo and also apollo boost\n\nDemo: https://codesandbox.io/s/github/SaraVieira/query-component-sweet/tree/master/\n\nApollo Boost Post: https://dev-blog.apollodata.com/zero-config-graphql-state-management-27b1f1b3c2c3\n\nTwitter: https://twitter.com/NIkkitaFTW",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YHJ2CaS0vpM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YHJ2CaS0vpM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YHJ2CaS0vpM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YHJ2CaS0vpM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/e93Z1EHPStup79i0KnL-iubPF2w\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LjJSdlJjbkQ4d0hZ",
+    "snippet": {
+      "publishedAt": "2018-01-05T14:30:44.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Apollo-link-state - Let's manage state with queries",
+      "description": "Docs: https://github.com/apollographql/apollo-link-state\nCode: https://github.com/SaraVieira/apollo-link-state-example",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2RvRcnD8wHY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2RvRcnD8wHY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2RvRcnD8wHY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2RvRcnD8wHY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2RvRcnD8wHY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2RvRcnD8wHY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ErxG4kzK0yvvMFn50rQRrE4qKlA\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LjdHb205MWYxYW5z",
+    "snippet": {
+      "publishedAt": "2017-12-29T16:50:53.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Let's Create a GraphQL Server with MongoDB",
+      "description": "Code: https://github.com/SaraVieira/graphql-simple-server-tutorial\nDemo: https://mongodb-graphql-server-template-jniwoocpmv.now.sh/graphiql\n\nAny questions DM me on twitter at @NikkitaFTW or email me at hey@iamsaravieira,com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7Gom91f1ans/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7Gom91f1ans/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7Gom91f1ans/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7Gom91f1ans/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7Gom91f1ans/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7Gom91f1ans"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YL8JKkP6bM_ObOWVMbUEJTIzoec\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LjFYNGlYb21fV3dV",
+    "snippet": {
+      "publishedAt": "2017-08-27T14:11:52.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Preactcasts #5 - Preact Compat",
+      "description": "Preactcasts #5 - Preact Compat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1X4iXom_WwU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1X4iXom_WwU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1X4iXom_WwU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1X4iXom_WwU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1X4iXom_WwU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1X4iXom_WwU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Fo831tXNtFp1e_oI8fMVS_mc3zQ\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LmpMa1BVNkdzcDY4",
+    "snippet": {
+      "publishedAt": "2017-08-27T00:12:30.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Preactcasts #4 - Managing State",
+      "description": "Preactcasts #4 - Managing State",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jLkPU6Gsp68/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jLkPU6Gsp68/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jLkPU6Gsp68/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jLkPU6Gsp68/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jLkPU6Gsp68/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jLkPU6Gsp68"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2FTADpL2bSUisrmQhn_BhfupSSQ\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LnNDbGlWQm04Sjhv",
+    "snippet": {
+      "publishedAt": "2017-08-21T17:33:42.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Preactcasts #3 - Preact Router",
+      "description": "Preactcasts #3 - Preact Router",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sCliVBm8J8o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sCliVBm8J8o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sCliVBm8J8o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sCliVBm8J8o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sCliVBm8J8o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sCliVBm8J8o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_ju4mhqHXBZvP4-POJ68Q58fhmk\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3Ljh1NHdYVllpQ3NB",
+    "snippet": {
+      "publishedAt": "2017-08-21T17:22:55.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Preactcasts #2 - Create App from scratch",
+      "description": "Preactcasts #2 - Create App from scratch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8u4wXVYiCsA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8u4wXVYiCsA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8u4wXVYiCsA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8u4wXVYiCsA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8u4wXVYiCsA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8u4wXVYiCsA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lqlGPs934FPPIDkTP9iWrWswasE\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LmxGNVRRd2JZcjlR",
+    "snippet": {
+      "publishedAt": "2017-08-21T11:19:24.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "PreactCasts #1 - Preact CLI",
+      "description": "PreactCasts #1 - Preact CLI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lF5TQwbYr9Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lF5TQwbYr9Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lF5TQwbYr9Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lF5TQwbYr9Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lF5TQwbYr9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lF5TQwbYr9Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_-iVviMKwroHL1OPFzQSanHrKRA\"",
+    "id": "VVVMT0l2R29KanYwdnp4Ui1DaVVXM0h3LjBBWmc4WC00OGVz",
+    "snippet": {
+      "publishedAt": "2019-06-04T17:41:45.000Z",
+      "channelId": "UCLOIvGoJjv0vzxR-CiUW3Hw",
+      "title": "Humble Brag",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0AZg8X-48es/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0AZg8X-48es/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0AZg8X-48es/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0AZg8X-48es/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0AZg8X-48es/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sara Vieira",
+      "playlistId": "UULOIvGoJjv0vzxR-CiUW3Hw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0AZg8X-48es"
+      }
+    }
+  }
+]

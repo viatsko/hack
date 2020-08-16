@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aJVdz_Z60keMlKQm4Ex0rsN-xDo\"",
+      "id": "UCc4jWVeWjUfpUo8z4PHfopw",
+      "snippet": {
+        "title": "Road to target",
+        "description": "",
+        "customUrl": "roadtotarget",
+        "publishedAt": "2015-06-12T03:47:38.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwP2ssp-M2YSiG3y6sKGs0mPvUBmYB0YX88kQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwP2ssp-M2YSiG3y6sKGs0mPvUBmYB0YX88kQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwP2ssp-M2YSiG3y6sKGs0mPvUBmYB0YX88kQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Road to target",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUc4jWVeWjUfpUo8z4PHfopw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUc4jWVeWjUfpUo8z4PHfopw"
+  },
+  "displayName": "Road to target",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwP2ssp-M2YSiG3y6sKGs0mPvUBmYB0YX88kQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwP2ssp-M2YSiG3y6sKGs0mPvUBmYB0YX88kQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwP2ssp-M2YSiG3y6sKGs0mPvUBmYB0YX88kQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

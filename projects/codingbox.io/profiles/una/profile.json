@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sDCFJgxf_WM22UYKNsUbeXnWM7g\"",
+      "id": "UCJnidRIv3o1hf_YBWjKFljg",
+      "snippet": {
+        "title": "Una Kravets",
+        "description": "Fashion, tech, and beauty from a nerd re-discovering her girly side.",
+        "customUrl": "unakravets",
+        "publishedAt": "2013-09-30T03:15:47.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzSwVyOdGgpd5FqmGss4YvkUjg_fBXE4xmbgw=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzSwVyOdGgpd5FqmGss4YvkUjg_fBXE4xmbgw=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzSwVyOdGgpd5FqmGss4YvkUjg_fBXE4xmbgw=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Una Kravets",
+          "description": "Fashion, tech, and beauty from a nerd re-discovering her girly side."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUJnidRIv3o1hf_YBWjKFljg",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUJnidRIv3o1hf_YBWjKFljg"
+  },
+  "displayName": "Una Kravets",
+  "description": "Fashion, tech, and beauty from a nerd re-discovering her girly side.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzSwVyOdGgpd5FqmGss4YvkUjg_fBXE4xmbgw=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzSwVyOdGgpd5FqmGss4YvkUjg_fBXE4xmbgw=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzSwVyOdGgpd5FqmGss4YvkUjg_fBXE4xmbgw=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

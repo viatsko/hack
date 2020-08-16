@@ -1,0 +1,882 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gLd95Cq4U4RiCVX4yHyr6HafYaw\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLlB1SVFxSUk4VkNJ",
+    "snippet": {
+      "publishedAt": "2020-04-20T23:21:24.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "Опенсорсим 7: Ну сегодня то разгребем (Artem Kobzar)",
+      "description": "Карантинный проект, где мы погружаемся в недра Open Source различных проектов и пытаемся чего-то там исправить, попутно рассказывая байки и отвечая на вопросы \n\nВидео создано благодаря подписчикам проекта на нашем Patreon. \n\nХотите получать контент на 3 месяца раньше остальных? Присоединяйтесь! https://patreon.com/javascriptninja",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PuIQqII8VCI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PuIQqII8VCI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PuIQqII8VCI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PuIQqII8VCI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PuIQqII8VCI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PuIQqII8VCI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EK7I3aFK28i3o8_23OOTHZzTgOg\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLlZNdlU3QXg5R2U0",
+    "snippet": {
+      "publishedAt": "2020-04-20T08:44:09.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] Ask me anything / 2020-04-19",
+      "description": "Поддержите проект JavaScript.Ninja на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VMvU7Ax9Ge4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VMvU7Ax9Ge4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VMvU7Ax9Ge4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VMvU7Ax9Ge4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VMvU7Ax9Ge4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VMvU7Ax9Ge4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MFHzt5Y8nClU2HTWTcBd2s5adEw\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLld4c0ctZksyakd3",
+    "snippet": {
+      "publishedAt": "2020-04-18T16:32:47.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "Автоматизируем: билд резюме (Artem Kobzar)",
+      "description": "Карантинный проект, где мы инженерно подходим к различным сторонам жизни разработчика. \n\nВидео создано благодаря подписчикам проекта на нашем Patreon. \n\nХотите получать контент на 3 месяца раньше остальных? Присоединяйтесь! https://patreon.com/javascriptninja",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WxsG-fK2jGw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WxsG-fK2jGw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WxsG-fK2jGw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WxsG-fK2jGw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WxsG-fK2jGw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WxsG-fK2jGw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7oxl8JApXTb7ix-EoxcjYHJ5B2w\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLkt3LXJDdUxjbzVV",
+    "snippet": {
+      "publishedAt": "2020-04-15T21:45:12.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "Опенсорсим 6: A issues все больше (Artem Kobzar)",
+      "description": "Карантинный проект, где мы погружаемся в недра Open Source различных проектов и пытаемся чего-то там исправить, попутно рассказывая байки и отвечая на вопросы \n\nВидео создано благодаря подписчикам проекта на нашем Patreon. \n\nХотите получать контент на 3 месяца раньше остальных? Присоединяйтесь! https://patreon.com/javascriptninja",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Kw-rCuLco5U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Kw-rCuLco5U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Kw-rCuLco5U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Kw-rCuLco5U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Kw-rCuLco5U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Kw-rCuLco5U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JXXzX0utni8wm9muDXAnK-kA9Qc\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLktDSVlJS3FqNHlj",
+    "snippet": {
+      "publishedAt": "2020-04-14T13:17:31.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] #11 CSS Безумие - Скучный вторник",
+      "description": "Занятие на сегодня: \nhttps://gitlab.com/javascript-ninja/snippets/snippets/1966376\n\n---\nСкучный вторник - это проект еженедельных стримов про работу в GitLab на реальных задачах.\n\nЖелезо: Microsoft Surface Book 2\nОС: ArchLinux\nПК: Microsoft Surface Book 2\nКлавиатура: DasKeyboard 4 Ultimate \nDE: Gnome Shell + PaperWM\nШрифт: PragmataPro\nСписок плагинов VSCode:\n- Классика: ESLint, Prettier, GitLens\n- TabNine\n- Vetur\n- Rainbow Brackets\nТема VSCode: Night Owl\n\n\n\nПроект выходит благодаря моим самым лучшим в мире подписчикам на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KCIYIKqj4yc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KCIYIKqj4yc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KCIYIKqj4yc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KCIYIKqj4yc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KCIYIKqj4yc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KCIYIKqj4yc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dVwMgmLgRMG9mDSdWp2YYWHv4mU\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLkJSbzB3MGpzNVQ0",
+    "snippet": {
+      "publishedAt": "2020-04-12T21:54:49.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "Опенсорсим 5: Разгребаем Issues Hegel (Artem Kobzar)",
+      "description": "Карантинный проект, где мы погружаемся в недра Open Source различных проектов и пытаемся чего-то там исправить, попутно рассказывая байки и отвечая на вопросы \n\nВидео создано благодаря подписчикам проекта на нашем Patreon. \n\nХотите получать контент на 3 месяца раньше остальных? Присоединяйтесь! https://patreon.com/javascriptninja",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BRo0w0js5T4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BRo0w0js5T4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BRo0w0js5T4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BRo0w0js5T4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BRo0w0js5T4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BRo0w0js5T4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/a-gxWKmXoTRhbKUYECV3UTWh7oY\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLjdNQTJTYmQ2WE5r",
+    "snippet": {
+      "publishedAt": "2020-04-11T23:06:56.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "Опенсорсим 4: Разгребаем Issues Hegel (Artem Kobzar)",
+      "description": "Карантинный проект, где мы погружаемся в недра Open Source различных проектов и пытаемся чего-то там исправить, попутно рассказывая байки и отвечая на вопросы \n\nВидео создано благодаря подписчикам проекта на нашем Patreon. \n\nХотите получать контент на 3 месяца раньше остальных? Присоединяйтесь! https://patreon.com/javascriptninja",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7MA2Sbd6XNk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7MA2Sbd6XNk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7MA2Sbd6XNk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7MA2Sbd6XNk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7MA2Sbd6XNk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7MA2Sbd6XNk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qqUiPu-yGXMBJ7bVzyBHWUc9qSk\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLkgtY0hxZ2N1Z1g4",
+    "snippet": {
+      "publishedAt": "2020-04-05T20:16:56.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] Ask me anything: COVID-19 Special / 2020-04-05",
+      "description": "Поговорим о COVID-19?\nСитуация в индустрии, чего ждать, к чему готовиться, куда бежать?\n\nПоддержите проект JavaScript.Ninja на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H-cHqgcugX8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H-cHqgcugX8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H-cHqgcugX8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/H-cHqgcugX8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/H-cHqgcugX8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "H-cHqgcugX8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jfbOuxlY82Ckh4katAhTtKEp-WQ\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLkFEbkJVNFQtZTB3",
+    "snippet": {
+      "publishedAt": "2020-04-05T16:55:19.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "Опенсорсим 2 (Артем Кобзарь)",
+      "description": "Карантинный проект, где мы погружаемся в недра Open Source различных проектов и пытаемся чего-то там исправить, попутно рассказывая байки и отвечая на вопросы \n\nВидео создано благодаря подписчикам проекта на нашем Patreon. \n\nХотите получать контент на 3 месяца раньше остальных? Присоединяйтесь! https://patreon.com/javascriptninja",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ADnBU4T-e0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ADnBU4T-e0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ADnBU4T-e0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ADnBU4T-e0w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ADnBU4T-e0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ADnBU4T-e0w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-nza3zNOLIkg8m47hYoxlqbJ-KY\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLk1jT181eTlBWG1v",
+    "snippet": {
+      "publishedAt": "2020-03-31T23:50:17.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "Опенсорсим (попытка 2) (Артем Кобзарь)",
+      "description": "Видео создано благодаря подписчикам проекта на нашем Patreon. \r\n\r\nХотите получать контент на 3 месяца раньше остальных? Присоединяйтесь! https://patreon.com/javascriptninja",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/McO_5y9AXmo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/McO_5y9AXmo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/McO_5y9AXmo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "McO_5y9AXmo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PvuQz08G5-Q0jWECi4RGq6B06Mg\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLmZpLWYwb3RBVUow",
+    "snippet": {
+      "publishedAt": "2020-03-31T19:19:30.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "Open-source-им (Artem Kobzar)",
+      "description": "Первый стрим из возможного последующего цикла стримов, где Я (Артём Кобзарь) контрибьючу в свои или чужие проекты, параллельно рассказывая всякое про тематику проекта и отвечая на вопросы из чата.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fi-f0otAUJ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fi-f0otAUJ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fi-f0otAUJ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fi-f0otAUJ0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fi-f0otAUJ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fi-f0otAUJ0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Jp9KFVxGk72o96iHZneS1ewkCvM\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLmxjd1h5RFk4ZS0w",
+    "snippet": {
+      "publishedAt": "2020-03-29T20:48:20.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] Ask me anything / 2020-03-29",
+      "description": "Поддержите проект JavaScript.Ninja на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lcwXyDY8e-0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lcwXyDY8e-0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lcwXyDY8e-0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lcwXyDY8e-0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lcwXyDY8e-0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lcwXyDY8e-0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TocecilK5MXuY0hHpiGj1vqJVlg\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLk1sZWFESElmUXVN",
+    "snippet": {
+      "publishedAt": "2020-03-28T19:13:22.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "2. input-simple (разбор задачи) - Vue101: EAP",
+      "description": "Демонстрационный разбор задачи курса Vue101: EAP\nСледующие лекции публично будут не доступны\n\nДетали о курсе - https://docs.google.com/document/d/1PywliR1hTTarVfW6CMkeLZWNCB9EAzv9UCdHZ15gJnw/edit?usp=sharing\n\nПрисоединиться можно до 1 апреля.\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MleaDHIfQuM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MleaDHIfQuM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MleaDHIfQuM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MleaDHIfQuM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MleaDHIfQuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MleaDHIfQuM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eDf6LPNuudGQd9x2YiMl0lRRPfE\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLldrVHdVN3lNNTVV",
+    "snippet": {
+      "publishedAt": "2020-03-25T19:20:32.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "1. Компоненты - Vue101: EAP",
+      "description": "Демонстрационная лекция курса Vue101: EAP\nСледующие лекции публично будут не доступны\n\nДетали о курсе - https://docs.google.com/document/d/1PywliR1hTTarVfW6CMkeLZWNCB9EAzv9UCdHZ15gJnw/edit?usp=sharing\n\nПрисоединиться можно до 1 апреля.\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WkTwU7yM55U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WkTwU7yM55U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WkTwU7yM55U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WkTwU7yM55U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WkTwU7yM55U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WkTwU7yM55U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/blYvd1Boldflecaar-4es6VDFvQ\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLlVUT01hYUpvU0Vz",
+    "snippet": {
+      "publishedAt": "2020-03-08T22:07:07.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] Ask me* anything / 2020-03-08",
+      "description": "Поддержите проект JavaScript.Ninja на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UTOMaaJoSEs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UTOMaaJoSEs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UTOMaaJoSEs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UTOMaaJoSEs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UTOMaaJoSEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UTOMaaJoSEs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/e9xe-hKgJvCpBrc7JGLW6Pg0vIE\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLlUyQ0F2MEFIXzVV",
+    "snippet": {
+      "publishedAt": "2020-03-08T19:05:11.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] Ask me* anything / 2020-03-08",
+      "description": "Поддержите проект JavaScript.Ninja на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U2CAv0AH_5U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U2CAv0AH_5U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U2CAv0AH_5U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U2CAv0AH_5U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U2CAv0AH_5U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "U2CAv0AH_5U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nLaoZHElOgOeC0drD1BC2Lnnmgw\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLnNKcTBoVWFRMGQ4",
+    "snippet": {
+      "publishedAt": "2020-03-07T15:19:31.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] #10 Доделал? Оформи! - Скучный вторник",
+      "description": "Занятие на сегодня: \nhttps://gitlab.com/gitlab-org/gitlab-ui/issues/590\n---\n?: Почему работаешь в субботу?\n!: Потому что в пятницу не было вдохновения. Не \"болел\" или еще что - а не было вдохновения. А хочется доделать. Для себя\n\n\n\n\n\nСкучный вторник - это проект еженедельных стримов про работу в GitLab на реальных задачах.\n\nЖелезо: Microsoft Surface Book 2\nОС: ArchLinux\nПК: Microsoft Surface Book 2\nКлавиатура: DasKeyboard 4 Ultimate \nDE: Gnome Shell + PaperWM\nШрифт: PragmataPro\nСписок плагинов VSCode:\n- Классика: ESLint, Prettier, GitLens\n- TabNine\n- Vetur\n- Rainbow Brackets\nТема VSCode: Night Owl\n\n\n\nПроект выходит благодаря моим самым лучшим в мире подписчикам на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sJq0hUaQ0d8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sJq0hUaQ0d8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sJq0hUaQ0d8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sJq0hUaQ0d8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sJq0hUaQ0d8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sJq0hUaQ0d8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V4phwT1_08uVo1KibdtfFE-QiYo\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLk96MVhIbEZjQ21r",
+    "snippet": {
+      "publishedAt": "2020-02-27T16:03:23.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] #9.5 Wait for it! - Скучный вторник",
+      "description": "Занятие на сегодня: \nhttps://gitlab.com/gitlab-org/gitlab-ui/issues/590\nhttps://gitlab.com/gitlab-org/gitlab-ui/issues/636\nhttps://gitlab.com/gitlab-org/gitlab/-/merge_requests/23606\n\n\nПишете на Vue? Присоединяйтесь к нашему клубу в Telegram\nhttps://t.me/vuejs_club\n\nСкучный вторник - это проект еженедельных стримов про работу в GitLab на реальных задачах.\n\nОС: ArchLinux\nПК: Microsoft Surface Book 2\nКлавиатура: DasKeyboard 4 Ultimate \nDE: Gnome Shell + PaperWM\nШрифт: PragmataPro\nСписок плагинов VSCode:\n- Классика: ESLint, Prettier, GitLens\n- TabNine\n- Vetur\n- Rainbow Brackets\nТема VSCode: Night Owl\n\n\nПроект выходит благодаря моим самым лучшим в мире подписчикам на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Oz1XHlFcCmk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Oz1XHlFcCmk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Oz1XHlFcCmk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Oz1XHlFcCmk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Oz1XHlFcCmk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Oz1XHlFcCmk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/F5IJzVRwCAaGL87DzobXJD7gCzQ\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLmpNSEVjLWFxUDFV",
+    "snippet": {
+      "publishedAt": "2020-02-25T16:23:47.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] #9 Wait for it! - Скучный вторник",
+      "description": "Занятие на сегодня: \nhttps://gitlab.com/gitlab-org/gitlab-ui/issues/590\nhttps://gitlab.com/gitlab-org/gitlab-ui/issues/636\nhttps://gitlab.com/gitlab-org/gitlab/-/merge_requests/23606\n\n\nПишете на Vue? Присоединяйтесь к нашему клубу в Telegram\nhttps://t.me/vuejs_club\n\nСкучный вторник - это проект еженедельных стримов про работу в GitLab на реальных задачах.\n\nОС: ArchLinux\nПК: Microsoft Surface Book 2\nКлавиатура: DasKeyboard 4 Ultimate \nDE: Gnome Shell + PaperWM\nШрифт: PragmataPro\nСписок плагинов VSCode:\n- Классика: ESLint, Prettier, GitLens\n- TabNine\n- Vetur\n- Rainbow Brackets\nТема VSCode: Night Owl\n\n\nПроект выходит благодаря моим самым лучшим в мире подписчикам на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jMHEc-aqP1U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jMHEc-aqP1U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jMHEc-aqP1U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jMHEc-aqP1U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jMHEc-aqP1U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jMHEc-aqP1U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ISe7qCMsB_s97bMbC3PPHblXy48\"",
+    "id": "VVVXOXB5b25hZ0RXR01DeTdWX0tybzZnLklRdzNnOUhLMDZF",
+    "snippet": {
+      "publishedAt": "2020-02-23T22:03:26.000Z",
+      "channelId": "UCW9pyonagDWGMCy7V_Kro6g",
+      "title": "[RU] Ask me anything / 2020-02-23",
+      "description": "Поддержите проект Javascript.Ninja на Patreon!\nhttps://patreon.com/javascriptninja\n---\nJavaScript.ninja Code of Conduct (набор правил поведения)\nhttps://telegra.ph/Kodeks-povedeniya-proekta-JavaScriptNinja-12-15\n\n---\n\nМы на:\nFacebook - https://fb.me/jsninja\nTelegram-группа - https://t.me/javascript_ninja\nTelegram-канал - https://t.me/jsninja_news",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IQw3g9HK06E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IQw3g9HK06E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IQw3g9HK06E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "JavaScript.Ninja",
+      "playlistId": "UUW9pyonagDWGMCy7V_Kro6g",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IQw3g9HK06E"
+      }
+    }
+  }
+]

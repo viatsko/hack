@@ -1,0 +1,62 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4QnYu3nhbqTNnZm8HhucF7c9VcI\"",
+      "id": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "snippet": {
+        "title": "Yahoo Developer Network",
+        "description": "",
+        "publishedAt": "2010-01-29T18:55:52.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzSxzU0kZBytQGC1CXbMi2vz1cHsLayP4l6iA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzSxzU0kZBytQGC1CXbMi2vz1cHsLayP4l6iA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzSxzU0kZBytQGC1CXbMi2vz1cHsLayP4l6iA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Yahoo Developer Network",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UU4MJvi5SyXYnoorWVBTFJKQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU4MJvi5SyXYnoorWVBTFJKQ"
+  },
+  "displayName": "Yahoo Developer Network",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzSxzU0kZBytQGC1CXbMi2vz1cHsLayP4l6iA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzSxzU0kZBytQGC1CXbMi2vz1cHsLayP4l6iA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzSxzU0kZBytQGC1CXbMi2vz1cHsLayP4l6iA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

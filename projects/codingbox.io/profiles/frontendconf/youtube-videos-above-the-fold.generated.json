@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oaXIuK3fzCzKLikDMNwtitxgOl4\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLkZRcjlsQkhEdjNr",
+    "snippet": {
+      "publishedAt": "2019-11-25T19:48:28.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Отчет о FrontendConf 2019",
+      "description": "Профессиональная конференция фронтенд-разработчиков\n\n13 и 14 октября 2019\nМосква, Digital October\n\nhttps://frontendconf.ru/moscow/2019",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FQr9lBHDv3k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FQr9lBHDv3k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FQr9lBHDv3k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FQr9lBHDv3k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FQr9lBHDv3k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FQr9lBHDv3k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WqoG5KvgdXJNxFKBUXgJumNPP5Y\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLmRhdDRQbm9RdmFR",
+    "snippet": {
+      "publishedAt": "2019-12-10T19:06:09.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "React Native для самых маленьких: опыт мобильной разработки / Артем Лашевский (SEMrush)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5776\n\nЧто делать, если в бэклоге продуктовой команды появилась задача по разработке мобильного приложения с целью проверки гипотезы востребованности продукта и его удобства для пользователей?\n\nЯ знаю ответ, ведь все это я прожил на собственном опыте. В тот момент мне сильно помог React Native, именно поэтому он и станет основной темой моего доклада. \n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dat4PnoQvaQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dat4PnoQvaQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dat4PnoQvaQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dat4PnoQvaQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dat4PnoQvaQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dat4PnoQvaQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V2Ko7NjoW7xNQGUif8k4NG9QQlo\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLnRINTZqUUJ6TEVj",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:05:30.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Relay Modern: data fetching, mutations and subscriptions / Александр Руденко (Waves)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5513\n\nВ докладе будут раскрыты основные задачи, которые решались с помощью Relay Modern, а именно:\n- data-fetching и refetch;\n- мутация данных;\n- подписки: что это такое в контексте Relay Modern и как их применять.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tH56jQBzLEc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tH56jQBzLEc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tH56jQBzLEc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tH56jQBzLEc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tH56jQBzLEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tH56jQBzLEc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q-AHVT42rriy2h6ZG9dPd7utAFc\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLmh4VEhFbEF2dXlv",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:05:35.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "По ту сторону баннера / Дмитрий Дятчин (Rambler Group)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5826\n\n1. Сокращение времени на анимацию HTML5-баннеров, благодаря Adobe Animate.\n2. Подготовка баннеров под площадки размещения в пару кликов.\n3. Подготовка анимации для web.\n4. Создание анимации в Animate для использования в GSAP.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hxTHElAvuyo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hxTHElAvuyo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hxTHElAvuyo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hxTHElAvuyo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hxTHElAvuyo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hxTHElAvuyo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MzLce1vwz59j51AHk_wnlI7Z8HQ\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLkNxcUxZWnZOb3hn",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:05:42.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Serverless для frontend-разработчиков / Сергей Пугачёв (Amazon)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5860\n\nИз доклада frontend-разработчики узнают о том, как с помощью serverless-подхода можно реализовать хранение данных, авторизацию и исполнение кода в облаке без настройки и поддержки серверов. Рассматриваются функции как сервис (FaaS) на примере AWS Lambda с GraphQL API для синхронизации данных.\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CqqLYZvNoxg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CqqLYZvNoxg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CqqLYZvNoxg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CqqLYZvNoxg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CqqLYZvNoxg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CqqLYZvNoxg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tPNMITYLpsw4kK8ifjLwNkf_wk4\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLlp1MThjTUpHZXF3",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:05:52.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Event-Driven Architecture: детали реализаций Event Loop / Вадим Горбачев (OpenWay)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5548\n\nСобытийно-ориентированная архитектура (EDA) является одним из важных подходов в нынешнем вебе. Именно данный подход позволил решить проблему c10k и был взят за основу взаимодействия с DOM.\n\nКакие проблемы были обозначены за время ее использования? Что такое отравление обработчика? Как искать эти проблемы в своих приложениях? Ответим на эти вопросы в докладе.\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zu18cMJGeqw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zu18cMJGeqw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zu18cMJGeqw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Zu18cMJGeqw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Zu18cMJGeqw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Zu18cMJGeqw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qDMU-_y3nd510JD7X20JPHSbME0\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLmhRZmdscUUxOEpv",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:05:59.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "История про моделирование «по-быстрому» / Александр Прибыткин (МегаФон)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5973\n\nВ нашей команде МегаФон, нам часто приходится визуализировать физические процессы в привязке к геолокации.\n\nЯ поделюсь опытом создания решения для отображения «скругленных», произвольных многоугольников, а также оптимизацией их работы. \n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hQfglqE18Jo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hQfglqE18Jo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hQfglqE18Jo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hQfglqE18Jo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hQfglqE18Jo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hQfglqE18Jo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dFwmoJBqNs37Fxzij3Mr-AowfDc\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLmVBMWJlcENnWjZz",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:05.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Верстка email-рассылок. Советы на реальных примерах / Александр Рачила (AWG)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5998\n\nВы узнаете, чем могут отличаться email-рассылки от простых писем и что это за собой влечет.\n\nМы рассмотрим ключевые особенности и ограничения почтовых клиентов в 2019 году.\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eA1bepCgZ6s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eA1bepCgZ6s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eA1bepCgZ6s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eA1bepCgZ6s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eA1bepCgZ6s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eA1bepCgZ6s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gd18jftU84jeHB_qoiVNlGOeO_0\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLk9EV2FraDdUbDlz",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:11.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5128\n\nВы сделали хорошее приложение: красивое и сложное. Но была проблемка — API не успели сделать достаточно быстрым, и приложение грузится медленно. Решение выбрали простое — overlay с ajax-loader, пока всё не загрузится.\n\nМожно ли улучшить это решение? Можно ли сделать ваше приложение доступным, даже пока от сервера не пришли данные и показывать, казалось бы, нечего?\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ODWakh7Tl9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ODWakh7Tl9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ODWakh7Tl9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ODWakh7Tl9s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ODWakh7Tl9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ODWakh7Tl9s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ii7oHXl2LeF_sWHiKeJiJMR5hTE\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLmlXOXdfNFRTV2pV",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:15.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "RUST + WEBASSEMBLY / Илья Барышников (Align Technology)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/4782\n\n* Зачем это нужно?\n* О производительности в JavaScript, сильные и слабые стороны браузерных движков.\n* Какие проблемы решает WebAssembly.\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iW9w_4TSWjU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iW9w_4TSWjU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iW9w_4TSWjU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iW9w_4TSWjU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iW9w_4TSWjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iW9w_4TSWjU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hYNrudy4VBDdcjv0jVvgNVyBdUw\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLkdKWnpKcnlrY3A0",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:21.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "display: grid; grid: subgrid; / Серёжа Попов (Лига А.)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5717\n\nПро CSS Grid 2 уровня активно разговаривают на западе, а у нас это всё пока в разряде чёрной магии. Да, они ещё почти не поддерживаются, но вспомните, как быстро пришли гриды.\n\nЯ расскажу всё, что знаю про CSS Subgrid — что это такое, как это можно будет использовать и как это сможет упростить жизнь в будущем. \n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GJZzJrykcp4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GJZzJrykcp4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GJZzJrykcp4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GJZzJrykcp4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GJZzJrykcp4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GJZzJrykcp4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-E_BY7Wut1fgkkwStMg8oV2ncPI\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLlNNTTNic1l5Rmxz",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:26.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Docker для фронтендера / Алексей Авдеев (Neuron.Digital)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5593\n\n* Docker - это не только для админов.\n* Чем Docker похож на уже привычные нам инструменты.\n* Почему именно фронтенд-разработчик, а не кто-то другой, должен уметь собирать своё приложение в контейнер.\n* Кейсы использования Docker для фронтенд-разработчика.\n* Почему добавление новых людей в команду гораздо проще, если вы используете Docker.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SMM3bsYyFls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SMM3bsYyFls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SMM3bsYyFls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SMM3bsYyFls/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SMM3bsYyFls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SMM3bsYyFls"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QViaPq94EsRSJi6hycMScFoa0PQ\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLkdfM3FwMUhiaFI0",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:30.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Додо Пицца: собственная касса на веб-технологиях / Борис Гулай (Додо Пицца)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5538\n\nЗачем что-то менять, когда у тебя есть традиционное веб-приложение со всеми его плюсами: прозрачное обновление, работа на любой ОС лишь бы в приличном браузере, простота разработки, дизайна и деплоя? Незачем — до того момента, когда тебе нужно взаимодействовать с оборудованием. Сделать это из песочницы, в которой работает приложение в браузере, затруднительно. Для того и создавалась песочница, чтобы защитить локальный компьютер от поползновений веб-сайтов. Что ещё хуже, есть устойчивая тенденция на ужесточение ограничений песочницы.\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G_3qp1HbhR4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G_3qp1HbhR4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G_3qp1HbhR4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G_3qp1HbhR4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G_3qp1HbhR4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "G_3qp1HbhR4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LSlZQYps4pcHksfOXS65ELyGFfo\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLjFyMVNqZFA3NzZN",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:36.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Dart: маленький паровозик, который смог / Тимофей Лавренюк (KeepSolid)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5510\n\nDart - язык, который был призван исправить изъяны Javascript. И во многом у него получилось! Но при этом он так и не смог стать популярным, пока не появился Flutter.\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1r1SjdP776M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1r1SjdP776M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1r1SjdP776M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1r1SjdP776M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1r1SjdP776M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1r1SjdP776M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/J2pvK9gfzWpXgwu0XDH1lCqR21g\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLm5OS2UzS0J3Tm9r",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:46.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Микросервисы на node.js. Инструменты для налаживания взаимодействия / Кирилл Сергеев (Awwcor)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5945\n\nМикросервисы, node.js, тестирование производительности, взаимодействие по web sockets, rest, graphql - как это делать без боли, как разрабатывать быстро и не попасть в проблемы распределённых систем. Frontend и backend - как наладить взаимодействие.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nNKe3KBwNok/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nNKe3KBwNok/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nNKe3KBwNok/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nNKe3KBwNok/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nNKe3KBwNok/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nNKe3KBwNok"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yxDzXERCNfL-W7hH_fAcitLyebI\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLjV6czh2SldZdXd3",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:52.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Трассируем лучи в реальном времени / Артем Кунец (Align Technology)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5978\n\nЯ расскажу о способах 3D-рендеринга в реальном времени на примере растеризации и трассировки лучей.\n\nДоклад дает представление о том, какие трюки 3D-разработчики используют сейчас, и как трассировка лучей поможет избавиться от них. Я буду использовать технологии Nvidia RTX и Vulkan API, дам советы о том, как это использовать с Javascript и Node.js, а также покажу финальные рендеры.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5zs8vJWYuww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5zs8vJWYuww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5zs8vJWYuww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5zs8vJWYuww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5zs8vJWYuww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5zs8vJWYuww"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/676TGuEXappw-3UzSB3njp10194\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLkVGTVdiYi1OcENj",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:06:57.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Профилирование NodeJS / Артем Несмиянов (Яндекс)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5894\n\nДанный доклад расскажет о том, что такое профилирование, научит локализировать потенциальные утечки памяти, а также немного углубит понимание инструмента DevTools.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EFMWbb-NpCc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EFMWbb-NpCc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EFMWbb-NpCc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EFMWbb-NpCc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EFMWbb-NpCc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EFMWbb-NpCc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/as3mvs0Au9oPoZWNfy8uSISwu18\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLnFycnZmX1Z6aExF",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:07:02.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Голый фронтенд / Андрей Яманов (Sellerscale)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5916\n\nФронтенд постоянно радует нас большим числом новых стандартов, призванных облегчить и упростить жизнь программистов, но несмотря на это, год от года сборки сайтов пухнут, а количество и сложность технологий растёт. В 2019-ом создать веб-приложение, отвечающее всем современным требованиям, силами одного разработчика почти нереально. Но возможно не всё потеряно, и есть шанс вернуть былую простоту в веб-разработку!\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qrrvf_VzhLE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qrrvf_VzhLE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qrrvf_VzhLE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qrrvf_VzhLE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qrrvf_VzhLE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qrrvf_VzhLE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7C2PEfKnc9q_u4_71fnWBkV28iI\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLjRnMld3N3VGbEJr",
+    "snippet": {
+      "publishedAt": "2019-12-10T18:55:16.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "_ ___ ______? / Вадим Макеев (HTML Academy)",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5749\n\nДесять лет назад в вебе появились шрифты. Ну и как? Когда загружаются, даже красиво! И немного дорого для пользователей, конечно. И ещё дороже для клиентов. Местами дыряво, иногда криво — но это, думаю, Белка чудит. Но если прыгнуло, то значит точно будет красиво. Хотя, может, ну их? Подключим системные и будем как все, нет?\n\nНет, давайте разбираться.\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4g2Ww7uFlBk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4g2Ww7uFlBk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4g2Ww7uFlBk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4g2Ww7uFlBk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4g2Ww7uFlBk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4g2Ww7uFlBk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lpR2yjWgcy-kZC64bE3DzgfEld0\"",
+    "id": "VVVHUVJuMGFUbkpLLXpIRkFkVDlObTFBLnlvYUE2V0FHUUZF",
+    "snippet": {
+      "publishedAt": "2020-04-14T17:07:17.000Z",
+      "channelId": "UCGQRn0aTnJK-zHFAdT9Nm1A",
+      "title": "Правила осознанной карьеры разработчика / Анастасия Калашникова",
+      "description": "При поддержке AvitoTech мы впервые публикуем все видео с FrontendConf 2019 в открытый доступ. Учитесь, вдохновляйтесь и перенимайте лучшие практики у спикеров, не выходя из дома.        \n--------\nКалендарь конференций - https://ontico.ru\n--------\nFrontendConf 2019\n\nТезисы и презентация:\nhttps://frontendconf.ru/moscow/2019/abstracts/5547\n\nБывает так, что мы буквально обнаруживаем себя на каком-то месте работы, в какой-то роли и не понимаем, как, вообще, попали сюда. Бывает так, что спустя 2-3 года разработки на каком-то языке становится понятно, что выбрал не то направление. Или, например, когда-то согласился быть тимлидом, хотя никогда не было интересно заниматься управлением. Как согласился, почему выбрал такое направление — непонятно.\n...\n--------\nНашли ошибку в видео? Пишите нам на support@ontico.ru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yoaA6WAGQFE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yoaA6WAGQFE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yoaA6WAGQFE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yoaA6WAGQFE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yoaA6WAGQFE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Frontend Channel",
+      "playlistId": "UUGQRn0aTnJK-zHFAdT9Nm1A",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yoaA6WAGQFE"
+      }
+    }
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/C4_QXTNLIYb45fi1lQZzorAesgg\"",
+      "id": "UC3ts8coMP645hZw9JSD3pqQ",
+      "snippet": {
+        "title": "Andreas Kling",
+        "description": "Hello friends! I'm building SerenityOS, a new from-scratch graphical operating system for desktop computers.",
+        "customUrl": "andreaskling",
+        "publishedAt": "2012-11-16T18:04:06.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxY7Q_8ZawQkVUaz1wKluUQOHkwi7GvT3wbMw=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxY7Q_8ZawQkVUaz1wKluUQOHkwi7GvT3wbMw=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxY7Q_8ZawQkVUaz1wKluUQOHkwi7GvT3wbMw=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Andreas Kling",
+          "description": "Hello friends! I'm building SerenityOS, a new from-scratch graphical operating system for desktop computers."
+        },
+        "country": "SE"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UU3ts8coMP645hZw9JSD3pqQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU3ts8coMP645hZw9JSD3pqQ"
+  },
+  "displayName": "Andreas Kling",
+  "description": "Hello friends! I'm building SerenityOS, a new from-scratch graphical operating system for desktop computers.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxY7Q_8ZawQkVUaz1wKluUQOHkwi7GvT3wbMw=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxY7Q_8ZawQkVUaz1wKluUQOHkwi7GvT3wbMw=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxY7Q_8ZawQkVUaz1wKluUQOHkwi7GvT3wbMw=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tLvN9b0j_9d1qO5fqAETvWIN53A\"",
+      "id": "UCW9pyonagDWGMCy7V_Kro6g",
+      "snippet": {
+        "title": "JavaScript.Ninja",
+        "description": "",
+        "customUrl": "javascriptninja",
+        "publishedAt": "2015-10-10T08:48:04.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwBIDu3zwOW9GjRiYpJa638NOT-YlR6G12y1Q=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwBIDu3zwOW9GjRiYpJa638NOT-YlR6G12y1Q=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwBIDu3zwOW9GjRiYpJa638NOT-YlR6G12y1Q=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "JavaScript.Ninja",
+          "description": ""
+        },
+        "country": "UA"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUW9pyonagDWGMCy7V_Kro6g",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUW9pyonagDWGMCy7V_Kro6g"
+  },
+  "displayName": "JavaScript.Ninja",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwBIDu3zwOW9GjRiYpJa638NOT-YlR6G12y1Q=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwBIDu3zwOW9GjRiYpJa638NOT-YlR6G12y1Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwBIDu3zwOW9GjRiYpJa638NOT-YlR6G12y1Q=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

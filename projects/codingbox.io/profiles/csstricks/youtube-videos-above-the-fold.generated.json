@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/87j2COvANgoyMHf8uyBSUJd-tds\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLlpucnE0ZzluWmh3",
+    "snippet": {
+      "publishedAt": "2020-04-13T15:08:03.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Art Directing Images, the Picture Element, and Image CDNs",
+      "description": "It's a bonafide phenomenon!\n\nI'm talking about the idea of image hosting services that allow you to manipulate the URL to the image in order to transform it. So if you know you need multiple copies of an image in order to do the responsive images syntax justice, you don't have to actually make the images yourself, you just adjust the URL so that you have the perfect image for the job.\n\nThis idea of manipulating the URL has made its way into tons of image hosting services. Let's take advantage of what those services have to offer and do something above and beyond typical responsive images: let's art direct them.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Znrq4g9nZhw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Znrq4g9nZhw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Znrq4g9nZhw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Znrq4g9nZhw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Znrq4g9nZhw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Znrq4g9nZhw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bH6n_An24sDFfeSdYZAhgxzcGSI\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLmptalhJdkRrY1Jv",
+    "snippet": {
+      "publishedAt": "2020-04-10T16:01:48.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Baby's First Vue SFC",
+      "description": "SFC as in \"Single File Component\", something that Vue offers and Vue people seem to love. I've written VERY LITTLE Vue in my days, but I'm a fan! We recently started supporting Vue SFC's on CodePen, and so this is my very first attempt at trying to write one in this syntax. This certainly isn't for people that already have a good grasp on Vue, it's for fellow poke-arounders.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jmjXIvDkcRo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jmjXIvDkcRo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jmjXIvDkcRo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jmjXIvDkcRo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jmjXIvDkcRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jmjXIvDkcRo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Zefs4oOAgJ8Vt5n1CVxSpIJrEjA\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLlRvNWNCWDhQX1FZ",
+    "snippet": {
+      "publishedAt": "2020-04-09T19:12:12.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Poking at HTML Lists",
+      "description": "I had a dumb little issue the other day where a nested list didn't quite have the right spacing. I was only adding margin-bottom on the list elements and the lists themselves, but that meant when you nested a list there was no space between the first nested list item and the parent list item above it. It got me thinking about margins, spacing in general, and nested items.\n\nLet's have a poke at lists. We'll take a look at ::marker and how handy that is. We'll look at different kinds of lists. And we'll spend lots of time just thinking about spacing in general and how it works with lists and list items.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/To5cBX8P_QY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/To5cBX8P_QY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/To5cBX8P_QY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/To5cBX8P_QY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/To5cBX8P_QY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "To5cBX8P_QY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/x23ZrFb0x4-N4_lVFzOicYdo230\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLkZlRURPNjhGRUpN",
+    "snippet": {
+      "publishedAt": "2020-04-03T14:24:37.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Tinkering with Video on Mobile",
+      "description": "Fair warning: I'm no expert on this stuff, I'm just playing around with video on the web and addressing some issues I have when showing off video clips in blog posts and stuff.\n\nI have an iOS simulator up in this video, and I'm putting an HTML video tag in a basic HTML document for a quick video I recorded with Kap. \n\nThere are lots of things to consider with mobile video, like giving it controls, how it plays inline or fullscreen, how it streams, where to host it, dealing with quality, dealing with a custom player, how it looks as the page loads, and more.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FeEDO68FEJM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FeEDO68FEJM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FeEDO68FEJM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FeEDO68FEJM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FeEDO68FEJM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FeEDO68FEJM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JGbwAmYDkluT1O6oKuiwSgFyg4Q\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLjhiaEtqb293cjRj",
+    "snippet": {
+      "publishedAt": "2020-04-01T18:59:12.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "A Grid of Squares",
+      "description": "Using CSS grid to make a grid, is, well, the whole point. But what if you want all those grid items to maintain an aspect ratio, like a 1:1 square? It's possible, but it involves a little trickery. In this video, we'll look at doing that because we want to put a logo, centered, in each square.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8bhKjoowr4c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8bhKjoowr4c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8bhKjoowr4c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8bhKjoowr4c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8bhKjoowr4c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8bhKjoowr4c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hQ7fpTCH57GY8uAHJU1E3kyDgnY\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLlZiZzgxa2M1NkZV",
+    "snippet": {
+      "publishedAt": "2019-11-06T16:24:57.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Percy helps make sure the visual changes you make to your sites are intentional",
+      "description": "I wanted to make sure you understand exactly what Percy can do for you, hence the title. When you commit a change to your websites Git repo, like in a Pull Request workflow most of us live in, Percy will let you know if that change causes any visual changes to your site. It will show you exactly what those changes are: what pages, what media query breakpoint, what browser, etc. \n\nIt's rather amazing.\n\nPercy has all kinds of powerful configuration, but it can also be quite simple. Percy! Go to this URL and take a screenshot of it! Percy! Go to this URL, click this button, then take a screenshot of that! If you're familiar with the fantastically simple browser automation language Puppeteer, that's what PercyScript uses.\n\nIn this screencast we look at how it's added to one of my open source repos and sites.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vbg81kc56FU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vbg81kc56FU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vbg81kc56FU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Vbg81kc56FU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Vbg81kc56FU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Vbg81kc56FU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HaJCVwCDTozz0keF1iHHrRNc2Lo\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLllCVU1ZcVlEWHRB",
+    "snippet": {
+      "publishedAt": "2019-10-24T22:13:27.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Workflow: Local WordPress Development to Production",
+      "description": "This is me (Chris Coyier) showing off the basics of how I work locally with a WordPress site, and then getting it to production.\n\nFlywheel is a sponsor of CSS-Tricks, and I'm glad they are because they make great products. First, Local by Flywheel is a tremendously easy way to spin up local WordPress sites to your liking. I use it for all my local WordPress development. It's a nice UI around little Docker containers. \n\nMy WordPress sites are all `wp-content` folders in private GitHub repos though, which is nice for working with other people, tracking issues, using integrations, etc. \n\nWhen the master branch is pushed to on GitHub, Buddy (the service) picks up on that change and runs a pipeline of stuff. That goes like 1) Deploy over SFTP to Flywheel hosting 2) Clear the cache at Cloudflare 3) Send a notification over Slack.\n\nFlywheel isn't just the local development, they are an awesome WordPress host. Cloudflare sits in front of it just for extra performance and protection.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YBUMYqYDXtA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YBUMYqYDXtA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YBUMYqYDXtA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YBUMYqYDXtA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YBUMYqYDXtA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YBUMYqYDXtA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gsI4yS54mthmoWTsJ4vn9vrVXHM\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLmZZMXBVZUZxVHNF",
+    "snippet": {
+      "publishedAt": "2019-10-25T21:38:06.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Working with Framer Motion",
+      "description": "Matt Perry (Framer) and Chris Coyier (CSS-Tricks) take a look at the React animation library Framer Motion (http://bit.ly/2BSQQyE).\n\nFirst we take a look at how simple the API is. You control everything very declaratively through props on elements in your JSX. Controlling animation at this layer is very intuitive and connected to the UI and state in a meaningful way. \n\nEach example we look at is more real-world and involves more features of what Framer Motion is capable of. React developers will love the syntax of it all, and everyone else will love the incredibly performant and smooth results.\n\nWe end looking at Framer itself, which uses this exact library internally to do all the animation things Framer does.\n\nDownload Framer X: http://bit.ly/2WntpqF",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fY1pUeFqTsE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fY1pUeFqTsE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fY1pUeFqTsE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fY1pUeFqTsE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fY1pUeFqTsE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fY1pUeFqTsE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5HohCs25y1_0rpxJCAqNkXxgM4g\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLll3QVVka0VPaERn",
+    "snippet": {
+      "publishedAt": "2019-10-10T19:43:21.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "7 Things to Know About Webflow",
+      "description": "This is a sponsored video I worked on between us at CSS-Tricks and Webflow I think Webflow is a fascinating product for building websites that is, in my opinion, in a category all to itself at the moment. It takes a little bit to wrap your mind around, so I hope that's what this video can help you do.\n\nhttps://wfl.io/css-tricks",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YwAUdkEOhDg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YwAUdkEOhDg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YwAUdkEOhDg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YwAUdkEOhDg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YwAUdkEOhDg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YwAUdkEOhDg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sah1_NK8ByPBJLlK-KrmJMSkeJI\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLllpQmF1MzBrSWpJ",
+    "snippet": {
+      "publishedAt": "2019-08-06T16:04:55.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Ooooops I guess we’re full-stack developers now.",
+      "description": "This is the video version of my talk. A website for the talk is here:\n\nhttps://full-stack.netlify.com/\n\nAnd by \"we're\", I mean us front-end developers ;)\n\nThis is a talk I put together where I postulate that, over time, the breadth of what front-end developers are able to do and are being asked to do has widened to the point that it's become full-stack development. Not that we've replaced back-end developers, because they are as important as ever too, it's just there is more overlap and more possibility. \n\nAlso, that spectrum of technology and tasks is so broad, that to do it all is stretching ourselves awfully wide. Some degree of specialization seems inevitable.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YiBau30kIjI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YiBau30kIjI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YiBau30kIjI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YiBau30kIjI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YiBau30kIjI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YiBau30kIjI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/s-REclSOgZI7p8NXNGnB4PtA8ow\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLmlKWU1QMHhfRUpr",
+    "snippet": {
+      "publishedAt": "2019-08-06T16:21:20.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Using Local Overrides in DevTools",
+      "description": "There is a feature of Chrome DevTools that lets you:\n\n1. See the code of any given resource the current web page is using (like CSS and JavaScript).\n2. \"Pretty Print\" it (format it for readability)\n3. Save it to disk\n4. Use that saved version to override the live version, even on page refresh.\n\nThat last one is pretty awesome. If you're debugging a problem that only seems to happen on the live website, it gives you a debugging tool that will allow you to get at the root of the problem.\n\nWe'll use that feature here to figure out a weird bug I was experiencing.\n\nTaken to the extreme, you could potentially even use DevTools as your primary code editor, since it's capable of mapping files back to where your actual project is on disk.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iJYMP0x_EJk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iJYMP0x_EJk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iJYMP0x_EJk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iJYMP0x_EJk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iJYMP0x_EJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iJYMP0x_EJk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-hulB2q6e7029w9Xyas-pLXOe-I\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLnBLTUxQSGZMTjdr",
+    "snippet": {
+      "publishedAt": "2019-08-06T15:12:04.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Hand-SVGing a Curved Line",
+      "description": "I find that 98% of all my SVG usage comes from pre-created SVG files or vector art in some design software that I ultimately export as SVG. Not super often am I hand-manipulating the coordinates of things in the SVG code. Hey, I've even got a book about all that: https://abookapart.com/products/practical-svg\n\nBut once in a while, it's appropriate, and maybe even a little bit fun. In this case, I wanted to draw a pretty specific line with a couple of soft turns in it. With a little knowledge of SVG's path syntax (the weirdest, but most powerful of SVG's drawing tools) we can get it done without much fuss.\n\nhttps://css-tricks.com/svg-path-syntax-illustrated-guide/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pKMLPHfLN7k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pKMLPHfLN7k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pKMLPHfLN7k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pKMLPHfLN7k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pKMLPHfLN7k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pKMLPHfLN7k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/r852ySZ8lGYXPSZ6rqncnfRKri8\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLk5YdHo1OVNKWWZN",
+    "snippet": {
+      "publishedAt": "2019-04-22T14:35:00.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Movable Stacked Card Row in CSS",
+      "description": "The overlap! That means the content for each card might be cut off a little bit, but that’s just an aesthetic effect. Each card can be hovered or focused, and when it is, a little animation comes in revealing it by moving it up and the rest of the cards away.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NXtz59SJYfM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NXtz59SJYfM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NXtz59SJYfM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NXtz59SJYfM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NXtz59SJYfM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NXtz59SJYfM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-6_qkXHwIULgGnQN4QmQG1oGlw0\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLklQSC1wVkItc3J3",
+    "snippet": {
+      "publishedAt": "2019-04-04T13:53:01.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Write an Email Newsletter with WordPress Gutenberg and Mailchimp",
+      "description": "Here's how it works:\n\n1. Use WordPress\n2. Have Custom Post Type for Newsletters\n3. Use the Gutenberg Ramp plugin to turn on Gutenberg for that CPT (If you aren't using Gutenberg everywhere already)\n4. WordPress will generate an RSS feed for that CPT\n5. MailChimp can send based on that RSS feed\n6. You control the template and design of the newsletter from the MailChimp site\n7. You control the template and design to publish on your own site, if you wish.\n\nOwn your content! And have a nice newsletter creation system!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IPH-pVB-srw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IPH-pVB-srw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IPH-pVB-srw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IPH-pVB-srw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IPH-pVB-srw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IPH-pVB-srw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gx1vWiZYtbUnHtqysWv2oXy97lA\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLjJxb3VtT3hEaXJ3",
+    "snippet": {
+      "publishedAt": "2019-02-25T20:37:18.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Watch an Amateur Spin Up a React + Babel + Webpack + CSS Modules Project",
+      "description": "Fair warning! This isn't a speedy, straightforward, expert-driven plow-through of how to set up these technologies. Although, by the end, we do successfully get it all going. This is about documenting the real-world experience of doing this kind of work. Some things work easily, some don't. Sometimes it's my fault. Sometimes the docs are unclear. Sometimes changes have happened under our feet. We have to battle through it all.\n\nUltimately, we get a working React + ReactDOM + Webpack 4 + Babel/JSX + CSS Modules project all set up.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2qoumOxDirw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2qoumOxDirw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2qoumOxDirw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2qoumOxDirw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2qoumOxDirw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2qoumOxDirw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yiU-ZVQCt70-vvFkGT5HCh1yIo4\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLkNLZWh4V0hRWG5F",
+    "snippet": {
+      "publishedAt": "2019-02-25T18:50:55.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Moving a WordPress.org Site to a WordPress.com Site",
+      "description": "That's exactly what I do in this video! I took my self hosted version of https://email-is-good.com/ and move it to WordPress.com. That way there is a whole slew of things I just don't have to worry about anymore.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CKehxWHQXnE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CKehxWHQXnE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CKehxWHQXnE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CKehxWHQXnE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CKehxWHQXnE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CKehxWHQXnE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/c-f6ganJFbVJVtHADYorwBPGtgU\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLm1RV3hub2ZnRzhF",
+    "snippet": {
+      "publishedAt": "2019-01-18T17:43:25.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Jetpack Let's You Use the WordPress.com Dashboard for your Self-Hosted WordPress Site",
+      "description": "There are features available on the WordPress.com dashboard that you have access to via Jetpack that you don't get otherwise.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mQWxnofgG8E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mQWxnofgG8E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mQWxnofgG8E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mQWxnofgG8E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mQWxnofgG8E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mQWxnofgG8E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QPou1lhyEW4fKOJAJ4Kni9budZY\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLnVsbDlpQ01UR0RF",
+    "snippet": {
+      "publishedAt": "2019-01-09T15:14:12.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "CSS-in-JS Explained",
+      "description": "I'm joined by Dustin Schau in this video and he is going to take me on a tour of the world of what has come to be known as CSS-in-JS. That is, doing your styling entirely in JavaScript, rather than in .css files that you link up in the head all on your own.\n\nDustin is a perfect guide for this, as he created a great exploratory tool called CSS in JS Playground and also has a brand new course on the subject.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ull9iCMTGDE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ull9iCMTGDE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ull9iCMTGDE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ull9iCMTGDE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ull9iCMTGDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ull9iCMTGDE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TA-KhFE5hQwWyGjFbAT6mdwWe_Y\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLlhUV0RGU2hOS1B3",
+    "snippet": {
+      "publishedAt": "2018-11-21T19:20:46.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Jetpack Image Speed",
+      "description": "Jetpack has some performance features built into it that you can just toggle straight on for sort of \"free\" performance gains. I'll show you exactly how that works by looking at an image that can be reduced in size by about 3x, loads 5x faster, and can sometimes not be loaded at all!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XTWDFShNKPw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XTWDFShNKPw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XTWDFShNKPw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XTWDFShNKPw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XTWDFShNKPw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XTWDFShNKPw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Rp3o7TwH3Ay5kF2_MC7d4lXWs1M\"",
+    "id": "VVVBRHlVT25oeUVvUXFyd19ScnNHbGVBLlNfeEpJQ2FWNlhN",
+    "snippet": {
+      "publishedAt": "2018-10-24T23:04:13.000Z",
+      "channelId": "UCADyUOnhyEoQqrw_RrsGleA",
+      "title": "Use WordPress.com if you can!",
+      "description": "WordPress.com is great for building lots of kinds of sites, but my perspective is that a lot of the value is that it reduces a heaping helping of technical debt.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S_xJICaV6XM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S_xJICaV6XM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S_xJICaV6XM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S_xJICaV6XM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S_xJICaV6XM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Chris Coyier",
+      "playlistId": "UUADyUOnhyEoQqrw_RrsGleA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "S_xJICaV6XM"
+      }
+    }
+  }
+]

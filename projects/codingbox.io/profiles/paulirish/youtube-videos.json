@@ -1,0 +1,1897 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xExQ567R4tWJs5oWFs-hTyF3H_0\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLlhiXzBhd29TaFI4",
+    "snippet": {
+      "publishedAt": "2017-09-14T23:50:29.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Debugging in 2017 with Node.js",
+      "description": "We're gonna takealigg---a little look at these topics:\n\n* 1:43 Debugging basics (--inspect) and Chrome DevTools integration\n* 4:17 Chrome DevTools demo\n* 8:46 Tools that make it even easier\n* 9:23 Add'l debugging APIs: \n  * _debugProcess() to start debugging an existing node process\n  * GDB interface for the CLI purists\n  * inspect over a websocket\n  * inspect with the new 'inspector' module\n* 11:47 Tracing in Node\n\nSlides: https://docs.google.com/presentation/d/1i5JREE3hhtG4FDip97zFJpMG_qb8k6fb5BRF09eyYTM/view\n\nWhile we've all used the trusty console.log for debugging our application, Node now has far more powerful debugging capabilities. Paul will demonstrate improved workflows for debugging, profiling and understanding your app using the DevTools Protocol. He will also share more advanced techniques for automating and monitoring Node.\n\nSorry for all the uhhh's and umm's.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Xb_0awoShR8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Xb_0awoShR8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Xb_0awoShR8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Xb_0awoShR8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Xb_0awoShR8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Xb_0awoShR8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zBhOSaaRnmVQn_JVxKiO3s2m0O0\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLkl4WEdNZXNxXzhz",
+    "snippet": {
+      "publishedAt": "2016-06-27T18:29:27.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Progressive Web Metrics session. BlinkOn Munich 2016",
+      "description": "Slides: https://bit.ly/pwmetricsdeck",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IxXGMesq_8s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IxXGMesq_8s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IxXGMesq_8s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IxXGMesq_8s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IxXGMesq_8s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IxXGMesq_8s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/O6oZpsq9giQ0gh1IWGpOPCzdyco\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLjF1ZmxnN0xEbXpJ",
+    "snippet": {
+      "publishedAt": "2015-12-11T02:14:47.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Building a Better Web Browser - James Mickens - Harvard CS Colloquium 2015",
+      "description": "2015-02-26. CS Colloquium at Harvard School of Engineering and Applied Sciences.\n\nNotes from this talk:\n* http://blog.rossry.net/notes-james-mickens/\n\nAbstract\nWeb browsers are defining increasingly rich APIs for networking, multimedia, and local storage. This is good in the sense that web applications can now approach the sophistication of traditional desktop applications. Unfortunately, in the race to add new browser features, discussions about clean interface design are often relegated to second-class status. The result is browsers that are difficult to make robust and secure. Browsers execute so many important applications, and expose so much complex functionality, that they should be treated as operating systems. I will discuss the implications of this claim, using case studies to motivate some core abstractions that browsers should export. I will also discuss some research challenges for building the next generation of browsers.\n\nBio\nJames Mickens is an associate professor of computer science at Harvard. Often described as The Hardest Working Man In Computer Science, his research spans genres, fields, and verb tenses. His seminal paper on byzantine fault tolerant proofreading has been mistakenly cited over 3000 times, and his 1987 paper “We Need More and Better Computers” provided the foundation for cloud computing, mobile computing, and any type of computing that benefits from more and/or better computers.\n\nMore Mickens:\n* http://mickens.seas.harvard.edu/wisdom-james-mickens\n* http://research.microsoft.com/apps/search/default.aspx?q=mickens&s=pu\n* http://research.microsoft.com/pubs/251792/149-li.pdf\nDomino: Understanding Wide-Area, Asynchronous\nEvent Causality in Web Applications\n* https://vimeo.com/95066828  so so good",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1uflg7LDmzI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1uflg7LDmzI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1uflg7LDmzI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1uflg7LDmzI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1uflg7LDmzI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X1itGBoQmSdGplAy0mRcKo0fvEM\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLnRDZkY2SEkwSktz",
+    "snippet": {
+      "publishedAt": "2015-07-28T22:56:12.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Pageload Perf Audits with DevTools Filmstrip in Chrome",
+      "description": "Using DevTools & Filmstrip to diagnose what's going on with slow pageloading. Sites: engadget, TMZ, indianexpress, timesofindia, theatlantic, techcrunch",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tCfF6HI0JKs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tCfF6HI0JKs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tCfF6HI0JKs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tCfF6HI0JKs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tCfF6HI0JKs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tCfF6HI0JKs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cd94GhaN7Sc9CGdPoo4kMLXDPq4\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLlU5eGZZYkt4b3NJ",
+    "snippet": {
+      "publishedAt": "2015-03-10T14:56:30.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Animation Timeline in Chrome DevTools - coming soon",
+      "description": "You can also slow down and pause all animations: http://valhead.com/2015/01/06/quick-tip-chrome-animation-controls/\nAnd edit the easing curves: http://i.imgur.com/ST7gD7u.png\n\nSoon, a timeline for viewing and editing animation effects. Keep an eye on Chrome Canary!\n\nMusic: Tourist - Tonight",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U9xfYbKxosI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U9xfYbKxosI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U9xfYbKxosI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U9xfYbKxosI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U9xfYbKxosI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "U9xfYbKxosI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L9nFDX61LMP5_0NgfJ9ltBmF_Bg\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLnZjamN5a042c213",
+    "snippet": {
+      "publishedAt": "2015-04-20T14:08:31.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Paint Profiler in Chrome DevTools Timeline",
+      "description": "See the details within each paint operation, a histogram of all the draw calls and then jump to associated element.  Keep paint unchecked when you don't need it, as it adds considerable overhead.\n\nhttp://updates.html5rocks.com/2015/04/devtools-timeline-improvements",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vcjcykN6smw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vcjcykN6smw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vcjcykN6smw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vcjcykN6smw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vcjcykN6smw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vcjcykN6smw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VwwSZSfis5efWJ8rMHHzMbnW8BI\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLnNDNklsRC1VMlRJ",
+    "snippet": {
+      "publishedAt": "2015-04-20T14:08:56.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Frame Viewer in Chrome DevTools Timeline",
+      "description": "Turn on the Paint checkbox and see what happened inside each frame, looking at the layer tree as it changes.  Keep paint unchecked when you don't need it, as it adds considerable overhead.\n\nhttp://updates.html5rocks.com/2015/04/devtools-timeline-improvements",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sC6IlD-U2TI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sC6IlD-U2TI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sC6IlD-U2TI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sC6IlD-U2TI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sC6IlD-U2TI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sC6IlD-U2TI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nMYjz7wluL1z7-Mqe3vbUKlKZs8\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLjB4eF9ka3Y5REVZ",
+    "snippet": {
+      "publishedAt": "2014-07-25T06:32:08.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014",
+      "description": "Slides: https://docs.google.com/presentation/d/1CgT43L1g1QOf32pkQhq0aJXBNgfG4uT-Egog6SWPjd4/edit",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0xx_dkv9DEY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0xx_dkv9DEY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0xx_dkv9DEY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0xx_dkv9DEY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0xx_dkv9DEY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0xx_dkv9DEY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ORFk3gY2_AfkFpAaqNAJxzxGDSg\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLmFtR3VZS01CektR",
+    "snippet": {
+      "publishedAt": "2014-06-02T21:12:16.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Found \"young paul\" excerpts",
+      "description": "My brother Jared found these awesome clips from our home videos. Thanks Jared. :D\n\nFirst, my video selfie. Then a sweet Elvis impression.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/amGuYKMBzKQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/amGuYKMBzKQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/amGuYKMBzKQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/amGuYKMBzKQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "amGuYKMBzKQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BzVyuOusfzfE9Y0as4ic_4taa2I\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLmlSSnVqUktVQ2pr",
+    "snippet": {
+      "publishedAt": "2014-03-13T08:22:38.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "m.imgur's poor pageload time (2014)",
+      "description": "on my personal at&t 3g connection.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iRJujRKUCjk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iRJujRKUCjk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iRJujRKUCjk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iRJujRKUCjk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iRJujRKUCjk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iRJujRKUCjk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-mo0wcOr3Gv9mjx_osMcsQZX2Gk\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLldRWmlvNURsU1hN",
+    "snippet": {
+      "publishedAt": "2014-03-12T06:01:42.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Redefining a function as you debug it in Chrome DevTools - LiveEdit recompilation in action",
+      "description": "JS recompilation combined with breakpoint debugging can make things really nice. Check this out.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WQZio5DlSXM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WQZio5DlSXM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WQZio5DlSXM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WQZio5DlSXM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WQZio5DlSXM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WQZio5DlSXM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ci_7-KnPx--PYe3siSf0FXy1KJ0\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLndvb292VkRMVVU4",
+    "snippet": {
+      "publishedAt": "2014-02-26T18:55:53.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "background v background color CSS Performance investigation",
+      "description": "Using Chrome DevTools timeline.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wooovVDLUU8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wooovVDLUU8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wooovVDLUU8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wooovVDLUU8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wooovVDLUU8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wooovVDLUU8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/D9qTXD9IRcRe7zxQuep4bQzVIDk\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLjNkQ2xxWGE5UzZZ",
+    "snippet": {
+      "publishedAt": "2014-01-11T03:32:42.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Answered: Do animated gifs still animate while in a background tab?",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3dClqXa9S6Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3dClqXa9S6Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3dClqXa9S6Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3dClqXa9S6Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3dClqXa9S6Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3dClqXa9S6Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Eug5cj4mBk_t2_muS0Nrvx4je9c\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLjZ3TC1wTFg5S3Ew",
+    "snippet": {
+      "publishedAt": "2013-11-06T02:08:39.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Emulating multitouch javascript events with a Mac trackpad",
+      "description": "Using Tuio and MagicTouch.js. Here's how: http://www.html5rocks.com/en/mobile/touch/#toc-touchdev",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6wL-pLX9Kq0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6wL-pLX9Kq0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6wL-pLX9Kq0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6wL-pLX9Kq0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6wL-pLX9Kq0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6wL-pLX9Kq0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FfqIW2Nbh_gialUwcYd8epcLd-c\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLk5IUFY4RUJsei1B",
+    "snippet": {
+      "publishedAt": "2013-08-29T01:52:33.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "devtools experiments",
+      "description": "super rough cut of me doing some random demos of devtools experiments. warning: this stuff will change and break and you can't yell at me when it does!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NHPV8EBlz-A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NHPV8EBlz-A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NHPV8EBlz-A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NHPV8EBlz-A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NHPV8EBlz-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NHPV8EBlz-A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/68hYCifqUE74G05WO4df1s9fNlg\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLm1TSzcwRndVejJB",
+    "snippet": {
+      "publishedAt": "2013-08-23T00:47:11.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Debugging and fixing Canadian Jank",
+      "description": "I took a look at the scrolling behavior in theex.com and improved the implementation so it was far more enjoyable to use. Chrome DevTools Timeline, show paint rectangles, and LiveEdit with V8 in action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mSK70FwUz2A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mSK70FwUz2A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mSK70FwUz2A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mSK70FwUz2A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mSK70FwUz2A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mSK70FwUz2A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4yn0GOcOtXzVARUCdtW93ScgY7o\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLnMtSk9DXzlzRENB",
+    "snippet": {
+      "publishedAt": "2013-11-06T13:02:33.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "devtools framework skipping",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s-JOC_9sDCA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s-JOC_9sDCA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s-JOC_9sDCA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s-JOC_9sDCA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s-JOC_9sDCA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "s-JOC_9sDCA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vNyGAXn5bLLSXhTGYf6sJ1MRzro\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLloxSXF6ZUEzWFhn",
+    "snippet": {
+      "publishedAt": "2013-07-30T09:12:12.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "100% faster paint time with Bootstrap 3",
+      "description": "Took a look at Bootstrap 3 vs Bootstrap 2.3 with Chrome's continuous paint to see a hefty difference in how fast it takes to paint.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z1IqzeA3XXg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z1IqzeA3XXg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z1IqzeA3XXg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Z1IqzeA3XXg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Z1IqzeA3XXg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Z1IqzeA3XXg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/U3mwEiMjmr4Hv3ozoY6KXi3Uqp0\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLlFjNDBZREZBNEJn",
+    "snippet": {
+      "publishedAt": "2013-06-29T02:59:21.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Effeckt.css trailer",
+      "description": "Details on the effeckt.css proposal:\nhttps://github.com/h5bp/lazyweb-requests/issues/122",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qc40YDFA4Bg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qc40YDFA4Bg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qc40YDFA4Bg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qc40YDFA4Bg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Qc40YDFA4Bg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aB9_o8HjqMQvn3Vdf0n5tgyWSAE\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLkE1OThzOGowR3p3",
+    "snippet": {
+      "publishedAt": "2013-06-03T18:18:53.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Chrome App + USB API + speech recognition API = electric shock therapy",
+      "description": "Chrome app by Dave Geddes (@geddski) & Aaron Frost (@js_dev).\nTheir full FluentConf session: \"1.21 gigawatts: ChromeApps with AngularJS and Node\" http://fluentconf.com/fluent2013/public/schedule/detail/27918\n\nA snippet from it here: http://www.youtube.com/watch?v=05jU2GQFURc",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A598s8j0Gzw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A598s8j0Gzw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A598s8j0Gzw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/A598s8j0Gzw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/A598s8j0Gzw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "A598s8j0Gzw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jwTUunidHfxnCaaby0yWBXJ-PK0\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLjBEUXdPU2JGQjVZ",
+    "snippet": {
+      "publishedAt": "2013-04-24T15:13:24.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Head That I Hold - Lipdub",
+      "description": "Track by Electric Guest. Recorded at Battersea Park, London\n\nMe being silly on a sunny day. April 20, 2013.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0DQwOSbFB5Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0DQwOSbFB5Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0DQwOSbFB5Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0DQwOSbFB5Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0DQwOSbFB5Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ktJxYyUT4vQ5m-KMoeS5Qosxqs8\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLmRpcXNzbXdPUHA4",
+    "snippet": {
+      "publishedAt": "2013-04-11T18:56:13.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "SVG filters, GPU-accelerated in Chrome",
+      "description": "Work by Chrome engineer Stephen White, though I did spruce up his demo a little bit. :D\n\nSome filters available now in Stable, other parts coming soon to Canary.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/diqssmwOPp8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/diqssmwOPp8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/diqssmwOPp8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/diqssmwOPp8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/diqssmwOPp8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "diqssmwOPp8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NB0SjiHa9qRtS3xAOJu6fCxqhBE\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLlUzZWdmRXdJLVZj",
+    "snippet": {
+      "publishedAt": "2013-03-28T07:34:59.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Grabbing a HAR file of 3G connection with Chrome DevTools",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U3egfEwI-Vc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U3egfEwI-Vc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U3egfEwI-Vc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U3egfEwI-Vc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U3egfEwI-Vc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "U3egfEwI-Vc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gKCL9Oja9f0lyKHvFoyhce4399A\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLldqOFAzbzVlVTg0",
+    "snippet": {
+      "publishedAt": "2013-03-19T04:20:48.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Android Screenshots and Screen Capture, live",
+      "description": "http://gusclass.com/blog/2013/03/18/mirroring-android-ui-for-screencasts-and-demos/\nWorks great. Slow FPS, but works during remote debugging.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Wj8P3o5eU84/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Wj8P3o5eU84/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Wj8P3o5eU84/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Wj8P3o5eU84/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Wj8P3o5eU84"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hkVa3x3snTqIP8Atx43__wjvN0I\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLk5aZWxyd2RfaVJz",
+    "snippet": {
+      "publishedAt": "2012-12-20T05:19:12.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "2D transform's translate() vs absolute positioning: Performance evaluation with Chrome DevTools",
+      "description": "CSS excitement: http://paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NZelrwd_iRs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NZelrwd_iRs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NZelrwd_iRs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NZelrwd_iRs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NZelrwd_iRs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NZelrwd_iRs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Z-a5fnAVaOXFgnjTRZMjqJKXQe4\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLnVtRUM4bGloVFRr",
+    "snippet": {
+      "publishedAt": "2012-11-20T15:17:38.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "paul lewis on JS garbage and memory",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/umEC8lihTTk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/umEC8lihTTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/umEC8lihTTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/umEC8lihTTk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/umEC8lihTTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "umEC8lihTTk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hqcYhjuke6AygpkFmkUfETdJv10\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLlF5NW9iTkl0UWlR",
+    "snippet": {
+      "publishedAt": "2012-10-03T08:56:17.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Chrome DevTools - Live Edit CSS, Save to Disk",
+      "description": "Here's how it works: (1) make changes to styles as you do (2) you can click through to the Sources pane and live-edit styles there, just like a text editor. (3) Right click and save to disk. choose where to save the file (4) Make some more changes (5) Just hit ctrl-s (or cmd-s) to immediately save back to disk in the same location.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qy5obNItQiQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qy5obNItQiQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qy5obNItQiQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qy5obNItQiQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qy5obNItQiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Qy5obNItQiQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1ZDGb4SopUvHMoCTi4dN2Na93l8\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLjVURzZUSzJudWVv",
+    "snippet": {
+      "publishedAt": "2012-09-26T20:44:38.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Globe with Google Maps and CSS Shaders",
+      "description": "By Azik Samarkandiy. Learn how it's done: http://updates.html5rocks.com/2012/09/Interactive-Globe-with-CSS-shaders-Google-Maps",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5TG6TK2nueo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5TG6TK2nueo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5TG6TK2nueo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5TG6TK2nueo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5TG6TK2nueo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5TG6TK2nueo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/j5DfEpkr7zLe1xxHYNIR-9-aN9w\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLjVCdWVpbE9ISXdz",
+    "snippet": {
+      "publishedAt": "2012-09-20T02:51:02.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "yayQuery ep[-1] Rough Draft Hangout",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5BueilOHIws/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5BueilOHIws/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5BueilOHIws/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5BueilOHIws/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5BueilOHIws"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aN4f3j1tZNpfTkfaYXqAtI6ywOo\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLloyWlhXMkhCTFBN",
+    "snippet": {
+      "publishedAt": "2012-06-11T17:39:53.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "pointerpointer.com's use of voronoi, canvas, and javascript",
+      "description": "I explain a little bit behind how pointerpointer.com was built.\nThx to @markwithasee to showing the site to me\n\nJust to be clear about the canvas. it's offset in the page because its used as a buffer canvas, mouse positions within the picture frame are sent over to it, and the offsets are determined relative to the canvas. So when I turn on the canvas, it looks like its in the wrong place but technically it doesn't need to be.\n\nLastly, the colors used in the canvas are there because in order to find which shape encloses your pointer, we can just just look up the pixel data and see what color is under the cursor, and thus the connection from color to shape to image. (thx rhys!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z2ZXW2HBLPM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z2ZXW2HBLPM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z2ZXW2HBLPM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Z2ZXW2HBLPM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Z2ZXW2HBLPM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Z2ZXW2HBLPM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lFzmZ4W7eCMVmCXRh67FiYrDB58\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLmhaSmFjbDJWa0tv",
+    "snippet": {
+      "publishedAt": "2012-05-04T18:56:59.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "classList for Great Good!",
+      "description": "Using Chrome DevTools's Timeline Frame Mode and classList for much improved performance.\nFor a better intro the Frame Mode feature see: http://www.youtube.com/watch?v=Vp524yo0p44",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hZJacl2VkKo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hZJacl2VkKo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hZJacl2VkKo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hZJacl2VkKo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hZJacl2VkKo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hZJacl2VkKo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ANQkLmJNUmdHqBmslZ1c6tw5zFg\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLkl0TWNReVhyV0Y4",
+    "snippet": {
+      "publishedAt": "2012-04-30T18:10:55.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Chrome DevTools Live Edit + Breakpoints",
+      "description": "Answer to http://stackoverflow.com/q/10318197/89484\n\nOne cool feature I didn't show: If you like your new adjustments to the script, you can go over to the Resources panel, find the script (it'll be updated with your changes), and you can right click and save it back to disk. Boom.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ItMcQyXrWF8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ItMcQyXrWF8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ItMcQyXrWF8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ItMcQyXrWF8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ItMcQyXrWF8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ItMcQyXrWF8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/04-bzFfxt9fTE4ITFohcbQQj6jE\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLld4bWNEb0F4ZG9Z",
+    "snippet": {
+      "publishedAt": "2011-11-18T22:19:41.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "The Primitives of the HTML5 Foundation",
+      "description": "Paul Irish gives a history and explanation about how low-level HTML5 entities work: the doctype, the charset, the parsing algorithm. He also covers attribute quoting, what values are valid IDs (snowmen and songs totally work), and doctype personalization.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WxmcDoAxdoY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WxmcDoAxdoY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WxmcDoAxdoY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WxmcDoAxdoY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WxmcDoAxdoY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WxmcDoAxdoY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ArkaE7r-qGOKUUAh7OKlhb0-JxU\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLk1idDZoMUJGVzhn",
+    "snippet": {
+      "publishedAt": "2011-11-01T19:43:54.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Modernizr's test suite: Behind the Scenes",
+      "description": "How I built the Modernizr test suite: caniuse, jsonselect, detect-global, qunit, jquery deferreds, github.js",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mbt6h1BFW8g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mbt6h1BFW8g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mbt6h1BFW8g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mbt6h1BFW8g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Mbt6h1BFW8g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Mbt6h1BFW8g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/u5d7hWfVDEE6f9StLS-K9zItgDw\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLjRDWnZlQ3JyR1Mw",
+    "snippet": {
+      "publishedAt": "2011-09-11T22:13:36.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Outlined DOM elements in the Chrome Dev Tools",
+      "description": "Easily mimic the outlines that Web Developer Extension does. Just with cleverness!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4CZveCrrGS0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4CZveCrrGS0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4CZveCrrGS0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4CZveCrrGS0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4CZveCrrGS0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4CZveCrrGS0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/F_7AgLiwsstRDI0xStgpgOf4Jl8\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLkVhNDFSZFExb0ZR",
+    "snippet": {
+      "publishedAt": "2011-08-24T04:54:50.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Viewing Painting Behavior w/ Chrome DevTools",
+      "description": "I show off --show-paint-rects and the Timeline and how they illustrate Chrome's paint cycle. You'll want to go full-screen on this. Update: This functionality is now in devtools as \"Show Paint Rectangles\" in the settings panel.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ea41RdQ1oFQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ea41RdQ1oFQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ea41RdQ1oFQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ea41RdQ1oFQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ea41RdQ1oFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ea41RdQ1oFQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4oCkR6B_KC9npAOtpWjQ3Lh5EQE\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLk1sbEJ3dUhiV01Z",
+    "snippet": {
+      "publishedAt": "2011-06-24T03:56:54.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Chrome Developer Tools for Speed",
+      "description": "I presented at Velocity 2011 about the tools within Chrome for getting more speed out of your apps.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MllBwuHbWMY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MllBwuHbWMY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MllBwuHbWMY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MllBwuHbWMY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MllBwuHbWMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MllBwuHbWMY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ypm3dKaMj9ADybiAHAo8S2KfHRY\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLklQd0NIOFdROFFv",
+    "snippet": {
+      "publishedAt": "2011-05-23T18:00:12.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "Webkit's input type=color demo",
+      "description": "Coming soon to a webkit near you.  http://webk.it/29358\n\nthx keishi hattori for the patch. thx @beverloo for the vid",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IPwCH8WQ8Qo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IPwCH8WQ8Qo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IPwCH8WQ8Qo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IPwCH8WQ8Qo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IPwCH8WQ8Qo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IPwCH8WQ8Qo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KV504OhOVaeIqzEx0rpXLdSmRJ0\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLk9YcENCM1VfNEln",
+    "snippet": {
+      "publishedAt": "2011-03-21T02:58:27.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "The Build Script of HTML5 Boilerplate: An Introduction",
+      "description": "http://html5boilerplate.com/\n\nhttp://html5boilerplate.com/docs/#Build-script\n\nboom boom",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OXpCB3U_4Ig/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OXpCB3U_4Ig/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OXpCB3U_4Ig/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OXpCB3U_4Ig/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OXpCB3U_4Ig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OXpCB3U_4Ig"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bh5nu5RwhmifqIiWDUmPiDGgOWg\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLm9EbHNPeVBLVVRN",
+    "snippet": {
+      "publishedAt": "2011-03-20T02:30:40.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "HTML5 Boilerplate Walkthrough",
+      "description": "Recorded August 23, 2010. Here I give an overview of what the HTML5 Boilerplate set of templates does. No dancing in this video, sadly.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oDlsOyPKUTM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oDlsOyPKUTM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oDlsOyPKUTM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oDlsOyPKUTM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oDlsOyPKUTM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oDlsOyPKUTM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nWElaDTv8SXdVthiddsO_afUmgc\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLlhhd3NFMmpzRG1j",
+    "snippet": {
+      "publishedAt": "2011-02-05T06:00:31.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "twitter rightclick bug",
+      "description": "it is a bummer.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XawsE2jsDmc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XawsE2jsDmc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XawsE2jsDmc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XawsE2jsDmc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GABUNonHg_Wp8MM759_JKL2jTjU\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLkFSbnA5WTh4Z1I0",
+    "snippet": {
+      "publishedAt": "2011-01-19T18:58:32.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "11 More Things I Learned from the jQuery Source",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ARnp9Y8xgR4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ARnp9Y8xgR4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ARnp9Y8xgR4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ARnp9Y8xgR4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ARnp9Y8xgR4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ARnp9Y8xgR4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yGpPHJBNVwlF9yzcQq7xUwAAAEw\"",
+    "id": "VVVmN3BPQ05zNnFtYlNzQnoyeFFCSTRnLmlfcUUxaUFtakZn",
+    "snippet": {
+      "publishedAt": "2010-06-14T22:14:42.000Z",
+      "channelId": "UCf7pOCNs6qmbSsBz2xQBI4g",
+      "title": "10 Things I Learned from the jQuery Source",
+      "description": "paul irish walks through the jquery source. teaches stuff. s'awesome.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i_qE1iAmjFg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i_qE1iAmjFg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i_qE1iAmjFg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i_qE1iAmjFg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i_qE1iAmjFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Paul Irish",
+      "playlistId": "UUf7pOCNs6qmbSsBz2xQBI4g",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "i_qE1iAmjFg"
+      }
+    }
+  }
+]

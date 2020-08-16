@@ -1,0 +1,872 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0J5JSr-COIyZQqNHi7Wlfybzsos\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLmc5Q2VOUEhOcGVr",
+    "snippet": {
+      "publishedAt": "2020-02-15T10:44:15.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Ян Лаврюшев — Погружение в эффектор",
+      "description": "Февральский митап SPB Frontend 2020 при поддержке JetBrains\n\n«Погружение в эффектор. Хотите меньше прокрастинировать и грызть реактивщину? Тогда мы идем к вам!»\n\nСсылка на слайды: http://amp.gs/uSsu\n\nЧтобы следить за новостями, подписывайтесь на нас в других социальных сетях:\nTwitter — https://twitter.com/spb_frontend\nInstagram — https://instagram.com/spb_frontend\nКанал в Telegram — https://t.me/spb_frontend\nЧат в Telegram — https://t.me/spb_frontend_chat\nЧат Digital Nomads в Telegram — https://t.me/spbf_digital_nomads",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g9CeNPHNpek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g9CeNPHNpek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g9CeNPHNpek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "g9CeNPHNpek"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Fo7Hsa_NwciHBliXzPb9wfvr4sA\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLjRBazEzS1RldUNJ",
+    "snippet": {
+      "publishedAt": "2020-02-15T10:43:27.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Александр Коротаев — GIF умер, кто следующий?",
+      "description": "Февральский митап SPB Frontend 2020 при поддержке JetBrains\n\n«Это доклад про форматы анимации для веба, которые пришли на смену GIF. Какой лучше? mp4, webm, apng, sprites или vector-based? Вообще, правильного ответа нет. Чтобы разобраться почему Я хотел бы раскрыть эту, казалось бы, несложную тему с разных сторон: Обычное приложение на HTML, WebGL игра и как автоматизировать получение разных форматов анимации.\n\nЕсли еще остались вопросы, зачем так усложнять. Представьте ситуацию, когда пользователь, который едет в транспорте с не самым лучшим соединением пытается пользоваться приложением с анимациями, которые действительно важны.»\n\nСсылка на слайды: http://amp.gs/uSsD\n\nЧтобы следить за новостями, подписывайтесь на нас в других социальных сетях:\nTwitter — https://twitter.com/spb_frontend\nInstagram — https://instagram.com/spb_frontend\nКанал в Telegram — https://t.me/spb_frontend\nЧат в Telegram — https://t.me/spb_frontend_chat\nЧат Digital Nomads в Telegram — https://t.me/spbf_digital_nomads",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4Ak13KTeuCI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4Ak13KTeuCI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4Ak13KTeuCI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4Ak13KTeuCI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4Ak13KTeuCI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4Ak13KTeuCI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jlma1YrzeO3FPlAVje_bLvpOeMU\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLkpBeWZjVy0tRmdr",
+    "snippet": {
+      "publishedAt": "2020-02-15T10:42:06.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Вадим Царегородцев — Как я мигрировал React приложение на Svelte",
+      "description": "Февральский митап SPB Frontend 2020 при поддержке JetBrains\n\n«Де-факто большая часть кодовой базы всего фронтенда написана на реакте и как оказалось нет прямого пути миграции с реакта на свелт. В докладе расскажу какими путями можно обойти это ограничение»\n\nСсылка на слайды: http://amp.gs/uSsi\n\nЧтобы следить за новостями, подписывайтесь на нас в других социальных сетях:\nTwitter — https://twitter.com/spb_frontend\nInstagram — https://instagram.com/spb_frontend\nКанал в Telegram — https://t.me/spb_frontend\nЧат в Telegram — https://t.me/spb_frontend_chat\nЧат Digital Nomads в Telegram — https://t.me/spbf_digital_nomads",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JAyfcW--Fgk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JAyfcW--Fgk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JAyfcW--Fgk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JAyfcW--Fgk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JAyfcW--Fgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JAyfcW--Fgk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-L2oGwOWqjbfbasaYPq3MlUwsSQ\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLnpIbjMtUlo2RVBj",
+    "snippet": {
+      "publishedAt": "2020-02-06T18:45:54.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Февральский митап SPB Frontend (2020)",
+      "description": "10:01 Начало\n16:47 Вадим Царегородцев — Как я мигрировал React приложение на Svelte\n54:53 Александр Коротаев — GIF умер, кто следующий?\n1:41:21 Ян Лаврюшев — Погружение в эффектор\n\nЧтобы следить за новостями, подписывайтесь на нас в других социальных сетях:\nTwitter — https://twitter.com/spb_frontend\nInstagram — https://instagram.com/spb_frontend\nКанал в Telegram — https://t.me/spb_frontend\nЧат в Telegram — https://t.me/spb_frontend_chat\nЧат Digital Nomads в Telegram — https://t.me/spbf_digital_nomads",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zHn3-RZ6EPc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zHn3-RZ6EPc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zHn3-RZ6EPc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zHn3-RZ6EPc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zHn3-RZ6EPc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zHn3-RZ6EPc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L_927KetvIP6-qSgEPionar_izg\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLjU2clgxZ1RtdF9j",
+    "snippet": {
+      "publishedAt": "2019-03-11T10:42:59.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Alexander Korotaev — WebGL and 2D: simple as Web",
+      "description": "Slides: http://lekzd.ru/presentations/webgl_simple_sbp_eng/\n\nOur news is published in \nVK: https://vk.com/spb_frontend\ntwitter: https://twitter.com/spb_frontend\ntelegram: https://t.me/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/56rX1gTmt_c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/56rX1gTmt_c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/56rX1gTmt_c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/56rX1gTmt_c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/56rX1gTmt_c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "56rX1gTmt_c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UgcO9s3aWcC0irdmCOkOeHJgCdg\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLlBYQzR4dU0xRUg4",
+    "snippet": {
+      "publishedAt": "2019-03-11T10:42:46.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Alexey Golubev — Video content protection overview for Frontend developers”",
+      "description": "Slides: https://goalstudio.github.io/drm-frontend-developers.pdf\n\nOur news is published in \nVK: https://vk.com/spb_frontend\ntwitter: https://twitter.com/spb_frontend\ntelegram: https://t.me/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PXC4xuM1EH8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PXC4xuM1EH8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PXC4xuM1EH8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PXC4xuM1EH8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PXC4xuM1EH8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PXC4xuM1EH8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PgttLwuhG9gcjsELilSOQ3Knz-c\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLjJyaDEzVHFOREY0",
+    "snippet": {
+      "publishedAt": "2019-03-11T10:42:25.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Alexey Taktarov — Can Design Principles Make me a Better Software Engineer?",
+      "description": "Slides: https://www.dropbox.com/s/2t1aasguhmqcyas/can-design-principles-make-me-a-better-software-engineer.pdf?dl=0\n\nOur news is published in \nVK: https://vk.com/spb_frontend\ntwitter: https://twitter.com/spb_frontend\ntelegram: https://t.me/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2rh13TqNDF4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2rh13TqNDF4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2rh13TqNDF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2rh13TqNDF4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2rh13TqNDF4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2rh13TqNDF4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-JBAiOXyd__-R0WeUCXh8mHbO8k\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLlN2a1RUdmQ2VEdB",
+    "snippet": {
+      "publishedAt": "2019-02-22T12:26:16.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Vadim Makeev — Semantics for Cynics",
+      "description": "Slides: https://pepelsbey.net/pres/semantics/en/\n\nOur news is published in \nVK: https://vk.com/spb_frontend\ntwitter: https://twitter.com/spb_frontend\ntelegram: https://t.me/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SvkTTvd6TGA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SvkTTvd6TGA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SvkTTvd6TGA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SvkTTvd6TGA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SvkTTvd6TGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SvkTTvd6TGA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-2-OREK5eL3Z1OSSXarafuXhytI\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLkNZQnRBQU4zLS1R",
+    "snippet": {
+      "publishedAt": "2019-02-22T12:25:38.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Nelly Kam — The voice path",
+      "description": "Slides: https://docs.google.com/presentation/d/1CC5EVVTKRaYBmAKLkWk_4K33M9FuzpyZ4Xmc_HrYyzo/edit#slide=id.g47fc33c2f6_1_15\n\nOur news is published in \nVK: https://vk.com/spb_frontend\ntwitter: https://twitter.com/spb_frontend\ntelegram: https://t.me/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CYBtAAN3--Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CYBtAAN3--Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CYBtAAN3--Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CYBtAAN3--Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CYBtAAN3--Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CYBtAAN3--Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/E3P73pBxFaM3gE2-gLT-8YIpx_k\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLl9WNDVTNVdyQUtV",
+    "snippet": {
+      "publishedAt": "2019-02-22T12:25:18.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Evgenii Shkodin — GraphQL: basics and emotions",
+      "description": "Slides: https://slides.com/iffjey/graphql-basics-and-emotions-en/live#/\n\nOur news is published in \nVK: https://vk.com/spb_frontend\ntwitter: https://twitter.com/spb_frontend\ntelegram: https://t.me/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_V45S5WrAKU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_V45S5WrAKU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_V45S5WrAKU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_V45S5WrAKU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_V45S5WrAKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_V45S5WrAKU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Rm79-YnhFLGXbns8tN8pOJ8fIyc\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLmxBdlB5WmpKa044",
+    "snippet": {
+      "publishedAt": "2018-09-24T09:59:32.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Азат Разетдинов — REST In Peace",
+      "description": "Слайды доклада Азата Разетдинова: http://amp.gs/yLLt\n\nСледите за следующими встречами тут: https://vk.com/spb_frontend\nТелеграм: https://t.me/spb_frontend\nТвиттер: https://twitter.com/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lAvPyZjJkN8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lAvPyZjJkN8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lAvPyZjJkN8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lAvPyZjJkN8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lAvPyZjJkN8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lAvPyZjJkN8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/a9-p49en1axgWES3HW58w0EaZ48\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLkVIVGhrbzVmajV3",
+    "snippet": {
+      "publishedAt": "2018-09-24T10:00:12.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Александр Каменяр — Дизайн + фронтенд = ❤",
+      "description": "Слайды доклада Александра Каменяра: https://goo.gl/osBknm\n\nСледите за следующими встречами тут: https://vk.com/spb_frontend\nТелеграм: https://t.me/spb_frontend\nТвиттер: https://twitter.com/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EHThko5fj5w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EHThko5fj5w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EHThko5fj5w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EHThko5fj5w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EHThko5fj5w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EHThko5fj5w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/k0n1sR_kCDI0XesZ3dqbm7MW5tI\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLlZjdkNwYmp5Q1Zn",
+    "snippet": {
+      "publishedAt": "2018-09-24T10:00:31.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Николай Говоров — Применение WebAssemblу",
+      "description": "Слайды доклада Николая Говорова: https://goo.gl/kyt1FJ\n\nСледите за следующими встречами тут: https://vk.com/spb_frontend\nТелеграм: https://t.me/spb_frontend\nТвиттер: https://twitter.com/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VcvCpbjyCVg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VcvCpbjyCVg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VcvCpbjyCVg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VcvCpbjyCVg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VcvCpbjyCVg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VcvCpbjyCVg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HTR8LnDzcCuIiMbc-lsI3owYujE\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLkhIdVJseFZYNzdv",
+    "snippet": {
+      "publishedAt": "2018-09-02T14:18:11.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Июльская встреча 2018",
+      "description": "Следите за следующими встречами тут: https://vk.com/spb_frontend\nhttps://t.me/spb_frontend\nПро наше сообщество больше информации здесь:\nhttps://spb-frontend.ru/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HHuRlxVX77o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HHuRlxVX77o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HHuRlxVX77o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HHuRlxVX77o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HHuRlxVX77o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HHuRlxVX77o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gg1Qs1gnIN8OMYY4SfSNySuhYa0\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLjN0UFRLMWVXdUxJ",
+    "snippet": {
+      "publishedAt": "2018-03-29T19:17:56.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Серёжа Попов — «Хватит врать про Grid Layout!» и Катя Трифонова — «Визуализация аудио на JavaScript»",
+      "description": "Слайды Серёжы Попова: https://drive.google.com/file/d/1WdpHEblsfOmdTsvz8E1lvaDcK8DfXDnp/view\nСлайды Кати Трифоновой: http://katia-trifonova.ru/show/\n\nСледите за следующими встречами тут: https://vk.com/spb_frontend\nТелеграм: https://t.me/spb_frontend\nТвиттер: https://twitter.com/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3tPTK1eWuLI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3tPTK1eWuLI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3tPTK1eWuLI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3tPTK1eWuLI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3tPTK1eWuLI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3tPTK1eWuLI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nU0uE3_W1v-qnDOTY6z4a9_81nY\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLnVVWDMzNTRQcGE4",
+    "snippet": {
+      "publishedAt": "2018-03-29T17:40:06.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Слава Шебанов — «Веб-безопасность»",
+      "description": "Слайды: http://slides.com/slavashebanov/web-security\n\nСледите за следующими встречами тут: https://vk.com/spb_frontend\nТелеграм: https://t.me/spb_frontend\nТвиттер: https://twitter.com/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uUX3354Ppa8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uUX3354Ppa8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uUX3354Ppa8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uUX3354Ppa8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uUX3354Ppa8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uUX3354Ppa8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NkKXiJS-F-617M5C4FguxdLrxVk\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLkRBX1I4bUlhUkpn",
+    "snippet": {
+      "publishedAt": "2018-02-22T13:43:31.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Илья Кашлаков — «Jenkins на службе фронтенд разработки»",
+      "description": "Слайды: https://yadi.sk/i/C_1ytXoI3Se7WP?utm_source=vk.com&utm_medium=social&utm_campaign=slaydy-doklada-ili-kashlakova-jenkins-n&utm_content=16781113\n\nСледите за следующими встречами тут: https://vk.com/spb_frontend\nТелеграм: https://t.me/spb_frontend\nТвиттер: https://twitter.com/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DA_R8mIaRJg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DA_R8mIaRJg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DA_R8mIaRJg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DA_R8mIaRJg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DA_R8mIaRJg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DA_R8mIaRJg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/usPgVeBiM-ZYf7RQk13osBI8_7k\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLnZtU3NFbXdoOWs0",
+    "snippet": {
+      "publishedAt": "2018-02-22T13:43:31.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Дмитрий Долженко — «Как я ускорял загрузку видео в ok.ru»",
+      "description": "Слайды: https://speakerdeck.com/dsdolzhenko/kak-ia-uskorial-zaghruzku-vidieo-v-ok-dot-ru?utm_source=vk.com&utm_medium=social&utm_campaign=slaydy-doklada-dmitriya-dolzhenko--kak-ya&utm_content=16764322\n\nСледите за следующими встречами тут: https://vk.com/spb_frontend\nТелеграм: https://t.me/spb_frontend\nТвиттер: https://twitter.com/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vmSsEmwh9k4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vmSsEmwh9k4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vmSsEmwh9k4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vmSsEmwh9k4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/81R0CqC6jse3mg59vUj-5pv9xBk\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLm9sRG9aNVNTX3Vv",
+    "snippet": {
+      "publishedAt": "2018-02-22T13:43:31.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Андрей Ситник — «Чему нас могут научить ошибки космической индустрии»",
+      "description": "Слайды: http://slides.com/ai/space-vs-it-ru?utm_source=vk.com&utm_medium=social&utm_campaign=slaydy-doklada-andreya-sitnika-chemu-nas&utm_content=16764327#/\n\nСледите за следующими встречами тут: https://vk.com/spb_frontend\nТелеграм: https://t.me/spb_frontend\nТвиттер: https://twitter.com/spb_frontend",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/olDoZ5SS_uo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/olDoZ5SS_uo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/olDoZ5SS_uo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "olDoZ5SS_uo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/731irDAG_MLXVKdkUJDG18evhgc\"",
+    "id": "VVVXakR1YkZYdjhJMXZXRWI0N3M5X0lBLnplWE5PUFphczdZ",
+    "snippet": {
+      "publishedAt": "2017-12-04T11:51:15.000Z",
+      "channelId": "UCWjDubFXv8I1vWEb47s9_IA",
+      "title": "Александр Казаченко — «Интеграция автотестов в процесс разработки»",
+      "description": "Слайды: https://goo.gl/efbY7z\n---\nСледите за следующими встречами тут: https://vk.com/spb_frontend\n---",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zeXNOPZas7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zeXNOPZas7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zeXNOPZas7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zeXNOPZas7Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zeXNOPZas7Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SPB Frontend",
+      "playlistId": "UUWjDubFXv8I1vWEb47s9_IA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zeXNOPZas7Y"
+      }
+    }
+  }
+]

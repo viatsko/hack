@@ -1,0 +1,65 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VwfExBtazBTK3aydMvcRPF_f2xs\"",
+      "id": "UC3BGlwmI-Vk6PWyMt15dKGw",
+      "snippet": {
+        "title": "O'Reilly",
+        "description": "O’Reilly is a learning company that helps individuals, teams, and enterprises build skills to succeed in a world defined by technology-driven transformation.",
+        "customUrl": "oreilly",
+        "publishedAt": "2007-08-03T23:13:47.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxwuS3jjt-BuNBIf9BnJvufTYgaGA7ljjmlVw=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxwuS3jjt-BuNBIf9BnJvufTYgaGA7ljjmlVw=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxwuS3jjt-BuNBIf9BnJvufTYgaGA7ljjmlVw=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "O'Reilly",
+          "description": "O’Reilly is a learning company that helps individuals, teams, and enterprises build skills to succeed in a world defined by technology-driven transformation."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "LL3BGlwmI-Vk6PWyMt15dKGw",
+          "uploads": "UU3BGlwmI-Vk6PWyMt15dKGw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU3BGlwmI-Vk6PWyMt15dKGw"
+  },
+  "displayName": "O'Reilly",
+  "description": "O’Reilly is a learning company that helps individuals, teams, and enterprises build skills to succeed in a world defined by technology-driven transformation.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxwuS3jjt-BuNBIf9BnJvufTYgaGA7ljjmlVw=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxwuS3jjt-BuNBIf9BnJvufTYgaGA7ljjmlVw=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxwuS3jjt-BuNBIf9BnJvufTYgaGA7ljjmlVw=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

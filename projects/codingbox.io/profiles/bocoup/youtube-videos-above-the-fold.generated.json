@@ -1,0 +1,892 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SFNp9d4tibktED4AUex-CJMbxYU\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLlVRNE9XT3ZJMDl3",
+    "snippet": {
+      "publishedAt": "2017-04-28T17:51:31.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Webpack Build Time Screencast",
+      "description": "This is a recording of a screencast which took place on February 15, 2017.\n\nMany of our clients and peers love Webpack but hate the long build times that result as projects start leveraging more of Webpack’s features. The hardsource plugin, created by Bocouper and Webpack expert @mzgoddard utilizes intelligent caching and has been shown to reduce subsequent build times by up to 97%.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UQ4OWOvI09w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UQ4OWOvI09w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UQ4OWOvI09w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UQ4OWOvI09w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bF3-HN9eiaesd3QSaqp3F4K8qkk\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLjByUTBOUDhKUEhR",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:12.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Why does Data Vis need a style guide? - Amy Cesal",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0rQ0NP8JPHQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0rQ0NP8JPHQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0rQ0NP8JPHQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0rQ0NP8JPHQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0rQ0NP8JPHQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0rQ0NP8JPHQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yZs7qXtH_Fwiwr3JxnAuuySMvtU\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLmdRS1VsXzFyeW80",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:12.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "What story does your timeline tell?  - Matthew Brehmer",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gQKUl_1ryo4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gQKUl_1ryo4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gQKUl_1ryo4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gQKUl_1ryo4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gQKUl_1ryo4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gQKUl_1ryo4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sPbUz8CXLNC5zH3kXZBkoxSc-9o\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLjZfdW1WSGd4VG1R",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:13.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Welcome and Opening Remarks   Day 1",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6_umVHgxTmQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6_umVHgxTmQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6_umVHgxTmQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6_umVHgxTmQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6_umVHgxTmQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6_umVHgxTmQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KxB1z6qoBLp-p-A3rfzQ5GoHZI4\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLmNrVlk0ZEFURi1F",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:13.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Visualizing Incarceration in the US on Polygraph  - Matt Daniels",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ckVY4dATF-E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ckVY4dATF-E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ckVY4dATF-E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ckVY4dATF-E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ckVY4dATF-E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ckVY4dATF-E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5PASh2D-nBU5cWzE8o8KIE6m9Fg\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLktQaU9OZG1OT3VJ",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:14.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Visualizing data with deck.gl - Nicolas Belmonte",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KPiONdmNOuI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KPiONdmNOuI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KPiONdmNOuI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KPiONdmNOuI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KPiONdmNOuI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KPiONdmNOuI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/E-9fJmSbyF7Ks5Kk9S_E9sRyi9E\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLjl1YUhSV2owNEQ0",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:14.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Vega Lite: A Grammar of Interactive Graphics - Wongsuphasawat, Moritz, and Satyanarayan",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9uaHRWj04D4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9uaHRWj04D4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9uaHRWj04D4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9uaHRWj04D4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9uaHRWj04D4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9uaHRWj04D4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/soxfx6eAwzNCi0Y28sHcpTkRR3c\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLjBRTUFlcGRXOUdz",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:14.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Untangling the Hairball - John Alexis Guerra Gomez",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0QMAepdW9Gs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0QMAepdW9Gs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0QMAepdW9Gs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0QMAepdW9Gs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0QMAepdW9Gs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0QMAepdW9Gs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JJRN1U-B2lRtT8RkuXQm6j5uEuM\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLlpkUE5CRjZHV0J3",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:14.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "The Role of Visualization in Exploratory Data Analysis - Hadley Wickham",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZdPNBF6GWBw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZdPNBF6GWBw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZdPNBF6GWBw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZdPNBF6GWBw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZdPNBF6GWBw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZdPNBF6GWBw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YWaNa3ZGT05MR0EtskJNpfkh_J0\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLi11Vm8wWHZtaW13",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:15.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Text Mining and Visualization, the Tidy Way - Julia Silge",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-uVo0Xvmimw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-uVo0Xvmimw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-uVo0Xvmimw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-uVo0Xvmimw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-uVo0Xvmimw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-uVo0Xvmimw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mlHsqFnaZL_QOto1aBwVMKPbmYA\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLlBMYzF5LWdpbV8w",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:15.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Pulling a polygon out of a hat  - Noah Veltman",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PLc1y-gim_0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PLc1y-gim_0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PLc1y-gim_0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PLc1y-gim_0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PLc1y-gim_0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PLc1y-gim_0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/byWH-KC18lhdnpjTy5B9b0VULdE\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLmxOYnFmUWxHa3pj",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:15.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Keynote - Mike Bostock",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lNbqfQlGkzc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lNbqfQlGkzc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lNbqfQlGkzc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lNbqfQlGkzc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lNbqfQlGkzc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lNbqfQlGkzc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8JvRgHHtmeh4ppC4wFXPDCQ8f7o\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLjBMMXRHby1EdkQw",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:15.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Keynote - Amanda Cox",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0L1tGo-DvD0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0L1tGo-DvD0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0L1tGo-DvD0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0L1tGo-DvD0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0L1tGo-DvD0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0L1tGo-DvD0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/y4qiQOvUYSKhWCW-9cN5TJIlQlQ\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLlpDNk42QW41RlZZ",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:16.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Introducing REGL - Mikola Lysenko",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZC6N6An5FVY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZC6N6An5FVY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZC6N6An5FVY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZC6N6An5FVY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZC6N6An5FVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZC6N6An5FVY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/goghIdMMUgOHSX9m99YcMcMpQ5E\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLnduNWxhcnNSSHJv",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:16.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "How spatial polygons shape our world - Amelia McNamara",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wn5larsRHro/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wn5larsRHro/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wn5larsRHro/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wn5larsRHro/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wn5larsRHro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wn5larsRHro"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rSHzAjtmgQFLLejuzWdpddSdR5g\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLlJ6SVh6QzF2dTEw",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:16.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Hacking your health with JavaScript - Alan McLean",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RzIXzC1vu10/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RzIXzC1vu10/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RzIXzC1vu10/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RzIXzC1vu10/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RzIXzC1vu10/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RzIXzC1vu10"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ORtlc6iSgXOSIJuvi3w8f7_Szx8\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLjdJUnF1b2R5OVFj",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:17.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Empowering effective visualization color design - Connor Gramazio",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7IRquody9Qc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7IRquody9Qc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7IRquody9Qc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7IRquody9Qc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7IRquody9Qc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7IRquody9Qc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Zafv1wPy90afvz98EGU5iEZo4EM\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLm9VTW1Qdi03SG4w",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:21.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Designing Visualization Tools for Learners - Catherine D'Ignazio and Rahul Bhargava",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oUMmPv-7Hn0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oUMmPv-7Hn0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oUMmPv-7Hn0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oUMmPv-7Hn0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oUMmPv-7Hn0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oUMmPv-7Hn0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uBc3wx9gkNVk_8gcR6BSpe4p55Y\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLjRFT0c3S3dGc3Br",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:21.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Data Sketch|es: A Visualization A Month - Shirley Wu and Nadieh Bremer",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4EOG7KwFspk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4EOG7KwFspk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4EOG7KwFspk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4EOG7KwFspk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4EOG7KwFspk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4EOG7KwFspk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DSERdYCjudb2XDnhM-w9DFYdx3E\"",
+    "id": "VVVRVVBJMVB4ZkU0LWJxd3VJMjZJMkhBLmZJeTdya1l5eWhJ",
+    "snippet": {
+      "publishedAt": "2017-05-15T18:04:20.000Z",
+      "channelId": "UCQUPI1PxfE4-bqwuI26I2HA",
+      "title": "Data as a Creative Constraint - Eric Socolofsky",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fIy7rkYyyhI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fIy7rkYyyhI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fIy7rkYyyhI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fIy7rkYyyhI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fIy7rkYyyhI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BocoupLLC",
+      "playlistId": "UUQUPI1PxfE4-bqwuI26I2HA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fIy7rkYyyhI"
+      }
+    }
+  }
+]

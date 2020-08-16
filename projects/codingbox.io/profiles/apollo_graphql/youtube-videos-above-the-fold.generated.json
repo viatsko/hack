@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5vB6nMOX_kQFCHZU0T9qxnpXjfA\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LlIzM3VNV2pocmdj",
+    "snippet": {
+      "publishedAt": "2020-04-15T21:43:35.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Mission Briefing: Serverless GraphQL with AWS Amplify and Apollo Server",
+      "description": "In this stream Nader Dabit (@dabit3) walks Kurt Kemple (@kurtkemple) through deploying a serverless GraphQL API with apollo-server-lambda and AWS Amplify.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R33uMWjhrgc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R33uMWjhrgc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R33uMWjhrgc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R33uMWjhrgc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R33uMWjhrgc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "R33uMWjhrgc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Zl4vyrZOTvfUP3oNpjnq-CGAP0E\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LmJqTTlyTUdQcEtj",
+    "snippet": {
+      "publishedAt": "2020-04-15T21:13:03.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Set Up a Serverless GraphQL API with Apollo Server and AWS Amplify",
+      "description": "Nader Dabit (@dabit3) shows Kurt Kemple (@kurtkemple) how to run apollo-server-lambda in a serverless function created and deployed with AWS Amplify.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bjM9rMGPpKc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bjM9rMGPpKc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bjM9rMGPpKc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bjM9rMGPpKc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bjM9rMGPpKc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bjM9rMGPpKc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K4c0SqVV18c6crfZiwXoGd5IE_g\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3Lld3ZFk5bHNRVGhj",
+    "snippet": {
+      "publishedAt": "2020-04-15T21:09:32.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Set Up a Serverless Function and API in AWS Amplify",
+      "description": "Nader Dabit @dabit3) shows Kurt Kemple (@kurtkemple) how to set up a serverless function and API gateway in AWS with AWS Amplify.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WwdY9lsQThc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WwdY9lsQThc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WwdY9lsQThc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WwdY9lsQThc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WwdY9lsQThc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WwdY9lsQThc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uFG74MVvrgDGfKMA4D3lxoEH5YI\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LmxDWGVaWnRERk53",
+    "snippet": {
+      "publishedAt": "2020-04-15T15:11:13.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Journey Pt. 3 - Setting Up Auth and Storage",
+      "description": "In this stream Trevor Blades (@trevorblades) and Kurt Kemple (@kurtkemple) add support for authenticating a users and set up storage with postgres using Render.com.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lCXeZZtDFNw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lCXeZZtDFNw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lCXeZZtDFNw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lCXeZZtDFNw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lCXeZZtDFNw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lCXeZZtDFNw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7Bl2fPcEa3pvyPW56LuqYI2UrIk\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LmhkakNTR05DRWFN",
+    "snippet": {
+      "publishedAt": "2020-04-14T19:58:36.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Orbit: Episode 4",
+      "description": "The new Apollo Blog goes live soon! Trevor Blades shows how the blog is built. Schema change notifications land in Apollo Graph Manager!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hdjCSGNCEaM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hdjCSGNCEaM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hdjCSGNCEaM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hdjCSGNCEaM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hdjCSGNCEaM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hdjCSGNCEaM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3dN9ejjAG9BS6XPs-mQ5liMarWk\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LlRFbmFPR3JOX1Vz",
+    "snippet": {
+      "publishedAt": "2020-04-14T15:30:11.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Schema Change Notifications Land in Apollo Graph Manager",
+      "description": "You can now get Slack notifications when schema changes happen in Apollo Graph Manager.\n\nhttps://engine.apollographql.com/?utm_source=quick-tips",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TEnaOGrN_Us/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TEnaOGrN_Us/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TEnaOGrN_Us/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TEnaOGrN_Us/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TEnaOGrN_Us/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TEnaOGrN_Us"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/U6aZUcICEC-F0rugRSfXda8e3tU\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3Lmw3RTVhS285eEYw",
+    "snippet": {
+      "publishedAt": "2020-04-14T15:26:32.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "There is a New Apollo Blog!",
+      "description": "Check out the new blog! https://www.apollographql.com/blog/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l7E5aKo9xF0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l7E5aKo9xF0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l7E5aKo9xF0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l7E5aKo9xF0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l7E5aKo9xF0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l7E5aKo9xF0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UxBO-IoeeSgS0-oI1GKbIDKKzo4\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LkxLOFdKRXVmYmVV",
+    "snippet": {
+      "publishedAt": "2020-04-14T15:30:44.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "How the New Apollo Blog is Built",
+      "description": "Trevor Blades walks us through how he used GatsbyJS and Wordpress to build the new Apollo Blog.\n\nhttps://www.apollographql.com/blog/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LK8WJEufbeU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LK8WJEufbeU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LK8WJEufbeU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LK8WJEufbeU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LK8WJEufbeU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LK8WJEufbeU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q0cFHoVMfZFZp-2jp2Ks-8uBLis\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3Lk1oMVVWNm1WTElv",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:48:20.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "How to Use Apollo Client State with Queries and Resolvers",
+      "description": "Not as quick, but just as much of a tip!  Trevor Blades and Kurt Kemple add local state to a web app using Apollo Client.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mh1UV6mVLIo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mh1UV6mVLIo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mh1UV6mVLIo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mh1UV6mVLIo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Mh1UV6mVLIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Mh1UV6mVLIo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Z2PxjfI_Bq1FCUvdk8L9hq0AMvo\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LktLb01mZkJodlFv",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:38:14.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Set Up a Postgres Database In Minutes with Render",
+      "description": "Trevor Blades and Kurt Kemple use https://render.com to set up a Postgres DB for a web app.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KKoMffBhvQo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KKoMffBhvQo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KKoMffBhvQo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KKoMffBhvQo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KKoMffBhvQo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KKoMffBhvQo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WEd7EG51YiidtCNv-6QUVOcDTa8\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3Ll9FOFRjUC1nQ0Vn",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:35:10.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "What Does Salt Do When Encrypting Passwords?",
+      "description": "What role does the salt function play when encrypting passwords?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_E8TcP-gCEg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_E8TcP-gCEg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_E8TcP-gCEg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_E8TcP-gCEg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_E8TcP-gCEg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_E8TcP-gCEg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UlVG6KDwWl9oZm0VRz9a_EwPBjI\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LldobGxxb0lYZk1n",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:32:07.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Using Environment Variables in Netlify Serverless Functions",
+      "description": "Trevor Blades shows us how to connect Netlify to a project and set up environment variables in serverless functions.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WhllqoIXfMg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WhllqoIXfMg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WhllqoIXfMg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WhllqoIXfMg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WhllqoIXfMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WhllqoIXfMg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xO-eXhZdB0B0ka-5nDitdHQlR3g\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LlRxUlZyUHNIdkc4",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:15:09.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Target Different Variants of Your Graph in Apollo Config",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TqRVrPsHvG8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TqRVrPsHvG8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TqRVrPsHvG8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TqRVrPsHvG8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TqRVrPsHvG8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TqRVrPsHvG8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6-Skj5w1GaphYhicHotXfPBYaYU\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LnhTZ2J0QjJBaUN3",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:11:01.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "How API Keys Work in Apollo Graph Manager",
+      "description": "Jake Dawkins explains the types of API keys available through Apollo Graph Manager and when you want to use each them.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xSgbtB2AiCw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xSgbtB2AiCw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xSgbtB2AiCw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xSgbtB2AiCw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xSgbtB2AiCw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xSgbtB2AiCw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FdL66A8bob4jlglwYBufFretGTk\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LlFpQy1hMnliX2FJ",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:08:13.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Add Authentication Headers to Apollo Config for Services",
+      "description": "Jake Dawkins shows us how to add authentication headers to config in apollo.config.js for authenticating with backend services",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QiC-a2yb_aI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QiC-a2yb_aI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QiC-a2yb_aI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QiC-a2yb_aI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QiC-a2yb_aI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QiC-a2yb_aI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gt3A8A44Zo_Elc9vXZ7mGcUz8rw\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3Lk4zQW9OZHF5Q1J3",
+    "snippet": {
+      "publishedAt": "2020-04-14T14:05:39.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Avoid This Common Mistake when Configuring Apollo",
+      "description": "When configuring a client project with Apollo, it's common to put the service id in the wrong place, Jake Dawkins walks us through the proper place to put a service id in a client project.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N3AoNdqyCRw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N3AoNdqyCRw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N3AoNdqyCRw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/N3AoNdqyCRw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/N3AoNdqyCRw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "N3AoNdqyCRw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5sCLgMhPcMowQuQ0GAVo7Y4S4tI\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LkwxQ2VRMHQ3X2hJ",
+    "snippet": {
+      "publishedAt": "2020-04-10T14:23:49.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Mission Briefing: Configuring Apollo Projects",
+      "description": "In this stream Jake Dawkins walks us through how to set up Apollo configuration for the various types of projects that can exist in the Apollo eco-system.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L1CeQ0t7_hI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L1CeQ0t7_hI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L1CeQ0t7_hI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L1CeQ0t7_hI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L1CeQ0t7_hI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "L1CeQ0t7_hI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/U3eUyKcmDCTztrDmtKi0jGPb1Cg\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LnVVVjhiV2pHVGtR",
+    "snippet": {
+      "publishedAt": "2020-04-09T17:49:05.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Launch Pad: Building Journey - Pt. 2",
+      "description": "In this stream Trevor and Kurt set up a GraphQL server using apollo-server and serverless functions via Netlify.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uUV8bWjGTkQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uUV8bWjGTkQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uUV8bWjGTkQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uUV8bWjGTkQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uUV8bWjGTkQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uUV8bWjGTkQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/m2j0yqM8dT8uRHT9AGb-N6RSbaI\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LmEzTXRncThmcTRR",
+    "snippet": {
+      "publishedAt": "2020-04-08T14:52:21.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Orbit: Episode 3 - GraphQL Foundation Turns 1",
+      "description": "graphql foundation turns 1 - https://twitter.com/leeb/status/1245457547617644544\n\nfree fullstack open course - https://twitter.com/khairulnazran/status/1244840638618587136\n\nMarc-Andre’s recommended path to learning graphql - https://twitter.com/__xuorig__/status/1245355325185839104\n\nApollo is Hiring! (Senior Solutions Architect) - https://twitter.com/apollographql/status/1245044304000712705\n\nKurt Kemple will be on the auth0 stream tomorrow: https://twitter.com/samjulien/status/1246202121822896133",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a3Mtgq8fq4Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a3Mtgq8fq4Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a3Mtgq8fq4Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a3Mtgq8fq4Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a3Mtgq8fq4Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "a3Mtgq8fq4Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4dmb8UAI3cXZQwHr53y0NDp_jFk\"",
+    "id": "VVUwcEVXX0dPck1KMjNsOFFjckdkS1N3LnRfMDE3a1kxVS1z",
+    "snippet": {
+      "publishedAt": "2020-03-30T21:29:49.000Z",
+      "channelId": "UC0pEW_GOrMJ23l8QcrGdKSw",
+      "title": "Using Sift.js to Set Up Filtering in GraphQL Resolvers",
+      "description": "Trevor shows Kurt how he used sift.js to set up filtering on an open GraphQL API he maintains.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t_017kY1U-s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t_017kY1U-s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t_017kY1U-s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t_017kY1U-s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t_017kY1U-s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Apollo GraphQL",
+      "playlistId": "UU0pEW_GOrMJ23l8QcrGdKSw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "t_017kY1U-s"
+      }
+    }
+  }
+]

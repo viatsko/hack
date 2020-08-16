@@ -1,0 +1,882 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YJnrBCoYd3I8BaJxIWW43q335oY\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLjdVbWhTUldRcTlN",
+    "snippet": {
+      "publishedAt": "2020-03-29T01:37:10.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "TC39 Panel, Moderated by Cassidy Williams | JSConf Hawaii 2020",
+      "description": "TC39 is the international standards committee in charge of charting the future of JavaScript through the ECMAScript standard. In this panel, members of the committee join Cassidy Williams to answer questions sourced from the JSConf Hawaii audience, including questions about how the committee decides on changes to the language, and how companies, organizations, or individuals can get more involved.\n\nLearn more about TC39: https://github.com/tc39\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7UmhSRWQq9M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7UmhSRWQq9M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7UmhSRWQq9M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7UmhSRWQq9M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7UmhSRWQq9M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7UmhSRWQq9M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ovvRxVglTHUW3kDNZQxlZqXaj94\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLmlZVzd2S0NxTjZn",
+    "snippet": {
+      "publishedAt": "2020-03-29T01:37:01.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Progressive Rendering: Improve Performance on Slower Networks - Dinesh Pandiyan | JSConf Hawaii 2020",
+      "description": "Modern web applications have become increasingly costly in terms of size resulting in slower page load times in slower networks. Client Side Rendering (CSR) becomes a bottleneck in slower networks whereas Server Side Rendering (SSR) becomes a bottleneck when large volumes of content need to be generated in one-go.\n\nProgressive rendering is a technique that allows us to flush portions of a webpage to the browser in chunks as soon as they are rendered on the server without having to wait for the whole page to be rendered. This will massively improve the FCP (First Contentful Paint) and FMP (First Meaningful Paint) metrics and reduce page load time in slower networks.\n\nThis talk will demonstrate effective ways to progressively render a webpage from the server to the client and highlight important performance aspects of rendering modern websites.\n\nSlides: https://www.icloud.com/keynote/01RnZigm2R6g9FwMXVQ8uwmKw#jsconf-hi\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iYW7vKCqN6g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iYW7vKCqN6g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iYW7vKCqN6g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iYW7vKCqN6g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iYW7vKCqN6g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iYW7vKCqN6g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WemueF67RQGLW2Usdc_DGJkBMn0\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLkotZzlaSmhhOEZF",
+    "snippet": {
+      "publishedAt": "2020-03-28T21:55:52.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Custom Hooks in React: The Ultimate UI Abstraction Layer - Tanner Linsley | JSConf Hawaii 2020",
+      "description": "Custom Hooks in React are useful for much more than just managing the local state and one-dimensional side-effects you see in almost every React Hooks example.\n\nThey can be used to build sophisticated memoization pipelines and chained-effects that automatically manage local and network resources.\n\nBut most importantly, they provide a new new layer of abstraction to accomplish new and amazing patterns that we couldn't have just over a year ago.\n\nOn the surface, this abstraction layer is simply collection of custom hooks, but when unlocked, it can be the most powerful piece of your application architecture.\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J-g9ZJha8FE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J-g9ZJha8FE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J-g9ZJha8FE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J-g9ZJha8FE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J-g9ZJha8FE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "J-g9ZJha8FE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lke0WVALXTwS27Rk5ooztmVurCo\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLnZFUWtnQnp1blJj",
+    "snippet": {
+      "publishedAt": "2020-03-29T01:36:55.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "React, Vue, and Svelte as Teen Movie Archetypes - Leta Keane | JSConf Hawaii 2020",
+      "description": "Who's the jock? The nerd? The misfit? Who's the type A overachiever, or the moody artist, or the partier? Get to know each of these JavaScript frameworks through the hallowed medium of the teen comedy.\n\nIn this talk, we'll dig into what makes these frameworks unique, as well as the things they have in common. And, as in every good millennial teen movie, you'll leave with a better understanding of each one.\n\nSlides: https://slides.com/letakeane/react-vue-svelte/\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vEQkgBzunRc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vEQkgBzunRc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vEQkgBzunRc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vEQkgBzunRc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vEQkgBzunRc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vEQkgBzunRc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HCeWM3eG1XQOBlZLZoOoBjFNzUs\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLnloRjdPbXVJSUxj",
+    "snippet": {
+      "publishedAt": "2020-03-26T20:19:04.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "The Art of Code Comments - Sarah Drasner | JSConf Hawaii 2020",
+      "description": "Commenting code is a more nuanced thing than we give it credit for.\n\nThere are a couple of schools of thought on this. One states that if you feel a comment is necessary, you should rewrite it to be more legible. This is true. But it's also not true. In the process of writing a comment, you can often find things that could be written better, but it's not an either/or, for the following reason: Code can describe how, but it cannot explain why.\n\nThere is just not one right way or one reason to write a comment.In this session, we'll dig into some of the many beneficial types of comments that might all serve a different purpose, followed by patterns we might want to avoid. In the process we'll talk about being good teammates, collaborating, and writing the most legible code we can.\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yhF7OmuIILc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yhF7OmuIILc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yhF7OmuIILc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yhF7OmuIILc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yhF7OmuIILc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yhF7OmuIILc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VV4006ac7ifsOHCQ3Cpeze6se3Q\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLkdSYi1YUTVKUkE4",
+    "snippet": {
+      "publishedAt": "2020-03-26T20:19:00.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "A Crash Course on Worker Threads - Rich Trott | JSConf Hawaii 2020",
+      "description": "Node.js 10.5.0 introduced 'worker_threads', enabling the creation of simple multi-threaded applications in JavaScript. This may sound daunting if you've never dealt with threads before in another language. But JavaScript threads are pretty simple and, very importantly, fun. This talk will be a quick introduction to the fun of worker_threads.\n\nI promise not to make any \"you got your multi-threaded chocolate in my single-threaded JavaScript peanut butter\" jokes.\n\nThumbnail photo by Etienne Girardet on Unsplash\n\nSlides: https://www.palacefamilysteakhouse.com/multimedia/jsconfhi2020.pdf\n\nStory of University of Hawaii and Ethernet: https://mailchi.mp/d93c463d5650/the-secret-nerd-history-of-hawaii\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GRb-XQ5JRA8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GRb-XQ5JRA8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GRb-XQ5JRA8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GRb-XQ5JRA8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GRb-XQ5JRA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GRb-XQ5JRA8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wDTHUQ5AzQBrs1AxmtfBJrZcToE\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLlVUb2w5N3NZcFNJ",
+    "snippet": {
+      "publishedAt": "2020-03-26T20:18:55.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "How to Wait - Max Goodhart | JSConf Hawaii 2020",
+      "description": "Our story begins with a humble 'await fetch': your script fires off an HTTP request and settles down to nap, trusting that it'll be awoken when response data is available. While your program does nothing, a cascade of activity is now taking place: in your JS runtime, your operating system, and your hardware. What happens while your code is waiting for something to happen? In this talk, we'll peek behind the layers of the event loop, select/epoll nonblocking I/O, and hardware architecture to answer a simple question: what is waiting, and how does a program wait?\n\nSlides: https://chromakode.com/m/how-to-wait/\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UTol97sYpSI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UTol97sYpSI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UTol97sYpSI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UTol97sYpSI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UTol97sYpSI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UTol97sYpSI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mzJjgF93e77v8YBm-psYpzoYUoQ\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLnlOTUJPajdKVVBz",
+    "snippet": {
+      "publishedAt": "2020-03-24T22:14:32.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Kill All Mutants! (Introduction to Mutation Testing) - Dave Aronson | JSConf Hawaii 2020",
+      "description": "How good are your tests? Would they still pass if the tested code was changed? If so, there may be problems with your code, your tests, or both!\n\nMutation Testing helps reveal these cases.It makes lots of slightly altered versions, called \"mutants\", of your functions, and runs your functions' unit tests, using each of its mutants instead. If a mutant makes any test fail, that mutant \"dies\". \"Survivors\" imply flaws: your code might not be meaningful enough that a slight mutation would change the behavior, your tests might not be strict enough to catch the difference that the mutation made, or both!\n\nThis talk will tell you how to use mutation testing, its benefits, drawbacks, and pitfalls, and how it works under the hood.There will be several examples(in clear pseudocode), and a list of tools for some popular languages(including of course Javascript).\n\nYou will come away equipped with a powerful new technique for making sure your tests are strict and your code is meaningful.\n\nSlides: https://www.slideshare.net/slideshow/embed_code/key/aNJFQMKvzrBvO4\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yNMBOj7JUPs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yNMBOj7JUPs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yNMBOj7JUPs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yNMBOj7JUPs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yNMBOj7JUPs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yNMBOj7JUPs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lsPfr3wb_cSuda6asJDdwJtiQkM\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLlR4N0wtMzNQbzJv",
+    "snippet": {
+      "publishedAt": "2020-03-24T22:14:27.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Your Tests Lack Vision: Adding Eyes to Your Automation Framework - Angie Jones | JSConf Hawaii 2020",
+      "description": "Automation has come a long way in assisting with regression testing efforts. Teams worldwide are successfully running hundreds of functional regression tests at every check-in. While this provides a great source of confidence, critical regression bugs are still missed using this approach. That’s because these tests can only assert on what their human programmer asks them to. Additional errors with functionality, UX, and usability often go uncaught using today’s most common test automation techniques.\n\nFor this reason, the top companies in all sectors of the industry are turning to visual validation. Visual validation is a relatively new concept that can be used to enhance existing automated tests and provide an easy way to perform those difficult checks for things like UX, localization, usability, responsive design, and cross-device testing.\n\nIn this talk, you’ll learn how visual validation works, see an integration into an existing test code base, and discuss the pros and cons of using various visual validation techniques.\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Tx7L-33Po2o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Tx7L-33Po2o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Tx7L-33Po2o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Tx7L-33Po2o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/99mX0xZQPDphATTwqPJk1QTbcRg\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLjNsY3NBV0xmNnlr",
+    "snippet": {
+      "publishedAt": "2020-03-24T01:48:55.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Using Machine Learning to Improve UI/UX - Milecia McGregor | JSConf Hawaii 2020",
+      "description": "The world of UI/UX is changing every month. It can be hard for developers to keep up with the newest trends and frameworks because of all the responsibilities they have. What if you could use machine learning to help you keep up with all of the changes? While it’s far from taking all of the programming jobs, machine learning can help developers make more user-friendly web applications. With the use of Brain.js, you can do text prediction, make small layout changes, check for malicious users, and more.\n\nIn this talk, attendees will learn some background on machine learning and algorithms and see examples of where Brain.js can be used in real applications. We’ll cover business cases in web development where machine learning can help, how neural networks work, and how JavaScript can be used to train a model and make real-time updates for users. By the end of the talk, attendees should have a good understanding of basic machine learning concepts and an idea of how they could get started with Brain.js.\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3lcsAWLf6yk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3lcsAWLf6yk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3lcsAWLf6yk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3lcsAWLf6yk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3lcsAWLf6yk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3lcsAWLf6yk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ab-Wu8enGhDz2kLOSM2j-hj3RbQ\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLkVEeWlhREpKdS00",
+    "snippet": {
+      "publishedAt": "2020-03-24T01:48:52.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Advanced Design System Considerations - Alex Sexton | JSConf Hawaii 2020",
+      "description": "\"Design Systems\" and component libraries are a popular solution for abstracting common UI elements and flows to be reusable across many applications.They allow you to spend more time on the details, and reduce the complexity of implementing consistent experiences.There's a good chance that you're using one already!\n\nScaling these systems to provide value to *lots* of teams across your organization, or in open - source - land, requires solving for each team's different use-cases simultaneously. How do you add in support for internationalization, accessibility, theming (dark mode!), server rendering, or multiple render targets? How do you support the teams that need it in React *and* the teams that need it in Svelte? How do you provide a system that is flexible enough, but doesn't become prohibitively complex? How can you export your components to popular design tools for your designers to build with?\n\nLet's dive into approaches to solving these problems in scalable ways, and take a look at how Stripe has chosen to tackle some of these issues in the real world. Let's look at how to make sure a design system specifies design choices and allows users to build quickly, but doesn't lock you into specific frameworks or trendy tools out of the gate.\n\nSlides: https://noti.st/slexaxton/6mnxbQ/advanced-design-systems-considerations\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EDyiaDJJu-4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EDyiaDJJu-4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EDyiaDJJu-4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EDyiaDJJu-4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EDyiaDJJu-4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EDyiaDJJu-4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L6AZm3pd7pqRWMLsojU6uyorJU8\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLmVYNWlCRTJadTRJ",
+    "snippet": {
+      "publishedAt": "2020-03-24T01:48:48.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Digital Witchcraft: Magical Thinking for Digital Design - Danae Valentina | JSConf Hawaii 2020",
+      "description": "This session present several examples of magical thinking as a design methodology for technological innovations.\n\nDid you know that hackers and shamans have a lot in common? What does the practice of Santeria can teach us about digital security? Did you know that there's an android in a temple in Kyoto teaching Buddhism? Which elements of ancestral knowledge can we borrow in order to design solutions for migrants and refugees?\n\nWe will review the answers to these questions and will elaborate on the potential of magical thinking as a fundamental resource for innovation. \"Magic is the mother of technology\" said Peter Sloterdijk, thus we definitely shouldn't be afraid of combining this two realms in order to promote scientific innovation to its maximum potential.\n\nI've been doing this research thanks to several sources of funding, mostly through my Mozilla fellowship and other sponsors I had in the last two years. Therefore, specific parts of this session have been presented in conferences such as HOPE in New York City and the Internet Freedom Festival in Valencia, Spain. JSConf Hawaii will be the first time in which my research on digital witchcraft will be publicly presented as a finalized product.\n\nThumbnail Photo by Sharon McCutcheon on Unsplash\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eX5iBE2Zu4I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eX5iBE2Zu4I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eX5iBE2Zu4I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eX5iBE2Zu4I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eX5iBE2Zu4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eX5iBE2Zu4I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AorbVAGrJwdcifN9cI0siBjc3qk\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLnoyQmh4eGJLSl9F",
+    "snippet": {
+      "publishedAt": "2020-03-21T23:37:15.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Impactful Accessibility: The Changes that Mean the Most - Lindsey Dragun | JSConf Hawaii 2020",
+      "description": "The sad truth is that even companies that wish to have accessible websites often only dedicate the time and effort to create SOME accessibility. What they choose to make accessible is often based on what a handful of people, often abled bodied ones, decide, and doesn’t always reflect what users want or need.\n\nUsing a series of surveys and discussions with other disabled people, I have synthesized suggestions and examples of what makes the most impact for many users or gigantic impacts on usage for smaller groups.We'll go over the look, feel, and functionality of websites and some basic design changes that can be used to great benefit.\n\nResources: https://dragun.tech/jsconfhawaii/\n\nSlides: https://docs.google.com/presentation/d/1XdnqnAhCQntSkmmGge6-Ibngo9Dl6J_ptOY9ZpnJ9lY/edit?usp=sharing\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z2BhxxbKJ_E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z2BhxxbKJ_E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z2BhxxbKJ_E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z2BhxxbKJ_E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "z2BhxxbKJ_E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Pl4B4krl0QV86DQAttrrbTkzzmI\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLllxTEZUUXM0UkRn",
+    "snippet": {
+      "publishedAt": "2020-03-21T23:37:11.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "A Seat at the Table: Building Inclusive Ecosystems - Erica Stanley | JSConf Hawaii 2020",
+      "description": "Inclusion doesn't just happen. It has to be intentionally and continuously cultivated. In this session, we'll discuss the ways we can all be responsible for building communities with an inclusion-first mindset. I'll describe my lessons learned and walk through a framework for optimizing for inclusion.\n\nJSConf Hawaii will return in 2021\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YqLFTQs4RDg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YqLFTQs4RDg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YqLFTQs4RDg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YqLFTQs4RDg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YqLFTQs4RDg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YqLFTQs4RDg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5sDSgoefbQEdseg_93lfqhTdvLA\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLmtsNzJTLWVCaVRr",
+    "snippet": {
+      "publishedAt": "2020-03-21T23:37:07.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Very Responsive Typography with Variable Fonts - Mandy Michael | JSConf Hawaii 2020",
+      "description": "Variable Fonts allow typography on the web to adapt to the flexible nature of screens, environments and devices.\n\nWe can use variable fonts with pre-existing technologies to improve the performance, design, accessibility and usability of our websites. We can start to design our typography to adjust to various inputs, situations or events using Media Queries, JS events and the Sensor or Audio Apis. This will allow us to modify our fonts to aid in storytelling, achieve improved readability and legibility in different situations, environments or on larger or smaller screens.\n\nLet’s explore new and exciting creative opportunities for storytelling, design and expression in ways standard fonts could never provide us. This is just the beginning of our journey to discover what we can do with variable fonts.\n\nSlides: https://noti.st/mandy/2W12mw/very-responsive-typography-with-variable-fonts\n\nJSConf Hawaii will return in 2021\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kl72S-eBiTk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kl72S-eBiTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kl72S-eBiTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kl72S-eBiTk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kl72S-eBiTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kl72S-eBiTk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2To00RwslcoVYljvrMWq8pcHRa4\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLnl3S1dBeE1WZDNR",
+    "snippet": {
+      "publishedAt": "2020-03-16T20:10:16.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Look What You MIDI Me Do! - Rachel White | JSConf Hawaii 2020",
+      "description": "Who loves pushing buttons? You? And you over there? And the person behind you? Oh wait, everyone loves it?!!? Of course they do, a button is irresistible. Now… what if I told you that you could hook up a LOT of buttons to your computer… and use it to do wild things with the web?\n\nI’m glad you’re listening! Let’s take a journey into the Web MIDI api where the possibilities of the web aren’t just at your keyboard fingertips anymore, they’re literally any MIDI compatible controller you have connected! Want to make glitchy audio responsive visuals with WebGL shaders? Rad, we can do that. Want to create custom beats and have those input as a drum machine? No problem when you throw a little Web Audio API in the mix. Let’s dive in and find out how!\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ywKWAxMVd3Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ywKWAxMVd3Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ywKWAxMVd3Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ywKWAxMVd3Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ywKWAxMVd3Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ywKWAxMVd3Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6pq2b7yBvK8SSP_r4zqLmVjhdTA\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLnhScm8tZERzWVBV",
+    "snippet": {
+      "publishedAt": "2020-03-16T20:02:22.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "The Asynchronous Enterprise - Brendan O'Leary | JSConf Hawaii 2020",
+      "description": "The one question I'm asked more than any other when talking about working at GitLab is: wait, you don't have any offices? That is often followed by a confused look or the direct question: How?\n\nWriting down decisions, asynchronous communication, measuring results, not hours. Companies often aspire to these goals...however in an all-remote company, they aren't aspirational - they are requirements. GitLab has grown from 9 people in 2014 to over 900 people in 55 different countries with a valuation of almost $3 billion.\n\nIn this talk, we'll discover some of the not-so-secret sauce that GitLab has leveraged to achieve this growth. On this journey, our values have remained the same. We value collaboration, results, efficiency, diversity & inclusion, iteration, and transparency. And we've done all that without having any office, headquarters, or anything that looks like one.\n\nSlides: https://docs.google.com/presentation/d/11XLfdSAnWDla9gQEZIrv5E2Fh4qeZXwThlZ2I7VQgok/edit#slide=id.g73fbef8bdb_0_0\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xRro-dDsYPU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xRro-dDsYPU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xRro-dDsYPU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xRro-dDsYPU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xRro-dDsYPU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rjDoRdp42U5KTh5tfTRnHnXIO44\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLmNaN2xSeHJfeXpF",
+    "snippet": {
+      "publishedAt": "2020-03-16T20:02:14.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "No Way, JOSE - Sam Bellen | JSConf Hawaii 2020",
+      "description": "Is your first thought when thinking about cryptography, “nope, that’s not for me!”? There’s no need to. When explained with simple examples, you can see the basics are not that complicated. The Javascript Object Signing and Encryption, or JOSE for short is a framework that helps us deal with encryption. It describes ways to securely transfer data either signed (JWS) or encrypted (JWE). Let’s take a leap of faith and explore the wonderful world of cryptography together, shall we?\n\nIn this talk, I will try to explain the basics of encryption and hashing through simple examples. We’ll look into how the JOSE standard can help us with encrypted content on the web using JSON Web Encryption (JWE) and JSON Web Keys (JWK). The audience does not need any specific knowledge about cryptography as this talk will go through the basics. Some JavaScript knowledge can be useful but not necessary as code examples will be simple and explained.\n\nWhy? The times when websites were just simple pieces of information is long gone. These days the web handles more sensitive data than ever before. To securely handle this data, we sometimes need to hash, encrypt or sign it. Sure there are a million tools, libraries and pieces of software that handle this for you, but knowing the basics can certainly come in handy!\n\nSlides: https://jose.sambego.tech/\n\nJSConf Hawaii will return soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cZ7lRxr_yzE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cZ7lRxr_yzE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cZ7lRxr_yzE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cZ7lRxr_yzE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cZ7lRxr_yzE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cZ7lRxr_yzE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/m73e2raT3brGuTuDaq2U63UY01g\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLnJ2UVAyUlR4RUg4",
+    "snippet": {
+      "publishedAt": "2020-03-12T18:26:54.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "Parsing Parsers - Jenna Zeigen | JSConf Hawaii 2020",
+      "description": "Have you ever wondered how your code goes from being characters in a file to something that the computer can \"understand\" and do something with? A key part of this is the parser. In this talk, we’ll look at building a search query parser (all in JavaScript, of course). On this journey, we’ll first take a step back and learn about the building blocks of all languages, from letters to grammars, and how they represent meaning. Then, we’ll talk about what a parser is and does and why we might want one for our task. With this new knowledge, we’ll dive into building the parser, from tokenizing to building a data structure that represents the query and lets us build a UI around it.\n\nSlides: https://jenna.is/slides/at-jsconfhi.pdf\n\nJSConf Hawaii will return in soon\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rvQP2RTxEH8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rvQP2RTxEH8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rvQP2RTxEH8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rvQP2RTxEH8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rvQP2RTxEH8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rvQP2RTxEH8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OmZV7NdhtRMEmirRS-uMySo9HVo\"",
+    "id": "VVV6b1ZDYWNuZERDZkdEZjQxUC16MGlBLmtRNHI5T0FUbUIw",
+    "snippet": {
+      "publishedAt": "2020-03-12T18:26:47.000Z",
+      "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+      "title": "The \"Perfect\" Tooling Library - Ben Ilegbodu | JSConf Hawaii 2020",
+      "description": "So you have a great idea for the perfect JS library... but the implementation is only half the battle. You also need to configure infrastructure to develop, test, build and deploy your package. How do you set up Typescript and other static checking? Do you target ESM or CJS builds? Is integration testing even possible? There’s so much extra to consider!\n\nLet’s learn what makes up the “perfect” library tooling. Familiarity with developing JavaScript packages will help you get the most out of this session, but you will gain plenty of helpful insights even if you have yet to build one. Oh, and don’t worry if you don’t understand all of those terms — you soon will after this video!\n\nSlides: https://slides.benmvp.com/2020/jsconfhi/perfect-lib#/\n\nJSConf Hawaii will return in 2021\nhttps://www.jsconfhi.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kQ4r9OATmB0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kQ4r9OATmB0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kQ4r9OATmB0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kQ4r9OATmB0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kQ4r9OATmB0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JSConf",
+      "playlistId": "UUzoVCacndDCfGDf41P-z0iA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kQ4r9OATmB0"
+      }
+    }
+  }
+]

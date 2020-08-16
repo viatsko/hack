@@ -1,0 +1,65 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CnkZHaAB70KBxSbPuE8T2SrSKZs\"",
+      "id": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "snippet": {
+        "title": "Jon Gjengset",
+        "description": "We're building libraries and tools in the Rust programming language!\n\nThe streams are intended for users who are already somewhat familiar with Rust, but who want to see something larger and more involved be built. You can see earlier related videos by looking at the playlists and uploads on this channel. I post about upcoming streams and ideas for new ones on Twitter at https://twitter.com/jonhoo, so follow me there if you want to be notified! You can also follow me on Twitch at https://twitch.tv/jonhoo.\n\nThe hope of this channel is to help serve the Rust 2018 Roadmap goal of better serving intermediate Rustaceans: https://blog.rust-lang.org/2018/03/12/roadmap.html#better-serving-intermediate-rustaceans\n\nAlso known as (for search purposes): jonhoo",
+        "customUrl": "jongjengset",
+        "publishedAt": "2013-11-17T12:03:02.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy5u0S4Ullv_vgN6eqchyVD_cCKbB_NBXoLlQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy5u0S4Ullv_vgN6eqchyVD_cCKbB_NBXoLlQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy5u0S4Ullv_vgN6eqchyVD_cCKbB_NBXoLlQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Jon Gjengset",
+          "description": "We're building libraries and tools in the Rust programming language!\n\nThe streams are intended for users who are already somewhat familiar with Rust, but who want to see something larger and more involved be built. You can see earlier related videos by looking at the playlists and uploads on this channel. I post about upcoming streams and ideas for new ones on Twitter at https://twitter.com/jonhoo, so follow me there if you want to be notified! You can also follow me on Twitch at https://twitch.tv/jonhoo.\n\nThe hope of this channel is to help serve the Rust 2018 Roadmap goal of better serving intermediate Rustaceans: https://blog.rust-lang.org/2018/03/12/roadmap.html#better-serving-intermediate-rustaceans\n\nAlso known as (for search purposes): jonhoo"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "LL_iD0xppBwwsrM9DegC5cQQ",
+          "uploads": "UU_iD0xppBwwsrM9DegC5cQQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU_iD0xppBwwsrM9DegC5cQQ"
+  },
+  "displayName": "Jon Gjengset",
+  "description": "We're building libraries and tools in the Rust programming language!\n\nThe streams are intended for users who are already somewhat familiar with Rust, but who want to see something larger and more involved be built. You can see earlier related videos by looking at the playlists and uploads on this channel. I post about upcoming streams and ideas for new ones on Twitter at https://twitter.com/jonhoo, so follow me there if you want to be notified! You can also follow me on Twitch at https://twitch.tv/jonhoo.\n\nThe hope of this channel is to help serve the Rust 2018 Roadmap goal of better serving intermediate Rustaceans: https://blog.rust-lang.org/2018/03/12/roadmap.html#better-serving-intermediate-rustaceans\n\nAlso known as (for search purposes): jonhoo",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy5u0S4Ullv_vgN6eqchyVD_cCKbB_NBXoLlQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy5u0S4Ullv_vgN6eqchyVD_cCKbB_NBXoLlQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJy5u0S4Ullv_vgN6eqchyVD_cCKbB_NBXoLlQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

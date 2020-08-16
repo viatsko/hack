@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rPQH7M_RI6UQacAhiRxi9-TnW0k\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LmFuWlBIZUEwV0tV",
+    "snippet": {
+      "publishedAt": "2020-04-15T05:42:30.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Digital Circuit Simulator In JavaScript: 7400 Subscriber Special!",
+      "description": "=[ ℹ About ℹ ]=\n\nIn this special 7400 subscriber special of Low Level JavaScript we're going to build a digital logic simulator, inspired by the famous 7400 series logic chips. Starting with logic gates and moving up to Flip Flops, Registers, and more - this simulator could be used to build something as complex as even a CPU!\n\n=[ 🔗 Links 🔗 ]=\n\n- Github Repo: https://github.com/LowLevelJavaScript/Digital-Logic-Simulator\n- Ben Eater: https://www.youtube.com/user/eaterbc\n- Boolean Logic: https://en.wikipedia.org/wiki/Boolean_algebra\n- Building A Real D-Flip Flop in Hardware: https://www.youtube.com/watch?v=YW-_GkUguMM\n- High Impedance: https://en.wikipedia.org/wiki/High_impedance#Digital_electronics\n- Tristate Logic: https://en.wikipedia.org/wiki/Three-state_logic\n- Logisim: http://www.cburch.com/logisim/\n- Renato Bohler's Logosim Project (logisim in JS): https://github.com/renato-bohler/logossim",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/anZPHeA0WKU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/anZPHeA0WKU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/anZPHeA0WKU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/anZPHeA0WKU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/anZPHeA0WKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "anZPHeA0WKU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZVfwkUGLKZdtc3_7ZIF_jWAGyOw\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LmFpNjNsNE9VeFNz",
+    "snippet": {
+      "publishedAt": "2020-04-09T08:08:52.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "How Are State Machines Used In Parsing? (16-Bit VM in JavaScript 008)",
+      "description": "In this episode we begin building the parser for this VMs assembly language. During the process we'll encounter a tricky problem with parser combinators, and how we can solve it using state machines.\n\n=[ ℹ About ℹ ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators from scratch series\n- And finally, to be able to take the whole thing into the browser and extend it to create a sort of fantasy console - an emulator for a machine that never existed\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b&playnext=1&index=1\n- Github Repo: https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine\n\n\n- arcsecond: https://github.com/francisrstokes/arcsecond\n\n- Parser Combinators From Scratch: https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU\n- \"Building A Language Parser and Interpreter\": https://youtu.be/PzodUuERBZc\n- \"Contextual\" Parsers: https://youtu.be/yPEwjpIWOGg\n- State Machines: https://en.wikipedia.org/wiki/Finite-state_machine\n- The \"Left Recursion\" Problem: https://en.wikipedia.org/wiki/Left_recursion",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ai63l4OUxSs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ai63l4OUxSs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ai63l4OUxSs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ai63l4OUxSs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ai63l4OUxSs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ai63l4OUxSs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bN4sg4nbSlTZSqeM49ZdAoP3nOM\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LktoS3E4YTFtOHI4",
+    "snippet": {
+      "publishedAt": "2020-03-29T10:04:02.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Tour Through The Assembly Language and The Assembler (16-Bit VM in JavaScript 007)",
+      "description": "In this episode we're going to take a break from building functionality in the virtual machine and take a tour through the assembly language that this VM will support, and some features of the assembler - which will turn that assembly language into machine code.\n\n=[ ℹ About ℹ ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators from scratch series\n- And finally, to be able to take the whole thing into the browser and extend it to create a sort of fantasy console - an emulator for a machine that never existed\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b&playnext=1&index=1\n- Github Repo: https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine\n\n\n- arcsecond: https://github.com/francisrstokes/arcsecond\n- Parser Combinators From Scratch: https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KhKq8a1m8r8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KhKq8a1m8r8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KhKq8a1m8r8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KhKq8a1m8r8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KhKq8a1m8r8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KhKq8a1m8r8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RlC9aDgRIYysATskkMfwnZObcdo\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LnlQRXdqcElXT0dn",
+    "snippet": {
+      "publishedAt": "2020-03-12T11:50:39.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "EXTRA: Chain Tricks For Sequential Parsing - Parser Combinators From Scratch",
+      "description": "In this episode we discover how the .chain() method (one of our monadic ingredients) allows us to turn deeply nested, contextual parser descriptions into flat, readable flows - much the same as async/await does for promises!\n\n=[ ℹ About ℹ ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Playlist: https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU\n- Github Repo: https://github.com/LowLevelJavaScript/Parser-Combinators-From-Scratch\n- LLJS Subreddit: https://reddit.com/r/lowleveljavascript\n\n- Promises / Async 2-Parter: https://www.youtube.com/playlist?list=PLP29wDx6QmW7IaD762Rf_Awfr1Wxz0Amq",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yPEwjpIWOGg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yPEwjpIWOGg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yPEwjpIWOGg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yPEwjpIWOGg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yPEwjpIWOGg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yPEwjpIWOGg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7zgsv3Wvr5_7imkLTCFwMPj9GAY\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LjEtMXdXWmRnWlJJ",
+    "snippet": {
+      "publishedAt": "2020-02-05T06:00:00.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Powering Up With New Instructions (16-Bit VM in JavaScript 006)",
+      "description": "In this episode we add new instructions and capabilities to the VM, including:\n\n\n- More move instructions\n- More arithmetic capabilities for doing math\n- Binary logic instructions\n- Branches\n\n\n\n=[ ℹ About ℹ ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators from scratch series\n- And finally, to be able to take the whole thing into the browser and exend it to create a sort of fantasy console - an emulator for a machine that never existed\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b&playnext=1&index=1\n- Github Repo: https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine\n\n- Branching: https://en.wikipedia.org/wiki/Branch_(computer_science)\n- Binary Logic: https://en.wikipedia.org/wiki/Boolean_logic\nEscape sequences: https://github.com/75lb/ansi-escape-sequences/blob/master/index.mjs\nLLJSVM Debugger/IDE: https://github.com/manmon42/lljsvm-ide\nMax's Github Project: https://lljside.maxstarr.xyz/\nKnevari's Compiler/Assembler: https://github.com/Knevari/js-virtual-machine\nMatt Ewans Functional VM: https://github.com/matt-ewan-laws/functional-16bit-computer\nMemory Mapped IO: https://en.wikipedia.org/wiki/Memory-mapped_I/O\nsetImmediate: https://nodejs.org/api/timers.html#timers_setimmediate_callback_args",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1-1wWZdgZRI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1-1wWZdgZRI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1-1wWZdgZRI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1-1wWZdgZRI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1-1wWZdgZRI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1-1wWZdgZRI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V5Sr1ImoG5tzt0uVwN4jqiA5xGo\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LmhMWUdUcHZvTWdF",
+    "snippet": {
+      "publishedAt": "2019-12-25T08:00:07.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "What is Memory Mapped I/O? (16-Bit VM in JavaScript 005)",
+      "description": "This this episode we implement memory mapped I/O, where the address space is utilised as common bus for components to communicate.\n\n=[ ℹ About ℹ ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators from scratch series\n- And finally, to be able to take the whole thing into the browser and exend it to create a sort of fantasy console - an emulator for a machine that never existed\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b&playnext=1&index=1\n\n- Github Repo: https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine\n- Memory Mapped IO: https://en.wikipedia.org/wiki/Memory-mapped_I/O\n- Address Space: https://en.wikipedia.org/wiki/Address_space",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hLYGTpvoMgE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hLYGTpvoMgE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hLYGTpvoMgE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hLYGTpvoMgE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hLYGTpvoMgE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hLYGTpvoMgE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1t59VlO0WUC02YjRWkC9Bxzfu5w\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LkVtMmpxd1JPZFpj",
+    "snippet": {
+      "publishedAt": "2019-12-11T11:11:40.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Building Async/Await FROM SCRATCH using Generators",
+      "description": "In this episode we build on the Promise abstraction we built in the previous episode to create async/await from scratch using generator functions.\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Github Repo: https://github.com/LowLevelJavaScript/Promises-From-Scratch\n- Specification: https://promisesaplus.com\n\n- Promises (MDN): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\n- Generator Functions: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*\n- Generator Objects: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator\n- Iterator: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterator_protocol\n- Iterable: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterable_protocol",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Em2jqwROdZc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Em2jqwROdZc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Em2jqwROdZc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Em2jqwROdZc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Em2jqwROdZc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Em2jqwROdZc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eOYR0Qamb98E95Ffu1hTTKhJI00\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LjRHcHdNOEZtVmdR",
+    "snippet": {
+      "publishedAt": "2019-11-27T11:10:43.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Promises From Scratch In A Post-Apocalyptic Future",
+      "description": "=[ ℹ About ℹ ]=\n\nIn this installment of Low Level JavaScript we build a Promise implementation from scratch in order to understand exactly how asynchronous abstractions can be built on top of lower level primitives like callbacks.\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Github Repo: https://github.com/LowLevelJavaScript/Promises-From-Scratch\n- Specification: https://promisesaplus.com\n- Promises (MDN): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4GpwM8FmVgQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4GpwM8FmVgQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4GpwM8FmVgQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4GpwM8FmVgQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4GpwM8FmVgQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4GpwM8FmVgQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DJNe77NuOSAtUWna_XAZwJS5eXw\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LnpBc244cS1YOUhN",
+    "snippet": {
+      "publishedAt": "2019-11-13T10:30:01.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Implementing Stack Mechanics (16-Bit VM in JavaScript 004)",
+      "description": "In this episode, we create an implementation for the stack mechanisms that were described in the last episode. If you have seen that, you can find it at https://www.youtube.com/watch?v=mamop8aqFNk\n\n\n=[ ℹ About ℹ ]=\n\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators from scratch series\n- And finally, to be able to take the whole thing into the browser and exend it to create a sort of fantasy console - an emulator for a machine that never existed\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b&playnext=1&index=1\n- Github Repo: https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine\n\n- Stack Data Structure: https://en.wikipedia.org/wiki/Stack_(abstract_data_type)\n- Subroutine: https://en.wikipedia.org/wiki/Subroutine",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zAsn8q-X9HM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zAsn8q-X9HM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zAsn8q-X9HM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zAsn8q-X9HM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zAsn8q-X9HM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zAsn8q-X9HM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/N7R9rNhXIbh31FOsnny7XBqu8Vs\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3Lm1hbW9wOGFxRk5r",
+    "snippet": {
+      "publishedAt": "2019-10-31T13:03:01.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "What is the Stack and why do we need it? (16-Bit VM in JavaScript 003)",
+      "description": "In this episode we understand what a stack is, how it can be implemented on the lowest level, and how it can then be harnessed to allow the Virtual Machine to run subroutines without losing state.\n\n=[ ℹ About ℹ ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators from scratch series\n- And finally, to be able to take the whole thing into the browser and exend it to create a sort of fantasy console - an emulator for a machine that never existed\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b&playnext=1&index=1\n- Github Repo: https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine\n\n- Stack Data Structure: https://en.wikipedia.org/wiki/Stack_(abstract_data_type)\n- Subroutine: https://en.wikipedia.org/wiki/Subroutine",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mamop8aqFNk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mamop8aqFNk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mamop8aqFNk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mamop8aqFNk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mamop8aqFNk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mamop8aqFNk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wKaNLX2eCY_tPTs_2BsWpL_dYBg\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LndKLXB1NklxMEI4",
+    "snippet": {
+      "publishedAt": "2019-10-15T06:25:51.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Memory Access and Branching (16-Bit VM in JavaScript 002)",
+      "description": "In this video we establish the core instruction set of the VM, give the VM the capabilities to read and write to main memory, and also to make decisions about how the program should proceed with branching instructions.\n\n=[ ℹ About ℹ ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators from scratch series\n- And finally, to be able to take the whole thing into the browser and exend it to create a sort of fantasy console - an emulator for a machine that never existed\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b&playnext=1&index=1\n- Github Repo: https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine\n\n- 16BitJS: https://github.com/francisrstokes/16bitjs\n- VMFC: https://github.com/francisrstokes/vmfc\n- Turing Machine: https://en.wikipedia.org/wiki/Turing_machine\n- Von Neumann architecture: https://en.wikipedia.org/wiki/Von_Neumann_architecture\n- CPU: https://en.wikipedia.org/wiki/Central_processing_unit\n- Stack Machine: https://en.wikipedia.org/wiki/Stack_machine\n- Register Machine: https://en.wikipedia.org/wiki/Register_machine\n- Instruction set architecture: https://en.wikipedia.org/wiki/Instruction_set_architecture",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wJ-pu6Iq0B8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wJ-pu6Iq0B8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wJ-pu6Iq0B8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wJ-pu6Iq0B8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wJ-pu6Iq0B8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wJ-pu6Iq0B8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/66Vgwmg5UvyATfquJkcET9AFG4U\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LmZUQndEM3NiNW13",
+    "snippet": {
+      "publishedAt": "2019-10-01T08:04:31.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "16-Bit Virtual Machine in JavaScript 001",
+      "description": "In this episode we begin implementing a 16-bit virtual machine from scratch in JavaScript. The concepts of computation are introduced, along with the basics of assembly language and machine code.\n\n=[ ℹ About ℹ ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators from scratch series\n- And finally, to be able to take the whole thing into the browser and exend it to create a sort of fantasy console - an emulator for a machine that never existed\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b&playnext=1&index=1\n- Github Repo: https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine\n\n- 16BitJS: https://github.com/francisrstokes/16bitjs\n- VMFC: https://github.com/francisrstokes/vmfc\n- Turing Machine: https://en.wikipedia.org/wiki/Turing_machine\n- Von Neumann architecture: https://en.wikipedia.org/wiki/Von_Neumann_architecture\n- CPU: https://en.wikipedia.org/wiki/Central_processing_unit\n- Stack Machine: https://en.wikipedia.org/wiki/Stack_machine\n- Register Machine: https://en.wikipedia.org/wiki/Register_machine\n- Instruction set architecture: https://en.wikipedia.org/wiki/Instruction_set_architecture",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fTBwD3sb5mw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fTBwD3sb5mw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fTBwD3sb5mw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fTBwD3sb5mw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fTBwD3sb5mw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fTBwD3sb5mw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/y5-diWBhUJk1_YPwq4_H58NWSHY\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LndQQmpkLXZiOWVJ",
+    "snippet": {
+      "publishedAt": "2019-09-18T13:23:41.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Why 0.1 + 0.2 === 0.30000000000000004: Implementing IEEE 754 in JS",
+      "description": "Floating point math is tricky. In this video, we'll learn how these numbers work in computers, and build a software implementation from scratch in JavaScript.\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Floating Point Arithmetic: https://en.wikipedia.org/wiki/Floating-point_arithmetic\n- 16 Bit Floats: https://en.wikipedia.org/wiki/Half-precision_floating-point_format\n- IEEE 754 Spec: https://ieeexplore.ieee.org/document/30711\n- Fabien Sanglard's awesome blog on the subject: http://fabiensanglard.net/floating_point_visually_explained/\n- Denormalised Numbers: https://en.wikipedia.org/wiki/Denormal_number\n- Github Repo: https://github.com/LowLevelJavaScript/Floating-Point-Implemented-In-JS",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wPBjd-vb9eI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wPBjd-vb9eI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wPBjd-vb9eI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wPBjd-vb9eI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wPBjd-vb9eI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wPBjd-vb9eI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iCQ2Z2aPcVz7IMfSzWg7XkDlBH8\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3Llgxc0tnMF9yNEpN",
+    "snippet": {
+      "publishedAt": "2019-09-10T06:58:07.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Ints, Uints, and Parsing an IP Packet Header [Parser Combinators From Scratch] Episode 7",
+      "description": "In this episode we finish up with binary parsing by building (almost) arbitrary precision integer and unsigned integer parsers, as well as a parser for extracting ascii strings.\n\nApologies for my voice in this one - I recorded at the tail end of a chest infection at 6am and it turns out that's when my voice is at it's most Barry White.\n\n=[ ℹ About ℹ ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Playlist: https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU\n- Github Repo: https://github.com/LowLevelJavaScript/Parser-Combinators-From-Scratch\n- LLJS Subreddit: https://reddit.com/r/lowleveljavascript\n- IP Packets: https://en.wikipedia.org/wiki/IPv4#Packet_structure\n- IP Packet Breakdown: http://www.cs.miami.edu/home/burt/learning/Csc524.092/notes/ip_example.html\n- Ben Eater: https://www.youtube.com/user/eaterbc\n- Twos Complement: https://en.wikipedia.org/wiki/Two%27s_complement\n- Signed Binary: https://en.wikipedia.org/wiki/Signed_number_representations#Signed_magnitude_representation_(SMR)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X1sKg0_r4JM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X1sKg0_r4JM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X1sKg0_r4JM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X1sKg0_r4JM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X1sKg0_r4JM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "X1sKg0_r4JM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X1UFBwhplF7SiqQQxd1g9tgc7Z0\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LlpnSGxjM1EyWWpV",
+    "snippet": {
+      "publishedAt": "2019-08-27T06:30:00.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Ones and Zeros: Binary Part 1 [Parser Combinators from Scratch] Episode 6",
+      "description": "In this episode the parser combinator system is turned on binary data. We learn how to specify and extract  individual bits, Typed Arrays, ArrayBuffers and DataViews, and about important concepts like bit ordering.\n\n=[ ℹ About ℹ ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Playlist: https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU\n- Github Repo: https://github.com/LowLevelJavaScript/Parser-Combinators-From-Scratch\n- LLJS Subreddit: https://reddit.com/r/lowleveljavascript\n- IP Packet Structure: https://en.wikipedia.org/wiki/IPv4#Packet_structure\n- ArrayBuffer: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer\n- DataView: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView\n- Typed Arrays: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZgHlc3Q2YjU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZgHlc3Q2YjU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZgHlc3Q2YjU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZgHlc3Q2YjU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZgHlc3Q2YjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZgHlc3Q2YjU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WrzGxMm79NWZYU6QbdGW_zNtdBY\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LnNSV0U1dG5heGxJ",
+    "snippet": {
+      "publishedAt": "2019-08-23T07:36:04.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "JavaScript Is Weird (EXTREME EDITION)",
+      "description": "To offset some of the banana-based JavaScript \"weirdness\" that's making the rounds, I'm bring you a 40 line JSFuck compiler that turns innocent looking JS into a mess of obfuscated symbols.\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Martin Kleppe's Original JSFuck: http://www.jsfuck.com/\n- Martin on Twitter: https://twitter.com/aemkei\n- Parser Combinators From Scratch Series: https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU\n- Github repo: https://github.com/LowLevelJavaScript/JavaScript-Is-Weird",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sRWE5tnaxlI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sRWE5tnaxlI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sRWE5tnaxlI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sRWE5tnaxlI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sRWE5tnaxlI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sRWE5tnaxlI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TKidfe_mJx7bzCd7CC5rB-fnJ5E\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LlB6b2RVdUVSQlpj",
+    "snippet": {
+      "publishedAt": "2019-08-20T06:30:00.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Building A Language Parser and Interpreter [Parser Combinators from Scratch] Episode 5",
+      "description": "In this episode we dive into parsing recursive structures, and build a very simple functional language parser and interpreter.\n\n=[ ℹ About ℹ ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Playlist: https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU\n- Code: https://github.com/LowLevelJavaScript/Parser-Combinators-From-Scratch\n- LLJS Subreddit: https://reddit.com/r/lowleveljavascript",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PzodUuERBZc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PzodUuERBZc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PzodUuERBZc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PzodUuERBZc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PzodUuERBZc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PzodUuERBZc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2WzG8MAJCFisu9xEbs3Wkb0M8m8\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3Lm5xTnpXZ1NSQ2Vn",
+    "snippet": {
+      "publishedAt": "2019-08-13T06:30:00.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Contextual Parsing With The Chain Method  [Parser Combinators From Scratch] Episode 4",
+      "description": "In this episode we will write the method `Parser.chain(fn)` which utilises functional programming concepts to empower our system with contextual abilities!\n\nWhat that really means is that we can look at what we've previously parsed, and choose the next parser accordingly.\n\n=[ ℹ About ℹ ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ 🔗 Links 🔗 ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- Playlist: https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU\n- Code: https://github.com/LowLevelJavaScript/Parser-Combinators-From-Scratch\n- Tom Harding's amazing resources about Fantasy Land: http://www.tomharding.me/fantasy-land/\n- Fantasy Land Specification: https://github.com/fantasyland/fantasy-land\n- LLJS Subreddit: https://reddit.com/r/lowleveljavascript",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nqNzWgSRCeg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nqNzWgSRCeg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nqNzWgSRCeg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nqNzWgSRCeg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nqNzWgSRCeg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nqNzWgSRCeg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PWnWUJMhlQlAokaoxEW-PJowT_0\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LnhCN2xGUE1ONGRV",
+    "snippet": {
+      "publishedAt": "2019-08-06T08:07:54.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Classes, mapping, and generic parsers [Parser Combinators From Scratch] Episode 3",
+      "description": "In this episode we'll create a Parser class and implement map, a method that will allow us to apply arbitrary structure as we parse.\nWe'll also build more general parsers like letters and digits, as well as combinators like choice and many.\n\n=[ ℹ About ℹ ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ ⛓ Links ⛓ ]=\n\n- ⭐️ Patreon: https://www.patreon.com/lowleveljavascript\n\n- LLJS Subreddit: https://reddit.com/r/lowleveljavascript",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xB7lFPMN4dU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xB7lFPMN4dU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xB7lFPMN4dU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xB7lFPMN4dU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xB7lFPMN4dU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xB7lFPMN4dU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XwodLJAB3ijsShmXwlKt6kHaRa4\"",
+    "id": "VVU1Nmw3dVpBMjA5dGxQVFZPSmlKOFR3LjFheEpEbUtfcG5F",
+    "snippet": {
+      "publishedAt": "2019-07-30T06:04:24.000Z",
+      "channelId": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "title": "Implementing the mechanics [Parser Combinators From Scratch] Episode 2",
+      "description": "In this episode we explore how the primary mechanism of parser combinators works: A function that transforms one parser state into another. We implement the str and sequenceOf parsers, as well as a internal error handling mechanism.\n\n=[ ℹ About ℹ ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ 🔗 Links 🔗 ]=\n\n- arcsecond : https://github.com/francisrstokes/arcsecond\n- Daniel Holden's Article: http://daniel-holden.com/page/you-could-have-invented-parser-combinators\n- LLJS Subreddit: https://reddit.com/r/lowleveljavascript\n- Wikipedia Article On Parser : https://en.wikipedia.org/wiki/Parsing",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1axJDmK_pnE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1axJDmK_pnE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1axJDmK_pnE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1axJDmK_pnE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1axJDmK_pnE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Low Level JavaScript",
+      "playlistId": "UU56l7uZA209tlPTVOJiJ8Tw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1axJDmK_pnE"
+      }
+    }
+  }
+]

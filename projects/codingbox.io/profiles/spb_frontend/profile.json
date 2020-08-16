@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zZrfkGzdZfnSV2hdMP0ia7VURC0\"",
+      "id": "UCWjDubFXv8I1vWEb47s9_IA",
+      "snippet": {
+        "title": "SPB Frontend",
+        "description": "Петербургское сообщество фронтенд-энтузиастов. http://spb-frontend.ru/",
+        "publishedAt": "2014-04-04T13:23:18.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwuMjXiCd1_VVn27vSl4T4cbailPPdiJaPmIQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwuMjXiCd1_VVn27vSl4T4cbailPPdiJaPmIQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwuMjXiCd1_VVn27vSl4T4cbailPPdiJaPmIQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "SPB Frontend",
+          "description": "Петербургское сообщество фронтенд-энтузиастов. http://spb-frontend.ru/"
+        },
+        "country": "RU"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUWjDubFXv8I1vWEb47s9_IA",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUWjDubFXv8I1vWEb47s9_IA"
+  },
+  "displayName": "SPB Frontend",
+  "description": "Петербургское сообщество фронтенд-энтузиастов. http://spb-frontend.ru/",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwuMjXiCd1_VVn27vSl4T4cbailPPdiJaPmIQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwuMjXiCd1_VVn27vSl4T4cbailPPdiJaPmIQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwuMjXiCd1_VVn27vSl4T4cbailPPdiJaPmIQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

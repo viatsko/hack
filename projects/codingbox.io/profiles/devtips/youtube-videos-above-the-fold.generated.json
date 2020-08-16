@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tmhaQ9Y_LVFds5hD35rj2HG62iE\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLlhIelJHeUtMbWdN",
+    "snippet": {
+      "publishedAt": "2019-06-27T14:41:01.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "What Happened to DevTips THIS TIME??",
+      "description": "David and Mattias explain what happened to DevTips and (once again) lay out plans for the future.\n\n🎬 Dan Abramov showing React Hooks\nhttps://www.youtube.com/watch?v=G-aO5hzo1aw\n\n‼️ Follow on Twitch to get notified of next live stream\nhttps://twitch.tv/devtipsshow\n\n💛 Inline-evaluation: Quokka (sponsor)\nWonder how MPJ evaluates JavaScript inline his editor? Quokka is the answer - use this link when you buy to let them know you came from here:\nhttp://quokka.devtipsshow.com\n\n💛 Continuous integration: CircleCI (sponsor)\nRobust and sleek Docker-based Continuous Integration as a service. Mattias used CircleCI prior to them becoming a sponsor of Fun Fun Function. Their free tier is powerful enough for small personal projects, even if they are private. Use this link when you sign up to let them know you came from us:\nhttps://circleci.funfunfunction.com\n\n💛 Integrated continuous testing tool: Wallaby (sponsor)\nWallaby runs your unit tests immediately as you type and displays various execution results. The tool is insanely fast, because it only executes tests affected by your code changes and runs your tests in parallel. Check out MPJs video on how to get started with testing. https://www.youtube.com/watch?v=Eu35xM76kKY After that, start using Wallaby. Let them know you came from us by using this link:\nhttp://wallaby.devtipsshow.com\n\nDevTips is a show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nThe recordings are done in a live stream with chat! Follow on Twitch to get notified:\n🌊 https://www.twitch.tv/devtipsshow\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XHzRGyKLmgM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XHzRGyKLmgM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XHzRGyKLmgM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XHzRGyKLmgM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XHzRGyKLmgM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XHzRGyKLmgM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V43pv6QF5etb5aD9Y03JbQX4RjU\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLnNnOGdyVllwaTRn",
+    "snippet": {
+      "publishedAt": "2019-01-18T08:00:09.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "My First Progressive Web App (PWA)",
+      "description": "We learn the basics on Progressive Web Apps! What are they good for? Why do they exist? AND showing just how easy it is to get started!\n\n🗿 MILESTONES\n⏯ 00:10 What are progressive web apps PWA?\n⏯ 16:35 FIKA TIME! ☕️\n⏯ 20:35 PWA vs React Native\n⏯ 24:02 building a very first minimal progressive web app on iOS\n\nRepository with the code we use in the video\n📝 https://github.com/chhib/dt-pwa\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nThe recordings are done in a live stream with chat! Follow on Twitch to get notified:\n🌊 https://www.twitch.tv/devtipsshow\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#pwa #manifest",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sg8grVYpi4g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sg8grVYpi4g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sg8grVYpi4g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sg8grVYpi4g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sg8grVYpi4g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sg8grVYpi4g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JQpZJlck4EYWMjV83XZ-jsZXVs4\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLlpTdWhfbk5QR2xz",
+    "snippet": {
+      "publishedAt": "2019-01-11T08:00:04.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Trying Kubernetes 📦 for the First Time",
+      "description": "Sponsored by: Sucuri, thanks! Gain peace of mind by securing all your websites, get hacks fixed and prevent future attacks. Get 15% off with discount code: DevTips15\nhttp://sucuri.devtipsshow.com\n\nWe get a local Kubernetes deployment set up using Minikube. Why not docker-compose? We explain it. What is a pod? We explain it. Kubectl? Replica? Replica set? YAML??? WE EXPLAIN IT!\n\n🏆 ACHIEVEMENTS:\n⏯ 17:13 Learning YAML syntax\n⏯ 31:47 Running the deployment\n\nStep-by-step instruction to do the initial setup. WARNING: It will take a while.\n⏳ https://www.notion.so/maximumsheep/Trying-Kubernetes-for-the-first-time-e53f64f67e9e4cd6b78914ef4deb3844\n\nThe files we used\n🗂 https://gist.github.com/chhib/588bf4e5324c62f39526c8032a484d84\n\nThis was shot on a live stream on Twitch. Go there to follow us when we do future live streams:\n📹 https://www.twitch.tv/devtipsshow/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#kubernetes #docker #yaml",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZSuh_nNPGls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZSuh_nNPGls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZSuh_nNPGls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZSuh_nNPGls/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZSuh_nNPGls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZSuh_nNPGls"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZVjLKBPg0taARXbpPHxjehPdGyE\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLkJIajJYNGtBT0tn",
+    "snippet": {
+      "publishedAt": "2019-01-04T08:00:02.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "The Future of DevTips & Fun Fun Function",
+      "description": "David & MPJ are reflecting on the past year and tells about new plans for the shows!\n\nThe SECRET document planning out the future\n🔪 https://www.notion.so/maximumsheep/Codename-Failing-Together-caf7b47d6a0a46faa7dcacc04619f6cd\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#livestreaming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BHj2X4kAOKg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BHj2X4kAOKg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BHj2X4kAOKg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BHj2X4kAOKg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BHj2X4kAOKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BHj2X4kAOKg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nW15VJfgVPLC8H4bIwdGpuA3O4Q\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLmZuRnZzVXlPYkk4",
+    "snippet": {
+      "publishedAt": "2018-12-21T08:00:05.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Best \"Web\" Development Content of 2018",
+      "description": "Sponsored by: Brilliant, thanks! Be one of the first 200 people to sign up with this link and get 20% off your annual subscription with Brilliant.org!\nhttps://brilliant.org/DevTips/\n\nDavid and Mattias walk through their favourite web developer resources from 2018.  Content creators, tools, books. Maybe they are just their favourites. Maybe not even web dev related...\n\n🗿 MILESTONES\n\n⏯ 01:55 Syntax.fm\nhttps://syntax.fm/\n\n⏯ 03:43 Freakonomics\nhttp://freakonomics.com/podcast/religiosity/\n\n⏯ 10:10 Paul Lewis\nhttps://www.youtube.com/channel/UCRDEsZDDhVhtHLi0L8-5fow\n\n⏯ 13:07 Noopkat\nhttps://www.twitch.tv/noopkat\nhttps://www.youtube.com/channel/UCoFU24KMXmCi4Sl3KIFPSVg\n\n⏯ 14:04 The Coding Train\nhttps://www.youtube.com/user/shiffman\n\n⏯ 18:50 I Don't Want to Talk About It\nhttps://www.amazon.com/Dont-Want-Talk-About-Overcoming/dp/0684835398/\n\n⏯ 22:09 Thin Matrix\nhttps://www.youtube.com/user/ThinMatrix\n\n⏯ 23:52 VS Code Live Share\nhttps://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare\n\nTHANKS ALL OF YOU FOR FOLLOWING! Hope you find something of use!\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#tips #podcasts #channels #books",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fnFvsUyObI8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fnFvsUyObI8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fnFvsUyObI8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fnFvsUyObI8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fnFvsUyObI8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fnFvsUyObI8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VQ9b4Jue2cyBzeYKv_TErpcFQMw\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLjJ0dmJrQ1c0T0lZ",
+    "snippet": {
+      "publishedAt": "2018-12-14T08:00:00.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Trying Docker for the First Time 📖 Many Learnings!",
+      "description": "Sponsored by: Brilliant, thanks! Be one of the first 200 people to sign up with this link and get 20% off your annual subscription with Brilliant.org!\nhttps://brilliant.org/DevTips/\n\nHow to get started with Docker for the first time. What is an image? What is a container? How does Docker work? Why should I use it?\n\nALL THAT STUFFS in this video on the basics of Docker where we get up and running and explain the most important parts of using Docker!\n\nHaving seen this video - you will understand what Docker is.\n\nDocker Hub and stuff\n🏗 https://www.docker.com/get-started\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#docker #containers #images",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2tvbkCW4OIY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2tvbkCW4OIY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2tvbkCW4OIY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2tvbkCW4OIY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2tvbkCW4OIY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2tvbkCW4OIY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UY5zvElgW_IxphZNnNnS_s4UXac\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLnMtRzFtMjNFbWxr",
+    "snippet": {
+      "publishedAt": "2018-12-07T08:00:04.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "How to Load Web Fonts in 2019 🎆",
+      "description": "Sponsored by: Coursera.org, thanks! Get the world's best online education experience on subjects such as Data Science, Business, Blockchain, you name it at Coursera! http://go.thoughtleaders.io/721720181207\n\nAfter a lot of experimentation I've come across my preferred way of loading web fonts. I have balanced ease of use, i.e. how to implement, with performance.\n\n🗿 MILESTONES\n\n⏯ 01:15 😵 Fixing errors: HREF instead of SRC\n⏯ 03:48 Introducing font-display: swap; 🦸‍♀️\n⏯ 08:30 Baseline without web fonts (Wikipedia style)\n⏯ 09:24 Late preload with font-display: swap;\n⏯ 12:00 PERFORMANCE COMPARISON & DISCUSSION 📊\n⏯ 17:59 My actual recommendation ⭐️\n\nDemo of examples\n💅 https://dt-font-loading-d0mbbgpid.now.sh/\n\nRepo with the examples\n📝 https://github.com/chhib/dt-font-loading\n\nThe Font Loading Checklist by Zach Leatherman\n☑️ https://www.zachleat.com/web/font-checklist/\n\nThe Five Whys of Web Font Loading Performance (video)\n▶️ https://www.zachleat.com/web/five-whys/\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#webfonts #performance #css",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s-G1m23Emlk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s-G1m23Emlk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s-G1m23Emlk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s-G1m23Emlk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s-G1m23Emlk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "s-G1m23Emlk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/geBU_BSp8VyRTvOfMCu4u3hV9Xw\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLnZUZjlIUlRXS3RN",
+    "snippet": {
+      "publishedAt": "2018-11-30T08:00:07.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Font Loading Performance 📉 6 Experiments with FOUT & FOIT",
+      "description": "Sponsored by: .TECH Domains, thanks! They recently had an awesome Cyber Monday sale but if you missed out use limited time coupon code DEVTIPS at https://go.tech/DevTips for up to 90% OFF for a limited time! Valid only on 1 & 5 Year Domains!\n\nExperimenting with different ways of loading fonts to get the best performance without Flash of Unstyled Text (FOUT) or Flash of Invisible Text (FOIT) on poor mobile connections\n\n🗿 MILESTONES\n⏯ 09:26 web font loader sync\n⏯ 11:47 web font loader async\n⏯ 15:00 self-hosted fonts\n⏯ 18:36 self-hosted fonts with preload\n⏯ 24:00 own font loader\n⏯ 28:30 own font loader with preload\n⏯ 31:00 FONT LOAD TIME EVALUATION!!!\n⏯ 36:29 WHAT DID WE LURN!?\n\n\nDemo of examples\n💅 https://dt-font-loading-phmrd1aiq.now.sh/\n\nRepo with the examples\n📝 https://github.com/chhib/dt-font-loading\n\n\nThe Font Loading Checklist by Zach Leatherman\n☑️ https://www.zachleat.com/web/font-checklist/\n\nThe Five Whys of Web Font Loading Performance (video)\n▶️ https://www.zachleat.com/web/five-whys/\n\nThe helper to get the Google Web Fonts as WOFF2 files\nฒ https://google-webfonts-helper.herokuapp.com/fonts\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#webfonts #performance #css",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vTf9HRTWKtM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vTf9HRTWKtM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vTf9HRTWKtM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vTf9HRTWKtM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vTf9HRTWKtM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vTf9HRTWKtM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oxXako3q460LOb2uOkZkF8n2XFQ\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLnpEb3ZzVEcyYTdn",
+    "snippet": {
+      "publishedAt": "2018-11-23T08:00:12.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Query Parameters in JavaScript (3+1 Ways)",
+      "description": "Sponsored by: Coursera.org, thanks! Get the world's best online education experience on subjects such as Data Science, Business, Blockchain, you name it at Coursera! http://go.thoughtleaders.io/721320181123\n\nQuery parameters are a bit tricky (pain) to deal with. Especially if you want to modify just one, say remove one parameter but not the others. David goes through how to do that using the Hacky Way™️, Regex, or plain JavaScript + 1 extra tool-based way depending on the circumstance.\n\n🗿 MILESTONES\n⏯ 01:06 What are query parameters⁉️\n⏯ 03:34 Hacky strategy\n⏯ 05:35 Using Regex\n⏯ 11:03 Using JavaScript \"Perfect Way\"\n\nCode from the video\n📝 https://gist.github.com/chhib/4ba7238d595828fd6b7dca73da8c72ac\n\nThe VS Code plugin used to to preview values is Quokka.js\n🔌 http://quokka.devtipsshow.com\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#javascript #queryparameters #regex",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zDovsTG2a7g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zDovsTG2a7g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zDovsTG2a7g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zDovsTG2a7g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zDovsTG2a7g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zDovsTG2a7g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bV75FCdOC3xRC77IsKn16b0cl2c\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLkF5MnV0eTE4VEZB",
+    "snippet": {
+      "publishedAt": "2018-11-16T08:00:01.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Critical CSS + Fail 🧨",
+      "description": "Sponsored by: .TECH, thanks! Pre-register for your .TECH domain and get a further 10% discount at https://go.tech/Devtips\n\nOookay. Improving web performance by first including only the CRITICAL CSS, then lazily loading the actual full CSS on page load.\n\nExperimenting with Lighthouse to see how much better the first meaningful paint got. Had... some... troubles (le fail) with this.\n\nHIGH QUALITY SOFTWARE ENGINGEERING in this video. Watch.\n\n🗿 MILESTONES\n⏯ 00:01 Just watch this entire video.\n⏯ XX:XX Forgot to include fika break. 🍪\n\nCritical CSS generator called Penthouse by Jonas Ohlsson Aden\n💥 https://github.com/pocketjoso/penthouse\n\nGuide to saving a page with all its assets using Puppeteer (only mentioned in passing in the video)\n📝 https://fettblog.eu/scraping-with-puppeteer/\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#criticalcss #webperformance #lighthouse",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ay2uty18TFA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ay2uty18TFA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ay2uty18TFA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ay2uty18TFA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ay2uty18TFA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ay2uty18TFA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4nZ3JrWa78ujiSHpEAxdWQWwmZ0\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLmEtNzRaeTlFZk1R",
+    "snippet": {
+      "publishedAt": "2018-11-09T08:00:00.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Teaching CSS to a Coder 🙀 (How to Lazy Load Images)",
+      "description": "Sponsored by: ForkLift, thanks! Try the most advanced file manager and file transfer client for macOS and use the coupon code DEVTIPS to get 50% off. http://bit.ly/2IwUBMT\n\nDavid teaches MPJ about lazy loading images for better mobile performance and the CSS aspect-ratio box padding trick. MPJ is NOT convinced.\n\nCan you solve it in a different way - write that in the comments plz!\n\nAspect-ratio boxes on CSS Tricks has covered this hack in great extent.\n😎 https://css-tricks.com/aspect-ratio-boxes/\n\nTo properly access the DOM in React, we should have used refs (thanks to @23luski and @Rela takera in the comments)\n☝️ https://reactjs.org/docs/refs-and-the-dom.html#creating-refs\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#css #hack #reactjs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a-74Zy9EfMQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a-74Zy9EfMQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a-74Zy9EfMQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a-74Zy9EfMQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a-74Zy9EfMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "a-74Zy9EfMQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qVQEBCfSEjmgTWyj9ufTa8uC9m8\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLmlNMGFoMFNhLVA4",
+    "snippet": {
+      "publishedAt": "2018-11-02T08:00:02.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "What is THIS in JavaScript?",
+      "description": "Sponsored by: SkySilk, thanks! SkySilk is a VPS hosting platform with a unique rewards program - use DEVSILK2018 when signing up to get 250 extra skypoints: http://bit.ly/2S7oHdr\n\nDavid and MPJ talks about bind and this in JavaScript, figuring out what the heck is actually going on. \n\nCode and notes from the episode\nhttps://www.notion.so/maximumsheep/What-is-this-2dc4b2f02da940debd7848d2a13fdb0f\n\nWatch followup video on Fun Fun Function about class property arrow functions:\nhttps://www.youtube.com/watch?v=uCuTQYf80FU\n\nThat cool inline evaluation thing is called Quokka:\nhttp://quokka.devtipsshow.com\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\n#javascript #this #bind",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iM0ah0Sa-P8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iM0ah0Sa-P8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iM0ah0Sa-P8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iM0ah0Sa-P8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iM0ah0Sa-P8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iM0ah0Sa-P8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/N2KmrF9j5jekJEUHhTqjfd8_IvA\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLmlFTjJuVHVOcURF",
+    "snippet": {
+      "publishedAt": "2018-10-26T08:00:04.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "How to Work with Legacy Code ☠️",
+      "description": "Sponsored by: Brilliant, thanks! Be one of the first 200 people to sign up with this link and get 20% off your annual subscription with Brilliant.org!\nhttps://brilliant.org/DevTips/\n\nWe have a discussion on how to address legacy code. And somehow start talking about Google Tag Manager and tracking of apps as well...\n\nThanks RodiW91 for the question!\n😻 https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/community?lb=UgzVn2OC38aN9-HIrdl4AaABCQ.8mVguvfk5K88mWjymDnx2b\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iEN2nTuNqDE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iEN2nTuNqDE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iEN2nTuNqDE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iEN2nTuNqDE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iEN2nTuNqDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iEN2nTuNqDE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hgFAgEg0HLTt7ooXv2weBwlRWvk\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLkpZejEydzhoamZJ",
+    "snippet": {
+      "publishedAt": "2018-10-19T08:00:00.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Our favourite ES2018 features 💖",
+      "description": "Sponsored by: Codementor, thanks! Use the link https://codemntr.io/devtips to show that you came from here. The first 200 sign-ups using the link will get a $15 free credit.\n\nWe address some of the bestest features coming to the next version of JavaScript (i.e. ES2018).\n\nThe part about for await ... of is slightly technical. Is this too high a level? Is it just right? Should we talk about less technical things? 🕵️‍♀️  WRITE IN THE COMMENTS what you think - we want to find the right balance of content!\n\n🗿 MILESTONES\n⏯ 01:18 Object Rest Properties\n⏯ 07:59 Regex Named Capture groups\n⏯ 14:02 for await ... of (Looping of asynchronous iterators)\n⏯ 00:12 Finally... 🍪\n\nGreat article by Bramus on upcoming ES2018 features\n😎 https://medium.com/front-end-hacking/javascript-whats-new-in-ecmascript-2018-es2018-17ede97f36d5\n\nMPJ has a killer video on iterators on Fun Fun Function\n🔪 https://www.youtube.com/watch?v=W4brAobC2Hc\n\nThat cool inline evaluation thing is called Quokka\n😎 http://quokka.devtipsshow.com\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#es2018 #regex #iterators",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JYz12w8hjfI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JYz12w8hjfI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JYz12w8hjfI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JYz12w8hjfI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JYz12w8hjfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JYz12w8hjfI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jmeaKyI6tdqFaZFi_KhlCn_KiNE\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLkxWbFZDZ2tCUTN3",
+    "snippet": {
+      "publishedAt": "2018-10-12T08:00:01.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Recursion ➰ for Paginated Web Scraping",
+      "description": "Sponsored by: Brilliant, thanks! Be one of the first 200 people to sign up with this link and get 20% off your annual subscription with Brilliant.org!\nhttps://brilliant.org/DevTips/\n\nWe figure out how to deal with the paginated search results in our web scrape. RECURSION is our tool - not as difficult as you might think!!\n\n🗿 MILESTONES\n⏯ 00:12 Fika 🍪\n⏯ 13:10 Extracting the next page number with regex\n⏯ 16:50 Encounter with prettier... 🌋\n⏯ 18:39 ➰ Recap\n⏯ 20:15 TIME FOR RECURSION 😎\n⏯ 29:00 Quick Google rant 🌋\n⏯ 29:23 ➰➰ Rerecap by Commenting the Code\n\nSee the previous episode where we explain Puppeteer and finding the data to scrape\n▶️ https://www.youtube.com/watch?v=pixfH6yyqZk\n\nThe code used in this video is on GitHub\n🗒 https://github.com/chhib/scraper/tree/5d00bb08c6ec4ea8cbaec7ea78fb90a10a864f8b\n\nPuppeteer - Headless Chrome browser for scraping (instead of Phantom JS)\n🔪 https://github.com/GoogleChrome/puppeteer\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#recursion #webscraping #nodejs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LVlVCgkBQ3w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LVlVCgkBQ3w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LVlVCgkBQ3w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LVlVCgkBQ3w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LVlVCgkBQ3w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LVlVCgkBQ3w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xiOu6XN-lEJyaeVSAetWp6A9YQM\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLkd4MjRTaWtNZkd3",
+    "snippet": {
+      "publishedAt": "2018-10-05T08:00:02.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "CSS Animation with Physics Simulation 📈 (so much over-engineering ⚙️)",
+      "description": "Sponsored by: Framer X, thanks! The easiest and most advanced design tool. Everything interactive and unlimited. Designer AND developers can use Framer. Every component can be shared (and is React). https://framer.com/\n\nLet's over-engineer our CSS animation with a physically accurate gravity simulation to get that nice acceleration and bounce. We build a simulation, and let the simulation generate the CSS animation keyframes, which we bind to the dropping SVG.\n\nSee the last episode where we very much failed in doing this. At least it was entertaining. \n▶️ https://www.youtube.com/watch?v=smBP4muoLYA\n\n🗿 MILESTONES\n⏯ 1:29 Recap - last time we tried to animate without transforms 😮\n⏯ 2:32 Let's over-engineer this with a physics simulation 👹\n⏯ 10:17 Taking the physics 📈 into CSS\n⏯ 15:00 Converting a Y translation simulation into a Scale transformation \n⏯ 18:20 Getting into when moving the SVG's ⊹ positioning\n\nTry out the Observable notebook yourself\n🗒 https://beta.observablehq.com/@chhib/simulating-bouncing-ball-to-generate-realistic-physics-cs\n\nBurak Kanber's physics modeling post with gravity and drag\n📉 https://burakkanber.com/blog/modeling-physics-javascript-gravity-and-drag/\n\nHenrik Joreteg's create-keyframe-animation module to generate the CSS keyframes\n📽 https://www.npmjs.com/package/create-keyframe-animation\n\nHow to transform something within an SVG using matrices\n⊹ https://stackoverflow.com/questions/20601904/svg-change-x-y-0-0-top-left-to-the-center-of-my-image\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#css #animation #physics",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Gx24SikMfGw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Gx24SikMfGw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Gx24SikMfGw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Gx24SikMfGw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Gx24SikMfGw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Gx24SikMfGw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/I6JM5qTa6UNIMoYeQCtBHOPNdt4\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLnBpeGZINnl5cVpr",
+    "snippet": {
+      "publishedAt": "2018-09-28T08:00:07.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Web Scraping with Node.js & Puppeteer (🌋 rants included, no extra charge)",
+      "description": "Sponsored by: Brilliant, thanks! Be one of the first 200 people to sign up with this link and get 20% off your annual subscription with Brilliant.org!\nhttps://brilliant.org/DevTips/\n\nWe get down and dirty scraping the web to get data that we can populate our online business data base with.\n\nAs always. Learning things along the way. And essentially a lot of 🌋 ranting and 🍪 fika in between.\n\n🗿 MILESTONES\n⏯ 8:14 fika #1 🍪\n⏯ 18:17 fika #2 🍪\n⏯ 26:16 🌋 rant #1 on Google\n⏯ 27:36 first successful scrape!\n⏯ 28:01 🌋 rant #2 on Prettier\n⏯ 30:38 fika #3 🍪\n⏯ 34:43 second successful scrape!!\n⏯ 36:04 🌋 rant #3 on VS Code IntelliSense hints\n⏯ near the end 🤷‍♀️ what did we lurn?!\n\nPuppeteer - Headless Chrome browser for scraping (instead of Phantom JS)\n🔪 https://github.com/GoogleChrome/puppeteer\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#webscraping #onlinebusiness #nodejs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pixfH6yyqZk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pixfH6yyqZk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pixfH6yyqZk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pixfH6yyqZk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pixfH6yyqZk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pixfH6yyqZk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qxNTs0mqK8Izut6idiFs3yT5LG4\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLkw1YmdpbUFsWS1B",
+    "snippet": {
+      "publishedAt": "2018-09-21T08:00:02.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Finding a Designer + 🍪 FIKA",
+      "description": "David and MPJ discuss the troubles of hiring a designer through a marketplace and how wonderful life is once you find one. Digressing into remote work troubles. AND the difficult word RAPPORT.\n\nHIGHLIGHTS! 🎪 \n⏯  9:52 FIKA break\n⏯  16:39 Precisely\n⏯  20:28 What did we lurn?\n\n‼️ ATTENTION ‼️\nHave you been remote working with Mattias?? Please write your experiences in the comments!\n\nAwesome developer interview from Nordic.js with *Isa Silveira*\n► https://www.youtube.com/watch?v=F_QdJ-spWgg\n\n\"The\" Matylda - our awesome designer\n🔗 http://www.matylda.com\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction\n\n#designer #marketplace #fika",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L5bgimAlY-A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L5bgimAlY-A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L5bgimAlY-A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L5bgimAlY-A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L5bgimAlY-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "L5bgimAlY-A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SOkbO90sjrptdS3lm-LEEDjwXLQ\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLnNtQlA0bXVvTFlB",
+    "snippet": {
+      "publishedAt": "2018-09-14T08:00:04.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Let’s Animate with CSS (and Failing Fast!)",
+      "description": "Sponsored by: Brilliant, thanks! Be one of the first 200 people to sign up with this link and get 20% off your annual subscription with Brilliant.org!\nhttps://brilliant.org/DevTips/\n\nWe are using CSS Animations to... Well, animate things. HOW HARD CAN IT BE? 🤷‍♀️\n\nSO MANY ERRORS. ❌ ❌ ❌ Can you spot them all?\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends.\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nDevTips has a sister channel called Fun Fun Function, check it out!\n❤️ https://www.youtube.com/funfunfunction",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/smBP4muoLYA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/smBP4muoLYA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/smBP4muoLYA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/smBP4muoLYA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/smBP4muoLYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "smBP4muoLYA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/comB0SH4uy9oB6kbAzSqCQIytgU\"",
+    "id": "VVV5SWUtNjFZOEM0X28telpDdE80RVRRLm1xcUlLR3o2cFhJ",
+    "snippet": {
+      "publishedAt": "2018-09-07T08:00:04.000Z",
+      "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+      "title": "Code Review 🦊 SO MUCH LEARNING #6 Building an Online Business",
+      "description": "Sponsored by: FullStack Javascript Developer Edegree on Kickstarter by Eduonix https://www.kickstarter.com/projects/1311831077/eduonix-fullstack-javascript-developer-edegree?ref=crrxoz\n\nExplaining our project to MPJ to get feedback on the code. Basically we get him started up on his computer - which takes AGES. 😅 Then we fix things from the last episode!\n\n00:46 Setting MPJ up 🛠\n14:28 Code Review BRIEF\n17:29 Code Review FIXING IT UP\n34:25 Retrospective 🏁 - What did we learn??\n\n#codereview #pairprogramming #nextjs #reactjs\n\nLast episode when David built the things we fix here\n▶️ https://www.youtube.com/watch?v=AQ1ArQEw_Vw\n\nThis episodes code on Github\n💻 https://github.com/chhib/online-business/tree/06ddcacfadda16eaf41b7b5853318b4b11ad996e\n\nLearn Next.js with their own super great free tutorial/course\n🖖 https://nextjs.org/learn/\n\nThe editor is called Visual Studio Code and is free. Look for the Live Share extension to share your environment with friends\n💻 https://code.visualstudio.com/\n\nDevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nFun Fun Function is the sister channel of DevTips \n❤️ https://www.youtube.com/funfunfunction",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mqqIKGz6pXI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mqqIKGz6pXI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mqqIKGz6pXI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mqqIKGz6pXI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mqqIKGz6pXI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DevTips",
+      "playlistId": "UUyIe-61Y8C4_o-zZCtO4ETQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mqqIKGz6pXI"
+      }
+    }
+  }
+]

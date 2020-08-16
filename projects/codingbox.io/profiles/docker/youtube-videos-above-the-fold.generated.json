@@ -1,0 +1,852 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5orQv60yeWyPvNOPMhscwuuGoXE\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLkMwclVSaWJ4STVN",
+    "snippet": {
+      "publishedAt": "2020-04-10T16:09:08.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Automate Developer Workflows and Increase Productivity with Docker Hub: DockTalk",
+      "description": "Learn how to get the most from Docker Hub with advanced features and capabilities that help you and your team to automate your development workflows and increase your productivity. Docker Hub is the world’s leading service for finding and sharing container images with your team and the Docker community.\n\nIn this DockTalk you will learn more about:\n\n- Automated Builds - learn how to automatically build images from source code in an external repository and automatically push the built image to your Docker repositories\n- Automated Repository Tests - learn how to automatically test changes to your source code repositories using containers to create a continuous integration testing service\n- Access Tokens - learn how you can create personal access tokens as alternatives to your password and how to use tokens to access Hub images from the Docker CLI\n- Advanced Options for Autobuild and Autotest - learn how to customize your automated build and automated test processes\n- Docker Hub Webhooks - learn how webhooks, automated HTTP callbacks triggered by user-designated events, simplify integration with source code management such as GitHub and Bitbucket as well as CI/CD tools such as Circle CI\n- Slack Integration - learn how to easily integrate Docker Hub with Slack to receive build notifications, so your team can see and act on it\n\nSpeaker:\nPeter McKee\nDeveloper Relations\nDocker, Inc.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C0rURibxI5M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C0rURibxI5M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C0rURibxI5M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "C0rURibxI5M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CykUt32koI_uCI7d7l0z87eHpkQ\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLk12cjlqVFRuSnJV",
+    "snippet": {
+      "publishedAt": "2020-03-23T18:18:59.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker Hub Essentials DockTalk",
+      "description": "New to Docker? Are you looking to learn more about how to build and share container images with your teams? Docker Hub is the world’s largest repository of images and is a hosted repository service provided by Docker for finding and sharing container images with your team. In this 60 minute Docktalk delivered by Docker experts you will learn more about:\n\n- Repository Management - push and pull container images from Docker Hub repositories\n- Teams and Organizations - create teams and manage access to shared private repositories of container images\n- Publisher Images - access high-quality container images provided by external vendors\n- Private Repositories - difference between public and private repositories and the best approach for individuals and organizations\n- Automated Workflows - an introduction on how to automatically build container images from GitHub and Bitbucket\n\nHere are some great resources from the DockTalk Q&A:\n\nQ: Is there any training provided by Docker?\nA: Here are thee online resources where you can learn about Docker:\n- Docker Docs: https://docs.docker.com/\n- Docker 101 Tutorial: https://www.docker.com/101-tutorial\n- Docker birthday challenge: https://www.docker.com/birthday\n\nQ. How can I delete some images name \"none\"?\ndocker image rm [OPTIONS] IMAGE [IMAGE...]\nA: https://docs.docker.com/engine/reference/commandline/image_rm/\n\nQ. Can we use Docker on production environment or it’s only for production?thank you.\nA: Yes, thousands of large companies around the world are currently running applications in production using Docker. Docker Desktop is the tool of choice for development teams. Docker Hub can be used for storing container images and configuring CI workflows\nFor running Docker container, you have several options:\nCloud managed container management platform, similar to services offered by any of the cloud providers:\n- EKS (Amazon)\n- AKS (Azure)\n- GKE (Google)\nRun and operate a container management platform (similar to what is offered by companies like Mirantis)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mvr9jTTnJrU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mvr9jTTnJrU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mvr9jTTnJrU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Mvr9jTTnJrU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pXjAUJwey1aJvkp1gb0NVG3jFVo\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLjNVWjBUVVBQMGtz",
+    "snippet": {
+      "publishedAt": "2020-03-26T21:46:33.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker 7th Birthday Live Show",
+      "description": "Celebrate Docker’s Birthday meetup with a special 3-hour Live show hosted by Bret Fisher and featuring the #Docker team, Captains, open Q&A, and prizes.\n- 02:00 Pre-show pics and games\n- 07:43 Kickoff with the Captains\n- 29:00 Docker Roadmap\n- 1:15:47 Docker Desktop: What's New\n- 1:53:45 Docker Hub with GitHub Actions\n- 2:20:15 Using Docker with Kubernetes\n- 2:55:00 #myDockerBday Stories\n\nAll this week get discounts on Docker Captain books and training: https://www.docker.com/blog/mydockerbday-discounts-on-docker-captain-content/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3UZ0TUPP0ks/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3UZ0TUPP0ks/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3UZ0TUPP0ks/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3UZ0TUPP0ks/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3UZ0TUPP0ks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3UZ0TUPP0ks"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UskE4Oj1-KuHv_6Q3tIW0Y-XoSY\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLlBjbGVyQmlQZm93",
+    "snippet": {
+      "publishedAt": "2020-03-02T23:24:11.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Getting Started with Istio Using Docker Desktop",
+      "description": "Istio is a service mesh – a software component that runs in containers alongside your application containers and takes control of the network traffic between components. It lets you manage the communication between components independently of the components themselves, simplifying the code and configuration in your app, removing all network-level infrastructure concerns like routing, load-balancing, authorization and monitoring – which all become centrally managed in Istio.\n\nIn this virtual meetup, Docker Captain and Docker Alumni Elton Stoneman shares three scenarios that Istio enables, and all you need to follow along is Docker Desktop.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PclerBiPfow/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PclerBiPfow/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PclerBiPfow/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PclerBiPfow/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PclerBiPfow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PclerBiPfow"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IQGq22X14Ag_c24qdm6HkMRua_M\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLm5wQzBXMkNXX2Fz",
+    "snippet": {
+      "publishedAt": "2020-01-28T05:59:21.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "How to Improve your Docker Image Builds",
+      "description": "Since Docker revolutionized the way developers work, it has been the tool of choice to build container images. Docker has continued to bring new features to enable developers to build images that are fast, more secure and more flexible. In this virtual meetup, Docker Captain Nicholas Dille will demonstrate how to make use of some of the latest features in the Docker CLI to achieve better images, including multi-stage builds, parallel builds, build secrets as well as cross-building images.\n\nDocker Virtual Meetup, January 2020",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/npC0W2CW_as/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/npC0W2CW_as/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/npC0W2CW_as/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/npC0W2CW_as/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/npC0W2CW_as/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "npC0W2CW_as"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zbJkZJ7UocWJSZeGB9UlLmrYzqU\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLk9mVmtENHRMSFVn",
+    "snippet": {
+      "publishedAt": "2020-01-23T19:27:59.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker Captain Bret Fisher Live Show: Container Security with Liz Rice",
+      "description": "Liz Rice of Aqua Security joins Captain Bret Fisher to talk about container CVE scanning, the KubeSec conference, and more.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OfVkD4tLHUg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OfVkD4tLHUg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OfVkD4tLHUg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OfVkD4tLHUg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CeR3rFZAmEpueR7AumWuDOY3ApQ\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLk40aEtybDJOWVNv",
+    "snippet": {
+      "publishedAt": "2019-11-01T20:57:02.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker App Templates for eShopWeb with GitHub Actions and Microsoft AKS",
+      "description": "Integrated demonstration of how to use a Docker App Template for defining, building, and delivering a best practice .Net core application for Microsoft Azure Kubernetes Service (AKS). The demonstration is end-to-end using Docker Desktop Enterprise, Microsoft Visual Studio Code, Docker Trusted Registry, GitHub Actions, and AKS.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N4hKrl2NYSo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N4hKrl2NYSo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N4hKrl2NYSo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/N4hKrl2NYSo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/N4hKrl2NYSo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "N4hKrl2NYSo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/usomsaqU0FlHm9Mg5sa2whnW5zY\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLkx1M2V1VW9qeUNn",
+    "snippet": {
+      "publishedAt": "2019-10-02T16:55:35.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker Customer Story - Carnival Corporation",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Lu3euUojyCg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Lu3euUojyCg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Lu3euUojyCg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Lu3euUojyCg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Lu3euUojyCg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Lu3euUojyCg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QsMdXRLCPD3atZ3U4Sww2aX6C2M\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLlJQNDBJdl8weXZB",
+    "snippet": {
+      "publishedAt": "2019-10-02T17:13:55.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Traefik v2.0 in Docker + containerd Updates",
+      "description": "Talk 1: A Tour of Traefik v2.0 in Docker\n\nTraefik, the popular open source cloud native edge router reached version 2.0 for its fourth anniversary. Traefik v2.0 still dynamically routes incoming HTTP requests to your applications. But this new version simplifies the routing configuration for increasingly complex dynamic environments and brings TCP routing support to support more and more applications protocols. We’ll do a tour of the usage and benefits of Traefik v2.0 in Docker, including demos of the brand new features.\n\nTalk 2: containerd Updates\n\nDocker engineer and containerd maintainer Derek McGowan will dive into containerd, including its history, graduation from the CNCF, what's next, and how to get involved.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RP40Iv_0yvA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RP40Iv_0yvA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RP40Iv_0yvA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RP40Iv_0yvA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RP40Iv_0yvA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RP40Iv_0yvA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GosyhhqaMIF6HmotAoeYrK39aDk\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLmNESnJRNEl6Wl9N",
+    "snippet": {
+      "publishedAt": "2019-09-19T18:31:03.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Virtual Meetup - Docker + Arm: Building Mutli-arch Apps with Buildx",
+      "description": "Build once, run anywhere. But this time for real.\n\nDocker support for cross-platform applications is better than ever. Now you can describe all the compilation and packaging steps for your app in a single Dockerfile, and use it to build an image that will run on Linux, Windows, Intel and Arm - 32-bit and 64-bit.\n\nThis session shows you how to do that - building and running truly cross-platform apps using Docker's new buildx functionality. We'll cover the Docker runtime and its understanding of OS and CPU architecture, together with the concept of multi-architecture images and manifests.\n\nWe'll have demos using Java and .NET Core, building apps with Docker on an Intel machine and running them with Docker on the Raspberry Pi.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cDJrQ4IzZ_M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cDJrQ4IzZ_M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cDJrQ4IzZ_M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cDJrQ4IzZ_M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cDJrQ4IzZ_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cDJrQ4IzZ_M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_UYRdwlbLKWaMVqKlMTWp0CJ1cA\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLnhRSGhGZ0FMMlRB",
+    "snippet": {
+      "publishedAt": "2019-09-19T03:49:48.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker Customer Story - Wiley",
+      "description": "How Wiley Education Systems is connecting students with learning at over 60 higher education institutions using Docker Enterprise.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xQHhFgAL2TA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xQHhFgAL2TA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xQHhFgAL2TA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xQHhFgAL2TA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xQHhFgAL2TA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xQHhFgAL2TA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0g0kUvi6SEENjJ2zV-5KSINrFDo\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLmg1aGdnUU1hLTFZ",
+    "snippet": {
+      "publishedAt": "2019-09-18T21:55:31.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Virtual Meetup - Node.js in Docker: Tips and Tricks with Docker Captain Bret Fisher",
+      "description": "Bret Fisher, Docker Captain and author of Docker Mastery, answers questions on making node apps awesome in Docker. Bret will cover some of the topics from his highly rated DockerCon Node.js talk and his Docker for Node.js course. Topics include developer setup optimizations, how to deal with node modules in dev and prod, and DevOps topics like auto-testing and security scanning your images on build.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h5hggQMa-1Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h5hggQMa-1Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h5hggQMa-1Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/h5hggQMa-1Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/h5hggQMa-1Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "h5hggQMa-1Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VbBJigRjW0ArVwVzL3CSTGwSlGs\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLks2aHV3V0gtUUxF",
+    "snippet": {
+      "publishedAt": "2019-09-12T18:02:13.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker Customer Story - InterSystems",
+      "description": "How InterSystems uses Docker Enterprise to build its enterprise database product at scale.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K6huwWH-QLE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K6huwWH-QLE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K6huwWH-QLE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K6huwWH-QLE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K6huwWH-QLE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "K6huwWH-QLE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/R81zBGqRtjSrbTLiHgKY1R0UZqA\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLkpXMzFCWUJSVGln",
+    "snippet": {
+      "publishedAt": "2019-08-27T23:44:55.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker Customer Story - Citizens Bank",
+      "description": "How Citizens Bank drives innovation with Docker Enterprise.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JW31BYBRTig/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JW31BYBRTig/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JW31BYBRTig/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JW31BYBRTig/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JW31BYBRTig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JW31BYBRTig"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6xxL3LcbU285co6NCh0ypGceN4I\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLnpVRGRJV2lpYVcw",
+    "snippet": {
+      "publishedAt": "2019-07-31T23:35:35.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker 19.03 Release Party Live (Day 2)",
+      "description": "Starting at 03:15 Docker Captains, Bret Fisher and Marcos Nils, and Docker's Director of Engineering, Joe Abbey, show off the latest features of the Docker 19.03 release. Topics include easily switching environments with docker context, and how to use that in play-with-docker.com. #Docker #Containers #Devops",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zUDdIWiiaW0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zUDdIWiiaW0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zUDdIWiiaW0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zUDdIWiiaW0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EqPqKUicxwf0USy_AP43fCv4BeM\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLkRKR2xQN3I5SXJF",
+    "snippet": {
+      "publishedAt": "2019-08-01T18:52:16.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker 19.03 Release Party Live (Day 3)",
+      "description": "Starting at 03:37 Docker Captains Bret Fisher, Michael Irwin, and Dimitris Kapanidis demo the latest features of the Docker 19.03 release, including the new Docker App and new CLI plugins. #Docker #Containers #Devops",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DJGlP7r9IrE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DJGlP7r9IrE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DJGlP7r9IrE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DJGlP7r9IrE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cFeRErJzLTNi3-mAZSm_86Uwyk4\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLnBMampDSGFLUXIw",
+    "snippet": {
+      "publishedAt": "2019-06-13T12:58:45.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Docker Tools for Modernizing Legacy Applications",
+      "description": "From decades-old legacy applications to 1-month old greenfield apps, organizations are utilizing containers to increase portability, enhance maintainability, and drive down costs through server consolidation. But how do you actually get applications containerized and how do you run your container environment to deliver the same or better performance you already have? Docker has built a set of tools that are specifically designed to help organizations containerize existing legacy applications and run them securely in production. The Docker Application Converter scans for applications and automatically generates a Dockerfile without having to touch any code, while a new tool makes it easy to fully automate the deployment and configuration of Docker Enterprise in your production environment. This session will include several demos and walk through how a typical organization can leverage these tools in their own data centers.\r\n\r\nSpeaker: Steven Follis, Docker",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pLjjCHaKQr0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pLjjCHaKQr0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pLjjCHaKQr0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pLjjCHaKQr0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pLjjCHaKQr0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pLjjCHaKQr0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EWpF019hYiah4Ft0zzbHDl3Q4C4\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLkU1S21aTVpCdWJB",
+    "snippet": {
+      "publishedAt": "2019-06-05T13:08:03.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "DockerCon 2019 Keynote: Day 2",
+      "description": "Join Docker CTO, Kal De, as he deep-dives into all things platform growth in our Day 2 keynote. You’ll hear about transformation within the open source community and how Docker is enabling innovation so others can build on top of the platform.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E5KmZMZBubA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E5KmZMZBubA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E5KmZMZBubA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E5KmZMZBubA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E5KmZMZBubA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "E5KmZMZBubA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gAmKSK4Rxox1-w_leBD1nztv7Qg\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLlJKbVV5RlNYaVBR",
+    "snippet": {
+      "publishedAt": "2019-05-29T16:40:57.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Eat Well By Camera Eats First: How We Build a Food Scanning App with Docker",
+      "description": "Due to health concerns, religious beliefs, or personal preferences, people with certain dietary restrictions sometimes struggle to figure out what ingredients a certain dish contains and whether they should eat it. Since many restaurants don't include these information on their menus, severe health problems might occur due to the simple negligence.\r\n\r\nIn this session, we will talk about how we use Docker to build \"Phood,\" a web app that is able to scan food and menus to find out potential allergens and special concerns according to user preferences; based on the scanned records, it can also provide recommendations for a healthier meal.\r\n\r\nSpeakers:\r\nVincent Wu - Student, UC Berkeley\r\nLong Lian - Undergrad, University of California, Berkeley\r\nRuisi Fu - Student, University of California, Berkeley",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RJmUyFSXiPQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RJmUyFSXiPQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RJmUyFSXiPQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RJmUyFSXiPQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RJmUyFSXiPQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RJmUyFSXiPQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g3pLkj7tuXtqlN-PCahCwRRJb1M\"",
+    "id": "VVU3NkFWZjJKa3J3anhOS011UHBzY0hRLl96NE1mekNLdnMw",
+    "snippet": {
+      "publishedAt": "2019-05-29T16:38:45.000Z",
+      "channelId": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "title": "Using Docker for Rapid Prototyping at Hackathons",
+      "description": "Speakers:\r\nKyle O'Brien - Software Engineering Intern, remote.it\r\nAndrew Chang - Undergraduate, University of California, Berkeley\r\nEthan Daniel - Student, University of California - Berkeley\r\nPavel Yakovlev - Student, UCSC",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_z4MfzCKvs0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_z4MfzCKvs0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_z4MfzCKvs0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_z4MfzCKvs0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_z4MfzCKvs0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Docker",
+      "playlistId": "UU76AVf2JkrwjxNKMuPpscHQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_z4MfzCKvs0"
+      }
+    }
+  }
+]

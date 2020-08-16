@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rk6WTpl01O8-YTN8BnWrAiQnh9c\"",
+      "id": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "snippet": {
+        "title": "The Accidental Engineer",
+        "description": "Showcasing stories from software engineers about how they got their career start.",
+        "customUrl": "theaccidentalengineer",
+        "publishedAt": "2017-06-18T16:13:28.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxff58lutMoCOqksExccd50N-mPfvhS8gEW2A=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxff58lutMoCOqksExccd50N-mPfvhS8gEW2A=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxff58lutMoCOqksExccd50N-mPfvhS8gEW2A=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Accidental Engineer",
+          "description": "Showcasing stories from software engineers about how they got their career start."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUuavR8qKlFRApAOm1ci5NvQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUuavR8qKlFRApAOm1ci5NvQ"
+  },
+  "displayName": "The Accidental Engineer",
+  "description": "Showcasing stories from software engineers about how they got their career start.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxff58lutMoCOqksExccd50N-mPfvhS8gEW2A=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxff58lutMoCOqksExccd50N-mPfvhS8gEW2A=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxff58lutMoCOqksExccd50N-mPfvhS8gEW2A=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

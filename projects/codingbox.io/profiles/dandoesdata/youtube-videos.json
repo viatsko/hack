@@ -1,0 +1,4142 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JFPmH25B0Rbff68ZaUFBtDFu_1w\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLm5kSUowcmlWVzk4",
+    "snippet": {
+      "publishedAt": "2020-04-22T03:58:38.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData MadeUp or Startup? #3 Basic GAN",
+      "description": "We finally setup a basic generator-discriminator loop!  After massaging the data into the right format and changing the name length (to help balance the character classes), we can start training.  Next time we&#39;ll try to randomize and optimize the training a bit better ad reflect on this simple GAN.   -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ndIJ0riVW98/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ndIJ0riVW98/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ndIJ0riVW98/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ndIJ0riVW98/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ndIJ0riVW98/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ndIJ0riVW98"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6MYH2lswo4bxPJNETCyATSWfOL4\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLk9Bdmp2ZjdpaG04",
+    "snippet": {
+      "publishedAt": "2020-04-15T01:46:42.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData MadeUp or Startup? #2: Convolutional Sequence",
+      "description": "We change up the LSTM model to a 1D convolution of fixed output size to better match what we want to put into the GAN.  No training here, but we put together the generator model as well as a simple encoder to pretrain it a little bit.  Next week some actual training and hopefully developing the discriminator model.   -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OAvjvf7ihm8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OAvjvf7ihm8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OAvjvf7ihm8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OAvjvf7ihm8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OAvjvf7ihm8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OAvjvf7ihm8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/krOuKedYY4Sv5nGiV_z6HCUnDl8\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnV1eVhWa1BMQWhV",
+    "snippet": {
+      "publishedAt": "2020-04-08T02:11:05.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData MadeUp or Startup? #1 Name Generator",
+      "description": "MadeUp or StartUp?  We&#39;re building a system to generate real-sounding startup names.  This episode introduces the dataset and walks through a previous language model that can generate names.  The old model still works!  Wouldn&#39;t you like to join,&#34;Fiend Social&#34;?   -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uuyXVkPLAhU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uuyXVkPLAhU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uuyXVkPLAhU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uuyXVkPLAhU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uuyXVkPLAhU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uuyXVkPLAhU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CfF2rprh9N8xOxtpr4igqa8F7q0\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjhOODdvdFNzelBZ",
+    "snippet": {
+      "publishedAt": "2020-04-01T01:38:58.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Poutyne! PyTorch Simplified",
+      "description": "Poutyne is a front-end library for the popular PyTorch machine learning framework.  It provides an interface similar to Keras...once you have a basic Torch network put together.  The problem I encountered is that Torch has weird strong opinions about their models and loss functions, making it seem impossible to surmount.  I can already do what I need in TensorFlow and Keras, so it&#39;s not worth to me to learn another tool to do the same thing.  Shame for PyTorch.  But if you&#39;re stuck with that library, Poutyne is a great way to simplify the training process.   -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8N87otSszPY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8N87otSszPY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8N87otSszPY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8N87otSszPY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8N87otSszPY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8N87otSszPY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7FLc7GOROLBOGuJJvvBwRNOosm8\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmtrRHJwVlVhV3U0",
+    "snippet": {
+      "publishedAt": "2020-03-25T02:13:47.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData PyTorch: Reforged",
+      "description": "We take a fresh look at PyTorch, a competing ML library similar to TensorFlow or the old Theano.  It&#39;s made a lot of great progress and is in some ways better than TF.  But there also seems to be object-oriented solutions forced into a situation that doesn&#39;t warrant it. Thankfully, we also have `poutyne`!   -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kkDrpVUaWu4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kkDrpVUaWu4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kkDrpVUaWu4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kkDrpVUaWu4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kkDrpVUaWu4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kkDrpVUaWu4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sB0r9QGfBYm7A_mFFhnNQfNjXRY\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmFQT2ZnRXNVZnkw",
+    "snippet": {
+      "publishedAt": "2020-03-18T01:47:10.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData John Snow's Cholera Map Recreation",
+      "description": "We recreate John Snow&#39;s famous 1854 map of cholera deaths.  This map helped researchers understand that cholera was in fact due to bad water, in this case centered on the Broad St pump in London.   -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aPOfgEsUfy0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aPOfgEsUfy0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aPOfgEsUfy0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aPOfgEsUfy0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aPOfgEsUfy0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "aPOfgEsUfy0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X-0ulGJCY_IVOwSXjFtjTUI4T6s\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjFzcXNtS0ZiVmZZ",
+    "snippet": {
+      "publishedAt": "2020-03-11T01:51:42.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData MNIST Mash #5 Convolution Neural Network",
+      "description": "We've futzed around enough, it's time to build a decent model using proven methods: Convolutional Neural Networks for image recognition.   -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1sqsmKFbVfY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1sqsmKFbVfY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1sqsmKFbVfY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1sqsmKFbVfY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1sqsmKFbVfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1sqsmKFbVfY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/klja1_KchZq7cj8IGbrubX031qw\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLk52Q2kyOGw3bENv",
+    "snippet": {
+      "publishedAt": "2020-03-04T01:58:01.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData MNIST Mash #4 Linear Models and More",
+      "description": "We create a simple linear model based on the pixel inputs and note that it does better than the simple heuristic.  But, creating a neural net quickly stalls as the model predicts identical values no matter the input.  More to come.   -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NvCi28l7lCo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NvCi28l7lCo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NvCi28l7lCo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NvCi28l7lCo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NvCi28l7lCo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NvCi28l7lCo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6O8dJKzZtbmne5IJh0KQMyBW76U\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLk1QWEFvY0JJbWZB",
+    "snippet": {
+      "publishedAt": "2020-02-26T01:38:05.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData MNIST Mash #3 Heuristic",
+      "description": "We build a very simple heuristic model as a baseline to compare to the dopey ML model. -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MPXAocBImfA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MPXAocBImfA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MPXAocBImfA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MPXAocBImfA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MPXAocBImfA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MPXAocBImfA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/13cH-CNoQ28MO872BW2yS7lslvQ\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLl9CU0Q3NlJQZzdz",
+    "snippet": {
+      "publishedAt": "2020-02-19T02:03:52.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData MNIST Mash #2 Mean Data",
+      "description": "Discovery and fixing of a data error as well as trying an heuristic. -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_BSD76RPg7s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_BSD76RPg7s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_BSD76RPg7s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_BSD76RPg7s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_BSD76RPg7s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_BSD76RPg7s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/elYcVyvlon0qZQas1wgIHc4yjWc\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnZxbm5UZGZiZjk0",
+    "snippet": {
+      "publishedAt": "2020-02-05T01:41:52.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData MNIST Mash #1 Extraction Data Creation",
+      "description": "MNIST is too easy; let&#39;s make it harder by smashing digits on top of each other.  To do that, we&#39;ll need to make a fresh dataset from the original MNIST, taking digits and correctly grabbing their labels.  GitHub repo: https://github.com/dvbuntu/mnist_mash -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vqnnTdfbf94/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vqnnTdfbf94/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vqnnTdfbf94/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vqnnTdfbf94/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vqnnTdfbf94/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vqnnTdfbf94"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/f1mpkDNWMhNzoVB-CljDtSdfQWE\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLi04RWwzc0pwd3Rr",
+    "snippet": {
+      "publishedAt": "2020-01-29T03:02:18.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData TensorFlow 2.1.0",
+      "description": "Return of DanDoesData!  And as usual, TensorFlow is disagreeable.  Will our hero have to turn to other libraries?  Tune in next week to find out! -- Watch live at https://www.twitch.tv/vanboxel",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-8El3sJpwtk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-8El3sJpwtk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-8El3sJpwtk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-8El3sJpwtk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-8El3sJpwtk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-8El3sJpwtk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/x1I3vlNCzsMlntBUawlliF4QBag\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnd5Y2tTbVpCQkhR",
+    "snippet": {
+      "publishedAt": "2017-05-16T23:01:41.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "The End of DanDoesData: Self-driving car sabbatical",
+      "description": "Going on sabbatical, so let's spend one last stream looking at the self-driving car.  And build a half-way decent model!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wyckSmZBBHQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wyckSmZBBHQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wyckSmZBBHQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wyckSmZBBHQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wyckSmZBBHQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wyckSmZBBHQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9vNHoASiFqikkyWRKMfUj9e4-8A\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmZES2RJVE1CQUdr",
+    "snippet": {
+      "publishedAt": "2017-05-09T22:45:17.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Line By Line Keras Examples 2",
+      "description": "Examining a curious MNIST example, using an RNN on the pixels to predict the digit.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fDKdITMBAGk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fDKdITMBAGk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fDKdITMBAGk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fDKdITMBAGk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fDKdITMBAGk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fDKdITMBAGk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2ITGGqX6q9a50Aua7EFLhW_WSEQ\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjZSZGZsQXI2Ni1F",
+    "snippet": {
+      "publishedAt": "2017-05-02T23:06:28.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "LinebyLine Keras Examples 1",
+      "description": "Let's walk through several of the Keras machine learning examples at https://github.com/fchollet/keras/tree/master/examples, line by line.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6RdflAr66-E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6RdflAr66-E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6RdflAr66-E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6RdflAr66-E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6RdflAr66-E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6RdflAr66-E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4e1Pn5fPaW0KphMio0UbyZjCCXY\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmpfOXdTLVpXeG5N",
+    "snippet": {
+      "publishedAt": "2017-04-25T22:57:58.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Project Euler P3-4",
+      "description": "More working through project Euler, starting from problem 3",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j_9wS-ZWxnM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j_9wS-ZWxnM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j_9wS-ZWxnM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j_9wS-ZWxnM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/j_9wS-ZWxnM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "j_9wS-ZWxnM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vr2k9Z4NibSZ2XfTs-es64wpizM\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkVkOE9MZDI4X0VN",
+    "snippet": {
+      "publishedAt": "2017-04-18T23:07:30.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Project Euler",
+      "description": "Taking a break from machine learning, let's work through some of the challenges on Project Euler.  Starting with Python, then maybe C++, or possibly even Fortran. Problems 1-3 (still working on number3)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ed8OLd28_EM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ed8OLd28_EM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ed8OLd28_EM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ed8OLd28_EM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ed8OLd28_EM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ed8OLd28_EM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KT8OsDUKnKURnkU2i7mTc9zY_jE\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlF0UGpaZ0tfVGRN",
+    "snippet": {
+      "publishedAt": "2017-04-11T23:02:25.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Bardic Lore: Kid's Stories",
+      "description": "Having found a couple corpora of children's literature from various authors, we'll see how the \"train gradually more complex models\" plan works.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QtPjZgK_TdM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QtPjZgK_TdM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QtPjZgK_TdM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QtPjZgK_TdM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QtPjZgK_TdM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QtPjZgK_TdM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L7AfLChwgAlKH1C1_q0eBXAizQo\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmZ0UHM0TEdLV193",
+    "snippet": {
+      "publishedAt": "2017-04-04T22:52:38.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Bardic Lore: Transfer Learning",
+      "description": "Now that we have a model that does something, let's redo this, starting with simple models.  Then we use the weights from those to kickstart more complex models.  Ideally, we'd do this with more complex data, but I didn't find a suitable dataset in time.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ftPs4LGKW_w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ftPs4LGKW_w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ftPs4LGKW_w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ftPs4LGKW_w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ftPs4LGKW_w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ftPs4LGKW_w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/odQgh11PLAjTmhrfgQwy0KaVYbY\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnBQN2stMVBxSDY0",
+    "snippet": {
+      "publishedAt": "2017-03-28T23:01:19.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Bardic Lore: Improved Model",
+      "description": "The previously trained RNN model spit out lots of spaces; I think we can fix that with a little more preprocessing and get a model that does something intelligent.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pP7k-1PqH64/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pP7k-1PqH64/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pP7k-1PqH64/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pP7k-1PqH64/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pP7k-1PqH64/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pP7k-1PqH64"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sC_a87pRc5Ard8fvKO7UZ1cAQ9M\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjlWRklaM2FhRlBZ",
+    "snippet": {
+      "publishedAt": "2017-03-14T23:01:00.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data Keras 2 Launch Stream",
+      "description": "Keras 2 just came out (https://blog.keras.io/introducing-keras-2.html), so let's upgrade and see what all is new.  And how much of my old code breaks.  We'll work through some classic examples and work on the current Bardic Lore text generation project.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9VFIZ3aaFPY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9VFIZ3aaFPY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9VFIZ3aaFPY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9VFIZ3aaFPY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9VFIZ3aaFPY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9VFIZ3aaFPY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/50CF2PoadDnS8cvcOdBE9qgZc4I\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnhRbGhGajJOY0VN",
+    "snippet": {
+      "publishedAt": "2017-02-28T23:44:48.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Bardic Lore: Regenerating Shakespeare",
+      "description": "char-rnn is all the rage for generating text these days, but let's roll our own text generation service using Keras and various recurrent neural networks.  Because we already have Shakespeare handy, let's see if we can awake the spirit of the Bard.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xQlhFj2NcEM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xQlhFj2NcEM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xQlhFj2NcEM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xQlhFj2NcEM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xQlhFj2NcEM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xQlhFj2NcEM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dv8_HiJGhebQWyW2x7rNKdiaudc\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnhSeTNpdnRuQk1F",
+    "snippet": {
+      "publishedAt": "2017-02-22T00:39:17.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData TensorFlow 1.0 and TFLearn",
+      "description": "TensorFlow 1.0 is out!  While that comes with lots of changes, I wanted to look at the high-level interface via \"TFLearn\".  I was a big fan of `skflow`, but that's out, so let's see what TFLearn can do.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xRy3ivtnBME/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xRy3ivtnBME/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xRy3ivtnBME/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xRy3ivtnBME/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xRy3ivtnBME/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xRy3ivtnBME"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XFgCBJ8_Mq_F5w5MAxX35eV2igs\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLng1VU5UU3dDTW5j",
+    "snippet": {
+      "publishedAt": "2017-02-15T02:41:29.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Valentine's Day Special",
+      "description": "On this very special Valentine's Day, we're going to look through dating profiles from the https://github.com/rudeboybert/JSE_OkCupid data set.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x5UNTSwCMnc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x5UNTSwCMnc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x5UNTSwCMnc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/x5UNTSwCMnc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/x5UNTSwCMnc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "x5UNTSwCMnc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zYK74fGVssSIsGv4epBL7l_-5e4\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLk9QaTR3VDdFY2I4",
+    "snippet": {
+      "publishedAt": "2017-02-08T00:42:46.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Leaf Disease more modeling",
+      "description": "Ongoing study of the leaf disease problem.  We're going to focus on reformatting the data and working with compressed images.  Thanks again to Nerd Farmer for sponsoring!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OPi4wT7Ecb8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OPi4wT7Ecb8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OPi4wT7Ecb8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OPi4wT7Ecb8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OPi4wT7Ecb8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OPi4wT7Ecb8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oTkxn-oGuEXAOYUu7uaU2u7wK3E\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnBMQy16cXR0UUpF",
+    "snippet": {
+      "publishedAt": "2017-02-01T00:39:02.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData: Convolutional Autoencoders",
+      "description": "We take a crack at convolutional  autocoders.  It starts easy, but handling goofy sizes takes a little more finesse.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pLC-zqttQJE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pLC-zqttQJE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pLC-zqttQJE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pLC-zqttQJE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pLC-zqttQJE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pLC-zqttQJE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CxPOvHkoZITvAjORYR8gucJHt_I\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmZKWmV3LWZkTnh3",
+    "snippet": {
+      "publishedAt": "2017-01-25T00:09:45.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "PyTorch Installation and Intro",
+      "description": "Torch has been around as a machine learning framework for awhile now, but it only recently came out with Python bindings.  Let's see how it measures up to the competition.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fJZew-fdNxw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fJZew-fdNxw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fJZew-fdNxw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fJZew-fdNxw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fJZew-fdNxw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fJZew-fdNxw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dts773GwRr6RZOOCkoyVdO6Xaiw\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkhaZENlcHR5bDVJ",
+    "snippet": {
+      "publishedAt": "2017-01-18T00:05:34.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "GrowMobile Plant Disease Classification",
+      "description": "Looking at a new dataset tonight: images of leaves that may or may not be diseased.  Let's see if we can put together a basic model.  Data is from CrowdAI and this episode is sponsored by GrowMobile, LLC and NerdFarmer.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HZdCeptyl5I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HZdCeptyl5I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HZdCeptyl5I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HZdCeptyl5I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HZdCeptyl5I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HZdCeptyl5I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XN71kbh5rDrdrK2wtpBbtaLikds\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjFudXU1UDN2b0I4",
+    "snippet": {
+      "publishedAt": "2017-01-11T00:00:44.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car Nvidia Autopilot implementation",
+      "description": "We'll be implementing the Nvidia Autopilot model (https://arxiv.org/pdf/1604.07316.pdf, as seen https://github.com/SullyChen/Autopilot-TensorFlow) and seeing how it does on our limited dataset.  Likely, we're going to learn that the secret sauce is the mountains of data.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1nuu5P3voB8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1nuu5P3voB8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1nuu5P3voB8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1nuu5P3voB8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1nuu5P3voB8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1nuu5P3voB8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eu3cX_SD7mkGx4T1gX7HamCQ_FY\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlp0aG5JZkFiS0FV",
+    "snippet": {
+      "publishedAt": "2016-12-20T23:48:25.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Bare Minimum: Matplotlib for data visualization",
+      "description": "When physical distance equals logical distance, insight happens.  This is the first in a \"Bare Minimum\" series where I'll explain and demonstrate some minimal useful tool or method.  Today's tool is matplotlib, a wonderful tool for plotting things in Python.  But you only really need to know scatter plots and heat maps to solve most problems.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZthnIfAbKAU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZthnIfAbKAU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZthnIfAbKAU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZthnIfAbKAU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZthnIfAbKAU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZthnIfAbKAU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tMslkooa9iMHG_vFGaDjeVLFZ8Q\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnBJcktQNER5SC1R",
+    "snippet": {
+      "publishedAt": "2016-12-14T00:16:06.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: All About Autoencoders",
+      "description": "What do you do when you don't have enough labeled data?  Autoencoding is a way to learn (hopefully interesting) features of your data to save time on training later.  Let's explore!  And only crash my machine once during the show...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pIrKP4DyH-Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pIrKP4DyH-Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pIrKP4DyH-Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pIrKP4DyH-Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pIrKP4DyH-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pIrKP4DyH-Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KgB_Ogzqa41cZuuCehI2E1Ce9bo\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlBuN2I3Y3B1TWlr",
+    "snippet": {
+      "publishedAt": "2016-12-06T23:52:19.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data Interactive Computing Workflow",
+      "description": "By popular request, this livestream will demonstrate setting up and using my interactive computing workflow.  Learn how to do data science (or whatever!) with Ubuntu, Tmux, ViM, and Slimux.  Feel the Power!\n\nIf you're downloading the repo, make sure to select the 'ubuntu' branch.  The 'master' branch is for ArchLinux.  If you're using Arch, you probably already know what to do.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pn7b7cpuMik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pn7b7cpuMik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pn7b7cpuMik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Pn7b7cpuMik/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Pn7b7cpuMik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Pn7b7cpuMik"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PkFd7YhSOAqmsg9AH01rIa41keM\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnRaNURSV1RrN2Fr",
+    "snippet": {
+      "publishedAt": "2016-11-29T23:50:45.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: IPython Notebooks with SageMathCloud",
+      "description": "While I usually stick with ViM and IPython in the terminal, many folks enjoy data science in IPython Notebooks (or JuPyter).  Conveniently, SageMathCloud makes these available in tiny VMs with all kinds of pre-installed libraries.  Let's Learn.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tZ5DRWTk7ak/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tZ5DRWTk7ak/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tZ5DRWTk7ak/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tZ5DRWTk7ak/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tZ5DRWTk7ak/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tZ5DRWTk7ak"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eF7BPLLrcj-EyCtKSuKI8W48tWQ\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkZXWkZIOS1haW5R",
+    "snippet": {
+      "publishedAt": "2016-11-23T00:06:03.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "CNTK Revisited: Now with Python",
+      "description": "CNTK is a machine learning framework from Microsoft that came out awhile ago, but I recently saw that they updated it with Python bindings.  I said I would give it another look if they did, so let's see what's new!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FWZFH9-ainQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FWZFH9-ainQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FWZFH9-ainQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FWZFH9-ainQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FWZFH9-ainQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FWZFH9-ainQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QDbs86lrXpNE13My5meG5ZbTxbs\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnMtNUJrLWRRZFF3",
+    "snippet": {
+      "publishedAt": "2016-11-15T23:42:03.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData TensorFlow Anniversary!",
+      "description": "Let's celebration one year of TensorFlow and DanDoesData!  What better way to do it than reinstalling TensorFlow!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s-5Bk-dQdQw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s-5Bk-dQdQw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s-5Bk-dQdQw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s-5Bk-dQdQw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s-5Bk-dQdQw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "s-5Bk-dQdQw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mLHTLIEUDJfFbc2O0-HQz-20hSY\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnNMbHZqSGN5MUpz",
+    "snippet": {
+      "publishedAt": "2016-11-09T00:15:10.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Intro to Google DataStudio",
+      "description": "Google Datastudio looks like a flexible web app for doing exploratory data science.  Let's see how it handles...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sLlvjHcy1Js/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sLlvjHcy1Js/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sLlvjHcy1Js/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sLlvjHcy1Js/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sLlvjHcy1Js/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sLlvjHcy1Js"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CfKJSK-11G30n4yW4XJCSPb3Fbk\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmRIdTVrb1laZTJV",
+    "snippet": {
+      "publishedAt": "2016-10-25T23:10:02.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car data collection platform",
+      "description": "With Otto, the self-driving tractor in some state of \"working\", it's time to start collecting proper data.  This is the creation of a script to read from the webcam and FUBARino board, process things into the right format, and spit out the data as .npz files.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dHu5koYZe2U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dHu5koYZe2U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dHu5koYZe2U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dHu5koYZe2U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dHu5koYZe2U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dHu5koYZe2U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ItXx50EslNdAYg26MiCthrw5Mt8\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlllTEZCRFliSEpr",
+    "snippet": {
+      "publishedAt": "2016-10-18T23:19:11.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car with basic RNN",
+      "description": "\"What's past is prologue.\"  Let's try to implement a simple recurrent neural network.  In this way, we include features computed at a previous time step in the current step's computation.  We do get a model running here, but it's not clear that it's giving us additional predictive power.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YeLFBDYbHJk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YeLFBDYbHJk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YeLFBDYbHJk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YeLFBDYbHJk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YeLFBDYbHJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YeLFBDYbHJk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rDAGM4ngATXANDLaZlpuIwocRI0\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnZIU2JTcVlWSDNF",
+    "snippet": {
+      "publishedAt": "2016-10-11T23:32:00.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car Model Review",
+      "description": "Mostly a review of some off-camera modeling.  SqueezeNet Transfer learning (a bust so far), building the DeepDrive model in Keras (lists to the left), and a venture into Linear modeling (causing a literal computer crash at the end, sorry!).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vHSbSqYVH3E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vHSbSqYVH3E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vHSbSqYVH3E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vHSbSqYVH3E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vHSbSqYVH3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vHSbSqYVH3E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JH6XE2lCozof9N-JJaWgUajdURo\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnF1ZC1XdXNZN0U0",
+    "snippet": {
+      "publishedAt": "2016-10-04T23:14:11.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car Transfer Learning Model",
+      "description": "Trying to train our own entire model is a challenge, especially with limited data.  What if we can use part of an existing model (including weights) to extract most of the important features, then finish the job ourselves?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qud-WusY7E4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qud-WusY7E4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qud-WusY7E4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qud-WusY7E4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qud-WusY7E4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qud-WusY7E4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OHUbIkM0mfa1qKDz3yu2igiCJY4\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmF4V21lbWg2Wngw",
+    "snippet": {
+      "publishedAt": "2016-09-27T23:08:02.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving Car Comma.ai model",
+      "description": "More modeling with the comma.ai self-driving car data set.  And I managed to crash my computer half-way through; sorry about the short episode.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/axWmemh6Zx0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/axWmemh6Zx0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/axWmemh6Zx0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/axWmemh6Zx0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/axWmemh6Zx0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "axWmemh6Zx0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LK__4EbJnC6iWkOUPpH6UpTslNE\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkdBWXpmbGllX1Z3",
+    "snippet": {
+      "publishedAt": "2016-09-20T23:28:35.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving Car Comma.ai dataset",
+      "description": "Let's try some new data, the recently released Comma.Ai dataset (https://github.com/commaai/research) looks interesting.  We can see how the DeepDrive trained model performs, and vice versa.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GAYzflie_Vw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GAYzflie_Vw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GAYzflie_Vw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GAYzflie_Vw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GAYzflie_Vw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GAYzflie_Vw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/t9esDkKKJ-3zgPUD948ry1oZn6A\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLk8xV1A0RFRQZy1V",
+    "snippet": {
+      "publishedAt": "2016-09-13T23:23:41.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving Car Control script (and viewer model)",
+      "description": "We go over the control script used by the machine learning model to communicate and direct the car over a serial port.  We also take a look at a viewer submitted model that beats what I concocted last week :p  If you've got a better model still, send it in!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O1WP4DTPg-U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O1WP4DTPg-U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O1WP4DTPg-U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/O1WP4DTPg-U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/O1WP4DTPg-U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "O1WP4DTPg-U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3Se-aAq_5Vnz4uttUM6btNXO7ag\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmhyMVpDRktvRVBn",
+    "snippet": {
+      "publishedAt": "2016-09-06T23:20:07.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car Combined model",
+      "description": "With the compressed data model working ok, it's time to focus on building a model good enough to drive with.  It's time for either a combined model of steering and gas, or at least two models.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hr1ZCFKoEPg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hr1ZCFKoEPg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hr1ZCFKoEPg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hr1ZCFKoEPg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hr1ZCFKoEPg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hr1ZCFKoEPg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fT0N92DE7MLDoynmDoucteE5DCQ\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnhXdWM3dzlrY28w",
+    "snippet": {
+      "publishedAt": "2016-08-30T23:22:34.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car Building a smaller model with regularization",
+      "description": "The deadline for this Self-driving car is approaching.  This week we'll use a compressed version of the data to save a lot of preprocessing effort.  Today's motto, \"This is fine.\"",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xWuc7w9kco0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xWuc7w9kco0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xWuc7w9kco0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xWuc7w9kco0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xWuc7w9kco0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 43,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xWuc7w9kco0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/B7krDhj2FhMxu4Qk7fj6QJjunYQ\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlMzVGJtU0dMd1ZZ",
+    "snippet": {
+      "publishedAt": "2016-08-23T23:21:29.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving Car Visualization and Gas Model",
+      "description": "More self-driving car modeling.  Now with a sweet animation of the steering!  We start work on the gas model, converting to categorical variables, but predicting \"always drive forward\" is too good for the model to overcome.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S3TbmSGLwVY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S3TbmSGLwVY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S3TbmSGLwVY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S3TbmSGLwVY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S3TbmSGLwVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 44,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "S3TbmSGLwVY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KfUd6QEUuFPzQFmrWTTd3gBxZaU\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlBlb0ZQQXIwODRz",
+    "snippet": {
+      "publishedAt": "2016-08-16T23:13:09.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving Car Autonomous Steering",
+      "description": "With a basic autonomous model doing...something, let's do something simpler: focus on steering angle.  Modeling this should be easy, visualizing it shouldn't be too bad either.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PeoFPAr084s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PeoFPAr084s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PeoFPAr084s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PeoFPAr084s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PeoFPAr084s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 45,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PeoFPAr084s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ab0BHDeGgIDuzRSbR99Ytyxknk0\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLm1oTUNVNElkdGJF",
+    "snippet": {
+      "publishedAt": "2016-08-09T23:25:14.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car Parameter Rescaling",
+      "description": "Ongoing modeling of a self-driving car for Power Racing Series FUBAR team.  This time we tackle a model that's outputting all zeros or constants!  Rescaling and new activations to the rescue.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mhMCU4IdtbE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mhMCU4IdtbE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mhMCU4IdtbE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mhMCU4IdtbE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mhMCU4IdtbE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 46,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mhMCU4IdtbE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7FfZ8n4cIH61l2tlts8TjAZcnqc\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkNkbEhOTVBGS3Q0",
+    "snippet": {
+      "publishedAt": "2016-08-02T23:09:37.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car DeepDrive model",
+      "description": "Extracting the necessary data out of the DeepDrive dataset and training a simple model for a self driving car, if all goes well.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CdlHNMPFKt4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CdlHNMPFKt4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CdlHNMPFKt4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CdlHNMPFKt4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CdlHNMPFKt4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 47,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CdlHNMPFKt4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3XjHpnI93UQ_tYHGz3Re5_Hz3nw\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjZiU0FYdk40dW9z",
+    "snippet": {
+      "publishedAt": "2016-07-26T23:39:42.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car DeepDrive data inspection",
+      "description": "Ongoing modeling of Powerwheels Racing self-driving car.  Github repo at https://github.com/dvbuntu/autonomous.  Still looking for a good dataset, but deepdrive.io is a decent start.  Unfortunately, the images look a bit off color.  Maybe they're not RGB like I thought.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6bSAXvN4uos/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6bSAXvN4uos/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6bSAXvN4uos/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6bSAXvN4uos/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6bSAXvN4uos/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 48,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6bSAXvN4uos"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YJlKkSBWi2bGQrK3lKmxF0iNBRM\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLm1lVTFmWFhJQU9R",
+    "snippet": {
+      "publishedAt": "2016-07-19T23:05:24.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Self-driving car model setup",
+      "description": "FUBAR Labs is part of the Powerwheels Racing autonomous challenge.  I'm setting up and building a model to teach a go-kart how to drive.  No data yet, just specifications and ideas.  Github repo at https://github.com/dvbuntu/autonomous",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/meU1fXXIAOQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/meU1fXXIAOQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/meU1fXXIAOQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/meU1fXXIAOQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/meU1fXXIAOQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 49,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "meU1fXXIAOQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FCQg0UaIe6sj1EyjPNMFladJ70E\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLndTcFBKdGVud19j",
+    "snippet": {
+      "publishedAt": "2016-07-12T23:43:35.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "For Well Thou Know'st: CNN/RNN Combo",
+      "description": "An RNN was cool, but feeding it better scale features from a convolutional layer is even cooler.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wSpPJtenw_c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wSpPJtenw_c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wSpPJtenw_c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wSpPJtenw_c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wSpPJtenw_c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 50,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wSpPJtenw_c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jvMsEpMWWN5CxjyElYDGRxXCQsc\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLk81REJ0SThHbS1R",
+    "snippet": {
+      "publishedAt": "2016-07-05T23:26:54.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "For Well Thou Know'st: Recurrent prep",
+      "description": "Last week I was off, but I published a TensorFlow video series!  https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-video\n\nHaving crafted a decent, if expensive, convolutional model, I seek to building a simpler recurrent model to slowly build up confidence in a class.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O5DBtI8Gm-Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O5DBtI8Gm-Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O5DBtI8Gm-Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/O5DBtI8Gm-Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/O5DBtI8Gm-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 51,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "O5DBtI8Gm-Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JxS0RfMBPoF44TLAm33ZCmRBhRc\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLk1qNXRMNDViXzBz",
+    "snippet": {
+      "publishedAt": "2016-06-21T23:16:07.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "For Well Thou Kn: Non-cheating model",
+      "description": "Armed with a revised data set of The Bard, I hope to model fonts without cheating.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mj5tL45b_0s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mj5tL45b_0s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mj5tL45b_0s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mj5tL45b_0s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Mj5tL45b_0s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 52,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Mj5tL45b_0s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9p8E3ENS6Ixm1a0U3KD-0la3La4\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnNULTJzajFmWWxV",
+    "snippet": {
+      "publishedAt": "2016-06-14T22:36:56.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "For Well Thou Kn: New Data",
+      "description": "After modeling the old data with just a couple features, it seems wise to redo the data set to ensure we're actually capturing the features we want.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sT-2sj1fYlU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sT-2sj1fYlU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sT-2sj1fYlU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sT-2sj1fYlU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sT-2sj1fYlU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 53,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sT-2sj1fYlU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WrQm5aZ4scXoQTMz8ADoG99Pl0c\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmc1b0dGR0NQcnRV",
+    "snippet": {
+      "publishedAt": "2016-06-07T23:26:55.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "For Well Thou Kn: Minimal features",
+      "description": "Ongoing study of Shakespeare's text, literally studying fonts.  This week we'll see how few features we can use on this particular data.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g5oGFGCPrtU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g5oGFGCPrtU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g5oGFGCPrtU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g5oGFGCPrtU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g5oGFGCPrtU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 54,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "g5oGFGCPrtU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nlQY084XBWoQjfX8NO-nGV69gfc\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlJFeURHRzl1VmJr",
+    "snippet": {
+      "publishedAt": "2016-05-31T23:19:23.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "For Well Thou Kn: Simple Models",
+      "description": "Ongoing explorations of the works of William Shakespeare, and beyond.  We succeed in building a simple logistic regression and even a shallow neural network.  Github page at https://github.com/dvbuntu/for_well_thou_kn",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/REyDGG9uVbk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/REyDGG9uVbk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/REyDGG9uVbk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/REyDGG9uVbk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/REyDGG9uVbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 55,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "REyDGG9uVbk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pBNzYlqt-fiZzholdq2kBvC150U\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLi1WaERqanp2QWlF",
+    "snippet": {
+      "publishedAt": "2016-05-25T12:45:37.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Reading in Shakespeare Data",
+      "description": "Enough with every framework under the sun, it's time for a new research project.  Tonight, we create and read in a dataset of Shakespeare rendered in a variety of fonts.  \"For well thou know'st\".  Code and more information on Github, https://github.com/dvbuntu/for_well_thou_kn.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-VhDjjzvAiE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-VhDjjzvAiE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-VhDjjzvAiE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-VhDjjzvAiE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-VhDjjzvAiE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 56,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-VhDjjzvAiE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MdA2R4XHpKDjEenY5vN4QoEssDA\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkhEa056R1lja1dJ",
+    "snippet": {
+      "publishedAt": "2016-05-17T22:52:09.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Caffe Segfault",
+      "description": "Continuing study of caffe.  Though I was able to load the docker container for caffe, all of the intro models caused docker to crash.  I'm done with caffe for now as a result.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HDkNzGYckWI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HDkNzGYckWI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HDkNzGYckWI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HDkNzGYckWI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HDkNzGYckWI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 57,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HDkNzGYckWI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3wfeK2eLeGWA_ttkwAJMb7Gtlis\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLm9GclJfdkNLMGlJ",
+    "snippet": {
+      "publishedAt": "2016-05-10T22:52:38.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Caffe Installation and Compiling",
+      "description": "We're moving on to Caffe, another popular framework.  This one is tricky to install; I gave up and switched docker after streaming.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oFrR_vCK0iI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oFrR_vCK0iI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oFrR_vCK0iI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oFrR_vCK0iI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oFrR_vCK0iI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 58,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oFrR_vCK0iI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QY9T4ztIRnkG22q7Ugi80TtM8OY\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmJ6d3VwTXNPM0JZ",
+    "snippet": {
+      "publishedAt": "2016-05-03T23:14:57.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "LineByLine TensorFlow mnist.py",
+      "description": "A Statistically Responsible look at the mnist.py TensorFlow tutorial file.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bzwupMsO3BY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bzwupMsO3BY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bzwupMsO3BY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bzwupMsO3BY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bzwupMsO3BY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 59,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bzwupMsO3BY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9e1z039ACv6YByUZf575OzXOGWw\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlNLbUpjZjMyOV84",
+    "snippet": {
+      "publishedAt": "2016-04-26T23:37:20.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "LineByLine: TensorFlow fully_connected_feed.py",
+      "description": "A new series, \"Line by Line\", where I'll walk through an example tutorial (maybe my own, maybe existing) line by line, explaining and running the code.\n\nFirst up, by fan request, is a TensorFlow tutorial on fully connected neural nets.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SKmJcf329_8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SKmJcf329_8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SKmJcf329_8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SKmJcf329_8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SKmJcf329_8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 60,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SKmJcf329_8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-Eub4G75UIq4MEX3kv2c_419lDI\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnNZWEVkWHVJRWNJ",
+    "snippet": {
+      "publishedAt": "2016-04-19T23:23:07.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Simple RNNs in Keras",
+      "description": "We finally get an RNN working for the word embeddings model.  The key is you supply single sentences to the model, not all the data at once!\n\nThen I whipped up a semi-fake model to predict the season based on temperature.  It really seems to like Autumn, but the important thing is that it's easy to run and understand.  Built with a simple Long Short Term Memory model.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sYXEdXuIEcI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sYXEdXuIEcI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sYXEdXuIEcI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sYXEdXuIEcI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sYXEdXuIEcI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 61,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "sYXEdXuIEcI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7yw98zCdFrqN2QfqWDLJlBhhuMw\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjNRc2VjZDRPTms0",
+    "snippet": {
+      "publishedAt": "2016-04-12T23:22:58.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Keras 1.0 and more RNN",
+      "description": "Keras 1.0 came out, woo!  And we try our luck again with Recurrent Neural Networks, but maybe I picked a bad initial problem.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3Qsecd4ONk4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3Qsecd4ONk4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3Qsecd4ONk4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3Qsecd4ONk4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3Qsecd4ONk4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 62,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3Qsecd4ONk4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8rLS2oRUp4eHOzzZmJ5FkF2zD_o\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnpXNndYbXNJblUw",
+    "snippet": {
+      "publishedAt": "2016-04-05T23:46:59.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Keras Recurrent Neural Nets",
+      "description": "We're going to continue looking at Keras, but also at Recurrent Neural Nets and maybe LSTMs.  It's about time.\n\nOf course, these aren't trivial to jump into!  And there's no Keras examples of Simple RNNs, so we try to shim in a Theano example.  You decide how well it went...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zW6wXmsInU0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zW6wXmsInU0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zW6wXmsInU0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zW6wXmsInU0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zW6wXmsInU0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 63,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zW6wXmsInU0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XNW4OAT20AcoPOCH4GCVizlr17w\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjVTdnA5LTViOWJN",
+    "snippet": {
+      "publishedAt": "2016-03-26T03:14:43.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Trailer",
+      "description": "What is DanDoesData?  Find out and see some highlights from the past few months!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5Svp9-5b9bM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5Svp9-5b9bM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5Svp9-5b9bM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5Svp9-5b9bM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5Svp9-5b9bM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 64,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5Svp9-5b9bM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/h3h3xZlVd1dwQx_XuCR1V2AbSxI\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLk9TaTg2Tm1TQmF3",
+    "snippet": {
+      "publishedAt": "2016-04-01T23:13:17.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Special Edition: Excel97",
+      "description": "We're going to examine a highly versatile machine learning framework put out by Microsoft, Excel97!.  It features a more graphical scripting approach, and is usable by anyone!  No programming experience required.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OSi86NmSBaw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OSi86NmSBaw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OSi86NmSBaw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OSi86NmSBaw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OSi86NmSBaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 65,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OSi86NmSBaw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9sCVddze5MAi8FgETCrvoNDXFK0\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjU2RXVIajJWOEs4",
+    "snippet": {
+      "publishedAt": "2016-03-29T23:27:17.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Keras Custom Activations and Convolutions",
+      "description": "In this video, I figured out how to implement custom Keras activations!  This is useful in case the library falls behind the latest machine learning research.  Maybe our custom arctan(X) + sin(X) function will take the world by storm and get implemented proper in Keras.\n\nI also demonstrate how to do convolutional layers in Keras.  They make it pretty easy, so you don't need to stress too much about it.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/56EuHj2V8K8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/56EuHj2V8K8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/56EuHj2V8K8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/56EuHj2V8K8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/56EuHj2V8K8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 66,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "56EuHj2V8K8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xj18Tbi3hM4QiKF2VPbrpHTJUpw\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkwwSVZ1X3NLT09Z",
+    "snippet": {
+      "publishedAt": "2016-03-22T23:22:24.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data Keras Intro",
+      "description": "Tonight we'll be exploring another high-level wrapper library, Keras.  This one is unique in that it supports both Theano and TensorFlow backends.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L0IVu_sKOOY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L0IVu_sKOOY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L0IVu_sKOOY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L0IVu_sKOOY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L0IVu_sKOOY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 67,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "L0IVu_sKOOY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pdEDUpBlEcpEaQWYpdX_vRRiF2o\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlVHbGRQbTRSUnd3",
+    "snippet": {
+      "publishedAt": "2016-03-15T23:19:14.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData CIFAR10 in skflow with convolutional net",
+      "description": "Building a CIFAR-10 image recognition model with skflow.  After wrestling with importing data last time, we're finally ready to do some actual modeling.  Also, pretty pictures of weights from the red, green, and blue color channels!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UGldPm4RRww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UGldPm4RRww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UGldPm4RRww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UGldPm4RRww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UGldPm4RRww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 68,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UGldPm4RRww"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vozeQIgzk1AASRq_enfYjDgdPS8\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkZNNWN6STlpV3ZB",
+    "snippet": {
+      "publishedAt": "2016-03-02T00:52:44.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData CIFAR10 with skflow reading data",
+      "description": "CIFAR10 intro with skflow.  This was a bear to just start reading in data.  The TensorFlow documentation doesn't expect you to want to look at an image yourself it seems.  So I rolled my own using numpy and at least made a simple logistic model with skflow.  To create the proper convolutional neural net, we need to rearrange our data into [n_samples, height, width, n_channels] format.  That's a future video.\n\nAs usual, 5 minutes of silent research showed me that np.transpose will reorder the data, and I can view an rgb numpy array with plt.imshow(foo).  Things are looking up for next time!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FM5czI9iWvA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FM5czI9iWvA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FM5czI9iWvA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FM5czI9iWvA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FM5czI9iWvA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 69,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FM5czI9iWvA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/e0PcN1x1cMkFjWWQzFCgOBbYA7U\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLlRDc1BlWEw4ZzB3",
+    "snippet": {
+      "publishedAt": "2016-02-24T00:18:42.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Uncovering skflow custom weights",
+      "description": "TensorFlow 0.7 wheel doesn't work with Python3 yet (welcome to dependency hell).  So I reinstalled TF 0.6.  In the end, we will find the hidden weights in the dark heart of TensorFlow.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TCsPeXL8g0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TCsPeXL8g0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TCsPeXL8g0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TCsPeXL8g0w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TCsPeXL8g0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 70,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TCsPeXL8g0w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/JYyQ8DZVju5mwzb_Qr4Ypm-6axM\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkFDU3lOalp5RDFV",
+    "snippet": {
+      "publishedAt": "2016-02-17T00:21:19.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data SciKit Flow (skflow) weights",
+      "description": "This week we'll be delving deeper into the skflow interface to TensorFlow.  We visualize some of the weights of our Convolutional Neural Net and strike deep into the heart of `classifier.get_tensor_value` to recover additional weights.  Plus, we spend the last 5 minutes reinstalling tensorflow!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ACSyNjZyD1U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ACSyNjZyD1U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ACSyNjZyD1U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ACSyNjZyD1U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ACSyNjZyD1U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 71,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ACSyNjZyD1U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GfXZyMVS6w_CrHnJCql0h03dWqE\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjBxSk12U0xLYU9V",
+    "snippet": {
+      "publishedAt": "2016-02-12T02:53:30.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Live in Person at FUBARLabs",
+      "description": "Broadcasting from FUBAR Labs, I hosted a workshop on \"Data Visualization and Machine Learning\".   We used SageMathCloud, so you can try this on any machine!  Check out the IPython Notebook used in the class at https://github.com/dvbuntu/ml_workshop/blob/master/ml_workshop.ipynb",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0qJMvSLKaOU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0qJMvSLKaOU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0qJMvSLKaOU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0qJMvSLKaOU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0qJMvSLKaOU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 72,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0qJMvSLKaOU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rsvEnyZeRsnEoAN-5UH9fRYwJyI\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnYyclUwcHVBWmV3",
+    "snippet": {
+      "publishedAt": "2016-02-10T00:34:41.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData TensorFlow with skflow",
+      "description": "This week I'll look at a high-level wrapping language around Tensorflow called \"skflow\".  It makes building neural networks super easy.  While they advertise it as an \"educational\" tool, this is an \"educational\" show, so we can use it as much as we like!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v2rU0puAZew/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v2rU0puAZew/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v2rU0puAZew/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v2rU0puAZew/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v2rU0puAZew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 73,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "v2rU0puAZew"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xYO6M4vIT5gNgx5xAtWGZwWMi24\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmY4S2Z2cENGNzBR",
+    "snippet": {
+      "publishedAt": "2016-02-03T00:51:24.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData Theano CNN Visualizations",
+      "description": "I persevere applying Convolutional Neural Nets in Python using Theano, with some visualization of the weights and even a few neural network \"dreams\" of random data made into digits.  I will walk through a simple example with MNIST digits to demonstrate what each layer of a traditional CNN does (convolution layer, pooling layer, and what it all means).\n\nBased on tutorial at https://github.com/Newmu/Theano-Tutorials/blob/master/5_convolutional_net.py",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f8KfvpCF70Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f8KfvpCF70Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f8KfvpCF70Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/f8KfvpCF70Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/f8KfvpCF70Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 74,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "f8KfvpCF70Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-T3lO2xPPe-0fySS9H_XLBTYrDY\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmlyRElfX1pFM25r",
+    "snippet": {
+      "publishedAt": "2016-01-27T02:27:57.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData: Theano Convolutional Neural Net Intro",
+      "description": "We're continuing to explore Theano, this time looking at Convolutional Neural Nets (CNNs).  CNNs are great at reducing your parameter count and finding features located anywhere in your [image, sound pattern, text] or other structured data.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/irDI__ZE3nk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/irDI__ZE3nk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/irDI__ZE3nk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/irDI__ZE3nk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/irDI__ZE3nk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 75,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "irDI__ZE3nk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nyU8VRrs-r7W9C6KwPnrWWDbz6Q\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmpBeWFsdlFUVHlR",
+    "snippet": {
+      "publishedAt": "2016-01-25T20:19:20.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Microsoft CNTK new Deep Learning library!",
+      "description": "Now it's Microsoft's turn to see me flop through their newly released tool.  Props to them for releasing a Linux version alongside Windows.\n\nPre-compiled binaries don't seem to be available yet, so you'll see me try to compile from source.  I was able to use their old codeplex CPU-only release eventually. When they release new Linux binaries (and maybe python bindings), I'll give CNTK a fresh look.\n\nMore info about my workflow at https://dvbuntu.github.io/compute.  General blog and data science critiques at https://dvbuntu.github.io/wisdom.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jAyalvQTTyQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jAyalvQTTyQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jAyalvQTTyQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jAyalvQTTyQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jAyalvQTTyQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 76,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jAyalvQTTyQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/phtu08od46-ShSkPKFvjhU-fsFc\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmUwemlFWWxCckp3",
+    "snippet": {
+      "publishedAt": "2016-01-20T00:46:38.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "DanDoesData: Theano Deep MLP for MNIST",
+      "description": "We'll continue learning how to break Theano by building a simple neural net to classify handwritten digits in the MNIST dataset.  And we expand on the deeplearning.net tutorial by creating a class for an arbitrary number of hidden layers.  See if I can pull myself up out of bugs of my own creation!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e0ziEYlBrJw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e0ziEYlBrJw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e0ziEYlBrJw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/e0ziEYlBrJw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/e0ziEYlBrJw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 77,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "e0ziEYlBrJw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wkTuRK2tS7OtfaInjOgEFwoFCFw\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLk5aRll0X1gxYmw4",
+    "snippet": {
+      "publishedAt": "2016-01-13T00:56:00.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data, Theano MNIST Logistic Regression",
+      "description": "See me fail to copy-paste correctly and misimplement a simple logistic regression model.  All the digits are one's, right?\n\nAs usual, 15 minutes of debugging located my error.  I overwrote the `updates` list instead of adding another entry for the bias value.  So I got burned by not having a simple concatenate operator to add my bias feature to the pixels.  Oh well.  Next week, we'll use an actual neural net.\n\nJust an engineer stumbling through machine learning and other software tutorials.  Watch me fumble through confusing installations, unintuitive interfaces, and a hostile computing environment.  And yet somehow, I'll manage to analyze data (with some probability).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NZFYt_X1bl8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NZFYt_X1bl8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NZFYt_X1bl8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NZFYt_X1bl8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NZFYt_X1bl8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 78,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NZFYt_X1bl8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ugFE1VX_d-0W5NjCg7XsvRN0e7I\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjdWM0VKUjZ2UXlv",
+    "snippet": {
+      "publishedAt": "2016-01-06T00:37:09.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Theano Installation and Basics",
+      "description": "Exploring Theano, another Machine Learning framework similar to TensorFlow.  The installation is literally fool-proof since it worked for me on the first try!\n\nJust an engineer stumbling through machine learning and other software tutorials.  Watch me fumble through confusing installations, unintuitive interfaces, and a hostile computing environment.  And yet somehow, I'll manage to analyze data (with some probability).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7V3EJR6vQyo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7V3EJR6vQyo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7V3EJR6vQyo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7V3EJR6vQyo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7V3EJR6vQyo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 79,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7V3EJR6vQyo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IbmVALAkuyBfXNOxmftyrsickpQ\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnpZeEUzSGcyNzVn",
+    "snippet": {
+      "publishedAt": "2015-12-23T00:24:56.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Tensor Flow, Python3 and beyond!",
+      "description": "Watch me stumble through Google's new \"Tensor Flow\" library for data flow graphs.  More info about my workflow at https://dvbuntu.github.io/compute.  General blog and data science critiques at https://dvbuntu.github.io/wisdom.\n\nSince I started this series, Google has released a Python3 version of TensorFlow.  Finally today I'll install that and advance to the modern era.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zYxE3Hg275g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zYxE3Hg275g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zYxE3Hg275g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zYxE3Hg275g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zYxE3Hg275g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 80,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zYxE3Hg275g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TTpEzOfDpA4TP6znzVqrlxmVFbE\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjlOZmtWck1UX2lJ",
+    "snippet": {
+      "publishedAt": "2015-12-16T00:06:46.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Tensor Flow, Mahalanobis Distance Implementation 3",
+      "description": "Watch me stumble through Google's new \"Tensor Flow\" library for data flow graphs.  More info about my workflow at https://dvbuntu.github.io/compute.  General blog and data science critiques at https://dvbuntu.github.io/wisdom.\n\nAfter implementing a basic Mahalanobis Distance, I conquer basic matrix multiplication to avoid premature optimization...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9NfkVrMT_iI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9NfkVrMT_iI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9NfkVrMT_iI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9NfkVrMT_iI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9NfkVrMT_iI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 81,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9NfkVrMT_iI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BDv02_jGYYQOcpB1xiR5LQsLX2A\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLndqc0E3Mm9VcEVn",
+    "snippet": {
+      "publishedAt": "2015-12-09T00:16:10.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Tensor Flow, Mahalanobis Distance Implementation 2",
+      "description": "Watch me stumble through Google's new \"Tensor Flow\" library for data flow graphs.  More info about my workflow at https://dvbuntu.github.io/compute.  General blog and data science critiques at https://dvbuntu.github.io/wisdom.\n\nAfter implementing a basic Mahalanobis Distance, I'll try to move it fully into TensorFlow, and maybe do some computations.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wjsA72oUpEg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wjsA72oUpEg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wjsA72oUpEg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wjsA72oUpEg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wjsA72oUpEg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 82,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wjsA72oUpEg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EzC4ACRR0ZcSBJSqEj4vlBQiGuQ\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLm9zcjZWWDFqNGtN",
+    "snippet": {
+      "publishedAt": "2015-12-02T00:20:14.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Tensor Flow, Mahalanobis Distance Implementation 1",
+      "description": "Watch me stumble through Google's new \"Tensor Flow\" library for data flow graphs.  More info about my workflow at https://dvbuntu.github.io/compute.  General blog and data science critiques at https://dvbuntu.github.io/wisdom.\n\nThis is me trying to implementing the \"Mahalanobis Distance\" metric in TensorFlow.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/osr6VX1j4kM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/osr6VX1j4kM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/osr6VX1j4kM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/osr6VX1j4kM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/osr6VX1j4kM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 83,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "osr6VX1j4kM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AtFTsWfizEcvuBcm-0gLdCjVmrA\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLnloOG9SRnczdkRj",
+    "snippet": {
+      "publishedAt": "2015-11-25T00:23:04.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Tensor Flow, Basic Usage",
+      "description": "Watch me stumble through Google's new \"Tensor Flow\" library for data flow graphs.  More info about my workflow at https://dvbuntu.github.io/compute.  General blog and data science critiques at https://dvbuntu.github.io/wisdom.\n\nTutorial 3",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yh8oRFw3vDc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yh8oRFw3vDc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yh8oRFw3vDc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yh8oRFw3vDc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yh8oRFw3vDc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 84,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yh8oRFw3vDc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Xqf9PRN7aJrBMD1WWmL_RqRmqeM\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjBYamo4U1FLZER3",
+    "snippet": {
+      "publishedAt": "2015-11-18T00:24:20.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Tensor Flow, Tutorial 2",
+      "description": "Watch me stumble through Google's new \"Tensor Flow\" library for data flow graphs.  More info about my workflow at https://dvbuntu.github.io/compute.  General blog and data science critiques at https://dvbuntu.github.io/wisdom.\n\nTutorial 2, TensorFlow Video 3",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0Xjj8SQKdDw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0Xjj8SQKdDw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0Xjj8SQKdDw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0Xjj8SQKdDw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0Xjj8SQKdDw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 85,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0Xjj8SQKdDw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gLa1PQ8rTvKRmy24Lld88t_Bqos\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLmtNdHMwYmFkZG93",
+    "snippet": {
+      "publishedAt": "2015-11-10T21:39:20.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Tensor Flow, Deep MNIST for Experts",
+      "description": "Watch me stumble through Google's new \"Tensor Flow\" library for data flow graphs.  More info about my workflow at https://dvbuntu.github.io/compute.  General blog and data science critiques at https://dvbuntu.github.io/wisdom.\n\nTutorial 2",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kMts0baddow/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kMts0baddow/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kMts0baddow/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kMts0baddow/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kMts0baddow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 86,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kMts0baddow"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Eb8I8nqvNgevd0EezS783DSHgFw\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLl9PRFEtbVYzSDlR",
+    "snippet": {
+      "publishedAt": "2015-11-09T17:11:50.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Dan Does Data: Tensor Flow",
+      "description": "Watch me stumble through Google's new \"Tensor Flow\" library for data flow graphs.  This is mainly me installing Tensor Flow.  I had expected a Python3 library in PyPi, but found a Python2 library with a custom pip.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_ODQ-mV3H9Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_ODQ-mV3H9Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_ODQ-mV3H9Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_ODQ-mV3H9Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_ODQ-mV3H9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 87,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_ODQ-mV3H9Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/14uu0Uqw9ZDGkt-MZoAr7yq9WMA\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLkY5VmVZNUtGRGw4",
+    "snippet": {
+      "publishedAt": "2015-07-10T14:09:29.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Computing Demo 0",
+      "description": "Simple demonstration of my interactive computing workflow for http://dvbuntu.github.io/compute/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F9VeY5KFDl8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F9VeY5KFDl8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F9VeY5KFDl8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/F9VeY5KFDl8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/F9VeY5KFDl8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 88,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "F9VeY5KFDl8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/r0oKHVQ64Rp91Rwphb9otklFudw\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjZoRFpNcjlhV0Rj",
+    "snippet": {
+      "publishedAt": "2015-07-10T13:58:25.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Computing Demo",
+      "description": "Simple demonstration of my interactive computing workflow.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6hDZMr9aWDc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6hDZMr9aWDc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6hDZMr9aWDc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6hDZMr9aWDc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6hDZMr9aWDc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 89,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6hDZMr9aWDc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YwcPHI2QOC3EVDVrIlxZ9Ivd-nI\"",
+    "id": "VVU2dG5SRktHaXExRGx5YmNxUDVyWjdBLjJzY2ROR05NQUVj",
+    "snippet": {
+      "publishedAt": "2015-07-10T13:48:20.000Z",
+      "channelId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+      "title": "Computing Test",
+      "description": "Just a test of the emergency computing system with python.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2scdNGNMAEc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2scdNGNMAEc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2scdNGNMAEc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2scdNGNMAEc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2scdNGNMAEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dan Van Boxel",
+      "playlistId": "UU6tnRFKGiq1DlybcqP5rZ7A",
+      "position": 90,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2scdNGNMAEc"
+      }
+    }
+  }
+]

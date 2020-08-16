@@ -1,0 +1,882 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q6FlZehgyLJNUyrbXeiXvGcIggw\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLjhPZmdHVUdQNFZj",
+    "snippet": {
+      "publishedAt": "2020-04-12T15:45:04.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "olc::PixelGameEngine 2.0",
+      "description": "I've added some significantly performance enhancing features to the olc::PixelGameEngine, as well as make it easier to port to other platforms.\n\nSource: https://github.com/OneLoneCoder/olcPixelGameEngine\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com\nCommunity: https://community.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8OfgGUGP4Vc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8OfgGUGP4Vc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8OfgGUGP4Vc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8OfgGUGP4Vc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8OfgGUGP4Vc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8OfgGUGP4Vc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qMuHni7Fi5CUZmEMDgpJMsZlfvc\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLmdTeS1ROTM4dm5N",
+    "snippet": {
+      "publishedAt": "2020-03-27T19:00:10.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "olc::BeatTheBoredom Game Jam Theme Reveal",
+      "description": "Join The Game Jam!\nhttps://itch.io/jam/olc-beat-the-boredom",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gSy-Q938vnM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gSy-Q938vnM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gSy-Q938vnM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gSy-Q938vnM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gSy-Q938vnM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gSy-Q938vnM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/G-PeAHCr8ocjONvhctoTrNzay8w\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLmowX3UyNlZwYjR3",
+    "snippet": {
+      "publishedAt": "2020-03-21T19:29:15.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "Forbidden C++",
+      "description": "The unimaginable evil of C++ is unleashed. Be afraid. Global Variables, Macros, Void*, Goto, Namespace STD, New & Delete, all the tools every C++ programmer needs... right?\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j0_u26Vpb4w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j0_u26Vpb4w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j0_u26Vpb4w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j0_u26Vpb4w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/j0_u26Vpb4w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "j0_u26Vpb4w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4-uCQpVP7jcEYkm1UJTsid_BoYA\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLjA0MEJLdG5EZGcw",
+    "snippet": {
+      "publishedAt": "2020-03-08T19:43:14.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "Programming MIDI",
+      "description": "In this video I explore the MIDI protocol and MIDI file format before implementing a MIDI file parser from scratch, visualising the MIDI contents and subsequently sending the MIDI to my synthesizer.\n\nSource: https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/Videos/OneLoneCoder_PGE_MIDI.cpp\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/040BKtnDdg0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/040BKtnDdg0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/040BKtnDdg0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/040BKtnDdg0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/040BKtnDdg0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "040BKtnDdg0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nCKOtlbay1HjsAn48_ne7o46hn8\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLkFBY0VrNXBXWFBZ",
+    "snippet": {
+      "publishedAt": "2020-02-23T23:03:53.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "NES Emulator Part #7: More About Mappers",
+      "description": "In this video, I look at how I've implemented NES Mappers 0, 1, 2, 3, 4 & 66 as part of my NES emulator. Given this is part #7 its presented in a different style, and assumes you have watched the previous episodes.\n\nSource: https://github.com/OneLoneCoder/olcNES/tree/master/Part%20%237%20-%20Mappers%20%26%20Basic%20Sounds\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com\nCommunity Blog: https://community.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AAcEk5pWXPY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AAcEk5pWXPY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AAcEk5pWXPY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AAcEk5pWXPY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AAcEk5pWXPY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AAcEk5pWXPY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K7yAtajqjyFlyFSymxfaMMPTQhU\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLmpkZTFKcTVkRjBF",
+    "snippet": {
+      "publishedAt": "2020-02-09T20:32:05.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "Programming a Retro Pop-Up Menu System",
+      "description": "Simplicity often masks Complexity in programming. This video shows an extremely easy to use, flexible pop-up menu system, but the engineering behind it is quite complicated in a nerdy, elegant way. I use maps, vectors, recursion, references and operator overloading to implement a retro-style, skinnable menu system.\n\nSource: https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/Videos/OneLoneCoder_PGE_RetroMenu.cpp\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jde1Jq5dF0E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jde1Jq5dF0E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jde1Jq5dF0E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jde1Jq5dF0E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jde1Jq5dF0E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jde1Jq5dF0E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WzS5ZOOA9oh4NqG4_YqOtB9G0Iw\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLlpaWTlZRTdyWkp3",
+    "snippet": {
+      "publishedAt": "2020-01-24T12:58:14.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "Procedural Generation: Programming The Universe",
+      "description": "In this video I look at how we can manipulate randomness to generate coherent and well formed structures on demand, which allows truly vast and complex resources to be created with no effort from a designer\n\nSource: https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/Videos/OneLoneCoder_PGE_ProcGen_Universe.cpp\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZZY9YE7rZJw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZZY9YE7rZJw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZZY9YE7rZJw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZZY9YE7rZJw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ka4_d0OBppujxehKWgiGV_i66gw\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLlEzbW9YWm9xQkVJ",
+    "snippet": {
+      "publishedAt": "2020-01-13T14:43:36.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "OLC 2020",
+      "description": "What fun we will have!\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q3moXZoqBEI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q3moXZoqBEI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q3moXZoqBEI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q3moXZoqBEI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q3moXZoqBEI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Q3moXZoqBEI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1Y5Dm2Hc9uF2CUgBdSNMp-iB3ng\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLkNxRGZaRVgwWWhj",
+    "snippet": {
+      "publishedAt": "2019-12-15T21:41:05.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "100K Live Party! Code-It-Yourself: SHMUP",
+      "description": "Prize Draw: https://forms.gle/2nCDsJyFh1QMXt2D7\n\nSource: https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/Videos/OneLoneCoder_PGE_ShootEmUp.cpp\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nPatreon: https://www.patreon.com/javidx9\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CqDfZEX0Yhc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CqDfZEX0Yhc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CqDfZEX0Yhc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CqDfZEX0Yhc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5cD2PazkUxeX8Ls9LlOqjnWQaUc\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLnRMZUtwNDhnaHFF",
+    "snippet": {
+      "publishedAt": "2019-12-07T13:02:50.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "OLC 100K Rewind & Party Invite",
+      "description": "It's been a brilliant year! Let's celebrate with a live coding party! 15th December 2019 at 1900 GMT, here on YouTube. Thanks for all your support this year!\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tLeKp48ghqE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tLeKp48ghqE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tLeKp48ghqE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tLeKp48ghqE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tLeKp48ghqE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tLeKp48ghqE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W6i7KVqkR__ybQdOHiEI_RrHgck\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLlgxT0xFVEZyd0ZJ",
+    "snippet": {
+      "publishedAt": "2019-11-21T20:25:36.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "Community Showcase 2019",
+      "description": "All I can say is wow...\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X1OLETFrwFI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X1OLETFrwFI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X1OLETFrwFI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X1OLETFrwFI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X1OLETFrwFI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "X1OLETFrwFI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0VxylMBiarBScjwH3KBK8QT3_FQ\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLjcyZEk3ZEIzWnZR",
+    "snippet": {
+      "publishedAt": "2019-11-08T21:22:13.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "NES Emulator Part #6: APU - Sounds, Beeps & Bloops",
+      "description": "In this video I look at how to start adding audio to the NES emulation. But before I can, I show an example of how to use the audio framework within the olcPixelGameEngine. Ultimately, adding audio requires a significant shift in thinking about how to control timing in emulations, and I end with some really horrible and yet still fantastic noise!\n\nSource: Coming Very Soon!\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/72dI7dB3ZvQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/72dI7dB3ZvQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/72dI7dB3ZvQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/72dI7dB3ZvQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/72dI7dB3ZvQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "72dI7dB3ZvQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IH4CesZ8oyf4Oo6nM4imDke27s0\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLnVra2JOS1RnZjVV",
+    "snippet": {
+      "publishedAt": "2019-10-19T16:02:33.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "Coding Quickie: Isometric Tiles",
+      "description": "Isometric Tile Map Rendering adds a lovely sense of depth to what is a static 2D construction. IN this video I show how to render and select cells in an isometric world.\n\nSource: https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/Videos/OneLoneCoder_PGE_IsometricTiles.cpp\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ukkbNKTgf5U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ukkbNKTgf5U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ukkbNKTgf5U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ukkbNKTgf5U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ukkbNKTgf5U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ukkbNKTgf5U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SpG1YLk3fY696uHXCuYl0mI-Ljg\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLmNrc3l3VVRaeGxZ",
+    "snippet": {
+      "publishedAt": "2019-10-04T23:33:03.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "NES Emulator Part #5: PPU - Foreground Rendering",
+      "description": "In this video I explore how sprites are rendered by the picture processing unit, add controller input. Finally, we can actually play some NES games!\n\nSource: https://github.com/OneLoneCoder/olcNES\n\nPatreon: https://www.patreon.com/javidx9\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cksywUTZxlY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cksywUTZxlY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cksywUTZxlY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cksywUTZxlY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cksywUTZxlY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cksywUTZxlY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uXOhsWSgjA64POg7oKefmK3scB4\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLi1USGVVWHFSM3pZ",
+    "snippet": {
+      "publishedAt": "2019-09-21T00:51:35.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "NES Emulator Part #4: PPU - Background Rendering",
+      "description": "In this part I look at pixels, palettes, nametables, patterns, scanlines, frames, scrolling and video memory addressing. It's a good chunk of the PPU out of the way!\n\nSource: https://github.com/OneLoneCoder/olcNES\n\nPatreon: https://www.patreon.com/javidx9\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-THeUXqR3zY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-THeUXqR3zY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-THeUXqR3zY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-THeUXqR3zY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-THeUXqR3zY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-THeUXqR3zY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/m8zh7S_hkkxWWm4Q-Xset4JYs1I\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLnhkek92cFlQbUdF",
+    "snippet": {
+      "publishedAt": "2019-09-06T22:21:04.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "NES Emulator Part #3: Buses, RAMs, ROMs & Mappers",
+      "description": "In this video I explain how I've \"glued\" together the different components of my NES emulation, looking at how the cartridge is loaded, and how the CPU and other devices interact with each other in a flexible way, through the use of Mappers.\n\nSource: https://github.com/OneLoneCoder/olcNES\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nPatreon: https://www.patreon.com/javidx9\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xdzOvpYPmGE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xdzOvpYPmGE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xdzOvpYPmGE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xdzOvpYPmGE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xdzOvpYPmGE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xdzOvpYPmGE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8YE5rxh--8uzCnAsoHTHD3OTznU\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLjNSRHcwZjU1UzRB",
+    "snippet": {
+      "publishedAt": "2019-08-28T16:50:15.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "olcCodeJam2019 Announcement",
+      "description": "Register & Take Part here: https://itch.io/jam/olc-codejam-2019\n\nLast Year's Results: https://youtu.be/dgtqdBJfU-c\nand https://youtu.be/r6krD2oqNb0\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nPatreon: https://www.patreon.com/javidx9\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3RDw0f55S4A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3RDw0f55S4A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3RDw0f55S4A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3RDw0f55S4A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3RDw0f55S4A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3RDw0f55S4A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YkR0hDEnL-QB4-H2nHwtWUVbylw\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLjhYbXhLUEpER1Uw",
+    "snippet": {
+      "publishedAt": "2019-08-24T13:39:33.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "NES Emulator Part #2: The CPU (6502 Implementation)",
+      "description": "In this video I build a 6502 emulation in C++. I pay close attention to the instructions that can cause problems, ADC and SBC. Then I build a lightweight application to analyze running 6502 programs.\n\nSource: https://github.com/OneLoneCoder/olcNES\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nPatreon: https://www.patreon.com/javidx9\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8XmxKPJDGU0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8XmxKPJDGU0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8XmxKPJDGU0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8XmxKPJDGU0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8XmxKPJDGU0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8XmxKPJDGU0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/69wpB4q02Nx4m6wadX_ccczVUuE\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLkY4a3g1Nk9aUWhn",
+    "snippet": {
+      "publishedAt": "2019-08-09T17:58:12.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "NES Emulator Part #1: Bitwise Basics & Overview",
+      "description": "I've always wanted to do this. Let's make an 8-bit console emulator!\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nPatreon: https://www.patreon.com/javidx9\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F8kx56OZQhg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F8kx56OZQhg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F8kx56OZQhg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/F8kx56OZQhg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/F8kx56OZQhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "F8kx56OZQhg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IiPuK3HLmihNaf3FdGDlzD2yJho\"",
+    "id": "VVUteXVXVlVwbFVKWnZpZUVsaWdLQmtBLm5WaVpnMDJJTVFv",
+    "snippet": {
+      "publishedAt": "2019-07-26T21:49:24.000Z",
+      "channelId": "UC-yuWVUplUJZvieEligKBkA",
+      "title": "Coming Soon...",
+      "description": "I've taken 3 months to work on something very close to my heart...\n\nYouTube: https://www.youtube.com/javidx9\n  https://www.youtube.com/javidx9extra\nDiscord: https://discord.gg/WhwHUMV\nTwitter: https://www.twitter.com/javidx9\nTwitch: https://www.twitch.tv/javidx9\nGitHub: https://www.github.com/onelonecoder\nPatreon: https://www.patreon.com/javidx9\nHomepage: https://www.onelonecoder.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nViZg02IMQo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nViZg02IMQo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nViZg02IMQo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nViZg02IMQo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nViZg02IMQo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "javidx9",
+      "playlistId": "UU-yuWVUplUJZvieEligKBkA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nViZg02IMQo"
+      }
+    }
+  }
+]

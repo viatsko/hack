@@ -1,0 +1,882 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OjLOMwbEWMfMsJMo6HntJGxMHDU\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLnBvUVhOcDlJdEw0",
+    "snippet": {
+      "publishedAt": "2020-04-18T00:58:21.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Redux Tutorial - Learn Redux from Scratch",
+      "description": "Redux tutorial - Learn redux from scratch. \n🚀Get the full Redux course: https://codewithmosh.com/p/ultimate-redux\n👍Subscribe for more tutorials like this: https://goo.gl/6PYaGF\n\nYou might also like: \n\nReact Tutorial for Beginners: \nhttps://youtu.be/Ke90Tje7VS0\n\nJavaScript Tutorial for Beginners: \nhttps://youtu.be/W6NZfCO5SIk\n\nAngular Tutorial for Beginners: \nhttps://youtu.be/k5E2AVpwsko\n\n\n\nTABLE OF CONTENT \n\n0:00:00 Introduction\n0:01:02 What is Redux?\n0:03:20 Pros and Cons of Redux\n0:08:49 Is Redux for You?\n0:11:18 Setting Up the Development Environment \n0:13:07 Course Structure\n0:15:32 Function Programming \n0:15:59 What is Functional Programming? \n0:17:25 Functions as First-Class Citizens\n0:20:33 Higher-order Functions\n0:22:06 Functional Composition\n0:25:45 Composing and Piping\n0:28:08 Currying\n0:34:17 Pure Functions\n0:37:08 Immutability\n0:41:22 Updating Objects\n0:45:56 Updating Arrays\n0:49:51 Enforcing Immutability\n0:50:56 Immutable.js\n0:54:36 Immer\n0:57:30 Redux Intro\n0:57:55 Redux Architecture\n1:02:58 Your First Redux Application\n1:04:43 Designing the Store\n1:06:10 Defining the Actions\n1:09:37 Creating a Reducer\n1:15:50 Creating the Store\n1:17:16 Dispatching Actions \n1:20:02 Subscribing to the Store \n1:22:10 Action Types\n1:26:03 Action Creators\n1:29:01 Exercise\n1:29:18 Solution\n\n\nCONNECT WITH ME\n\nMy Courses: http://codewithmosh.com\nMy Blog: http://programmingwithmosh.com\nMy Facebook: https://www.facebook.com/programmingwithmosh\nMy Twitter: https://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/poQXNp9ItL4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/poQXNp9ItL4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/poQXNp9ItL4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/poQXNp9ItL4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/poQXNp9ItL4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "poQXNp9ItL4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_uTzREDWHJ6Jcb8vXWYWUb8bq5Q\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLjdwWVFOb2ZUUDJn",
+    "snippet": {
+      "publishedAt": "2020-04-06T16:00:09.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Simple Curations with Kurator",
+      "description": "Sign up: \nhttps://optimalaccess.com/kurator-promotion/?utm_source=mosh&utm_medium=youtube&utm_campaign=kurator",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7pYQNofTP2g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7pYQNofTP2g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7pYQNofTP2g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7pYQNofTP2g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7pYQNofTP2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7pYQNofTP2g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IjzKndOYV5cIgpFZgxYsMr4YZ9E\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLmJqRnZjRmpKcEUw",
+    "snippet": {
+      "publishedAt": "2020-01-13T17:00:11.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Top Programming Languages in 2020",
+      "description": "The top programming languages in 2020. If you're looking for a job in AI or web or mobile development, this video is for you.\n👍Subscribe for more tutorials like this: https://goo.gl/6PYaGF\n\nMY FULL COURSES\n\nThe Complete Python Programming Course: http://bit.ly/35BLHHP\nThe Ultimate Java Series: http://bit.ly/2tKoy8C\nThe Ultimate Full-stack JavaScript Developer: http://bit.ly/2Ncpc5F\nJavaScript Basics for Beginners: http://bit.ly/2KZea52\n\n\nMY YOUTUBE TUTORIALS\n\nPython Tutorial for Beginners: https://youtu.be/_uQrJ0TkZlc\nJava Tutorial for Beginners: https://youtu.be/eIrMbAQSU34\nJavaScript Tutorial for Beginners: https://youtu.be/W6NZfCO5SIk\n\n\nCONNECT WITH ME\n\nBlog: http://programmingwithmosh.com\nFacebook: https://www.facebook.com/programmingwithmosh/\nTwitter: https://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bjFvcFjJpE0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9u0xxO5vsI7rvm96_qUn-tkXmy0\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLk5VXzFTdE41VGtr",
+    "snippet": {
+      "publishedAt": "2020-01-06T17:00:07.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Design Patterns in Plain English | Mosh Hamedani",
+      "description": "Design Patterns tutorial explained in simple words using real-world examples. \n🔥Pre-order the full course for $30 (regular price $149): https://bit.ly/2SZxfGM\n👍Subscribe for more tutorials like this: https://goo.gl/6PYaGF\n\nJava Tutorial for Beginners: \nhttps://youtu.be/eIrMbAQSU34\n\nTABLE OF CONTENT \n\n0:00:00 Introduction\n0:01:40 What are Design Patterns? \n0:04:15 How to Take This Course \n0:05:50 The Essentials\n0:06:53 Getting Started with Java \n0:09:23 Classes\n0:13:34 Coupling\n0:15:34 Interfaces\n0:21:17 Encapsulation\n0:26:25 Abstraction\n0:30:33 Inheritance\n0:32:55 Polymorphism\n0:36:42 UML\n0:40:52 Memento Pattern\n0:42:43 Solution\n0:48:31 Implementation\n0:54:22 State Pattern\n0:59:46 Solution\n1:02:59 Implementation\n1:09:31 Abusing the Design Patterns \n1:11:18 Abusing the State Pattern \n\nCONNECT WITH ME\n\nMy Courses: http://codewithmosh.com\nMy Blog: http://programmingwithmosh.com\nMy Facebook: https://www.facebook.com/programmingwithmosh/\nMy Twitter: https://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NU_1StN5Tkk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NU_1StN5Tkk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NU_1StN5Tkk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NU_1StN5Tkk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/f0zmH76a_TM-R-gS_Q7kgAqjtHI\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLjhUbkJaOHJvbTlj",
+    "snippet": {
+      "publishedAt": "2020-01-02T18:11:30.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Why I Left My Job as a Senior Software Engineer | Mosh Hamedani",
+      "description": "Here's my story in 2 minutes. Watch this video to see why I quit my job as a senior software engineer.\n👍Subscribe for more videos: https://goo.gl/6PYaGF\n🚀My courses: http://codewithmosh.com \n\nCONNECT WITH ME\n\nCourses: http://codewithmosh.com\nBlog: http://programmingwithmosh.com\nFacebook: https://www.facebook.com/programmingwithmosh/\nTwitter: https://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8TnBZ8rom9c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8TnBZ8rom9c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8TnBZ8rom9c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8TnBZ8rom9c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8TnBZ8rom9c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8TnBZ8rom9c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/97GlMZo5ThxX0LyzSqw04egc6t8\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLlFBczI1X2hNaFpZ",
+    "snippet": {
+      "publishedAt": "2019-12-25T20:22:29.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Jingle Bells Piano (Jazz) | Christmas Music",
+      "description": "Enjoy this Jazzy version of Jingle Bells. \nArranged by: Jacob Koller",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QAs25_hMhZY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QAs25_hMhZY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QAs25_hMhZY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QAs25_hMhZY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QAs25_hMhZY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QAs25_hMhZY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bBVFH1nW3MeGRI-_hu8uaAjkn0Y\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLnE0TUVLVFZ4ZzBj",
+    "snippet": {
+      "publishedAt": "2019-12-16T04:48:49.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Mosh's Christmas Present to You (2019)",
+      "description": "🔥FINAL HOURS - Access my 26 courses + all the courses coming out next year for $99. The price will go up to $199 tomorrow. Subscribe now: http://bit.ly/2RXrHfs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q4MEKTVxg0c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q4MEKTVxg0c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q4MEKTVxg0c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q4MEKTVxg0c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q4MEKTVxg0c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "q4MEKTVxg0c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yJXd7TOl4okkXhD3St85LGd1A8E\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLkJCcEFteFVfTlFv",
+    "snippet": {
+      "publishedAt": "2019-12-10T17:00:02.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Data Structures and Algorithms in Java",
+      "description": "Data Structures and Algorithms made simple. Learn all about Big O Notation, Arrays, and Linked Lists. \n👍Subscribe for more Data Structure tutorials like this: https://goo.gl/6PYaGF\n💥Get my Ultimate Data Structures bundle with a discount (limited time): https://codewithmosh.com/p/data-structures-algorithms\n\nJava Tutorial for Beginners: \nhttps://youtu.be/eIrMbAQSU34\n\n\nTABLE OF CONTENT\n\n0:00:00 Intro\n0:01:04 What is Big O?\n0:03:03 O(1)\n0:04:32 O(n)\n0:08:17 O(n^2)\n0:10:41 O(log n)\n0:13:20 O(2^n)\n0:14:10 Space Complexity\n0:17:53 Understanding Arrays\n0:21:03 Working with Arrays\n0:24:32 Exercise: Building an Array \n0:27:24 Solution: Creating the Array Class \n0:30:43 Solution: insert()\n0:35:03 Solution: remove()\n0:39:54 Solution: indexOf()\n0:42:23 Dynamic Arrays\n0:46:11 Linked Lists Introduction\n0:46:41 What are Linked Lists?\n0:51:16 Working with Linked Lists \n0:54:40 Exercise: Building a Linked List \n0:56:05 Solution: addLast()\n1:02:15 Solution: addFirst()\n1:04:28 Solution: indexOf()\n1:06:23 Solution: contains()\n1:07:28 Solution: removeFirst()\n1:11:52 Solution: removeLast()\n\n#Programming #ComputerScience\n\nCONNECT WITH ME\n\nMy Courses: http://codewithmosh.com\nMy Blog: http://programmingwithmosh.com\nMy Facebook: https://www.facebook.com/programmingwithmosh/\nMy Twitter: https://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BBpAmxU_NQo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BBpAmxU_NQo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BBpAmxU_NQo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BBpAmxU_NQo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BBpAmxU_NQo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BBpAmxU_NQo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EciSbowr4HAR55b67BNGirqPkaM\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLmNpZmlyeTh5b2Fv",
+    "snippet": {
+      "publishedAt": "2019-09-07T19:46:52.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "New Course: Data Structures & Algorithms [Part 2]",
+      "description": "Get the course with a discount: \nPart 1: http://bit.ly/31PqOY1\nPart 2: http://bit.ly/2k0LlIS",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cifiry8yoao/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cifiry8yoao/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cifiry8yoao/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cifiry8yoao/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cifiry8yoao/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cifiry8yoao"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iHSHI6R0igDZXt1sZhorfTqavW8\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLlhCb1pQQ2dkbm04",
+    "snippet": {
+      "publishedAt": "2019-08-20T18:04:34.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "New Course: Data Structures and Algorithms Course",
+      "description": "Get the course with a discount: \nPart 1: http://bit.ly/31PqOY1\nPart 2: http://bit.ly/2k0LlIS",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XBoZPCgdnm8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XBoZPCgdnm8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XBoZPCgdnm8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XBoZPCgdnm8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XBoZPCgdnm8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XBoZPCgdnm8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LYr1aw1b6meK08aJUNpNqiAa6Zg\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLmVJck1iQVFTVTM0",
+    "snippet": {
+      "publishedAt": "2019-07-15T16:00:12.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Java Tutorial for Beginners [2019]",
+      "description": "Java tutorial for beginners - Learn Java, the language behind millions of apps and websites. \n🔥Get the full course for $49 (reg price $147) - LIMITED TIME: http://bit.ly/2tKoy8C\n👍Subscribe for more Java tutorials like this: https://goo.gl/6PYaGF\n\n📕Get My FREE #Java Cheat Sheet:\nhttp://bit.ly/2JNlQnw\n\nTABLE OF CONTENTS \n\n0:00:00 Introduction \n0:01:46 Installing Java\n0:03:59 Anatomy of a Java Program \n0:08:41 Your First Java Program \n0:15:59 Cheat Sheet \n0:16:29 How Java Code Gets Executed \n0:22:54 Course Structure\n0:25:22 Types\n0:25:57 Variables\n0:29:07 Primitive Types\n0:34:27 Reference Types\n0:39:15 Primitive Types vs Reference Types \n0:43:39 Strings\n0:50:42 Escape Sequences \n0:53:22 Arrays\n0:58:47 Multi-Dimensional Arrays \n1:01:23 Constants\n1:03:15 Arithmetic Expressions \n1:07:18 Order of Operations \n1:08:40 Casting\n1:15:08 The Math Class \n1:19:50 Formatting Numbers \n1:25:40 Reading Input\n1:30:45 Project: Mortgage Calculator \n1:32:55 Solution: Mortgage Calculator \n1:37:14 Types Summary\n1:38:43 Control Flow \n1:39:30 Comparison Operators \n1:41:16 Logical Operators\n1:45:52 If Statements\n1:50:18 Simplifying If Statements \n1:53:47 The Ternary Operator\n1:56:16 Switch Statements\n2:00:07 Exercise: FizzBuzz\n2:06:05 For Loops\n2:09:53 While Loops\n2:14:19 Do...While Loops\n2:15:36 Break and Continue\n2:18:52 For-Each Loop\n2:21:59 Project: Mortgage Calculator \n2:23:27 Solution: Mortgage Calculator \n2:28:28 Control Flow Summary \n2:29:25 Clean Coding\n\n#Programming\n\nCONNECT \n\nCourses: http://codewithmosh.com\nBlog: http://programmingwithmosh.com\nFacebook: https://www.facebook.com/programmingwithmosh/\nTwitter: https://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eIrMbAQSU34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eIrMbAQSU34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eIrMbAQSU34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eIrMbAQSU34/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eIrMbAQSU34/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eIrMbAQSU34"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9Rqepb4Dc6RD3WPGr2ulEVWaDWk\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLmk4eHNiWWdNaUJz",
+    "snippet": {
+      "publishedAt": "2019-05-09T21:08:25.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "React vs Angular vs Vue: What to Choose for Your Next Project",
+      "description": "React vs Angular vs Vue:  What is the best JavaScript framework in 2019? This video answers your questions. \n🔥Get my Complete React Course with a big discount (limited to the first 200 students): \nhttps://programmingwithmosh.com/courses/react\n\nHere are my other YouTube tutorials: \nLearn React: https://youtu.be/Ke90Tje7VS0\nJavaScript for React Developers: https://youtu.be/NCwa_xi0Uuc\nJavaScript for Beginners: https://youtu.be/W6NZfCO5SIk\nLearn Angular: https://youtu.be/k5E2AVpwsko\n\n👍Subscribe for more videos like this: https://goo.gl/6PYaGF\n\nThese days we have plenty of JavaScript frameworks and libraries for front end development. React, Angular and Vue are the top three that are used in most organizations around the world. If you're wondering whether you should learn #React, #Angular or #Vue for web development in 2019, this video can help. We'll look at each of these frameworks, their history, learning curve, stability, and ecosystem, and then I'll tell you what JavaScript framework or library to use for your next project. \n\nStay in Touch:\nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani\nhttp://programmingwithmosh.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i8xsbYgMiBs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i8xsbYgMiBs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i8xsbYgMiBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i8xsbYgMiBs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i8xsbYgMiBs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "i8xsbYgMiBs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UJ_fNSrOK9c7BMziHH1nr4OtFtY\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLnBFYkloVXlTcWJr",
+    "snippet": {
+      "publishedAt": "2019-04-17T16:00:06.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "React vs Angular vs Vue: What to Learn to Get a Front-end Job in 2019",
+      "description": "What is the best JavaScript framework/library that everybody is learning in 2019? React, Angular or Vue? Watch this video to find out. \nHere are my other YouTube tutorials: \nLearn React: https://youtu.be/Ke90Tje7VS0\nJavaScript for React Developers: https://youtu.be/NCwa_xi0Uuc\nJavaScript for Beginners: https://youtu.be/W6NZfCO5SIk\nLearn Angular: https://youtu.be/k5E2AVpwsko\n\n🔥Get my Complete React Course with a big discount (limited to the first 200 students): \nhttps://programmingwithmosh.com/courses/react\n\n👍Subscribe for more videos like this: https://goo.gl/6PYaGF\n\nThese days we have plenty of JavaScript frameworks and libraries for front end development. React, Angular and Vue are the top three that are used in most organizations around the world. If you're wondering whether you should learn #React, #Angular or #Vue for web development in 2019, this video can help. We'll look at each of these frameworks, their history, learning curve, and job market and then I'll tell you what framework to learn if you're looking for a front-end development job in 2019. \n\nStay in Touch:\nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani\nhttp://programmingwithmosh.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pEbIhUySqbk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pEbIhUySqbk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pEbIhUySqbk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pEbIhUySqbk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pEbIhUySqbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pEbIhUySqbk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EuNWBthIqM1XitQTyFNpc1jruc0\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLjdTX3R6MXpfNWJB",
+    "snippet": {
+      "publishedAt": "2019-03-20T00:50:32.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "MySQL Tutorial for Beginners [2019] - Full Course",
+      "description": "MySQL tutorial for beginners - Learn MySQL for web development \n🔥Get the full course for $29 (reg price $149) - LIMITED TIME: http://bit.ly/2uAoPM3\n👍Subscribe for more SQL tutorials like this: https://goo.gl/6PYaGF\n\n📕Get my FREE SQL cheat sheet: \nhttp://bit.ly/2JCO73l\n\n📔Scripts to create the databases in this course:\nhttp://bit.ly/2LNdvCd\n\nTABLE OF CONTENT\n\n0:00:00 Introduction\n0:01:02 What is SQL?\n0:04:24 Cheat Sheet\n0:04:50 Installing MySQL on Mac\n0:09:48 Installing MySQL on Windows\n0:15:08 Creating the Databases for this Course \n0:23:40 The SELECT Statement\n0:29:30 The SELECT Clause\n0:38:18 The WHERE Clause\n0:43:35 The AND, OR, and NOT Operators \n0:51:38 The IN Operator\n0:54:41 The BETWEEN Operator\n0:56:53 The LIKE Operator\n1:02:31 The REGEXP Operator\n1:11:51 The IS NULL Operator\n1:14:18 The ORDER BY Operator\n1:21:23 The LIMIT Operator\n1:24:50 Inner Joins\n1:33:16 Joining Across Databases\n1:36:03 Self Joins\n1:40:17 Joining Multiple Tables\n1:47:03 Compound Join Conditions\n1:50:44 Implicit Join Syntax\n1:53:04 Outer Joins\n1:59:31 Outer Join Between Multiple Tables \n2:05:50 Self Outer Joins\n2:08:02 The USING Clause\n2:13:25 Natural Joins\n2:14:46 Cross Joins\n2:18:01 Unions\n2:26:29 Column Attributes\n2:29:54 Inserting a Single Row \n2:35:40 Inserting Multiple Rows \n2:38:58 Inserting Hierarchical Rows \n2:44:51 Creating a Copy of a Table \n2:53:38 Updating a Single Row \n2:57:33 Updating Multiple Rows \n3:00:47 Using Subqueries in Updates \n3:06:24 Deleting Rows\n3:07:48 Restoring Course Databases\n\nIf you're looking for a complete SQL tutorial for beginners with examples, this tutorial is a great way to learn SQL basics. Just follow through and you'll be able to write SQL queries in no time. \n\nSQL, short for Structured Query Language, is a language used by software developers, data scientists and anyone who works with data. With SQL, you can store data in relational databases and write queries to extract valuable information. \n\nThere are various database management systems (DBMS) that support SQL but each product has its own implementation of SQL. In this course, we'll be using MySQL to learn SQL. MySQL is the most popular free and open-source database management system in the world. If you use a different DBMS (eg SQL Server), you can still benefit from this course as 90% of the skills you'll learn in this course can be transferred to other database management systems. \n\nStay in Touch:\nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani\nhttp://programmingwithmosh.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7S_tz1z_5bA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7S_tz1z_5bA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7S_tz1z_5bA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7S_tz1z_5bA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7S_tz1z_5bA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oCJPSVZ1DsJnoiKjOYI3l3iaqRg\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLl91UXJKMFRrWmxj",
+    "snippet": {
+      "publishedAt": "2019-02-18T15:00:08.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python Tutorial for Beginners [Full Course] Learn Python for Web Development",
+      "description": "Python tutorial for beginners - Learn Python for machine learning and web development. \n🔥Get my Complete Python Programming Course for $29 (reg price $149) - LIMITED TIME: http://bit.ly/35BLHHP\n\n📕Get My FREE Python Cheat Sheet:\nhttp://bit.ly/2Gp80s6\n\n👍Subscribe for more Python tutorials like this: https://goo.gl/6PYaGF\n\n#Python, #MachineLearning, #WebDevelopment\n\n\n🔗Supplementary Materials (Spreadsheet):\nhttp://bit.ly/30PPkaC\n\n\n📔Python Exercises for Beginners\nhttps://goo.gl/1XnQB1\n\n\n⭐My Favorite Python Books\n- Python Crash Course: https://amzn.to/2GqMdjG\n- Automate the Boring Stuff with Python: https://amzn.to/2N71d6S\n- A Smarter Way to Learn Python: https://amzn.to/2UZa6lE\n- Machine Learning for Absolute Beginners: https://amzn.to/2Gs0koL\n- Hands-on Machine Learning with scikit-learn and TensorFlow: https://amzn.to/2IdUuJy\n\n\nTABLE OF CONTENT\n\n00:00:00 Introduction\n00:01:49 Installing Python 3\n00:06:10 Your First Python Program\n00:08:11 How Python Code Gets Executed \n00:11:24 How Long It Takes To Learn Python \n00:13:03 Variables\n00:18:21 Receiving Input\n00:22:16 Python Cheat Sheet\n00:22:46 Type Conversion\n00:29:31 Strings\n00:37:36 Formatted Strings\n00:40:50 String Methods\n00:48:33 Arithmetic Operations\n00:51:33 Operator Precedence\n00:55:04 Math Functions\n00:58:17 If Statements\n01:06:32 Logical Operators\n01:11:25 Comparison Operators\n01:16:17 Weight Converter Program \n01:20:43 While Loops\n01:24:07 Building a Guessing Game\n01:30:51 Building the Car Game\n01:41:48 For Loops\n01:47:46 Nested Loops\n01:55:50 Lists\n02:01:45 2D Lists\n02:05:11 My Complete Python Course \n02:06:00 List Methods\n02:13:25 Tuples\n02:15:34 Unpacking\n02:18:21 Dictionaries\n02:26:21 Emoji Converter\n02:30:31 Functions\n02:35:21 Parameters\n02:39:24 Keyword Arguments \n02:44:45 Return Statement\n02:48:55 Creating a Reusable Function \n02:53:42 Exceptions\n02:59:14 Comments\n03:01:46 Classes\n03:07:46 Constructors\n03:14:41 Inheritance\n03:19:33 Modules\n03:30:12 Packages\n03:36:22 Generating Random Values\n03:44:37 Working with Directories \n03:50:47 Pypi and Pip\n03:55:34 Project 1: Automation with Python\n04:10:22 Project 2: Machine Learning with Python \n04:58:37 Project 3: Building a Website with Django \n\n\nStay in Touch:\nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani\nhttp://programmingwithmosh.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_uQrJ0TkZlc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-fjFpTpkET6a3kYnYDdfq6z40so\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLnIxNlJuNF9qRGZr",
+    "snippet": {
+      "publishedAt": "2019-01-08T21:43:10.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "How to Learn to Code and Make $60k+ a Year (in 2019)",
+      "description": "Wondering how to learn to code? What programming languages to learn in 2019? Watch this video to find out. \nPython tutorial for beginners: https://youtu.be/_uQrJ0TkZlc\n\nThis video answers the frequently asked questions by beginners who want to learn how to code fast:\n\n- What you need to learn to code\n- What programming languages you should learn \n- Where to learn to code\n- Why colleges are a waste of time \n- How long it takes to learn programming and get a job\n- How to prepare for programming job interviews \n\n🔥Subscribe for more tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n\nLEARNING RESOURCES\nLearn how to code with Python: \nhttps://youtu.be/_uQrJ0TkZlc\n\nAsk your questions here: \nhttp://stackoverflow.com \n \nPython exercises for beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\n\nPREPARING FOR JOBS \nUpload your code to http://github.com \n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "r16Rn4_jDfk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DE8Nyy4w2yOW25Nt0Pq7lTx-Ako\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLnozLVhGSV9uWE5N",
+    "snippet": {
+      "publishedAt": "2018-11-19T15:00:12.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python Practice - Interview Question - Fizz Buzz | Mosh",
+      "description": "Fizz buzz is a popular Python interview question. Watch this video and practice Python.\n\n🔥Subscribe for more Python tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n🔥Python for Beginners Tutorial: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z3-XFI_nXNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z3-XFI_nXNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z3-XFI_nXNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z3-XFI_nXNM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z3-XFI_nXNM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "z3-XFI_nXNM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/57G81i4oinlpIbJl4JcnpBAz8UQ\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLk9EakZEWkNfVHlB",
+    "snippet": {
+      "publishedAt": "2018-11-04T00:30:00.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python Exercises for Beginners - Exercise #1",
+      "description": "Looking for Python practices to learn Python better? Watch this video to practice Python. \n🔥Subscribe for more Python tutorials like this: https://goo.gl/SjXTT7\n🔥Python tutorial for beginners: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ODjFDZC_TyA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ODjFDZC_TyA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ODjFDZC_TyA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ODjFDZC_TyA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ODjFDZC_TyA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ODjFDZC_TyA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Zoo_lR_p32V1uYz6PDv7Hn8UPJ0\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLk5LbWFzcXJfWGt3",
+    "snippet": {
+      "publishedAt": "2018-11-13T15:00:02.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "Python Stacks - Python Tutorial for Absolute Beginners | Mosh",
+      "description": "Learn how to use stacks in Python. \n\n🔥Subscribe for more Python tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n🔥Python for Beginners Tutorial: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NKmasqr_Xkw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WkdoTmJaD_ftsBMFL_ACacJZGBg\"",
+    "id": "VVVXdjd2TWJNV0g0LVYwWlhkbURwUEJBLnQ5ajhsQ1VHWlhv",
+    "snippet": {
+      "publishedAt": "2018-11-14T15:00:05.000Z",
+      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "title": "What are Sets in Python? Python Tutorial for Absolute Beginners | Mosh",
+      "description": "What are sets in Python? How to use sets in Python? This Python tutorial explains it. \n\n🔥Subscribe for more Python tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n🔥Python for Beginners Tutorial: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t9j8lCUGZXo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t9j8lCUGZXo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t9j8lCUGZXo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t9j8lCUGZXo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t9j8lCUGZXo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programming with Mosh",
+      "playlistId": "UUWv7vMbMWH4-V0ZXdmDpPBA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "t9j8lCUGZXo"
+      }
+    }
+  }
+]

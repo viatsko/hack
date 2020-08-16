@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6zzc6a8H3HTa7U0XlXcedkDMBXU\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LlV2NUpwNjRvM1Nj",
+    "snippet": {
+      "publishedAt": "2020-03-26T01:52:29.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Xamarin Mobile Development for ASP.NET Developers",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nDo you write ASP.NET Core websites? Ever been curious about mobile? In this talk, Luce will introduce you to Xamarin, allowing you to see how your love of C# can be used to bring native experiences to a device millions use every day. With side-by-side feature implementation comparisons and a guide to what you get from File, New, by the end of this talk you should feel more empowered to give it a go!\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Xamarin #ASPNET #DotNetConf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Uv5Jp64o3Sc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Uv5Jp64o3Sc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Uv5Jp64o3Sc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Uv5Jp64o3Sc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Uv5Jp64o3Sc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Uv5Jp64o3Sc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3yAtb78-FbPY9d_UQAGt_wyvK90\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LlRjYzFLd1J0S3FV",
+    "snippet": {
+      "publishedAt": "2020-03-26T02:24:21.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Developing Dual-screen Experiences with Xamarin",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nJoin Guy and David as they show off how to get started with Xamarin and building dual-screen experiences for Windows 10x dual-screen devices and Surface Duo with Xamrain.Forms.\n\nThey will talk through new controls and APIs just released to help you build beautiful experiences for these devices.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#DualScreen #Xamarin #DotNetConf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Tcc1KwRtKqU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Tcc1KwRtKqU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Tcc1KwRtKqU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Tcc1KwRtKqU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Tcc1KwRtKqU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Tcc1KwRtKqU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nx9XBm2EJy_t0p6HanEEy-3ZJZM\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LnFyQ0JOM0pVYXNn",
+    "snippet": {
+      "publishedAt": "2020-03-26T03:33:49.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Developing Performant Xamarin Apps",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nDon't let your app fall into potential performance traps!  In this session, we'll learn how to avoid common issues and make good decisions when architecting your app. We'll discuss different techniques to handle performance issues and some tips on avoiding them.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Xamarin #DotNetConf #Performance",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qrCBN3JUasg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qrCBN3JUasg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qrCBN3JUasg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qrCBN3JUasg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qrCBN3JUasg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qrCBN3JUasg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xERIuGUfRLitKE7yEaU9SO3u11Q\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LlQ0WGFvWFd6Y1FF",
+    "snippet": {
+      "publishedAt": "2020-03-26T03:22:16.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Stitching Together a Mobile Backend for Your App",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nThere are so many questions about mobile cloud development that it can make your head spin! How does compute fit in with data and how does that integrate with identity? What is compute anyway? And what about that cool real-time stuff, how do I do that?\n\nThis session is going to give you a whirlwind tour of how you can make use of several different Azure services to build out a pretty sweet mobile backend.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Xamarin #DotNetConf #BackendServices",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T4XaoXWzcQE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T4XaoXWzcQE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T4XaoXWzcQE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T4XaoXWzcQE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/T4XaoXWzcQE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "T4XaoXWzcQE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VFsHvhENmx66VBIHFWwklZIDapk\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LmFYaWRvcGFCNDZv",
+    "snippet": {
+      "publishedAt": "2020-03-26T03:13:23.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Developing Accessible Xamarin Apps",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nAs you know Xamarin and Xamarin.Forms are the best way to delivery beautiful performant cross-platform apps using all the power of the .NET platform, but what about impacting all audiences?\n\nIt's not a surprise, but Xamarin also helps you delivery totally accessible apps out-of-the-box as using platform native controls as making easier to use the platform specific APIs to achieve rich User Interfaces designed to all kind of disabilities.\n\nIn this session I'll show all this possibility and guide you in the right direction of making awesome accessible apps.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Xamarin #DotNetConf #Accessibility",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aXidopaB46o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aXidopaB46o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aXidopaB46o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aXidopaB46o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aXidopaB46o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "aXidopaB46o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lgsmouEY5ZQRWm8XHcLiD-yaMZo\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LnlqOVBkWVh5M1pV",
+    "snippet": {
+      "publishedAt": "2020-03-26T03:03:34.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Building & Marketing Award Winning Xamarin Apps",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nLearn what went into building two award-winning apps that demonstrate Xamarin's ability to enable best-in-class designs regardless of platform. Covering the entire development cycle, hopefully my story will provide you with the knowledge & tips to achieve similar.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Xamarin #DotNetConf #Marketing",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yj9PdYXy3ZU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yj9PdYXy3ZU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yj9PdYXy3ZU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yj9PdYXy3ZU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yj9PdYXy3ZU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yj9PdYXy3ZU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FrYHU7I4I5hKPcFtzNQ4EGmVlAA\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LnNjcE5SaGFYZlhZ",
+    "snippet": {
+      "publishedAt": "2020-03-26T02:49:13.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "All Things Xamarin.Forms Shell",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nHave you ever felt overwhelmed by all the different pages, rolled your eyes at the navigation page, and thought to yourself `this can't be the only way to do this when trying to customize something as simple as the navigation bar? If any of these things sound like you, then you're going to love the new Xamarin.Forms Shell.\n\nShell is the new replacement for every single one of your Xamarin.Forms pages. It provides out-of-the-box infrastructure to deliver the features of all existing pages, plus customization,  simplified navigation, and additional layers of customization. In this session, we'll look at how quickly you can get going with Shell and then how easy it is to customize for your designs and scenarios.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#XamarinForms #Shell #DotNetConf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/scpNRhaXfXY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/scpNRhaXfXY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/scpNRhaXfXY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/scpNRhaXfXY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/scpNRhaXfXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "scpNRhaXfXY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ilbZXAfWwTddYcxIE3FdEITO-7s\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LkFCOVB5Y25kVWJB",
+    "snippet": {
+      "publishedAt": "2020-03-25T02:08:39.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Spectacular Components for Xamarin Apps",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nLooking for that perfect control or functionality for your Xamarin app? The amazing Xamarin community has you covered. James will be showing off some spectacular controls and libraries directly from the creators themselves! There is something for everyone in this action packed session.\n\nLinks:\nAwesome Projects:\nhttps://github.com/xamarin/essentials\nhttps://github.com/bijington/expressive\nhttps://github.com/sameerkapps/MvvmAtom\nhttps://github.com/BSiLabs/HttpTracer\nhttps://github.com/AlexKven/AnyBind\nhttps://github.com/TinyStuff/TinyInsights\nhttps://github.com/mgierlasinski/MagicGradients\nhttps://github.com/UdaraAlwis/XFColorPickerControl\nhttps://github.com/jsuarezruiz/Xamanimation\nhttps://github.com/DIPSAS/DIPS.Xamarin.UI\nhttps://github.com/mshwf/Xamlly\nhttps://github.com/sthewissen/Xamarin.Forms.PancakeView\nhttps://github.com/sthewissen/Xamarin.Forms.DebugRainbows\nhttps://github.com/roubachof/Sharpnado.Presentation.Forms\nhttps://github.com/roubachof/Sharpnado.TaskLoaderView\nhttps://github.com/Redth/ResizetizerNT\n\nAmazing Components\nhttps://www.Syncfusion.com\nhttps://www.Telerik.com\nhttps://www.DevExpress.com\nhttps://www.Infragistics.com\nhttps://www.GrapeCity.com\nhttps://www.GrialKit.com\nhttps://www.AuroraControls.app\nhttps://www.Steema.com\nhttps://www.eliteKit.io\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Xamarin #DotNetConf #XamarinForms",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AB9PycndUbA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AB9PycndUbA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AB9PycndUbA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AB9PycndUbA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AB9PycndUbA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AB9PycndUbA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZXOubzOExqaPjpzVXXE66lS0GGo\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LlZvUHRqNm5fd3ow",
+    "snippet": {
+      "publishedAt": "2020-03-25T01:55:32.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Going Reactive with Reactive Extensions & UI",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nMobile developers have some unique constraints that we have to solve for.  We develop in a world where we respond to events, fire asynchronous tasks all on a device that may not have the resources available to complete these tasks. \n\nThis talk will show you why you want to use Reactive Extensions and ReactiveUI to solve some of those concerns in a declarative manner, that makes it easier for you to focus on business value, rather than technical debt.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#ReactiveUI #Xamarin #DotNetConf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VoPtj6n_wz0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VoPtj6n_wz0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VoPtj6n_wz0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VoPtj6n_wz0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VoPtj6n_wz0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VoPtj6n_wz0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W5JJV9vV1ij7nh94ctTRhJzzVys\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LkhPZm10ZUlvU1Y0",
+    "snippet": {
+      "publishedAt": "2020-03-24T23:48:23.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Testing Your Xamarin Apps",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nBefore shipping your applications, testing is a must if you want to ensure the best quality. And don't think only about basic Unit tests but also UI Tests in order to have the best application. We will see some tips on writing and running your tests in order to have all green flags.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Testing #Xamarin #DotNetConf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HOfmteIoSV4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HOfmteIoSV4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HOfmteIoSV4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HOfmteIoSV4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HOfmteIoSV4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HOfmteIoSV4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YqdyfmKnVyeGko4G4ADDvFcfp10\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3Lm45dU5DUmFIMDBN",
+    "snippet": {
+      "publishedAt": "2020-03-24T23:29:04.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Visualize Your Data (CollectionView, CarouselView, & Beyond)",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nA big part of any app is visualizing data. With recent versions of Xamarin.Forms a lot of new controls have been added and updated with controls to do just that.\n\nIn this session you will learn what these controls are, how they can be used and more importantly; how to use them to make your app look gorgeous.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#XamarinForms #CollectionView #DotNetConf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n9uNCRaH00M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n9uNCRaH00M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n9uNCRaH00M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/n9uNCRaH00M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/n9uNCRaH00M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "n9uNCRaH00M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OztLfOwUpIJpjwnkTRAKCDdb5sA\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3Lno0TGlQYThpeHlR",
+    "snippet": {
+      "publishedAt": "2020-03-25T01:29:16.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Building Beautiful Apps with Xamarin.Forms",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nWhat makes a UI beautiful, and how can we achieve it using Xamarin.Forms? This session tries to answer that question by showing you the different elements that go into crafting a beautiful UI and how you can use them to their full potential while also sneaking in some tips and tricks.\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Design #XamarinForms #DotNetConf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z4LiPa8ixyQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z4LiPa8ixyQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z4LiPa8ixyQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z4LiPa8ixyQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z4LiPa8ixyQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "z4LiPa8ixyQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FRTeROfDjrFxCYCaz8wcreaodz4\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LjY1Rzdwb3A1OVhV",
+    "snippet": {
+      "publishedAt": "2020-03-25T01:04:13.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Xamarin Productivity to the Max",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nXamarin developers are creating beautiful mobile apps faster than ever. The Xamarin tooling team has been hard at work making improvements to every aspect of the .NET mobile development process. We've made it more intuitive to write code, faster to build and deploy your apps, and easier to iterate on your UIs with a wide variety of tools and features.\n\nJoin Maddy Leger, Xamarin Program Manager, to learn about all of the ways to become even more productive writing Xamarin apps with some of the latest and greatest tools, like XAML Hot Reload for Xamarin.Forms, the XAML editor on Visual Studio for Mac, and more!\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Xamarin #DotNetConf #Productivity",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/65G7pop59XU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/65G7pop59XU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/65G7pop59XU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/65G7pop59XU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/65G7pop59XU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "65G7pop59XU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qBVvjRZEMQJ0I1sbEhEO-LLZUyw\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LnRSTk9MS3E0X2pv",
+    "snippet": {
+      "publishedAt": "2020-03-24T23:16:01.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Keynote: Xamarin All The Things",
+      "description": "For more information on Xamarin head over to https://aka.ms/XamarinFocus\n\nJoin Maddy, David, and Amanda as they kick off a day full of Xamarin and .NET. Find out what is new and awesome for Xamarin developers to build stunning cross-platform mobile apps with .NET and Visual Studio. You do not want to miss out!\n\nFor Links, Code, & Slides checkout the GitHub site: https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin/Technical\n\n#Xamarin #DotNetConf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tRNOLKq4_jo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tRNOLKq4_jo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tRNOLKq4_jo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tRNOLKq4_jo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tRNOLKq4_jo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tRNOLKq4_jo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qi-UT5unPoOMlEs3zLC1NGtnQt0\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LjE3VEJnQUJOWUZz",
+    "snippet": {
+      "publishedAt": "2020-03-24T01:44:26.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": ".NET Conf: Focus on Xamarin - Live Stream",
+      "description": ".NET Conf: Focus on Xamarin is a free, one-day livestream event that features speakers from the community and .NET product teams that are working on building native mobile apps with Xamarin technology! Xamarin lets you build native mobile apps for Android and iOS with C# instead of Java and Swift.\n\nFull agend: https://focus.dotnetconf.net/Agenda\n\n#Xamarin #XamarinForms #DotNet",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/17TBgABNYFs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/17TBgABNYFs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/17TBgABNYFs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/17TBgABNYFs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/17TBgABNYFs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "17TBgABNYFs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/idXgXFocfnKfNyGVXwGdiEIxr_c\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LlZncFVPWGp0RlRF",
+    "snippet": {
+      "publishedAt": "2020-03-31T13:00:12.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Making the case for AI, chat bots, and Power BI",
+      "description": "Microsoft has teams distributed across the world that are helping our customers solve problems that are very unique to their business and their communities.\n\nWhile we were in the Dominican Republic, we sat down with Cloud Solution Architect Mabel Gerónimo from the local Microsoft office to talk about how they're combining tools like Bot Framework, Power BI, and cognitive services to solve interesting business problems in the country.\n\n[01:13] - The value of Bot framework\n[02:03] - Power BI Desktop\n[03:10] - Using QnA maker to interact with bots\n[04:52] - Triggering the bot\n\nBot Framework\nhttps://dev.botframework.com/?WT.mc_id=ondotnet-youtube-cephilli\n\nQnA Maker\nhttps://www.qnamaker.ai/?WT.mc_id=ondotnet-youtube-cephilli\n\nWhat is PowerBI\nhttps://docs.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview?WT.mc_id=ondotnet-youtube-cephilli\n\n#PowerBI #Bots #MachineLearning #Azure #Dotnet",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VgpUOXjtFTE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VgpUOXjtFTE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VgpUOXjtFTE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VgpUOXjtFTE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VgpUOXjtFTE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VgpUOXjtFTE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QLrqpVN8i2qphzzTFCGlmWmiNJM\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LmdUMDZxdlFMdEow",
+    "snippet": {
+      "publishedAt": "2020-04-21T12:00:32.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Working with Channels in .NET",
+      "description": "Channels enable a producer to safely pass data over to a consumer along with the appropriate notifications in both directions. \n\nIn this episode, Stephen Toub chats with Rich about the what, why and how of using the System.Threadding.Channels library. They walk us through a simple demo of using channels and also discuss the various strategies at our disposal.\n\n[00:55] - What are channels used for?\n[01:35] - Creating a basic channel implementation\n[09:15] - Moving to System.Threadding.Channels\n[11:34] - What are the benefits of using the System.Threadding.Channels?\n[14:11] - What are some of the available back pressure strategies?\n[20:58] - Working with varying number of producers or consumers\n[21:54] - What are the merits of Channels compared to Pipelines?\n[23:35] - Can channels be used out of process scenarios?\n[24:30] - Can channels be used with pub/sub \n[25:28] - What’s next for channels?\n\n\nAn introduction to System.Threading.Channels\nhttps://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/?WT.mc_id=ondotnet-c9-cephilli\n\nSystem.Threading.Channels NuGet package\nhttps://www.nuget.org/packages/System.Threading.Channels\n\nSystem.Threadding.Channels on GitHub\nhttps://github.com/dotnet/runtime/tree/df3930ecd237000813d1833286513d65557efffe/src/libraries/System.Threading.Channels\n\n#dotnet #channel #concurrency #runtime",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gT06qvQLtJ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gT06qvQLtJ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gT06qvQLtJ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gT06qvQLtJ0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gT06qvQLtJ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gT06qvQLtJ0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RV3XFHa010ljBd3sUayEPIJgVlA\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LjRYbEEyV0RYeVRv",
+    "snippet": {
+      "publishedAt": "2020-04-14T11:45:02.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Consuming GraphQL in C#",
+      "description": "In this episode, Brandon show us how to consume a GraphQL endpoint from a C# client, specifically an iOS + Android written in C# using Xamarin.\n\nLearn more: https://codetraveler.io/DotNetGraphQL \n\n[T02:17] - Querying a GraphQL endpoint\n[T06:59] - Viewing the results in a Xamarin app\n[T09:58] - Alternative programming models\n[T11:00] - Follow up resources\n\nGraphQL for .NET\nhttps://github.com/graphql-dotnet/graphql-dotnet\n\n\nHot Chocolate: A GraphQL Server for .NET\nhttps://hotchocolate.io/\n\nASP.NET Core docs\nhttps://docs.microsoft.com/aspnet/core/?view=aspnetcore-3.1&WT.mc_id=dotnet-c9-cephilli\n\n#AspNet #Dotnet #GraphQL #WebDev",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4XlA2WDXyTo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4XlA2WDXyTo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4XlA2WDXyTo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4XlA2WDXyTo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4XlA2WDXyTo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4XlA2WDXyTo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CEjDkYCgy8apov__vUIY590J8TU\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LmFuVzVRcHVoNWtJ",
+    "snippet": {
+      "publishedAt": "2020-04-07T16:56:27.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Introduction To GraphQL",
+      "description": "In this episode, Brandon comes on to give us an introduction to GraphQL. He talks to us about its origin, its benefits, and he even walks us through the GitHub GraphQL API.\n\nLearn more: https://codetraveler.io/DotNetGraphQL\n\n[01:02] - What is GraphQL?\n[06:05] - How does GraphQL compare to OData?\n[08:00] - Exporing the GitHub GraphQL APIs with GraphiQL\n[11:52] - Making client requests\n[14:18] - Recap\n\n\nGraphQL for .NET\nhttps://github.com/graphql-dotnet/graphql-dotnet\n\nHot Chocolate: A GraphQL Server for .NET\nhttps://hotchocolate.io/\n\nASP.NET Core docs\nhttps://docs.microsoft.com/aspnet/core/?view=aspnetcore-3.1&WT.mc_id=dotnet-c9-cephilli\n\n#AspNet #Dotnet #GraphQL #WebDev",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/anW5Qpuh5kI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/anW5Qpuh5kI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/anW5Qpuh5kI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/anW5Qpuh5kI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/anW5Qpuh5kI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "anW5Qpuh5kI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WzmUzWpke0FpKQCYDggalXecZOw\"",
+    "id": "VVV2dFQxOU1aVzhkcTVXd2Z1NkIwb3h3LjZkdUtFb2tUWjQ0",
+    "snippet": {
+      "publishedAt": "2020-04-09T12:00:11.000Z",
+      "channelId": "UCvtT19MZW8dq5Wwfu6B0oxw",
+      "title": "Creating A GraphQL Backend",
+      "description": "Continuing with our coverage on GraphQL, Brandon gets into the code of the graphql-dotnet SDK and shows us how to create a GraphQL endpoint.\n\nLearn more: https://codetraveler.io/DotNetGraphQL\n\n[00:51] - GraphQL SDK options for .NET\n[02:20] - Adding a GraphQL query\n[10:18] - Follow up resources\n\nGraphQL for .NET\nhttps://github.com/graphql-dotnet/graphql-dotnet\n\nHot Chocolate: A GraphQL Server for .NET\nhttps://hotchocolate.io/\n\nASP.NET Core docs\nhttps://docs.microsoft.com/aspnet/core/?view=aspnetcore-3.1&WT.mc_id=dotnet-c9-cephilli\n\n#AspNet #Dotnet #GraphQL #WebDev",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6duKEokTZ44/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6duKEokTZ44/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6duKEokTZ44/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6duKEokTZ44/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6duKEokTZ44/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "dotNET",
+      "playlistId": "UUvtT19MZW8dq5Wwfu6B0oxw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6duKEokTZ44"
+      }
+    }
+  }
+]

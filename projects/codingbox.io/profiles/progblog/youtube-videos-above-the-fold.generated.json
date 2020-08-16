@@ -1,0 +1,862 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/r8zoeQ06AoDGAmtZxiGAKUrYwX8\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLklVRHQ2LUpsM2dj",
+    "snippet": {
+      "publishedAt": "2020-04-22T04:57:07.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "От прокрастинации до Data Science за 6 месяцев. Потерять и найти мотивацию",
+      "description": "Как потерять и снова найти мотивацию в IT-корпорации расскажет экс-программист в Amazon Миша Бородин.\n\nЕще интервью с Мишей:\n1 часть — https://www.youtube.com/watch?v=u8Vil1qbxvw&t=1s\n2 часть — https://youtu.be/O_KFvie7NMU\n\nРелокейт в США с моей компанией — https://udevs.com/\n\nТАЙМИНГ:\n01:20 - коротко о карьерных шагах\n02:01 - почему решился на перемены в карьере\n03:51 - варианты обучения - векторы развития\n06:28 - ротация в компании при недостатке знаний\n08:32 - почему Amazon помогает в ротации и росте сотрудников \n11:10 - кто такие Applied Scientist\n12:33 - переход от SDE в Applied Scientist\n15:40 - сомнения и потеря мотивации на пути к цели\n17:10 - взаимодействие с новой командой\n18:18 - рабочие задачи SDE и Applied Scientist\n21:28 - плюсы \"новой работы\"\n22:06 - бегство из замкнутого круга: как победить рутину?\n23:23 - сложности на пути: как видеть в них плюсы\n24:38 - финансовая перспектива SDE и Applied Scientist\n27:40 - как ставить цели на карьеру\n27:58 - советы по профессиональному развитию",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IUDt6-Jl3gc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IUDt6-Jl3gc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IUDt6-Jl3gc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IUDt6-Jl3gc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IUDt6-Jl3gc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IUDt6-Jl3gc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hCmnyvNKa3xt8GcfLDbTT0-rV9w\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLlZ2UlZmN19qNWdR",
+    "snippet": {
+      "publishedAt": "2020-04-09T05:42:34.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "У кого нет шансов? | Рекрутер из Google",
+      "description": "Aнглийский для IT-специалистов — https://it.polygled.com/?utm_source=yt&utm_medium=progblog\n\nПромокод на скидку 15% — PROGBLOG\nТАЙМИНГ\n00:54 - знакомсто с рекрутером из Google\n01:47 - как овладеть профессией рекрутер: с чего начать обучение? какими качествами необходимо владеть?\n04:15 - отличия рекрутинга в США от стран СНГ: как устроены процессы?\n06:34 - идеальный кандидат для Google\n10:08 - вопросы на первом интервью, рекрутинг - скрин.\n12:46 - какой отклик специалистов на одну позицию\n13:42 -  в чем разница: Senior - разработчик в США и Senior - разработчик в других странах\n16:05 — РЕКЛАМА Polygled — английский для IT-специалистов\n 17:12 - как эффективнее всего податься на вакансию\n19:33 - гугленность в Google\n20:16 - feedback русскоязычных кандидатов\n21:51 - где проще нанимать людей с позиции рекрутера\n23:33 - отличие diversity в Украине от США\n28:02 - помогает ли Google адаптироваться новым специалистам\n29:55 - с чем связано негативное отношение к рекрутеру\n34:04 - какая польза рекрутера для соискателя\n35:33 - какой процент берет рекрутер и почему\n37:18 - почему рекрутер задаёт \"тупые вопросы\"\n38:38 - \"рекрутеры - обманщики\" - в чем подвох?!\n40:19 - актуальные вопросы от рекрутера  Google\n42:37 - кому подходит профессия рекрутер\n45:45 - рекрутер - интроверт -- возможно ли это?\n47:46 - разница между: soucer - hr - manager - recruiting\n51:46 - требования для кандидатов - рекрутеров\n55:05 - идеальный рекрутер - это...)\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VvRVf7_j5gQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VvRVf7_j5gQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VvRVf7_j5gQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VvRVf7_j5gQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VvRVf7_j5gQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VvRVf7_j5gQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nZn_8BOJGfYLM6sB1yxFc4DUpq0\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLllHTXphUXRWZjFj",
+    "snippet": {
+      "publishedAt": "2020-04-03T19:34:36.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Q&A по O1 виза | Как стать экстраординарным специалистом и переехать в США",
+      "description": "Как получиться O1 визу если ты обычный IT-специалист. Отвечу на вопросы из предыдущего стрима.\nРелокейт по O1 в США c uDevs — https://udevs.com/\nПодробнее об O1 визе на официальном сайте иммиграционный службы США — https://www.uscis.gov/working-united-states/temporary-workers/o-1-visa-individuals-extraordinary-ability-or-achievement\n\nTАЙМИНГ coming soon...\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YGMzaQtVf1c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YGMzaQtVf1c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YGMzaQtVf1c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YGMzaQtVf1c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YGMzaQtVf1c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YGMzaQtVf1c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DMz9LXHIPXyJDwZy7sO8ci2pnyo\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLmJfQklKUWZqMXVR",
+    "snippet": {
+      "publishedAt": "2020-04-01T18:49:10.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Как получить рабочую визу в США. O1 виза c uDevs и без",
+      "description": "Я расскажу о рабочих визах для IT-специалитов и о том, почему О1 лучше других виз и как ее получить. \nРелокейт по O1 в США c uDevs — https://udevs.com/\n\nПодробнее об O1 визе на официальном сайте иммиграционный службы США — https://www.uscis.gov/working-united-states/temporary-workers/o-1-visa-individuals-extraordinary-ability-or-achievement\n\nТАЙМИНГ coming soon...\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b_BIJQfj1uQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b_BIJQfj1uQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b_BIJQfj1uQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b_BIJQfj1uQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b_BIJQfj1uQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "b_BIJQfj1uQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mJL6u8aSgGS24KLm-h0oT8BrUww\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLnBqZlJjNkNPUzVn",
+    "snippet": {
+      "publishedAt": "2020-03-25T05:00:10.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "5 интервью = 5 офферов | Amazon vs Google vs LinkedIn | Идеальный кандидат",
+      "description": "Катя Вебер, PM из Google, рассказывает, как стать идеальным кандидатом для компании и почему она приняла предложение о LinkedIn, а потом передумала и ушла в Google. \nМоя компания. Релокейт в США — https://udevs.com/\n \nЕще интервью с Катей:\n1-я часть — https://youtu.be/AMzJLbWynC0\n2-я часть — https://youtu.be/1h-ICIyBLF4\n\nТАЙМИНГ:\n01:13 - карьерный путь Кати\n03:06 - разница между Program manager, Product manager и Project manager\n06:10 - как происходит поиск работы, советы от Кати\n10:21 - основные критерии при выборе компании\n14:40 - 5 офферов. Как стать идеальным кандидатом?!\n16:40 - лайфхаки при прохождении интервью\n17:16 - как прокачать софт-скилы?!\n19:00 - в чем отличия: Google - гугленность и Amazon - Leadership Principles\n22:18 - стоит ли врать на интервью!?\n23:54 - как поднять цифры ( $ ) в оффере? Пошаговая стратегия\n31:02 - что такое \"устный оффер\" ?\n34:44 - выбор между LinkedIn и Google, \n39:33 - обязанности Program manager в Google\n41:42 - проф.культура дороже денег, работа в удовольствие\n43:47 - влияние команды на твой личностный рост\n46:49 - совет от разработчика Google по выбору компании\n47:39 - дискриминация в Google?!\n51:27 - планы на карьеру\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pjfRc6COS5g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pjfRc6COS5g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pjfRc6COS5g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pjfRc6COS5g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pjfRc6COS5g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pjfRc6COS5g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1fic_5okgFz-zm1jXngRUG0casw\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLmY3enBCLXZtSjl3",
+    "snippet": {
+      "publishedAt": "2020-03-18T06:56:46.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Карантин в Сан-Франциско  | Как эффективно работать из дома",
+      "description": "Сан-Франциско на карантине! Запрещено выходить из дома без острой необходимости. Программисты Amazon, LinkedIn и Lyft делятся советами, как эффективно работать из дома, а я об обстановке и борьбе с коронавирус.\n\nАкция от uDevs! Релокейт в США IT-специалистов. Не пропустите! \nПодробности — victoria@udevs.com\n\nБольше о ЮЛЕ\nInstagram — https://www.instagram.com/ydeinega/\nОдин день из жизни девушки-программиста в Кремниевой долине — https://youtu.be/f07T8acbx3Q\n\nБольше о ДЕНИСЕ:\nLinkedin — https://www.linkedin.com/in/nekdenis/\nAndroid Dev Подкаст — https://t.me/androiddevpodcast_news\n\nТАЙМИНГ:\n01:07 - карантин в Сан-Франциско\n05:03 - почему люди обеспокоины за свои акции\n07:44 - мои универсальные советы)\n08:49 - какая польза от карантина\n09:28 - \"антивирусное предложение\" от uDevs\n10:36 - факторы влияющие на продуктивность удаленной работы \n11:55 - LinkedIn - первая компания переведящая людей на удаленную работу\n12:32 - советы от программиста из Amazon, как планировать день и работать удаленно\n15:38 - советы от Android разработчика из Lyft по работе из дома\n17:44 - советы от программистки из LinkedIn по эффективной работе из дома\n23:11 - плюсы и минусы работы из дома\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f7zpB-vmJ9w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f7zpB-vmJ9w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f7zpB-vmJ9w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/f7zpB-vmJ9w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/f7zpB-vmJ9w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "f7zpB-vmJ9w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LmipkRzrjK_WpStc6Ye-TzADv-Q\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLjF0c0p2dE5kRThj",
+    "snippet": {
+      "publishedAt": "2020-03-11T05:30:00.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Как получить рабочую визу в США за полгода | О1 виза для дизайнера |Первый клиент uDevs",
+      "description": "Полгода от идеи переехать в США до работы в Кремниевой долине за $100/час — реальность? \nНаш первый клиент расскажет, как мы прошли этот путь вместе. \nХотите работать в Кремниевой долине, как Сергей? Моя компания uDevs поможет в этом. Подробности на нашем сайте —  https://bit.ly/2IuJu7Y\n\nСергей в соцсетях:\nInstagram — @ryadovoys и  @maddmaru\nLinkedIn — https://www.linkedin.com/in/sergeyryadovoy/\n\nТАЙМИНГ:\n00:41 - знакомство с Сергеем, встреча в аэропорту\n01:15 - впечатления о Сан-Франциско\n01:55 - мнение Сергея о жителях Сан-Франциско\n02:41 - \"причина переезда\": почему Сергей выбрал США и что повлияло на выбор страны?\n05:48 - плюсы-минусы работы с командой uDevs.com по мнению Сергея\n09:40 - как проходил поиск работы графического дизайнера и сколько понадобилось времени, чтобы её найти?\n13:24 - история о том, как стал графическим дизайнером и какие  заслуги в кейсе у Сергея\n17:00 - первые дни работы в компании США и почему среди всех компаний выбрал её\n19:16 - культура в комнаии Digitas: впечатления, атмосфера, команда, график, заработная плата ($)\n26:17 - как узнал о канале ProgBlog и uDevs команде\n27:49 - почему выбрал работу с командой uDevs\n29:44 - почему выбор в пользу O1-A виза\n30:55 - лайфхаки по организации на О1-А виза\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1tsJvtNdE8c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1tsJvtNdE8c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1tsJvtNdE8c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1tsJvtNdE8c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1tsJvtNdE8c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1tsJvtNdE8c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0vdxcFp3jI1TmStw74WkTWrTL2k\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLk56UlZ2LTZUR3hj",
+    "snippet": {
+      "publishedAt": "2020-02-26T06:30:00.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "DevOps о поиске работы в США | Айтишники на Гавайах",
+      "description": "Компания айтишников из Кремниевой долины путешествует на Гавайи. В видео приняли участие:\nМиша Бородин, Data Science специалист из Amazon — https://www.linkedin.com/in/mikborodin/\nДенис Невожай, UX дизайнер из Google — https://www.linkedin.com/in/dnevozhai/\nИрина Невожай, технический рекрутер из Leia — https://www.linkedin.com/in/iryna-nevozhai/\nАлексей Фоминых, DevOps специалист из Shotspotter — https://www.linkedin.com/in/oleksii-fominykh-0015b856/\nНаталья Фоминых, программист из Epam — https://www.linkedin.com/in/nataliya-fominykh-31157886/\n\nТАЙМИНГ:\n00:55 – обзор Гавайев, делимся опытом\n01:05 – кемпинг на Гавайях\n03:56 – серф-культура на Гавайах\n04:53 – Гавайские острова – самый популярный курорт для Кремниевой долины\n05:47 – о.Оаху – сердце Пёрл-Харбор, исторические сведения\n06:33 – сравнение природы о.Оаху и о.Мауи\n06:53 – как образовались Гавайские о-ва, климатические условия, как появилась растительность на Гавайях\n09:12 – цены на Гавайских островах\n10:17 – киты, снорклинг, плавание с дельфинами.\n12:04 – кемпинг на о.Мауи: условия, цена, расположение\n13:34 – программисты на Гавайях\n14:16 – Цукерберга на Гавайах\n19:21 – интервью с Лехой, DevOps специалистом\n19:36 – профессиональный бэкграунд, история переезда\n23:11 – релокейт с EPAM по визе жены\n25:01 – поиски работы по L2 визе\n28:46 – как найти работу с плохим английским – советы от Лёхи!\n31:04 – стартап по регистрации выстрелов\n33:41 – зарплата и стоки компании: плюсы и минусы\n35:06 – как изменилось мировозрение с переездом в штаты\n36:26 – рекомендации от Лёхи для ребят, которые рассматривают или планируют переезд в Америку\n37:36 – жизнь вне работы: ожидания и реальность, адаптация\n41:26 – адаптация детей в Америке\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NzRVv-6TGxc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NzRVv-6TGxc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NzRVv-6TGxc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NzRVv-6TGxc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NzRVv-6TGxc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NzRVv-6TGxc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2OzUFsaPSFrxnpeToCIsdnmbV5U\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLmxEMmpkaDI3SHBr",
+    "snippet": {
+      "publishedAt": "2020-02-19T06:00:07.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Отказал Facebook | Дискриминация | 10 лучших языков программирования",
+      "description": "Дмитрий Засоркин в 40 лет переехал в США  и устроился программистом в Cisco. В выпуске поговорим об отказе Facebook, возрастной дискриминации и 10 самых востребованных языках программирования в Кремниевой долине.\n\nТАЙМИНГ:\n\n00:12 –  знакомство с героем выпуска\n01:55 – профессиональная реализация в 20, 30 и 40 лет \n05:05 – путь от программиста до руководителя разработки и снова в программиста\n06:30 – менеджеры и технари в IT\n10:00 – из Латвии в США: сложности, возможности, адаптация\n15:45 – поиск первой работы в США: к чему быть готовым до переезда\n20:27 – интервью в компанию Indeed \n23:33 – интервью в Facebook\n28:15 – как отсеивать не подходящие предложения о работе, критерии выбора\n29:10 – почему Дима отказал Facebook и выбрал Cisco\n32:55 – возрастая дискриминация и пути развития программиста в 40 лет\n36:23 – из руководителя в Латвии в программиста в США: плюсы и минусы\n38:55 – иллюзии IT индустрии: ожидания и реальность\n42:48 – советы начинающим программистам \n45:20 – 10 самых востребованных языков программирования в Кремниевой долине\n46:52 – планы на карьеру в 40+ лет\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lD2jdh27Hpk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lD2jdh27Hpk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lD2jdh27Hpk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lD2jdh27Hpk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lD2jdh27Hpk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lD2jdh27Hpk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1M3ulGAOt3MjPIf2lw9Wu3giF90\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLnFDb3ZoZnRkVGVF",
+    "snippet": {
+      "publishedAt": "2020-02-12T08:00:07.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "ПРОКРАСТИНАЦИЯ, ВЫГОРАНИЯ, КРИЗИСЫ и ИСЦЕЛЕНИЯ | IT-шники об УСПЕХЕ В КРЕМНИЕВОЙ ДОЛИНЕ",
+      "description": "Айтишники из Кремниевой долины о прокрастинации, кризисах, выгораниях и успехе в карьере. Как программисты из Microsoft, LinkedIn, Amazon, менеджер из Google и стартаперы борятся с ленью и что для них успех в карьере.\n\nТАЙМИНГ:\n01:25 - что такое успешная карьера в IT\n18:36 - профессиональные ориентиры и вдохновители\n21:05 - как имиграция повлияла на представление об успехе в карьере, иммиграционные кризисы \n30:25 - как бороться с ленью, стагнацией, прокрастинация\n35:15 - где искать мотивацию и как входить в рабочий поток \n53:12 - как выходить из кризиса и откуда черпать ресурс во время выгорания\n01:09:09 - свобода выбора \n01:14:10 - как влияют страхи на карьеру и выбор профессионального пути.\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qCovhftdTeE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qCovhftdTeE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qCovhftdTeE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qCovhftdTeE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qCovhftdTeE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qCovhftdTeE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3rfFnURcpHadSc1GxbVwPD87h2o\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLlZNaGFna3NFSGlV",
+    "snippet": {
+      "publishedAt": "2020-02-05T18:04:48.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Как улучшить English | 3 лучших способа для IT-шников",
+      "description": "Самые действенные способы улучшить английский для тех, кто в IT. Я совместно с компанией Akvelon https://telegra.ph/Akvelon-relocation-opportunities-12-06 поделюсь опытом IT-специалистов из Кремниевой долины: какие способы им помогли проходить собеседования и работать в англоязычной среде.\n\nРесурсы для изучения английского:\nITalki.com\nSkyeng.com\nPramp.com\n\nВспомогательные видео ресурсы:\nlinguaspectrum.com \nenglishcentral.com\nengvid.com \nlearningenglish.voanews.com \nTED\n\nYouTube каналы на IT и бизнес тематику\n\nJoma Tech\nTalks at Google\nTechLead \nForrestKnight\nMayuko\nGaryVee\nCS Dojo\nMarques Brownlee MKBHD(review of the products)\nPhoneBuff (gadget & technology)\nPewDiePie(Gaming)\nUnbox Therapy (gadget & technology)\nEverythingApplePro (Apple news)\nAustin Evans \nJonathan Morrison\nAlltime10s \nCNET (Tech news, device review)\n\nПодкасты на IT тематику:\n\nNPR’s TED Radio Hour\nAmerican Innovations\nAnalog(ue)\nIRL - Online Life Is Real Life \nExponent\nFuture Tense\nTwenty Thousand Hertz\nAnatomy of Next\nThe Upgrade by Lifehacker\nHow I Built This with Guy Raz\nNote To Self\nCrazy/Genius\na16z Podcast\nThis is Only a Test\nStuff You Should Know\nThe Story\nTechdirt\nReply All\nTech Talker’s Quick and Dirty Tips to Navigate the Digital World\n99% Invisible\nThis Week in Google\nMac Power Users\nHackable?\nEpicenter\nThe Talk Show\nIf Then\nAccidental Tech Podcast\nWhy’d You Push That Button?\nLinear Digressions\nRocket\nIT Visionaries\nThe Future of Everything\n\nФильмы и сериалы\nSilicon Valley\nBlack Mirror\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VMhagksEHiU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VMhagksEHiU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VMhagksEHiU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VMhagksEHiU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VMhagksEHiU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VMhagksEHiU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aPDmlc7Y6WBQkjiFIsuL8o-n_bQ\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLl85VlhzWEJvS240",
+    "snippet": {
+      "publishedAt": "2020-01-29T06:00:05.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "СТУДЕНТ СТЭНФОРДА | ПОСТУПЛЕНИЕ, УЧЕБА, ТУСОВКИ | Computer Science в Стенфорде",
+      "description": "В этом году всего 2 человека из России поступили в Стенфорд: дочь Навального и Степан Шарков. Последний на программирование. Я не могла упустить возможность пообщаться со Степаном о поступлении, учебе и жизни студентов.\n\nМой проект по релокейту в США http://udevs.com \nИнстаграм Степана @styp_shrkv https://www.instagram.com/styp_shrkv/\n\nТАЙМИНГ:\n01:04 – почему я Стэнфорд лучший, сравнение с MIT (Massachusetts Institute of Technology)\n04:15 – поступление в Стэнфорд\n05:11 – почему в США эссе – самый важный экзамен\n07:25 – как сдать SAT на 1590 из 1600\n11:59 – сколько стоит учеба в Стэнфорд\n13:23 – первая неделя в Стэнфорд: знакомство, адаптация, подготовка\n15:29 – как экономика помогла при поступлении\n16:16 – Стэнфорда vs вузы России\n17:59 – лимит на русских студентов в университеты США\n20:22 – общежитие Стэнфорда\n21:47 – братство, сестринство, тусовки в Стэнфорде\n24:18 – программирование в Стенфорде \n26:49 – планы на карьеру\n\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_9VXsXBoKn4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_9VXsXBoKn4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_9VXsXBoKn4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_9VXsXBoKn4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_9VXsXBoKn4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_9VXsXBoKn4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/t4jz32n2zTdahId64j_fyMmUGoc\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLjk0VzVNYWJMWHVB",
+    "snippet": {
+      "publishedAt": "2020-01-22T04:00:01.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Сколько денег нужно на переезд в США | Лайфхаки | Как сэкономить на переезде",
+      "description": "Рассчитаем бюджет на переезд в США и узнаем, сколько стоит месяц проживания в Кремниевой долине вместе с Юлией Дейнегаой, программистом из LinkedIn.\nПроект по релокации в США: uDevs http://udevs.com \nКанал Юли: https://www.youtube.com/user/ydeinega/\n\nТАЙМИНГ:\n00:45 - знакомство с Юлией\n01:51 - выбираем билет на самолет до США\n04:00 - как снять квартиру, если ты только прибыл \n06:59 - сколько стоит жизнь в городе Сан-Хосе\n08:11 - обустройство квартиры\n11:46 - о стоимости коммунальных услуг, интернета, питания\n12:16 - медицинская страховка \n13:00 - подсчитываем итоговый список трат\n14:30 - бюджет на полгода проживания в США\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/94W5MabLXuA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/94W5MabLXuA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/94W5MabLXuA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/94W5MabLXuA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/94W5MabLXuA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "94W5MabLXuA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0Y5y3FeJBJiYOum1iduFa84YRT4\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLk5MZmNRZlVLRjBJ",
+    "snippet": {
+      "publishedAt": "2020-01-15T19:49:13.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Как найти работу в США в IT | 7  ШАГОВ",
+      "description": "Пошаговая инструкция по поиску работы в США в IT-индустрии и не только. Я расскажу о 7 самых главных шагах, который помогут дойти до собеседования в американскую компанию и не завалить его.\n\nРелокейт в США по O1 визе — http://udevs.com/\nПокупка вебинаров — v.borodina@progblog.tv\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NLfcQfUKF0I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NLfcQfUKF0I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NLfcQfUKF0I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NLfcQfUKF0I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9TLk3jAO5QN6wIAfqgqqcxAIo3Q\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLmw3U3hYZ1o0U0xF",
+    "snippet": {
+      "publishedAt": "2019-12-26T19:47:39.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Адаптация IT-специалистов в США | Стрим с секретным Сантой из Кремниевой долины",
+      "description": "Что случается с программистами после переезда в США? Все ли доволны тем, что получают? Через какие препятствия приходится проходить? Об этом обо всем поговорим в прямом эфире с Михаилом Портновым, его канал https://www.youtube.com/user/SiliconValleyVoice\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l7SxXgZ4SLE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l7SxXgZ4SLE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l7SxXgZ4SLE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l7SxXgZ4SLE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uRvdBr0yZYOcamVajYhBGy_H3yg\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLlBPdjVRd2NFZWI4",
+    "snippet": {
+      "publishedAt": "2019-12-18T18:46:18.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "ПРОГРАММИСТЫ & РЕКРУТЕРЫ | Все о работе с рекрутерами | Как не дать себя обмануть",
+      "description": "Рекрутеры — ненужная прокладка между компанией и кандидатом.\nРекрутеры отрывают кусок зарплаты программистов.\nРекрутеры задают тупые вопросы и бесполезно тратят время программистов.\nРекрутеры — обманщики: обещают одно, а на деле мы получаем другое.\nРазберемся, так ли это и что с этим делать!\n\nТайминг:\n3:30 – Миша о том, почему рекрутеры раздражают \n4:55 – как Миша искал работу \n12:20 - польза от помощи рекрутеров \n19:05 – стоит ли учитывать софт скиллы?\n22:49 – рекрутер это ненужная прокладка между работодателем и кандидатом?\n24:50 – из чего складывается зарплата рекрутера \n27:15 - стоит ли опасаться рекрутеров-флирансеров?\n30:56 – типичные вопросы рекрутеров\n38:06 – рекрутеры не выполняют свои обещания?\n42:30 - рекрутеры – это продажники\n47:03 - пользоваться ли услугами по переезду\n48:01 - как Миша устроился на работу в Epam \n49:55 – тяжело ли работать в Amazon \n51:04 – автоматизированные рекрутеры\n52:05 – HR и рекрутеры: в чем разница\n54:03 – если рекрутер не хочет раскрывать название компании\n55:08 – нужно ли кандидатам самим задавать вопросы \n56:05 – как кандидату подстраиваться под новые правила\n1:01:18 – кем сейчас работает Вика\n1:06:55 – как получать предложения от рекрутеров\n1:09:22 – о хакер трипе\n1:13:08 – переезжают ли middle-специалисты в США\n1:14:38 – несет ли рекрутер ответственность перед заказчиком\n1:16:04 – собеседует ли Миша русских кандидатов \n1:17:26 - как правильно рекрутеры должны писать предложения кандидатам \n1:23:15 – успешные Кейсы Вики по релокации кандидатов \n1:24:40 – есть ли возможность часто летать в Беларусь\n1:26:51 - профессиональные тенденции на рынке\n\nВебинар о визах и путях их получения — https://youtu.be/GfTWECqZtfQ\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/POv5QwcEeb8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/POv5QwcEeb8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/POv5QwcEeb8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "POv5QwcEeb8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7Mte1MPqz7kE-bAxB_xQLug41cs\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLjdaZmE0LXVNX0ZV",
+    "snippet": {
+      "publishedAt": "2019-12-04T05:00:00.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "IT в провинции | Программист-самоучка | Зарплата разработчиков в регионах",
+      "description": "Из таксиста в программисты: Александр Терентьев, front-end разработчик из Таганрога, рассказал, как начинал свой путь в IT, почему стал работать удалённо и как различаются зарплаты айтишников по регионам. \n\nТАЙМИНГ:\n00:18 - как Александр ушел из такси и начал программировать\n09:30 - о текущей работе\n14:34 - сложности взаимодействия удаленщика с коллегами из офиса \n18:54 - зарплаты программистов в регионах\n19:18 - возможности для профессионального развития \n21:00 - “плюшки” для сотрудников\n22:56 - фейлы на работе\n25:19 - о техническом долге\n27:39 - отпуск и разрешение конфликтов \n32:06 - планы на будущее\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7Zfa4-uM_FU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7Zfa4-uM_FU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7Zfa4-uM_FU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7Zfa4-uM_FU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7Zfa4-uM_FU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7Zfa4-uM_FU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SG4o7hD7I5Xo4q3ZhDlv1jNlSGU\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLmtHZjlob1JSZDBB",
+    "snippet": {
+      "publishedAt": "2019-11-28T05:00:05.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "США vs Германия | ПРОГРАММИСТЫ о зарплатах, фэйлах, карьерном росте, идеологии",
+      "description": "Я сняла программистов-серферов с волны и расспросила их об IT в Кремниевой долине и Берлине. Сравнили работу в Amazon и Searchmetrics: зарплаты, отношение к дедлайнам и фейлам, идеологии, work&life balance, отпуске\n\nТАЙМИНГ:\n01:13 - что я делаю в Мексике?\n02:42 - знакомство с программистами Михаилами\n03:08 - отношение к дедлайнам в Кремниевой долине и Берлине\n04:17 - фейлы на работе\n06:41 - заботятся ли компании в Германии и США о профессиональном росте сотрудника\n08:58 - готовы ли компании тратить деньги на закрытие технического долга\n10:25 - продвижение идеологии компаний\n11:56 - общение с коллегами\n15:00 - отпуска в Кремниевой долине и Берлине\n16:21 - предоставляют ли компании акции?\n18:02 - о доходах\n20:18 - о возможности переезда в другую страну\n\nТАЙМИНГ:\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kGf9hoRRd0A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kGf9hoRRd0A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kGf9hoRRd0A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kGf9hoRRd0A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kGf9hoRRd0A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kGf9hoRRd0A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vejuTphNFSmhXTzgYHDgCM9kudI\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLmo1cW9mUkV5N0lV",
+    "snippet": {
+      "publishedAt": "2019-11-20T05:15:00.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Android-разработчик в США | IT в Сингапуре | Удаленка в Таиланде",
+      "description": "Денис Неклюдов, Android-разработчик, об удаленке в Тайланде, переезде в Сингапур, экстраординарной визе в США!\n#РЕКЛАМА Otus — Онлайн-образование — https://otus.pw/3BWc/\nОткрыт набор на два курса по Андроид. \nбазовый андр https://otus.pw/YJoI/ \nпродвинутый https://otus.pw/0EdK/ \nПРОМОКОД для подписчиков канала – ProgBlog2019 (скидка 30% на первую полную оплату не только по “чернопятничным”, а по всем  курсам). Действует с 20.11.2019 по 30.11.2019. Скидки не суммируются \n\nБОЛЬШЕ о Денисе:\nLinkedin — https://www.linkedin.com/in/nekdenis/\nAndroid Dev Подкаст — https://t.me/androiddevpodcast_news\nДенис подробно про Сингапур — https://www.youtube.com/watch?v=uxs9kMqa2Ls\nДенис про сложности и тонкости переезда — https://www.youtube.com/watch?v=TsZ3wiGTMrY\nДенис про сравнения жизни в различных странах — https://youtu.be/B3F3YqJ8SwE\nДенис с Варламовым гуляют по Сан-Франциско — https://www.youtube.com/watch?v=3ofK9rqmIjI\nВарламов у Дениса в гостях в офисе Lyft — https://www.youtube.com/watch?v=xc7FgTntDW4\n\nМоя статья \"Где больше платят программистам. Сравниваем 22 страны\" — https://habr.com/ru/post/412529/\n\nТАЙМИНГ\n00:22 — знакомство с Денисом Неклюдовым, Androind-разработчик в США\n01:10 — путь в Android-разработку \n05:03 — работа на удаленке в Тайланде \n06:40 — о работе в Revolut\n10:00 — переезд в Сингапур\n13:36 — какие специалисты востребованы в Сингапуре\n21:12 — “попасть в Кремниевую долину – попасть в эпицентр IT”\n22:05 — “денежная мотивация - это фантики”\n24:54 — исследование Дениса о работе в разных городах\n31:58 — “я хотел в Google”\n36:32 — кто такой хороший разработчик?\n40:56 — рабочие процессы в России и США\n45:27 — зачем разработчику вести подкаст?\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j5qofREy7IU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j5qofREy7IU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j5qofREy7IU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "j5qofREy7IU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bp14uD1IAJIMkdJDPMOq2eLsKcs\"",
+    "id": "VVUxUXJVeVJtU29VVFBWU2JIdjdhcmNBLjd3VFFaNWltdjBZ",
+    "snippet": {
+      "publishedAt": "2019-11-13T05:00:00.000Z",
+      "channelId": "UC1QrUyRmSoUTPVSbHv7arcA",
+      "title": "Софт скилы, харассмент | Русскоязычные кандидаты | Возрастная дискриминация в IT",
+      "description": "Как пройти собеседование в IT-компанию в США? Секреты раскрывает рекрутер из Кремниевой долины Ирина Невожай: софт скилы, diversity, русские программисты в США.\n#Реклама Programming Academy in Silicon Valley — http://pasv.us. Курсы тестирования и программирования для взрослых и детей.\n\nГде найти Ирину:\nhttps://www.linkedin.com/in/iryna-nevozhai/\nhttps://www.equallyhr.com/\n\nТАЙМИНГ:\n00:45 - diversity в профессиональной сфере\n02:04 - инклюзивность — что это такое и почему важно компаниям\n03:53 - РЕКЛАМА\n04:40 - деньги vs комфортные рабочие условия\n07:51 - “белые мужчины сейчас находятся в слабой позиции”\n09:13 - дискриминация по возрасту в США\n10:45 - предвзятое отношение на работе \n12:20 - пьяный кандидат\n13:00 - ошибки русскоязычных кандидатов\n14:42 - как вычислить плохого рекрутера\n20:45 - soft skills: что это значит и с чем это едят\n24:55 - кто первый назвал цифры, тот и проиграл?\n27:37 - харассмент в США\n31:40 - как взаимодействовать сотрудникам из разных культур\n33:19 - дефицит программистов в США — миф?\n34:10 - почему важно помогать людям устраиваться на работу\n\nСпасибо за просмотр и лайк!\nНе пропустите новые выпуски — ПОДПИШИТЕСЬ НА КАНАЛ!\n\nМои будни и выходные в Кремниевой долине смотрите в Instagram — https://www.instagram.com/pyzhyk/\nПолезные ссылки, инсайты и вакансии я пощу в Telegram— https://t.me/progblogtv\nМои вебинары, шпаргалки, консультации ищите тут — https://www.progblog.tv/\nДля нетворкинга и поиска кандидатов я использую LinkedIn — https://www.linkedin.com/in/victoria-borodina/ \nКоммерческие предложения – pb@progblog.tv\n\nПЛЕЙЛИСТЫ, которые Вам понравятся:\n\nIT релокейт: рабочие визы, подготовка к переезду, зарплаты, налоги\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9UyiALEy9BfwLEGTUtk7-h\n\nПрограммисты в США | Работа в ТОП корпорациях | Зарплаты, карьера, технологии в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-ldRf4BIgepvth0fikAraw\n\nПрограммисты из стартапов в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nIT Супермены\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_3b3iZEOYh4zBa3GA7JyyA\n\nWomen in Tech\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_fpypauwkHxBl6ATBl_46W\n\nData Science & Machine Learning | Интервью из Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-cvxYTB-p70gnzEfzDzjCT\n\nБизнес и стартапы в Кремниевой долине\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA85eFKy_OgV99mM1CJV4og-\n\nFAANG | Как покорить топ 5 IT-компаний Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA-lM7HWo4cWbZ8Q9-Qyw5d6\n\nКак войти в АйТи | Для начинающих программистов и не только\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9cQcZtQhLevlXdo7oji3X2\n\nВ мире IT: Германия, Канада, Чили, Китай, Бразилия, Китай, Испания, Сингапур\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA93b-SaCINvcQ1sg-hlfCYJ\n\nIT в России, Украине, Беларуси и др.\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8P_ii8Ub46jjIRsLyf1b5y\n\nSilicon Valley LifeStyle\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9hlkaYlB4GsLX6dWNJVdch\n\nЭкскурсии в офисы IT-компаний Кремниевой долины \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_kiFxLNLfZIx_FA5EqcwS1\n\nСтуденты MIT, Stanford, Berkley | Computer Science в лучших университетах США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9ExeyHJumPqq6iJgm-blnT&disable_polymer=true\n\nProduct & Project менеджеры о карьере в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA92dkFn2lO5DurAeo-TwX9S\n\nQA в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA80vbxEvkwfQieCAuQmu9YN\n\nUX/UI дизайнеры в США \nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA94Bmdkl_PgNnocsAdMO3vg\n\nСисадмины в США\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA86Tal5CZvm4nzogOT2wt_u\n\nКонференции, митапы, хакатоны | IT ивенты Кремниевой долины\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA8qawZzKnUjBuIvRoae02GD\n\nПрограммисты-самоучки | Как найти первую работу в IT\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA_h-7RD9J6sWBvgXJ_42X_y\n\nПрограммисты-фрилансеры\nhttps://www.youtube.com/playlist?list=PLw_IA1ax1aA9c1zprdMkoinV6WyHOwzX3\n\n#progblog#victoriaborodina#викториябородина#прогблог#программист#кремниеваядолина",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7wTQZ5imv0Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7wTQZ5imv0Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7wTQZ5imv0Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7wTQZ5imv0Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7wTQZ5imv0Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "ProgBlog",
+      "playlistId": "UU1QrUyRmSoUTPVSbHv7arcA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7wTQZ5imv0Y"
+      }
+    }
+  }
+]

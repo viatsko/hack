@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yGtAj7m74mGbTkRhPzr8W6y2RNE\"",
+      "id": "UCqMG_BBwxrhLG80Y3yuEu-Q",
+      "snippet": {
+        "title": "XOXO Festival",
+        "description": "XOXO is an experimental festival for independent artists who live and work online.",
+        "publishedAt": "2012-09-21T22:45:35.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzxPP9ariJgVCW6hW2ABwPjI5zSPNgvJH8JQA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzxPP9ariJgVCW6hW2ABwPjI5zSPNgvJH8JQA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzxPP9ariJgVCW6hW2ABwPjI5zSPNgvJH8JQA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "XOXO Festival",
+          "description": "XOXO is an experimental festival for independent artists who live and work online."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUqMG_BBwxrhLG80Y3yuEu-Q",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUqMG_BBwxrhLG80Y3yuEu-Q"
+  },
+  "displayName": "XOXO Festival",
+  "description": "XOXO is an experimental festival for independent artists who live and work online.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzxPP9ariJgVCW6hW2ABwPjI5zSPNgvJH8JQA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzxPP9ariJgVCW6hW2ABwPjI5zSPNgvJH8JQA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzxPP9ariJgVCW6hW2ABwPjI5zSPNgvJH8JQA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

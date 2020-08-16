@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_H2rYvbT3W1TtyAeR6q2ctOoANQ\"",
+      "id": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "snippet": {
+        "title": "Tushar Roy - Coding Made Simple",
+        "description": "This channel is to make learning easy for everyone.\nContact me on IRC channel if you have a question.\nServer : irc.foonetic.net\nChannel: #tusharroy",
+        "publishedAt": "2007-11-14T19:18:29.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxB7muf67eZr3mRD8MKi3FK0sg2SiR94heZ3Q=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxB7muf67eZr3mRD8MKi3FK0sg2SiR94heZ3Q=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxB7muf67eZr3mRD8MKi3FK0sg2SiR94heZ3Q=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Tushar Roy - Coding Made Simple",
+          "description": "This channel is to make learning easy for everyone.\nContact me on IRC channel if you have a question.\nServer : irc.foonetic.net\nChannel: #tusharroy"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUZLJf_R2sWyUtXSKiKlyvAw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUZLJf_R2sWyUtXSKiKlyvAw"
+  },
+  "displayName": "Tushar Roy - Coding Made Simple",
+  "description": "This channel is to make learning easy for everyone.\nContact me on IRC channel if you have a question.\nServer : irc.foonetic.net\nChannel: #tusharroy",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxB7muf67eZr3mRD8MKi3FK0sg2SiR94heZ3Q=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxB7muf67eZr3mRD8MKi3FK0sg2SiR94heZ3Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxB7muf67eZr3mRD8MKi3FK0sg2SiR94heZ3Q=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

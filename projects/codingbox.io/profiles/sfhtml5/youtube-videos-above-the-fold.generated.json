@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_SnEe_Gz910Qq6kbvkXH6fxyNTU\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLmI3T2tlOHBkNnVF",
+    "snippet": {
+      "publishedAt": "2020-02-29T04:22:13.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Standardizing select  What the future holds for HTML Controls with Stephanie Stimac",
+      "description": "Thought HTML was done? Think again! Those who work on the web platform are ready to extend HTML controls with not only updated native web styles, so that we're no longer stuck in the Windows 95 era of design, but we're also starting to look at new HTML controls to help solve some of the problems developers encounter when trying to extend the current controls to fit their needs. We're also taking a step back to re-examine what the key pain points for developers are when it comes to controls. Our first stop? The select element. I'll discuss the current state of styling the select element, the developer feedback we've received that's indicated this is a problem space we need to fix, what the future looks like for improving (dare I say standardizing?) and how developers and designers can get involved to help drive the future of these components forward.\n\nAbout the speaker:\nStephanie Stimac (@seaotta) is a Program Manager for Developer Experiences on Microsoft Edge who comes from a background in web and user interface design as well as front-end development. She's worked on developer tooling in the browser as well as the open source project, webhint.io and is currently responsible for Edge developer engagement through the Web We Want initiative. Before Microsoft, she worked in an agency crafting digital experiences for a range of large clients like Honeywell, Microsoft Military Affairs, Microsoft Windows and T-Mobile. She has a passion for the open web and helping to drive the future of it forward.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b7Oke8pd6uE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b7Oke8pd6uE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b7Oke8pd6uE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b7Oke8pd6uE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b7Oke8pd6uE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "b7Oke8pd6uE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/A-7v4HwXtk09pXw0QCfN6a9vvZI\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLlRTakFpd0ZNQjM0",
+    "snippet": {
+      "publishedAt": "2020-02-01T05:40:56.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Moving Pictures  A Snapshot At the Future of Web Media with Henri Helvetica",
+      "description": "On a cold February night, NCSA Mosaic browser engineers would propose the addition of a new HTML tag: IMG. It was believed that adding images to the web would promote experimentation, and push the web forward.\n\nIndeed forward the web went. We now have a mélange of media coming down the wire and at an increasingly higher rate every year. All this rich data has made for challenging performance, and engineers have been feverishly researching solutions around greater media compression . ‘Moving Pictures’ explores the ways we are tackling this problem, through current research around (you guessed it) new open source image and video formats used in present day, and planned for future use.\n\nAbout the speaker\nHenri is a freelance developer who has turned his interests to a passionate mix of site performance engineering and pinches of user experience. When not reading the deluge of daily research docs and case studies, or auditing sites in devtools, Henri can be found contributing back to the community: Toronto Web Performance Group meetup + JAMstack TORONTO organizer + SPOTLIGHT: PERFORMANCE co-organizer, curating conference content or volunteering his time for lunch and learns at various bootcamps. Additionally, you can find him frequenting conferences, and touching base w/ the community - all with a radiant smile. Otherwise, Henri is focusing on running the fastest 5k possible (surprise surprise).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TSjAiwFMB34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TSjAiwFMB34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TSjAiwFMB34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TSjAiwFMB34/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TSjAiwFMB34/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TSjAiwFMB34"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yCv-Z2tEWt159zu22L0groC-ink\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLlAzNTUwYUpzOHJj",
+    "snippet": {
+      "publishedAt": "2019-10-26T04:37:24.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Firebase for the Web with Sumit Chandel",
+      "description": "The Firebase team recently announced some important web updates at the Firebase Summit last month - web support for Analytics, Remote Config and Firebase Cloud Messaging. You could do some pretty cool things with these features already in your Android or iOS mobile apps, and now you can also do 'em for your web apps - or heck even across all your platforms. With Analytics, you can learn how you're users are using your app. With Remote Config, you can change the look and feel of your app on the fly for different groups of users segmented by your Analytics data, or other web-specific conditions like the user's browser or platform. And with Firebase Cloud Messaging, you can send and target your notifications to your users by segment or any other criteria important to you. Come learn about what these new features are all about, and how to use them in your web apps.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P3550aJs8rc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P3550aJs8rc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P3550aJs8rc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/P3550aJs8rc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/P3550aJs8rc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "P3550aJs8rc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/O7EUZXPffXoIpnt-1j1rGyzooEM\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLlgzX0tnUnJOdWQ4",
+    "snippet": {
+      "publishedAt": "2019-08-24T05:40:54.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Maximizing Productivity with the Edge Developer Tools",
+      "description": "The web has never been more capable--the customer experiences we build increasingly rival native platforms on all fronts. What’s often lost in all this end-customer innovation, though, is a seamless end-to-end experience for web devs. Taming the complexity it takes to build a modern site or app requires an often overwhelming array of tools, frameworks, and services. Join us as we venture--from IDE to livesite--through a few of the Edge developer tools we’re investing in to ease that development journey.\n\nAbout the speaker\nBrendyn Alexander (@webrendyn) started as a web dev in the late 90s and works now as the Developer Tools product lead on the Edge team. Though most of his time these days is spent in meetings (dreaming of doing), the passion to connect with, learn from, & empower web devs burns strong.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X3_KgRrNud8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X3_KgRrNud8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X3_KgRrNud8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X3_KgRrNud8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X3_KgRrNud8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "X3_KgRrNud8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IeTH8oYuH4--sONw4Fo3dTyxlf4\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLmxIQkUwbUlEVEhr",
+    "snippet": {
+      "publishedAt": "2019-08-24T05:39:44.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "New & Experimental CSS Tools in Firefox",
+      "description": "The Firefox DevTools team has been hard at work on a new set of HTML/CSS tools that address everything from the latest layout specs to age-old frustrations of building the web. We’ll go behind the scenes of seven new tools and take a peek at some far-flung future ideas.\n\nAbout the speaker\nVictoria Wang (@violasong) is a UX Designer at Mozilla working on Firefox Developer Tools. Previously, she co-created https://neocities.org.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lHBE0mIDTHk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lHBE0mIDTHk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lHBE0mIDTHk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lHBE0mIDTHk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lHBE0mIDTHk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lHBE0mIDTHk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lHakx90VFrrlw-sKj3qNhL0Oyw0\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLjFyZDAzUExxOFRn",
+    "snippet": {
+      "publishedAt": "2019-08-24T05:39:44.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Lightning Talk: Introduction to Istio with Marek Sadowski",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1rd03PLq8Tg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1rd03PLq8Tg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1rd03PLq8Tg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1rd03PLq8Tg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1rd03PLq8Tg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1rd03PLq8Tg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L5mjn-hLSV_6_FUOhVdaHqlwpEA\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLlZZeVF2MENTWk9F",
+    "snippet": {
+      "publishedAt": "2019-08-24T05:39:44.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Build better sites faster with Chrome DevTools",
+      "description": "The ultimate goal of Chrome DevTools is to help you build better sites, or build sites faster, or maybe even both. If you've never used DevTools before, this talk will show you some core DevTools workflows, like debugging CSS and JavaScript, simulating mobile devices, and analyzing page load performance. If you use DevTools every day, we'll cover a lot of new and hidden features along the way that you may not know about. So hopefully there'll be something for everyone.\n\nAbout the speaker\nKayce Basques (@kaycebasques) writes the Chrome DevTools docs, makes DevTools videos, and does community outreach to find out how to make DevTools more useful.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VYyQv0CSZOE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VYyQv0CSZOE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VYyQv0CSZOE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VYyQv0CSZOE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VYyQv0CSZOE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VYyQv0CSZOE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/udu7fZhPwF4yzOq7rJvM4c5JLQc\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLlRIVE9ORTMzbUQ4",
+    "snippet": {
+      "publishedAt": "2019-08-24T05:39:45.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "It takes a Village: Lessons on Collaborative Web Development",
+      "description": "Which of the teams, companies, business partners, or open source communities that you work with is the most geographically dispersed? Think about the tools that empower you and your collaborators to discuss, plan, triage, brainstorm, design, review, test, maintain, etc. – together. Are browser developer tools anywhere in that list? Let’s talk about existing and new collaborative workflows in DevTools that can bring your team together.\n\nAbout the speaker\nHarald Kirschner (@digitarald) is part of the global Mozilla community, where he works on Firefox’s Developer and Performance Tools – supporting developers build the Internet as a global public resource, accessible to all. Prior Mozilla projects are a mix of acronyms and obscure names, like asm.js, B2G, WASM, Quantum, OWA, PWA, and many others.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/THTONE33mD8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/THTONE33mD8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/THTONE33mD8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/THTONE33mD8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/THTONE33mD8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "THTONE33mD8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hpTbD3YrUxz1QRpt2LxDOYJ4tF0\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLjhkZHhmYm5hSXYw",
+    "snippet": {
+      "publishedAt": "2019-07-27T06:43:46.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "CSS Selectors  with Estelle Weyl",
+      "description": "From the co-author of CSS: The Definitive Guide, and the CSS teacher for FrontEnd Masters, you'll learn more than you ever wanted to know about CSS Selectors, specificity and tricks for scoping.\n\nAbout the speaker\nEstelle Weyl (@estellevw) is a consulting web developer, trainer, author and speaker. She speaks and leads workshops on web development all over the world. Her books have been translated into over 14 languages. She's been coding CSS, HTML, and JavaScript since 1999 and she organizes the Perf Matters conference (@perfmattersconf).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8ddxfbnaIv0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8ddxfbnaIv0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8ddxfbnaIv0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8ddxfbnaIv0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8ddxfbnaIv0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8ddxfbnaIv0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SUPOPES685CByuWx6J9-QTG9028\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLjRNN0xUOUpVamlZ",
+    "snippet": {
+      "publishedAt": "2019-07-27T06:43:54.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Lighting Talk - Nigel Brown",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4M7LT9JUjiY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4M7LT9JUjiY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4M7LT9JUjiY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4M7LT9JUjiY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4M7LT9JUjiY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4M7LT9JUjiY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ezx1-Tv2OPYFVMMtfxhtTrt8vwc\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLkxRblpFYVVoNV9V",
+    "snippet": {
+      "publishedAt": "2019-06-22T07:18:00.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Lighting Talk - Web Components in Action with Ben Farrell",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LQnZEaUh5_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LQnZEaUh5_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LQnZEaUh5_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LQnZEaUh5_U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LQnZEaUh5_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LQnZEaUh5_U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Biksm2uloY5kh1BTK1P6p6OceF0\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLmhoeDJCNXI3Nmpr",
+    "snippet": {
+      "publishedAt": "2019-06-22T07:18:06.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Lighting Talk - Blockchain and Supply Chain with Lennart Frantzell",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hhx2B5r76jk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hhx2B5r76jk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hhx2B5r76jk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hhx2B5r76jk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hhx2B5r76jk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hhx2B5r76jk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dMmozHgzOOfAyi1ZU4T661xEpDo\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLjlGQjBHU09BRVNv",
+    "snippet": {
+      "publishedAt": "2019-06-22T07:18:12.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Declarative Reactive Web Components with Justin Fagnani",
+      "description": "Declarative component definition and reactive DOM rendering have taken over web development. Learn how lit-html and LitElement bring this style of component development to standard web components, allowing you to build components in a familiar and productive way that work with all frameworks.\n\nAbout the speaker:\nJustin Fagnani (@justinfagnani) has been working on developer tools for over 10 years at Google. He founded the Google App Maker project, worked on Web Components and JavaScript interop for the Dart programming language, and then tools for the Polymer Project. Recently he's been building Polymer's next-generation UI libraries like lit-html and LitElement.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9FB0GSOAESo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9FB0GSOAESo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9FB0GSOAESo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9FB0GSOAESo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9FB0GSOAESo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9FB0GSOAESo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XxU0B3K_8yNy47gaeRL2mZ1dW-c\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLk1rbmFBbldCTUNN",
+    "snippet": {
+      "publishedAt": "2019-05-25T12:59:42.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "State of the WebXR API with Brandon Jones",
+      "description": "State of the WebXR API (aka: When's it gonna ship?) with Brandon Jones\nIn this talk, Brandon will provide an update on the what's been happening with the WebXR API lately, give an overview of the milestones the working group has laid out for the remainder of 2019, and let attendees know when they can start using the API in Chrome.\n\nAbout the speaker:\nBrandon Jones is an engineer on the Google Chrome team and a Spec Editor for the WebXR Device API. Prior to working on bringing immersive computing to the web, Brandon worked on the WebGL and WebGL 2.0 APIs and their implementations in Chrome, an has been pursing both graphics and web development both professionally and as a hobby for a long time prior that.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MknaAnWBMCM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MknaAnWBMCM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MknaAnWBMCM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MknaAnWBMCM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MknaAnWBMCM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MknaAnWBMCM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8H9d_RrAr8aFGLqpjA8DP3UNAD8\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLmxzU2NFYWJOdXRB",
+    "snippet": {
+      "publishedAt": "2019-05-25T12:58:42.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "model-viewer: Web3D made easy with Chris Joel",
+      "description": "Web 3D Made Easy with Chris Joel\nIt's time to bring 3D content to the web. But, 3D graphics are a tricky subject. How can you be sure that your models will be rendered in the best light? How can you ensure the best performance? What about browser compatibility? The surprising answer to all these problems: good ol' HTML! We'll introduce you to the element, and you'll learn how HTML will become the building blocks for 3D content publishing on the web.\n\nAbout the speaker:\nChris Joel is a web platform engineer on the Google DevXR team, and TL of the project. In previous lives, he was a core member of the Polymer team and front-end performance optimization lead at CloudFlare.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lsScEabNutA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lsScEabNutA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lsScEabNutA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lsScEabNutA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lsScEabNutA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lsScEabNutA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IWLNDH0q_xa2gL-1udvpMGYG7lc\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLm1LNHB6TXkyc0Rv",
+    "snippet": {
+      "publishedAt": "2019-05-25T12:57:24.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "A-Frame, what's new and what's next with Diego Marcos",
+      "description": "A-Frame, what's new and what's next with Diego Marcos\nDiego will give an overview of A-Frame 0.9.2 and roadmap to 1.0.0\nAbout the speaker:\nDiego is co-founder of Supermedium, the browser for the VR Internet, and co-creator and maintainer of A-Frame: A web framework for building virtual reality experiences.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mK4pzMy2sDo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mK4pzMy2sDo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mK4pzMy2sDo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mK4pzMy2sDo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mK4pzMy2sDo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mK4pzMy2sDo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mCDUZS8HGLLyeyZWozzyOROEhTs\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLnIwVFhZQk52VGZJ",
+    "snippet": {
+      "publishedAt": "2019-05-25T12:55:47.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Web Powered Augmented Reality with Betty Peng",
+      "description": "Web-Powered Augmented Reality with Betty Peng\nA journey through prototypes and projects to enable augmented reality experiences with the power of the web. We’ll take a closer look into how AR and the web helped make the “Explore I/O” mode possible at this year’s Google I/O conference.\n\nAbout the speaker:\nBetty Peng is a software engineer on the Daydream WebXR team at Google. Her current work focuses on building the immersive future of the web. Betty graduated from Brown University with a double degree in Computer Science and English.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r0TXYBNvTfI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r0TXYBNvTfI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r0TXYBNvTfI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r0TXYBNvTfI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r0TXYBNvTfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "r0TXYBNvTfI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KXEMcQHClRbbNc0aCwdjIYkDkRs\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLkVuYnRDc05HbnM0",
+    "snippet": {
+      "publishedAt": "2019-05-25T12:54:32.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Q & A - All about WebXR",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EnbtCsNGns4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EnbtCsNGns4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EnbtCsNGns4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EnbtCsNGns4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EnbtCsNGns4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EnbtCsNGns4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8MipF_50Tfj5KCTt1LEJQUP3K3g\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLjR4dGJMRXl3eE9n",
+    "snippet": {
+      "publishedAt": "2019-05-25T12:54:39.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "Lighting Talk - Rapid mobile app development with Anthony Amanse",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4xtbLEywxOg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4xtbLEywxOg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4xtbLEywxOg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4xtbLEywxOg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4xtbLEywxOg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4xtbLEywxOg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6R8SS4HKTR0hqo6MOMs4bGC1L2c\"",
+    "id": "VVV5dXBIbUpWdVVHcENNemVtSFluVXFRLkxwbTR1MVhrWnpJ",
+    "snippet": {
+      "publishedAt": "2019-04-06T04:37:37.000Z",
+      "channelId": "UCyupHmJVuUGpCMzemHYnUqQ",
+      "title": "The Past, Present, and Future of Angular: QA with Stephen Fluin",
+      "description": "The Past, Present, and Future of Angular: QA with Stephen Fluin\n\nThe Past, Present, and Future of Angular\nIn 2018, the Angular community grew over 50%. Developers and organizations around the world are choosing Angular to build their applications and businesses. Catch up on how far they've come, how teams can be effective today, learn about the upcoming version 8, and hear about new investments by the Angular team into the future of web development.\n\n\nAbout the speaker\n\nStephen Fluin (@stephenfluin) leads Developer Relations on the Angular Team at Google. He works to solve real world problems faced by developers and businesses, and to represent the needs of the community within the Angular team.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Lpm4u1XkZzI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Lpm4u1XkZzI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Lpm4u1XkZzI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Lpm4u1XkZzI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Lpm4u1XkZzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SFHTML5",
+      "playlistId": "UUyupHmJVuUGpCMzemHYnUqQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Lpm4u1XkZzI"
+      }
+    }
+  }
+]

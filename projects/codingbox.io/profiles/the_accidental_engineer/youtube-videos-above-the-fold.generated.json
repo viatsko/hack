@@ -1,0 +1,882 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YhIviWfGI2HzDsfLPbGk3RKmWT0\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLlR5NDlTanB6Y1Zj",
+    "snippet": {
+      "publishedAt": "2019-12-04T00:07:12.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "We’ve reached 100 Accidental Engineer episodes",
+      "description": "A reverse chronological montage of the first 100 episodes on the podcast",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ty49SjpzcVc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ty49SjpzcVc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ty49SjpzcVc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ty49SjpzcVc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GcBqsBkh1NAlBe6ZoPNFAZ5I2JA\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLnRzQk5xdUxkd3Q4",
+    "snippet": {
+      "publishedAt": "2019-11-14T16:32:30.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "How Getting Mugged on the Job Led Stuart Sandine to Software Engineering",
+      "description": "For the full episode:\n\n\nhttps://theaccidentalengineer.com/vegan-donuts-parallel-testing-stuart-sandine/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tsBNquLdwt8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tsBNquLdwt8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tsBNquLdwt8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tsBNquLdwt8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tsBNquLdwt8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tsBNquLdwt8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yBhqDZx44v1_qmrVGQ3OYJCId4E\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLm9iUVVWbU9Mdmxj",
+    "snippet": {
+      "publishedAt": "2019-05-05T22:54:39.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "A Billion Software Engineers: Paul Biggar, CTO @ Dark",
+      "description": "Paul Biggar has co-founded Dark the tools company for software engineering primitives.\n\nPreviously, he founded CircleCI–the popular continuous integration service–and obtained his PhD in Computer Science from Trinity University in Dublin, Ireland.\n\nIn this episode we cover:\n\n- the scope of engineering tools that Dark aims to provide,\n- the chronology of Paul’s career story so far, from academics to startups,\n- the first software Paul ever wrote\n\nFor more: https://theaccidentalengineer.com/billion-software-engineers-paul-biggar-cto-dark/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/obQUVmOLvlc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/obQUVmOLvlc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/obQUVmOLvlc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/obQUVmOLvlc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/obQUVmOLvlc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "obQUVmOLvlc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bVQaSRwkCKv5_RPZ_jP1lE661as\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLlBHenpBQU9OOWsw",
+    "snippet": {
+      "publishedAt": "2019-05-10T16:35:19.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "To the States: George Arison, Co-Founder @ Shift",
+      "description": "George Arison co-founded Shift out of his apartment in the Castro neighorhood of San Francisco.\n\nStarting with CraigList ads, the company has grown to be a national brand for buying & selling used cars.\n\nHear George’s story, starting from a childhood in the USSR, immigrating to the USA, and becoming an entrepreneur.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PGzzAAON9k0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PGzzAAON9k0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PGzzAAON9k0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PGzzAAON9k0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PGzzAAON9k0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PGzzAAON9k0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VLn0zS5tvyUl2PL_oSwZZBcEs2I\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLldCSlU3QkktSS1N",
+    "snippet": {
+      "publishedAt": "2019-04-20T05:26:28.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Why software apprenticeships?",
+      "description": "With Meggie Mahnken, Senior Director of Education @ Hackbright Academy:\n\nhttps://theaccidentalengineer.com/bootcamp-curriculum-meggie-mahnken-hackbright-academy-interview/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WBJU7BI-I-M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WBJU7BI-I-M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WBJU7BI-I-M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WBJU7BI-I-M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WBJU7BI-I-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WBJU7BI-I-M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mtI6AKS22KEcG_qL397q_TOUSGc\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLnNuUUVOT3pqaWFV",
+    "snippet": {
+      "publishedAt": "2019-04-17T04:25:21.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Customer Education Management: Sumeru Chatterjee, Gong.io",
+      "description": "Sumeru Chatterjee created the international community CustomerEducation.org.\n\nBesides leading the conversation about “customer education” teams in tech companies, Sumo is joining Gong.io and previously worked at Addepar.\n\nIn this appearance we cover:\n\n- what “customer education” means\n- where these teams originate within companies\n- which parts of the business lifecycle are touched by customer educators\n\nFor the full episode: https://theaccidentalengineer.com/customer-education-management-sumo-chatterjee-gong-io/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/snQENOzjiaU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/snQENOzjiaU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/snQENOzjiaU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/snQENOzjiaU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/snQENOzjiaU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "snQENOzjiaU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rln7ssJmNxZ5Rm0arbsmHZBeGFU\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLm9LQ3VXbXdNTXpN",
+    "snippet": {
+      "publishedAt": "2019-04-19T14:15:59.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "PM Storytellers: Ryan Harper, SVP Product @ Citi Ventures",
+      "description": "Ryan Harper of Citi Ventures joins to share his path into product management.\n\nPreviously, he has been a product manager at Conde Naste, WebMD and IHeartMedia.\n\nIn this appearance we cover:\n\n- the trials & tribulations of working on software products\n- the data & methods that product managers use to identify the “voice of the customer”\n- the importance of sharing a story with data and not just data\n\nFor the full interview:\n\nhttps://theaccidentalengineer.com/product-manager-storytelling-ryan-harper-svp-product-citi-ventures/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oKCuWmwMMzM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oKCuWmwMMzM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oKCuWmwMMzM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oKCuWmwMMzM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oKCuWmwMMzM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oKCuWmwMMzM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8f0NaHxbR0X5ghyZaey8DOWDp4s\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLnhZYXRrOW1WdkJv",
+    "snippet": {
+      "publishedAt": "2019-04-09T05:00:12.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Bootcamp Curriculum: Meggie Mahnken, Hackbright Academy",
+      "description": "Meggie Mahnken joins the show to share about Hackbright Academy, the all-women software engineering bootcamp.\n\nWe also heard from Meggie about her own story of getting into software engineering from an undergraduate degree from UC Berkeley in Gender Studies.\n\nIn this appearance we cover:\n\n- what Hackbright curriculum looks like\n- which job titles Hackbright alumnae have tended to get out of the program\n- how Hackbright admissions interviews are like real job interviews\n\nFor the full interview:\n\nhttps://theaccidentalengineer.com/bootcamp-curriculum-meggie-mahnken-hackbright-academy-interview/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xYatk9mVvBo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xYatk9mVvBo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xYatk9mVvBo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xYatk9mVvBo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xYatk9mVvBo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kSjVuch1MS0wml8_NPPpQA666Us\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLnZPeG9JeVVjQ0FV",
+    "snippet": {
+      "publishedAt": "2019-04-09T02:22:50.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Rapidly Building Software: Anand Kulkarni, CEO @ Crowdbotics",
+      "description": "Anand Kulkarni re-joins the show to share the latest with Crowdbotics, the software building service.\n\nAnand appeared on the show in Season 1 last year.\n\nIn this appearance we discussed:\n\n- what can be learned from scanning open source package indices (PyPI, RubyGems, NPM)\n- how to choose technologies as an early stage startup\n- when you should trust 3rd party platforms for building developer products\n\nFor the full interview: https://theaccidentalengineer.com/building-software-rapido-anand-kulkarni-crowdbotics/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vOxoIyUcCAU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vOxoIyUcCAU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vOxoIyUcCAU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vOxoIyUcCAU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vOxoIyUcCAU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/it8qXtk2aIa3e-I9qbgZv3dDOR0\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLmpDMURrTXVVRElv",
+    "snippet": {
+      "publishedAt": "2019-04-05T03:03:19.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Continuous Integration Today: Ray Sennewald, Senior Software Engineer @ Box, Inc",
+      "description": "Ray Sennewald manages build and release pipelines at Box, the file-hosting corporation.\n\nIn this episode we discuss:\n\nthe trials & tribulations of building software for many different devices\nhow a startup might do continuous integration vs. a public company\nwhat best practices exist for managing your multi-platform software builds\n\nFor the full episode: https://theaccidentalengineer.com/continuous-integration-ray-sennewald-engineer-box/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jC1DkMuUDIo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jC1DkMuUDIo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jC1DkMuUDIo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jC1DkMuUDIo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jC1DkMuUDIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jC1DkMuUDIo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8MS5olPrcdGxv0OOi-wEI8oIWz8\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLlRWZFA0cHlDWGE4",
+    "snippet": {
+      "publishedAt": "2019-04-03T06:47:54.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Consulting on Growth Marketing: Will Leiter, Advisor",
+      "description": "Will Leiter consults to tech companies at his own Will Leiter Consulting.\n\nHe’d previously served as Head of Pro Growth at Thumbtack, the local services startup valued at over $1 billion.\n\nIn this episode we discuss:\n\n- what growth marketing means at tech companies\n- how brand & performance marketing are different\n- what role software plays in the consulting that Will performs for his clients\n\nFor the full interview visit our website: https://theaccidentalengineer.com/consulting-growth-marketing-software-will-leiter/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TVdP4pyCXa8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TVdP4pyCXa8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TVdP4pyCXa8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TVdP4pyCXa8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TVdP4pyCXa8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TVdP4pyCXa8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/a2TCOPdO-8Vcde-62mAhvbSQzi4\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLlpSLTJpdWVKRkZv",
+    "snippet": {
+      "publishedAt": "2019-03-22T03:37:48.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Designing Services: Andrea Fineman, Getaround",
+      "description": "Andrea designs the way that users interact with the Getaround car rental service.\n\nShe came to Getaround by way of Adaptive Path (now Capitale One) and received her Masters from Carnegie Mellon University.\n\nIn this episode we discuss:\n\n- what is service design\n- how product management and service design are distinguished\n- the Google projects Minnie was involved with in her tenure there\n\nFor the full interview:\n\nhttps://theaccidentalengineer.com/designing-services-andrea-fineman-getaround/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZR-2iueJFFo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZR-2iueJFFo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZR-2iueJFFo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZR-2iueJFFo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZR-2iueJFFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZR-2iueJFFo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rZREYaiYKxH08FRwin6vGr-ys6c\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLkpxdnBzRjVRbERr",
+    "snippet": {
+      "publishedAt": "2019-03-18T05:56:59.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Operators & Startups: Minnie Ingersoll, Investor @ 10110 Ventures",
+      "description": "Minnie Ingersoll recently joined 10110 Ventures as an investor in tech startups.\n\nBefore becoming an investor Minnie co-founded Shift.com and served as COO for 5 years. Originally studying computer science in undergrad, Minnie also spent over 10 years at Google as a PM.\n\nIn this episode we discuss:\n\n- the responsibilities of a COO within a startup\n- unique qualities of Los Angeles-based startup environment\n- the variety of Google projects Minnie got involved with in her long tenure there\n\nFor the full interview:\n\nhttps://theaccidentalengineer.com/operators-startups-minnie-ingersoll-investor-10110-ventures/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JqvpsF5QlDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JqvpsF5QlDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JqvpsF5QlDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JqvpsF5QlDk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JqvpsF5QlDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JqvpsF5QlDk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/h6Gb6JkK6TStXIuu7oTVQBiJRF8\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLlVFWXg4OWgwZzU4",
+    "snippet": {
+      "publishedAt": "2019-03-09T21:14:44.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Skills Tests & Compensation: Aline Lerner, CEO @ Interviewing.io",
+      "description": "Aline Lerner, CEO + Founder at Interviewing.io rejoins the show to share engineering career insights.\n\nWe cover lots of job market data in this episode including:\n\n- the relationship between job interview performance and compensation\n- advice to employers on how to proctor technical interviews\n- favorite snacks to be eaten during interviews(!)\n\nOriginal interview:\n\nhttps://theaccidentalengineer.com/skills-tests-and-compensation-aline-lerner-interviewing-io/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UEYx89h0g58/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UEYx89h0g58/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UEYx89h0g58/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UEYx89h0g58/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UEYx89h0g58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UEYx89h0g58"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7nIvvQQ0ye7TEG0_PY_P0k-Pg_w\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLjEtUk11bDVRZXBv",
+    "snippet": {
+      "publishedAt": "2019-02-26T04:31:16.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Operative Sales: Taft Love, Vice President of Revenue @ HouseCanary",
+      "description": "Taft Love runs inside sales at HouseCanary, a home-valuation startup that offers Software-as-a-Service.\n\nWe discuss how software engineers and sales employees communicate in order to inform the direction a company builds its products.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1-RMul5Qepo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1-RMul5Qepo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1-RMul5Qepo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1-RMul5Qepo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1-RMul5Qepo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1-RMul5Qepo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/I02eq-7McbJe3aQ9fI4ZU99_7A0\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLkt0clJaMEZfTjh3",
+    "snippet": {
+      "publishedAt": "2018-03-04T23:42:00.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Job Search Criteria: Chang She, Engineering Manager @ Cloudera",
+      "description": "Chang She started his career at hedge fund AQR Capital Management before leaving finance to co-found DataPad with his college classmate, Wes McKinney.\n\nDataPad was acquired by Cloudera in 2014 and now Chang manages a team within Cloudera.\n\nWe discuss how contributing to open source software has impacted Chang’s career, and the 3 criteria that Chang recommends you evaluate before accepting a job offer.\n\nFor more info about Chang and the interview: \n\nhttps://theaccidentalengineer.com/job-search-criteria-chang-she-cloudera/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KtrRZ0F_N8w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KtrRZ0F_N8w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KtrRZ0F_N8w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KtrRZ0F_N8w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KtrRZ0F_N8w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KtrRZ0F_N8w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kNHFoKZI4kJAgs-wTiwTUAk1VQc\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLjVScnNiekk2ajNJ",
+    "snippet": {
+      "publishedAt": "2018-01-16T09:47:50.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Technical Interviewing Anonymous: Aline Lerner, CEO @ Interviewing.io",
+      "description": "Aline Lerner, CEO of Interviewing.io, has been on every side of the software engineering hiring equation.\n\nShe started her career as a software engineer out of MIT, took on recruiting, started her own recruiting agency, and now has formulated a test environment for job candidates to prepare their job interviewing skills.\n\nIf you’re curious about how you can get *better* at interviewing for software engineering jobs, then listen to our conversation to find the answers!\n\nFor the full text transcript see the interview on the Accidental Engineer:\n\nhttps://theaccidentalengineer.com/technical-interviewing-anonymous-aline-lerner-ceo-interviewing-io/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5RrsbzI6j3I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5RrsbzI6j3I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5RrsbzI6j3I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5RrsbzI6j3I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5RrsbzI6j3I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5RrsbzI6j3I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dOLOpHBM-XXAS8mMPGDIAFTAIEY\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLmF3RlRSak1aNS1R",
+    "snippet": {
+      "publishedAt": "2017-12-28T14:20:22.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Returning for Computer Science: Carol Toro",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/awFTRjMZ5-Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/awFTRjMZ5-Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/awFTRjMZ5-Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/awFTRjMZ5-Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/awFTRjMZ5-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "awFTRjMZ5-Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3pl8esJg-Uxim8U7YgK8Cq7rj4E\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLkNqbEV5S3JoX0FZ",
+    "snippet": {
+      "publishedAt": "2018-04-13T17:46:09.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Co-founding a Hardware Startup: Aaron Zarraga, CTO of Sensel",
+      "description": "Aaron Zarraga began his career as a hardware engineer at Amazon in San Jose on the Concept Engineer team.\n\nLeaving his full-time job with Amazon to co-found a hardware startup (Sensel) was a difficult decision with lots of learning moments for Aaron.\n\nWe cover Aaron’s professional background, and Aaron shares hard-earned advice for engineers interested in the development process of hardware products:\n\nhttps://theaccidentalengineer.com/prototype-to-product-aaron-zarraga-cto-sensel/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CjlEyKrh_AY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CjlEyKrh_AY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CjlEyKrh_AY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CjlEyKrh_AY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CjlEyKrh_AY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CjlEyKrh_AY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IMQOhjpreSB6zsAbmPQIcKsFoW0\"",
+    "id": "VVV1YXZSOHFLbEZSQXBBT20xY2k1TnZRLlBKd1RCZVJxN1Q0",
+    "snippet": {
+      "publishedAt": "2017-12-08T17:05:39.000Z",
+      "channelId": "UCuavR8qKlFRApAOm1ci5NvQ",
+      "title": "Accounting to Coding: Kat Gordiienko, Senior Analytics Engineer @ Netflix",
+      "description": "Kat Gordiienko began her career working full-time as an accountant while completing her senior year of college as an economics major.\n\nShort on time between her job and education Kat was forced to adopt programming on the job. She taught herself SQL and—after a number of subsequent years in BI consulting–ultimately took a Senior Analytics Engineer role with Netflix.\n\nThis interview covers Kat’s background and advice she has for accidental engineers like she once was herself. \n\nTo view the interview on the Accidental Engineer site:\n\nhttps://theaccidentalengineer.com/accounting-to-coding-kat-gordiienko-interview-netflix/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PJwTBeRq7T4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PJwTBeRq7T4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PJwTBeRq7T4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PJwTBeRq7T4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PJwTBeRq7T4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Accidental Engineer",
+      "playlistId": "UUuavR8qKlFRApAOm1ci5NvQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PJwTBeRq7T4"
+      }
+    }
+  }
+]

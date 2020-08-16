@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dCt1E8erEPAshTC6Hv7mzLu6rHc\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLmozMzJXZmhOQUZn",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:18.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Building a great CI w/ Bazel",
+      "description": "Philipp Wollermann, Google",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j332WfhNAFg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j332WfhNAFg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j332WfhNAFg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j332WfhNAFg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/j332WfhNAFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "j332WfhNAFg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hX138OxoElu4XZ1n7UcB97XJrqM\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLk1GMmJhaG5BdWVN",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:09.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Dynamic Scheduling",
+      "description": "Julio Merino, Google",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MF2bahnAueM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MF2bahnAueM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MF2bahnAueM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MF2bahnAueM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MF2bahnAueM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MF2bahnAueM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/a6pIM3T2ST7Jq493qkzRmd_P1SA\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLlV3dVJHcFZwbWJv",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:04.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Bazel Migration Patterns",
+      "description": "Alex Eagle and Greg Magolan, Google",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UwuRGpVpmbo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UwuRGpVpmbo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UwuRGpVpmbo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UwuRGpVpmbo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UwuRGpVpmbo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UwuRGpVpmbo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FOJ-hy4zx5o4jqDNE_uMCof98Rw\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLjFLYmZrT1dPLURZ",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:01.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Half-Day Bazel Bootcamp (Part 2)",
+      "description": "Kyle Cordes, Oasis Digital",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1KbfkOWO-DY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1KbfkOWO-DY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1KbfkOWO-DY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1KbfkOWO-DY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1KbfkOWO-DY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1KbfkOWO-DY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vmklQchzmszUFLKmiN3c18jlgps\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLkJHT0VxNUZkTlVR",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:02.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Half-Day Bazel Bootcamp (Part 1)",
+      "description": "Kyle Cordes, Oasis Digital",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BGOEq5FdNUQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BGOEq5FdNUQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BGOEq5FdNUQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BGOEq5FdNUQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BGOEq5FdNUQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BGOEq5FdNUQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4pQ43SyyA5fMhtCYdYfuZQg4uuA\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLmI4dVI3X3ZSZVEw",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:12.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Gradle to Bazel + Q&A",
+      "description": "Chip Dickson and Charles Walker, SUM Global",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b8uR7_vReQ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b8uR7_vReQ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b8uR7_vReQ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b8uR7_vReQ0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b8uR7_vReQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "b8uR7_vReQ0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZmC-57FX0IQluetKHSAHMhpQ4B0\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLnJRdjFzakxVNGNJ",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:21.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Make local development (with Bazel) great again!",
+      "description": "Ittai Zeidman, Wix",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rQv1sjLU4cI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rQv1sjLU4cI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rQv1sjLU4cI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rQv1sjLU4cI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rQv1sjLU4cI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rQv1sjLU4cI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0mJ1lZbbwPe5TicmZdvq8ACEpeQ\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLmZqZkZlOThMVG04",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:10.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Building Self Driving Cars with Bazel + Q&A",
+      "description": "Michael Broll and Nico Valigi, Cruise",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fjfFe98LTm8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fjfFe98LTm8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fjfFe98LTm8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fjfFe98LTm8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fjfFe98LTm8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fjfFe98LTm8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-bgiY0QFOhur8Wk7NKJ951nztpM\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLjIxVlBlN0hjdVBF",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:00.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Integrating with ease: Leveraging BuildStream interaction with Bazel build",
+      "description": "Daniel Silverstone, Codethink",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/21VPe7HcuPE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/21VPe7HcuPE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/21VPe7HcuPE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/21VPe7HcuPE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/21VPe7HcuPE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "21VPe7HcuPE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/m3HdAKZ1o11FqJqUyzzN6Ec0JMY\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLnhQNkJJRVVaaDlZ",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:10.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Building on Key – Keeping your Actions and Remote Executions in Tune + Q&A",
+      "description": "George Gensure, Uber ATG",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xP6BIEUZh9Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xP6BIEUZh9Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xP6BIEUZh9Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xP6BIEUZh9Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xP6BIEUZh9Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xP6BIEUZh9Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yZiFpiFjH4dsbFhxjMi_zf-SPnU\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLjN3X0k5VG9ZMDRz",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:00.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Bazel Remote Execution API vs. Goma + Q&A",
+      "description": "Mostyn Bramley-Moore, Vewd Software",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3w_I9ToY04s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3w_I9ToY04s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3w_I9ToY04s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3w_I9ToY04s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3w_I9ToY04s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3w_I9ToY04s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FpXFeL8d-RbBS63DD-6Pfk7m3IM\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLnEzUkFPd2V6ZXhV",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:11.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 2: Remote Execution for Windows + Q&A",
+      "description": "Erik Mavrinac, Microsoft",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q3RAOwezexU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q3RAOwezexU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q3RAOwezexU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q3RAOwezexU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q3RAOwezexU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "q3RAOwezexU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3HsT5j-3gG97r7-TeexKgXReUGY\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLl83SUljM1pUd0tr",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:09.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 1: Lightning Talk – Package manager integration with Bazel",
+      "description": "Andreas Herrmann, Tweag",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_7IIc3ZTwKk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_7IIc3ZTwKk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_7IIc3ZTwKk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_7IIc3ZTwKk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_7IIc3ZTwKk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_7IIc3ZTwKk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xZb5veZ2IRt4KW3-6RNc_nB7UnY\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLjJhM1MzTUpPYTlJ",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:00.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 1: Lightning Talk – Bazel UI",
+      "description": "Paul Johnston, stack.build",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2a3S3MJOa9I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2a3S3MJOa9I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2a3S3MJOa9I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2a3S3MJOa9I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2a3S3MJOa9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2a3S3MJOa9I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FhwNHj3UJz-ZyqQtwSU7EPYPDgE\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLnJxNUNSTWFxYnEw",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:09.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 1: Lightning Talk – Speedy Scala Builds with Bazel at Databricks",
+      "description": "Ahir Reddy, Databricks",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rq5CRMaqbq0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rq5CRMaqbq0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rq5CRMaqbq0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rq5CRMaqbq0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rq5CRMaqbq0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rq5CRMaqbq0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YM24V_sBQEJjKaS1JODFBwyGiV4\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLjJLek9MZGRoZG9J",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:00.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 1: Lightning Talk – Why Not To Have Bazel Dependencies",
+      "description": "Alex Eagle and Greg Magolan, Google",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2KzOLddhdoI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2KzOLddhdoI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2KzOLddhdoI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2KzOLddhdoI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2KzOLddhdoI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2KzOLddhdoI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rxvo05kOOrwL-SN4fri07mWWFi4\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLmpjVnZrRm5LNWdj",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:16.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 1: Lightning Talk – Building Eclipse Plug-Ins (and OSGi Bundles) with Bazel",
+      "description": "Gunnar Wagenknecht, Salesforce",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jcVvkFnK5gc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jcVvkFnK5gc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jcVvkFnK5gc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jcVvkFnK5gc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jcVvkFnK5gc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jcVvkFnK5gc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RVjCHG7GhnOG18NBaN67248zNUU\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLnV1V1Y1MDF5MXc0",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:12.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 1: Lightning Talk – Testing Bazel’s Remote Execution API",
+      "description": "Josh Smith, Codethink",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uuWV501y1w4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uuWV501y1w4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uuWV501y1w4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uuWV501y1w4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uuWV501y1w4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uuWV501y1w4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TC-TAiECKNh0zAG9ukmHcfTMJOA\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLlREMUpEUEQwaFJB",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:13.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 1: Lightning Talk – Bazel Parallel and Asynchronous Artifact Publishing Pipeline",
+      "description": "Liron Tal, Wix",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TD1JDPD0hRA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TD1JDPD0hRA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TD1JDPD0hRA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TD1JDPD0hRA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TD1JDPD0hRA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TD1JDPD0hRA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iGbmaNINflW9eUjdWtC077kU72Q\"",
+    "id": "VVU3QmpGWnl3R0hpcVdkRUY3U25RN2hRLmM3cFdGX3AzOGJN",
+    "snippet": {
+      "publishedAt": "2020-01-16T17:00:07.000Z",
+      "channelId": "UC7BjFZywGHiqWdEF7SnQ7hQ",
+      "title": "BazelCon 2019 Day 1: Lightning Talk – Back to a Maven [Repository]",
+      "description": "Simon Toens, Salesforce",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c7pWF_p38bM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c7pWF_p38bM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c7pWF_p38bM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c7pWF_p38bM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c7pWF_p38bM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Open Source",
+      "playlistId": "UU7BjFZywGHiqWdEF7SnQ7hQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c7pWF_p38bM"
+      }
+    }
+  }
+]

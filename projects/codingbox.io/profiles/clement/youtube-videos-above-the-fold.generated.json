@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/M82H806lfYXvJIkqCz4J9aOlxOQ\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLnVtdmhWbGpxV2VZ",
+    "snippet": {
+      "publishedAt": "2020-04-19T13:30:06.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Google Ask Me Anything - Part 3",
+      "description": "The third and final part of the Google Ask Me Anything series! I hope that this Q&A sheds a lot of light about what it's like to work as a Software Engineer at Google and general life at Google.\n\nPart 1 of this AMA: https://youtu.be/TWsx9CouEZE\nPart 2 of this AMA: https://youtu.be/7DeP4Xlw4Po\nWhy I Don't Have Impostor Syndrome: https://youtu.be/JnZvhzAX9IE\n\n0:00 | Introduction\n0:51 | Did you Google at Google?\n0:53 | Do I think working at Google is overrated?\n1:29 | How much experience do you need to work on some of Google’s main products like Google Search or Gmail?\n1:53 | Is all the food at Google free?\n2:04 | What was the youngest age of a Google Software Engineer that I saw?\n2:41 | Does the work at Google become monotonous?\n3:42 | Can someone with a not-so-great college but with ample time crack the Google interview? If yes, does Google only require algorithm-style questions that anyone can do with repetitive learning?\n4:25 | Are the Google perks all that they’re made out to be? Did I get bored of them after a while?\n5:20 | What’s the process for getting a raise? Do you have to explicitly ask for one, or do you get one after a certain number of good performance reviews?\n6:54 | How long does it take to get comfortable with Google’s development environment?\n7:07 | How many people did I work with who were incompetent?\n7:42 | Do frontend developers at Google use Angular or anything else?\n8:16 | How many meetings are in person and how many meetings are on Hangouts?\n8:50 | Did I ever suffer from impostor syndrome while at Google?\n9:00 | Is it normal to make as much money as I did working at Google when I had little to no experience?\n9:32 | Is it true that you only learn Google-specific technologies and skills that have little to no carryover in the “real” world while working at Google?\n10:39 | Is the free food at Google really tasty?\n11:08 | Is there any realistic chance of someone without a degree becoming a Software Engineer at Google?\n11:17 | Does age matter in the recruitment process at Google, or is it only skill that matters?\n11:24 | Get a life.\n11:26 | What’s the difference between the NYC office and the Bay Area offices? Can Googlers change locations (within a country or even to another country)?\n12:10 | What surprised me the most about working at Google?\n13:53 | In all honesty, how hard is the work at Google?\n14:50 | What did I work during my last week at Google?!\n15:25 | How easy is it to get a promotion, and is there an established pathway to do so?\n16:23 | What was the most stressful day I ever worked at Google like?\n16:59 | What the hell do Google engineers do and does the average Joe have access to more information about projects than exactly what they need for what they’re working on?\n17:22 | Do the Google offices have a room to sleep, to work out, to play games, and to relax?\n17:37 | How does a Google Software Engineer get “readability” in a programming language?\n19:12 | Do all project managers at Google have a technical background?\n19:31 | Did I ever have a sneak peek at the FooBar Challenge source code?\n19:36 | What is it like being exclusively a frontend developer? Is it perceived as “equal” to being a backend developer?\n20:04 | Is it true that Google has gotten so big that its culture has morphed into a bureaucratic-like environment similar to many big corporations?\n20:59 | Can I describe the Google offices that I visited?\n21:43 | What are my thoughts one the Engineering Residency program?\n22:20 | Conclusion\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 90 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/umvhVljqWeY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/umvhVljqWeY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/umvhVljqWeY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/umvhVljqWeY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/umvhVljqWeY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "umvhVljqWeY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LLNNC4GU9WQVdsFj74IPzbTtOIU\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLjdEZVA0WGx3NFBv",
+    "snippet": {
+      "publishedAt": "2020-04-15T14:00:04.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Working At Google - Ask Me Anything - Part 2",
+      "description": "Ever wondered what it's like to work at Google? In this video, I answer a bunch of your questions about life as a software engineer at Google and working as a Google software engineer.\n\nPart 1 of this Q&A: https://youtu.be/TWsx9CouEZE\nA Day in the Life of a Google Software Engineer: https://youtu.be/oHBFD8cfXho\nHow Often Do Software Engineers Write Algorithms: https://youtu.be/Pb9UNhfy1U4\n\n0:00 | Introduction\n0:28 | If I were the CEO of Google, what (if anything) would I try to change about Google’s culture in order to give those who work there an even better experience?\n2:26 | Once you leave Google or Facebook, how hard is it to go back? Do you have to go through the interview process again?\n4:21 | How much did I know going in the job vs. how much did I learn on the job (things like in-depth knowledge of technologies and frameworks)?\n5:54 | How do you land a new job (without your current boss knowing) while being employed? Are there conditions in your job contract regarding trade secrets? \n8:01 | Did I ever use the algorithms and design skills that we teach on AlgoExpert and SystemsExpert while on the job, and do Google engineers use the command line and Stack Overflow?\n9:43 | What are some of Google’s “magical” internal tools in comparison to popular tools used outside of Google?\n12:38 | Did I encounter software engineers at Google who were still “on the learning curve” (i.e., who weren’t geniuses)?\n14:01 | How much time do Googlers have for one small-scale project?\n14:23 | What did my work schedule look like and how much time did I spend coding?\n14:35 | Would I say that the Perf (performance) process is more political than anything else?\n15:36 | How easy is it to change functions internally (like from Software Engineer to Product Manager)?\n16:56 | What if a Noogler performs terribly during the first few months at Google?\n17:48 | What did I do for my 20% project (plus general insights about 20% projects)?\n20:10 | Do most software engineers at Google have a good amount of work experience? Are there a lot of new grads and junior engineers?\n20:57 | What does a Staff Software Engineer do?\n21:02 | What are people’s social lives like at Google? How do people make friends, and are friendships formed in the workplace? How easily so?\n22:16 | How do your seniors react if you ever commit buggy code?\n22:23 | If you get an offer from Google, but you’re from another country or city than the office you’ll be in, does Google provide you with housing?\n22:57 | The moment you’ve all been waiting for…\n23:20 | Can you request equipment like a new laptop, extra monitors, luxury keyboards, etc.?\n23:48 | The continuation of the moment you’ve all been waiting for… Given the same compensation and location, which would be better for early career: an L3 SWE role at Google or an E3 SWE role at Facebook?\n25:46 | Conclusion\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 90 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7DeP4Xlw4Po/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7DeP4Xlw4Po/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7DeP4Xlw4Po/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7DeP4Xlw4Po/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7DeP4Xlw4Po/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7DeP4Xlw4Po"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/h-zJjNtCo4XumaNDaAAtjpDSiV4\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLlRXc3g5Q291RVpF",
+    "snippet": {
+      "publishedAt": "2020-04-12T13:30:09.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Life At Google - Ask Me Anything",
+      "description": "Ever wondered what life at Google is like? In this video, I answer a bunch of your questions about working as a software engineer at Google and general life as a Google software engineer.\n\n0:00 | Sneak peek\n0:04 | Introduction\n1:06 | What position at Google did I aspire to move into?\n1:24 | Despite having so many perks and interesting stuff to work on, why do so many people end up leaving Google within 2-3 years?\n2:06 | What is the most important skill I learnt at Google?\n3:02 | Many programmers consider Google their dream job; as someone who worked at Google, did my dreams and aspirations “level up”? What was my next big goal once I was working at Google?\n4:08 | What was the work-life balance like at Google? Could I still have a social life and work comfortably?\n5:46 | What does a Google code review look like?\n7:15 | What’s the introduction process like when you first get hired? Do you get a mentor?\n8:05 | How difficult/easy is it to switch to a team/product that you’re passionate about inside Google?\n8:55 | Insights on Google Search?\n10:34 | What were the percentages of non-U.S. vs. U.S. engineers and female vs. male engineers?\n11:05 | Are Google offices open 24/7?\n11:10 | Is there some kind of Google bus that takes people to the office?\n11:17 | How often do people ask for and get help? Is it encouraged?\n11:52 | How easily can someone change teams?\n11:56 | Did he smash the like button?\n11:59 | Did I feel like I (or anyone else) could get be fired at any time, and if yes, why?\n12:49 | Do you have days off at Google, or do you work every day in a row?\n13:26 | If I didn’t have AlgoExpert (and SystemsExpert), would I have stayed at Google if I didn’t get the Facebook offer?\n13:54 | Google has a very metrics-driven performance process; do some people seek out projects purely for promotion/performance reasons, and does your relationship with your manager affect your performance at all?\n15:54 | Do Googlers get discounts on Google products like the Pixel phone?\n16:44 | How much free food can you get before getting fired?\n18:14 | At Google, do most people still practice a lot and/or run a side-business; if not, why? Also, how did I not become complacent given the golden handcuffs that Google bestowed me?\n19:51 | How to get more likes on Memegen?\n20:34 | Have I met Jeff Dean? Any other famous people? Most impressive thing I’ve seen?\n21:13 | If I were the CEO of Google, what (if anything) would I try to change about Google’s culture in order to give those who work there an even better experience?\n21:31 | Conclusion\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 90 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TWsx9CouEZE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TWsx9CouEZE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TWsx9CouEZE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TWsx9CouEZE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TWsx9CouEZE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TWsx9CouEZE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EFLxhbYVfXmTo7xLncw2MSke7Cc\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLnM5X0d6cjNzVGo0",
+    "snippet": {
+      "publishedAt": "2020-04-09T13:30:12.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Are Coding Interviews Stupid? (from an ex-Google software engineer)",
+      "description": "Coding interviews are hard. But are they stupid? Are LeetCode questions dumb? Are AlgoExpert problems silly? Do these algorithm interviews actually test anything?  Is the Google coding interview a meaningful assessment of a software engineer?\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 90 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s9_Gzr3sTj4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s9_Gzr3sTj4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s9_Gzr3sTj4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s9_Gzr3sTj4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s9_Gzr3sTj4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "s9_Gzr3sTj4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qOCEff9dY3373bl41AgAYtcsB4E\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLlBiOVVOaGZ5MVU0",
+    "snippet": {
+      "publishedAt": "2020-04-07T13:30:03.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "How Often Do Software Engineers Write Algorithms?",
+      "description": "Are algorithms necessary for programming? Do Software Engineers write algorithms as part of their daily job? If yes, how often? In this video, Ex-Google Software Engineer Clement Mihailescu shares three examples of algorithm-style work he's done as a software developer.\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 90 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pb9UNhfy1U4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pb9UNhfy1U4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pb9UNhfy1U4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Pb9UNhfy1U4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Pb9UNhfy1U4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Pb9UNhfy1U4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Fp7PsLtMKdy5GI0LbOwEHsl1-yU\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLlhjRU1aNTY0QllF",
+    "snippet": {
+      "publishedAt": "2020-04-05T12:00:14.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "LONG OVERDUE 100K Subscribers Q&A",
+      "description": "Thank you all so much for helping me reach and blow past the 100K subscriber milestone! Here is the long overdue Q&A to celebrate this accomplishment!\n\nTimestamps if you want to skip around:\n0:00 | Introduction\n1:19 | How do you take care of your eyes as a Software Engineer?\n1:57 | How do you get out of the programming tutorial bubble?\n3:03 | Is JavaScript still the future, and is it worth learning?\n3:29 | Tips for Data Scientists and Machine Learning Engineers?\n3:47 | Can we expect any tutorial videos?\n4:36 | Do you think Macs are better for coding?\n5:08 | How should I prepare for a Data Science / Machine Learning interview at Google or Facebook?\n6:00 | What is a good way to start a company as a Software Engineer?\n6:30 | Career choices for a person who just got interested in programming after starting a degree in an unrelated field?\n6:36 | What are AlgoExpert’s prerequisites?\n7:12 | What are blogs or other tech sources that a full-stack developer should follow?\n8:18 | How much are AlgoExpert’s operational costs?\n8:35 | How many self-help books have I read and which ones?\n10:04 | Have I ever struggled with mental health, and what mental exercise do I perform during stressful times?\n11:20 | Will I make a Data Structures course? (hint: we have one at algoexpert.io/data-structures)\n11:25 | I feel restricted at my job. Will joining a company like Google or Facebook give me more of a thrill?\n12:49 | What should a high-schooler do to prepare to eventually get a job at a big tech company?\n13:45 | How did I come up with the name AlgoExpert?\n14:32 | What’s the difference in culture between Google’s NYC office and its headquarters in Mountain View (California)?\n16:07 | Just a compliment.\n16:10 | Can I show a graph of my YouTube growth?\n16:39 | A statement—not a question.\n16:49 | How does one get big?\n17:00 | What is my favorite thing about my girlfriend?\n17:07 | Do I or did I have mentors in my life, and what have I learnt from them?\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 90 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XcEMZ564BYE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XcEMZ564BYE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XcEMZ564BYE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XcEMZ564BYE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XcEMZ564BYE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XcEMZ564BYE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/epnPewbpP8r6Xe6rgAH7t2U0r9U\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLmVDWmh6MEpDVngw",
+    "snippet": {
+      "publishedAt": "2020-04-01T20:30:00.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "All You Need To Know About TypeScript",
+      "description": "Is TypeScript better than JavaScript? Does TypeScript work with React and Angular? Should you learn TypeScript? In this video, I cover everything you need to know about TypeScript.\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eCZhz0JCVx0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eCZhz0JCVx0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eCZhz0JCVx0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eCZhz0JCVx0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eCZhz0JCVx0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eCZhz0JCVx0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2LOQpvAGu_7jncTebmabi9T_Ecc\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLkVnWkFIbm5ZWTV3",
+    "snippet": {
+      "publishedAt": "2020-03-29T18:15:00.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "My Facebook Interview Experience (software engineer interview)",
+      "description": "Curious about the Facebook software engineer interview? In this video, I share exactly how my interviews for a Facebook Software Engineer job went. This is my Facebook software engineer interview experience covering the entire Facebook interview process, from coding interviews to offer letter. \n\nMy Google Interview Experience: https://youtu.be/Naa85K5n4sY\nHow Much I Made At Facebook: https://youtu.be/uY8Fww6kOn0\nHow I Negotiated My $350k Facebook Offer: https://youtu.be/DSxhgejP0u4\n2-Year Salary Progression At Facebook & Google: https://youtu.be/o7n-aXtmwB8\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 90 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EgZAHnnYY5w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EgZAHnnYY5w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EgZAHnnYY5w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EgZAHnnYY5w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EgZAHnnYY5w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EgZAHnnYY5w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-Wdcjj8-h_3B3_PECH0P9qT6a-E\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLmgyNnhBdUlGZnZn",
+    "snippet": {
+      "publishedAt": "2020-03-23T13:30:02.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Frontend vs. Backend - Which Is Better?",
+      "description": "In this video, I compare the front end and the back end and answer the question: which is better, being a frontend or a backend developer? This is the difference between frontend and backend development.\n\nFrontend Engineer video: https://youtu.be/Gc0msPEmGjA\nBackend Engineering video: https://youtu.be/cLK5vqPv6JQ\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h26xAuIFfvg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h26xAuIFfvg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h26xAuIFfvg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/h26xAuIFfvg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/h26xAuIFfvg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "h26xAuIFfvg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/T3AJbI0wid3XdMK3LLaZoPs1Llo\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLkhUY2JXaWZENXYw",
+    "snippet": {
+      "publishedAt": "2020-03-20T13:30:02.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Tips For Working Remotely (as a software engineer)",
+      "description": "A lot of software engineers are working from home right now. Here are some tips on how software developers can be more productive working remotely.\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HTcbWifD5v0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HTcbWifD5v0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HTcbWifD5v0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HTcbWifD5v0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HTcbWifD5v0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HTcbWifD5v0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/P0qckRyffNjTacLi6pUT7u21JO8\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLnc0MHY1U0xkeUxV",
+    "snippet": {
+      "publishedAt": "2020-03-15T13:30:04.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Software Engineering Project Contest WINNERS - Winter 2020",
+      "description": "The winners of the first official AlgoExpert Software Engineering Project Contest are...\n\nhttps://www.algoexpert.io/swe-project-contests/winter-2020\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w40v5SLdyLU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w40v5SLdyLU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w40v5SLdyLU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/w40v5SLdyLU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/w40v5SLdyLU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "w40v5SLdyLU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/n2ULon1HNIzcwZ9yZ5v_usFzARA\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLnF2c2pLcDVUaEkw",
+    "snippet": {
+      "publishedAt": "2020-03-11T13:30:03.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "9 Tips To Ace Any Technical Phone Interview (coding interview tips)",
+      "description": "Here are 9 tips to ace the technical phone interview, especially at big tech companies like Google and Amazon. The Google technical phone screen interview just got easier with these tips!\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Instagram: https://www.instagram.com/clement_mihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qvsjKp5ThI0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qvsjKp5ThI0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qvsjKp5ThI0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qvsjKp5ThI0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qvsjKp5ThI0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qvsjKp5ThI0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4tW2K-HVnFnT1IDCnN4mhzj3ZL0\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLmNMSzV2cVB2NkpR",
+    "snippet": {
+      "publishedAt": "2020-03-08T13:45:00.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "All You Need To Know About Backend Engineering",
+      "description": "Here's all you need to know about backend engineering. What is back end development exactly? How hard is back end engineering? Should you become a backend engineer?\n\nFollow me on Instagram: https://www.instagram.com/clement_mihailescu\n\nAll You Need To Know About Frontend Engineering: https://youtu.be/Gc0msPEmGjA\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cLK5vqPv6JQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cLK5vqPv6JQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cLK5vqPv6JQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cLK5vqPv6JQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cLK5vqPv6JQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cLK5vqPv6JQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LLTQLEP19A8zf9bduzV-gnOYBjg\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLmtRdXV4bUxEWjkw",
+    "snippet": {
+      "publishedAt": "2020-02-27T16:00:10.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Resolution of Issue with TechLead and Joma",
+      "description": "In this video, I address the resolution of the issue involving TechLead, Joma, and AlgoPro, and I read the apology that AlgoExpert received from TechLead and Joma.\n\n1st video on this issue: https://youtu.be/nzt9F_NjQ0g\n2nd video on this issue: https://youtu.be/HF1g5xNTgLQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kQuuxmLDZ90/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kQuuxmLDZ90/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kQuuxmLDZ90/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kQuuxmLDZ90/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kQuuxmLDZ90/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kQuuxmLDZ90"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/T6qKAXFsSK5hJve9_pqONiyPTOA\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLkFHT2RNSVZ2b1Zv",
+    "snippet": {
+      "publishedAt": "2020-02-26T15:30:00.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "SystemsExpert | Ace the Systems Design Interviews",
+      "description": "SystemsExpert - https://www.systemsexpert.io - is the best platform to prepare for systems design interviews. SystemsExpert offers an unparalleled course on large-scale distributed systems and comprehensive video explanations of popular systems design interview questions.\n\nBecome a SystemsExpert today at systemsexpert.io.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AGOdMIVvoVo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AGOdMIVvoVo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AGOdMIVvoVo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AGOdMIVvoVo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AGOdMIVvoVo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AGOdMIVvoVo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3Kp-F9P3IGO2rwy86-Pvsacq6HM\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLllrblZ0aXdFb0dV",
+    "snippet": {
+      "publishedAt": "2020-02-22T19:00:03.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Why You Should Learn To Code (3 reasons)",
+      "description": "Should you learn to code? Is learning programming worth it? Should you become a software engineer? Yes, yes, and yes. Here are 3 reasons why you should learn to code from an Ex-Google and Ex-Facebook software engineer.\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YknVtiwEoGU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YknVtiwEoGU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YknVtiwEoGU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YknVtiwEoGU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YknVtiwEoGU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YknVtiwEoGU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-tutLsFicp5cNAZziZ0Q50sKqpc\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLkdjMG1zUEVtR2pB",
+    "snippet": {
+      "publishedAt": "2020-02-19T18:03:49.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "All You Need To Know About Frontend Engineering (Web Development)",
+      "description": "Here's all you need to know about web development (also known as front end engineering). What is front end development exactly? How hard is front end engineering? Should you become a frontend engineer?\n\nAlgoExpert: https://www.algoexpert.io/clem\nSystemsExpert: https://www.systemsexpert.io\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Gc0msPEmGjA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Gc0msPEmGjA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Gc0msPEmGjA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Gc0msPEmGjA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Gc0msPEmGjA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Gc0msPEmGjA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Z5nX9leQ4hHlV2t9yuA90rSZPeo\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLnEwS0dZd05iZi0w",
+    "snippet": {
+      "publishedAt": "2020-02-15T17:00:11.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Google Systems Design Interview With An Ex-Googler",
+      "description": "This is what a systems design interview at Google, Facebook, Amazon, or any other big tech company looks like. Systems design interview questions are vague and challenging, but this video should give you a clear idea of what to expect. If you want to ace the systems design interview, check out SystemsExpert at https://www.systemsexpert.io\n\nSystemsExpert: https://www.systemsexpert.io\nAlgoExpert: https://www.algoexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q0KGYwNbf-0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q0KGYwNbf-0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q0KGYwNbf-0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q0KGYwNbf-0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q0KGYwNbf-0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "q0KGYwNbf-0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VXAduTQ-5yGMIvaFpzlyoj8IXR8\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLjNjb2Y2azZEOXg4",
+    "snippet": {
+      "publishedAt": "2020-02-13T03:00:01.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "Announcing SystemsExpert - Systems Design Interview Course",
+      "description": "Say hello to SystemsExpert, AlgoExpert's brand new Systems Design Interview platform. If you want to ace your systems design interviews, SystemsExpert covers all of the necessary systems design basics as well as a wide variety of systems design interview questions.\n\nSystemsExpert: https://www.systemsexpert.io\n\nAlgoExpert: https://www.algoexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3cof6k6D9x8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3cof6k6D9x8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3cof6k6D9x8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3cof6k6D9x8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3cof6k6D9x8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3cof6k6D9x8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Fizh1kZtSmZMV0ihmztvRMXhJOI\"",
+    "id": "VVVhTzZWb2FZSnY0a1MtVFFPX00tTl9nLm9JTU4tQVE4UzZJ",
+    "snippet": {
+      "publishedAt": "2020-02-07T14:30:02.000Z",
+      "channelId": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "title": "The 2 Hardest Things About Entrepreneurship",
+      "description": "Entrepreneurship is hard. Here are the 2 hardest things I've found about running a business.\n\nAlgoExpert: https://www.algoexpert.io/clem\nMy LinkedIn: https://www.linkedin.com/in/clementmihailescu\nMy Twitter: https://twitter.com/clemmihai\n\nPrepping for coding interviews? Practice with 85 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use \"clem\" promo code for a discount!)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oIMN-AQ8S6I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oIMN-AQ8S6I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oIMN-AQ8S6I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oIMN-AQ8S6I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oIMN-AQ8S6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clément Mihailescu",
+      "playlistId": "UUaO6VoaYJv4kS-TQO_M-N_g",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oIMN-AQ8S6I"
+      }
+    }
+  }
+]

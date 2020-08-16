@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_IGlUr-HOJzGGfcaZPgDkiVBXbw\"",
+      "id": "UCpzRDg0orQBZFBPzeXm1yNg",
+      "snippet": {
+        "title": "Adam Khoury",
+        "description": "Learn to code and design like a professional. Master development technologies like JavaScript, PHP, SQL, HTML, CSS, ActionScript and more.",
+        "customUrl": "adamkhoury",
+        "publishedAt": "2008-01-23T15:24:12.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzf-gVbcPt7ap-ZhH8t7bUD_m1_3EGrN85gQA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzf-gVbcPt7ap-ZhH8t7bUD_m1_3EGrN85gQA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzf-gVbcPt7ap-ZhH8t7bUD_m1_3EGrN85gQA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Adam Khoury",
+          "description": "Learn to code and design like a professional. Master development technologies like JavaScript, PHP, SQL, HTML, CSS, ActionScript and more."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUpzRDg0orQBZFBPzeXm1yNg",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUpzRDg0orQBZFBPzeXm1yNg"
+  },
+  "displayName": "Adam Khoury",
+  "description": "Learn to code and design like a professional. Master development technologies like JavaScript, PHP, SQL, HTML, CSS, ActionScript and more.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzf-gVbcPt7ap-ZhH8t7bUD_m1_3EGrN85gQA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzf-gVbcPt7ap-ZhH8t7bUD_m1_3EGrN85gQA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzf-gVbcPt7ap-ZhH8t7bUD_m1_3EGrN85gQA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

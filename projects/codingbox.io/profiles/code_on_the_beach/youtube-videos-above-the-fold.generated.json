@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sY6Oc5SXKwy1FHiSG0RrcODrHQc\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLlR5T3piR2s1ejFz",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Veronica Hanus - \"Git hooked” on images & up your documentation game",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TyOzbGk5z1s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TyOzbGk5z1s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TyOzbGk5z1s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TyOzbGk5z1s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TyOzbGk5z1s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TyOzbGk5z1s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4CsJUMlLGd97P44082jDieCT7rw\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLkplUFBVQlpNNmlF",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:14.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Valarie Regas - Mothering A Dev Team: How Wardley Maps Saved My Parenting and My Job",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JePPUBZM6iE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JePPUBZM6iE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JePPUBZM6iE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JePPUBZM6iE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JePPUBZM6iE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JePPUBZM6iE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bneBW_H3OmSTMP9G5Kf2k54Re7k\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLmVhQVhya1RRekRB",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Usha Suryadevara - Introduction to AWS Serverless Architecture",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eaAXrkTQzDA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eaAXrkTQzDA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eaAXrkTQzDA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eaAXrkTQzDA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eaAXrkTQzDA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eaAXrkTQzDA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9n0LroWSfwX7lA8UW2FbbcaWWZs\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLmo1ODVfSHJON1JV",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Taylor Desseyn - Recruiters Suck. Use Them.",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j585_HrN7RU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j585_HrN7RU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j585_HrN7RU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j585_HrN7RU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/j585_HrN7RU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "j585_HrN7RU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/G9Aio0gAPPfnGGNmLrAix-TVT10\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLmMzVXphYkFkSlJ3",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Szu Yu Huang - Creating accessible and inclusive digital products",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c3UzabAdJRw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c3UzabAdJRw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c3UzabAdJRw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c3UzabAdJRw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c3UzabAdJRw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c3UzabAdJRw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xGvz3L_4P_ekNk7e9wUUkySTlIQ\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLm54VDVwUTBwTWdV",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:14.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Schuyler Bishop - DevOps and how to succeed in failure",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nxT5pQ0pMgU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nxT5pQ0pMgU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nxT5pQ0pMgU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nxT5pQ0pMgU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nxT5pQ0pMgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nxT5pQ0pMgU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ai4sNPPh5-WNKEvyT7ZzkmQPj5k\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLklQaEtTZ0ZWdmU4",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Riccardo Terrell - Channels in .NET - concurrency made easy",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IPhKSgFVve8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IPhKSgFVve8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IPhKSgFVve8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IPhKSgFVve8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IPhKSgFVve8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IPhKSgFVve8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5Q5h6EaeLYgzwthk40tPDKXOZmQ\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLmpBLU9Cbk5iT1pn",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Kyle Pena - Classic AI: Graph Traversal for Solving Tough Problems",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jA-OBnNbOZg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jA-OBnNbOZg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jA-OBnNbOZg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jA-OBnNbOZg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jA-OBnNbOZg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jA-OBnNbOZg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8tWpYRlSF1192pYsL9crA1pA5TE\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLk00d2xzUGJjNjQ4",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Ken Bedwell - Doctor... is this normal? Anomaly detection at scale with Python",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M4wlsPbc648/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M4wlsPbc648/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M4wlsPbc648/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/M4wlsPbc648/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/M4wlsPbc648/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "M4wlsPbc648"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xjk7X_8YHXfzTZKUiiuZCEWYSgs\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLk1uODJFZWxwRWtv",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:14.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Jon Bosworth - The Dark Side of UX",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mn82EelpEko/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mn82EelpEko/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mn82EelpEko/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mn82EelpEko/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Mn82EelpEko/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Mn82EelpEko"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XWO3sv2mMwrAgWq4OO5OOEPcYjk\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLl9qYWFZeWxtZkdR",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:14.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Jenn Edge - Don't Stop Believing: the Journey of Agile Self Improvement",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_jaaYylmfGQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_jaaYylmfGQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_jaaYylmfGQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_jaaYylmfGQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_jaaYylmfGQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_jaaYylmfGQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ne4qu_In8RJ0nnOky7pzDjwqwcA\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLmVmbHdmUWN6WEZ3",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Erin Stanfill - Concurrency In Go",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eflwfQczXFw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eflwfQczXFw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eflwfQczXFw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eflwfQczXFw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eflwfQczXFw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eflwfQczXFw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HI3gRCri0xYWOV3kHITMbfoYBY8\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLldmbHltZGI1VTY0",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Diana Rodriguez  - DevOps + IOT + Security: No Secrets!",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Wflymdb5U64/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Wflymdb5U64/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Wflymdb5U64/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Wflymdb5U64/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Wflymdb5U64/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Wflymdb5U64"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/srjk4xFIrfLWR2sMobsBvDNaxb4\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLkp0WHZmQ1JjWTVJ",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Deanna Vickers - Product Owning Your Software Development",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JtXvfCRcY5I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JtXvfCRcY5I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JtXvfCRcY5I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JtXvfCRcY5I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JtXvfCRcY5I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JtXvfCRcY5I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4PjhH-mBec9EmLcGADXmiwKggG4\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLjBlcU1FQkNhNmQ4",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:14.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Christiana Unaeze - Guidelines on Designing for Accessibility in UX Design",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0eqMEBCa6d8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0eqMEBCa6d8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0eqMEBCa6d8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0eqMEBCa6d8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0eqMEBCa6d8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0eqMEBCa6d8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FxJIlPZ1X94CV5dqw0hVBDE5o7I\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLk4zc0xPQ1k4WnVj",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:14.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Charlene Carver - Accessibility Matters: Building Accessible Web Interfaces From the Start",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N3sLOCY8Zuc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N3sLOCY8Zuc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N3sLOCY8Zuc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/N3sLOCY8Zuc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/N3sLOCY8Zuc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "N3sLOCY8Zuc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g3HBMGqr81ZppEDJkecQCMmVU_A\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLlBIdWc5Y0hFMVpV",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Bryan Soltis - I, for one, welcome our new Azure Automation overlords!",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PHug9cHE1ZU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PHug9cHE1ZU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PHug9cHE1ZU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PHug9cHE1ZU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PHug9cHE1ZU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PHug9cHE1ZU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/j0YgFJZtj_wpaN0ylKXlEAEbj10\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLlp3ekJWUEVfZ0hB",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Brian McKeiver - Let's Take a Tour of  .NET Core: CLI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZwzBVPE_gHA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZwzBVPE_gHA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZwzBVPE_gHA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZwzBVPE_gHA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZwzBVPE_gHA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZwzBVPE_gHA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iE7HnrFKo1vtExdjuntqd80x4hk\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLmhXMVNBYWxLcktJ",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:15.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Angel Ayala - The Power of Empathy in Digital Transformation",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hW1SAalKrKI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hW1SAalKrKI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hW1SAalKrKI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hW1SAalKrKI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hW1SAalKrKI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hW1SAalKrKI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/otAfRGKiHVt_Csc2PVo2cbea6mc\"",
+    "id": "VVVrOElLY3pWbkZrMHRxZkd5UEpwTHRBLm1wbjJKb1EzNVpv",
+    "snippet": {
+      "publishedAt": "2019-10-09T17:18:13.000Z",
+      "channelId": "UCk8IKczVnFk0tqfGyPJpLtA",
+      "title": "Andreas Erben - Mixed Reality - moving from two-dimensional screens to spatial computing",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mpn2JoQ35Zo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mpn2JoQ35Zo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mpn2JoQ35Zo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mpn2JoQ35Zo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mpn2JoQ35Zo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code on the Beach",
+      "playlistId": "UUk8IKczVnFk0tqfGyPJpLtA",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mpn2JoQ35Zo"
+      }
+    }
+  }
+]

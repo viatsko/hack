@@ -1,0 +1,852 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BUcydGI2Iz7Tpw8AEz5xlWrVDRc\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLmRfYy1hdXVEc3o4",
+    "snippet": {
+      "publishedAt": "2020-03-18T18:58:39.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "Introducing Accessible Audio Charts - An Open Source Initiative for Android Apps",
+      "description": "With audio charts, data points are converted to tones with haptic feedback and are easily available through mobile devices where users can switch between tones and spoken feedback. Learn more here: https://github.com/yahoo/SongbirdCharts.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d_c-auuDsz8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d_c-auuDsz8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d_c-auuDsz8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d_c-auuDsz8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d_c-auuDsz8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "d_c-auuDsz8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oWb7Ygfex0nS2e1PAus_jbo1M0A\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLmVIVkNIWXlVQmtn",
+    "snippet": {
+      "publishedAt": "2020-01-06T18:29:51.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "Ozone - Object Storage for Big Data - Arpit Agarwal, Sr Engineering Manager, Storage Team, Cloudera",
+      "description": "Presented at the Bay Area Hadoop Meetup - https://www.meetup.com/hadoop. Sponsored by Yahoo -- https://developer.yahoo.com. We're Hiring! Learn more here: http://bit.ly/vzmhadoop.\n- - - \nOzone is an Object Store for big data that is designed to keep the best parts of HDFS while scaling to billions of files. Ozone is designed to support the Hadoop ecosystem with applications like MapReduce, Hive, Spark, and Impala working out of the box. This talk gives an overview of the Ozone architecture and describes how we approached solving some of the scale limitations of HDFS. We will also look at the current state and future roadmap.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eHVCHYyUBkg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eHVCHYyUBkg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eHVCHYyUBkg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eHVCHYyUBkg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eHVCHYyUBkg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eHVCHYyUBkg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gSMLLMKRexfGslwtKARGEn4l5Bg\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLklpQllyZTE0bnB3",
+    "snippet": {
+      "publishedAt": "2019-12-31T00:20:31.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "Hadoop Meetup Welcome - Oct 2019 - Karthikeyan M, Sr Dir, Software Dev Engineering, Verizon Media",
+      "description": "Presented at the Bay Area Hadoop Meetup - https://www.meetup.com/hadoop. Sponsored by Yahoo -- https://developer.yahoo.com. We're Hiring! Learn more here: http://bit.ly/vzmhadoop.\nMeetup details here: https://www.meetup.com/hadoop/events/265963792/.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IiBYre14npw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IiBYre14npw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IiBYre14npw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IiBYre14npw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Pmvf6gJ3ZIeQfq1-fkGL29UivFc\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLnJwSFRrS3dEUWk0",
+    "snippet": {
+      "publishedAt": "2019-12-31T15:14:17.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "HDFS Cluster Optimization in eBay - Yiqun Lin",
+      "description": "Presented at the Bay Area Hadoop Meetup - https://www.meetup.com/hadoop. Sponsored by Yahoo -- https://developer.yahoo.com. We're Hiring! Learn more here: http://bit.ly/vzmhadoop.\n\n- - - \nPresented by Yiqun Lin, Hadoop Team, eBay + Apache Hadoop Committer / PMC member\n\nOn eBay, we have many large HDFS clusters with thousands of nodes. We face many stability/data availability problems in our cluster. Today we want to share some optimizations we did in the system layer or HDFS level to improve our clusters. Besides, that makes our cluster more stable than before.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rpHTkKwDQi4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rpHTkKwDQi4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rpHTkKwDQi4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rpHTkKwDQi4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GfR5PbAEuos2lsB-O13dC6TPbS0\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLmEySU5vSlN0MnFj",
+    "snippet": {
+      "publishedAt": "2019-11-23T21:29:43.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "CI/CD - The Human Side of the DevOps Journey",
+      "description": "Presented by Dean Chao, Manager of DevOps and Tâm Nguyen, Director of Test Automation & Tools, Arlo Technologies. Meetup sponsored by https://Screwdriver.cd (open source build platform designed for Continuous Delivery).\n\nA simple Google search on CI/CD returned more than 1.5 million hits. The top results largely focus on the technical aspect. What’s missing in the picture is that we often forget that DevOps engineers are humans with minds, souls, and bodies. Our cross-functional team members also happen to be humans. We'll share our experiences with tools and processes, and especially about the people aspect of our DevOps journey.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a2INoJSt2qc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a2INoJSt2qc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a2INoJSt2qc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a2INoJSt2qc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "a2INoJSt2qc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lyMZuOPsKAP36cTDy2w4wpaiVrs\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLm8xVUg2dEhFcXZz",
+    "snippet": {
+      "publishedAt": "2019-11-14T18:07:55.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "Culture of CI/CD - Transforming Your Group into a Continuous Delivery Machine",
+      "description": "Presented by Jay Kremer, Director of QA, Implementation & Support, Narvar. Meetup sponsored by https://Screwdriver.cd (open source build platform designed for Continuous Delivery).\nOne of the Silicon Valley axioms is \"Culture eats strategy for breakfast\". This is especially true in CI/CD environments, where teams must rely on each other and respond to issues in real-time. Jay will describe some of the pitfalls, failures, horror stories and successes he has experienced in moving organizations from two week deploys to Continuous Delivery.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o1UH6tHEqvs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o1UH6tHEqvs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o1UH6tHEqvs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o1UH6tHEqvs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o1UH6tHEqvs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "o1UH6tHEqvs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8bNAMjvze7lMiOw3BdjKVY2XDKw\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLmhYOHJNQTRNMU5Z",
+    "snippet": {
+      "publishedAt": "2019-11-12T03:40:55.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "Screwdriver - Open Source Build Platform Designed for Continuous Delivery - Alan Dong",
+      "description": "Learn more at https://screwdriver.cd/. Presented at the Bay Area CICD and DevOps Meetup.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hX8rMA4M1NY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hX8rMA4M1NY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hX8rMA4M1NY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hX8rMA4M1NY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hX8rMA4M1NY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hX8rMA4M1NY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-jA_pr-Ic8L4p7tdm7XWSQj9rVI\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLlFzUHpBdFpYSWs0",
+    "snippet": {
+      "publishedAt": "2019-11-05T22:36:35.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "Raising the performance bar for stream processing with Apache Storm 2.0 - Roshan Naik, Uber",
+      "description": "Presented at the Bay Area Hadoop Meetup - https://www.meetup.com/hadoop. Sponsored by Yahoo -- https://developer.yahoo.com. We're Hiring! Learn more here: http://bit.ly/vzmhadoop.\n- - - \nRoshan Naik, Lead - Real-time Compute Platform, Uber\n\nThe effort to rearchitect Storm's core engine was born from the observation that there exists a significant gap between hardware capabilities and the performance of the best streaming engines. In this talk, we’ll take a look at the performance and architecture of Storm's new engine which features a leaner threading model, a lock free messaging subsystem and a new ultra-lightweight Back Pressure model.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QsPzAtZXIk4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QsPzAtZXIk4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QsPzAtZXIk4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QsPzAtZXIk4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QsPzAtZXIk4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cnkrlyrJ3YEQvfOYbMYNP2yKwE4\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLjVZcEFXRS1xeGFj",
+    "snippet": {
+      "publishedAt": "2019-11-04T04:57:18.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "Maha - Open Source Framework for Rapid Reporting API Development",
+      "description": "Presented by Pranav Bhole, Sr Software Engineer, Verizon Media. Learn more at https://github.com/yahoo/maha.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5YpAWE-qxac/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5YpAWE-qxac/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5YpAWE-qxac/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5YpAWE-qxac/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5YpAWE-qxac"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SD6ibA48Ant3TbwADAJYWndNOI0\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLnhOc0cyNnVaN3N3",
+    "snippet": {
+      "publishedAt": "2019-11-04T04:06:57.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "Apache Storm 2.0 - Features and Performance Enhancements - Kishorkumar Patil, Verizon Media",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xNsG26uZ7sw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xNsG26uZ7sw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xNsG26uZ7sw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xNsG26uZ7sw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xNsG26uZ7sw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ReZ61rzTWZiiRuUx96ahPMoxT9I\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLmJpZWppMmw4TnB3",
+    "snippet": {
+      "publishedAt": "2019-10-21T22:09:05.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "Developing Mobile Apps for Performance - Swapnil Patel, Verizon Media",
+      "description": "Presented here: https://www.meetup.com/Mobile-Apps-Performance-SF-Events/events/257929211/.\nSlides: https://www.slideshare.net/ydn/developing-mobile-apps-for-performance-swapnil-patel-verizon-media.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bieji2l8Npw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bieji2l8Npw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bieji2l8Npw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bieji2l8Npw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bieji2l8Npw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bieji2l8Npw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CUV7obpw98hLpbe3Q1KPLxTkMF8\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLmM5RG9RNGk5VGcw",
+    "snippet": {
+      "publishedAt": "2019-11-04T19:24:55.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "MolochON 2019 - Moloch & Amazon VPC Traffic Mirrors - Erik Freeland",
+      "description": "Use Moloch in the cloud! Nubeva is working with AWS on an open source security tool quickstart. The tools installed are Moloch, Suricata, Zeek, Wireshark, & ntop. Nubeva has methods for decrypting TLS traffic (including 1.2 with PFS and 1.3) that we have integrated with all these tools. You don't have to use the Nubeva solution to make use of the tools, they are totally independent.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c9DoQ4i9Tg0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c9DoQ4i9Tg0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c9DoQ4i9Tg0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c9DoQ4i9Tg0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c9DoQ4i9Tg0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c9DoQ4i9Tg0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HLp8hE6j1cYjFaaP-mC67z7qrFY\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLjByZS1iVjZGOGtZ",
+    "snippet": {
+      "publishedAt": "2019-10-21T14:01:57.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "MolochON 2019 - Leveraging Zeek Logs in Moloch with Filebeat and Logstash - Seth Grover",
+      "description": "Moloch is a large scale, open source, full packet capturing, indexing, and database system - https://molo.ch/. Zeek logs can be used in Moloch alongside regular Moloch session records to increase visibility into the other protocol parsers the Zeek framework provides. I'll use Malcolm to illustrate how Filebeat and Logstash can be used to forward, parse, and normalize Zeek logs so they can be searched in Moloch. I'll also show how Zeek logs and Moloch sessions can be correlated using things like community ID, JA3, etc.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0re-bV6F8kY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0re-bV6F8kY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0re-bV6F8kY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0re-bV6F8kY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0re-bV6F8kY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0re-bV6F8kY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KhEmJj3YtO0266jKp3xoxJ-3QUc\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLmo1X2p2ZG9ka19F",
+    "snippet": {
+      "publishedAt": "2019-11-15T23:18:38.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "MolochON 2019 - More data is good but good data is better - Brian Field, Founder, Open Src Analytics",
+      "description": "Moloch is a large scale, open source, full packet capturing, indexing, and database system - https://molo.ch/. What do albums, 8-track tapes, cassettes, CDs and mp3s have in common with network operational data? Network operational data has gone through the same “transformation”, namely, it’s the same data being delivered via the next generational transport systems (eg syslog, show commands, SNMP, Openconfig, streaming telemetry). While existing network data is adept at reporting binary conditions, (eg link up/down, bgp up/down, etc.), this existing data appears to be inadequate for determining more subtle network degradations or failures. Using real-life undetected network events as use cases, this talk suggests there’s an untapped high fidelity stream of network operational data that service providers are collectively overlooking, namely the processing of router control plane traffic. This talk shows how the router control plane traffic is a haystack of needles and how we are augmenting Moloch to make it network domain aware.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j5_jvdodk_E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j5_jvdodk_E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j5_jvdodk_E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j5_jvdodk_E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/j5_jvdodk_E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "j5_jvdodk_E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EE-2fyvIYEtadlyOVCXKU-yqjFY\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLjdSN2dWS0lrSzRr",
+    "snippet": {
+      "publishedAt": "2019-10-15T16:05:28.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "MolochON 2019 - Rotten Pear - Elyse Rinne, Software Dev Engineer, Verizon Media",
+      "description": "Moloch is a large scale, open source, full packet capturing, indexing, and database system - https://molo.ch/. Walk through a real-life scenario where our security analysts used Moloch to investigate a bad go-pear.phar download. Get an in-depth example of our analysts' workflow and how Moloch can be used to find and examine badness on your network.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7R7gVKIkK4k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7R7gVKIkK4k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7R7gVKIkK4k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7R7gVKIkK4k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7R7gVKIkK4k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7R7gVKIkK4k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GikHUpYPnCIdrd9l_8DcQgqUNds\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLlVPRDlZTGpYdExB",
+    "snippet": {
+      "publishedAt": "2019-10-14T23:13:28.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "MolochON 2019 - Let's get WISE - Andy Wick, Sr Principal Architect, Verizon Media",
+      "description": "Moloch is a large-scale, open source, full packet capturing, indexing, and database system. Learn more at https://molo.ch.\n\nWith Intelligence See Everything! Learn how to configure and use WISE to enhance Moloch.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UOD9YLjXtLA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UOD9YLjXtLA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UOD9YLjXtLA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UOD9YLjXtLA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UOD9YLjXtLA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UOD9YLjXtLA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TfLNsp_PpWJdRnEP2mH8YO66xyc\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLjFDdkxmOHJBN1lR",
+    "snippet": {
+      "publishedAt": "2019-10-14T23:03:55.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "MolochON 2019 - Verizon Media Moloch Deployments - Andy Wick, Sr Principal Architect, Verizon Media",
+      "description": "Moloch is a large scale, open source, full packet capturing, indexing, and database system - https://molo.ch/. Learn about how Verizon Media deploys Moloch. Get useful information and best practices to get the most out of Moloch.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1CvLf8rA7YQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1CvLf8rA7YQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1CvLf8rA7YQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1CvLf8rA7YQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AkxQxXx36oMObdB8cxnp8lw_P3o\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLkFlOGc4c3drRzFJ",
+    "snippet": {
+      "publishedAt": "2019-10-14T23:03:43.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "MolochON 2019 - Welcome and Recent Updates - Andy Wick and Elyse Rinne",
+      "description": "Moloch is a large scale, open source, full packet capturing, indexing, and database system. Learn more at https://molo.ch/.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ae8g8swkG1I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ae8g8swkG1I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ae8g8swkG1I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ae8g8swkG1I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ae8g8swkG1I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ae8g8swkG1I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sM6NThxS7rNmYMcWrsf1-XQgK2M\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLnRHWkZTc19nc3JJ",
+    "snippet": {
+      "publishedAt": "2019-08-16T21:55:30.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "OSCON 2019: Merging Yahoo and Aol’s open source programs, Gil Yehuda and Ashley Wolf",
+      "description": "https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/75825\n\nEvery company needs to address how they manage open source. Verizon Media is the merger of Yahoo and AOL, and those two companies ran their open source programs quite differently. The result of bringing them together was surprisingly good, but the process to get there offers many insights into how you can structure your open source program office to address the biggest problems you may face.\n\nAshley Wolf and Gil Yehuda explain how Verizon Media now addresses license compliance, community management, the publication process, and how to run a program office at scale. You’ll explore real-world examples of things that worked well and things that needed much repair—as well as details on how it was done—and get advice on how to apply these lessons to your businesses.\n\nNeglecting your open source program leads to problems. Ashley and Gil highlight some big ones, like when the wrong people have access to your code, license issues get you in hot water, and employees make well-meaning but incorrect decisions about code publications. Sometimes it takes a revolution to force you to step back and get a better hold on your open source program. But you don’t have to wait for a merger to force the changes. Better to set the processes right starting today; Ashley and Gil show you how.\n\nIf you don’t have a formal open source program office, or if you have one that needs a boost with some new ideas about how to maximize your value to the company, join this talk.\n\nAshley Wolf - https://www.linkedin.com/in/ashleywolf/\nGil Yehuda - https://www.linkedin.com/in/gilyehuda",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tGZFSs_gsrI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tGZFSs_gsrI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tGZFSs_gsrI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tGZFSs_gsrI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tGZFSs_gsrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tGZFSs_gsrI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q7dFVJzVFqzh-oAIPuzZ_ObQQPU\"",
+    "id": "VVU0TUp2aTVTeVhZbm9vcldWQlRGSktRLnJMZ09PNDVTRXNv",
+    "snippet": {
+      "publishedAt": "2019-06-08T13:03:13.000Z",
+      "channelId": "UC4MJvi5SyXYnoorWVBTFJKQ",
+      "title": "AI Accelerator Summit - Verizon Media's AI Solutions: Machine Learning Use Cases, Chetan Trivedi",
+      "description": "Presented at the AI Accelerator Summit (https://aiacceleratorsummit.com/).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rLgOO45SEso/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rLgOO45SEso/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rLgOO45SEso/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rLgOO45SEso/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rLgOO45SEso/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yahoo Developer Network",
+      "playlistId": "UU4MJvi5SyXYnoorWVBTFJKQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rLgOO45SEso"
+      }
+    }
+  }
+]

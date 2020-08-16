@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nJHPAHmeABbwwAcIoC8jGK1arN4\"",
+      "id": "UCm9iiIfgmVODUJxINecHQkA",
+      "snippet": {
+        "title": "ng-conf",
+        "description": "The world's original Angular conference, with talks from the Angular Team and top experts from around the world.",
+        "customUrl": "ngconfonline",
+        "publishedAt": "2014-01-07T15:40:32.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzdZMUJkU7dYVnJo2SxVcQa_vRSbHzdPLX4lQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzdZMUJkU7dYVnJo2SxVcQa_vRSbHzdPLX4lQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzdZMUJkU7dYVnJo2SxVcQa_vRSbHzdPLX4lQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ng-conf",
+          "description": "The world's original Angular conference, with talks from the Angular Team and top experts from around the world."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUm9iiIfgmVODUJxINecHQkA",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUm9iiIfgmVODUJxINecHQkA"
+  },
+  "displayName": "ng-conf",
+  "description": "The world's original Angular conference, with talks from the Angular Team and top experts from around the world.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzdZMUJkU7dYVnJo2SxVcQa_vRSbHzdPLX4lQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzdZMUJkU7dYVnJo2SxVcQa_vRSbHzdPLX4lQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJzdZMUJkU7dYVnJo2SxVcQa_vRSbHzdPLX4lQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PvTs0CzWJoYG1cgsaRPCfflBMv4\"",
+      "id": "UCO3LEtymiLrgvpb59cNsb8A",
+      "snippet": {
+        "title": "The Go Programming Language",
+        "description": "Videos about working with the Go Programming Language.",
+        "customUrl": "golang",
+        "publishedAt": "2010-04-28T08:28:30.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJz-plpvI8Mv44RXmElCexbrM_stZXUqrq72Ag=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJz-plpvI8Mv44RXmElCexbrM_stZXUqrq72Ag=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJz-plpvI8Mv44RXmElCexbrM_stZXUqrq72Ag=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Go Programming Language",
+          "description": "Videos about working with the Go Programming Language."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "favorites": "FLO3LEtymiLrgvpb59cNsb8A",
+          "uploads": "UUO3LEtymiLrgvpb59cNsb8A",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUO3LEtymiLrgvpb59cNsb8A"
+  },
+  "displayName": "The Go Programming Language",
+  "description": "Videos about working with the Go Programming Language.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJz-plpvI8Mv44RXmElCexbrM_stZXUqrq72Ag=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJz-plpvI8Mv44RXmElCexbrM_stZXUqrq72Ag=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJz-plpvI8Mv44RXmElCexbrM_stZXUqrq72Ag=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

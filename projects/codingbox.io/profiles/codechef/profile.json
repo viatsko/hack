@@ -1,0 +1,64 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/z3KeYWRLGqTtmHi5ro3k_8_TKLA\"",
+      "id": "UCmk2YHXZQk_3GsLKBqsZoBQ",
+      "snippet": {
+        "title": "CodeChef",
+        "description": "",
+        "publishedAt": "2013-05-03T19:27:55.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJx5q3QvvZ8aSc18qqkeuxuKpZ1Cmx_Wxjc5qA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJx5q3QvvZ8aSc18qqkeuxuKpZ1Cmx_Wxjc5qA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJx5q3QvvZ8aSc18qqkeuxuKpZ1Cmx_Wxjc5qA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "CodeChef",
+          "description": ""
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "LLmk2YHXZQk_3GsLKBqsZoBQ",
+          "uploads": "UUmk2YHXZQk_3GsLKBqsZoBQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUmk2YHXZQk_3GsLKBqsZoBQ"
+  },
+  "displayName": "CodeChef",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJx5q3QvvZ8aSc18qqkeuxuKpZ1Cmx_Wxjc5qA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJx5q3QvvZ8aSc18qqkeuxuKpZ1Cmx_Wxjc5qA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJx5q3QvvZ8aSc18qqkeuxuKpZ1Cmx_Wxjc5qA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

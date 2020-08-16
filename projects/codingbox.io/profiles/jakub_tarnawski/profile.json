@@ -1,0 +1,63 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/63NKUbwBOAHKZaq9Rg18OjjVFqI\"",
+      "id": "UCfIh0OerrbEQpZGPq4jjJrQ",
+      "snippet": {
+        "title": "Jakub Tarnawski",
+        "description": "",
+        "customUrl": "jakubtarnawski",
+        "publishedAt": "2008-10-22T19:50:19.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwor4r_mkF__mh4N2XKPM4GIV21Wzhhv9WctQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwor4r_mkF__mh4N2XKPM4GIV21Wzhhv9WctQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwor4r_mkF__mh4N2XKPM4GIV21Wzhhv9WctQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Jakub Tarnawski",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UUfIh0OerrbEQpZGPq4jjJrQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UUfIh0OerrbEQpZGPq4jjJrQ"
+  },
+  "displayName": "Jakub Tarnawski",
+  "description": "",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwor4r_mkF__mh4N2XKPM4GIV21Wzhhv9WctQ=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwor4r_mkF__mh4N2XKPM4GIV21Wzhhv9WctQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJwor4r_mkF__mh4N2XKPM4GIV21Wzhhv9WctQ=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

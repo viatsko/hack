@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/j5haAbdX6rejwKg4aX6F5kpS1Vs\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLkQ0WnlwNnRMLTVr",
+    "snippet": {
+      "publishedAt": "2020-03-20T17:42:15.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Locknote: Conclusions and Key Takeaways from Black Hat Europe 2019",
+      "description": "At the close of this year's conference, join Black Hat Founder Jeff Moss and members of the esteemed Black Hat Review Board for an insightful conversation on the most pressing issues facing the InfoSec community. This Locknote will feature a candid discussion on the key takeaways coming out of Black Hat Europe and how these trends will impact future InfoSec strategies.\n\nBy Jeff Moss, Daniel Cuthbert, Leigh-Anne Galloway and Marina Krotofil \n\nFull Abstract: https://www.blackhat.com/eu-19/briefings/schedule/#locknote-conclusions-and-key-takeaways-from-black-hat-europe--18283",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D4Zyp6tL-5k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D4Zyp6tL-5k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D4Zyp6tL-5k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D4Zyp6tL-5k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D4Zyp6tL-5k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "D4Zyp6tL-5k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AAM_XLiijZsqbyv-inSF2re3r5g\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLkV1SW5VVzc3Q1Bv",
+    "snippet": {
+      "publishedAt": "2020-03-20T17:29:07.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Simple Spyware: Androids Invisible Foreground Services and How to (Ab)use Them",
+      "description": "This simple to implement spyware shows that Androids permission model can't prevent an excessive use of permissions and that the limitations do not prevent the collection of the user's sensitive data. In order to prevent such attacks, it would be necessary to constantly monitor the apps permission usage or to revoke the permissions after every use. Such prevention mechanisms already exist but aren't widely used, which sets the users privacy and security at risk. We will show what users can do in order to guard themselves against such spyware attacks. Furthermore, we will introduce our solution ideas to detect such spyware on Android.\n\nBy Thomas Sutter and Bernhard Tellenbach \n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#simple-spyware-androids-invisible-foreground-services-and-how-to-abuse-them-17738",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EuInUW77CPo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EuInUW77CPo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EuInUW77CPo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EuInUW77CPo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EuInUW77CPo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EuInUW77CPo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uFtigdSYEE28rn_sRnAVmEw6DPg\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLlFKd0xqZmhZaUxF",
+    "snippet": {
+      "publishedAt": "2020-03-20T17:18:47.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Breaking Bootloaders on the Cheap",
+      "description": "For this presentation, we reverse-engineered and analysed the bootloaders of three widely used microcontrollers (NXP LPC1343, ST STM32F4, and ST STM8) in order to assess if the readout protection can be overcome with software-based attacks.\n\nOur analysis shows that the bootloader of the LPC1343 (and other chips from the same family) contains a critical vulnerability in the \"Write to RAM\" command. \n\nBy Qais Temeiza and David Oswald \n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#breaking-bootloaders-on-the-cheap-17518",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QJwLjfhYiLE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QJwLjfhYiLE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QJwLjfhYiLE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QJwLjfhYiLE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QJwLjfhYiLE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QJwLjfhYiLE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WNrXACbFEK9-vUuUybpU0mtsNSo\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLlBsZFF4SUQ4cFFB",
+    "snippet": {
+      "publishedAt": "2020-03-20T17:28:14.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Inside Out - The Cloud has Never been so Close",
+      "description": "In this talk, we present an alternative new approach for attacking cloud infrastructure. We use graphs to build and illustrate the relationships between different resources, identities, and policies. After mapping all the relationships, we show how adversaries can easily abuse existing features to escalate privileges and get to high-value resources.\n\nBy Igal Gofman and Yaron Shani \n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#inside-out---the-cloud-has-never-been-so-close-17797",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PldQxID8pQA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PldQxID8pQA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PldQxID8pQA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PldQxID8pQA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PldQxID8pQA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PldQxID8pQA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3DrkrLRJZOwuidXq0omMW0PQtow\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLkNucUNrcVRaVUdz",
+    "snippet": {
+      "publishedAt": "2020-03-19T22:33:11.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Thinking Outside the JIT Compiler",
+      "description": "In this talk, we will detail our new and generic methods to bypass StructureID Randomization mitigation, which allows an attacker to construct the addrOf/fakeObj primitives and gain the arbitrary Read/Write ability smoothly. Unlike the bug-specific and JIT compiler related way to bypass this mitigation[4], our generic and old-school methods have not been thoroughly presented in any previous talks. We believe our talk will inspire the design of more effective mitigations.\n\nBy Yong Wang\n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#thinking-outside-the-jit-compiler-understanding-and-bypassing-structureid-randomization-with-generic-and-old-school-methods-17513",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CnqCkqTZUGs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CnqCkqTZUGs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CnqCkqTZUGs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CnqCkqTZUGs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CnqCkqTZUGs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CnqCkqTZUGs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/J8YrBVgUnJaCEGJ8r-c9Tvg5Ies\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLlJBN0o1OHg1YlVR",
+    "snippet": {
+      "publishedAt": "2020-03-19T22:52:10.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC",
+      "description": "This session is your chance to get up close and personal with the Black Hat NOC. We'll walk you through the process of deciding what equipment and services we deploy on the Black Hat network, and our reasoning around those decisions. We'll also discuss the changes we make when deploying and securing a network in the U.S., Europe, and Asia, and will share some of the behavioral differences we see in the attendees of those shows, both good and bad. And of course, there will be stories and stats! We'll provide a full debrief of the activity we experienced this year, what has changed since past shows, and what that means for our industry as whole.\n\nBy Neil Wyler and Bart Stump\n\nFull Abstract: https://www.blackhat.com/eu-19/briefings/schedule/#decisions-and-revisions---the-ever-evolving-face-of-the-black-hat-noc-18668",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RA7J58x5bUQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RA7J58x5bUQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RA7J58x5bUQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RA7J58x5bUQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RA7J58x5bUQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RA7J58x5bUQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7dVHnOAgxUaVjspY3VflPd62YtQ\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLkhHeWt0ZW4ycGxr",
+    "snippet": {
+      "publishedAt": "2020-03-19T22:50:22.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Trust in Apple's Secret Garden: Exploring & Reversing Apple's Continuity Protocol",
+      "description": "By using protocols like AirDrop, iMessage which falls under the umbrella of \"Continuity,\" devices can seamlessly share messages, browser tabs, clipboards and wireless hotspots without much hassle of setting it up. However, during our daily usage of said protocols, we barely to think about privacy and security implications behind these protocols, and will be assuming that Apple protects our privacy at all times.\n\nBy Ta-Lun Yen\n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#trust-in-apples-secret-garden-exploring--reversing-apples-continuity-protocol-17829",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HGykten2plk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HGykten2plk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HGykten2plk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HGykten2plk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HGykten2plk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HGykten2plk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TY-C7cxHP676FpVtPXD6uVfsZPU\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLkFZRDNieTdKLS1r",
+    "snippet": {
+      "publishedAt": "2020-03-19T22:07:40.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Practical Side-Channel Attacks Against WPA-TKIP",
+      "description": "Wireless networks and their security protocols keep evolving due to increased performance and reliability demands. For instance, recently the Wi-Fi Alliance released WPA3, which offers better security guarantees (e.g., longer keys). In light of this, one would assume that legacy protocols such as WPA-TKIP are no longer widely used in modern Wi-Fi networks. Unfortunately, our wardriving efforts revealed that 44.81% of encrypted Wi-Fi networks still support and use WPA-TKIP. These wardrives spanned cities in the United States, Germany, and Belgium, and high usage of WPA-TKIP was observed in all of them. Motivated by this, we systematically analyzed the security of WPA-TKIP implementations.\n\nBy Domien Schepers and Mathy Vanhoef  \n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#practical-side-channel-attacks-against-wpa-tkip-17312",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AYD3by7J--k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AYD3by7J--k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AYD3by7J--k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AYD3by7J--k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AYD3by7J--k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AYD3by7J--k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zNoNOdo4He35msTzHOaOdOb2KS8\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLlhVd1pVZE9IVDFj",
+    "snippet": {
+      "publishedAt": "2020-03-19T22:21:00.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Bypassing KPTI Using the Speculative Behavior of the SWAPGS Instruction",
+      "description": "Speculative-execution based attacks and side-channels are more and more common as disclosures continue to increase scrutiny by researchers in this field. In this talk, we demonstrate a new type of side-channel attack based on speculative execution of the SWAPGS instruction inside the OS kernel. This attack is capable of circumventing all existing protective measures, such as CPU microcode patches or kernel address space isolation (KVA shadowing/KPTI). \n\nBy Andrei Lutas and Dan Lutas \n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#bypassing-kpti-using-the-speculative-behavior-of-the-swapgs-instruction-18045",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XUwZUdOHT1c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XUwZUdOHT1c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XUwZUdOHT1c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XUwZUdOHT1c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XUwZUdOHT1c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XUwZUdOHT1c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YnscalKxjbztYy_BIg9xPWt0H2g\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLnZ3d1RDX2l2RzAw",
+    "snippet": {
+      "publishedAt": "2020-03-19T22:01:07.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Fatal Fury on ESP32: Time to Release Hardware Exploits",
+      "description": "This talk presents, in a methodical way, how to defeat one by one the previously listed security features, having physical access to the device and using low-cost hardware techniques such as voltage glitching, analog side-channels, micro-soldering and reverse (of course).\n\nBy Limited Results\n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#fatal-fury-on-esp-time-to-release-hardware-exploits-17336",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vwwTC_ivG00/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vwwTC_ivG00/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vwwTC_ivG00/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vwwTC_ivG00/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vwwTC_ivG00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vwwTC_ivG00"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gdOK0nEBIs3DLeCw2o01ip8yRV4\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLldNMk9HYWFqRTBj",
+    "snippet": {
+      "publishedAt": "2020-03-19T21:24:28.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication",
+      "description": "In this talk, we present the security pitfalls of Bluetooth-based proximity authentication. We analyzed implementations of Android Smart Lock and Windows Dynamic Lock and demonstrated new attacks on these implementations. Based on our analysis, we discovered three new attacks that allow attackers to bypass device proximity authentication.\n\nBy Youngman Jung, Junbum Shin and Yeongjin Jang \n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#bluemaster-bypassing-and-fixing-bluetooth-based-proximity-authentication-17493",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WM2OGaajE0c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WM2OGaajE0c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WM2OGaajE0c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WM2OGaajE0c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WM2OGaajE0c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WM2OGaajE0c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kEWqUkigTWgoFZak8FurjvlViYw\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLlI3OEFuOTRCRmFZ",
+    "snippet": {
+      "publishedAt": "2020-03-19T21:25:48.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Alexa, Hack My Server(less) Please",
+      "description": "When adopting serverless technology, we eliminate the need to manage a server for our application. By doing so, we also pass some of the security threats to the cloud provider. We do not need to care about OS patching and configuration any more. It's all in the safe hands of the service providers. In this talk, I will examine the Serverless #1 risk: Event injection and will demonstrate injection attacks form multiple event types, such as emails, logs, files and even through Alexa.\n\nBy Tal Melamed\n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#alexa-hack-my-serverless-please-17730",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R78An94BFaY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R78An94BFaY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R78An94BFaY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R78An94BFaY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R78An94BFaY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "R78An94BFaY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qJJD3k9onnAitAtwfta6wyvoxho\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLkFnemZJSTRwSFlF",
+    "snippet": {
+      "publishedAt": "2020-03-19T20:48:39.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "OEM Finder: Hunting Vulnerable OEM IoT Devices at Scale",
+      "description": "Using this tool, we found more than 180 unique vulnerable OEM device candidates from over 50,000 IoT device images, which we had collected from EC websites. Furthermore, we analyzed the latest firmware image of some of these OEM device candidates, which are distributed by the OEM vendor (not OEM suppliers), and confirmed that the devices detected by the tool are indeed an OEM device. Moreover, we also found that the OEM firmware images are still vulnerable.\n\nBy Asuka Nakajima\n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#oem-finder-hunting-vulnerable-oem-iot-devices-at-scale-17982",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AgzfII4pHYE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AgzfII4pHYE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AgzfII4pHYE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AgzfII4pHYE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AgzfII4pHYE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AgzfII4pHYE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/l4VmmyY1T0axgZp_v8b7L42ncCY\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLnhMLUJqQ1dXbU9j",
+    "snippet": {
+      "publishedAt": "2020-03-18T23:51:13.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Tackling Privilege Escalation with Offense and Defense",
+      "description": "We will describe some of the surprising discoveries by researchers submitting to the Zero Day Initiative program, which were used to verify the application hardening as it occurred. Over the years, this multi-pronged approach eliminated a large set of vulnerabilities resident in a security model implemented in a JavaScript engine.\n\nBy Abdul-Aziz Hariri and Edgar Pek\n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#tackling-privilege-escalation-with-offense-and-defense-17197",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xL-BjCWWmOc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xL-BjCWWmOc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xL-BjCWWmOc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xL-BjCWWmOc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xL-BjCWWmOc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xL-BjCWWmOc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xroCq8_bWNQbaBdmjvr1gNBzXJc\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLkx2OUJDX2JZYUk4",
+    "snippet": {
+      "publishedAt": "2020-03-18T23:53:20.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "New Exploit Technique In Java Deserialization Attack",
+      "description": "In our depth research, we analyzed more than 10000+ Java third-party libraries and found many cases which can be exploited in real-world attack scenarios. In this talk, we will bat around the principle and exploit technique of these vulnerabilities. Also, we will present how to pwn target server by our new exploit technique. It can not only improve the effect of java deserialization vulnerability but also enhance other Java security issues impact, and we will discuss profound impacts of the attack vector in the java security field.\n\nBy Yongtao Wang, Lucas Zhang and Kunzhe Chai \n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#new-exploit-technique-in-java-deserialization-attack-17321",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Lv9BC_bYaI8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Lv9BC_bYaI8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Lv9BC_bYaI8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Lv9BC_bYaI8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Lv9BC_bYaI8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Lv9BC_bYaI8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g02BwQ91eSd4mBW0lMY3ZbiVUxQ\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLnBoTE9RMHBST2Fn",
+    "snippet": {
+      "publishedAt": "2020-03-18T23:16:51.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "How to Break PDF Encryption",
+      "description": "PDF is among the most widely used document formats worldwide. To ensure confidentiality, PDF supports document encryption. In this talk, we analyze PDF encryption and show two novel techniques for breaking the confidentiality of encrypted documents. \n\nBy Jens Müller and Fabian Ising\n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#how-to-break-pdf-encryption-17540",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/phLOQ0pROag/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/phLOQ0pROag/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/phLOQ0pROag/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/phLOQ0pROag/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/phLOQ0pROag/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "phLOQ0pROag"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Yv2CPOzTqam7_E4mLjl99M4ghVo\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLndROEhJamtFZTlv",
+    "snippet": {
+      "publishedAt": "2020-03-18T21:56:08.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Implementing the Lessons Learned From a Major Cyber Attack",
+      "description": "In June 2017, Maersk suffered a major notpetya cyber-attack, this session explains lessons learned and how they are now being applied within Maersk.\n\nBy Andy Powell\n\nFull Abstract: https://www.blackhat.com/eu-19/briefings/schedule/#implementing-the-lessons-learned-from-a-major-cyber-attack-18198",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wQ8HIjkEe9o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wQ8HIjkEe9o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wQ8HIjkEe9o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wQ8HIjkEe9o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wQ8HIjkEe9o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wQ8HIjkEe9o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jmcvOIF-oUGD3WJDkv52lCY7-So\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLld5N3FZNW1zM3FZ",
+    "snippet": {
+      "publishedAt": "2020-03-18T21:53:19.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "What the Fuzz",
+      "description": "Come to our talk and find out, what state-of-the-art fuzzing technologies have to offer, and what is yet to come. This talk will feature demos, CVEs, and a release, as well as lots of stuff we learned over the last four years of fuzzing research.\n\nBy Cornelius Aschermann and Sergej Schumilo \n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#what-the-fuzz-18031",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Wy7qY5ms3qY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Wy7qY5ms3qY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Wy7qY5ms3qY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Wy7qY5ms3qY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Wy7qY5ms3qY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Wy7qY5ms3qY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LxXxAL_G0XffK6t_bEnIMYI9H0E\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLktNNHdoWUxQOXJn",
+    "snippet": {
+      "publishedAt": "2020-03-18T21:18:36.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Unleashing the Power of My 20+ Years Old Car",
+      "description": "In this talk, I will give a brief introduction on how I managed to bypass that limiter, how I could have done it, how I ended up doing it, and what I discovered along the way.\n\nAutomotive engine computer management will be introduced, as well as a bit of hardware, software reverse engineering, and video demonstrations.\n\nBy Stanislas Lejay\n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#unleashing-the-power-of-my--years-old-car-17570",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KM4whYLP9rg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KM4whYLP9rg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KM4whYLP9rg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KM4whYLP9rg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KM4whYLP9rg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KM4whYLP9rg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cQLBa9DRLNe4wetwdB31ZsyNHbo\"",
+    "id": "VVVKNnE5SWUyOWFqR3FLQXBiTHFmQk9nLkpzRWVwX2lUSFpr",
+    "snippet": {
+      "publishedAt": "2020-03-18T21:05:17.000Z",
+      "channelId": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Understanding the IoT Threat Landscape",
+      "description": "In this session, we will discuss the details of this project and share some analysis of malware that have been collected. By leveraging this information, Panasonic aims to develop products that are resilient to malware. In addition, we are looking for ways to use this threat and remediation information to develop an IoT SOC.\n\nBy Hikohiro Y Lin and Yuki Osawa \n\nFull Abstract & Presentation Materials: https://www.blackhat.com/eu-19/briefings/schedule/#understanding-the-iot-threat-landscape-and-a-home-appliance-manufacturers-approach-to-counter-threats-to-iot-17625",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JsEep_iTHZk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JsEep_iTHZk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JsEep_iTHZk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JsEep_iTHZk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JsEep_iTHZk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Black Hat",
+      "playlistId": "UUJ6q9Ie29ajGqKApbLqfBOg",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JsEep_iTHZk"
+      }
+    }
+  }
+]

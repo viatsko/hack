@@ -1,0 +1,317 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ys7cWCqNjSslAHfOZ-Le9iARBlA\"",
+    "id": "VVVjZENrSktYbFJvWFZEMDNlby1xOG1RLlBKS1lxTFA2TVJF",
+    "snippet": {
+      "publishedAt": "2016-09-12T09:18:18.000Z",
+      "channelId": "UCcdCkJKXlRoXVD03eo-q8mQ",
+      "title": "Episode 07: Intro to Behavioural Interviews",
+      "description": "In this video, we break down the goals, components, and best practices of Behavioural Interviews. While they are, for the most part, non-technical, you might find yourself faced with questions you don't feel ready to answer in an interview like this. This episode will help you understand what it's all about and how you can be genuine without shooting yourself in the foot.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PJKYqLP6MRE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PJKYqLP6MRE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PJKYqLP6MRE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PJKYqLP6MRE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PJKYqLP6MRE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jackson Gabbard",
+      "playlistId": "UUcdCkJKXlRoXVD03eo-q8mQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PJKYqLP6MRE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dDvC6zlcWqc7cTIaPKTMitqVo9Q\"",
+    "id": "VVVjZENrSktYbFJvWFZEMDNlby1xOG1RLlpnZFMwRVVtbjcw",
+    "snippet": {
+      "publishedAt": "2016-07-31T14:21:53.000Z",
+      "channelId": "UCcdCkJKXlRoXVD03eo-q8mQ",
+      "title": "Episode 06: Intro to Architecture and Systems Design Interviews",
+      "description": "In this episode, I walk through the context and goals of a systems design and architecture interview. If you're considering working for a tech company, you'll almost certainly be asked to tackle a high-scale systems design problem. This video explains why companies ask this of you, how to prepare for this interview mentally and emotionally, and what success or failure might look like.\n\nA full write-up of this video is available here: http://jg.gg/architecture-and-systems-design-interview/\n\nIf the background music bugs you, here's a version with no background music: https://www.youtube.com/watch?v=As2gOXtcPVQ\n\nContents:\n\nThe part about money https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=140\n\nDifferent kinds of interviews https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=216\n\nCoding interviews vs. architecture interviews https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=299\n\nThe structure of an architecture interview https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=410\n\nThe actual architecture question https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=441\n\nHow much this question sucks https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=522\n\nLife isn't fair https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=775\n\nBreaking the problem down  https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=854\n\nAll the stuff I didn't talk about https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=1800\n\nThe goal of the interview https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=1918\n\nThe most important point https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=1936\n\nFailing this interview https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=2123 \n\nWhy these skills might get you fired https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=2356\n\nReasons you can succeed https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=2474\n\nAdvantages you can leverage https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=2568\n\nGetting rejected https://www.youtube.com/watch?feature=player_embedded&v=ZgdS0EUmn70#t=2853",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZgdS0EUmn70/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZgdS0EUmn70/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZgdS0EUmn70/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZgdS0EUmn70/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZgdS0EUmn70/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jackson Gabbard",
+      "playlistId": "UUcdCkJKXlRoXVD03eo-q8mQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZgdS0EUmn70"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6nTPKksMJ6Nvz7E7TCKki-_Kqug\"",
+    "id": "VVVjZENrSktYbFJvWFZEMDNlby1xOG1RLlZOYmt6c25sbHNV",
+    "snippet": {
+      "publishedAt": "2016-06-02T18:49:27.000Z",
+      "channelId": "UCcdCkJKXlRoXVD03eo-q8mQ",
+      "title": "Coding Interview Problem: Largest Rectangle in a Histogram",
+      "description": "Episode 05 comes hot with histograms, rectangles, stacks, JavaScript, and a sprinkling of adult themes and language. Brace yourselves!\n\nFull text-form code is available here: http://jg.gg/largest-rectangle-in-a-histogram-coding-interview-problem/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VNbkzsnllsU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VNbkzsnllsU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VNbkzsnllsU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VNbkzsnllsU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VNbkzsnllsU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jackson Gabbard",
+      "playlistId": "UUcdCkJKXlRoXVD03eo-q8mQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VNbkzsnllsU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZKYectnY5WQ7j0VbjXs42ErWyek\"",
+    "id": "VVVjZENrSktYbFJvWFZEMDNlby1xOG1RLlY3aEh1cHR0elZr",
+    "snippet": {
+      "publishedAt": "2016-05-26T17:59:20.000Z",
+      "channelId": "UCcdCkJKXlRoXVD03eo-q8mQ",
+      "title": "Coding Interview Problem: Permutation Generator",
+      "description": "Follow along as we dive into the problem of creating a permutation generator using C++. We'll walk through an efficient, in-place solution that leverages lexicographic ordering and incrementation. A full text version of the code is available here: http://jg.gg/permutation-generator-coding-interview-question/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V7hHupttzVk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V7hHupttzVk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V7hHupttzVk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/V7hHupttzVk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/V7hHupttzVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jackson Gabbard",
+      "playlistId": "UUcdCkJKXlRoXVD03eo-q8mQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "V7hHupttzVk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/soctzt2lONjBghP8w-waysDoT2c\"",
+    "id": "VVVjZENrSktYbFJvWFZEMDNlby1xOG1RLm9sSzZTV2w4VXJN",
+    "snippet": {
+      "publishedAt": "2016-05-14T19:39:30.000Z",
+      "channelId": "UCcdCkJKXlRoXVD03eo-q8mQ",
+      "title": "Coding Interview Problem: Calendar Conflicts",
+      "description": "Jackson walks through a linear (O(n)) complexity solution to the problem of finding conflicts in a calendar represented as a list of start and end times. The video features code written in PHP. It's written in the style of a Google coding interview (or Facebook, Amazon, etc. company).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/olK6SWl8UrM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/olK6SWl8UrM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/olK6SWl8UrM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/olK6SWl8UrM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/olK6SWl8UrM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jackson Gabbard",
+      "playlistId": "UUcdCkJKXlRoXVD03eo-q8mQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "olK6SWl8UrM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8un2nqn7ub5GLuafOU84kHPt3ps\"",
+    "id": "VVVjZENrSktYbFJvWFZEMDNlby1xOG1RLjN0ZUhVNG4tY3pV",
+    "snippet": {
+      "publishedAt": "2016-05-03T06:35:09.000Z",
+      "channelId": "UCcdCkJKXlRoXVD03eo-q8mQ",
+      "title": "Coding Interview Problem: Dinner Party",
+      "description": "In this episode we look at a combinatorial complexity problem related to selecting subsets of our friends to join us for dinner. Coding in Python, we go through the premise of the problem, how to think about the a recursive structure to solve it, and a full implementation of a recursive solution.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3teHU4n-czU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3teHU4n-czU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3teHU4n-czU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3teHU4n-czU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3teHU4n-czU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jackson Gabbard",
+      "playlistId": "UUcdCkJKXlRoXVD03eo-q8mQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3teHU4n-czU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/I2qoKwZ0cW5vVDsJX1IjxhUq4Rc\"",
+    "id": "VVVjZENrSktYbFJvWFZEMDNlby1xOG1RLjF3TUJ3MzhyQWx3",
+    "snippet": {
+      "publishedAt": "2016-04-25T18:10:18.000Z",
+      "channelId": "UCcdCkJKXlRoXVD03eo-q8mQ",
+      "title": "Coding Interview Problem: Least Disruptive Subrange",
+      "description": "In this episode, I'll guide you through an entry level coding problem that you might face in an interview at a tech company. This video discusses the problem, goes through a complete coding solution to the problem. We finish up with a walk through of the logic to confirm we've got the problem right. Full text-form code and discussion available here: http://jg.gg/the-unqualified-engineer-episode-01/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1wMBw38rAlw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1wMBw38rAlw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1wMBw38rAlw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1wMBw38rAlw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1wMBw38rAlw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jackson Gabbard",
+      "playlistId": "UUcdCkJKXlRoXVD03eo-q8mQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1wMBw38rAlw"
+      }
+    }
+  }
+]

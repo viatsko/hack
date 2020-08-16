@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vCRNGkTcOt3sxEHpod99KxLMRQ4\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLnZsTHVyRFVCSzZB",
+    "snippet": {
+      "publishedAt": "2020-01-13T10:20:29.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "JS Conf Armenia 2019",
+      "description": "#JSConfAM19 hosted more than 1000 #JavaScript developers from the region to discuss #JS and have fun.\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vlLurDUBK6A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vlLurDUBK6A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vlLurDUBK6A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vlLurDUBK6A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vlLurDUBK6A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vlLurDUBK6A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/F77vwZWJKnl4b93ZcroKKMNpTpk\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLmVqRVZkYnlFVm5j",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:16:30.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Let’s build with WebAssembly! by Tejas Kumar (Eng) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Tejas Kumar, an award-winning engineer, and international speaker\n🔸Topic: Let’s build with #WebAssembly!\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ejEVdbyEVnc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ejEVdbyEVnc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ejEVdbyEVnc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ejEVdbyEVnc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ejEVdbyEVnc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ejEVdbyEVnc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8C35LuI_VN3WD75DT0EDspMcGpI\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLmJVa3N6UWctMWZ3",
+    "snippet": {
+      "publishedAt": "2020-01-13T18:00:12.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "The Magic of RxJS by Natalia Tepluhina (Eng) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Natalia Tepluhina, Vuejs Core Team Member, Google Developers Expert, Senior #Frontend Engineer at GitLab\n🔸Topic: The Magic of #RxJS\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bUkszQg-1fw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bUkszQg-1fw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bUkszQg-1fw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bUkszQg-1fw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bUkszQg-1fw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bUkszQg-1fw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8rWolOaC7ZX5cEwSpPFia8BeuMI\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLm55Szl4Y1ZRbEY0",
+    "snippet": {
+      "publishedAt": "2020-01-15T11:57:56.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "3DGraphics with Threejs by Ruben Meschian (Eng) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Rouben Meschian, Co-founder of JS Conf Armenia and Founding Engineer at Cambridge Semantics\n🔸Topic: #3DGraphics with #Threejs\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nyK9xcVQlF4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nyK9xcVQlF4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nyK9xcVQlF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nyK9xcVQlF4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nyK9xcVQlF4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nyK9xcVQlF4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Sim-fGFzlRAIeSR90PTxuspJaiA\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLldrY085UG9DcUhj",
+    "snippet": {
+      "publishedAt": "2020-01-13T16:45:13.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Building a Language by Leandro Ostera (Eng) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Leandro Ostera, Research Engineer at SRC\n🔸Topic: Building a Language\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WkcO9PoCqHc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WkcO9PoCqHc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WkcO9PoCqHc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WkcO9PoCqHc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WkcO9PoCqHc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WkcO9PoCqHc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Zfzm5r78OoGY9jEZ6cIB442BRhM\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLjFvRXV4dk53Wkxv",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:16:23.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Saga of a Single Function by Edgar Marukyan (Eng) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Edd Marukyan, Co-founder of JS Conf Armenia and CTO of Renderforest\n🔸Topic: Saga of a Single Function\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1oEuxvNwZLo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1oEuxvNwZLo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1oEuxvNwZLo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1oEuxvNwZLo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1oEuxvNwZLo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1oEuxvNwZLo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/61DxR9m1svQBjLhYXqvzCMoNGrk\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLnZIQV84N3RObG9N",
+    "snippet": {
+      "publishedAt": "2020-01-13T17:00:13.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Rewards and Struggles in maintaining a Vue.js OS library by Nicolo Mezzopera (Eng) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Nicolò Maria Mezzopera, Senior #Frontend Engineer at GitLab\n🔸Topic: Rewards and Struggles in maintaining a Vue.js open-source library\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vHA_87tNloM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vHA_87tNloM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vHA_87tNloM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vHA_87tNloM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vHA_87tNloM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vHA_87tNloM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/j9WKrbg4FHY1QQxFEt0OIo1aqPI\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLmN3SjZQS1JlMGlv",
+    "snippet": {
+      "publishedAt": "2020-01-13T19:00:11.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "DըMP DըMP Hooks or Hooks Under The Hooks by Hrach Mkrtchyan (Arm) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Hrach Mkrtchyan, #Reactjs Engineer at Renderforest\n🔸Topic: DըMP DըMP #Hooks or Hooks Under The Hooks\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cwJ6PKRe0io/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cwJ6PKRe0io/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cwJ6PKRe0io/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cwJ6PKRe0io/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cwJ6PKRe0io/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cwJ6PKRe0io"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mpeS3f5zn73NsOflyzx6ws25YbE\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLjMzTkdodEFNaWZB",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:15:53.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Why we need UI libraries/frameworks by Khachatur Virabyan (Arm) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Khachatur Virabyan, Front-end engineer at Teamable\n🔸Topic: Why we need #UI libraries/frameworks\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/33NGhtAMifA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/33NGhtAMifA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/33NGhtAMifA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/33NGhtAMifA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/33NGhtAMifA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "33NGhtAMifA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WMeCK9cRKGr8i8d2KlLyUlP5kUY\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLnFZUFhEelQ1Ui04",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:14:39.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "JavaScript at Scale by Stephanie Siaw (Eng) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Stephanie Siaw, Engineering Manager at Deliveroo\n🔸Topic: #JavaScript at Scale\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qYPXDzT5R-8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qYPXDzT5R-8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qYPXDzT5R-8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qYPXDzT5R-8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qYPXDzT5R-8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qYPXDzT5R-8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/snTGCCFvMvzoqv_zaqJf1SN51PI\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLnhMV1BSS1NyYjI4",
+    "snippet": {
+      "publishedAt": "2020-01-13T17:30:13.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Angular + Web Components by Armen Vardanyan (Arm) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Armen Vardanyan, Senior Angular Developer at VOLO\n🔸Topic: #Angular + Web Components\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xLWPRKSrb28/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xLWPRKSrb28/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xLWPRKSrb28/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xLWPRKSrb28/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xLWPRKSrb28/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xLWPRKSrb28"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Dh1LQ03Kxpg-uUV88_O6Tcw-byM\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLk5DeWlaUTVkVDVv",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:18:32.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "JavaScript Design Patterns by Nairi Harutyunyan (Arm) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Nairi Harutyunyan, #Backend Engineer at Screenful\n🔸Topic: #JavaScript Design Patterns\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NCyiZQ5dT5o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NCyiZQ5dT5o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NCyiZQ5dT5o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NCyiZQ5dT5o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NCyiZQ5dT5o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NCyiZQ5dT5o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GBI4H473g_PjURBoKQYadGeLxoA\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLjR4TVpocER6dXYw",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:15:34.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Atypical Angular: performance, flexibility, customization by Roman Enikeev (Rus) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Roman Enikeev, Development Lead at DataArt with more than 12 years of production experience\n🔸Topic: Atypical #Angular: performance, flexibility, customization \n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4xMZhpDzuv0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4xMZhpDzuv0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4xMZhpDzuv0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4xMZhpDzuv0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4xMZhpDzuv0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4xMZhpDzuv0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oycwKoP6TsJryw7e2CSPssNRw5Q\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLmFmS2V5YnhNUkdF",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:15:28.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Fantastic Bugs And Where To Find Them by Iris Schaffer (Eng) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Iris Schaffer, #Frontend Developer at SRC\n🔸Topic: Fantastic Bugs And Where To Find Them\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/afKeybxMRGE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/afKeybxMRGE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/afKeybxMRGE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/afKeybxMRGE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/afKeybxMRGE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "afKeybxMRGE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CK6MOEkOFn5_ERZiMxiyNh44Q0g\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLm8zOUJTX0t6Q2c4",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:15:19.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Scaling NodeJS apps with N-API by Ruben Harutyunyan (Arm) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Ruben Harutyunyan, Full-stack web developer\n🔸Topic: Scaling #NodeJS apps with N-API\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o39BS_KzCg8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o39BS_KzCg8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o39BS_KzCg8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o39BS_KzCg8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o39BS_KzCg8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "o39BS_KzCg8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OZL1wyYxGfq5tMU_i9jI58XWAVk\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLkRwdFE2OWtLRW1Z",
+    "snippet": {
+      "publishedAt": "2020-01-13T13:15:41.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Don't optimize, write optimal by Davit Abgaryan (Arm) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: David Abgaryan, Senior Software Developer at SuperAnnotate\n🔸Topic: Don't optimize, write optimal\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DptQ69kKEmY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DptQ69kKEmY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DptQ69kKEmY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DptQ69kKEmY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DptQ69kKEmY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DptQ69kKEmY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kTzeEO0hWqVREgOwmVkZFRklhfQ\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLjhBNHZOMEY4YUxN",
+    "snippet": {
+      "publishedAt": "2020-01-13T12:23:32.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Enzyme/Jest React Components Testing by Hayk Barseghyan (Arm) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Hayk Barseghyan, Senior Member Of Technical Staff at VMware\n🔸Topic: Enzyme/Jest #React components testing\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8A4vN0F8aLM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8A4vN0F8aLM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8A4vN0F8aLM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8A4vN0F8aLM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8A4vN0F8aLM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8A4vN0F8aLM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yU6sl-qb0y_tPYM0JqawC4i-69w\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLkdBNDFtZEl5WHo4",
+    "snippet": {
+      "publishedAt": "2020-01-13T12:26:26.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "How to Master Frontend Development: Survival Guide by Lilit Tadevosyan (Arm) | JSConfAM19",
+      "description": "#JSConfAM19 brought together more than 1000 #JS developers from the regional #JavaScript community to talk JS and have fun!\n\n🔸Speaker: Lilit Tadevosyan, Senior Software Engineer at Workfront Armenia\n🔸Topic: How to Master #Frontend Development: Survival Guide\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GA41mdIyXz8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GA41mdIyXz8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GA41mdIyXz8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GA41mdIyXz8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GA41mdIyXz8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GA41mdIyXz8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tqdL8ICY_3FId9aug54pe13iqSc\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLkZHU3FLeXdzNmk4",
+    "snippet": {
+      "publishedAt": "2018-12-14T10:45:36.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "Framework Design: Lessons learnt from repeated mistakes by Rouben Meschian (Eng) | JS Conf Arm 2018",
+      "description": "JS Conf Armenia 2018 brought together more than 800 JS developers on Nov 3, 2018 at American University of Armenia.\n\nSpeaker: Rouben Meschian, Founding Engineer at Cambridge Semantics and Co-founder of JS Conf Armenia\nTopic: Framework Design - Lessons Learned from Repeated Mistakes\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FGSqKyws6i8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FGSqKyws6i8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FGSqKyws6i8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FGSqKyws6i8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FGSqKyws6i8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FGSqKyws6i8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MKNvnHUvI7QCpHNZypBDYmYAbrc\"",
+    "id": "VVVrekVPS1U5NTlGNl9UME9hUUJINFZRLl9GVFdVRWV6R19v",
+    "snippet": {
+      "publishedAt": "2018-12-04T12:45:05.000Z",
+      "channelId": "UCkzEOKU959F6_T0OaQBH4VQ",
+      "title": "You Don't Know Node.js EventLoop by Nairi Haroutiounian (Arm) | JS Conf Armenia 2018",
+      "description": "JS Conf Armenia 2018 brought together more than 800 JS developers on Nov 3, 2018 at American University of Armenia.\n\nSpeaker: Nairi Haroutiounian, Back-end Engineer at Screenful\nTopic: You Don't Know Node.js EventLoop\n\nWebsite: https://jsconf.am/ \nFacebook: https://www.facebook.com/jsconf.am/\nTwitter: https://twitter.com/jsconf_am/\nInstagram: https://www.instagram.com/jsconf.am/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_FTWUEezG_o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_FTWUEezG_o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_FTWUEezG_o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_FTWUEezG_o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_FTWUEezG_o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JavaScript Conference Armenia",
+      "playlistId": "UUkzEOKU959F6_T0OaQBH4VQ",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_FTWUEezG_o"
+      }
+    }
+  }
+]

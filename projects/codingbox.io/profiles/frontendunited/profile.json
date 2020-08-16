@@ -1,0 +1,62 @@
+{
+  "youtubeChannel": {
+    "metadata": {
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K8unFIZ3h44SSZE_aCYJLDR9vis\"",
+      "id": "UC6Q3-JjgMpb4Uy6YgHdJSMw",
+      "snippet": {
+        "title": "Frontend United",
+        "description": "Frontend United is a non-profit, developer-first, community-focused conference. Our aim is to connect frontend developers and designers from all kinds of backgrounds closer together to share knowledge, experiences and ideas.",
+        "publishedAt": "2016-06-02T14:23:21.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxRu_Iv45aS0RMr_yp44Y2rznGnIiKVAWQeyA=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxRu_Iv45aS0RMr_yp44Y2rznGnIiKVAWQeyA=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxRu_Iv45aS0RMr_yp44Y2rznGnIiKVAWQeyA=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Frontend United",
+          "description": "Frontend United is a non-profit, developer-first, community-focused conference. Our aim is to connect frontend developers and designers from all kinds of backgrounds closer together to share knowledge, experiences and ideas."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UU6Q3-JjgMpb4Uy6YgHdJSMw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    },
+    "uploadsPlaylist": "UU6Q3-JjgMpb4Uy6YgHdJSMw"
+  },
+  "displayName": "Frontend United",
+  "description": "Frontend United is a non-profit, developer-first, community-focused conference. Our aim is to connect frontend developers and designers from all kinds of backgrounds closer together to share knowledge, experiences and ideas.",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxRu_Iv45aS0RMr_yp44Y2rznGnIiKVAWQeyA=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxRu_Iv45aS0RMr_yp44Y2rznGnIiKVAWQeyA=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/a/AATXAJxRu_Iv45aS0RMr_yp44Y2rznGnIiKVAWQeyA=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+    }
+  }
+}

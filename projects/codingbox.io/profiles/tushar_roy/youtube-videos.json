@@ -1,0 +1,4632 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XkfjG9nKpQWxnsx1SrnrzqR0xLI\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnJuWm1kbWxSLTJN",
+    "snippet": {
+      "publishedAt": "2018-07-07T14:33:34.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "System Design : Distributed Database System Key Value Store",
+      "description": "Desing a scalable distributed database system.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rnZmdmlR-2M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rnZmdmlR-2M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rnZmdmlR-2M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rnZmdmlR-2M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rnZmdmlR-2M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rnZmdmlR-2M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dRWGO1XXFBVt3bTGk2wz18PQZB4\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlV6TE1ocWczX1dj",
+    "snippet": {
+      "publishedAt": "2017-11-27T04:28:22.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "System Design Introduction For Interview.",
+      "description": "https://www.facebook.com/tusharroy25/\nThis video describes how to prepare for system design interview. Below is all the content described in the video.\nA - Ask good questions\nB - Don't use buzzwords\nC - Clear and organized thinking\nD - Drive discussions with 80-20 rule\n\nThings to consider\nFeatures\nAPI\nAvailability\nLatency\nScalability\nDurability\nClass Diagram\nSecurity and Privacy\nCost-effective\n\nConcepts to know\nVertical vs horizontal scaling\nCAP theorem\nACID vs BASE\nPartitioning/Sharding \nConsistent Hashing\nOptimistic vs pessimistic locking\nStrong vs eventual consistency\nRelationalDB vs NoSQL\nTypes of NoSQL\n     Key value\n     Wide column\n     Document-based\n     Graph-based\nCaching\nData center/racks/hosts\nCPU/memory/Hard drives/Network bandwidth\nRandom vs sequential read/writes to disk\nHTTP vs http2 vs WebSocket\nTCP/IP model\nipv4 vs ipv6\nTCP vs UDP\nDNS lookup\nHttp & TLS\nPublic key infrastructure and certificate authority(CA)\nSymmetric vs asymmetric encryption\nLoad Balancer\nCDNs & Edges\nBloom filters and Count-Min sketch\nPaxos \nLeader election\nDesign patterns and Object-oriented design\nVirtual machines and containers\nPub-sub architecture \nMapReduce\nMultithreading, locks, synchronization, CAS(compare and set)\n\nTools\nCassandra\nMongoDB/Couchbase\nMysql\nMemcached\nRedis\nZookeeper\nKafka\nNGINX\nHAProxy\nSolr, Elastic search\nAmazon S3\nDocker, Kubernetes, Mesos\nHadoop/Spark and HDFS\n\nReferences\nhttps://docs.datastax.com/en/cassandra/2.1/cassandra/architecture/architectureIntro_c.html\nhttp://cloudurable.com/blog/kafka-architecture/index.html\nhttps://zookeeper.apache.org/doc/trunk/zookeeperOver.html\nhttp://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf\nhttps://research.google.com/archive/bigtable.html\nhttps://en.wikipedia.org/wiki/CAP_theorem\nhttps://en.wikipedia.org/wiki/Consistent_hashing\nhttps://www.mongodb.com/mongodb-architecture\nhttps://en.wikipedia.org/wiki/HTTP/2\nhttps://en.wikipedia.org/wiki/Transport_Layer_Security",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UzLMhqg3_Wc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UzLMhqg3_Wc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UzLMhqg3_Wc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UzLMhqg3_Wc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UzLMhqg3_Wc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UzLMhqg3_Wc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4_KEk2NJp6HrPPRK_7VrQQfe_yQ\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnpLUE5VTWt3T0pF",
+    "snippet": {
+      "publishedAt": "2017-11-18T15:58:27.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "System Design : Design messaging/chat service like Facebook Messenger or Whatsapp",
+      "description": "System design : Design messaging or chat service like facebook messenger.\n\nhttps://redis.io/topics/cluster-tutorial\nhttps://docs.datastax.com/en/cassandra/2.1/cassandra/architecture/architectureIntro_c.html\nhttps://en.wikipedia.org/wiki/WebSocket",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zKPNUMkwOJE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zKPNUMkwOJE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zKPNUMkwOJE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zKPNUMkwOJE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zKPNUMkwOJE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zKPNUMkwOJE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NWD32oJ1roeyxj539i8O0qidb4o\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkxQRmhsNjVSN3d3",
+    "snippet": {
+      "publishedAt": "2017-11-14T04:44:28.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Binary Search : Median of two sorted arrays of different sizes.",
+      "description": "In example 1 end should be 5(not 4) since there are total 5 elements.\nFind median of two sorted arrays of different sizes. Algorithm is based on binary search.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MedianOfTwoSortedArrayOfDifferentLength.java\nhttps://www.facebook.com/tusharroy25/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LPFhl65R7ww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LPFhl65R7ww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LPFhl65R7ww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LPFhl65R7ww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LPFhl65R7ww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LPFhl65R7ww"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mt-J5z3kKcRE3aGRyRw2Z46bo8o\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnVzMHF5U2lVc0dV",
+    "snippet": {
+      "publishedAt": "2017-11-08T05:09:28.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "System design : Design Autocomplete or Typeahead Suggestions for Google search",
+      "description": "System design: How to design an autocomplete feature for search engine like Google or Bing. Design should be scalable/available/durable.\nhttps://www.facebook.com/tusharroy25/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/us0qySiUsGU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/us0qySiUsGU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/us0qySiUsGU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/us0qySiUsGU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/us0qySiUsGU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "us0qySiUsGU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RM1PkOJzg7fcYUEW6jhpJkMorjA\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlZ1ODRsbU16UDJv",
+    "snippet": {
+      "publishedAt": "2017-10-15T03:46:52.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Convex Hull Jarvis March(Gift wrapping algorithm)",
+      "description": "the convex hull or convex envelope of a set X of points in the Euclidean plane or in a Euclidean space (or, more generally, in an affine space over the reals) is the smallest convex set that contains X. For instance, when X is a bounded subset of the plane, the convex hull may be visualized as the shape enclosed by a rubber band stretched around X.\n\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/JarvisMarchConvexHull.java\nhttps://leetcode.com/problems/erect-the-fence/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vu84lmMzP2o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vu84lmMzP2o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vu84lmMzP2o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Vu84lmMzP2o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Vu84lmMzP2o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Vu84lmMzP2o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/otwyMU7b0BGjmC3zc6Tps26NEDM\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmZNWk1tXzBaaEs0",
+    "snippet": {
+      "publishedAt": "2017-05-27T07:59:03.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "System Design : Design a service like TinyUrl",
+      "description": "System design: Design a scalable service which supports tiny url use case.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fMZMm_0ZhK4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fMZMm_0ZhK4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fMZMm_0ZhK4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fMZMm_0ZhK4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fMZMm_0ZhK4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fMZMm_0ZhK4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZOhVJS43HsgzhqiUFDvlWVOrkhY\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LklGTmliUlZnRkJv",
+    "snippet": {
+      "publishedAt": "2016-07-06T20:19:54.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Burst Balloon Dynamic Programming[Leetcode]",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://leetcode.com/problems/burst-balloons/\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BurstBalloons.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IFNibRVgFBo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IFNibRVgFBo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IFNibRVgFBo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IFNibRVgFBo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IFNibRVgFBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IFNibRVgFBo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rxByrxSx6bS5yEbQacWpXAwvG5c\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlB3RHFwT013ZzZV",
+    "snippet": {
+      "publishedAt": "2016-06-16T04:48:18.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Sum Query in 2D Immutable Array Dynamic Programming",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/Immutable2DSumRangeQuery.java\nhttps://github.com/mission-peace/interview/wiki\n\nGiven a 2D matrix matrix, find the sum of the elements inside the rectangle defined by its upper left corner (row1, col1) and lower right corner (row2, col2).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PwDqpOMwg6U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PwDqpOMwg6U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PwDqpOMwg6U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PwDqpOMwg6U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PwDqpOMwg6U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "PwDqpOMwg6U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vxOu_pLTrR5ChbuwyRfV7kIwmR8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmwzaGRhNDlYY0RF",
+    "snippet": {
+      "publishedAt": "2016-06-06T05:03:18.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Regular Expression Dynamic Programming",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/RegexMatching.java\nhttps://github.com/mission-peace/interview/wiki\n\nGiven a regex which supports '*' and '.' . Do regex matching.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l3hda49XcDE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l3hda49XcDE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l3hda49XcDE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l3hda49XcDE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l3hda49XcDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l3hda49XcDE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/f5TdzkFHEbcluv4VtAF0m7phx2E\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmM1TzdFX1BETzRV",
+    "snippet": {
+      "publishedAt": "2016-05-01T02:41:11.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Sparse Table Algorithm Range Minimum Query",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/misc/SparseTableRangeMinimumQuery.java\nhttps://github.com/mission-peace/interview/wiki\n\nIn computer science, a range minimum query (RMQ) solves the problem of finding the minimal value in a sub-array of an array of comparable objects. Range minimum queries have several use cases in computer science such as the lowest common ancestor problem or the longest common prefix problem (LCP).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c5O7E_PDO4U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c5O7E_PDO4U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c5O7E_PDO4U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c5O7E_PDO4U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c5O7E_PDO4U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "c5O7E_PDO4U"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HRcOh36-cl24nqpRiucuFPvVazg\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlRJb0NDU3RkaUZv",
+    "snippet": {
+      "publishedAt": "2016-05-05T07:02:00.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Lowest Common Ancestor Binary Search Tree",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/wiki\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LowestCommonAncestoryBinarySearchTree.java\n\nFind lowest common ancestor in binary search tree.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TIoCCStdiFo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TIoCCStdiFo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TIoCCStdiFo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TIoCCStdiFo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TIoCCStdiFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TIoCCStdiFo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4rgs0z8P7411-9Upv0GsOHlNS-8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LjEzbTlaQ0I4Z2p3",
+    "snippet": {
+      "publishedAt": "2016-04-28T05:05:37.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Lowest Common Ancestor Binary Tree",
+      "description": "https://www.facebook.com/tusharroy25/\nhttps://github.com/mission-peace/interview/wiki\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LowestCommonAncestorInBinaryTree.java\n\nGiven two nodes find lowest common ancestor of these 2 nodes in the binary tree",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/13m9ZCB8gjw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/13m9ZCB8gjw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/13m9ZCB8gjw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/13m9ZCB8gjw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/13m9ZCB8gjw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "13m9ZCB8gjw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pt4oYdVK3i6Npbcmwui0IZe0-SQ\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnhMUUtkcTBGZmpn",
+    "snippet": {
+      "publishedAt": "2016-04-27T06:35:53.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Iterative Postorder traversal of binary tree using one stack",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L98\nhttps://github.com/mission-peace/interview/wiki\n\nPostorder traversal of binary tree using one stack.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xLQKdq0Ffjg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xLQKdq0Ffjg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xLQKdq0Ffjg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xLQKdq0Ffjg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xLQKdq0Ffjg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xLQKdq0Ffjg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wT6SdGvBpFym9ExBKfTgMxRr77k\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkFYam1UUThMRW9J",
+    "snippet": {
+      "publishedAt": "2016-04-26T07:14:53.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Trie Data Structure",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/Trie.java\n\nInsert, delete and search into trie.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AXjmTQ8LEoI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AXjmTQ8LEoI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AXjmTQ8LEoI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AXjmTQ8LEoI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AXjmTQ8LEoI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AXjmTQ8LEoI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ar0ruBxnuqRqgomzDfORlw8D7To\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnhUTkZzNUtSVl9n",
+    "snippet": {
+      "publishedAt": "2016-03-16T05:31:09.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Combination of Characters in String (All subsets of characters)",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/Combination.java\nhttps://github.com/mission-peace/interview/wiki\n\nFind combination of all characters in string where characters can be repeated.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xTNFs5KRV_g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xTNFs5KRV_g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xTNFs5KRV_g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xTNFs5KRV_g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xTNFs5KRV_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xTNFs5KRV_g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EAdm0N7oRTTUvOg1fZWj0h0q4cM\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LndHWEI5T1doUFRn",
+    "snippet": {
+      "publishedAt": "2016-03-09T06:21:16.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Morris Inorder Tree Traversal",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/MorrisTraversal.java\nhttps://github.com/mission-peace/interview/wiki\n\nInorder iterative traversal of a binary tree without stack or recursion. This traversal is called Morris traversal.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wGXB9OWhPTg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wGXB9OWhPTg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wGXB9OWhPTg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wGXB9OWhPTg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wGXB9OWhPTg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wGXB9OWhPTg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7AS_77d12Y3EokgPeVdTrIuDjF8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnhvdWluODNlYnhF",
+    "snippet": {
+      "publishedAt": "2016-03-01T07:46:20.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "N Queen Problem Using Backtracking Algorithm",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/NQueenProblem.java\nhttps://github.com/mission-peace/interview/wiki\n\nGiven nxn board and n queens. Place these queens on this board so that they do not attack each other.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xouin83ebxE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xouin83ebxE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xouin83ebxE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xouin83ebxE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xouin83ebxE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xouin83ebxE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yCNgw3tak66Pzi4Gz2p2eA2twiU\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LjNaRFotTjBFUFYw",
+    "snippet": {
+      "publishedAt": "2016-02-13T07:37:00.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Wildcard Matching Dynamic Programming",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/WildCardMatching.java\nhttps://github.com/mission-peace/interview/wiki\nhttps://www.facebook.com/tusharroy25\n\nImplement wildcard pattern matching with support for '?' and '*'",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3ZDZ-N0EPV0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3ZDZ-N0EPV0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3ZDZ-N0EPV0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3ZDZ-N0EPV0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3ZDZ-N0EPV0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3ZDZ-N0EPV0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vsXlqnPeJfRRSQwUML0rWNpAvjo\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lk5KdUtKOHNhc0dr",
+    "snippet": {
+      "publishedAt": "2016-02-02T17:36:17.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Coin Changing Minimum Coins Dynamic Programming",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CoinChangingMinimumCoin.java\nhttps://github.com/mission-peace/interview/blob/master/python/dynamic/coinchangingmincoins.py\nhttps://www.educative.io/page/11000001/100001\n\nGiven set of coins of unlimited quantity and a total. How many minimum coins would it take to form this total.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NJuKJ8sasGk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NJuKJ8sasGk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NJuKJ8sasGk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NJuKJ8sasGk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NJuKJ8sasGk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NJuKJ8sasGk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/G8TT11yK_6Nvvrh_5dJI72zKIqk\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lm5ZRmQ3VkhLeVdR",
+    "snippet": {
+      "publishedAt": "2016-01-30T04:36:45.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "String Permutation Algorithm",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/StringPermutation.java\nhttps://github.com/mission-peace/interview/blob/master/python/recursion/stringpermutation.py\nhttps://github.com/mission-peace/interview/wiki\nhttps://www.educative.io/page/11000001/90001\n\nWrite a code to generate all permutations of given string in lexicographically sorted order with repetition of characters in the string.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nYFd7VHKyWQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nYFd7VHKyWQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nYFd7VHKyWQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nYFd7VHKyWQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nYFd7VHKyWQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nYFd7VHKyWQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_-4C9ELa6X6yiiR2g7mn31rrwdo\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnJLUWFadW9VUjRN",
+    "snippet": {
+      "publishedAt": "2016-01-16T03:53:38.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Detect Cycle in Directed Graph Algorithm",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/CycleInDirectedGraph.java\nhttps://github.com/mission-peace/interview/blob/master/python/graph/cycledirectedgraph.py\nhttps://www.educative.io/page/11000001/60001\n\nDetect cycle in directed graph using depth first search.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rKQaZuoUR4M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rKQaZuoUR4M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rKQaZuoUR4M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rKQaZuoUR4M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rKQaZuoUR4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rKQaZuoUR4M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XeRSW74ATYZWoQxWrxxkAa0iJbI\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkdTQkxlOGNLdTBz",
+    "snippet": {
+      "publishedAt": "2016-01-15T07:20:40.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Skyline Problem",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/SkylineDrawing.java\nhttps://github.com/mission-peace/interview/blob/master/python/geometry/skylinedrawing.py\nhttps://www.educative.io/page/11000001/70001\nYou are given a set of n rectangles in no particular order. They have varying widths and heights, but their bottom edges are collinear, so that they look like buildings on a skyline. For each rectangle, you’re given the x position of the left edge, the x position of the right edge, and the height. Your task is to draw an outline around the set of rectangles so that you can see what the skyline would look like when silhouetted at night.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GSBLe8cKu0s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GSBLe8cKu0s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GSBLe8cKu0s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GSBLe8cKu0s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GSBLe8cKu0s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GSBLe8cKu0s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pxsZOFukiSb34mVZ7jhCHI3F-NY\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lm9EaHU1dUdxX2lj",
+    "snippet": {
+      "publishedAt": "2016-01-06T08:35:11.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Buy/Sell Stock With K transactions To Maximize Profit Dynamic Programming",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/StockBuySellKTransactions.java\nhttps://github.com/mission-peace/interview/blob/master/python/dynamic/stockbuysellktransactions.py\nhttps://github.com/mission-peace/interview/wiki\n\nGiven an array for which the ith element is the price of a given stock on day i.\nDesign an algorithm to find the maximum profit. You may complete at most k transactions. Transactions cannot occur in parallel. One transaction should complete before starting another transaction.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oDhu5uGq_ic/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oDhu5uGq_ic/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oDhu5uGq_ic/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oDhu5uGq_ic/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oDhu5uGq_ic"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SQKHb7f891aB9B6IyFGRkWdRZto\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkdpTjNqUmRneFU0",
+    "snippet": {
+      "publishedAt": "2016-01-03T00:05:37.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Ford Fulkerson Algorithm Edmonds Karp Algorithm For Max Flow",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/FordFulkerson.java\nhttps://github.com/mission-peace/interview/blob/master/python/graph/fordfulkerson.py\n\nThe Ford–Fulkerson method or Ford–Fulkerson algorithm (FFA) is an algorithm that computes the maximum flow in a flow network. It is called a \"method\" instead of an \"algorithm\" as the approach to finding augmenting paths in a residual graph is not fully specified[1] or it is specified in several implementations with different running times.[2] It was published in 1956 by L. R. Ford, Jr. and D. R. Fulkerson.[3] The name \"Ford–Fulkerson\" is often also used for the Edmonds–Karp algorithm, which is a specialization of Ford–Fulkerson.\n\nIn computer science, the Edmonds–Karp algorithm is an implementation of the Ford–Fulkerson method for computing the maximum flow in a flow network in O(V E2) time. The algorithm was first published by Yefim (Chaim) Dinic in 1970[1] and independently published by Jack Edmonds and Richard Karp in 1972.[2] Dinic's algorithm includes additional techniques that reduce the running time to O(V2E).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GiN3jRdgxU4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GiN3jRdgxU4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GiN3jRdgxU4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GiN3jRdgxU4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GiN3jRdgxU4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GiN3jRdgxU4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/H4LdvSSCNf8hUkhDm4fXuocD2vA\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lkg0VnJLSFZHNXFJ",
+    "snippet": {
+      "publishedAt": "2015-12-30T15:52:07.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Rabin Karp Substring Search Pattern Matching",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/string/RabinKarpSearch.java\nhttps://github.com/mission-peace/interview/blob/master/python/string/rabinkarp.py\nhttps://github.com/mission-peace/interview/wiki\n\nIn computer science, the Rabin–Karp algorithm or Karp–Rabin algorithm is a string searching algorithm created by Richard M. Karp and Michael O. Rabin (1987) that uses hashing to find any one of a set of pattern strings in a text. For text of length n and p patterns of combined length m, its average and best case running time is O(n+m) in space O(p), but its worst-case time is O(nm). In contrast, the Aho–Corasick string matching algorithm has asymptotic worst-time complexity O(n+m) in space O(m).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H4VrKHVG5qI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H4VrKHVG5qI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H4VrKHVG5qI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/H4VrKHVG5qI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/H4VrKHVG5qI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "H4VrKHVG5qI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3usZg4Z5NNu-ijSeOhZjVrBUcnE\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lkx3SmROZmRMRjlz",
+    "snippet": {
+      "publishedAt": "2015-12-13T07:39:22.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Floyd Warshall Algorithm All Pair Shortest Path Graph Algorithm",
+      "description": "This algorithm finds shortest path between every pair of vertices.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/FloydWarshallAllPairShortestPath.java\nhttps://github.com/mission-peace/interview/wiki\n\nn computer science, the Floyd–Warshall algorithm is an algorithm for finding shortest paths in a weighted graph with positive or negative edge weights (but with no negative cycles).[1][2] A single execution of the algorithm will find the lengths (summed weights) of the shortest paths between all pairs of vertices, though it does not return details of the paths themselves. Versions of the algorithm can also be used for finding the transitive closure of a relation R, or (in connection with the Schulze voting system) widest paths between all pairs of vertices in a weighted graph.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LwJdNfdLF9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LwJdNfdLF9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LwJdNfdLF9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LwJdNfdLF9s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LwJdNfdLF9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LwJdNfdLF9s"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ybo_59b-3oH4vrUgX0P5JAGkndo\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Li1tT0VkXzNnVEsw",
+    "snippet": {
+      "publishedAt": "2015-12-09T07:47:16.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Bellman-Ford Algorithm Single Source Shortest Path Graph Algorithm",
+      "description": "Find single source shortest path using Bellman Ford algorithm.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/BellmanFordShortestPath.java\nhttps://github.com/mission-peace/interview/wiki\n\nTime complexity is O(EV)\nSpace complexity is O(V)\n\nBellman-Ford works with negative edges and detects negative weight cycle unlike Dijkstra's Algorithm.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-mOEd_3gTK0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-mOEd_3gTK0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-mOEd_3gTK0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-mOEd_3gTK0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-mOEd_3gTK0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-mOEd_3gTK0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BAPYgXYyChHMkz51aIQDDF-l4Z8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Li1KakE0QkxReXFF",
+    "snippet": {
+      "publishedAt": "2015-12-07T07:11:28.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Traveling Salesman Problem Dynamic Programming Held-Karp",
+      "description": "Find tour of traveling salesman problem using dynamic programming.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/TravelingSalesmanHeldKarp.java\nhttps://github.com/mission-peace/interview/graphs/traffic\n\nHeld Karp designed this algorithm. \nTime complexity is O(2^n*n*n)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-JjA4BLQyqE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-JjA4BLQyqE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-JjA4BLQyqE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-JjA4BLQyqE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-JjA4BLQyqE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-JjA4BLQyqE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BPRK5kkwfW3mrA-CR2GHlO6AyHY\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmpvaHlyV29zcHYw",
+    "snippet": {
+      "publishedAt": "2015-11-23T21:58:31.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Johnson's Algorithm - All simple cycles in directed graph",
+      "description": "Using Johnson's algorithm find all simple cycles in directed graph. \nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/AllCyclesInDirectedGraphJohnson.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/johyrWospv0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/johyrWospv0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/johyrWospv0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/johyrWospv0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/johyrWospv0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "johyrWospv0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9WSurf8NnLHb9-yklT69oIuGFBA\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkNUdmZ6VV91TktF",
+    "snippet": {
+      "publishedAt": "2015-11-16T03:25:50.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Red Black Tree Deletion",
+      "description": "Deletion in red black tree. \nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/RedBlackTree.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CTvfzU_uNKE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CTvfzU_uNKE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CTvfzU_uNKE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CTvfzU_uNKE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CTvfzU_uNKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CTvfzU_uNKE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/H9DtjdiBxVbo0SOnfimeFkYaChY\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlVhTElIdVIxdDhR",
+    "snippet": {
+      "publishedAt": "2015-11-09T03:17:29.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Red Black Tree Insertion",
+      "description": "How to do insertion in red black tree.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/RedBlackTree.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UaLIHuR1t8Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UaLIHuR1t8Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UaLIHuR1t8Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UaLIHuR1t8Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UaLIHuR1t8Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UaLIHuR1t8Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dNwERoE-GjuUVPFqbVDz2Dibnio\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkNwWmg0ZUY4UUJ3",
+    "snippet": {
+      "publishedAt": "2015-11-05T08:11:11.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Z Algorithm Z values",
+      "description": "Z Algorithm for pattern matching.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/string/ZAlgorithm.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CpZh4eF8QBw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CpZh4eF8QBw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CpZh4eF8QBw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CpZh4eF8QBw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CpZh4eF8QBw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CpZh4eF8QBw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/N7BACggWm6FRqzJtkaKYjD4l4DE\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LjE0OVdTelE0RTFn",
+    "snippet": {
+      "publishedAt": "2015-10-30T03:40:57.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "0/1 Knapsack Problem Top Down Dynamic Programming",
+      "description": "Solving 0/1 Knapsack problem using top down dynamic programming with memoization\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/Knapsack01.java#L73\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/149WSzQ4E1g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/149WSzQ4E1g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/149WSzQ4E1g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/149WSzQ4E1g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/149WSzQ4E1g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "149WSzQ4E1g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tTEN7l0_iisFa0yfw7EF73W0wEA\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmxBWFpHRVJjRGY0",
+    "snippet": {
+      "publishedAt": "2015-10-28T19:41:06.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Dijkstra's Algorithm Single Source Shortest Path Graph Algorithm",
+      "description": "Find single source shortest path using Dijkstra algorithm\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/DijkstraShortestPath.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lAXZGERcDf4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lAXZGERcDf4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lAXZGERcDf4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lAXZGERcDf4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lAXZGERcDf4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lAXZGERcDf4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/r6I4QE-wAGzVqcw5xqzHwESd6LA\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lm9QMi04eXNUM1FR",
+    "snippet": {
+      "publishedAt": "2015-10-26T07:03:11.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Prim's Algorithm Minimum Spanning Tree Graph Algorithm",
+      "description": "https://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/PrimMST.java\nhttps://github.com/mission-peace/interview/wiki\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/BinaryMinHeap.java",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oP2-8ysT3QQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oP2-8ysT3QQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oP2-8ysT3QQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oP2-8ysT3QQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oP2-8ysT3QQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oP2-8ysT3QQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ldqSxVKTW9_16m1dMClui2QlSNo\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmZBdUYwRXVaVkNr",
+    "snippet": {
+      "publishedAt": "2015-10-25T05:12:27.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Kruskal's algorithm Minimum Spanning Tree Graph Algorithm",
+      "description": "Find miimum spanning tree using Kruskal's algorithm\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/KruskalMST.java",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fAuF0EuZVCk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fAuF0EuZVCk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fAuF0EuZVCk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fAuF0EuZVCk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fAuF0EuZVCk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fAuF0EuZVCk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HwCqaLml3GJFL9bw3hYWBk7yL2E\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LktmX003UmRIcjFN",
+    "snippet": {
+      "publishedAt": "2015-09-30T17:45:24.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Coin Change Top down dynamic programming",
+      "description": "Given a total and coins of certain denominations with infinite supply, how many minimum number of coins would it take to form this total.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CoinChangingMinimumCoin.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Kf_M7RdHr1M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Kf_M7RdHr1M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Kf_M7RdHr1M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Kf_M7RdHr1M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Kf_M7RdHr1M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Kf_M7RdHr1M"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/86MRkiPMtGYGoU716AUuwBR6ww4\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LjJrUkVJa0Y5VUFz",
+    "snippet": {
+      "publishedAt": "2015-09-10T03:48:25.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Articulation Points Graph Algorithm",
+      "description": "Given undirected connected graph, find all articulation points in the graph.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ArticulationPoint.java\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2kREIkF9UAs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2kREIkF9UAs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2kREIkF9UAs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2kREIkF9UAs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2kREIkF9UAs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2kREIkF9UAs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sWIpWftBnWtxLl2cit5FNN718AI\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlJwZ2NZaWt5N3V3",
+    "snippet": {
+      "publishedAt": "2015-08-13T18:03:32.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Strongly Connected Components Kosaraju's Algorithm Graph Algorithm",
+      "description": "Find all strongly connected components in directed graph.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/StronglyConnectedComponent.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RpgcYiky7uw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RpgcYiky7uw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RpgcYiky7uw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RpgcYiky7uw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RpgcYiky7uw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RpgcYiky7uw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fWTLcSzPQoHmVzu-snRej7Uhxs4\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lnh1b1FkdDVwSGow",
+    "snippet": {
+      "publishedAt": "2015-08-12T16:29:44.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Lazy Propagation Segment Tree",
+      "description": "Update segment tree lazily. \nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SegmentTreeMinimumRangeQuery.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xuoQdt5pHj0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xuoQdt5pHj0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xuoQdt5pHj0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xuoQdt5pHj0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xuoQdt5pHj0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xuoQdt5pHj0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jafFjtNA0erkBYOcSdeQnbXWkHg\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmRkVEM0Wm92dGJj",
+    "snippet": {
+      "publishedAt": "2015-08-03T01:23:51.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Topological Sort Graph Algorithm",
+      "description": "Generate topologically sorted order for directed acyclic graph. \nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/TopologicalSort.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ddTC4Zovtbc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ddTC4Zovtbc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ddTC4Zovtbc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ddTC4Zovtbc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ddTC4Zovtbc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ddTC4Zovtbc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/56vRqmuRBMuf0cIZScyJIjObl8w\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlM5b1VpVllFcTdF",
+    "snippet": {
+      "publishedAt": "2015-08-02T04:43:32.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Longest Increasing Subsequence in nlogn time",
+      "description": "Find the longest increasing subsequence in nlogn time. \nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/array/LongestIncreasingSubSequenceOlogNMethod.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S9oUiVYEq7E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S9oUiVYEq7E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S9oUiVYEq7E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S9oUiVYEq7E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S9oUiVYEq7E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "S9oUiVYEq7E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/41p_PIXE9hXRUXRbrpFfK5FvuO8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lm5fdDBhXzhIOFZZ",
+    "snippet": {
+      "publishedAt": "2015-08-01T04:02:18.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Cycle in Undirected Graph Graph Algorithm",
+      "description": "Cycle in undirected graph using DFS and disjoint sets.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/CycleUndirectedGraph.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n_t0a_8H8VY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n_t0a_8H8VY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n_t0a_8H8VY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/n_t0a_8H8VY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/n_t0a_8H8VY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 43,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "n_t0a_8H8VY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HR_9kx2oIo4XJeseoIT4MrtXPb8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlYtc0V3c2NhMWFr",
+    "snippet": {
+      "publishedAt": "2015-07-31T06:26:15.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Longest Palindromic Substring Manacher's Algorithm",
+      "description": "Given a string, find longest palindromic substring in this string in linear time.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/string/LongestPalindromeSubstring.java\nhttps://github.com/mission-peace/interview/wiki\nhttps://www.facebook.com/tusharroy25",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V-sEwsca1ak/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V-sEwsca1ak/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V-sEwsca1ak/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/V-sEwsca1ak/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/V-sEwsca1ak/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 44,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "V-sEwsca1ak"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jy9j5xfsYKKfec5Yf10DT23bi5k\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LklEMDBQTXkwLXZF",
+    "snippet": {
+      "publishedAt": "2015-06-22T00:07:10.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Disjoint Sets using union by rank and path compression Graph Algorithm",
+      "description": "Design disjoint sets which supports makeSet, union and findSet operations. Uses union by rank and path compression for optimization.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/graph/DisjointSet.java\nhttps://github.com/mission-peace/interview/wiki\nhttps://www.facebook.com/tusharroy25",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ID00PMy0-vE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ID00PMy0-vE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ID00PMy0-vE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ID00PMy0-vE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ID00PMy0-vE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 45,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ID00PMy0-vE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MLTuM_1IAjv1j4EJqqN7YHjKbG8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LjhMdXNKUzUtQUdv",
+    "snippet": {
+      "publishedAt": "2015-06-14T02:00:48.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "0/1 Knapsack Problem Dynamic Programming",
+      "description": "Given a bag which can only take certain weight W. Given list of items with their weights and price. How do you fill this bag to maximize value of items in the bag.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/Knapsack01.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8LusJS5-AGo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8LusJS5-AGo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8LusJS5-AGo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8LusJS5-AGo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8LusJS5-AGo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 46,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8LusJS5-AGo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_UqCoGvFpZhAgZ4cW-BIp6Xk3ac\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LktHNDRWb0R0c0FB",
+    "snippet": {
+      "publishedAt": "2015-06-13T23:41:45.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search) Part2",
+      "description": "This video is specifically about building prefix array for KMP. For KMP video go to https://youtu.be/GTJr8OvyEVQ\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/string/SubstringSearch.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KG44VoDtsAA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KG44VoDtsAA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KG44VoDtsAA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KG44VoDtsAA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KG44VoDtsAA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 47,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "KG44VoDtsAA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EvYWb01jjMmA85w_ROKk0NEBtiE\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkdUSnI4T3Z5RVZR",
+    "snippet": {
+      "publishedAt": "2015-06-13T05:41:36.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search)",
+      "description": "Pattern matching(substring search) using KMP algorithm\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/string/SubstringSearch.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GTJr8OvyEVQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GTJr8OvyEVQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GTJr8OvyEVQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GTJr8OvyEVQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GTJr8OvyEVQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 48,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GTJr8OvyEVQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ad9I57BluzSlsufZiWROeY1hs_Y\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmFQUnFvY29Cc0ZR",
+    "snippet": {
+      "publishedAt": "2015-06-07T03:51:32.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Suffix Tree using Ukkonen's algorithm",
+      "description": "Construct suffix tree using Ukkonen's algorithm which is linear time algorithm\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixTree.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aPRqocoBsFQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aPRqocoBsFQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aPRqocoBsFQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aPRqocoBsFQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aPRqocoBsFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 49,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "aPRqocoBsFQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/apHi6X9nHj6HjfmChLqp-lDstnI\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Ljltb2RfeFJCLU8w",
+    "snippet": {
+      "publishedAt": "2015-05-15T07:02:18.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Box Stacking Dynamic Programming",
+      "description": "Given boxes of different dimensions, stack them on top of each other to get maximum height such that box on top has strictly less length and width than box under it.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BoxStacking.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9mod_xRB-O0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9mod_xRB-O0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9mod_xRB-O0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9mod_xRB-O0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9mod_xRB-O0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 50,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9mod_xRB-O0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iHNLpu3LKL4FixyJsvPVS84PsWw\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lmc4YlNkWENHLWxB",
+    "snippet": {
+      "publishedAt": "2015-05-15T06:45:43.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Maximum Size Rectangle of All 1's Dynamic Programming",
+      "description": "Given a 2D matrix of 0s and 1s, find maximum size rectangle of all 1s in this matrix.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MaximumRectangularSubmatrixOf1s.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g8bSdXCG-lA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g8bSdXCG-lA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g8bSdXCG-lA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g8bSdXCG-lA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g8bSdXCG-lA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 51,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "g8bSdXCG-lA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uLoWdq2KmyVsRXac4TOE7TABq9s\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LjRmaURzN0NDeGtj",
+    "snippet": {
+      "publishedAt": "2015-05-11T02:23:00.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Largest BST in Binary Tree",
+      "description": "Given a binary tree, find size of largest binary search tree in this binary tree.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LargestBSTInBinaryTree.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4fiDs7CCxkc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4fiDs7CCxkc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4fiDs7CCxkc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4fiDs7CCxkc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4fiDs7CCxkc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 52,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4fiDs7CCxkc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/i8e5g-uMun0M-n1164Vj_33sZio\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlptbnFDWnA5YkJz",
+    "snippet": {
+      "publishedAt": "2015-05-09T23:38:38.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Maximum Rectangular Area in Histogram",
+      "description": "Given an array representing bar graph, find maximum histogram area or rectangle with maximum area.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/MaximumHistogram.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZmnqCZp9bBs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZmnqCZp9bBs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZmnqCZp9bBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZmnqCZp9bBs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZmnqCZp9bBs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 53,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZmnqCZp9bBs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LS7kkdZuIVsBmsNSGlH-pVUevtE\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlJPUnV3SGlibFBj",
+    "snippet": {
+      "publishedAt": "2015-05-08T05:05:05.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Text Justification Dynamic Programming",
+      "description": "Given a sequence of words, and a limit on the number of characters that can be put in one line (line width). Put line breaks in the given sequence such that the lines are printed neatly\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/TextJustification.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RORuwHiblPc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RORuwHiblPc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RORuwHiblPc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RORuwHiblPc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RORuwHiblPc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 54,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RORuwHiblPc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sVnVS2cse9apXslplG43ah72a7s\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnlDUU4wOTZDd1dN",
+    "snippet": {
+      "publishedAt": "2015-05-05T03:31:19.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Maximum Sum Rectangular Submatrix in Matrix dynamic programming/2D kadane",
+      "description": "Find maximum sum rectangle in 2D matrix.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/SubRectangularMatrixWithMaximumSum.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yCQN096CwWM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yCQN096CwWM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yCQN096CwWM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yCQN096CwWM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yCQN096CwWM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 55,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yCQN096CwWM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2WL270IWK6_IdJSELSv-WB0gUsc\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkNXRFFKR2FOMWdZ",
+    "snippet": {
+      "publishedAt": "2015-05-03T23:19:44.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Fenwick Tree or Binary Indexed Tree",
+      "description": "Implement Fenwick tree or binary indexed tree\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/FenwickTree.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CWDQJGaN1gY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CWDQJGaN1gY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CWDQJGaN1gY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CWDQJGaN1gY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CWDQJGaN1gY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 56,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CWDQJGaN1gY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V-ZGPie0dUQ0CXnWAH9_8lJ8qbE\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkQyYkliV0dndnpJ",
+    "snippet": {
+      "publishedAt": "2015-04-27T05:03:48.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Reverse level order traversal binary tree",
+      "description": "Given a binary tree, print level order traversal in reverse direction.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LevelOrderTraversalInReverse.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D2bIbWGgvzI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D2bIbWGgvzI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D2bIbWGgvzI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D2bIbWGgvzI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D2bIbWGgvzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 57,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "D2bIbWGgvzI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cwlRlu-WNLiUV8I68TJ_YQm_-iM\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnJiZzdRZjhHa1E0",
+    "snippet": {
+      "publishedAt": "2015-04-26T07:09:08.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "AVL Tree Insertion",
+      "description": "Insert into an AVL tree\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/AVLTree.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rbg7Qf8GkQ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rbg7Qf8GkQ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rbg7Qf8GkQ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rbg7Qf8GkQ4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rbg7Qf8GkQ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 58,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rbg7Qf8GkQ4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mcUtn5lN2aNyoN-TCQmlhrUkFgQ\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlpCSEtaRjV3NFlV",
+    "snippet": {
+      "publishedAt": "2015-04-23T06:45:41.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Segment Tree Range Minimum Query",
+      "description": "Create and query for minimum in segment tree\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SegmentTreeMinimumRangeQuery.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZBHKZF5w4YU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZBHKZF5w4YU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZBHKZF5w4YU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZBHKZF5w4YU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZBHKZF5w4YU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 59,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZBHKZF5w4YU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pHCbDYwhN3CrFuHE9lmQ2JSLvbQ\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnZqdDVZNi0xS3NR",
+    "snippet": {
+      "publishedAt": "2015-04-21T06:10:56.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Tree Traversal Spiral Order",
+      "description": "Print Level order traversal in spiral order for binary tree.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversalInSpiralOrder.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vjt5Y6-1KsQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vjt5Y6-1KsQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vjt5Y6-1KsQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vjt5Y6-1KsQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vjt5Y6-1KsQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 60,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vjt5Y6-1KsQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eYsriICa7hZRd86Jtt8JYSy2wW8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Ljd1RzBnTERiaHNJ",
+    "snippet": {
+      "publishedAt": "2015-04-19T05:54:35.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Level by Level Printing of Binary Tree",
+      "description": "Given a binary tree, print each level on new line.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversalLevelByLevel.java\nhttps://github.com/mission-peace/interview/wiki#tree",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7uG0gLDbhsI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7uG0gLDbhsI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7uG0gLDbhsI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7uG0gLDbhsI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7uG0gLDbhsI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 61,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7uG0gLDbhsI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zL8EKM3o3rjqjTCaM-a7KYGEr5w\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lm56bXRDRk5hZTlr",
+    "snippet": {
+      "publishedAt": "2015-04-13T01:57:04.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Iterative Inorder Traversal of Binary Tree",
+      "description": "Iterative program to print binary tree in inorder fashion.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L40\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nzmtCFNae9k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nzmtCFNae9k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nzmtCFNae9k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nzmtCFNae9k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nzmtCFNae9k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 62,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nzmtCFNae9k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2gx_Xh6hX2Kos-PtMR1r7lxqEv4\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmVsUWNySnJmT2Jn",
+    "snippet": {
+      "publishedAt": "2015-04-13T01:40:59.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Iterative Preorder Traversal of Binary Tree",
+      "description": "Write a program to print binary tree in preorder fashion.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L105\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/elQcrJrfObg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/elQcrJrfObg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/elQcrJrfObg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/elQcrJrfObg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/elQcrJrfObg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 63,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "elQcrJrfObg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/etwSYkmTcJCn4sDyeg6mPkQuikQ\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LjlQSGtNMEpyaV80",
+    "snippet": {
+      "publishedAt": "2015-04-13T01:18:10.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Level Order Traversal of Binary Tree",
+      "description": "Program to print tree in level order fashion.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LevelOrderTraversal.java#L19\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9PHkM0Jri_4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9PHkM0Jri_4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9PHkM0Jri_4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9PHkM0Jri_4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9PHkM0Jri_4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 64,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9PHkM0Jri_4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yNXoOxOJM0YPCRI5H2oOBydru7o\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnFUNjVIbHRLMnVF",
+    "snippet": {
+      "publishedAt": "2015-04-13T00:57:24.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Iterative Postorder Traversal of Binary Tree",
+      "description": "Write an iterative program to print binary tree in postorder fashion.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L120\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qT65HltK2uE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qT65HltK2uE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qT65HltK2uE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qT65HltK2uE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qT65HltK2uE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 65,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qT65HltK2uE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iGZsUwHcFHV1Da4mXHfhXiU0jVg\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnlTRERzbEc4d3dz",
+    "snippet": {
+      "publishedAt": "2015-04-12T03:29:42.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Same Binary Tree",
+      "description": "Given roots of two binary tree, return true if the are same tree else return false.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SameTree.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ySDDslG8wws/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ySDDslG8wws/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ySDDslG8wws/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ySDDslG8wws/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ySDDslG8wws/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 66,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ySDDslG8wws"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eAnlAp6fJaoSHYErPsbf46ePD90\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lk1JTHhmQWJJaHJF",
+    "snippet": {
+      "publishedAt": "2015-04-12T03:14:39.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Check if Binary Tree is Binary Search Tree",
+      "description": "Given a binary tree, return true if it is binary search tree else return false.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/IsBST.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MILxfAbIhrE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MILxfAbIhrE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MILxfAbIhrE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MILxfAbIhrE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MILxfAbIhrE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 67,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MILxfAbIhrE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KCp8Vc5F-KDLPDes0Vvz3DujLJg\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkpnNEU0S1pzdEZF",
+    "snippet": {
+      "publishedAt": "2015-04-12T02:53:20.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Root To Leaf Sum Binary Tree",
+      "description": "Given a binary tree and a sum, find if there is a path from root to leaf which sums to this sum.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/RootToLeafToSum.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jg4E4KZstFE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jg4E4KZstFE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jg4E4KZstFE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Jg4E4KZstFE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Jg4E4KZstFE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 68,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Jg4E4KZstFE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/drYBJ9VxmZU9rMck3KdQrbQbvig\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnptODNqUEhaLWpB",
+    "snippet": {
+      "publishedAt": "2015-04-12T00:22:01.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Binary Search Tree Search",
+      "description": "Given a binary search tree and a key, return node with this key if it exists or return null.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BSTSearch.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zm83jPHZ-jA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zm83jPHZ-jA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zm83jPHZ-jA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zm83jPHZ-jA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zm83jPHZ-jA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 69,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zm83jPHZ-jA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aWT_mpP4zIR953mEaI_XM49Cq74\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmJtYWVZdGxPMk9F",
+    "snippet": {
+      "publishedAt": "2015-04-08T05:27:19.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Binary Search Tree Insertion (Iterative method)",
+      "description": "Insert into binary search tree.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTree.java#L30\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bmaeYtlO2OE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bmaeYtlO2OE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bmaeYtlO2OE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bmaeYtlO2OE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bmaeYtlO2OE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 70,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bmaeYtlO2OE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9EAQnnTI6odLkVkx80VkJBludXk\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Ll9TaXdyUFhHOS1n",
+    "snippet": {
+      "publishedAt": "2015-04-06T00:49:37.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Height Of Binary Tree",
+      "description": "Given a root of binary tree, find height of binary tree.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTree.java#L58\nhttps://github.com/mission-peace/interview/wiki#tree",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_SiwrPXG9-g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_SiwrPXG9-g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_SiwrPXG9-g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_SiwrPXG9-g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_SiwrPXG9-g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 71,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_SiwrPXG9-g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gP2J1JmJGhBlO8UlaaJ-tZoCjpM\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lk5BOEI4NERaWVNB",
+    "snippet": {
+      "publishedAt": "2015-04-05T23:51:07.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Size Of Binary Tree",
+      "description": "Given a binary tree return size of binary tree.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SizeOfBinaryTree.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NA8B84DZYSA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NA8B84DZYSA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NA8B84DZYSA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NA8B84DZYSA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NA8B84DZYSA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 72,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NA8B84DZYSA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/J7A58iodvC3M5AxWYJFEs2uX4BQ\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlpNLXNWOXpRUEVz",
+    "snippet": {
+      "publishedAt": "2015-04-05T23:33:57.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Binary Tree Traversal",
+      "description": "Preorder, inorder and postorder traversal of binary tree",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZM-sV9zQPEs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZM-sV9zQPEs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZM-sV9zQPEs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZM-sV9zQPEs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZM-sV9zQPEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 73,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZM-sV9zQPEs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3fhpZr5RfygxiZMuf-mAJyDW7us\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmhnQTR4eGxWdmZR",
+    "snippet": {
+      "publishedAt": "2015-04-05T01:56:29.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Optimal Binary Search Tree",
+      "description": "Given keys and frequency at which these keys are searched, how would you create binary search tree from these keys such that cost of searching is minimum.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/OptimalTreeSearch.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hgA4xxlVvfQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hgA4xxlVvfQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hgA4xxlVvfQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hgA4xxlVvfQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hgA4xxlVvfQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 74,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hgA4xxlVvfQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FmL9AFofD1p6Yfa8uw8QGCZFmsA\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlV0R3RGNm5jMzVn",
+    "snippet": {
+      "publishedAt": "2015-04-04T23:15:55.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Maximum Sum Subsequence Non-Adjacent",
+      "description": "Given an array of positive number, find maximum sum subsequence such that elements in this subsequence are not adjacent to each other.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MaxSumForNonAdjacentElements.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UtGtF6nc35g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UtGtF6nc35g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UtGtF6nc35g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UtGtF6nc35g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UtGtF6nc35g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 75,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UtGtF6nc35g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LTsVGEVQrBooSObRxcjCyIc1BZ8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmE5LU50TElzMUtr",
+    "snippet": {
+      "publishedAt": "2015-04-04T23:22:44.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Numbers WIthout Consecutive 1s in binary representation",
+      "description": "Given a number n, find total number of numbers from 0 to 2^n-1 which do not have consecutive 1s in their binary representation.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfBinaryWithoutConsecutive1s.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a9-NtLIs1Kk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a9-NtLIs1Kk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a9-NtLIs1Kk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a9-NtLIs1Kk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a9-NtLIs1Kk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 76,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "a9-NtLIs1Kk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/e44kMEywc1sTQUaPqf1vWUtuGlg\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnZpXzFlSENzUjlB",
+    "snippet": {
+      "publishedAt": "2015-03-31T03:22:42.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Maximum Subsquare With Sides as X",
+      "description": "Given a matrix of 0s and Xs. Find largest subsquare matrix in this matrix such that sides of that square matrix are entirely made of Xs.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/SubsquareSurrounedByXs.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vi_1eHCsR9A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vi_1eHCsR9A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vi_1eHCsR9A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vi_1eHCsR9A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vi_1eHCsR9A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 77,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vi_1eHCsR9A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_QIOGkGztr9xt7KkdOcvSBVVfWE\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmloMk9aOS1NM09N",
+    "snippet": {
+      "publishedAt": "2015-03-30T00:14:50.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "String Interleaving Dynamic Programming",
+      "description": "Given three strings, return true if third string is interleaving of first and second string. \nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/TwoStringInterleavingToFormThird.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ih2OZ9-M3OM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ih2OZ9-M3OM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ih2OZ9-M3OM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ih2OZ9-M3OM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ih2OZ9-M3OM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 78,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ih2OZ9-M3OM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vv9mbJQKLCxHMxV8fLlJV7wwSKY\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnM2RmhHLS1QN3ow",
+    "snippet": {
+      "publishedAt": "2015-03-29T23:40:51.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Subset Sum Problem Dynamic Programming",
+      "description": "Given a set of non negative numbers and a total, find if there exists a  subset in this set whose sum is same as total.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/SubsetSum.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s6FhG--P7z0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s6FhG--P7z0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s6FhG--P7z0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s6FhG--P7z0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s6FhG--P7z0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 79,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "s6FhG--P7z0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/J44DboybaLGS489nUg7VX8Ow_Aw\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Ljk5c3NHV2hMUFVF",
+    "snippet": {
+      "publishedAt": "2015-03-29T22:48:36.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Maximum Sum Increasing Subsequence Dynamic Programming",
+      "description": "Given an array, find maximum sum increasing subsequence in this array.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MaximumSumSubsequence.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/99ssGWhLPUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/99ssGWhLPUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/99ssGWhLPUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/99ssGWhLPUE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/99ssGWhLPUE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 80,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "99ssGWhLPUE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wWbZaMPys3QKHt9K8FmXrlo9q9M\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmNFVGZGc1NUR0pJ",
+    "snippet": {
+      "publishedAt": "2015-03-29T00:19:05.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Minimum jump to reach end",
+      "description": "Given an array, find minimum number to jumps to reach end of array, given you can jump at max as much as value at position in array.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MinJumpToReachEnd.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cETfFsSTGJI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cETfFsSTGJI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cETfFsSTGJI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cETfFsSTGJI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cETfFsSTGJI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 81,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cETfFsSTGJI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Fg3usr5W23JGTixJGf0Dd1BF-4A\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkNGUWs3T1FPX3hN",
+    "snippet": {
+      "publishedAt": "2015-03-29T00:01:01.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Staircase Problem Fibonacci Series",
+      "description": "Given a staircase and give you can take 1 or 2 steps at a time, how many ways you can reach nth step.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/FibonacciSeries.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CFQk7OQO_xM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CFQk7OQO_xM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CFQk7OQO_xM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CFQk7OQO_xM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CFQk7OQO_xM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 82,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CFQk7OQO_xM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SZOyJp5YayOmUsjY0p6Xl4-b4c0\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LjNoY2FWeVgwMF80",
+    "snippet": {
+      "publishedAt": "2015-03-28T23:47:59.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Egg Dropping Dynamic Programming",
+      "description": "Given some number of floors and some number of eggs, what is the minimum number of attempts it will take to find out from which floor egg will break.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/EggDropping.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3hcaVyX00_4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3hcaVyX00_4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3hcaVyX00_4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3hcaVyX00_4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3hcaVyX00_4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 83,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "3hcaVyX00_4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-jySfegMYwj2x0Z81bsY0YpcT3w\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LldlcFdGR3hpd1Jz",
+    "snippet": {
+      "publishedAt": "2015-03-27T04:17:14.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Word Break Problem Dynamic Programming",
+      "description": "Given a string and a dictionary, return true if string can be split into multiple words such that each word is in dictionary. If not return false\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WepWFGxiwRs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WepWFGxiwRs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WepWFGxiwRs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WepWFGxiwRs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WepWFGxiwRs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 84,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WepWFGxiwRs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8h8G0-7AJXPk_DhBgahYGb0wH4U\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LnZnTEpaTVVmbnNV",
+    "snippet": {
+      "publishedAt": "2015-03-17T05:56:35.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Matrix Chain Multiplication",
+      "description": "Given some matrices, in what order you would multiply them to minimize cost of multiplication.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MatrixMultiplicationCost.java",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vgLJZMUfnsU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vgLJZMUfnsU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vgLJZMUfnsU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vgLJZMUfnsU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vgLJZMUfnsU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 85,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vgLJZMUfnsU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/E7E8AckNRz5vc4MVozolMiaLtPk\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmxEWUl2dEJWbWdv",
+    "snippet": {
+      "publishedAt": "2015-03-15T02:24:33.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Palindrome Partition Dynamic Programming",
+      "description": "Given a string, how many minimum splits would it take so that each partition after split is a palindrome",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lDYIvtBVmgo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lDYIvtBVmgo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lDYIvtBVmgo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lDYIvtBVmgo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lDYIvtBVmgo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 86,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lDYIvtBVmgo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/m03Rc_-mAwCGwfIc8E7dgD3Ccs4\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Ll9uQ3NQbjdfT2dJ",
+    "snippet": {
+      "publishedAt": "2015-03-15T01:24:15.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Longest Palindromic Subsequence",
+      "description": "Given a string, find longest palindromic subsequence in this string.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/LongestPalindromicSubsequence.java",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_nCsPn7_OgI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_nCsPn7_OgI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_nCsPn7_OgI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_nCsPn7_OgI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_nCsPn7_OgI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 87,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_nCsPn7_OgI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4oW5rbwHKTEDC1LWGO2IRtULjAM\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlJVQjVaUGZLY25Z",
+    "snippet": {
+      "publishedAt": "2015-03-15T01:19:18.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Count Number of Binary Tree Possible given Preorder Sequence length dynamic programming",
+      "description": "Given a preorder sequence of length n, how many binary trees can be formed from it.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfTreePreorder.java",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RUB5ZPfKcnY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RUB5ZPfKcnY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RUB5ZPfKcnY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RUB5ZPfKcnY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RUB5ZPfKcnY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 88,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RUB5ZPfKcnY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uWnR5iOMHZlBHkCWQ_deT5xo8Vc\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LllEZjk4MkxiODRv",
+    "snippet": {
+      "publishedAt": "2015-03-15T01:07:49.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Count Number of Binary Search Tree Possible given n keys Dynamic Programming",
+      "description": "Given n which is total number of keys in BST, how many BSTs can be formed with n keys\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfTreesInBST.java",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YDf982Lb84o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YDf982Lb84o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YDf982Lb84o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YDf982Lb84o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YDf982Lb84o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 89,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YDf982Lb84o"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/d3rWPYXRm2PCFCzMbrrpfrIeG_s\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmxCUnRudXhnLWdV",
+    "snippet": {
+      "publishedAt": "2015-03-14T03:05:21.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Minimum Cost Path Dynamic Programming",
+      "description": "Given a 2 dimensional matrix, find minimum cost path to reach bottom right from top left provided you can only from down and right.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MinCostPath.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lBRtnuxg-gU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lBRtnuxg-gU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lBRtnuxg-gU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lBRtnuxg-gU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lBRtnuxg-gU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 90,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lBRtnuxg-gU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ePoMXXquUW_DmZrBROncvshe-Xc\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkdPNVFIQ19CbXZN",
+    "snippet": {
+      "publishedAt": "2015-03-14T02:56:20.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Total Ways in Matrix Dynamic Programming",
+      "description": "Given a 2 dimensional matrix, how many ways you can reach bottom right from top left provided you can only move down and right.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/NumberOfPathsInMxNMatrix.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GO5QHC_BmvM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GO5QHC_BmvM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GO5QHC_BmvM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GO5QHC_BmvM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GO5QHC_BmvM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 91,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GO5QHC_BmvM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_BeKEwljmLaVtPZF3XZ-c3ycXHQ\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Ll9MZjFsb295Sk1V",
+    "snippet": {
+      "publishedAt": "2015-03-13T03:35:04.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Maximum Sub Square Matrix Dynamic Programming",
+      "description": "Given a matrix of 0s and 1s. Find biggest sub-square matrix entirely of 1s in this matrix.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MaximumSizeSubMatrix.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_Lf1looyJMU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_Lf1looyJMU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_Lf1looyJMU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_Lf1looyJMU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_Lf1looyJMU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 92,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_Lf1looyJMU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6GukxAsBtVDTyKQ4lU1evb5SFkM\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LldlM1lEVHpOWEVr",
+    "snippet": {
+      "publishedAt": "2015-03-13T03:23:11.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Minimum Edit Distance Dynamic Programming",
+      "description": "Given two strings and operations edit, delete and add, how many minimum operations would it take to convert one string to another string.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/EditDistance.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/We3YDTzNXEk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/We3YDTzNXEk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/We3YDTzNXEk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/We3YDTzNXEk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/We3YDTzNXEk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 93,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "We3YDTzNXEk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/U_dCfCmJOEHGV8XMGl06IlSK_SM\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkJ5c05YSkh6Q0Vz",
+    "snippet": {
+      "publishedAt": "2015-03-09T01:02:22.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Longest Common Substring",
+      "description": "Given two strings, find longest common substring between them.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/LongestCommonSubstring.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BysNXJHzCEs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BysNXJHzCEs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BysNXJHzCEs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BysNXJHzCEs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BysNXJHzCEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 94,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BysNXJHzCEs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kXf3WGSmb2CaH1AwHvC39Zyh_DU\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lk5uRDk2YWJpend3",
+    "snippet": {
+      "publishedAt": "2015-03-08T21:20:04.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Longest Common Subsequence",
+      "description": "Given two strings, find longest common subsequence between them.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/LongestCommonSubsequence.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NnD96abizww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NnD96abizww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NnD96abizww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NnD96abizww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NnD96abizww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 95,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NnD96abizww"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eaNEnTK3hYx554M2pCpjbRmyzWw\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlRXSHl0S25PUGFR",
+    "snippet": {
+      "publishedAt": "2015-03-08T00:58:32.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Longest Bitonic Subsequence",
+      "description": "Find longest bitonic subsequence in given array. Bitonic subsequence first increases then decreases.\n\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BitonicSequence.java",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TWHytKnOPaQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TWHytKnOPaQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TWHytKnOPaQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TWHytKnOPaQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TWHytKnOPaQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 96,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TWHytKnOPaQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vd3QS1bk4lvFyJyt5BXx5At_hCk\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LmNyNklwMEo5aXpj",
+    "snippet": {
+      "publishedAt": "2015-03-08T00:44:42.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Weighted Job Scheduling Dynamic Programming",
+      "description": "https://www.facebook.com/tusharroy25/\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/WeightedJobSchedulingMaximumProfit.java\nGiven certain jobs with start and end time and amount you make on finishing the job, find the maximum value you can make by scheduling jobs in non-overlapping way.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cr6Ip0J9izc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cr6Ip0J9izc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cr6Ip0J9izc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cr6Ip0J9izc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cr6Ip0J9izc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 97,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cr6Ip0J9izc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PHTCRRBzdzTXvdTUdS3NkGyxOhQ\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Lld4cElIdnN1MVJJ",
+    "snippet": {
+      "publishedAt": "2015-03-07T06:47:31.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Optimal Strategy Game Pick from Ends of array Dynamic Programming",
+      "description": "https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/NPotGold.java\nN pots, each with some number of gold coins, are arranged   in a line. You are playing a game against another player. You take turns picking a pot of gold. You may pick a pot from either end of the line, remove the pot, and keep the gold pieces. The player with the most gold at the end wins. Develop a strategy for playing this game.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WxpIHvsu1RI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WxpIHvsu1RI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WxpIHvsu1RI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WxpIHvsu1RI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WxpIHvsu1RI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 98,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WxpIHvsu1RI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hK8siskL3lH3WkMJx_LW2I328tE\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LklSd1ZtVG1ONmdv",
+    "snippet": {
+      "publishedAt": "2015-03-02T01:31:41.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Cutting Rod dynamic programming",
+      "description": "Given a rod of length and prices at which different length of this rod can sell, how do you cut this rod to maximize profit\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CuttingRod.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IRwVmTmN6go/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IRwVmTmN6go/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IRwVmTmN6go/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IRwVmTmN6go/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IRwVmTmN6go/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 99,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "IRwVmTmN6go"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oZqKfuz5W5GyeaIkw17u1cAXBCs\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LlkwWnFLcFRvVGlj",
+    "snippet": {
+      "publishedAt": "2015-03-02T00:37:39.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Coin Changing Minimum Number of Coins Dynamic programming",
+      "description": "Given coins of certain denominations and a total, how many minimum coins would you need to make this total.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CoinChangingMinimumCoin.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y0ZqKpToTic/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y0ZqKpToTic/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y0ZqKpToTic/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y0ZqKpToTic/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y0ZqKpToTic/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 100,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Y0ZqKpToTic"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HiEKlqt2C5SaEBYn8XM1gQqCbOo\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3Ll9mZ2pyczU3MFlF",
+    "snippet": {
+      "publishedAt": "2015-03-02T00:31:10.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Coin Changing Number of ways to get total dynamic programming",
+      "description": "Given coins of certain denominations and a total, how many ways these coins can be combined to get the total.\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CoinChanging.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_fgjrs570YE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_fgjrs570YE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_fgjrs570YE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_fgjrs570YE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_fgjrs570YE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 101,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_fgjrs570YE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ET1fUwGNx30-wOJvMPFsJ9jtIY8\"",
+    "id": "VVVaTEpmX1Iyc1d5VXRYU0tpS2x5dkF3LkNFMmJfLVhmVkRr",
+    "snippet": {
+      "publishedAt": "2015-03-01T23:25:01.000Z",
+      "channelId": "UCZLJf_R2sWyUtXSKiKlyvAw",
+      "title": "Longest Increasing Subsequence",
+      "description": "Given an array find longest increasing subsequence in this array.\nhttps://www.facebook.com/tusharroy25\nhttps://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/LongestIncreasingSubsequence.java\nhttps://github.com/mission-peace/interview/wiki",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CE2b_-XfVDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CE2b_-XfVDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CE2b_-XfVDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CE2b_-XfVDk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CE2b_-XfVDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tushar Roy - Coding Made Simple",
+      "playlistId": "UUZLJf_R2sWyUtXSKiKlyvAw",
+      "position": 102,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CE2b_-XfVDk"
+      }
+    }
+  }
+]

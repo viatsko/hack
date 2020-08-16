@@ -1,0 +1,4312 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_4h13hmKhSsX-omHlZxfbUg5k2o\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjVQZVJ4OWMyQllN",
+    "snippet": {
+      "publishedAt": "2017-08-28T19:51:05.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin Workshops",
+      "description": "Learn how to develop, deploy and maintain serverless applications from experts doing it today in production. To learn more go to: https://nyc.serverlessconf.io/workshops",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5PeRx9c2BYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5PeRx9c2BYM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FmWWOVcUE6y6BlaGSy6AKaP-3Qw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmZuVU13akJjYXJZ",
+    "snippet": {
+      "publishedAt": "2017-07-22T07:04:30.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin - A 2 day serverless conference",
+      "description": "Check out what happened at Serverlessconf Austin - Part 2 (and don't forget to check out the upcoming Serverlessconf NYC at nyc.serverlessconf.io)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fnUMwjBcarY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fnUMwjBcarY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/34ORaRKHDKyz7QU5imGJSQWjO3g\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmxkSTF4a1Q1VU4w",
+    "snippet": {
+      "publishedAt": "2017-07-22T07:04:30.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "About Serverlessconf Austin 2017",
+      "description": "Check out what happened at Serverlessconf Austin - Part 1 (and don't forget to check out the upcoming Serverlessconf NYC at nyc.serverlessconf.io)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ldI1xkT5UN0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ldI1xkT5UN0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UyNBePb4KfrrzmHvkRspLdhmhAQ\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lm9FNWxyTm43YkFn",
+    "snippet": {
+      "publishedAt": "2017-05-18T04:52:59.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Applied Serverless Design Patterns - Yochay Kiriaty",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oE5lrNn7bAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "oE5lrNn7bAg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rUBUGQW8mw6CvIaagrJaszlMvak\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjZzR2o5QW5adWV3",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:24.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin '17 Conclusion - Mike Chambers & Peter Sbarski",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6sGj9AnZuew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6sGj9AnZuew"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/w9W0tkzGHAWDxOtLgJU9zbq8H80\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ll96YjFaZW03d1Rr",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:24.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin '17 Introduction - Peter Sbarski & Sam Kroonenburg",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_zb1Zem7wTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_zb1Zem7wTk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oIXUWL3q3LhBrLdPdtROtp8ML1I\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ljd5dE5RVGdxVVhZ",
+    "snippet": {
+      "publishedAt": "2017-05-19T00:30:22.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin '17 Keynote - Tim Wagner",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7ytNQTgqUXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7ytNQTgqUXY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SlFA5hZVG2Bb0wFKEKTTpOfCrA0\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlpJcHpTOGRMNGg0",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:25.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Accenture Cloud Platform Serverless Journey - Tom Myers",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZIpzS8dL4h4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZIpzS8dL4h4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/M8DaF2Gq0VUJK1J29uGg5dUgLEQ\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Li1GVEdPeDVuNVdF",
+    "snippet": {
+      "publishedAt": "2017-05-15T01:42:10.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serving Transactions Serverless: Modernizing mainframe data - Srini Uppalapati",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-FTGOx5n5WE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-FTGOx5n5WE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yuwfWWrWZ5ELNYu9n0XOS6I1pAM\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmZqWEFlZTZ6c1c4",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:27.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "The Story of a Serverless Startup  - Sam Kroonenburg",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fjXAee6zsW8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fjXAee6zsW8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fjXAee6zsW8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fjXAee6zsW8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4zFB8-sKDKl6TmkFMtpCNDFmUeY\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkNNeHRtODNVYmxz",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:28.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Harmonizing Serverless & Traditional Applications - Ryan Brown",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CMxtm83Ubls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CMxtm83Ubls"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7BqdC-DzXFLcIm4Jf9mcoCO8K1Y\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjhISGRFTVdjdk1J",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:31.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless at Nordstrom - Rob Gruhl",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8HHdEMWcvMI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8HHdEMWcvMI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tmt1Lt7ytMdjEBps4MBM1CpdlvE\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlE4Yjh6d3JEZWFZ",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:44.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Going Serverless on Azure - Richard Stinear",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q8b8zwrDeaY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Q8b8zwrDeaY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SSsZOvv6mAMLgEeXB_PqXCx4hz8\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlFic2s3R0xQWXdr",
+    "snippet": {
+      "publishedAt": "2017-05-19T00:30:40.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless Services - Randall Hunt",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qbsk7GLPYwk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Qbsk7GLPYwk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZMKk22JzCqiYxNJaQz9jlL2_9aU\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlJfbzFPLUd4YW5r",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:43.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Less is more: thoughts from a pragmatic CTO - Paul Johnston",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R_o1O-Gxank/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "R_o1O-Gxank"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-UBIZE7M3377PUkL5MEBiWX8OCU\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ljl0RDVkWDZoVzB3",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:42.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless + Modern Agile: a match made in silicon heaven - Mike Roberts",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9tD5dX6hW0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9tD5dX6hW0w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/aCfv3piBVeJECV91mkj5bcRF6Jg\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkR1cnhCYTJncWxZ",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:42.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "A Tale of Two Strategies - Michael Corning",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DurxBa2gqlY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DurxBa2gqlY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Skodcz7LPtEXXn_gbYtwUumGMqw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlhSbm9sSVNONmh3",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:41.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "A Self Replicating Serverless Function - Michael Adda",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XRnolISN6hw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XRnolISN6hw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X0unKR6JRhLhdNpvWyaAFucO4Ds\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnJVTHRlRk1ES3VR",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:40.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Pains and gains on migrating to Serverless - Marcia Villalba",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rULteFMDKuQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rULteFMDKuQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AWpoEvpbHOvovolPtJIlQLop6GI\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnR1SHdYRS1rMmxZ",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:39.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless SQL Queries: Athena – Lynn Langit",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tuHwXE-k2lY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tuHwXE-k2lY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IeA_CCm6Bog2pv9GSXdygf5ZgNI\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lk81UVVCRVBacnFN",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:38.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin '17 Keynote - John Gossman",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O5QUBEPZrqM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O5QUBEPZrqM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O5QUBEPZrqM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/O5QUBEPZrqM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/O5QUBEPZrqM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "O5QUBEPZrqM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OxTeMM1QKQO4xefr_DGXAV4Fq0M\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lk5iWERKN1pzVWx3",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:38.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin '17 Keynote - Jason McGee",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NbXDJ7ZsUlw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NbXDJ7ZsUlw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NbXDJ7ZsUlw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NbXDJ7ZsUlw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NbXDJ7ZsUlw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NbXDJ7ZsUlw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kQF3D9iXTcn3348iSSOOTVlpzng\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmIxdDc4UF8xRlQ0",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:37.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf Austin '17 Keynote - Austen Collins",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b1t78P_1FT4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b1t78P_1FT4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b1t78P_1FT4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b1t78P_1FT4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b1t78P_1FT4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "b1t78P_1FT4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FA4qvgBSvaBk2ovXnWW1LXvM2vQ\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lm01VEZWSTVZNVJv",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:36.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Service Composition with StdLib - Keith Horwood",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m5TFVI5Y5Ro/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m5TFVI5Y5Ro/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m5TFVI5Y5Ro/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m5TFVI5Y5Ro/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m5TFVI5Y5Ro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "m5TFVI5Y5Ro"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/znTCXFmZDEz83UMQsyV-OFzzF7I\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Llpsb2JiSWVyNThZ",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:35.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Single Page Apps & Serverless without compromise or as little as possible - Jared Short",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZlobbIer58Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZlobbIer58Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZlobbIer58Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZlobbIer58Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZlobbIer58Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZlobbIer58Y"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QVsr7xiIJrWf9qkZAaEy_1hY7Zw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkNpeVVEX3JJOEQ4",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:34.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless Security: What’s Left To Protect - Guy Podjarny",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CiyUD_rI8D8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CiyUD_rI8D8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CiyUD_rI8D8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CiyUD_rI8D8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CiyUD_rI8D8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CiyUD_rI8D8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zr2ApvZODcEkcucWPnuvaXVxJEE\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkQ2cVYzYkM0ck53",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:34.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless Workflows in AWS: A Journey from SWF to Step Functions - Forrest Brazeal",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D6qV3bC4rNw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D6qV3bC4rNw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D6qV3bC4rNw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D6qV3bC4rNw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D6qV3bC4rNw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "D6qV3bC4rNw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/eLS5vZMpHWo_bI-WS8FhntReotk\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkVMbFFWVEFLYzhB",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:33.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "How Infrastructure Tooling will make or break Serverless Infrastructure - Florian Motlik",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ELlQVTAKc8A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ELlQVTAKc8A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ELlQVTAKc8A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ELlQVTAKc8A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ELlQVTAKc8A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ELlQVTAKc8A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QVN3LjTeMCXtgaCgRix3LQXBgWE\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lk9TYW5XVG03OXNj",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:32.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "How GreenQ manages the Internet of Garbage - Edy Candel & Shlomy Ashkenazi",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OSanWTm79sc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OSanWTm79sc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OSanWTm79sc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OSanWTm79sc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OSanWTm79sc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OSanWTm79sc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6uqFnAC-1EsJfqo92Ppf5t0hzPg\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjA2dXBQT3FLcDNR",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:32.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Why we made Serverless Deploymentless with OpenWhisk - Dragos Haut & Ryan Stewart",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/06upPOqKp3Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/06upPOqKp3Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/06upPOqKp3Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/06upPOqKp3Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/06upPOqKp3Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "06upPOqKp3Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iiE36s5_rvv1mWia12d2jQSJO7Y\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lmp2eWdUeHNrX2w0",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:31.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "A day in the life of an Azure Serverless Developer - Donna Malayeri & Chris Anderson",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jvygTxsk_l4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jvygTxsk_l4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jvygTxsk_l4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jvygTxsk_l4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jvygTxsk_l4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jvygTxsk_l4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xNO86rXKpLk72Whb-q72lF-rxtU\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlhMa2E0b043WGtj",
+    "snippet": {
+      "publishedAt": "2017-05-18T02:57:30.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless for the J2EE Spring Crowd - David Pollak",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XLka4oN7Xkc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XLka4oN7Xkc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XLka4oN7Xkc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XLka4oN7Xkc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XLka4oN7Xkc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XLka4oN7Xkc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TrCl903A8J4M58OyjiBHEvySzSQ\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ljl1T2wzQjg4YmNZ",
+    "snippet": {
+      "publishedAt": "2017-05-19T00:31:08.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Building CI CD Pipelines for Serverless Applications - Chris Munns",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9uOl3B88bcY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9uOl3B88bcY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9uOl3B88bcY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9uOl3B88bcY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9uOl3B88bcY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9uOl3B88bcY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/o9WD21905L8_LD-hgEBkMRWLjFA\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmlDcUtlT0hyYjJr",
+    "snippet": {
+      "publishedAt": "2017-05-18T03:00:58.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "The Serverless Database - Chris Anderson",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iCqKeOHrb2k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iCqKeOHrb2k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iCqKeOHrb2k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iCqKeOHrb2k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iCqKeOHrb2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "iCqKeOHrb2k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LHZFUS2uFIpX-pvW2UKxvYUR_EU\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmhHMzl0QjVxcU1j",
+    "snippet": {
+      "publishedAt": "2017-05-18T03:00:59.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless: the early years - Charity Majors",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hG39tB5qqMc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hG39tB5qqMc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hG39tB5qqMc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hG39tB5qqMc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hG39tB5qqMc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hG39tB5qqMc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Me2H2TO6BTsxOqY2ufcGVIXGjLw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lmk1UHRnaVBSaEpr",
+    "snippet": {
+      "publishedAt": "2017-05-18T03:01:00.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Firebase and Google Cloud Functions - Bret McGowen & Mike McDonald",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i5PtgiPRhJk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i5PtgiPRhJk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i5PtgiPRhJk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i5PtgiPRhJk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i5PtgiPRhJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "i5PtgiPRhJk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/e3VGaIftgBHfdiMBsC4ZsyJEvYw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkFxaERGYkw2TmI0",
+    "snippet": {
+      "publishedAt": "2017-05-18T03:01:01.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "What's Missing From Serverless Providers - Ben Kehoe",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AqhDFbL6Nb4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AqhDFbL6Nb4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AqhDFbL6Nb4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AqhDFbL6Nb4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AqhDFbL6Nb4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AqhDFbL6Nb4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V-zi4lLPkinFgnogb63tG0vfT-Y\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmprcGptR2FKbkw0",
+    "snippet": {
+      "publishedAt": "2017-05-18T03:01:01.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "The journey continues: What's new in OpenWhisk Land - Andreas Nauerz & Michael Behrendt",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jkpjmGaJnL4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jkpjmGaJnL4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jkpjmGaJnL4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jkpjmGaJnL4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jkpjmGaJnL4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jkpjmGaJnL4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/poUCNEZaKlycwUQHErvjQ3eja2w\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkJWVkh6Q2Q4QVB3",
+    "snippet": {
+      "publishedAt": "2017-05-18T03:01:02.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless Ops for the iRobot Fleet - Aaron Kammerer",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BVVHzCd8APw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BVVHzCd8APw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BVVHzCd8APw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BVVHzCd8APw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BVVHzCd8APw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BVVHzCd8APw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/z-UJMebvEdTNsUMSZBBZYzm6pxk\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lm1pR24tVjJOLUp3",
+    "snippet": {
+      "publishedAt": "2017-03-14T01:55:31.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Paul Silver: AWS Alexa - the good, the bad, and not working in Australia yet!",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/miGn-V2N-Jw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/miGn-V2N-Jw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/miGn-V2N-Jw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/miGn-V2N-Jw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/miGn-V2N-Jw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "miGn-V2N-Jw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nHnnyQBYrBKZSAUCIXwbjs-SsYg\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkpfTURITnRJeG4w",
+    "snippet": {
+      "publishedAt": "2017-03-14T01:55:31.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Shiva Narayanaswamy: State as a Service (still serverless)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J_MDHNtIxn0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J_MDHNtIxn0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J_MDHNtIxn0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J_MDHNtIxn0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J_MDHNtIxn0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 40,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "J_MDHNtIxn0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qYiYXMgqsOBsnPjoHKZhkawGOIE\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjJXTk10TFpkWjJF",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:35.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Paul Johnston: What I Wish I'd Known Last Year",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2WNMtLZdZ2E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2WNMtLZdZ2E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2WNMtLZdZ2E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2WNMtLZdZ2E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2WNMtLZdZ2E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 41,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2WNMtLZdZ2E"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/G2FbltGUUY1nVd9bLaLBJW99liU\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnlSUnpfcVRYd0lz",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:36.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Lars Trieloff: Functional all the way",
+      "description": "Explorations in serverless Clojure",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yRRz_qTXwIs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yRRz_qTXwIs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yRRz_qTXwIs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yRRz_qTXwIs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yRRz_qTXwIs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 42,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yRRz_qTXwIs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2oYsNxcG_xGbnDlzYQ9MExvmc98\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmFLZkhacEZnelIw",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:37.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Nikhila Ravi: Serverless GraphQL",
+      "description": "Implementing an API Facade using GraphQL, AWS Lambda and API Gateway",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aKfHZpFgzR0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aKfHZpFgzR0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aKfHZpFgzR0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aKfHZpFgzR0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aKfHZpFgzR0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 43,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "aKfHZpFgzR0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ygWR4H9tJ1ztS8ezgewjPN_KKcY\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmpqMGV5RFFhT3hZ",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:37.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Leslie Passante: Building Better Lambda Apps With Serverless",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jj0eyDQaOxY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jj0eyDQaOxY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jj0eyDQaOxY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jj0eyDQaOxY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jj0eyDQaOxY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 44,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jj0eyDQaOxY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9gA2Om4gWRzI1y1pmEzwP5oniNE\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LndnVDVmMGVCaEQ4",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:38.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Charity Majors: Serverlessness, NoOps and the Tooth Fairy",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wgT5f0eBhD8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wgT5f0eBhD8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wgT5f0eBhD8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wgT5f0eBhD8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wgT5f0eBhD8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 45,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "wgT5f0eBhD8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/awbPnj67ahCDYrLj-jd5gAnjtmw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnlHYTJPOXFaOTV3",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:38.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Ben Kehoe: Serverless architecture for the Internet of Things",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yGa2O9qZ95w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yGa2O9qZ95w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yGa2O9qZ95w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yGa2O9qZ95w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yGa2O9qZ95w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 46,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yGa2O9qZ95w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V1FA5WiI56FLQEWDIeIQSJzNnEs\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjM4RFV0NWRWbWZr",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:39.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Tomasz Janczuk: Webtascalifragilisticexpialidocious",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/38DUt5dVmfk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/38DUt5dVmfk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/38DUt5dVmfk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/38DUt5dVmfk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/38DUt5dVmfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 47,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "38DUt5dVmfk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DAY-6-YsroYF4D_drRqkg17ww-o\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjRMTkpFVjNIdGxN",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:40.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Wouter de Bie: Changing the tires of a moving car",
+      "description": "Moving Spotify's Data Infrastructure from on-premise to GCP",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4LNJEV3HtlM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4LNJEV3HtlM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4LNJEV3HtlM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4LNJEV3HtlM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4LNJEV3HtlM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 48,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "4LNJEV3HtlM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/QtTZuHjH-YY2Ds1EL0lytorwNYM\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ljd4aHlnRjd1Y0I4",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:44.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Sam & Peter: Disrupting Old Business Models, The Story Of A Serverless Startup",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7xhygF7ucB8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7xhygF7ucB8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7xhygF7ucB8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7xhygF7ucB8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7xhygF7ucB8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 49,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7xhygF7ucB8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vjjjnIJBYwbGd_YjPjCo-odecBM\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnI2cFpVZHk2aUFF",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:43.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Rob & Erik: What we’ve learned in eighteen serverless months at Nordstrom",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r6pZUdy6iAE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r6pZUdy6iAE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r6pZUdy6iAE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r6pZUdy6iAE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r6pZUdy6iAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 50,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "r6pZUdy6iAE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Kc4wbqC2NyfGSb0ijuhnbm5lJAg\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lld1WEFpNmIwUTdR",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:42.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Joe Emison: Lessons Learned",
+      "description": "Detailed Architecture from Building Two Serverless Applications",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WuXAi6b0Q7Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WuXAi6b0Q7Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WuXAi6b0Q7Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WuXAi6b0Q7Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WuXAi6b0Q7Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 51,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WuXAi6b0Q7Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ndJEV3ydR3OItB8NxKQDltFpLhg\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmY4Y3QyUG9oZHVZ",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:42.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Patrick Debois: From Serverless to Servicefull",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f8ct2PohduY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f8ct2PohduY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f8ct2PohduY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/f8ct2PohduY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/f8ct2PohduY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 52,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "f8ct2PohduY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/POwx4_BqyLZL-C0TqNJlolRdghY\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlRHQTdNeDNDSkNR",
+    "snippet": {
+      "publishedAt": "2017-02-07T10:49:41.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Frederic Lavigne: It’s Demo Time!",
+      "description": "Building Serverless (Mobile) Applications with OpenWhisk and other Bluemix Services",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TGA7Mx3CJCQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TGA7Mx3CJCQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TGA7Mx3CJCQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TGA7Mx3CJCQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TGA7Mx3CJCQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 53,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TGA7Mx3CJCQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qsCi3hbaEjyMBVgq6duYOE_ya9E\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkVHUVFKSVlfVkE0",
+    "snippet": {
+      "publishedAt": "2017-02-07T04:02:44.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Daniel Parker's Presentation on Serverless Forums - Part 2 (Algolia, Firebase & Lambda)",
+      "description": "http://acloud.guru launched a year ago with a few thousand students and has since grown to over 120 thousand students. This talk is about how A Cloud Guru has re-engineered their serverless forums using AWS Lambda and Algolia Search to supercharge search and query speed (no relational databases were harmed in the making of these forums).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EGQQJIY_VA4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EGQQJIY_VA4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EGQQJIY_VA4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EGQQJIY_VA4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EGQQJIY_VA4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 54,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EGQQJIY_VA4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Y1pQag7Zj2K6946My3mnwcN8cdg\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lk12WnpaUVI3N3Rj",
+    "snippet": {
+      "publishedAt": "2017-02-07T04:02:26.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Daniel Parker's Presentation on Serverless Forums - Part 1 (Algolia, Firebase & Lambda)",
+      "description": "http://acloud.guru launched a year ago with a few thousand students and has since grown to over 120 thousand students. This talk is about how A Cloud Guru has re-engineered their serverless forums using AWS Lambda and Algolia Search to supercharge search and query speed (no relational databases were harmed in the making of these forums).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MvZzZQR77tc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MvZzZQR77tc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MvZzZQR77tc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MvZzZQR77tc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MvZzZQR77tc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 55,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "MvZzZQR77tc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4VpTpdTCiJg6mnNduHIM47RrP9w\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnRudVZDdEQ0Q3Jz",
+    "snippet": {
+      "publishedAt": "2017-02-07T04:01:33.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Simon Waight's Presentation on Azure Functions",
+      "description": "In this session Simon Waight (Azure MVP) will cover how he has used Azure Functions to build a microservices-based solution for a customer that leverages Azure AD B2C, Service Bus, DocumentDB and KeyVault, along with external integration with Braintree v.zero for payments and Sendgrid for post-transaction notifications.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tnuVCtD4Crs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tnuVCtD4Crs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tnuVCtD4Crs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tnuVCtD4Crs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tnuVCtD4Crs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 56,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "tnuVCtD4Crs"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-LVsUkiTLwhyA-LmDP7b_VgDvvg\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmxuT0ljS2liS3pj",
+    "snippet": {
+      "publishedAt": "2016-11-29T19:48:05.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless GraphQL - Jared Short",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lnOIcKibKzc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lnOIcKibKzc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lnOIcKibKzc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lnOIcKibKzc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lnOIcKibKzc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 57,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lnOIcKibKzc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_90OHlC3HJtanKvN61zB7EhV-3I\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmFsdFRYMUhuU3Zv",
+    "snippet": {
+      "publishedAt": "2016-11-29T19:48:52.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Globally Available Serverless Architectures - Rich Jones",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/altTX1HnSvo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/altTX1HnSvo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/altTX1HnSvo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/altTX1HnSvo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/altTX1HnSvo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 58,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "altTX1HnSvo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zGivalgLbCkgd5QJCWqtZds0Es8\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LllmUjlveXpvV2Jj",
+    "snippet": {
+      "publishedAt": "2016-11-14T02:20:16.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "How to build a search-as-you-type application in under 15mn with Algolia - Tim Carry & Alex Collin",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YfR9oyzoWbc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YfR9oyzoWbc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YfR9oyzoWbc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YfR9oyzoWbc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YfR9oyzoWbc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 59,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YfR9oyzoWbc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6ARzptmR_WK_q6FVPBsdyjBwsLw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkFHQ1NpRjNtX2dJ",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:57:11.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Big data processing simplified with Serverless Map Reduce - Sunil Mallya",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AGCSiF3m_gI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AGCSiF3m_gI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AGCSiF3m_gI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AGCSiF3m_gI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AGCSiF3m_gI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 60,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "AGCSiF3m_gI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UnJF-ctMyo2V5D5Q1hQdyS65zxU\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlB5ajVMUFhvSWNB",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:57:34.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless real-time aggregates - Christian Blunden",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pyj5LPXoIcA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pyj5LPXoIcA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pyj5LPXoIcA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Pyj5LPXoIcA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Pyj5LPXoIcA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 61,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Pyj5LPXoIcA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/To7TIQTUrEJHhP585G1QtwxSh8I\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjJWTU52cVpZcjJR",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:57:49.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Writing Serverless Plugins - Anna Doubkova",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2VMNvqZYr2Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2VMNvqZYr2Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2VMNvqZYr2Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2VMNvqZYr2Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2VMNvqZYr2Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 62,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "2VMNvqZYr2Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iF0b9wb4P4ZJaf_1t0CzYABJjKE\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlRsSFh6WjE2WjNR",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:58:01.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "DevOps for Serverless Applications - Yochay Kiriaty and Chris Anderson",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TlHXzZ16Z3Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TlHXzZ16Z3Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TlHXzZ16Z3Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TlHXzZ16Z3Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TlHXzZ16Z3Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 63,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TlHXzZ16Z3Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-bIK84I4u0o3VxpAQApPQZ6bWOo\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkJ4bmZvWERidWlv",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:58:18.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Why PubNub moved Serverless Computing into the Network - Girish Dusane",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BxnfoXDbuio/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BxnfoXDbuio/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BxnfoXDbuio/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BxnfoXDbuio/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BxnfoXDbuio/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 64,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BxnfoXDbuio"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CPwZ2nYGvyib9cNavRQJbf8wOQc\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkJ5YllpbTBIUm1Z",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:58:30.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless Microservices with Google Cloud Functions - Bret McGowen",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BybYim0HRmY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BybYim0HRmY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BybYim0HRmY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BybYim0HRmY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BybYim0HRmY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 65,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BybYim0HRmY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vVLVSIYHm5LL0ePI9mNKmsk8yWc\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnR3cV9fQkx1dkVN",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:58:44.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "How Serverless Computing Enables Microservices and Micropayments - Eugene Istrati",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/twq__BLuvEM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/twq__BLuvEM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/twq__BLuvEM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/twq__BLuvEM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/twq__BLuvEM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 66,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "twq__BLuvEM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Bd6A9tL9h3Ztp_6VZ-PhD50fmtM\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmxqelFweGRkb1Ew",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:59:09.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless API in the Enterprise - Scott Patterson & Simon Coward",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ljzQpxddoQ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ljzQpxddoQ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ljzQpxddoQ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ljzQpxddoQ0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ljzQpxddoQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 67,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ljzQpxddoQ0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/r9P7Uhhpb218zIIpty5qGRCyqaw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlNCNElBSmJnV1M4",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:59:23.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless for Developers: Tips for Your Next App - Danilo Poccia",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SB4IAJbgWS8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SB4IAJbgWS8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SB4IAJbgWS8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SB4IAJbgWS8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SB4IAJbgWS8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 68,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "SB4IAJbgWS8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5NrzC0FS-_mYbZQdNysAo5zt9Dc\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lk16OUlPeG1XRkZv",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:59:36.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Instant: the serverless startup - Sander Nagtegaal",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mz9IOxmWFFo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mz9IOxmWFFo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mz9IOxmWFFo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mz9IOxmWFFo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Mz9IOxmWFFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 69,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Mz9IOxmWFFo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AB52lMVqsTharfMmx6mgKoXJ9Cc\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnlnR21pZ01CVmZJ",
+    "snippet": {
+      "publishedAt": "2016-11-02T12:59:50.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Getting the most out of the Serverless Framework - Florian Motlik",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ygGmigMBVfI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ygGmigMBVfI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ygGmigMBVfI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ygGmigMBVfI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ygGmigMBVfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 70,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ygGmigMBVfI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OVw3XAftqvdK6I_RAOMxZkFrcK4\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjZyZE1QRkc3QWln",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:00:02.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "The future of serverless - Paul Johnston",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6rdMPFG7Aig/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6rdMPFG7Aig/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6rdMPFG7Aig/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6rdMPFG7Aig/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6rdMPFG7Aig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 71,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6rdMPFG7Aig"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L9bitAMIVKA18Lhf1Mlcn7ktVQk\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Li1JRmRoLXk3WGM4",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:00:17.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "How Firebase helps developers create extraordinary experiences - Mike McDonald",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-IFdh-y7Xc8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-IFdh-y7Xc8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-IFdh-y7Xc8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-IFdh-y7Xc8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-IFdh-y7Xc8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 72,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-IFdh-y7Xc8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/44Bv-HoplU0aSupqlbINxssSe_4\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlMtZlkxZXhkYmFv",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:00:30.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "OpenWhisk Under the Hood - Stephen Fink",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S-fY1exdbao/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S-fY1exdbao/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S-fY1exdbao/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S-fY1exdbao/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S-fY1exdbao/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 73,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "S-fY1exdbao"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3v7pZcpM3fZlEiBFxBg-MOqPs0I\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lll4b2Y0c1hYd2Nn",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:00:42.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless in an Offline-First world - Alexander Stigsen",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yxof4sXXwcg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yxof4sXXwcg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yxof4sXXwcg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Yxof4sXXwcg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Yxof4sXXwcg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 74,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Yxof4sXXwcg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/S4LohR2c6P_c-VDsKO1ZwU0Fz8s\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ljh4dlhvei1hbXRr",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:00:55.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Real-time Back and Restore with Amazon DynamoDB and AWS Lambda - Ian Meyers",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8xvXoz-amtk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8xvXoz-amtk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8xvXoz-amtk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8xvXoz-amtk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8xvXoz-amtk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 75,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8xvXoz-amtk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BCrVt_kB8QSCo483KdiKnXmTjUU\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnluZUlsVjJZR2FJ",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:01:10.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Ops for NoOps: Operational Challenges for Serverless Apps - Eric Windisch & Pam Selle",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yneIlV2YGaI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yneIlV2YGaI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yneIlV2YGaI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yneIlV2YGaI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yneIlV2YGaI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 76,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yneIlV2YGaI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/P_sgoewj3m3o2NjefEpu5HXc8V0\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjV4OE1mUVh2RURr",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:01:24.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Mission to Mars: Exploring new worlds with AWS IoT - Jeroen Resoort",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5x8MfQXvEDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5x8MfQXvEDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5x8MfQXvEDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5x8MfQXvEDk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5x8MfQXvEDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 77,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5x8MfQXvEDk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rStaDHh4F-_l1LPwpleA5Bveu7I\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LldDLXc2YTlyY3k4",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:01:38.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Cloud Detour - Sathiya Shunmugasundaram & Gnani Dathathreya",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WC-w6a9rcy8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WC-w6a9rcy8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WC-w6a9rcy8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WC-w6a9rcy8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WC-w6a9rcy8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 78,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "WC-w6a9rcy8"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cdbmTjPtUw-vxP5fbyUVi-3GbPk\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjFOaUFDLW5wU3pV",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:01:51.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless with Ansible - Ryan Brown",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1NiAC-npSzU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1NiAC-npSzU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1NiAC-npSzU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1NiAC-npSzU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1NiAC-npSzU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 79,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1NiAC-npSzU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6wCnzXzrVe0C73IiFD6DUbfnUvM\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LjF1cERwTk5CUXRZ",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:02:03.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Migrating to Serverless: MindMup 2.0 case study - Gojko Adzic",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1upDpNNBQtY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1upDpNNBQtY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1upDpNNBQtY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1upDpNNBQtY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1upDpNNBQtY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 80,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1upDpNNBQtY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8RKEPJFzfcVTOEyci3OY66fHWKA\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnlKOUtuVHcxa3lj",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:04:00.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "The making of Azure Functions - Chris Anderson",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yJ9KnTw1kyc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yJ9KnTw1kyc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yJ9KnTw1kyc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yJ9KnTw1kyc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yJ9KnTw1kyc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 81,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yJ9KnTw1kyc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VWan-dbHcf5w1ha2Ia3bwWwWYqk\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkowZUMxUzMxOFEw",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:04:15.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessness, NoOps and the Tooth Fairy - Charity Majors",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J0eC1S318Q0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J0eC1S318Q0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J0eC1S318Q0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J0eC1S318Q0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J0eC1S318Q0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 82,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "J0eC1S318Q0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/nXvNOUZ1AUdGCPyhZ9Zm9IdGXSo\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmIwQnA1dkxzeWpj",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:04:28.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless Operations - Ben Bridts",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b0Bp5vLsyjc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b0Bp5vLsyjc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b0Bp5vLsyjc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b0Bp5vLsyjc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b0Bp5vLsyjc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 83,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "b0Bp5vLsyjc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2xKO8XP-UNDtnatD-SSGaGtK43U\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnBnMFRpbm1iWkow",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:05:02.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "The Serverless Cloud Integration Pattern - Lars Trieloff",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pg0TinmbZJ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pg0TinmbZJ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pg0TinmbZJ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pg0TinmbZJ0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pg0TinmbZJ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 84,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pg0TinmbZJ0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5-0gIqYpuzEkhFNSpKCMlK2v6rI\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkQzc0VKZU9ZdktB",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:05:16.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Webhook is dead. Long live webtask - Tomasz Janczuk",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D3sEJeOYvKA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D3sEJeOYvKA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D3sEJeOYvKA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D3sEJeOYvKA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D3sEJeOYvKA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 85,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "D3sEJeOYvKA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CJbn9P_DWN8HESiFOUCEG5HKLeM\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnZXeWVTX2FBWm1v",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:05:29.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Old Programmers and New Programmers Can Learn New Tricks - Donald Ferguson",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vWyeS_aAZmo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vWyeS_aAZmo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vWyeS_aAZmo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vWyeS_aAZmo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vWyeS_aAZmo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 86,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "vWyeS_aAZmo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/D4uIGnRkAuwFk3g1LY6XCqpdf9M\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LlV1NWJEWVdoVnRN",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:05:42.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Real World Serverless Applications with Azure Functions - Yochay Kiriaty",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Uu5bDYWhVtM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Uu5bDYWhVtM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Uu5bDYWhVtM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Uu5bDYWhVtM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Uu5bDYWhVtM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 87,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Uu5bDYWhVtM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9hKLNlEigRzbI61bACUBTqmTY7w\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmhtOUJ4Mk1IeU53",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:05:57.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Cloud Custodian, a serverless rules engine for the cloud - Kapil Thangavelu",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hm9Bx2MHyNw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hm9Bx2MHyNw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hm9Bx2MHyNw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hm9Bx2MHyNw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hm9Bx2MHyNw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 88,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "hm9Bx2MHyNw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Av4o14yvma_KXZjvRvLWfjBzSgw\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Ljh3Mks5Vm1DUlhV",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:07:36.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Real-time Data Processing Using AWS Lambda - Ken Payne",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8w2K9VmCRXU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8w2K9VmCRXU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8w2K9VmCRXU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8w2K9VmCRXU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8w2K9VmCRXU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 89,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8w2K9VmCRXU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7uZtxXmKNLnTsTQuOde0o-JxA-I\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnJWR0ZsbDFzUlk0",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:07:56.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Event-driven and Serverless Computing with OpenWhisk - Andreas Nauerz & Michael Behrendt",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rVGFll1sRY4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rVGFll1sRY4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rVGFll1sRY4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rVGFll1sRY4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rVGFll1sRY4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 90,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rVGFll1sRY4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ma1f2vCrUS8pH3cujqqNYUGWGIk\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lmw5dEp5OWJRT3RV",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:08:11.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless for the Enterprise - Rafal Gancarz",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l9tJy9bQOtU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l9tJy9bQOtU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l9tJy9bQOtU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l9tJy9bQOtU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l9tJy9bQOtU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 91,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "l9tJy9bQOtU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NgIiY7tsqAMXFyD_vLozN_fGpfM\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LmdSOG5kVU1DVzAw",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:08:29.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Building Serverless IoT/Connected Device Applications - Ian Massingham",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gR8ndUMCW00/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gR8ndUMCW00/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gR8ndUMCW00/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gR8ndUMCW00/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gR8ndUMCW00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 92,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gR8ndUMCW00"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VG7tSxoCl8Wi7Ya2hxl_tdhyMKI\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LkxfQ2xJX1N6aFZJ",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:08:45.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf 2016 London Keynote - Patrick Debois",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L_ClI_SzhVI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L_ClI_SzhVI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L_ClI_SzhVI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L_ClI_SzhVI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L_ClI_SzhVI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 93,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "L_ClI_SzhVI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/fb7V6S4Z0W519Bd46MkQzew33bo\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3LnJzaDZlS2MxdFZN",
+    "snippet": {
+      "publishedAt": "2016-11-02T13:09:04.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverless architecture at iRobot - Ben Kehoe",
+      "description": "Filmed at Serverlessconf London 2016\n\nServerlessconf is a community led conference focused on sharing experiences building applications using serverless architectures. Serverless architectures enable developers to express their creativity and to focus on meeting user needs rather than spend time managing infrastructure and looking after servers.\n\nhttps://serverlessconf.io | https://serverlessheroes.com | https://acloud.guru",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rsh6eKc1tVM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rsh6eKc1tVM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rsh6eKc1tVM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rsh6eKc1tVM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rsh6eKc1tVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 94,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "rsh6eKc1tVM"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/idqyYHaayHCmv9JlBAz6ofiISl0\"",
+    "id": "VVVxbGNWZ2s4U2tVbXZlNEt3NHhTbGd3Lnp6ZFJicUZqdlFv",
+    "snippet": {
+      "publishedAt": "2016-10-30T21:27:52.000Z",
+      "channelId": "UCqlcVgk8SkUmve4Kw4xSlgw",
+      "title": "Serverlessconf London 2016 Trailer",
+      "description": "What an amazing 3 days we had.  Starting with a day of workshops and then two days of talks and presentations.  Thanks to everyone who came and thanks to our amazing sponsors.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zzdRbqFjvQo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zzdRbqFjvQo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zzdRbqFjvQo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zzdRbqFjvQo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zzdRbqFjvQo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Serverlessconf",
+      "playlistId": "UUqlcVgk8SkUmve4Kw4xSlgw",
+      "position": 95,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zzdRbqFjvQo"
+      }
+    }
+  }
+]
