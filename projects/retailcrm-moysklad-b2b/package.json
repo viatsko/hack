@@ -1,0 +1,25 @@
+{
+  "name": "retailcrm-moysklad-b2b",
+  "version": "1.0.0",
+  "main": "./server/index.js",
+  "scripts": {
+    "dev": "nodemon --exec yarn run babel-node -- ./server/index.js"
+  },
+  "repository": "git@github.com:viatsko/retailcrm-moysklad-b2b.git",
+  "author": "Valerii Iatsko <viatsko@viatsko.me>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.32",
+    "@babel/node": "^7.0.0-beta.32",
+    "@babel/preset-env": "^7.0.0-beta.32",
+    "@babel/preset-flow": "^7.0.0-beta.32",
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "sqlite3": "^3.1.13"
+  }
+}
