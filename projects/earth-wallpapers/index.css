@@ -1,0 +1,114 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+    font-family: -apple-system, "Helvetica Neue", "Lucida Grande";
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+.icon-cog {
+  width: 0.857421875em;
+}
+
+
+.header {
+    margin: -10px -10px 10px -10px;
+    text-align: center;
+    height: 40px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    width: 270px;
+    border-bottom: 1px solid #bbbbbb;
+}
+
+h1 {
+    margin: 0;
+    line-height: 40px;
+    color: #000;
+    background-clip: text;
+    font-size: 22px;
+}
+
+.container {
+    /* padding: 20px; */
+    padding-top: 0px;
+    height: 255px;
+}
+
+.popover {
+    border-radius: 5px;
+    height: 159px;
+    width: 250px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #b1b1b1;
+    margin: 0 auto;
+    margin-top: 10px;
+    box-shadow: 0 10px 20px 4px rgba(0, 0, 0, 0.25);
+    -webkit-user-select: none;
+    position: relative;
+    cursor: default;
+}
+
+.popover:before {
+    border-left: solid transparent 10px;
+    border-right: solid transparent 10px;
+    border-bottom: solid #b1b1b1 10px;
+    top: -10px;
+    content: " ";
+    height: 0;
+    left: 50%;
+    margin-left: -13px;
+    position: absolute;
+    width: 0;
+}
+
+.popover:after {
+    border-left: solid transparent 10px;
+    border-right: solid transparent 10px;
+    border-bottom: solid #fff 10px;
+    top: -9px;
+    content: " ";
+    height: 0;
+    left: 50%;
+    margin-left: -13px;
+    position: absolute;
+    width: 0;
+}
+
+.menu {
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    height: 28px;
+    padding: 2px;
+    width: 100%;
+    margin-left: -10px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top: 1px solid #bbbbbb;
+    text-align: right;
+}
+
+.menu .config {
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    text-decoration: none;
+    color: #000;
+    cursor: default;
+    opacity: 0.7;
+}
+
+.menu .config:active {
+    opacity: 0.6;
+}

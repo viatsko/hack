@@ -1,0 +1,20 @@
+{
+  "name": "earth-wallpapers",
+  "version": "1.0.0",
+  "description": "Simple app which fetches wallpapers from earthporn reddit and stores them locally",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/viatsko/earth-wallpapers",
+  "author": "Valerii Iatsko",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.7.6",
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.4.1"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
