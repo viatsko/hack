@@ -1,0 +1,44 @@
+{
+  "name" : "A - Автобус в Удайлэнд",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "6\nOO|OX\nXO|XX\nOX|OO\nXX|OX\nOO|OO\nOO|XX\n",
+    "output" : "YES\n++|OX\nXO|XX\nOX|OO\nXX|OX\nOO|OO\nOO|XX\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "4\nXO|OX\nXO|XX\nOX|OX\nXX|OX\n",
+    "output" : "NO\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "5\nXX|XX\nXX|XX\nXO|OX\nXO|OO\nOX|XO\n",
+    "output" : "YES\nXX|XX\nXX|XX\nXO|OX\nXO|++\nOX|XO\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "algorithms/codeforces/main/sources",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "sources.TaskA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.09.09",
+  "contestName" : "Codeforces Round #369 (Div. 2)",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : true,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

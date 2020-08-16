@@ -1,0 +1,44 @@
+{
+  "name" : "A - Мишка и игра",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "3\n3 5\n2 1\n4 2\n",
+    "output" : "Mishka",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "2\n6 1\n1 6\n",
+    "output" : "Friendship is magic!^^",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "3\n1 5\n3 3\n2 2\n",
+    "output" : "Chris",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "algorithms/codeforces/main/sources",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "sources.TaskA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.09.09",
+  "contestName" : "Codeforces Round #365 (Div. 2)",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : true,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

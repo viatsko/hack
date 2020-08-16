@@ -1,0 +1,39 @@
+{
+  "name" : "A - Отпечатки пальцев",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "7 3\n3 5 7 1 6 2 8\n1 2 7\n",
+    "output" : "7 1 2\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "4 4\n3 4 1 0\n0 1 7 9\n",
+    "output" : "1 0\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "algorithms/codeforces/main/sources",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "sources.TaskA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.09.09",
+  "contestName" : "Codeforces Round #488 by NEAR (Div. 2)",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : true,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

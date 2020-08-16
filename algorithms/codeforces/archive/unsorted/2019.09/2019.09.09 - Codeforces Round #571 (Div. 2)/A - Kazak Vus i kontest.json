@@ -1,0 +1,44 @@
+{
+  "name" : "A - Казак Вус и контест",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "5 8 6\n",
+    "output" : "Yes\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "3 9 3\n",
+    "output" : "Yes\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "8 5 20\n",
+    "output" : "No\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "algorithms/codeforces/main/sources",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "sources.TaskA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.09.09",
+  "contestName" : "Codeforces Round #571 (Div. 2)",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : true,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Create a tree from object</title>
+</head>
+<body>
+    <div id="container"></div>
+    <script>
+        (function() {
+            const data = {
+                "Fish": {
+                    "trout": {},
+                    "salmon": {}
+                },
+
+                "Tree": {
+                    "Huge": {
+                        "sequoia": {},
+                        "oak": {}
+                    },
+                    "Flowering": {
+                        "redbud": {},
+                        "magnolia": {}
+                    }
+                }
+            };
+
+            const createTreeHTML = node => {
+                return `<ul>${Object.keys(node).map((key) => {
+                    return `<li>${key}${Object.keys(node).length ? createTreeHTML(node[key]) : ''}</li>`;
+                }).join('')}</ul>`;
+            };
+
+            const createTree = (container, node) => {
+                container.innerHTML = createTreeHTML(node);
+            };
+
+            const container = document.getElementById('container');
+
+            createTree(container, data);
+        }());
+    </script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+{
+  "name" : "A - Тренировки Егора",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "2\n2 8\n",
+    "output" : "biceps\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "3\n5 1 10\n",
+    "output" : "back\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "7\n3 3 2 7 9 6 8\n",
+    "output" : "chest\n",
+    "index" : 2,
+    "active" : true
+  } ],
+  "location" : "algorithms/codeforces/main/sources",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "sources.TaskA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.09.12",
+  "contestName" : "Codeforces Round #156 (Div. 2)",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : true,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

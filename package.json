@@ -1,0 +1,11 @@
+{
+  "name": "hack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:viatsko/hack.git",
+  "author": "Valerii Iatsko <viatsko@viatsko.me>",
+  "license": "CC0",
+  "dependencies": {
+    "prettier": "^2.0.2"
+  }
+}

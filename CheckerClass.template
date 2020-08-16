@@ -1,0 +1,13 @@
+package %package%;
+
+import net.egork.chelper.tester.Verdict;
+import net.egork.chelper.checkers.Checker;
+
+public class %CheckerClass% implements Checker {
+    public %CheckerClass%(String parameters) {
+    }
+
+    public Verdict check(String input, String expectedOutput, String actualOutput) {
+        return Verdict.UNDECIDED;
+    }
+}

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="cojac">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/algorithms/vendor/cojac.jar!/" />
+      <root url="jar://$PROJECT_DIR$/algorithms/vendor/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/algorithms/vendor/jackson-annotations-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/algorithms/vendor/jackson-core-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/algorithms/vendor/jackson-databind-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/algorithms/vendor/json-20180130.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

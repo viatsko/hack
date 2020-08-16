@@ -1,0 +1,1 @@
+SELECT WeatherCurrent.Id FROM Weather AS WeatherCurrent, Weather AS WeatherPrevious WHERE DATEDIFF(WeatherCurrent.Date, WeatherPrevious.Date) = 1 AND WeatherCurrent.Temperature > WeatherPrevious.Temperature

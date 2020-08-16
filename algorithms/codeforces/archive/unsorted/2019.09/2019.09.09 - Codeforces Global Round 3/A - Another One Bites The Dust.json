@@ -1,0 +1,54 @@
+{
+  "name" : "A - Another One Bites The Dust",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "1 1 1\n",
+    "output" : "4\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "2 1 2\n",
+    "output" : "7\n",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "3 5 2\n",
+    "output" : "11\n",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "2 2 1\n",
+    "output" : "6\n",
+    "index" : 3,
+    "active" : true
+  }, {
+    "input" : "1000000000 1000000000 1000000000\n",
+    "output" : "4000000000\n",
+    "index" : 4,
+    "active" : true
+  } ],
+  "location" : "algorithms/codeforces/main/sources",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "sources.TaskA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.09.09",
+  "contestName" : "Codeforces Global Round 3",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : true,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

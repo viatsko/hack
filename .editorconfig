@@ -1,0 +1,13 @@
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+tab_width = 2
+
+[*.cpp]
+tab_width = 2
+
+[*.java]
+tab_width = 2

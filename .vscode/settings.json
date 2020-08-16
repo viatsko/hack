@@ -1,0 +1,51 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+
+  // ESLint packageManager
+  "eslint.packageManager": "yarn",
+
+  // Excludes
+  "files.exclude": {
+    "**/.cache": true,
+    "**/.idea": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+
+  "search.exclude": {
+    "**/public": true
+  },
+
+  "files.associations": {
+    "random": "cpp",
+    "__bit_reference": "cpp",
+    "algorithm": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "__string": "cpp",
+    "__tree": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "__split_buffer": "cpp",
+    "deque": "cpp",
+    "vector": "cpp",
+    "ratio": "cpp",
+    "__locale": "cpp",
+    "__hash_table": "cpp",
+    "array": "cpp",
+    "initializer_list": "cpp",
+    "memory": "cpp",
+    "regex": "cpp",
+    "unordered_map": "cpp"
+  }
+}

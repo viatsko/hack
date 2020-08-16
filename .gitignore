@@ -1,0 +1,10 @@
+CHelperReport.txt
+cmake-build-debug
+.idea/workspace.xml
+.idea/azure*
+target/
+*.class
+a.out
+*.o
+.DS_Store
+node_modules/

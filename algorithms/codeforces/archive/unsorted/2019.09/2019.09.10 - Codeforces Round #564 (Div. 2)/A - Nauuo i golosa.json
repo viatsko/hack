@@ -1,0 +1,49 @@
+{
+  "name" : "A - Nauuo и голоса",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "3 7 0\n",
+    "output" : "-",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "2 0 1\n",
+    "output" : "+",
+    "index" : 1,
+    "active" : true
+  }, {
+    "input" : "1 1 0\n",
+    "output" : "0",
+    "index" : 2,
+    "active" : true
+  }, {
+    "input" : "0 0 1\n",
+    "output" : "?",
+    "index" : 3,
+    "active" : true
+  } ],
+  "location" : "algorithms/codeforces/main/sources",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "sources.TaskA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.09.10",
+  "contestName" : "Codeforces Round #564 (Div. 2)",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : true,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}
