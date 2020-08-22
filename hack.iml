@@ -2,7 +2,23 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/_cpp-snippets" />
+      <excludeFolder url="file://$MODULE_DIR$/byte-by-byte" />
+      <excludeFolder url="file://$MODULE_DIR$/codefights" />
+      <excludeFolder url="file://$MODULE_DIR$/codeforces" />
+      <excludeFolder url="file://$MODULE_DIR$/codejam" />
+      <excludeFolder url="file://$MODULE_DIR$/cracking-the-coding-interview" />
+      <excludeFolder url="file://$MODULE_DIR$/elements-of-programming-interviews" />
+      <excludeFolder url="file://$MODULE_DIR$/hackercup" />
+      <excludeFolder url="file://$MODULE_DIR$/hackerearth" />
+      <excludeFolder url="file://$MODULE_DIR$/hackerrank" />
+      <excludeFolder url="file://$MODULE_DIR$/interviewcake" />
+      <excludeFolder url="file://$MODULE_DIR$/leetcode" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
