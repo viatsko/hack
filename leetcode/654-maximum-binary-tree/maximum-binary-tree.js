@@ -1,33 +1,41 @@
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
 
-// could be a pair of indexOf + Math.max.apply,
-// but for-loop allows us to avoid double walking array like in case of those two functions
-const findMaxInArray = arr => {
-    let max = Number.MIN_VALUE;
-    let maxIdx = -1;
+const findMaxIndex = (nums) => {
+  let max = Number.MIN_SAFE_INTEGER;
+  let idx = -1;
 
-    for (let i = 0; i < arr.length; i++) {
-        if (arr[i] > max) {
-            max = arr[i];
-            maxIdx = i;
-        }
+  for (let i = 0; i < nums.length; i++) {
+    if (nums[i] > max) {
+      max = nums[i];
+      idx = i;
     }
+  }
 
-    return maxIdx;
+  return idx;
 };
 
-const constructMaximumBinaryTree = nums => {    
-    const rootIdx = findMaxInArray(nums);
-    const rootNode = new TreeNode(nums[rootIdx]);
-    
-    const leftArr = nums.slice(0, rootIdx);
-    if (leftArr.length) {
-        rootNode.left = constructMaximumBinaryTree(leftArr);
-    }
-    
-    const rightArr = nums.slice(rootIdx + 1);
-    if (rightArr.length) {
-        rootNode.right = constructMaximumBinaryTree(rightArr);
-    }
-    
-    return rootNode;
-}
+/**
+ * @param {number[]} nums
+ * @return {TreeNode}
+ */
+const constructMaximumBinaryTree = function(nums) {
+  const pivot = findMaxIndex(nums);
+
+  if (pivot === -1) {
+    return null;
+  }
+
+  const node = new TreeNode(nums[pivot], null, null);
+
+  node.left = constructMaximumBinaryTree(nums.slice(0, pivot));
+  node.right = constructMaximumBinaryTree(nums.slice(pivot + 1));
+
+  return node;
+};
