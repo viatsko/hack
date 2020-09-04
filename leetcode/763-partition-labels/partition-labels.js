@@ -2,22 +2,23 @@
  * @param {string} S
  * @return {number[]}
  */
-var partitionLabels = function(S) {
-  const last = {};
+var partitionLabels = function (S) {
+  const lastIndexes = {};
+
   for (let i = 0; i < S.length; i++) {
-    last[S[i]] = i;
+    lastIndexes[S[i]] = i;
   }
 
-  const result = [];
+  const parititions = [];
   for (let i = 0; i < S.length; i++) {
-    let closesAt = last[S[i]];
+    let start = i;
+    let end = lastIndexes[S[i]];
 
-    for (let j = i; j < closesAt; j++) {
-      closesAt = Math.max(closesAt, last[S[j]]);
+    for (; i < end; i++) {
+      end = Math.max(end, lastIndexes[S[i]]);
     }
 
-    result.push(closesAt - i + 1);
-    i = closesAt;
+    parititions.push(end - start + 1);
   }
-  return result;
+  return parititions;
 };
