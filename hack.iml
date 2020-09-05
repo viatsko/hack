@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python">
+      <configuration sdkName="Python 3.8" />
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -14,11 +19,18 @@
       <excludeFolder url="file://$MODULE_DIR$/elements-of-programming-interviews" />
       <excludeFolder url="file://$MODULE_DIR$/hackercup" />
       <excludeFolder url="file://$MODULE_DIR$/hackerearth" />
-      <excludeFolder url="file://$MODULE_DIR$/hackerrank" />
+      <excludeFolder url="file://$MODULE_DIR$/hackerrank/algorithms" />
+      <excludeFolder url="file://$MODULE_DIR$/hackerrank/cpp" />
+      <excludeFolder url="file://$MODULE_DIR$/hackerrank/java" />
+      <excludeFolder url="file://$MODULE_DIR$/hackerrank/python-old" />
+      <excludeFolder url="file://$MODULE_DIR$/hackerrank/ruby" />
+      <excludeFolder url="file://$MODULE_DIR$/hackerrank/ruby-tutorial" />
+      <excludeFolder url="file://$MODULE_DIR$/hackerrank/tutorials" />
       <excludeFolder url="file://$MODULE_DIR$/interviewcake" />
       <excludeFolder url="file://$MODULE_DIR$/vendor" />
     </content>
     <content url="file://$MODULE_DIR$/hackerrank/python" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Python 3.8 interpreter library" level="application" />
   </component>
 </module>
