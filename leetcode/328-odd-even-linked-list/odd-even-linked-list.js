@@ -9,25 +9,28 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var oddEvenList = function (head) {
-  let oddHead = head;
+const oddEvenList = function (head) {
+  const oddHead = head;
 
-  if (head) {
-    let evenHead = head.next;
-
-    let odd = oddHead;
-    let even = evenHead;
-
-    while (even && even.next) {
-      odd.next = odd.next.next;
-      odd = odd.next;
-
-      even.next = even.next.next;
-      even = even.next;
-    }
-
-    odd.next = evenHead;
+  if (!head) {
+    return null;
   }
+
+  const evenHead = head.next;
+
+  let oddP = oddHead;
+  let evenP = evenHead;
+
+  while (oddP.next && evenP.next) {
+    const oddNext = oddP.next.next;
+    const evenNext = evenP.next.next;
+    oddP.next = oddNext;
+    evenP.next = evenNext;
+    oddP = oddP.next;
+    evenP = evenP.next;
+  }
+
+  oddP.next = evenHead;
 
   return oddHead;
 };
