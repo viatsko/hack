@@ -1,21 +1,36 @@
-const removeNthFromEnd = (head, n) => {
-    let node = new ListNode(0);
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @param {number} n
+ * @return {ListNode}
+ */
+const removeNthFromEnd = function (head, n) {
+  let newHead = new ListNode(0);
+  newHead.next = head;
 
-    node.next = head;
+  let slow = newHead;
+  let fast = newHead;
 
-    let fast = node;
-    let slow = node;
+  if (!slow.next) {
+    return null;
+  }
 
-    for (let i = 0; i < n; i++) {
-        fast = fast.next;
-    }
+  while (n-- > 0) {
+    fast = fast.next;
+  }
 
-    while(fast.next) {
-        slow = slow.next;
-        fast = fast.next;
-    }
+  while (fast && fast.next) {
+    slow = slow.next;
+    fast = fast.next;
+  }
 
-    slow.next = slow.next.next;
+  slow.next = slow.next.next;
 
-    return node.next;
+  return newHead.next;
 };
