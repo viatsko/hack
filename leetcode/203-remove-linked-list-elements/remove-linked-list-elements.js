@@ -10,19 +10,16 @@
  * @param {number} val
  * @return {ListNode}
  */
-var removeElements = function (head, val) {
+const removeElements = function (head, val) {
   while (head && head.val === val) {
     head = head.next;
   }
-
   let node = head;
-
   while (node) {
     while (node.next && node.next.val === val) {
       node.next = node.next.next;
     }
     node = node.next;
   }
-
   return head;
 };
