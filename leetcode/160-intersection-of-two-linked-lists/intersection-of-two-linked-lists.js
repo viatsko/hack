@@ -1,38 +1,24 @@
-const getIntersectionNode = (headA, headB) => {
-    const countListNodes = node => {
-        let count = 0;
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val) {
+ *     this.val = val;
+ *     this.next = null;
+ * }
+ */
 
-        while (node) {
-            count++;
-            node = node.next;
-        }
+/**
+ * @param {ListNode} headA
+ * @param {ListNode} headB
+ * @return {ListNode}
+ */
+const getIntersectionNode = function (headA, headB) {
+  let first = headA;
+  let second = headB;
 
-        return count;
-    };
+  while (first !== second) {
+    first = first ? first.next : headB;
+    second = second ? second.next : headA;
+  }
 
-    let lenA = countListNodes(headA);
-    let lenB = countListNodes(headB);
-
-    if (lenA > lenB) {
-        for (let i = 0; i < lenA - lenB; i++) {
-            headA = headA.next;
-        }
-    }
-
-    if (lenB > lenA) {
-        for (let i = 0; i < lenB - lenA; i++) {
-            headB = headB.next;
-        }
-    }
-
-    while(headA && headB) {
-        if (headA === headB) {
-            return headA;
-        }
-
-        headA = headA.next;
-        headB = headB.next;
-    }
-
-    return null;
+  return first;
 };
