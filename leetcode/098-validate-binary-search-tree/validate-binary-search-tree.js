@@ -1,19 +1,34 @@
-const isValidBST = root => {
-    const validate = (node, min, max) => {
-        if (!node) {
-            return true;
-        }
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {boolean}
+ */
+const isValidBST = function (root, min, max) {
+  if (!root) {
+    return true;
+  }
 
-        if (
-            (node.val > min && node.val < max) &&
-            ((node.left === null) || (node.left.val < node.val)) &&
-            ((node.right === null) || (node.right.val > node.val))
-        ) {
-            return validate(node.left, min, node.val) && validate(node.right, node.val, max);
-        } else {
-            return false;
-        }
-    };
+  if (min === undefined) {
+    min = Number.MIN_SAFE_INTEGER;
+  }
 
-    return validate(root, Number.NEGATIVE_INFINITY, Number.POSITIVE_INFINITY);
+  if (max === undefined) {
+    max = Number.MAX_SAFE_INTEGER;
+  }
+
+  if (root.val >= max || root.val <= min) {
+    return false;
+  }
+
+  return (
+    isValidBST(root.left, min, root.val) &&
+    isValidBST(root.right, root.val, max)
+  );
 };
