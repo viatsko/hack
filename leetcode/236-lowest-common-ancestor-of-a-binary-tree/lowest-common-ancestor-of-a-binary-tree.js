@@ -11,7 +11,7 @@
  * @param {TreeNode} q
  * @return {TreeNode}
  */
-const lowestCommonAncestor = function(root, p, q) {
+const lowestCommonAncestor = function (root, p, q) {
   if (!root) {
     return null;
   }
@@ -31,9 +31,9 @@ const lowestCommonAncestor = function(root, p, q) {
     return null;
   }
 
-  if (!right) {
-    return left;
-  } else {
+  if (!left) {
     return right;
+  } else if (!right) {
+    return left;
   }
 };
