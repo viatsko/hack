@@ -35,36 +35,31 @@
  * @param {Robot} robot
  * @return {void}
  */
-var cleanRoom = function (robot) {
+const cleanRoom = function (robot) {
   const visited = new Set();
 
-  const helper = (x, y, angle) => {
-    const move = `${x},${y}`;
+  const dirs = [
+    [-1, 0],
+    [0, -1],
+    [1, 0],
+    [0, 1],
+  ];
 
-    if (visited.has(move)) {
+  const helper = (x, y, dir) => {
+    if (visited.has(`${x},${y}`)) {
       return;
     }
 
-    robot.clean();
+    visited.add(`${x},${y}`);
 
-    visited.add(move);
+    robot.clean();
 
     for (let i = 0; i < 4; i++) {
       if (robot.move()) {
-        switch (angle) {
-          case 0:
-            helper(x, y + 1, angle);
-            break;
-          case 90:
-            helper(x + 1, y, angle);
-            break;
-          case 180:
-            helper(x, y - 1, angle);
-            break;
-          case 270:
-            helper(x - 1, y, angle);
-            break;
-        }
+        const newX = x + dirs[dir][0];
+        const newY = y + dirs[dir][1];
+
+        helper(newX, newY, dir);
 
         robot.turnLeft();
         robot.turnLeft();
@@ -72,9 +67,11 @@ var cleanRoom = function (robot) {
         robot.turnRight();
         robot.turnRight();
       }
+
       robot.turnRight();
-      angle += 90;
-      angle %= 360;
+
+      dir += 1;
+      dir %= 4;
     }
   };
 
