@@ -1,9 +1,24 @@
-const mySqrt = num => {
-    let n = num;
+/**
+ * @param {number} x
+ * @return {number}
+ */
+const mySqrt = function (x) {
+  let left = 0;
+  let right = x;
 
-    while(n * n > num) {
-        n = ((n + num / n) / 2) | 0;
+  let result = 0;
+  while (left <= right) {
+    const mid = Math.floor((right + left) / 2);
+
+    const mult = mid * mid;
+
+    if (mult <= x) {
+      left = mid + 1;
+      result = mid;
+    } else {
+      right = mid - 1;
     }
+  }
 
-    return n;
+  return result;
 };

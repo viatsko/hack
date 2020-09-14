@@ -1,43 +1,36 @@
+// nums = [4,5,6,7,0,1,2], target = 5
+// nums = [7,0,1,2,4,5,6]
+
+// Input: nums = [4,5,6,7,0,1,2], target = 0
+
 /**
  * @param {number[]} nums
  * @param {number} target
  * @return {number}
  */
-const search = function(nums, target) {
-  let rotation;
+const search = function (nums, target) {
+  let left = 0;
+  let right = nums.length - 1;
 
-  {
-    let min = 0;
-    let max = nums.length - 1;
+  while (left <= right) {
+    const mid = Math.floor(left + (right - left) / 2);
+    console.log("mid", mid);
 
-    while (min < max) {
-      const mid = (min + max) >> 1;
-
-      if (nums[mid] > nums[max]) {
-        min = mid + 1;
+    if (target === nums[mid]) {
+      return mid;
+    } else if (target > nums[mid]) {
+      if (nums[right] >= nums[mid] && target > nums[right]) {
+        right = mid - 1;
       } else {
-        max = mid;
+        left = mid + 1;
       }
-    }
-
-    rotation = min;
-  }
-
-  let min = 0;
-  let max = nums.length - 1;
-
-  while (min <= max) {
-    const mid = (min + max) >> 1;
-    const rmid = (mid + rotation) % nums.length;
-
-    if (nums[rmid] === target) {
-      return rmid;
-    }
-
-    if (nums[rmid] > target) {
-      max = mid - 1;
-    } else {
-      min = mid + 1;
+    } else if (target < nums[mid]) {
+      // 0 < 7
+      if (nums[left] <= nums[mid] && target < nums[left]) {
+        left = mid + 1;
+      } else {
+        right = mid - 1;
+      }
     }
   }
 
