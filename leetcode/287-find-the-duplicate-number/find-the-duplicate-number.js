@@ -1,13 +1,15 @@
-const findDuplicate = nums => {
-    for (const num of nums) {
-        const absnum = Math.abs(num);
-
-        if (nums[absnum - 1] < 0) {
-            return absnum;
-        } else {
-            nums[absnum - 1] = -nums[absnum - 1];
-        }
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+const findDuplicate = function (nums) {
+  const set = new Set();
+  for (const num of nums) {
+    if (set.has(num)) {
+      return num;
     }
+    set.add(num);
+  }
 
-    return -1;
+  return null;
 };
