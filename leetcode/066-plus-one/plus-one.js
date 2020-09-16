@@ -1,21 +1,23 @@
-const plusOne = digits => {
-    let leftover = 1;
+/**
+ * @param {number[]} digits
+ * @return {number[]}
+ */
+const plusOne = function (digits) {
+  let carry = 1;
 
-    for (let i = digits.length - 1; i >= 0; i--) {
-        let sum = digits[i] + leftover;
-
-        if (sum === 10) {
-            digits[i] = 0;
-            leftover = 1;
-        } else {
-            digits[i] = sum;
-            leftover = 0;
-        }
+  for (let i = digits.length - 1; i >= 0; i--) {
+    digits[i] += carry;
+    if (digits[i] === 10) {
+      carry = 1;
+      digits[i] = 0;
+    } else {
+      carry = 0;
     }
+  }
 
-    if (leftover > 0) {
-        digits.unshift(leftover);
-    }
+  if (carry) {
+    digits.unshift(carry);
+  }
 
-    return digits;
+  return digits;
 };
