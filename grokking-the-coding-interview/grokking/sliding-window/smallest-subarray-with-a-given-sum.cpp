@@ -9,7 +9,7 @@ class MinSizeSubArraySum {
   static int findMinSubArray(int S, const vector<int>& arr) {
     int result = numeric_limits<int>::max();
     int windowStart = 0, windowEnd = 0, currentSum = 0;
-    for (int windowEnd = 0; windowEnd < arr.size(); windowEnd++) {
+    for (windowEnd = 0; windowEnd < arr.size(); windowEnd++) {
       currentSum += arr[windowEnd];
       while(currentSum >= S) {
         result = min(result, windowEnd - windowStart + 1);
