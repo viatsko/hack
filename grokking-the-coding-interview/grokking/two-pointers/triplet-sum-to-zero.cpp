@@ -32,4 +32,4 @@ class TripletSumToZero {
     return triplets;
   }
 };
-  
+
