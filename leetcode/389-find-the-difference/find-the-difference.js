@@ -1,17 +1,21 @@
-const findTheDifference = (s, t) => {
-    const letters = {};
-
-    for (let i = 0; i < s.length; i++) {
-        letters[s[i]] = -~letters[s[i]];
+/**
+ * @param {string} s
+ * @param {string} t
+ * @return {character}
+ */
+const findTheDifference = function (s, t) {
+  const counter = new Array(256);
+  counter.fill(0);
+  for (const ch of s) {
+    counter[ch.charCodeAt(0)]++;
+  }
+  for (const ch of t) {
+    counter[ch.charCodeAt(0)]--;
+  }
+  for (let i = 0; i < counter.length; i++) {
+    if (counter[i] !== 0) {
+      return String.fromCharCode(i);
     }
-
-    for (let i = 0; i < t.length; i++) {
-        if (!letters[t[i]]) {
-            return t[i];
-        }
-
-        letters[t[i]]--;
-    }
-
-    return '';
+  }
+  return -1;
 };
