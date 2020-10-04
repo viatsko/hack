@@ -1,0 +1,712 @@
+Coding
+101
+91
+308 如果每个element有一个weight值，weight值大的element被随机选中的概率高于weight小的
+33
+785
+215
+117
+953
+560
+621
+31
+一个向一个sorted的cycle linklist去insert一个数；
+301 简化的，不是原题那个要求，仅仅去除无效的后得到一个有效解即可
+173 preorder
+BST iterator ，要用stack做。
+973
+238
+robot room cleaner
+alien dict 两题
+Minimal knight move 1197
+Range sum of bst
+
+https://leetcode.com/problems/missing-element-in-sorted-array/
+https://leetcode.com/problems/merge-k-sorted-lists/
+
+Coding 1：1. Most K frequent elements  2. lowest common ancester
+Coding 2: 1. Integer to English Words 2. get mutual frineds of X, Y, given the API friends(X) which returns the friends list of X. Just call friends(X) and friends(Y) and join them.
+54
+157
+158
+20
+22
+415 小数
+33
+合并2个circular linkedlist, 要求返回最后合并的Linkedlist以及它的长度
+162
+Woodcut
+判断string是否可以通过最多一个remove变palindrom
+follow up add two bigDecimal, eg:45.34 + 678.903
+two string multiplication
+34
+找binary tree里头最大的sub-BST， 最大指node最多 1373
+1. 找到数组里所有local max。（数组间相邻的数字之间相差+1 或-1）2. 序列化binary tree
+333
+https://leetcode.com/problems/find-peak-element/
+278
+721
+1060
+953
+112
+211
+523
+380 381
+622
+1026
+773
+670
+438
+给一个grid 由 0，1组成 相邻的1可以组成岛屿 问如果把其中的某一个0换成1 能组成的最大的岛屿的size
+23
+236
+827
+34
+199 (bfs/dfs)
+43
+211
+后面出了一题，说给你一个有环的双向列表，要我排序
+238
+158
+273
+20
+稀疏向量inner product
+用最少的步骤使得括号字符串 valid；求某个长度内所有旋转180度后不变的数字；给定一个BST，求任意俩个数范围内所有节点值的总和；给定一堆定义上下级关系的二元组，查询任意两个人之间是否有上下级关系。给定一个api，每次可以从一个文件读孤单长度的字符串，用这个API实现一个新API，每次可以读任意长度字符串。
+
+
+code 都确实是高频题，有给一个2d矩阵找最大岛的size的；有给一个数组，找到每一个数右边最大的数的；
+
+以下内容需要积分高于 150 您已经可以浏览
+
+剩下两个题一个是largest k 的高频题，一个是给定一个数字，去找他的next permutation。
+
+
+
+
+第一轮：算法。题目比较复杂。给一个dict，key是user id，value是List of intervals of message id，比如{1: [[1, 4], [7, 10]], 2: [[3, 8], [11, 12]]}，然后给一个stream of message id，整型。要写一个程序从stream of message id中读取一个id，然后根据这个id所在的id的interval找到对应的user id并返回user id的list。大概意思就是说这个dict是用户对应可以收到的message的范围，对每一个消息id找到对应的用户id。比如message id是8，就要输出[1, 2]。这题比较复杂，和面试官讨论了几种数据结构（暴力扫描法/用一个list存放每一个message id对应的user id/用类似线段树的方法把interval和对应的用户id存在二叉树的结点里/把所有interval放在一个sorted list里）。然后根据上述的方法里的最后一种，写一段代码，假设所有interval都已经处理完的情况下，找list of user id（二分查找即可）。稍微跑了一下test case。一边写一边修正各种数据结构。写完心情是很压抑的。
+
+
+第二轮：算法。题目还是很复杂。给一个dict，key是一个整形id，value是一个嵌套dict，key是语言代号（'en'、'jp'之类的），value是对应的str。然后给一个str，里面出现诸如'{{id.1234}}'的特殊符号，意思是要把括号里的东西替换成dict里对应的字符串。要求写一个程序parse这个str，并输出一个完整的str。比如dictionary = {1234: {'en': 'Hello', 'jp': 'konnichiwa'}, 3456: {'en': 'Good luck', 'ch': 'timuhaochang'}, 7456: {'en': '{{id.3456}}shibushihenfuza'}}，然后给一个str要你parse，比如设定的语言为日语，str = '{{dc.1234}}, {{dc.7456}}, zhenhaowan'，那么输出的就是'konnichiwa, Good luckshibushihenfuza, zhenhaowan'。如果在搜索id时没有搜索到日语，就输出对应的英语（默认英语）。这题需要考虑dfs的时候可能遇到环（会出现死循环，所以要加一个path来判断是否会有环），也要考虑不合法的输入（遇到任何不合法的输入的时候输出原字符串，哪怕是乱码，不能抛异常），还要考虑各种语言是否存在。写起来很麻烦，写得我和面试官都生无可恋。
+
+
+题目是一个矩阵，每一行是0和1组成的，且单调递增，也就是说每一行第一个出现的1后面都是1。要求找矩阵中最左边的1的位置。我暗想，要是早上的代码面试也出这么简单的题就好了。然后就是传统套路，先明确题意，先讲一个暴力法，再来一个二分法，小哥表示还不够，要优化到线性时间，我表示想不出，同时也是因为太累，懒得想了。小哥给了一些提示，突然就明白了，是贪心法，然后写了代码。（写到这里我突然发现了一个比线性法和二分法更快的方法）
+小哥紧接着出了第二题。纳尼？还有？题目是很基本的寻路问题，再次感叹真简单。遂按标准套路，用dfs秒之，然后回答了小哥若干个他明知故问的问题。唉，秒了又有啥用，这一轮是强行加戏，不算分的。
+
+
+
+
+第一轮三道题 一道merge two interval, follow up merge many interval(sorted), 一道add binary时间不够了在carry update的时候卡住了，但是还是收到了第二轮
+
+第二轮是跪得很惨
+
+一道binary tree traversal,对output些许要求，follow up是要求output exactly in the shape as if they are in the tree,卡住了不会写，估计是这里跪掉的，当天晚上收了拒信
+
+
+第一轮,，求树中是否有一条从root到leaf的path跟target一样，问了俩follow up， 都写了code，所以只面了这一道题
+第二轮， 输出树层级中最右的node，还有一题是merge k sorted lists。
+
+
+wordbreak 1，2原题 input“ whatisjava”(和地里之前的input一样)。
+218
+560
+301 1249 636
+
+158 157
+15 26
+19 658
+117
+118
+Accound merge
+
+
+
+第一轮 找出二叉树每一层最大的
+第二轮 nearest k orgin那道题，判断graph是不是bipartite
+第三轮 bq + 稀疏矩阵
+
+
+
+
+onsite：
+共五轮
+第一轮 有一个包含N个整数的数组，数组里的成员范围都在[0-N]之间，相互disctinct且已经升序排列，请找出唯一的那个在[0-N]之间但不在这个数组中的整数。
+eg. N = 3, [0,1,3]， 输出 2
+
+第二轮 system design 设计一个facebook的搜索引擎，这个引擎能搜索出包含关键字的facebook动态， 需要着重谈谈存储 和data flow
+
+第三轮，Integer to English Words
+
+第4轮，2个 题， 3Sum + Trap water
+
+第5轮，Sliding window maximum 和 Add and Search Word - Data structure design
+
+
+
+543. Diameter of Binary Tree
+415. Add Strings. follow up: 问如果变成2进如制, 回答怎么改动代码即可. (67. Add Binary).
+986. Interval List Intersections
+689. Maximum Sum of 3 Non-Overlapping Subarrays
+34. Find First and Last Position of Element in Sorted Array
+1249. Minimum Remove to Make Valid Parentheses.不用stack怎么做.
+621. Task Scheduler
+49. Group Anagrams
+
+两轮代码，中序遍历二叉树的迭代器，合并两个没有overlap的区间的数组，是刷题网一个数组的变种
+
+第一轮是 238
+我告诉他见过原题，结果他要求用非two pass 的方法做出来，真是作死
+
+第二轮是 system design
+design a distributed web crawler，因为是使用肉机去crawl，所以希望minimize networking between那些肉机。hint了一番之后，大致弄出了一个solution，重点就是hash的机制去把不同的url hash到不同肉机上，这样就不需要coordinate谁去下载哪个link
+
+午饭就是聊天
+
+第三轮 经理面，conflict resolution之类很general的东西
+
+第四轮
+
+想不起来具体的题目了， 不好意思，但是不难，涉及到bit manipulation，之前准备的时候一直没碰这类题，有点手生，这里就提醒下大家平时准备的时候也关注下bit manipulation。
+
+
+. 找出第K个数。follow up 找出全正数组中和等于K的最长序列
+2. encoding一个string, 根据输入的步长。比如 步长1， 那么 a->b, c-> d...这样。follow up， group一组string, 如果这些string能产生相同的encnding。然后讨论并行优化。
+3. shadow, read4k, 和二叉树serialization/deserialization
+
+
+
+
+
+
+
+
+回顾一下之前facebook的店面：总共4轮面试，两轮coding，一轮BQ和一轮system design。
+
+Coding:
+第一轮：1）物流灵，我用prefix summary array解决，很快搞定，并且用了一些测试用例。2）刘三期变种，二叉树变成N叉树。我使用BFS解决，面试官比较nice，同意了， follow up是怎样减小空间复杂度，我说了用DFS解决，他很满意。这一轮过了。虽然过了，但这已经为下一轮coding出问题埋下了隐患。
+第二轮：1）meeting room II，而雾散，这一轮面试上来就感觉气场不对，但我还是把题目很轻松解出来了。2）遥遥而散，我基本上是栽在这个题目上面，和上一轮一样，我提出用BFS，但这次没有那么走运，面试官直接否了，这让我非常惊慌，因为我没有准备除BFS之外的其他方法，后来临场想出算法，不过空间和时间复杂度都高了。
+
+System Design:
+面试官是一位印度小哥，题目是design code contest system。目标要求不高，需要支持5个active contest，每个contest有1000人在线。这一轮我自认为没有问题，但事后recuiter告诉我也挂了，我非常郁闷。。。
+
+事后我回想自己错在哪里，我认为有两个问题答错了：1）用户code execution request发送到后端服务器时，应使用推模式还是拉模式？我的回答是拉模式，实际上推模式更有效率。本人对message queue的理解还有很大不足。。 2）每个后端服务器需要code execution request，并且产生一个对应的结果的消息，放入第二个消息队列，那么如果某个后端服务器在处理请求的时候挂了怎么办？ 我当时首先回答MQ应该有ACK机制，没有ACK的消息超时后可以给另外一个服务器。但是接下来问题是如果该服务器执行完成该code execution request并发送ACK消息之后，在发送结果的消息之前挂了怎么办。我回答用redo/undo log，这显然是不好的。事后我个人认为应该先发送结果消息再发送ACK，但这个显然没有考虑到网络的链接问题，万一网络出问题也会导致数据丢失。所以真正好的回答应该是用replication，也就是说，每个code execution request应该给多个不同的后端服务器处理，如果有哪台服务器挂了也没有关系。只不过这样设计的时候第二个消息队列的consumer需要过滤掉duplicate message。哎，想到了庆余年中鉴查院的飞鸽传书，同一个原理啊。。。
+
+其实这轮面试中最让我郁闷的面试官，这个人在我回答错误的时候完全没有帮助我提醒我，不仅如此还非常虚伪的点头以示肯定，这让我完全放松了警惕。因为这是我第一次面system design，没有经验。。。
+
+BQ:
+这一轮没有什么好说的，基本上就是怎样应对压力，沟通问题等等，我这轮过了。
+
+总结：
+我这次面试主要挂在1）刷题不精。其实遥遥而散这道题目我刷过两遍，但是都以为用BFS可以糊弄过去。其实仔细想想，树的遍历用BFS空间开销是O(N)，对于二叉树还好，但是如果是trie会很差甚至不可接受。所以教训就是一定要搞清楚最好的解法，空间复杂度也不要掉以轻心，尤其是树的遍历。
+2）system design没有理解透彻。其实system design中有一个核心的问题就是“万一有服务器挂了怎么办？”， 围绕这个问题可以有很多深入的讨论。
+
+
+
+
+
+2020年新年伊始就去脸家面试。
+1. Bahavior
+2. 二维数组，里面的数字都是唯一的。找最长递增路径
+
+【1，6，7】
+【2，3，8】
+【5，4，9】
+递增路径有：1，2，3，4，5 和6，7，8，9. 最长的长度就是6
+可以用flood fill 或者union find
+3. 经典的找最长的（）配对。
+4. 设计题：打开facebook的首页，里面返回一堆post的list。假设后台已经设计好了。让你设计前端调用后台的API的interface。 比如，需要几个API？每个API的功能是什么？输入是什么？输出是什么？其实也是经典的设计题。但是面试的三哥是搞后台的。毫无提示。你问他，他就是问你，你觉得呢？
+
+虽然跪了，但是希望能帮到后来人。现在外面病毒里面。大家还是安心在家看面筋。另外别忘了加点米啊。谢谢！
+
+
+第一轮是位国人大哥，很认真，出了一道二叉树前置遍历迭代器，讨论了几种做法之后，然后按照他prefer的方法开始写，这轮答得还可以follow up漏了一个edge case，大哥很好叫我补上然后拍了照。
+第二轮是位白人小哥，是个tech lead，问BQ，大概问了三四个问题，然后剩下几分钟问了一个简单题，刷题网路奇，然后拓展到十六进制，我在原有基础上进行了简单改动，然后小哥感觉不错拍了照。
+中午吃饭是位斯坦福的小哥带我吃的，聊了一下他做的东西，也聊了聊NFL
+第三轮是位国人manager，问了一道产品设计，设计上传照片的应用。我很差异其实，因为我之前只准备了系统设计。所以这一轮答得驴唇不对马嘴，我也知道我肯定挂了。我也不怨这位国人面试官，因为我确时没有准备。这里我挺想听听大家意见，这种工作中接触不到的内容，应该怎么准备呢？
+第四轮是位白人小哥，热身题问了一道找一个数组里长度为2的subarray的最大和。然后正题是刷题网"喽别🍾"，(希望这种火星文别被阿三们看到)。这轮答得很顺，因为刷题的话我还是有所准备的，最后跟小哥聊得也都挺开心，把我送下楼还在门口跟我挥手告别。唉可惜我心说这一别可能就再见不到。
+
+
+
+
+
+148, 215, 158, 388, 297, 282，外加一道现编的类似处理fb的log。找出时间上连续的log。一共7道题
+design:
+1. product design。设计device（任何device，平板，手机，电脑）里的一个component。所有app下载文件都要通过这个component来做
+不考虑network，不考虑logging。好像也不是api design（这个不确定，我问他什么他都说，you can choose any one you prefer）。。。
+我发这个帖子就是想看看有没有大神知道这道题怎么答。我是完全没头绪，花了20分钟和面试官大眼瞪小眼胡说八道，然后他让我坐吧。可以问他问题了。尴尬
+
+2. system design 设计leetcode，支持比赛和排名。不考虑scale，100qps. 问的很细，比如说两个microservice之间如何通信，threadpool和process怎么选，如何设计test case
+
+
+
+
+
+1 旋转排序数组的查找，任务schedule
+2 短小的链接 设计
+3 typeahead 设计
+4 查岛 九十一
+5 马内急聊天（无coding，因为时间不够了）
+
+第一轮 克隆图（给多线程思路）。 合并排序涟表
+第二轮 系统设计，设计tinyurl（参考grok）。这轮答的不好，只会堆关键字，new grad这轮占比不高的（中午吃饭的时候manager说的），大家别慌。
+第三轮 打印平衡括号。下一个更大的数字（1，2）
+第四轮 BQ，主要是问phd生涯的一些事情。楼主水phd，瞎编。
+
+
+第一轮，2道coding。第一道是找出数组里和最大的长度为k的subarray。第二道是利口的镏鲅啾。第二题答得不是很好，思路还行，实现的时候数组的index有小错误，被面试官指出来，不知道这个有多大影响。一直听说FB要bug free，所以要是挂了就是这里挂了。
+第二轮，BQ。面试官迟到了5分钟，聊到时间结束就停了，也没问coding。
+第三轮，设计。分布式爬虫，10k台机器去爬取1b URL from 1 seed URL，要求机器间通讯最小，不重复下载。
+第四轮，coding。类似于找2个排序数组的intersection，用双指针和binary search各实现了一遍，BS部分是一个隐含的利口34，问了很细节的复杂度，以及什么场景用什么方法。
+
+
+系统设计：webcrawler www.wiki.com
+系统设计：股票的新闻系统
+算法：1. implement hasNext() and Next() for List<List<Integer>> 2. permutation
+算法：1. 找出所有最长连续数组 2.长数组找出unique的数字的数目
+算法：类似read4
+
+
+
+昨天刚面试完，除了lunch之外总共6轮。
+
+第一轮: two coding questions，1）利口零四流，另外要求允许重复数字；2）利口要零流。
+
+第二轮：two coding questions， 1）稀疏向量的内积，被challenge了各种edge cases的最优解；2）利口舅伞骑，由于时间有限，没被challenge最优解，不知道是好是坏。
+
+第三轮：one coding question but with all kinds of edge cases. 利口散斯揪，然后各种edge cases：1）要是已经排序了，咋办？2）要是等你老了，国家发不起社保了，咋办？3）要是一个数组大一个数组小，咋办？4）要是国家医疗费用增长远远超过你工资的增长，咋办？5）要是数组时而稀疏时而密集，咋办？
+
+第四轮：domain specific system design，这个题不常见，比较domain specific。你去面试的那个team现在正在做某个项目或者优化某个已有软件，换你，你如何做？
+
+第五轮：general backend system design，本公司旗下某以图片为主的社交软件，你猜猜是哪个软件？边边角角的问题都被问到了，感觉有点小小的challenge。
+
+第六轮：behavior questions，喜欢BS的同学，这一轮是你发挥的一轮。而且这一轮也是非常重要的一轮，尤其对有工作经验的同学。面试这一轮的，一般都是有管理职位的。你想想，老板觉得你好，是不是很重要？这一轮你一定要体现你过去工作的impact，你有能力带动别人跟你一起make impact，和同事和老板虽有争吵但不结仇，全场保持微笑
+
+新手上路，积分不足，连回复自己发帖的级别都不够。😢
+
+
+1. Coding
+1) 二维围墙里注水的面积
+2) Binary Tree Right Side View
+
+2. Coding
+1) subarray sum same to target
+2) sqare root
+
+3. system design
+Design a event counting system
+
+4  Career问了问之前的project，领导力之类的，比如solving cross-team conflict。相谈甚欢
+问了一个可以秒杀的简单coding，具体什么题忘了什么了
+
+5. System Design
+Top M viewed posts in the last week
+
+
+总的来说，System Design题还挺好的，跟面试官聊的不错
+Coding实在是太水了，全是高频原题。最搞笑的，onsite跟电面居然考了同一道coding题，我提醒了面试官，面试官才换了一道题。其实我不赞同FB这种明目张胆的鼓励无脑刷题的面试风格。
+
+
+
+1. coding: 蠡口二坝舞，蠡口易思柳
+2. system design: yelp
+3. coding：蠡口贰亿伍 （要求O(n log k)的做法）， 蠡口吾儿伞（我想用O(n)的做法他强行要求我用O(n^2)）
+4. BQ: 最proud的project，conflict with colleague, conflict with manager, most constructive feedback received, missed deadline
+
+
+
+
+
+System Design - 1
+
+Matrix Multiplication
+
+不像一般的design題目，但討論各種 memory, storage, network tradeoff，以及許多follow-up questions，例如sparse/dense matrix,  parallelism...
+
+System Design - 2
+
+有趣的小哥，基本沒題目...聊完我背景後就聊各種技術，主要是networking相關的，如TCP/IP, congestion control, OS, RDMA...etc
+
+Coding - 1
+
+sparse vector multiplication  (類似 lc 三依依，但只是vector)
+
+不難，要求bug-free且follow-up各種optimization, complexity and tradeoff between different appoarches
+
+Coding - 2
+
+multi-thread programming....跟我背景有關，但沒預期會問這且太久沒用multi-thread有點生疏，各種follow-up回答的不太好，面試官的口音也常讓我沒聽懂問題
+
+
+
+一领，贰叁霸
+behavior面，常规问题，most proud project，conflicts，constructive response
+二把二但是operator只有+/-，第二题像是药药耳，但是返回最大path sum.
+Design component of Ins. One user typing comments, others are shown "Someone is typing".
+
+
+
+video onsite
+1, code. add parethesis to make it valid,只需要 return 一个就行。a(d))( 可以 (a(d))() 貌似首尾加就可以 make valid。lowest common ancestor of binary tree
+2, bq
+3, design ins. 很套路，但感觉我讲得都不深，总共就 30分钟，他迟到了
+4，first bad version, 最开始 start = mid+1, end ...这儿居然错了，但很快改好了，又写了个版本。伤
+subarray sum equals to target. set + one point
+他只准备了两道题，还有15分钟，他有点犹豫，我说再来一道吧
+(1,2) + (5, 4) = (6,6) 就是给你 List<Pair> 是否有符合要求的一对
+follow up 是 可以 a(a1, a2) b(b1,b2) 可以 a1+b1 或者 a1+b2. 也是一个 haset，两种可能，找之前时候出现过
+
+题目还真的都很简单，最后一个 onsite 了，求 offer，虽然感觉 oculus 有点坑，wlb有点差，但还是想去
+
+
+第一关coding
+1. input alphabets array and words array, check words are in alpabetical order based on alphabets list (like word show up in dictionary), return boolean
+这题很难理解，花了许多时间理解题目，后来没做完
+2. 利口九七三
+
+第二关system design
+design system can download all pages from wikipedia, no URL will be download twice, minimize individual node traffic (utilize all machines in data center)
+
+第三关BQ+coding
+人很好的小哥，对故事很有兴趣，最后问了一题没预期写完
+类似利口三三二，given list of airplan trip, sort them as legal trip，我给了topological sorting但没写完
+
+第四关coding
+1. 利口五二三，给了map解法，但说能否改进，想了许久给了two pointers也不知对不对
+2. similar to LRU cache, given interface with last() method, design generic class can be used by other team
+
+
+
+
+
+刚刚结束的脸家的onsite，还是想吐槽一下Google doc的system design太麻烦。
+
+第一轮是国人小哥的coding，蠡口三四的变形还有一些followup如何改进。接下来是没在蠡口做过，题目是一个array能不能只交换一次可以把它变成sorted。
+比如1 2 4 3，交换4和3就好，1 7 5 2 就不行。我用两边扫描找到需要交换的index然后交换后在判断我感觉小哥放了我一马，没有要求最优解虽然我也不知道最优解是什么。
+
+第二轮是美国小哥的bq，没时间做题了
+
+第三轮是东欧大哥，design facebook state message search system。我直接讲我以前做的Elastic Search的项目套过来，但是要自己design Elastic search，这个正好我看过
+
+第四轮是中东小哥coding，蠡口一一二三我没做过于是先用n^2的方法做了然后用n的方法做了相当于做了两遍。。。接着是蠡口的斯酒吧但是不用那么麻烦不换方向，只用从上到下打印。
+
+发帖求offer啊
+
+
+
+
+店面 九八六
+现场 七二一，二三，三零一
+题目应该答的都没什么问题，BQ因为没有经验不知道答的怎么样
+
+primary recruiter 在现场之后第二天就发了热情的帖子说要在下周末之前update，还问我有没有别的deadline，可是看邮件的措辞和时间看起来像本应该在现场当天发的（一股不走心的感觉）
+流程还是挺快的，我回应hr之后当天就约了下周的店面，店面结束转天就约了下周的现场。
+有戏的概率是多大？求分析一下。（不会设置奖励，不设了）
+
+
+
+代友发帖
+1. 系统设计：设计一个系统，搜索任意一个地点周围某个半径内的建筑/business；设计newsfeeds。
+2. 编程 ： 用最少的步骤使得括号字符串 valid；求某个长度内所有旋转180度后不变的数字；给定一个BST，求任意俩个数范围内所有节点值的总和；给定一堆定义上下级关系的二元组，查询任意两个人之间是否有上下级关系。给定一个api，每次可以从一个文件读孤单长度的字符串，用这个API实现一个新API，每次可以读任意长度字符串。
+
+求大米打赏
+
+
+https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=614121&extra=page%3D4%26filter%3Dsortid%26sortid%3D311%26searchoption%5B3086%5D%5Bvalue%5D%3D10%26searchoption%5B3086%5D%5Btype%5D%3Dradio%26searchoption%5B3088%5D%5Bvalue%5D%3D1%26searchoption%5B3088%5D%5Btype%5D%3Dradio%26searchoption%5B3046%5D%5Bvalue%5D%3D2%26searchoption%5B3046%5D%5Btype%5D%3Dradio%26sortid%3D311%26orderby%3Ddateline
+
+第一轮 coding，利口 酒舞散 然后follow up过度到 尔溜酒，但尔溜酒是个hard，也跟面试官讨论完算法后，问她这个时间可能会不够的，面试官说没关系，没有写完也没关系，不过最后写完了，因为是codepad，速度上确实容易很多，比白板方便，打字快。
+第二轮 BQ + coding，最proud的project，期间go through 一些detail 问题，比如为什么proud, 具体metric怎么得到的，proposal怎么做出来的，design决定是谁来决定，然后问了重点问了conflict，和没有data的情况下，发生不同意见要怎么办。coding 是给一个list of string，问最长的buildable string是哪个，buildable 意思是所有prefix都在这个list里，比如 car，c, ca, car都在这个list里。面试官表示不要求最优解，短时间写出来就可以，把input build成hashmap, 在一个个看list里的string， check每一个prefix就可以。
+
+第三轮coding，利口 扒扒，和利口 期扒舞
+
+前三轮都非常好，第四轮design真正体现出了virtual面试的弊端，design live comment system, 就是读者打开一个post，要能看到这个post实时更新comment。交流比较困难。现在内心很忐忑，也不知道面试官能不能手下留情，哎，design确实准备的还不够充分。第一轮 coding，利口 酒舞散 然后follow up过度到 尔溜酒，但尔溜酒是个hard，也跟面试官讨论完算法后，问她这个时间可能会不够的，面试官说没关系，没有写完也没关系，不过最后写完了，因为是codepad，速度上确实容易很多，比白板方便，打字快。
+
+第二轮 BQ + coding，最proud的project，期间go through 一些detail 问题，比如为什么proud, 具体metric怎么得到的，proposal怎么做出来的，design决定是谁来决定，然后问了重点问了conflict，和没有data的情况下，发生不同意见要怎么办。coding 是给一个list of string，问最长的buildable string是哪个，buildable 意思是所有prefix都在这个list里，比如 car，c, ca, car都在这个list里。面试官表示不要求最优解，短时间写出来就可以，把input build成hashmap, 在一个个看list里的string， check每一个prefix就可以。第三轮coding，利口 扒扒，和利口 期扒舞
+
+前三轮都非常好，第四轮design真正体现出了virtual面试的弊端，design live comment system, 就是读者打开一个post，要能看到这个post实时更新comment。交流比较困难。现在内心很忐忑，也不知道面试官能不能手下留情，哎，design确实准备的还不够充分。
+
+
+第一轮:
+1. 题库网 易灵尔溜
+2. 题库网 漆漆叁变种, 给的矩阵是n x n的
+
+第二轮:
+系统设计 YELP
+
+第三轮
+1. 给一个二叉树, 找到离给定节点最近的任意一个叶节
+2. 题库网易灵灵肆
+
+第四轮
+各种常规BQ
+写了一题 题库网酒伞扒
+
+
+
+1. 2sum 变种 + 一个bfs
+2. pow(x, n) + 一个dp
+3.bq + 一个bfs
+(具体题目实在太简单想不起来了😂。。。但一定是LC他家tag下的原题)
+4. design a shceduler ...楼主system很弱。。就感觉懵懵的。。。胡扯了一通后来和大佬讨论了一下感觉应该按照kubenates cluster那一套说。。
+
+
+
+1st - Coding.  
+LC1249. Minimum Remove to Make Valid Parentheses
+find the previous node in binary tree
+2nd - system design.
+design a search service based on location and radius
+3rd - coding.
+LC721. Accounts Merge
+design and implement FIFOQueue with preset sized buffer;
+4th - behavior.
+career discussion.
+what's the project you are most proud of
+what's the constructive feedback ever received from manager; (follow up) what did you do to fix it
+what kind of people are hard to work with
+give an example that you had conflict with others
+give an example that you drive something
+give an example that you work on something with unclear requirements, what did you do
+5th - system design
+design a query service for keywords, such as "seahawks seattle 2020"
+1.5B users, 5M posts
+
+
+
+第一轮 coding： LC 953 Verifying an Alien Dictionary
+LC 269 Alien Dictionary
+
+第二轮coding： LC297 Serialize and Deserialize Binary Tree
+LC127 word ladder
+
+第三轮： behavior
+
+第四轮 design： 给10K台机器 设计crawer 爬 www.example.com的所有网页（总共有1B个网页） 最开始只知道www.example.com 要求爬所有的 不能重复爬
+这一轮答的不好 不管我说啥 都被小印面试官喷成翔
+
+以为肯定挂了 结果HR打电话说可以再来一轮design 于是愉快的再来了一次design
+题目： FB timeline上的post， user能够comment on这个post   一个user的comment要实时的推送的正在看这条post的人
+楼主自认为这轮答的不错 和小印面试官相谈甚欢 HR后来打电话说这轮feedback还是不够strong 问想不想再来一次design interview
+
+我惊呆了 还可以这么操作？ 那就来吧
+
+这次设计instgram 这个题目准备过 和面试官欢声笑语中度过 第二天通知过了
+
+真是一波三折 还好最后结果是好的
+
+
+
+第一轮：system design。问了很怪一道题。如果你code里有“happy birthday”， 但是现在要根据userLocale 来表达不同语言的版本，你如何来实现。 （schedule 1hr的interview，最后面试官开始前就说45min）
+第二轮：coding：merge iterator of iterator （用了堆），sum two decimal numbers （“3.14” + “0.9”）。 做完第一题花了一点时间go through dry run （Facebook 的coder pad不能运行， 面试官也不懂python），第二题还先聊了一下思路，结果写完就没时间了
+第三轮：coding：fast product of two vectors; max overlapping intervals
+第四轮：behavor： 纯behavor 聊过往经历。 （我觉得fb的behavior和其他家还是蛮不一样的， 还会问你过往失败的经历
+
+
+
+还没出结果，自我感觉已挂，发面经给之后的面试攒人品
+
+第一轮：第一题利口一九九，先给了BFS解法，写完让我用DFS写；第二题利口四三，我硬是没刷过这题，当场想脑子真的打结了，给了不是最优解
+第二轮：一上来就说只面一题，给我一堆单词，然后让我从这个里面搜索，被搜索单词是可能含有wildcard的，感觉就是二一一。写完了她没让我跑测试，直接问问题了，问我给你一个单词正着搜和反着搜哪个慢，为什么，我很懵逼，回答她不满意，后面问了时间复杂度
+第三轮：一堆behavior问题，最骄傲的项目，怎么解决冲突，老板对你最有建设性的意见是什么。中途面试官掉线了，然后再上来他不开摄像头，就我一个人在那里凌乱。后面出了一题，说给你一个有环的双向列表，要我排序
+第四轮：让我设计买票系统，从前端UI到后端DB全问到，问的我都佛系了
+
+虽然我面的不好，不过还是有点经验可以告诉大家
+1. 面试之前他家猎头就跟我说不会考难题，所以我建议准备面他家的，如果时间允许争取能把他家简单到中等难度的近六个月题都刷了，千万不要碰到了原题还写的不好，譬如我，已昏倒
+2. behavior问题还是要事先准备，我面试前都把重心放在了刷题和系统设计，一点没准备behavior，以为临场发挥就好了呢，结果证明不是很好，再昏一次
+3. 系统设计推荐有条件的可以买一下grokking the system interview看看，真的讲得很好。只可惜，我看了那么多章，唯独没看买票系统那章的讲解，心想他家肯定不考这个吧，结果就考到我了，第三次昏倒
+4. 事实证明实力不够运气凑，运气也不好的话那就没救了，我昏死过去了
+
+
+补充内容 (2020-4-16 23:10):
+楼下有大神被考到hard题了，对于上面的建议我想补充一下的就是，因为我真的不是大神，相比搞清那些难题，对于我来说能保证简单和中等程度的题能立马给出最优解比较符合实际，加上猎头之前有跟我说不会考难题，所以我的建议仅供大家参考，还请结合自己实际情况。
+
+补充内容 (2020-4-26 15:15):
+多刷了几天题看了几天面经之后发现，我被面到的题相比其他大佬来说真的是算简单的了，没有什么好惋惜了🤦‍♀️
+
+补充内容 (2020-4-29 23:40):
+确认已挂。想要吐槽一下他家猎头，我面完两周多还不给消息，直到我忍不住了去问就立马告诉我你挂了，不然怎的，你还打算默拒不成。没想到无论什么样的公司都有这么不professional的猎头。整体来说他家vo面试体验不是很好，任何卡壳都导致面试官看我像看一傻子的感觉，再加上拖着不给消息想默拒，真的有点无语。
+
+1. 刷题网二三八 + 一五八变体 要求 用read4000 实现 readline
+2. BQ 加 二七三
+3. 设计WhatsApp的crash log信息收集系统 + 分析系统
+4. 稀疏向量inner product + 刷题网二十 （这轮的确过分简单...）
+
+四轮：
+1. 第一道太简单，忘了。。。。第二道是valid bst。看了第二道就知道第一道多简单了。
+2. bq轮，都是地里的常见问题，聊的很开心。
+3. valid number，主要在于挖掘requirement。聊的非常好，但只做了这一道题。
+4. 中国老哥，据我referrer说前两天他们还在一起debug，水平非常高。老哥以前做数据库的，题也非常厉害，假设做一个新产品叫Facebook player，每天播放前七天用户播放次数最多的十首歌曲。应该就是死在这一轮了，数据库设计没能给出最优解。如果有熟悉wide column db的老哥欢迎在这留言。
+
+面完感觉是只要最后一轮不出事就过了，没想到三天就给了拒信。。。估计连hc都没进。。。。完全不明白为什么，以后再试吧。。。。
+
+Onsite:
+1. 一道array easy，一道中等难度并查集。和一个中国人面试，25分钟做完了，所以之后聊的挺开心。
+2. 就记得有道和parenthesis相关的中等难度题，要求用两个方法解。面试官是一个日本小哥，挺有意思的人。问了他work life balance，他说自己挺lazy的，每天朝9晚5，不知道是不是真的。
+3. behavioral,中国面试官，没什么好说的，准备几个case就行。都是典型的问题， 像 conflict或者是proud project。
+4. system design，题目也是高频题吧，答得很不好， 主要是紧张了，其实题目也看过。当场就觉得跪了，之后果然加面了system design。面试的是中国老哥，看上去就很厉害的样子..感谢这位老哥给了加面的机会..
+
+加面
+1. 面试是韩国人，这次没有紧张，慢慢的说，最后过了。当场韩国老哥就说我messed up something in previous round，这次让我过了。 然后劝我去脸书，说了各种脸书的好。小插曲是我用了aww.app，结果这个网站一塌糊涂，我画的经常他看不到。我选aww.app主要是快捷键方便，大家还是用google doc吧，虽然难用了点。
+
+
+3.26面的，平复了一下心情来分享一下面试过程，面试过程感觉都很好算法基本都秒了，最后被拒虽然很不解，但没办法，继续努力吧。VO 面完加试了一轮coding，说明coding面的有问题，但是实在不知道为什么，hr表示不能分享反馈。
+
+1. coding
+巴十巴，贰拾叁
+
+2. coding
+longest increasing sequence in binary tree
+尔一一
+average process runtime from process logs
+
+3. bq
+
+4.design
+post with live comments
+
+加面
+意灵二流
+齐齐三
+
+
+1. 国人大姐。
+1.1 给BST，节点值double；再给一个double目标数，返回一个节点，此节点包含的值和目标最接；
+1.2 给一个整型数组，再给一个目标值，返回True若此数组中包含一个连续子数组，且子数组的和与目标值相等；
+
+2. 老美大哥，全程bq；
+
+3. CBC小哥，设计一个类似spotify的应用中的一个功能：为每个用户显示其过去7天播放次数最多的10首歌；
+
+4. 国人小哥。李口273。
+
+
+
+
+3.26面的VO，4.9收到电话说过了
+里寇 唔斯散 寺尔
+bq + 里寇 唔流
+里寇 尔酒期
+吸桶舍鸡  自洞补权/typeadhead
+
+楼主只有1年1个月经验，当时直接撩的hire manager，最后给了4，所以各位不要看到自己yoe不够就不敢去试呀～
+
+希望疫情早点过去好想出去玩  T_T
+
+
+1.要三流 要三器2.行为 二三五
+3.山久吧 变体
+4.意林二刘  时刘
+5.live comment
+
+
+
+Virtual4轮, 早上10点开始，限时15分钟和HR set up，每轮45分钟，早上两轮，下午两轮 ， 午餐休息45分钟
+1. coding ： 类似LC138 copy list with random ptr, 面试官晚来了10分钟，只来得及做了一道题目
+
+2. BQ 轮，和EM聊了project，有什么难以合作的Peer， 收到什么constructive feedback，给过别人什么feedback，最challenge的project
+
+Lunch Break
+
+3. coding： LC 734 string similarity  LC 839, similar String Groups, 剩下20分钟的时候开始写后面这个hard ，火急火燎的写完
+4. Design ：设计一个Auto search suggestion +  top K 常见题目 用Trie + hashMap 存prefix 解决
+
+
+
+
+
+
+BQ
+cross team product，
+collaboration skills，
+resolve conflicts
+项目的挑战，与同事意见不同怎么办，manager意见不同，如何处理out of scope的事等等
+介绍自己，骄傲项目，遇到冲突怎么办
+介绍一个Project，冲突，犯得错误
+most proud projects, and challenges, have different opinion with your coworker
+ proud project, disagree, ambiguous requirement, role model, constructive feedback.
+Current role, constructive feedback, disagreement, technical challenge, 再给一次机会怎么应对这个challenge。 
+问你过往失败的经历
+老板对你最有建设性的意见是什么
+最proud的project，期间go through 一些detail 问题，比如为什么proud, 具体metric怎么得到的，proposal怎么做出来的，design决定是谁来决定，然后问了重点问了conflict，和没有data的情况下，发生不同意见要怎么办。
+有什么难以合作的Peer， 收到什么constructive feedback，给过别人什么feedback，最challenge的project
+没有资源又要下决定怎么办，不喜欢和哪类同事共事等
+怎样应对压力，沟通问题
+
+
+
+
+
+
+System
+Facebook newsfeed API design
+共享照片的系统 设计ins
+design instagram的upload, follow/unfollow以及newsfeed的功能
+设计yelp
+设计fb 好友在线状态的系统
+设计搜索帖子的功能
+geohashing相关 design a service that returns top places for a user
+https://docs.google.com/drawings/d/1EG2e_X9qW7FPl6wXJvyCWeHf3UTi60JX6Ct5M_lIe9g/edit
+homefeed API design
+
+
+top K popular songs in the past 7 days
+设计一个线上写码竞赛 主要就讲了一下 简单的产品设计，用户量数据量预估，MVP结构，然后根据不同编程语言做分布式负载均衡，单实例线程隔离可以用Docker的思路，根据hash做sharding，排序用wide-colum，Redis做数据库缓存，再加实例缓存和热点缓存（排名高的）和异步排名计算等等
+System Design: Web Crawler. Three Requirements: 1. Download HTML only. 2. No duplicte URL. 3. Evenly distribute jobs among 10,000 machines.
+
+
+设计WhatsApp的crash log信息收集系统 + 分析系统
+logging 系统
+
+4. 网络爬虫。需求：1. 下载网页 2. 不要重复扒 3.一个node的traffic不要太多  值得注意的点：1.我一上来overdesign了，面试官说这些都是follow up的内容，然后重新画了一遍精简的图 2. 面试官希望不用db 3. how to dispatch tasks.
+
+design 设计一个游戏的排名统计系统 有几个要求
+    1. 可以查看自己的排名和分数 然后和自己前面和后面xxx名的排名和分数状况
+    2. 可以查看你和你朋友之间的排名情况
+    3. 查看global top 10
+
+设计一个steam的downloader，只讨论client端，需要写出来具体的你的api怎么设计的 然后需要处理各种情况比如断点续传 怎么处理下载的文件很大之类的
+
+第一轮：system design。问了很怪一道题。如果你code里有“happy birthday”， 但是现在要根据userLocale 来表达不同语言的版本，你如何来实现。 
+
+
+
+经典的translation题
+让我设计买票系统，从前端UI到后端DB全问到，问的我都佛系了
+
+
+1. 系统设计：设计一个系统，搜索任意一个地点周围某个半径内的建筑/business；设计newsfeeds。
+
+ FB timeline上的post， user能够comment on这个post   一个user的comment要实时的推送的正在看这条post的人
+楼主自认为这轮答的不错 和小印面试官相谈甚欢 HR后来打电话说这轮feedback还是不够strong 问想不想再来一次design interview
+
+ 给10K台机器 设计crawer 爬 www.example.com的所有网页（总共有1B个网页） 最开始只知道www.example.com 要求爬所有的 不能重复爬
+Instagram
+设计一个Auto search suggestion +  top K 常见题目 用Trie + hashMap 存prefix 解决
+typeadhead
+
+
+
+一轮system design：设计fb 好友在线状态的系统
+应该就是design挂了，有一个点不太会：naive的设计是，当一个user A下线的时候，找到她所有在线的好友，然后push notification给他们，让他们知道user A下限了。当时面试官说同时可能有很多人上下线，这样造成太多的notification，怎么优化？
+我感觉periodic pull肯定不行吧，所以只能push啊
+Design component of Ins. One user typing comments, others are shown "Someone is typing".
+
+
+设计一个类似spotify的应用中的一个功能：为每个用户显示其过去7天播放次数最多的10首歌；
+Facebook player，每天播放前七天用户播放次数最多的十首歌曲
+
+短小的链接 设计
+
+第三轮，设计。分布式爬虫，10k台机器去爬取1b URL from 1 seed URL，要求机器间通讯最小，不重复下载。
+
+第三轮：设计一个msg post系统，主要就是post/retrieve/search。讨论了一下interface，怎么储存，等等。
+
+设计一个facebook的搜索引擎，这个引擎能搜索出包含关键字的facebook动态， 需要着重谈谈存储 和data flow
+一个视频网站
+
+design a distributed web crawler，因为是使用肉机去crawl，所以希望minimize networking between那些肉机。hint了一番之后，大致弄出了一个solution，重点就是hash的机制去把不同的url hash到不同肉机上，这样就不需要coordinate谁去下载哪个link
+
+设计一个price tracking的系统来并通知用户如果某个东西的价格降低了
+
+题目是design code contest system。目标要求不高，需要支持5个active contest，每个contest有1000人在线。这一轮我自认为没有问题，但事后recuiter告诉我也挂了，我非常郁闷。。
+
+打开facebook的首页，里面返回一堆post的list。假设后台已经设计好了。让你设计前端调用后台的API的interface。 比如，需要几个API？每个API的功能是什么？输入是什么？输出是什么？其实也是经典的设计题。但是面试的三哥是搞后台的。毫无提示。你问他，他就是问你，你觉得呢
+/

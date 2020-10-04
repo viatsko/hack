@@ -1,0 +1,94 @@
+LinkedList：
+
+链表的常规操作：
+1. Insert a Node in Sorted List
+2. Remove a Node from Linked List 删除节点一般都是把cur.next等于要删除的节点，这样就可以直接cur.next = cur.next.next
+3. Reverse a Linked List
+	public ListNode reverse(ListNode head) {
+    	ListNode pre = null;
+    	while(head != null){
+    		ListNode temp = head.next;
+    		head.next = pre;
+    		pre = head;
+    		head = temp;
+    	}
+    	return pre;
+    }
+4. Merge Two Linked Lists
+	public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+       ListNode head1 = l1;
+       ListNode head2 = l2;
+       ListNode dummyHead = new ListNode(0);
+       ListNode finalHead = dummyHead;
+       while(head1 != null && head2 != null){
+           if(head1.val > head2.val){
+               dummyHead.next = head2;
+               head2 = head2.next;
+           }else{
+               dummyHead.next = head1;
+               head1 = head1.next;
+           }
+           dummyHead = dummyHead.next;
+       }
+       
+       if(head1 != null){
+           dummyHead.next = head1;
+       }
+       if(head2 != null){
+           dummyHead.next = head2;
+       }
+       
+       return finalHead.next;
+       
+       
+    }
+
+5. Middle of a Linked List
+    ListNode slow = head;
+    ListNode fast = head.next;
+    while(fast != null && fast.next != null){
+        slow = slow.next;
+        fast = fast.next.next;
+    }
+
+6. 快慢指针，快指针先走n步
+int n = aL - bL;
+ListNode fast = head;
+ListNode slow = head;
+while(n != 0){ //fast.next是距离n
+   fast = fast.next;
+   n—;
+}
+
+
+7. Dummy node
+
+Dummy = new node
+Cur = head
+Pre = dummy
+
+while(cur != null) {
+
+Pre = cur
+Cur = cur.next
+}
+
+
+Return dummy head
+
+
+LC 题目：
+
+143. Reorder List （Middle of the Linked List. -> Reverse Linked List. -> Merge Two Sorted Lists.）
+708. Insert into a Sorted Circular Linked List （pre, cur两指针循环，判断插入的两种情况，在一般位置和比最大大或比最小小）
+138. Copy List with Random Pointer (递归)
+25. Reverse Nodes in k-Group
+24. Swap Nodes in Pairs (创建dummyhead然后每次反转dummyhead.next和dummyhead.next.next)
+1019. Next Greater Node In Linked List （stack题目）
+148. Sort List （merge sort）
+160. Intersection of Two Linked Lists (Y型指针找分叉点，a走到头到head b走，b走到头到head a走)
+19. Remove Nth Node From End of List （快慢指针，快的先走n步,edge case判断是不是要删除头结点）
+ 
+
+
+

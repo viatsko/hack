@@ -1,0 +1,96 @@
+系统设计(数据库)
+
+用户系统（读多写很少，一定要用cache优化）：
+查询 qps(query per second)
+注册 登录 查询      用户信息修改
+         需求量最大
+举例比如平均 100， peak为300
+
+QPS大小决定数据库的选择
+
+AuthService
+UserService
+FriendshipService
+
+
+• MySQL / PosgreSQL 等 SQL 数据库的性能
+• 约 1k QPS 这个级别
+• MongoDB / Cassandra 等 硬盘型NoSQL 数据库的性能 （出现的目标就是比sql快！）
+• 约 10k QPS 这个级别 （
+• Memcached / Redis 等 内存型NoSQL 数据库的性能 （Memcached没有持久化，Redis有持久化）mem-cache与memcached(查询工具)
+• 100k ~ 1m QPS 这个级别
+• 以上数据根据机器性能和硬盘数量及硬盘读写㏿度会有区别
+
+
+Cache 一定是存在内存中么？
+• 不是
+• Cache 这个概念，并没有指定存在什么样的存储介质中
+• File System 也可以做Cache
+• CPU 也有 Cache
+
+• Cache 一定指 Server Cache 么？
+• 不是，Frontend / Client / Browser 也可能有客户端的 Cache（浏览器会cache图片）
+
+
+先从cache删，再从db删，防止db先删之后断电，cache里还有，在查询的时候就会返回假数据
+cache里面不set，保持single source of truth，数据库永远是正确的
+
+
+AuthService
+用户 Login 以后
+• 创建一个 session 对象
+• 并把 session_key 作为 cookie 值返回给浏览器
+• 浏览器将该值记录在浏览器的 cookie 中 （cookie就是浏览器端的hashmap，每个网站有自己的value）
+• 用户每次向服务器发送的访问（所有任何访问，不一定只是登录），都会自动带上该网站所有的 cookie （cookie太大，requst会失败）
+• 此时服务器检测到cookie中的session_key是有效的，就认为用户登陆了，靠expire决定用户三个月之内不用登陆
+
+UserService（读多写少）
+单向好友，双向好友
+双向好友存两条 a关注b b关注a，因为是读多写少，这样更好
+缺点存了a关注b,忘了存b关注a，data inconsisnt（不同的数据库不能用transaction）
+
+数据库选择
+大部分情况sql/no sql都可以用，注意Nosql不支持transaction！！数据一致性没有保证
+Nosql不支持(Serialization, Multi Indexes）
+写多读少不考虑硬盘，nosql快，他就是不停地append在后面（一开始nosql出现就是为了写Log的）
+所有no sql第一层的key是不支持range query的
+sql的schema是预先定义好的，不能随意添加
+nosql的colunmn_key是动态的无限大
+
+Cassandra 
+三层结构的no sql数据库 row_key（就是hash_key） column_key（排好序的，可以range query） value
+
+time stamp，什么时候关注的
+
+
+single point failure
+sharding 鸡蛋不要放在一个篮子里
+replica 备胎
+
+数据拆分 Sharding
+• 按照一定的规则，将数据拆分成不同的部分，保存在不同的机器上
+• 这样就算挂也不会导致网站 100% 不可用
+数据备份 Replica
+• 通常的做法是一式三份（重要的事情“写”三遍）
+• Replica 同时还能分摊读请求，写还得三次，读就可以分开了
+
+SQL型数据库为例，如果实现sharding和replica（Nosql都帮你做好了！不用自己干可以偷懒）
+Sharding 简单的vertical sharding（不同的table放到不同的数据库）缺点是什么？对于单张表访问量很大时候，没用！
+		 复杂一点的vertical sharding （见课件）
+
+		 Horizental sharding, 最简单的方法就是找某个id去%10(不一致性哈希),分在10个机器里，最大的问题就是加一个机器%11的话就不行（见课件）
+
+一致性哈希（Consisteng Hashing）
+360度 = 圆，环，红黑树实现的（treemap自平衡的bst）
+简单的consistent hashing（找大的环切一半）的缺点，分配的可能不均匀有的机器多有的机器少（见课件）
+好一点的就是 十个机器变到十一个机器每个机器分十分之一给新的
+
+Replica
+Master一个slave两个，读和写都可以在master，读也可以在slave,slave分担读，写只能在master。
+write ahead log，什么时候做了什么事，存在硬盘上。master每次有任何操作的时候就叫slave去读log
+缺点是不一致性，因为slave写会有延迟，所以读东西时候数据有可能不一样
+
+
+
+
+

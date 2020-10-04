@@ -1,0 +1,166 @@
+Dynamic Programming
+
+动态规划为什么快？去掉了重复的计算
+什么情况下用动态规划：求最大值最小值，判断可行性，求方法个数
+什么情况下不用动态规划：输入是集合但不是序列（无序的，可以随意换输入数列的位置，例外是背包类dp）
+					暴力算法的时间复杂度已经是多项式级别（擅长把指数级别的复杂度2n，n!优化到n2,n3）
+					求所有具体的方案不是方案个数
+两种方法：多重循环 vs 记忆化搜索（缺点是递归）
+考的概率：
+	坐标型动态规划 15%
+	序列型动态规划 30%
+	双序列动态规划 30%
+	划分型动态规划 10%（算法强化班）
+	背包型动态规划 10% （算法强化班）
+	区间型动态规划 5% （算法强化班）
+
+二维数组全部初始化第零行和第零列,初始第零列的时候注意不要覆盖a[0][0]
+循环第一层一般是从i=1开始，因为0位置已经初始化过了
+
+坐标型dp
+64. Minimum Path Sum （You can only move either down or right at any point in time.）
+62. Unique Paths
+63. Unique Paths II
+70. Climbing Stairs
+55. Jump Game
+45. Jump Game II
+300. Longest Increasing Subsequence //初始化所有都是1，因为不知道哪里是最后结果的起点，所以所有都要初始化
+935. Knight Dialer n3 三维dp通过交换两个2维dp数组实现
+983. Minimum Cost For Tickets 循环365天，要出行的那天就是 dp[i] = smin(i-7, I-5, i)
+1027. Longest Arithmetic Sequence
+673. Number of Longest Increasing Subsequence
+
+数组
+ boolean[] can = new boolean[nums.length];
+        can[0] = true;
+        //循环起始可能是0也可能是1
+        for (int i = 1; i < nums.length; i++) {
+            for (int j = 0; j < i; j++) {
+                if (can[j] && j + nums[j] >= i) {
+                    can[i] = true;
+                    break;
+                }
+            }
+        }
+
+矩阵
+for(int i = 0; i < dp.length;i++){
+            for(int j = 0; j < dp[i].length; j++){
+                if(i == 0 && j == 0){
+                    dp[i][j] = grid [i][j];
+                }
+                else if(i==0 && j !=0){
+                    dp[i][j] = grid[i][j] + dp[i][j-1];
+                } else if (j==0&&i!=0){
+                     dp[i][j] = grid[i][j] + dp[i-1][j];
+                } else {
+                    dp[i][j] = grid[i][j] + Math.min(dp[i-1][j],dp[i][j-1]);
+                }
+
+            }
+        }
+
+
+开n大小的数组dp[n]
+dp[x]表示从起点走到坐标x
+dp[x][y]表示从起点走到坐标(x,y)
+没有给起点的话就是之前任意点到当前坐标
+答案 dp[n-1]
+
+
+
+
+
+
+单序列型dp 
+139 Word Break
+91. Decode Ways
+        for(int i = 2; i <= s.length() ;i++){
+            if(valid(s.substring(i-2, i)))
+                dp[i] += dp[i-2]; 
+            if(valid(s.substring(i-1, i)))
+                dp[i] += dp[i-1];
+        }
+
+
+
+开n+1大小的数组dp[n+1],dp[i]表示前i个字符，0的时候（前0个字符）当做空串初始化
+n vs n+1
+
+ boolean[] dp = new boolean[s.length() + 1];
+ dp[0] = true;
+ //从dp[1]开始填,填到dp[n+1]
+ for(int i = 1; i <= s.length(); i++){
+ 	for(int j = 0; j < i; j++){
+    //取决于前j个字符是不是一个单词和j+1到i是不是一个单词，这里实际上是要找从第j+1个字符到第i个字符，所以换为下标就变成了j,i-1,然后substring不算最后一个，就变成了j,i
+    	String temp = s.substring(j,i);
+    	dp[i] = dp[i] || dp[j] && wordDict.contains(temp);
+    }
+  }
+答案dp[n]
+
+
+双序列型 题目给你两个字符串，也是定义前ij个字符满足不满足要求，定义为dp[m+1][n+1]
+
+
+区间类 第一层循环是区间长度 length = 0 length < n，第二层区间是起点到该区间末尾 start + length < n
+       for(int length = 2; length < dp2.length; length++){
+	            for(int start = 0; start + length < dp2.length; start++){
+	                if(dp2[start + 1][start + length -1] == false){
+	                    dp2[start][start + length] = false;
+	                }else{
+	                    if(s.charAt(start) == s.charAt(start + length)){
+	                        dp2[start][start + length] = true;
+	                    }else{
+	                        dp2[start][start + length] = false;
+	                    }
+	                }
+	            }
+	        }
+
+正方形类dp
+dp[i][j] 定义为在i,j位置为右下位置，向左上拓展的最大正方形的边长
+所以 dp[i][j]依赖于dp[i-1][j-1],还有向左边[i-1][j]的矩形，和向上面[i][j-1]的矩形三个值得最小值
+221 Maximal Square
+304. Range Sum Query 2D - Immutable 先算dp矩阵，为以i,j为右下点的矩阵和
+
+长方形类dp
+
+划分类dp（是单序列的优化，单序列全部都是on2的复杂度两层for循环，这里优化为n）
+53.Maximum Subarray
+152. Maximum Product Subarray
+
+global[i]表示全局前i个元素满足条件的最大值，不管i选或不选
+local[i]选了第i个元素，满足条件的最大值
+初始化:local[0] = global[0] = nums[0]
+状态更新: local[i] = Math.max(nums[i], nums[i] + local[i-1])
+		 global[i] = Math.max(global[i - 1],local[i])
+答案: global[n-1]
+
+
+背包类dp
+322. Coin Change
+416. Partition Equal Subset Sum
+题目特点：给一个背包的体积上限
+f[i][S] 前i个物品，取一些能不能使得和为S
+初始化第一行第一列：
+f[0到i][0] = true; 前0到i个物品可以取使得和为0，什么都不取就可以了
+f[0][1到target] = false; 只拿0个物品，不能组成和为1...target
+状态更新：f[i][S] = f[i-1][S - a[i]] or f[i-1][S]
+		 取第i个 f[i-1][S - a[i]]
+		 不取第i个 f[i-1][S]
+答案：检查所有的f[n][j]（扫描最后一列）
+
+博弈类dp
+292. Nim Game
+会有两个人，一般只认准一个人的状态定义方程（先手），后手不考虑
+
+dp[i]现在还剩i个硬币，先手输赢的情况
+初始化 dp[n+1];
+状态更新： dp[n] = (dp[n-2]&&dp[n-3])) || (dp(n-3)&&dp(n-4))
+先手拿了一个，后手拿了一个，现在轮到先手还剩下n-2个硬币
+先手拿了一个，后手拿了两个，现在轮到先手还剩下n-3个硬币
+这两种情况只要有一个情况是输的，后手就会采取相应策略，先手就会输，所以是与的关系
+先手拿了两个，后手拿了一个，现在轮到先手还剩下n-3个硬币
+先手拿了两个，后手拿了两个，现在轮到先手还剩下n-4个硬币
+答案 dp[n]

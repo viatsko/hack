@@ -1,0 +1,56 @@
+Stack/Queue
+636. Exclusive Time of Functions
+stack里存process id，时间不存
+用一个int[] res记录每个process的时间，然后pre = 0, I =1循环看见start就把到上一个start的时间间隔算出来加到上一个的res的位置然后push现在这个start，看见end就pop
+227. Basic Calculator II
+遇到数压栈，遇到符号把栈顶的数拿出来计算再放回去，最后把栈里面的数都加起来就是答案
+数有可能有多位
+ int num = 0;
+ char sign = '+'; 初始化为加号
+ for(int i=0;i<len;i++){
+        if(Character.isDigit(s.charAt(i))){
+            num = num*10+s.charAt(i)-'0';
+        }
+       if((!Character.isDigit(s.charAt(i)) &&' '!=s.charAt(i)) || i==len-1){
+            if(sign=='-'){
+                stack.push(-num);
+            }
+            if(sign=='+'){
+                stack.push(num);
+            }
+            if(sign=='*'){
+                stack.push(stack.pop()*num);
+            }
+            if(sign=='/'){
+                stack.push(stack.pop()/num);
+            }
+            sign = s.charAt(i);
+            num = 0;
+        }
+
+
+341. Flatten Nested List Iterator
+
+开始压栈所有nestedinteger,在hasNext时候pop如果还是nestedinteger就打散压栈，while一直到Pop出integer为止
+
+ @Override
+    public boolean hasNext() {
+        while(!stack.isEmpty()){
+            NestedInteger temp = stack.peek();
+            if(temp.isInteger()){
+                return true;
+            } else {
+                stack.pop();
+                for(int i = temp.getList().size() -1; i >=0; i--){
+                    stack.push(temp.getList().get(i));
+                }
+            }
+        }
+        return false;
+    }
+
+
+20. Valid Parentheses
+弄个map key是左括号，value是右括号，遍历时候看每个char map.keySet().contains()还是map.values.contains()
+388. Longest Absolute File Path
+1249. Minimum Remove to Make Valid Parentheses

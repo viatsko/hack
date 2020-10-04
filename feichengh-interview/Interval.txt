@@ -1,0 +1,25 @@
+Interval:
+
+从第二个interval开始循环
+int prev = 0;
+for (int i = 1; i < intervals.length; i++) {
+}
+
+
+
+986. Interval List Intersections 双指针，最后哪个截止小，挪哪个
+If A[0] has the smallest endpoint, it can only intersect B[0]. After, we can discard A[0] since it cannot intersect anything else.
+
+56. Merge Intervals 起始时间排序维护一个current interval，注意合并的时候cur的结尾点要求一下math.max(新进来的点的end和现在的end)
+
+253. Meeting Rooms II
+treeMap解, key 时间点， value需要的房间数,每个时间点开会加一，开完会减一，最后遍历一遍map看看最大的value
+452. Minimum Number of Arrows to Burst Balloons
+维护minEnd, 每次看现在的start和min end想不想交，如果有俩interval相交，射一箭，minend要等于两个最小的那个end，可以画图证明，因为下一个气球起始点只有小于前俩气球最小结束点，才能一箭三雕
+
+435. Non-overlapping Intervals
+排序循环看交叉
+if two intervals are overlapping, we want to remove the interval that has the longer end point -- the longer interval will always overlap with more or the same number of future intervals compared to the shorter one
+
+57. Insert Interval
+分三种情况讨论，当前点在要插入点之前，之后和合并

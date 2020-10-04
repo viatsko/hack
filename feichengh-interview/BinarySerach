@@ -1,0 +1,129 @@
+Binary Serach
+T(N) = T(N/2) + O(1) = O(logN) 二分法，通过O(1)的时间把规模为n的问题变成n/2
+T(N) = T(N/2) + O(N) = O(N) 
+
+1.模板
+  把范围不断变小，最后小到可以手动处理
+  start + 1 < end的退出条件是start和end相邻或者相交，所以最后单独分析一下start和end
+  这个模板的好处是，不会错过元素.
+
+  找到第一个满足条件的
+  public int binarySearch(int[] nums, int target){
+  	if( nums == null || nums.length == 0){
+  		return -1;
+  	}
+  	int start = 0, end = nums.length - 1;
+  	while(start + 1 < end){
+  		int mid = start + (end - start) / 2;
+  		if(nums[mid] == target) {
+  			//不能直接return mid; 也不能写成end = mid - 1，因为也许mid就是第一个，这样就跳过了
+  			end = mid;
+  		} else if(nums[mid] < target){
+  			start = mid;
+  		} else {
+  			end = mid;
+  		}
+    }
+	  //先看start是不是
+  	if(nums[start] == target){
+  		return start;
+  	}
+    //再看end是不是  
+  	if(nums[end] == target){
+  		return end;
+  	}
+  }
+
+
+  找到最后一个满足条件的
+  public int binarySearch(int[] nums, int target){
+  	if( nums == null || nums.length == 0){
+  		return -1;
+  	}
+  	int start = 0;
+  	int end = nums.length - 1;
+  	while(start + 1 < end){
+  		int mid = start + (end - start) / 2;
+  		if(nums[mid] == target) {
+  			//不能直接return mid; 也不能写成start = mid + 1因为也许mid就是最后一个，这样就跳过了
+  			start = mid;
+  		} else if(nums[mid] < target){
+  			start = mid;
+  		} else {
+  			end = mid;
+  		}
+  	}
+	先看end是不是
+	if(nums[end] == target){
+  	  return end;
+        }
+        再看start是不是  
+        if(nums[start] == target){
+  	  return start;
+        }
+  }
+
+  找到随便一个满足条件的
+  public int binarySearch(int[] nums, int target){
+  	if( nums == null || nums.length == 0){
+  		return -1;
+  	}
+  	int start = 0;
+  	int end = nums.length - 1;
+  	while(start + 1 < end){
+  		int mid = start + (end - start) / 2;
+  		if(nums[mid] == target) {
+  			return mid;
+  		} else if(nums[mid] < target){
+  			start = mid;
+  		} else {
+  			end = mid;
+  		}
+  	}
+
+  	if(nums[start] == target){
+  		return start;
+  	}
+  	if(nums[end] == target){
+  		return end;
+  	}
+  }
+
+另外一种也可以start < end start = mid + 1/end = mid - 1, 最后不需要判断nums[end] == target只判断nums[start] == target,配套写。
+
+为什么start + 1 < end 好一些呢？可以避免死循环的发生 Last Position of Target
+nums = [1,1], target = 1
+使用 start < end 无论如何都会出现死循环
+如果用start + 1 < end 相邻或相交就退出 保险一点
+
+
+二分位置，在一个数组里找一个满足条件的数的位置(index)
+二分答案，没有数组（sqrt(x)）
+
+2. 二维数组换为一维数组
+   如何把mid转换到二维数组上
+
+74. Search a 2D Matrix
+   int start = 0, end = n * m - 1;
+   iint mid = start + (end - start) / 2
+   int row = mid / m;
+   int col = mid % m;
+
+3. Search in big sorted array，太大了右边界end找不到
+   找第一个比target大的位置当做end，index不停地乘以2来找
+   int index = 1;
+   while(nums[index] < target){
+   		index = index * 2;
+   }
+   这一步的时间复杂度是 log(target)
+4. 二分答案
+   sqrt(x) 乘法时候int会溢出，要变成long
+
+
+
+287. Find the Duplicate Number
+1060. Missing Element in Sorted Array
+611. Valid Triangle Number
+二分答案
+875. Koko Eating Bananas
+

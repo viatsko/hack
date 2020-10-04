@@ -1,0 +1,59 @@
+系统设计（爬虫，producer comsumer,typeahead）
+
+整个互联网就是一个大表，url - > 网页内容（字符串）
+怎么样得到这个表？ web crawler去爬整个url 
+这个图就是url互相连接到对方的有向图
+搜索引擎就是宽度优先这张图（见ppt），可以多线程，distributed。深度搜索坐不了这个事
+一周要重新抓一次，人家网页更新了搜索结果也要更新
+
+时间难点，一秒抓一百六十万个网页
+空间难点，假设一个网页10k就有10个pb
+
+其实就是实现一个多线程的宽度优先搜索，producer cosumer
+从一个点开始把它内容存起来，再把里面包括的所有另外url放进队列
+
+多线程共享资源
+单台机器多线程爬虫的缺点
+太多线程的缺点，线程切换的消耗很大，一个cpu多个核的时候一个时间只能运行一个线程，100个线程轮着来。
+端口总共65535个，线程不能比这个数目还多。
+单台机器带宽也有限制。
+
+
+Type ahead:
+Google suggestion  twitter typeahead
+
+Query Service (in request, out response) 
+(1) db - 1
+存一个表，keyword和hit_count，然后用户打字的时候，用sql like操作返回前十个
+缺点是like操作太慢了，因为like其实就是一个range query，慢
+（2）db - 2
+空间换时间，把表建成 prefix keywords,可以减低一些query time
+“a” "amazon","apple"
+"am" "amazon","amc"
+"ad" "adidas","adobe"
+（3）in memory trie - 1
+每个节点就存现在这个字母，标准的trie
+最后叶子节点存一个额外信息：被搜了多少次
+如果搜以a为开头的单词，暴力枚举，时间复杂度是  O（26^n） n是平均单词长度
+（4）in memory trie - 2空间换时间
+每个节点存上以这个字母开头的所有热门词（个数10个），时间复杂度为O (len (prefix))
+更新数据结构的时候会多花一些代价
+
+问题是内存的trie断了电就没了，要在磁盘里面存一个serialized副本 （serilize deserilize tree类似）
+
+Data Collection Service 负责收集高频词，定期一运行更新高频词
+记录谁谁谁在什么时候搜了一个什么词,非常大的一个表
+做group by操作，计算每个词和hit count
+更新trie时候用户query会受影响，所以先克隆一个改。
+
+如何衡量这个系统的好坏呢？响应时间和结果质量
+如何再提速？ brower cache
+（1）在用户浏览器cache，比如打don时候就把don结果存在浏览器缓存里，后来用户打donab，删了ab又变成don的时候，就不用再去向服务器要了。
+（2）提前抓取，提前抓1000个热门词存在本地
+
+
+
+
+
+
+

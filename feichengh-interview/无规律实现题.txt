@@ -1,0 +1,107 @@
+无规律实现题
+953. Verifying an Alien Dictionary
+
+670. Maximum Swap
+拿个数组记录所有的数最后出现的位置，然后从原数字从头开始遍历，对每个数从9到0开始看，如果比现在数字大并且最后出现位置比现在最后出现位置靠后，交换，得到答案
+
+247. Strobogrammatic Number II
+从中间向两边扩展加1，0，8.注意n就剩2的时候不能加0
+
+825. Friends Of Appropriate Ages
+做个120大小的数组，统计每个年龄都有多少人，然后双重循环，符合条件的count += ageA * ageB
+if (ageA == ageB) ans -= countA;
+
+616. Add Bold Tag in String
+弄一个boolean数组存哪个位置需要加粗
+ for(int i = 0; i < S.length(); i++) {
+            for(int len = Math.min(maxLen, S.length() - i); len > 0; len--) {
+                if(myset.contains(S.substring(i, i+len))) {
+                    for(int k = i; k < i+len; k++) {
+                        bolded[k] = true;
+                    }
+                }
+            }
+ }
+O(n2 * l)
+
+277. Find the Celebrity
+一边循环找candidate,再一遍循环确认这个candidate
+
+463. Island Perimeter
+循环一遍，是岛就加4，然后看上边和左边，如果是岛就剪2
+
+855. Exam Room
+Treeset保证学生位置有序，存学生坐的位置，初始dist = set.first()然后sit时候循环每次维护dist = (现在位置 - pre) / 2，如果大于原有dist,更新dist然后把学生坐在pre + dist的地方，最后别忘了处理最后一个学生和最后一个位置的情况，看看能不能坐人
+
+766. Toeplitz Matrix
+矩阵的对角线和反对角线
+ i = j
+ i + j = n - 1 (如果是正方形)
+ r1 - c1 == r2 - c2 （长方形判断两点在一条反对角线上）
+Hashmap分组，每个斜对角线一组,key是r1-c1 value就是斜对角的值，两层循环一一确认
+
+963. Minimum Area Rectangle II
+坐标系求矩阵面积
+
+
+921. Minimum Add to Make Parentheses Valid
+循环一遍数多于的左括号和右括号
+
+
+157. Read N Characters Given Read4
+
+622. Design Circular Queue
+数组 维护head tail 指针
+进队的时候算好tail位置插入，出队时候算好新的head位置，不用删
+tail = (tail + 1) % size;   head = (head + 1) % size;
+
+118. Pascal's Triangle
+
+443. String Compression
+
+48. Rotate Image
+54. Spiral Matrix
+
+41. First Missing Positive
+
+166. Fraction to Recurring Decimal
+
+280. Wiggle Sort
+//题目对摇摆排序的定义有两部分：
+//如果i是奇数，nums[i] >= nums[i - 1]
+//如果i是偶数，nums[i] <= nums[i - 1]
+//所以我们只要遍历一遍数组，把不符合的情况交换一下就行了。具体来说，如果nums[i] > nums[i - 1]， 则交换以后肯定有nums[i] <= nums[i - 1]
+503. Next Greater Element II
+因为是circular array，需要遍历两次数组
+public class Solution {
+
+    public int[] nextGreaterElements(int[] nums) {
+        int[] res = new int[nums.length];
+        Stack<Integer> stack = new Stack<>();
+        for (int i = 2 * nums.length - 1; i >= 0; --i) {
+            while (!stack.empty() && nums[stack.peek()] <= nums[i % nums.length]) {
+                stack.pop();
+            }
+            res[i % nums.length] = stack.empty() ? -1 : nums[stack.peek()];
+            stack.push(i % nums.length);
+        }
+        return res;
+    }
+}
+
+
+442. Find All Duplicates in an Array
+ When find a number i, flip the number at position i-1 to negative. 
+ If the number at position i-1 is already negative, i is the number that occurs twice.
+
+223. Rectangle Area
+
+311. Sparse Matrix Multiplication
+
+498. Diagonal Traverse
+那么每移动一次，横纵坐标都要变化，向右上移动的话要坐标加上[-1, 1]，向左下移动的话要坐标加上[1, -1]
+
+
+
+287. Find the Duplicate Number
+sort

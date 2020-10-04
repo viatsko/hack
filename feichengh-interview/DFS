@@ -1,0 +1,113 @@
+什么时候用DFS？
+找出所有方案
+
+DFS 90%情况是排列（n!）组合(2n)问题 ---- 基本上都是NP问题
+    另外的问题像 flood fill（number of island），是阉割版的DFS，不回溯，因为这个点被访问然后被标记了，不会再标记回来，所以跟BFS时间复杂度度一样。但是还是会栈溢出
+BFS （m+n） --------基本上都是P问题
+
+为什么有这么大差异？
+BFS 层级遍历，所有的点找一遍
+DFS 所有的路径找一遍
+
+
+
+为什么用深度优先搜索
+
+组合 2的n次方  subset （思维是宽搜，一层一层想，执行起来是深搜）
+排列 n!  permutation  
+都是指数级别的复杂度，要用搜索来做
+
+DFS的时间复杂度通用公式（所有方案数乘以构造每个方案的时间n）
+	组合 n乘以2的n次方
+	排列 n乘以n！
+
+求出所有的答案，基本都是dfs
+
+// DFS,发现回路(返回true)则不可序列化,返回false  
+    for (int i = 1; i <= n; i++) {  
+        if (dfsCheckCircuit(i))  
+            return false;  
+    }  
+  
+// 如果发现回路则返回true,否则遍历结束返回false  
+private boolean dfsCheckCircuit(int current) {  
+    if (walked[current]) {  
+        return true;  
+    }  
+    walked[current] = true;  
+    for (int i = 1; i <= n; i++)  
+        if (digraph[current][i]) {  
+            if (dfsCheckCircuit(i)) {  
+                return true;  
+            }  
+        }  
+    walked[current] = false;  
+    return false;  
+}  
+
+优化dp 重复计算(算过了)，无用计算(return)
+
+
+二分图
+785. Is Graph Bipartite?
+Dfs 需要return turn or false
+
+字符串上的DFS:
+282. Expression Add Operators
+494. Target Sum
+131 Palindrome Partitioning
+301. Remove Invalid Parentheses
+
+无向图DFS
+721. Accounts Merge
+133. Clone Graph
+
+建图
+
+        for(int i = 0; i < edges.length; i++) {
+            adj.putIfAbsent(edges[i][0], new ArrayList<Integer>());
+            adj.putIfAbsent(edges[i][1], new ArrayList<Integer>());
+            adj.get(edges[i][0]).add(edges[i][1]);
+            adj.get(edges[i][1]).add(edges[i][0]);             
+        }
+
+
+Set visited
+for(每个点a : 邻接矩阵graph的key) {
+  if(!visited.contains(a))  
+	dfs(a, visited, graph)
+}
+
+Void dfs(a, visited, graph) {
+判断该不该访问这个点，是不是valid
+visited.add(a)
+访问a
+for(a的所有邻居){
+  if(!visited.contains(当前邻居))
+    dfs(当前邻居, visited, graph) 
+}
+
+}
+
+
+
+399. Evaluate Division
+212. Word Search II
+329. Longest Increasing Path in a Matrix
+419. Battleships in a Board
+1245. Tree Diameter
+
+矩阵上的回溯
+1219. Path with Maximum Gold
+
+Number of island
+323. Number of Connected Components in an Undirected Graph
+
+树上的回溯
+129. Sum Root to Leaf Numbers
+257. Binary Tree Paths
+
+在string的回溯
+17. Letter Combinations of a Phone Number
+491. Increasing Subsequences
+698. Partition to K Equal Sum Subsets

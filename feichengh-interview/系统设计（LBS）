@@ -1,0 +1,90 @@
+系统设计（LBS）
+Design UBER
+核心功能 司机match乘客，可以不要评分系统，收费系统
+
+pull和push的权衡，司机主动汇报位置（pull,像heart beat，服务器如果10秒没收到你的信息，就认为你下线了） vs 服务器找司机要位置（也许司机这时候已经死了，浪费）
+
+pull push就是人多人少，人少push人多pull
+
+主要两个服务
+记录车的位置 geoservice
+匹配打车请求 dispatchservice
+
+用户摇一摇去找dispatchservice，然后dispatchservice去找geoservice要车
+司机的手机端给dispatchservice每四秒汇报自己位置，dispatchservice去找geoservicehttp request, http response回来是有没有人和我match去接单
+
+dispatch service：web server + db (trip table旅程表 读多写少，司机去trip table找有没有乘客)
+geoservice：web server + db(location table存司机位置 写多读少，每四秒汇报)
+
+表单schema
+id 		pk primary key
+rider_id fk User id
+driver_id fk User id
+lat 		float Latitude 纬度
+lng 		float Longitude 经度
+status 		int New request / waiting for driver / on the way to pick up / in trip / cancelled / ended
+created_at 	timestamp
+
+Location Table type comments
+driver_id 	fk Primary key
+lat 		fk 纬度
+lng 		fk 经度
+updated_at 	timestamp 存最后更新的时间，这样知道司机是不是掉线了
+
+如何查询地理位置（如，查询某个乘客周围5公里内的司机）
+简单的：O（N）范围查询，数据库是不能有O(N)搜索的，太慢
+SELECT * FROM Location
+WHERE lat < myLat + delta
+ AND lat > myLat - delta
+ AND lng < myLng + delta
+ AND lng > myLng - delta;
+
+ 正确解：把地图格子化，
+ google s2: 把地图分成2的六十四次方个格子，每个地理位置映射到2……64整数
+ geohash: 把经纬度变成字符串,两个地理位置越近，前面公共前缀越多
+ 比如找5公里附近的车就是找哪个车的geo hash和你位置的geo hash前五个字母一样，五位没车找四位
+ 用sql like query，sql建了index经常改很慢，b+树总变
+
+ no sql hash key row key没法排序就是做sharding用的
+ 用column key存geo hash执行range query
+
+
+ memcache不能数据持久化，redis可以，而且支持list set
+存司机信息就是一个geo hash key, 返回List of 司机
+
+Trip table 和 location table存在redis，user table drive table存在sql
+原来一个table能做的拆成几个table，因为只存id value,具体信息根据id去user table找
+
+不需要transaction，反正每隔四秒都来一遍
+
+司机汇报自己的位置
+• 计算当前位置 lat, lng的geohash
+• geohash4, geohash5, geohash6
+• 查询自己原来所在的位置
+• geohash4’,geohash5’, geohash6’
+• 在Driver Table中更新自己的最后活跃时间
+司机接受打车请求
+• 修改 Trip 状态
+• 用户发出请求时就已经在 Trip Table 中创建一次旅程༌并Match上最近的司机
+• 在Driver Table 中标记自己的状态进入不可用状态
+司机完成接送༌结束一次Trip
+• 在 Trip Table 中修改旅程状态
+• 在Driver Table 中标记自己的状态进入可用状态
+
+
+1. 乘客发出打车请求，服务器创建一次Trip
+• 将 trip_id 返回给用户
+• 乘客每隔几秒询问一次服务器是否匹配成功
+2. 服务器找到匹配的司机，写入Trip，状态为等待司机回应
+• 同时修改 Driver Table 中的司机状态为不可用，并存入对应的 trip_id
+3. 司机汇报自己的位置
+• 顺便在 Driver Table 中发现有分配给自己的 trip_id
+• 去 Trip Table 查询对应的 Trip，返回给司机
+4. 司机接受打车请求
+• 修改 Driver Table, Trip 中的状态信息
+• 乘客发现自己匹配成功，获得司机信息
+5. 司机拒绝打车请求
+• 修改 Driver Table，Trip 中的状态信息，标记该司机已经拒绝了该trip
+• 重新匹配一个司机，重复第2步
+
+

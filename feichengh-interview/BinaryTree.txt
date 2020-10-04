@@ -1,0 +1,201 @@
+Binary Tree
+
+二叉树常规操作
+Serialize and Deserialize Binary Tree
+恢复二叉树重点就是找到根的位置，然后知道什么时候在这条路径下该结束了
+找到根的位置可以依靠level order 或者 前序遍历
+知道什么时候这个路径到达了叶子可以用特殊符号代替”#”
+public class Codec {
+    // Encodes a tree to a single string.
+    public String serialize(TreeNode root) {
+        StringBuilder sb = new StringBuilder();
+        buildTree(root, sb);
+        return String.valueOf(sb);
+    }
+   
+    public void buildTree(TreeNode root, StringBuilder sb) {
+        if(root == null) {
+            sb.append("null,");
+            return;
+        } 
+        sb.append(root.val + ",");
+        buildTree(root.left, sb);
+        buildTree(root.right, sb);
+    }
+
+    // Decodes your encoded data to tree.
+    public TreeNode deserialize(String data) {
+        String[] dataList = data.split(",");
+        return recoverTree(new ArrayList<String>(Arrays.asList(dataList)));
+    }
+    
+    public TreeNode recoverTree(List<String> s) {
+        if(s.get(0).equals("null")) {
+            s.remove(0);
+            return null;
+        }
+        TreeNode n = new TreeNode(Integer.parseInt(s.get(0)));
+        s.remove(0);
+        n.left = recoverTree(s);
+        n.right = recoverTree(s);
+        return n;
+    }
+}
+
+
+Level Order
+class Solution {
+    public List<Integer> rightSideView(TreeNode root) {
+    List<Integer> finalRes = new ArrayList();
+    Queue<TreeNode> myqueue = new LinkedList();
+    if(root == null)
+        return finalRes;
+    myqueue.add(root);
+    while(!myqueue.isEmpty()){
+        int size = myqueue.size();
+        int temp = 0;
+        for(int i = 0; i < size; i++){
+            TreeNode cur = myqueue.poll();
+            temp = cur.val;
+            //这里要注意查空，否则会加一个null节点到队列里面，导致队列的size（）不正确
+            if (cur.left != null) {
+             myqueue.add(cur.left);
+            }
+           
+            if (cur.right != null) {
+             myqueue.add(cur.right);
+            }
+           
+        }
+        finalRes.add(temp);  
+    }
+   return finalRes;
+    }
+}
+
+
+Trie: root什么都不代表，root的儿子才代表第一个字母。
+211. Add and Search Word - Data structure design (search写个递归，遇到.就26个字母都去搜)
+	        if(word.charAt(i) == '.'){
+	            for(int j = 0; j < 26; j++){
+	                if(searchWord(word, t.children[j], i+1)) return true;
+	            }
+	            return false;
+	        }
+
+
+208. Implement Trie (Prefix Tree)
+
+// Running time: 184 ms
+class Trie {
+    class TrieNode {
+        public TrieNode() {
+            children = new TrieNode[26];
+            is_word = false;
+        }
+        public boolean is_word;
+        public TrieNode[] children;
+    }
+    
+    private TrieNode root;
+    
+    /** Initialize your data structure here. */
+    public Trie() {
+        root = new TrieNode();
+    }
+    
+    /** Inserts a word into the trie. */
+    public void insert(String word) {
+        TrieNode p = root;
+        for (int i = 0; i < word.length(); i++) {
+            int index = (int)(word.charAt(i) - 'a');
+            if (p.children[index] == null)
+                p.children[index] = new TrieNode();
+            p = p.children[index];
+        }
+        p.is_word = true;
+    }
+    
+    /** Returns if the word is in the trie. */
+    public boolean search(String word) {
+        TrieNode node = find(word);
+        return node != null && node.is_word;
+    }
+    
+    /** Returns if there is any word in the trie that starts with the given prefix. */
+    public boolean startsWith(String prefix) {
+        TrieNode node = find(prefix);
+        return node != null;
+    }
+    
+    private TrieNode find(String prefix) {
+        TrieNode p = root;
+        for(int i = 0; i < prefix.length(); i++) {
+            int index = (int)(prefix.charAt(i) - 'a');
+            if (p.children[index] == null) return null;
+            p = p.children[index];
+        }
+        return p;
+    }
+}
+
+
+
+
+Leetcode 例题
+BST找前驱后续节点
+173. Binary Search Tree Iterator （找后续，可以先一路把左孩子压栈避免往上赵旉节点，弹出栈的时候，如果被弹出的点有右孩子，把右孩子的所有左子树支路压栈）
+
+
+BFS
+958. Check Completeness of a Binary Tree (一路入队，null也入队，碰到第一个null时候如果队列不空，就不是完全树)
+515. Find Largest Value in Each Tree Row （level order）
+637. Average of Levels in Binary Tree （level order）
+662. Maximum Width of Binary Tree （level order）
+
+Traverse 带着变量一路走下去，变量传入递归式，答案是返回值
+1026. Maximum Difference Between Node and Ancestor 一路记录 max min， 和curNode.val比较，到了null时候return max-min
+112. Path Sum 停止条件是判断到叶子 left == null&&right == null 
+235. Lowest Common Ancestor of a Binary Search Tree 第一个 val 小于小的大于大的
+938. Range Sum of BST
+230. Kth Smallest Element in a BST 不用求出全inorder序列 （bst inorder是排好序的），也是找后续的逻辑
+1123. Lowest Common Ancestor of Deepest Leaves 先求高，左子树高和右子树高相等就是答案，不等去高的地方找
+
+
+public int kthSmallest(TreeNode root, int k) {
+        Stack<TreeNode> s = new Stack<TreeNode>();
+        int res = 0;
+        while(root != null || !s.isEmpty()){
+            while(root!=null){
+                s.push(root);
+                root = root.left;
+            }            
+            TreeNode temp = s.pop();
+            res = temp.val;
+            if(--k == 0) break; 
+            root = temp.right;
+        }
+        return res;
+    }
+
+
+Divide and Conquer 
+669. Trim a Binary Search Tree
+426. Convert Binary Search Tree to Sorted Doubly Linked List 两个两个连 connect (connect (left, root), right)
+236. Lowest Common Ancestor of a Binary Tree
+863. All Nodes Distance K in Binary Tree  
+两个递归式，第一个 L/R返回目前到目标距离长度，如果不存在返回-1 如果等于k加到结果数组，不等于k把另外一边子树的 K - R + 1距离的点加进结果数组 （调用第二个递归式）
+第二个add answer, 把距离为x的点都加到结果数组里
+
+98. Validate Binary Search Tree
+865. Smallest Subtree with all the Deepest Nodes 返回resulttype 结果点和当前深度，如果左子树右子树深度一样，返回result type包含当前点，深度不一样返回深的那个resulttype里面的点和depth + 1
+114. Flatten Binary Tree to Linked List 左边的循环找最右，连在右边，然后连原左子树
+298. Binary Tree Longest Consecutive Sequence 全局变量最终结果，返回左最长右最长，如果当前点和左边不连续，左最长变成1，右边一样，返回以目前点最长的最长，更新全局变量
+
+
+重建树
+109. Convert Sorted List to Binary Search Tree 如果找中点分别建树时间复杂度是o (nlogn)和mergesort一样，把一个事一分为二，每个子问题用n/2时间解决 n/2, 最优的解法是
+1008. Construct Binary Search Tree from Preorder Traversal 递归方程里面维护取值范围，按顺序取一个建点然后递归左右，如果取出这个点不在取值范围内，return null
+105. Construct Binary Tree from Preorder and Inorder Traversal
+449. Serialize and Deserialize BST 注意要是用数组的话index要是全局变量
+297. Serialize and Deserialize Binary Tree

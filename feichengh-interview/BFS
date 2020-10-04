@@ -1,0 +1,97 @@
+图的小知识
+
+树是一种图
+满足n个点n-1条边的连通图 （1个点0个边，2个点1个边...）n-1个边把n个点连起来，肯定没有环
+
+图表示方法：
+Edge set [[0,1],[1,3],[2,5]...] 一般通过这个构造邻接表  
+邻接表(最好) Map<Integer, Set<Integer>> graph
+邻接矩阵（	缺点是存很多0，耗内存，没什么价值）
+
+
+BFS
+矩阵的宽搜不需要构建邻接矩阵，因为邻居就是x-1,y x+1,y x,y-1 x,y+1
+有时候input只有一个点，要由一点复原出图（bfs得到所有的点构建邻接表)  ---- Clone graph (先复制点，再复制边)
+
+
+一个人走棋盘的问题：
+如果一个人走的方向可以是上下 或者向右的话基本就是动态规划
+
+为什么用宽度优先搜索：
+通过一个点，找其他所有的点的时候一般都用宽搜（图的遍历，找连通块）
+求最短路径
+矩阵，有格子是墙，一看就是宽搜
+
+对链接图BFS的时间复杂度：
+O（m+n）其实是O(2m+2n) m边的个数 n点的个数 每个边走两次每个点也走两次
+完全图 每个点都和其他所有点相连 n个点 n方个边 O（n2）
+为什么不是O（mn）
+while (!queue.isEmpty()) {
+	UndirectedGraphNode head = queue.poll();
+        for (UndirectedGraphNode neighbor : head.neighbors) {
+
+For所有的点，然后每个点for所有的neighbours,这两个循环执行完了之后，其实就是遍历所有边(两遍 2m)，所以说o(m)的问题也不大，说m+n就是点很多，只有一个边的情况
+
+
+对矩阵的问题bfs的时间复杂度：
+格子的数量，线性的，别看 o(边的平方=格子数)，其实还是线性的
+
+在图上做宽搜和在树上做宽搜上的最大的区别：
+点和点的关系从父子变成邻居（有向图，父亲只能去儿子/无向图，A到BB，又到A）
+在图上做宽搜的时候需要另外一个hashset的辅助记录哪些点已经访问过了，树不会从儿子走向父亲（环）
+
+
+private ArrayList<UndirectedGraphNode> getNodes(UndirectedGraphNode node) {
+        Queue<UndirectedGraphNode> queue = new LinkedList<UndirectedGraphNode>();
+        HashSet<UndirectedGraphNode> set = new HashSet<>();
+        
+        queue.offer(node);
+        set.add(node);
+        while (!queue.isEmpty()) {
+        //level order时候，这里加套一层for循环，三层循环
+        //level++; 
+        //int size = queue.size();
+        //for(int i = 0; i < size; i ++){
+
+        //}
+            UndirectedGraphNode head = queue.poll();
+            for (UndirectedGraphNode neighbor : head.neighbors) {
+                if(!set.contains(neighbor) && canmove){ //这一步不能判断环，只是判断不是A到B现在B又到A，因为是无向图
+                    set.add(neighbor);
+                    queue.offer(neighbor);
+                }
+            }
+        }
+        
+        return new ArrayList<UndirectedGraphNode>(set);
+    }
+
+图上找离最近的一个点 直接bfs就行，第一个碰到的就是
+图上找离最近的所有的点 level order bfs
+
+拓扑排序
+如果走完了点都删干净了就是可以被拓扑排序
+
+bfs加速？
+如果又给起点又给终点，可以双向优先搜索
+
+bfs可以考虑从矩阵四个边开始，很多要判断流水，包围的问题可以用这个思路
+
+
+跳马的八个方向
+        int[] dr = new int[]{2, 2, 1, 1, -1, -1, -2, -2};
+        int[] dc = new int[]{1, -1, 2, -2, 2, -2, 1, -1};
+相邻的八个方向
+                int[] deltaX = {0,1,0,-1,-1,1,-1,1};
+                int[] deltaY = {1,0,-1,0,-1,1,1,-1};
+四个方向
+
+
+
+1197. Minimum Knight Moves
+286. Walls and Gates 从多个点开始bfs，可以把所有起点全加到queue里在开始bfs
+529. Minesweeper
+127. Word Ladder 用完了remove，转变成char数组方便替换字母
+1091. Shortest Path in Binary Matrix  queue of int[] 
+Queue<int[]> queue = new LinkedList<>();
+queue.add(new int[]{0,0});

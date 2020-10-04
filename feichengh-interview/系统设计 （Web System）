@@ -1,0 +1,93 @@
+系统设计-Web System
+访问GOOGLE.COM发生了什么
+• 你首先访问的是离你最近的 DNS 服务器（美国的用户去美国dns，中国的用户找香港dns）
+	通过DNS解析不同地区的用户到不同的服务器
+	• Domain Name Service
+	• DNS 服务器记录了 www.google.com 这个域名的 IP 地址是什么
+• 你的浏览器然后向该 IP 发送 http/https 请求 （本质是TCP/IP请求有三次握手什么的，区别于UDP）
+	• 每台服务器/计算机联网都需要一个 IP 地址
+	• 通过 IP 地址就能找到该 服务器/计算机
+	域名：
+	主域名是 google.com
+	二级域名是 www.google.com (例如abc.google.com)，作为一个请求的参数传给google.com
+
+服务器(Web Server)收到请求，将请求递交给正在 80 端口监听的HTTP Server
+• 比较常用的 HTTP Server 有 Apache, Unicorn, Gunicorn, Uwsgi
+• HTTP Server 将请求转发给 Web Application
+• 最火的三大Web Application Framework: Django, Ruby on Rails, NodeJS
+• Web Application 处理请求
+• 根据当前路径 “/”找到对应的逻辑处理模块
+• 根据用户请求参数(GET+POST)决定如何获取/存放数据
+• 从数据存储服务（数据库或者文件系统）中读取数据
+• 组织数据成一张 html 网页作为返回结果
+• 浏览器得到结果，展示给用户
+
+
+TinyURL（0-9, a-z, A-Z) 62个字符:
+
+6 位可以表示的不同 URL 有多少？ 
+6 位 = 6^26 = 57 B = 570 亿
+
+只有一个service urlservice
+两个方法 urlservice.encode()
+		urlservice.decode()
+
+
+访问端口设计
+GET /<short_url>
+• return a Http redirect response
+POST /data/shorten/
+• Data = {url: http://xxxx }
+• Return short url
+
+SQL vs NoSQL —— 到底怎么选？
+是否需要支持 Transaction？
+• NoSQL不支持Transaction
+是否需要丰富的 SQL Query？
+• NoSQL的SQL Query不是太丰富
+• 也有一些NoSQL的数据库提供简单的SQL Query支持
+是否想偷懒？(因为有ORM)
+• 大多数 Web Framework 与 SQL 数据库兼容得很好
+• 用SQL比用NoSQL少写很多代码
+是否需要Sequential ID？
+• SQL 为你提供了 auto-increment 的 Sequential ID
+• 也就是1,2,3,4,5 …
+• NoSQL的ID并不是 Sequential 的 （是UUID）优点是每个机器自己就能算出来id,不像mysql因为需要sequential id所以需要一个中心节点控制
+对QPS的要求有多高？
+  NoSQL 的性能更高
+对Scalability的要求有多高？
+  SQL 需要码农自己写代码来 Scale
+• 还记得Db那节课中怎么做 Sharding，Replica 的么？
+• NoSQL 这些都帮你做了
+
+正确解法就是
+建一个表 id - longURL (longURL要index) id就是从零开始的一个primary key
+新来一个longURL就看是不是在表里已经有了，没有的话插入一个，id自增一
+拿到这个id以后，根据base62（62进制）算法转换成一个6位的short url返回
+
+如何提速，一个读多写少的系统就用缓存优化
+memcached 数据无需持久化,就当哈希表用key value
+
+DB如果在不同区域写的时候可能会有inconsistentce
+扩展为多个数据库：因为忙不过来，存不下，single point failure。
+
+设计custom url
+错误的想法：
+• 在URLTable中加一个column
+• 大部分数据这一项都会是空
+
+新建一张表存储自定义URL
+• CustomURLTable
+查询长链接
+• 先查询CustomURLTable
+• 再查询URLTable
+根据长链接创建普通短链接
+• 先查询CustomURLTable是否存在
+• 再在URLTable中查询和插入
+创新自定义短链接
+• 查询是否已经在URLTable中存在
+• 再在CustomURLTable中查询和插入
+
+cache里面有time to live这个参数，过了这个时间就失效
+
+

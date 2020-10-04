@@ -1,0 +1,313 @@
+学习笔记
+
+1 什么是服务器？web服务器和应用服务器的区别? war/jar/ear? apache/tomcat?
+
+Web server (Apache/Tomcat) 
+Application server (JBoss/Web Logic)
+Web服务器通常只需支持HTTP协议，单纯处理页面用的；而应用服务器提供的是客户端可以调用的方法，需要支持EJB JNDI JMX 等J2EE API。 比如，Apache属于Web服务器，Weblogic属于应用服务器。 不过，现在大多数应用服务器也包含了Web服务器的功能
+
+
+Web服务器(Web Server) 
+Web服务器可以解析(handles)HTTP协议。当Web服务器接收到一个HTTP请求(request)，会返回一个HTTP响应 (response)，例如送回一个HTML页面。为了处理一个请求(request)，Web服务器可以响应(response)一个静态页面或图片，进行页面跳转(redirect)，或者把动态响应(dynamic response)的产生委托(delegate)给一些其它的程序例如CGI脚本，JSP(JavaServer Pages)脚本，servlets，ASP(Active Server Pages)脚本，服务器端(server-side)JavaScript，或者一些其它的服务器端(server-side)技术。无论它们(译者注:脚本)的目的如何，这些服务器端(server-side)的程序通常产生一个HTML的响应(response)来让浏览器可以浏览。 
+
+应用程序服务器
+作为应用程序服务器，它通过各种协议，可以包括HTTP，把商业逻辑暴露给(expose)客户端应用程序。Web服务器主要是处理向浏览器发送HTML以供浏览，而应用程序服务器提供访问商业逻辑的途径以供客户端应用程序使用。应用程序使用此商业逻辑就象你调用对象的一个方法 (或过程语言中的一个函数)一样。 应用程序服务器的客户端(包含有图形用户界面(GUI)的)可能会运行在一台PC、一个Web服务器或者甚至是其它的应用程序服务器上。在应用程序服务器与其客户端之间来回穿梭(traveling)的信息不仅仅局限于简单的显示标记。相反，这种信息就是程序逻辑(program logic)。正是由于这种逻辑取得了(takes)数据和方法调用(calls)的形式而不是静态HTML，所以客户端才可以随心所欲的使用这种被暴露的商业逻辑。 
+
+举个例子，超市系统，服务器可以把品种日期发给服务器，服务器端程序执行计算，把结果返回。或者服务器端计算好，只需要调用lookup service
+
+Apache
+apache仅有的不足是，它本身仅提供html静态页面的功能，不能支持jsp、java servlet、asp等功能，但通过同其他应用服务器一起工作或添加插件来支持。（稳定高效，通常需要与其他服务器软件或插件协同工作） 
+
+Tomcat
+支持servlet/jsp，它还能处理html页面；运行时占用的系统资源小，扩展性好。但是它也有不少缺点及不足：运行不够稳定，支持的并发连接数不够高，处理html时的效率不如apache，不能处理EJB等
+
+IIS (web server)
+：IIS（Internet Information Services）是microsoft公司的服务器软件。IIS与上面介绍的服务器软件完全不同，它是在windows server（2000/2003/2008……）平台上免费附加的，买了windows就可以免费使用IIS了，开源就别想了；与windows平台紧密结合在一起，支持html和asp，aspx等。既然是微软的产品，自然只能在windows平台上，……。（如果是只用windows系统，想支持asp的就用它吧） 
+JBOSS:
+JBoss是实现了EJB容器，JBoss Application Server uses JbossWeb (an Apache Tomcat fork) as its web container. Its EJB container is, well, JBoss (they don't have a separate name other than "JBoss EJB Container" for it).
+
+举个例子，如果你在你的程序里使用了JPA，然后你打算把程序部署到JBoss AS7服务器上，你的程序本身是不需要包含支持JPA实现的jar包的。但是如果你想把程序部署到Tomcat服务器上，你就必须要把实现JPA功能的jar包放到你的lib库中，然后再一起部署过去。这就是为什么JBoss AS7是应用服务器而Tomcat是Web服务器的原因。
+
+
+如何架构：
+If you place a Tomcat before a JBoss, what you are actually doing is putting a Tomcat before a JBossWeb (web container, thus the entrance to every web application) that will always be before the JBoss' EJB container. If we are talking about functionality, that's just redundant, as we have the same service being delivered twice.
+
+Placing a Tomcat before a JBoss can make sense if they are using JBoss for its EJB container only: the choice here, then, would be a simple switch in the web container implementor.
+
+Also, if the Tomcat was at a different network node (or more than one Tomcat/node), clustering capabilities could be applied (that otherwise couldn't, as JBossWeb and JBoss usually are treated as one and thus go in the same machine).
+
+What is very common is placing a web server (such as Apache HTTPD or IIS) before the Java Web Container. There are two main motivations for this:
+
+Make the HTTPD serve the static content (such as images) and forward the rest to the Java web container. This is done because web servers are usually better optimized at the task of delivering static content.
+Security: Expose only the HTTPD in the DMZ. One can set up an Apache HTTPD at the DMZ, and make it simply forward everything to Web Containers (Tomcats, etc.) and JavaEE Servers (JBosses, etc.).
+
+jar,war,ear
+
+In J2EE application, modules are packaged as EAR, JAR and WAR based on their functionality
+
+JAR: EJB modules which contain enterprise java beans (class files) and EJB deployment descriptor are packed as JAR files with .jar extenstion
+
+WAR: Web modules which contain Servlet class files, JSP Files, supporting files, GIF and HTML files are packaged as JAR file with .war (web archive) extension. WAR (Web Archive) is a module that goes into web container of Java EE application server. A JavaEE application server has two containers (runtime environments) - one is a web container and the other is a EJB container. (WEB-INF/web.xml)
+
+EAR: All above files (.jar and .war) are packaged as JAR file with .ear (enterprise archive) extension and deployed into Application Server. Basically EAR file is a superset containing WAR files and JAR files enterprise archive (APP-INF/application.xml)
+
+Java EE application servers allow deployment of standalone web modules in WAR file though internally they create EAR file as wrapper around WAR files. Standalone web container such as Tomcat and Jetty do not support EAR files - these are not full fledged application servers. Web applications in these containers are to be deployed as WAR files only.
+
+2 Java Pass by value or by reference
+
+Java functions parameters are called by reference name, meaning that when you place an object as an function argument, the JVM copies the reference's value to a new variable, and passes it to the function as an argument. If you change the contents of the object, then the original object will change, but if you change the actual value of the reference, then these changes will be destroyed when the function ends.
+
+
+3. GET, PUT, POST, DELETE 区别
+有的观点认为，应该用POST来创建一个资源，用PUT来更新一个资源；有的观点认为，应该用PUT来创建一个资源，用POST来更新一个资源；还有的观点认为可以用PUT和POST中任何一个来做创建或者更新一个资源。这些观点都只看到了风格，争论起来也只是争论哪种风格更好，其实，用PUT还是POST，不是看这是创建还是更新资源的动作，这不是风格的问题，而是语义的问题。
+
+在HTTP中，PUT被定义为idempotent的方法，POST则不是，这是一个很重要的区别。
+
+   “Methods can also have the property of "idempotence" in that (aside from error or expiration issues) the side-effects of N > 0 identical requests is the same as for a single request.”
+
+上面的话就是说，如果一个方法重复执行多次，产生的效果是一样的，那就是idempotent的。
+
+举一个简单的例子，假如有一个博客系统提供一个Web API，模式是这样http://superblogging/blogs/post/{blog-name}，很简单，将{blog-name}替换为我们的blog名字，往这个URI发送一个HTTP PUT或者POST请求，HTTP的body部分就是博文，这是一个很简单的REST API例子。我们应该用PUT方法还是POST方法？取决于这个REST服务的行为是否是idempotent的，假如我们发送两个http://superblogging/blogs/post/Sample请求，服务器端是什么样的行为？如果产生了两个博客帖子，那就说明这个服务不是idempotent的，因为多次使用产生了副作用了嘛；如果后一个请求把第一个请求覆盖掉了，那这个服务就是idempotent的。前一种情况，应该使用POST方法，后一种情况，应该使用PUT方法。
+
+也许你会觉得这个两个方法的差别没什么大不了的，用错了也不会有什么问题，但是你的服务一放到internet上，如果不遵从HTTP协议的规范，就可能给自己带来麻烦。比如，没准Google Crawler也会访问你的服务，如果让一个不是indempotent的服务可以用indempotent的方法访问，那么你服务器的状态可能就会被Crawler修改，这是不应该发生的。
+
+
+4. Write a dead lock
+
+public class TestThread {
+   public static Object Lock1 = new Object();
+   public static Object Lock2 = new Object();
+   
+   public static void main(String args[]) {
+   
+      ThreadDemo1 T1 = new ThreadDemo1();
+      ThreadDemo2 T2 = new ThreadDemo2();
+      T1.start();
+      T2.start();
+   }
+   
+   private static class ThreadDemo1 extends Thread {
+      public void run() {
+         synchronized (Lock1) {
+            System.out.println("Thread 1: Holding lock 1...");
+            try { Thread.sleep(10); }
+            catch (InterruptedException e) {}
+            System.out.println("Thread 1: Waiting for lock 2...");
+            synchronized (Lock2) {
+               System.out.println("Thread 1: Holding lock 1 & 2...");
+            }
+         }
+      }
+   }
+   private static class ThreadDemo2 extends Thread {
+      public void run() {
+         synchronized (Lock2) {
+            System.out.println("Thread 2: Holding lock 2...");
+            try { Thread.sleep(10); }
+            catch (InterruptedException e) {}
+            System.out.println("Thread 2: Waiting for lock 1...");
+            synchronized (Lock1) {
+               System.out.println("Thread 2: Holding lock 1 & 2...");
+            }
+         }
+      }
+   } 
+}
+
+5. 如何唤醒睡眠线程
+If the threads are sleeping with Thread.sleep(...), you can wake them up with Thread.interrupt(). Make sure you're handling the InterruptedException and testing Thread.currentThread().isInterrupted() in your loops.
+
+6. 如何创建线程
+
+The first way to specify what code a thread is to run, is to create a subclass of Thread and override the run() method. The run() method is what is executed by the thread after you call start(). Here is an example:
+  public class MyThread extends Thread {
+ 
+    public void run(){
+       System.out.println("MyThread running");
+    }
+  }
+To create and start the above thread you can do like this:
+  MyThread myThread = new MyThread();
+  myTread.start();
+The start() call will return as soon as the thread is started. It will not wait until the run() method is done. The run() method will execute as if executed by a different CPU. When the run() method executes it will print out the text "MyThread running".
+You can also create an anonymous subclass of Thread like this:
+  Thread thread = new Thread(){
+    public void run(){
+      System.out.println("Thread Running");
+    }
+  }
+ 
+  thread.start();
+This example will print out the text "Thread running" once the run() method is executed by the new thread.
+Runnable Interface Implemention
+The second way to specify what code a thread should run is by creating a class that implements java.lang.Runnable. The Runnable object can be executed by a Thread.
+Here is a Java Runnable example:
+  public class MyRunnable implements Runnable {
+ 
+    public void run(){
+       System.out.println("MyRunnable running");
+    }
+  }
+To have the run() method executed by a thread, pass an instance of MyRunnable to a Thread in its constructor. Here is how that is done:
+   Thread thread = new Thread(new MyRunnable());
+   thread.start();
+When the thread is started it will call the run() method of the MyRunnable instance instead of executing it's own run() method. The above example would print out the text "MyRunnable running".
+You can also create an anonymous implementation of Runnable, like this:
+   Runnable myRunnable = new Runnable(){
+ 
+     public void run(){
+        System.out.println("Runnable running");
+     }
+   }
+ 
+ 
+   Thread thread = new Thread(myRunnable);
+   thread.start();
+
+
+   If you just invoke run() directly, it's executed on the calling thread, just like any other method call. Thread.start() is required to actually create a new thread so that the runnable's run method is executed in parallel.
+
+
+ 7 线程join
+ You must understand , threads scheduling is controlled by thread scheduler.So, you cannot guarantee the order of execution of threads under normal circumstances.
+However if you use join() ,it makes sure that as soon as a thread calls join,the current thread(yes,currently running thread) will not execute unless the thread you have called join is finished.
+For example, in your case
+ob1.t.join();
+This will make sure that the current running thread will run only after t has finished running.
+Try this,
+ 
+Try this,
+class Demo {
+   Thread t = new Thread(
+                 new Runnable() {
+                     public void run () {
+                         //do something
+                     }
+                  }
+    );
+    Thread t1 = new Thread(
+                 new Runnable() {
+                     public void run () {
+                         //do something
+                     }
+                  }
+   );
+    t.start(); // Line 15
+    t.join();  // Line 16
+    t1.start();
+}
+In the above example, your main thread is executing. When it encounters line 15, thread t is available at thread scheduler. As soon as main thread comes to line 16, it will not execute unless thread t has finished( remember join() as the currently running thread will join to the end of the thread on which join is called).Hence main thread will come to line 17 only when thread t has finished.
+So it may appear that t.join will affect thread t1, but it is actually affecting main thread.
+
+8. 优先队列
+
+ 	Throws Exception	Special Value	Blocks	Times Out
+Insert	add(o)	offer(o)	put(o)	offer(o, timeout, timeunit)
+Remove	remove(o)	poll()	take()	poll(timeout, timeunit)
+Examine	element()	peek()	 	 
+The 4 different sets of behaviour means this:
+1.    Throws Exception: 
+If the attempted operation is not possible immediately, an exception is thrown.
+2.    Special Value: 
+If the attempted operation is not possible immediately, a special value is returned (often true / false).
+3.    Blocks: 
+If the attempted operation is not possible immedidately, the method call blocks until it is.
+4.    Times Out: 
+If the attempted operation is not possible immedidately, the method call blocks until it is, but waits no longer than the given timeout. Returns a special value telling whether the operation succeeded or not (typically true / false).
+
+
+9. 什么是occ
+Optimistic concurrency control (OCC) is a concurrency control method applied to transactional systems such as relational database management systems and software transactional memory. OCC assumes that multiple transactions can frequently complete without interfering with each other. While running, transactions use data resources without acquiring locks on those resources. Before committing, each transaction verifies that no other transaction has modified the data it has read. If the check reveals conflicting modifications, the committing transaction rolls back and can be restarted.[1] Optimistic concurrency control was first proposed by H.T. Kung.[2]
+OCC is generally used in environments with low data contention. When conflicts are rare, transactions can complete without the expense of managing locks and without having transactions wait for other transactions' locks to clear, leading to higher throughput than other concurrency control methods. However, if contention for data resources is frequent, the cost of repeatedly restarting transactions hurts performance significantly; it is commonly thought that other concurrency control methods have better performance under these conditions. However, locking-based ("pessimistic") methods also can deliver poor performance because locking can drastically limit effective concurrency even when deadlocks are avoided.
+
+
+10. Python vs Java:
+
+Dynamic(allows you to change the type of a variable,by replacing an integer with a string, for example.) vs Static Typing, so python run slower than java
+Braces vs Indentation(easy to read)
+Speed vs Portability
+
+11. 解析器与解释器 
+
+编译型的语言： 用编译型语言写的程序执行之前，需要一个专门的编译过程，通过编译系统（不仅仅只是通过编译器，编译器只是编译系统的一部分）把高级语言翻译成机器语言（具体翻译过程可以参看下图），把源高级程序编译成为机器语言文件，比如windows下的exe文件。以后就可以直接运行而不需要编译了，因为翻译只做了一次，运行时不需要翻译，所以编译型语言的程序执行效率高，但也不能一概而论，部分解释型语言的解释器通过在运行时动态优化代码，甚至能够使解释型语言的性能超过编译型语言。
+(预处理器，编译器，汇编器，链接器)
+
+对 C 语言或者其他编译型语言来说，编译生成了目标文件，而这个目标文件是针对特定的 CPU 体系的，为 ARM 生成的目标文件，不能被用于 MIPS 的 CPU。这段代码在编译过程中就已经被翻译成了目标 CPU 指令，所以，如果这个程序需要在另外一种 CPU 上面运行，这个代码就必须重新编译。
+                      
+优点： 可脱离开发环境，特定的平台上独立运行，运行效率较高。
+缺点：无法移植；需要移植，要源代码重新编译。
+ 
+代表语言：C    C++ 
+
+
+解释型语言：解释型语言在运行的时候才翻译，比如VB语言，在执行的时候，专门有一个解释器能够将VB语言翻译成机器语言，每个语句都是执行的时候才翻译。这样解释型语言每执行一次就要翻译一次，效率比较低。解释型语言不会对整体性的编译和链接处理，解释型语言相当于把编译语言中编译和解释过程混合到了一起同时完成。
+ 
+优点：跨平台较容易，是以牺牲程序执行效率为代价。
+缺点：效率较低，不能脱离解释器独立运行
+代表语言：ruby  python
+
+
+编译型与解释型，两者各有利弊。前者由于程序执行速度快，同等条件下对系统要求较低，因此像开发操作系统、大型应用程序、数据库系统等时都采用它，像C/C++、Pascal/Object Pascal（Delphi）等都是编译语言，而一些网页脚本、服务器脚本及辅助开发接口这样的对速度要求不高、对不同系统平台间的兼容性有一定要求的程序则通常使用解释性语言，如JavaScript、VBScript、Perl、Python、Ruby、MATLAB 等等。
+
+关于java语言：
+ 
+        java语言比较特殊，由于java语言编写的程序需要经过编译，但这个编译并不会生成特定平台的机器码，而是生成一种与平台无关的字节码（*.class），这个字节码不可执行。必须使用java解释器来解释执行。
+
+        java类文件不能再计算机上直接执行，它需要被java虚拟机翻译成本地的机器码后才能执行，而java虚拟机的翻译过程则是解释性的。java字节码文件首先被加载到计算机内存中，然后读出一条指令，翻译一条指令，执行一条指令，该过程被称为java语言的解释执行，是由java虚拟机完成的。而在现实中，java开发工具JDK提供了两个很重要的命令来完成上面的编译和解释（翻译）过程。两个命令分别是javac.exe和java.exe，前者加载java类文件，并逐步对字节码文件进行编译，而另一个命令则对应了java语言的解释(javac.exe)过程。在次序上，java语言是要先进行编译的过程，接着解释执行。
+        所以java语言既是编译型语言，也是解释型语言。
+
+12. Java 中负数， Two's Complement
+
+例如 5 在 计算机中的二进制表示为 0101，那么其负数（-5）怎么表示呢？
+
+通过这个步骤就行：
+
+注意，在做如下操作之前，我们应该非常注意5的二进制表示，它的高位一定要为0，也就是说如果5写成101，那么我们必须先将其表示成0101，这样按位取反的时候高位才会变为1。
+
+将5按位取反，标为 1010， 然后加上1，变为1011，即为-5在计算机中的表示。
+反过来，看到1011，第一反应看他的高位，如果高位为1，则肯定是个负数，那么他到底是负几呢，如下操作：将1011按位取反，得到0100，然后加上1，则得到其值0101，为5。则说明1011代表的是-5。
+
+
+如果考虑到零的交叉（zero crossing ）问题，你就容易理解Java （以及其他绝大多数语言）这样用2的补码的原因。假定byte 类型的值零用00000000 代表。它的补码是仅仅将它的每一位取反，即生成11111111 ，它代表负零。但问题是负零在整数数学中是无效的。为了解决负零的问题，在使用2的补码代表负数的值时，对其值加1。即负零11111111 加1后为100000000 。但这样使1位太靠左而不适合返回到byte 类型的值，因此人们规定，-0和0的表示方法一样，-1的解码为11111111 。尽管我们在这个例子使用了byte 类型的值，但同样的基本的原则也适用于所有Java 的整数类型。
+
+13. Exception handle
+
+14. Java Locks
+ReentrantLock in Java is added on java.util.concurrent package in Java 1.5 along with other concurrent utilities
+ConcurrentHashMap
+ReentrantLock is a concrete implementation of Lock interface provided in Java concurrency package from Java 1.5 onwards.
+mutual exclusive
+fairness
+
+1. ConcurrentHashMap allows concurrent read and thread-safe update operation.
+2. During update operation, ConcurrentHashMap only lock a portion of Map instead of whole Map.
+ConcurrentHashMap performs better than earlier two because it only locks a portion of Map, instead of whole Map, which is the case with Hashtable and synchronized Map
+
+ConcurrentModificationExceptoin
+
+ConcurrentHashMaps and Collections.synchronizedMap(Map) (which is equivalent to the HashTable object)
+
+Collections.synchronizedMap(Map) becomes a big problem when you need to iterate over the entire Map, which can take a long time for a large Map - while one thread does that, all others have to wait if they want to insert or lookup anything.
+
+The ConcurrentHashMap uses very sophisticated techniques to reduce the need for synchronization and allow parallel read access by multiple threads without synchronization and, more importantly, provides an Iterator that requires no synchronization and even allows the Map to be modified during interation (though it makes no guarantees whether or not elements that were inserted during iteration will be returned). concurrent retrieval may not reflect most recent change on Map
+
+Default concurrency level is 16. if you just have few writers or thread to update Map keeping it low is much better. ConcurrentHashMap also uses ReentrantLock to internally lock its segments.
+
+Use the second option if you need to ensure data consistency, and each thread needs to have an up-to-date view of the map. Use the first if performance is critical, and each thread only inserts data to the map, with reads happening less frequently.
+
+15. Fail safe   fail-fast Iterator
+
+As name suggest fail-fast Iterators fail as soon as they realized that structure of Collection has been changed since iteration has begun. Structural changes means adding, removing or updating any element from collection while one thread is Iterating over that collection.The fail-fast iterators are typically implemented using a volatile counter on the list object.
+
+When the list is updated, the counter is incremented.
+When an Iterator is created, the current value of the counter is embedded in the Iterator object.
+When an Iterator operation is performed, the method compares the two counter values and throws a CME if they are different.
+
+Contrary to fail-fast Iterator, fail-safe iterator doesn't throw any Exception if Collection is modified structurally
+while one thread is Iterating over it because they work on clone of Collection instead of original collection and that’s why they are called as fail-safe iterator. Iterator of CopyOnWriteArrayList is an example of fail-safe Iterator also iterator written by ConcurrentHashMap keySet is also fail-safe iterator and never throw ConcurrentModificationException in Java.
+
+
+Synchronization in Java is possible by using Java keywords "synchronized" and "volatile”.
+
+
+java array have no index of, apache common has

@@ -1,0 +1,113 @@
+Java API:
+
+Queue<> q = new LinkedList<>();
+q.offer();
+q.poll();
+q.isEmpty();
+
+本质是一样的，add(E) might throw an exception while offer(E) will simply return false.
+
+max = (a > b) ? a : b;
+
+treemap本来就是按照key排序好的
+TreeMap.firstKey();
+TreeMap.lastKey();
+TreeMap.floorEntry(); Finding greatest number less than given value
+TreeMap.floorKey();
+
+TreeSet.first();
+TreeSet.last();
+
+private Comparator<Pair> pairComparator = new Comparator<Pair>() {
+    public int compare(Pair left, Pair right) {
+        if (left.value != right.value) {
+            return left.value - right.value;
+        }
+        return right.key.compareTo(left.key);
+    }
+};
+
+Queue<Integer> q = new PriorityQueue<Integer>(k,pairComparator);//建k大小的堆
+list.get(rnd.nextInt(list.size()));
+
+StringBuilder.insert(pos,value)
+StringBuilder.append(value)
+StringBuilder.length()
+StringBuilder.charAt()
+StringBuilder.deleteCharAt(tempRes.length() -1 );
+sb.reverse()
+
+ArrayList.add(index, value);
+ArrayList.remove(index);
+ArrayList.set(index, val);
+Collections.reverse(res);
+
+map.values()
+map.keySet()
+
+int forwardSlashIndex = s.indexOf('/', index);
+s = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+
+
+
+a-z字符转数组 s.charAt(i) - 'a'
+反过来
+(Char)（'a' + 123）
+
+s.charAt(i)-'0';
+
+注意这里是double,否则除出来是整数
+
+
+
+
+for(char c : p.toCharArray()) {
+            p_arr[c - 'a']++;
+        }
+String 
+String.valueOf(new char[])
+
+
+Java Max Heap
+PriorityQueue < Integer > queue = new PriorityQueue < > (Collections.reverseOrder());
+
+Map
+map.keySet()
+map.values()
+都是set
+
+Arrays
+Arrays.fill(ids, -1);
+Arrays.equals()
+
+
+Array to List
+List<String> l = new ArrayList<String>(Arrays.asList(dataList)
+
+List to Array
+List<int[]> res = new ArrayList();
+//这里要typecast成int[][] 不然是object[]
+return res.toArray(new int[res.size()][]);
+
+//Double linklist to double[]
+result.stream().mapToDouble(i->i).toArray();
+
+Character
+
+Character.isDigit(string.charAt(index))
+Character.isLetter(string.charAt(index))
+Character.isLetterOrDigit(string.charAt(index))
+Character.getNumericValue(c) char to int
+Character.forDigit(C, 10) int to char
+Character.toLowerCase(string.charAt(index));
+
+
+Cast:
+String to Integer: Integer.parseInt(s)
+
+
+Map:
+m.putIfAbsent(a, 1);
+ 
+除法注意把数变成double,否则除出来是整数
+

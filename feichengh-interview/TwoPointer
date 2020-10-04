@@ -1,0 +1,126 @@
+Two Pointer
+
+1. 一个数组上的对撞指针
+先要说为什么比暴力解法好：O(n2)的算法优化到O(n)，排除多余的可能性
+模板
+while(i <= j){
+  if(A[i] + A[j] > sum){
+  	j--;
+  	do something
+  } else if(A[i] + A[j] < sum){
+  	i++;
+  	do something
+  } else {
+   	do something
+   	i++ or j--
+  }
+}
+  
+
+while(i <= j){
+  if(A[i] > A[j])
+  	j--;
+  else if(A[i] < A[j])
+  	i++;
+  else
+  	i++; or j--;
+}
+
+2. Partition的两个指针
+不能保证顺序，如果题目要求保留原来顺序就不能用partition
+215. Kth Largest Element in an Array
+973. K Closest Points to Origin
+模板：
+public void partition(int l, int r, int[] nums){
+	int left = l;
+	int right = r;
+	//挖空left
+	int pivot = nums[left];
+	while(left < right){
+		//这里比大小看具体情况
+		while(nums[right] <= pivot&& right > left){
+			right--;
+		}
+		nums[left] = nums[right];
+		while(nums[left] >= pivot && right > left){
+			left++;
+		}
+		nums[right] = nums[left];
+	}
+	//把空填回去
+	nums[left] = pivot;
+	return left;
+}
+
+
+
+3. 窗口类两个指针 
+先要说为什么比暴力解法好：O(n2)的算法优化到O(n)，排除多余的可能性
+应用题型：数组里找一个子数组满足一定条件，求子数组的大小
+与滑动窗口的区别：滑动窗口是固定的的窗口大小，所以每次移动要前指针加一，后指针减一，这里是就是求满足要求的窗口的大小
+题目：3. Longest Substring Without Repeating Characters
+	 76. Minimum Window Substring
+	 159. Longest Substring with At Most Two Distinct Characters
+	 209. Minimum Size Subarray Sum
+	 340. Longest Substring with At Most K Distinct Characters
+
+模板
+int i,j = 0;
+这里有时候不能用for loop，因为每次循环不是i++
+for(i = 0; i < n; i++){
+	while(j < n && (不)满足条件){
+		更新要进入j位置后数据结构状态
+		j++;
+			
+	}
+	找到了一组满足条件的i, j位置，要判断一下是不是因为满足条件退出还是因为j走到头退出的
+	更新答案ans
+	更新要离开i位置后的数据结构状态
+}
+
+
+
+4. 滑动窗口：
+438. Find All Anagrams in a String
+I是窗口结束位置
+ for(int i = 0; i < s.length(); i++) {
+            s_arr[s.charAt(i) - 'a']++;
+            
+如果窗口结束位置离起始点距离大于窗口长度，从窗口前面移除一个元素
+	    if( i >= p.length()) {
+                s_arr[s.charAt(i - p.length()) - 'a']--;
+            }
+            if(Arrays.equals(p_arr, s_arr)) {
+                ans.add(i - p.length() + 1);
+            }
+        }
+
+
+5. 快慢指针
+主要应用是链表判断环，找中点，去重复
+
+6. 两个数组两个指针
+
+
+ int i = 0;
+ int j = 0;
+ while(j < nums.length){
+    if(nums[j] == nums[i]){
+    	不交换
+	j++
+    } else {
+        I++ //注意什么时候移动i指针
+	交换
+	j++
+　    
+    }
+ }
+  return i+1;
+
+
+
+
+Sort color类型
+283. Move Zeroes
+26. Remove Duplicates from Sorted Array
+75. Sort Colors

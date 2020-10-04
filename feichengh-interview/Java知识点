@@ -1,0 +1,134 @@
+复习时候遇到的一些知识点
+
+1.Object类的equals方法
+	public boolean equals(Object obj) {
+    	return (this == obj);
+    }
+    可以发现，Object类的equals方法使用了“==”判断，其功能是判断了比较的两个对象的引用地址是不是一样，判断是不是同一个对象。
+    Object类中的equals方法判断两个引用是否一致，里面只是使用了==进行判断，等价于==。
+	String类的equals方法判断当前字符串与传进来的字符串的内容是否一致。
+  String类的equals方法
+   public boolean equals(Object anObject) {
+    if (this == anObject) {
+        return true;
+    }
+    if (anObject instanceof String) {
+        String anotherString = (String)anObject;
+        int n = count;
+        if (n == anotherString.count) {
+        char v1[] = value;
+        char v2[] = anotherString.value;
+        int i = offset;
+        int j = anotherString.offset;
+        while (n-- != 0) {
+            if (v1[i++] != v2[j++])
+            return false;
+        }
+        return true;
+        }
+    }
+    return false;
+    }
+    先判断是不是引用同一个对象，在判断要判断的对象是不是String的实例，最后在比较里面的值是不是相同。
+
+ 2. 创建String对象的两种方法
+    一是直接采用字符串赋值方法 String str = “abc”;
+    首先查找String Pool中是否存在“abc”这个字符串对象，如果不存在，则在字符串池中创建该对象，并将String Pool中的该对象的地址返回来，赋给引用变量str。如果存在，则不创建任何对象，而是直接把String Pool中的该对象地址返回并赋给str引用。
+
+    二是使用new关键字来创建 String str = new String(“abc”);
+
+    两种区别：
+    String obj = new String("Samuel");
+    String obj1 = new String("Samuel");
+    //vs
+    String obj = "Samuel";
+    String obj1 = "Samuel";
+    in the first case obj==obj1 returns false
+    in the second case obj==obj1 returns true.
+
+ 3. StringBuilder 和 StringBuffer
+	每个字符串缓冲区都有一定的容量。只要字符串缓冲区所包含的字符序列的长度没有超出此容量，就无需分配新的内部缓冲区数组。如果内部缓冲区溢出，则此容量自动增大。从 JDK 5 开始，为该类补充了一个单个线程使用的等价类，即 StringBuilder。与该类相比，通常应该优先使用 StringBuilder 类，因为它支持所有相同的操作，但由于它不执行同步，所以速度更快。
+	String
+ 
+ 4. Java位操作
+    Java提供的位运算符有：左移( << )、右移( >> ) 、无符号右移( >>> ) 、位与( & ) 、位或( | )、位非( ~ )、位异或( ^ )，除了位非( ~ )是一元操作符外，其它的都是二元操作符。
+
+ 5. Java的基本数据类型
+    Java语言提供了八种基本类型。六种数字类型（四个整数型，两个浮点型），一种字符类型，还有一种布尔型。
+
+	byte：
+
+	byte数据类型是8位、有符号的，以二进制补码表示的整数；
+	最小值是-128（-2^7）；
+	最大值是127（2^7-1）；
+	默认值是0；
+	byte类型用在大型数组中节约空间，主要代替整数，因为byte变量占用的空间只有int类型的四分之一；
+	例子：byte a = 100，byte b = -50。
+	short：
+
+	short数据类型是16位、有符号的以二进制补码表示的整数
+	最小值是-32768（-2^15）；
+	最大值是32767（2^15 - 1）；
+	Short数据类型也可以像byte那样节省空间。一个short变量是int型变量所占空间的二分之一；
+	默认值是0；
+	例子：short s = 1000，short r = -20000。
+	int：
+
+	int数据类型是32位、有符号的以二进制补码表示的整数；
+	最小值是-2,147,483,648（-2^31）；
+	最大值是2,147,485,647（2^31 - 1）；
+	一般地整型变量默认为int类型；
+	默认值是0；
+	例子：int a = 100000, int b = -200000。
+	long：
+
+	long数据类型是64位、有符号的以二进制补码表示的整数；
+	最小值是-9,223,372,036,854,775,808（-2^63）；
+	最大值是9,223,372,036,854,775,807（2^63 -1）；
+	这种类型主要使用在需要比较大整数的系统上；
+	默认值是0L；
+	例子： long a = 100000L，int b = -200000L。
+	float：
+
+	float数据类型是单精度、32位、符合IEEE 754标准的浮点数；
+	float在储存大型浮点数组的时候可节省内存空间；
+	默认值是0.0f；
+	浮点数不能用来表示精确的值，如货币；
+	例子：float f1 = 234.5f。
+	double：
+
+	double数据类型是双精度、64位、符合IEEE 754标准的浮点数；
+	浮点数的默认类型为double类型；
+	double类型同样不能表示精确的值，如货币；
+	默认值是0.0f；
+	例子：double d1 = 123.4。
+	boolean：
+
+	boolean数据类型表示一位的信息；
+	只有两个取值：true和false；
+	这种类型只作为一种标志来记录true/false情况；
+	默认值是false；
+	例子：boolean one = true。
+	char：
+
+	char类型是一个单一的16位Unicode字符；
+	最小值是’\u0000’（即为0）；
+	最大值是’\uffff’（即为65,535）；
+	char数据类型可以储存任何字符；
+	例子：char letter = ‘A’。
+
+6. Rehashing
+	Load factor is defined as (m/n) where n is the total size of the hash table and m is the preferred number of entries which can be inserted before a increment in size of the underlying data structure is required, if m/n >1, its clearly indicate that one or more slot will have a chain of items.
+
+	Java specification suggests that Good loadfactor value is .75
+
+	RACE condition : While doing the rehasing internal elements which are stored in a linked list for given bucket. They get reverse in the order. Suppose there are two threads encounter the race condition in same time then there are chances of second therad can go in infinite loop while traversal since the order has been changed.
+
+	The load factor is a measure of how full the hash table is allowed to get before its capacity is automatically increased. When the number of entries in the hash table exceeds the product of the load factor and the current capacity, the hash table is rehashed (that is, internal data structures are rebuilt) so that the hash table has approximately twice the number of buckets
+
+7. Java Nested Class
+
+	http://tutorials.jenkov.com/java/nested-classes.html
+
+8. Sorting algo compare
+

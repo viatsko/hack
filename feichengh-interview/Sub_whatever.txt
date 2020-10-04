@@ -1,0 +1,108 @@
+Continues Subarray, Substring, Subsequence
+所有substring的时间复杂度是n平方
+
+一层循环
+674. Longest Continuous Increasing Subsequence
+ 
+Continues Subarray的一种题型: 前缀和+hashmap
+一开始要放map.put(0,1)前缀和就是结果的时候，答案为1
+
+523. Continuous Subarray Sum 
+Map是余数和出现的位置，为了看两个位置是不是相距大于2
+两个位置的前缀和余数一样的话，中间部分就可以整除
+
+560. Subarray Sum Equals K 
+Map是前缀和和他的出现的次数
+会有负数，有两个位置的前缀和可能会相等，当找到一个sum -k的时候，有多个地方的前缀和会等于它, count要加上所有出现的位置
+ public int subarraySum(int[] nums, int k) {
+        int count = 0, sum = 0;
+        HashMap < Integer, Integer > map = new HashMap < > ();
+        map.put(0, 1);
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            if (map.containsKey(sum - k))
+                count += map.get(sum - k);
+            map.put(sum, map.getOrDefault(sum, 0) + 1);
+        }
+        return count;
+    }
+
+
+两个指针模板 j到i之前有多少个数？ j-i+1
+一个数据结构记录当前sub array的状态
+int i,j = 0;
+这里有时候不能用for loop，因为每次循环不是i++
+for(i = 0; i < n; i++){
+	while(j < n && (不)满足条件){
+		更新要进入j位置后数据结构状态
+		j++;
+			
+	}
+	找到了一组满足条件的i, j位置，要判断一下是不是因为满足条件退出还是因为j走到头退出的
+	更新答案ans
+	更新要离开i位置后的数据结构状态
+}
+3. Longest Substring Without Repeating Characters
+209. Minimum Size Subarray Sum
+76. Minimum Window Substring
+
+Time complexity: O(n). Single iteration of O(n).
+Each element can be visited atmost twice
+
+
+DP
+记录单个变量
+152. Maximum Product Subarray 一直记录maxNow,minNow,如果当前数自己比当前数乘以maxNow minNow还要大/小，更新为当前数
+53. Maximum Subarray
+
+
+一维DP 2^n -> n2
+300. Longest Increasing Subsequence 坐标型dp模板
+
+    public int lengthOfLIS(int[] nums) {
+        if(nums == null || nums.length == 0){
+            return 0;
+        }
+        int result=0;
+        int[] dp = new int[nums.length];
+        //初始化所有都是1，因为不知道哪里是最后结果的起点，所以所有都要初始化
+        Arrays.fill(dp,1);
+        for(int i = 0; i < nums.length; i++){
+            for(int j = 0; j < i;j++){
+                 if(nums[j] < nums[i]){
+                     dp[i] = Math.max(dp[i],dp[j]+1);
+                 }
+             }
+             result = Math.max(dp[i],result);
+         }
+        return result;
+    }
+
+二维DP 2^n -> n2
+5. Longest Palindromic Substring
+
+
+Sliding window
+1004. Max Consecutive Ones III 先找到window的长度，Since we have to find the MAXIMUM window, we never reduce the size of the window. We either increase the size of the window or remain same but never reduce the size.
+
+567. Permutation in String
+
+
+I是窗口结束位置
+ for(int i = 0; i < s.length(); i++) {
+            s_arr[s.charAt(i) - 'a']++;
+  
+如果窗口结束位置离起始点距离大于窗口长度，从窗口前面移除一个元素
+	    if( i >= p.length()) {
+                s_arr[s.charAt(i - p.length()) - 'a']--;
+            }
+            if(Arrays.equals(p_arr, s_arr)) {
+                ans.add(i - p.length() + 1);
+            }
+        }
+
+
+
+128. Longest Consecutive Sequence
+
+1062. Longest Repeating Substring ？？
