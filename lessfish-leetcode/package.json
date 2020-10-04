@@ -1,0 +1,10 @@
+{
+  "name": "generate-readme",
+  "version": "0.0.0",
+  "description": "generate readme for my leetcode repo",
+  "dependencies": {
+    "cheerio": "latest",
+    "eventproxy": "^0.3.5",
+    "superagent": "latest"
+  }
+}
