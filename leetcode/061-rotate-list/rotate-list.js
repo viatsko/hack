@@ -11,23 +11,20 @@
  * @return {ListNode}
  */
 const rotateRight = function (head, k) {
-  if (head === null || head.next === null) {
-    return head;
+  if (head === null) {
+    return null;
   }
 
-  let len = 1; // we won't iterate over last.next, so starting with +1
+  let len = 0;
+  let end = null;
   let node = head;
-  while (node.next) {
+  while (node) {
+    end = node;
     len++;
     node = node.next;
   }
 
-  let end = node;
-
-  // looping the ll
   end.next = head;
-
-  // we need to cut-off 1 node before, that's why -1
   node = head;
   for (let i = 0; i < len - (k % len) - 1; i++) {
     node = node.next;
