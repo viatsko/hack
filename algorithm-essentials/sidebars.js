@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    介绍: ["README"],
+    介绍: ["README", "data-structures"],
     线性表: [
       {
         type: "category",
@@ -37,6 +37,9 @@ module.exports = {
           "linear-list/array/product-of-array-except-self",
           "linear-list/array/game-of-life",
           "linear-list/array/increasing-triplet-subsequence",
+          "linear-list/array/meeting-rooms",
+          "linear-list/array/intersection-of-two-arrays",
+          "linear-list/array/intersection-of-two-arrays-ii",
         ],
       },
       {
@@ -47,6 +50,7 @@ module.exports = {
           "linear-list/linked-list/reverse-linked-list",
           "linear-list/linked-list/odd-even-linked-list",
           "linear-list/linked-list/add-two-numbers",
+          "linear-list/linked-list/add-two-numbers-ii",
           "linear-list/linked-list/reverse-linked-list-ii",
           "linear-list/linked-list/partition-list",
           "linear-list/linked-list/remove-duplicates-from-sorted-list",
@@ -60,7 +64,10 @@ module.exports = {
           "linear-list/linked-list/linked-list-cycle-ii",
           "linear-list/linked-list/reorder-list",
           "linear-list/linked-list/lru-cache",
+          "linear-list/linked-list/lfu-cache",
+          "linear-list/linked-list/all-o1-data-structure",
           "linear-list/linked-list/palindrome-linked-list",
+          "linear-list/linked-list/intersection-of-two-linked-lists",
         ],
       },
     ],
@@ -68,7 +75,6 @@ module.exports = {
       "string/valid-palindrome",
       "string/strstr",
       "string/atoi",
-      "string/add-binary",
       "string/longest-palindromic-substring",
       "string/regular-expression-matching",
       "string/wildcard-matching",
@@ -83,6 +89,7 @@ module.exports = {
       "string/length-of-last-word",
       "string/isomorphic-strings",
       "string/word-pattern",
+      "string/decode-string",
     ],
     栈和队列: [
       {
@@ -95,12 +102,17 @@ module.exports = {
           "stack-and-queue/stack/largest-rectangle-in-histogram",
           "stack-and-queue/stack/evaluate-reverse-polish-notation",
           "stack-and-queue/stack/implement-stack-using-queues",
+          "stack-and-queue/stack/median-of-data-stream",
         ],
       },
       {
         type: "category",
         label: "队列",
-        items: ["stack-and-queue/queue/implement-queue-using-stacks"],
+        items: [
+          "stack-and-queue/queue/implement-queue-using-stacks",
+          "stack-and-queue/queue/moving-average-of-data-stream",
+          "stack-and-queue/queue/sliding-window-maximum",
+        ],
       },
     ],
     二叉树: [
@@ -160,6 +172,7 @@ module.exports = {
           "binary-tree/recursion/populating-next-right-pointers-in-each-node",
           "binary-tree/recursion/sum-root-to-leaf-numbers",
           "binary-tree/recursion/lca-of-binary-tree",
+          "binary-tree/recursion/serialize-and-deserialize-binary-tree",
         ],
       },
       {
@@ -214,6 +227,15 @@ module.exports = {
       },
       {
         type: "category",
+        label: "堆排序",
+        items: [
+          "sorting/heap-sort/meeting-rooms-ii",
+          "sorting/heap-sort/top-k-frequent-elements",
+          "sorting/heap-sort/top-k-frequent-words",
+        ],
+      },
+      {
+        type: "category",
         label: "其他",
         items: ["sorting/other/largest-number"],
       },
@@ -234,6 +256,7 @@ module.exports = {
       "search/find-minimum-in-rotated-sorted-array-ii",
       "search/median-of-two-sorted-arrays",
       "search/h-index-ii",
+      "search/random-pick-with-weight",
     ],
     暴力枚举法: [
       "brute-force/subsets",
@@ -247,6 +270,9 @@ module.exports = {
       "bfs/word-ladder",
       "bfs/word-ladder-ii",
       "bfs/surrounded-regions",
+      "bfs/the-maze",
+      "bfs/the-maze-ii",
+      "bfs/the-maze-iii",
       "bfs/bfs-summary",
     ],
     深度优先搜索: [
@@ -263,6 +289,8 @@ module.exports = {
       "dfs/generate-parentheses",
       "dfs/sudoku-solver",
       "dfs/word-search",
+      "dfs/android-unlock-patterns",
+      "dfs/robot-room-cleaner",
       "dfs/dfs-summary",
     ],
     分治法: ["divide-and-conquer/pow", "divide-and-conquer/sqrt"],
@@ -274,6 +302,7 @@ module.exports = {
       "greedy/longest-substring-without-repeating-characters",
       "greedy/container-with-most-water",
       "greedy/patching-array",
+      "greedy/task-scheduler",
     ],
     动态规划: [
       "dp/triangle",
@@ -299,8 +328,25 @@ module.exports = {
       "dp/house-robber-iii",
       "dp/range-sum-query-immutable",
       "dp/range-sum-query-2d-immutable",
+      "dp/frog-jump",
+      {
+        type: "category",
+        label: "背包问题",
+        items: [
+          "dp/knapsack-problem/README",
+          "dp/knapsack-problem/partition-equal-subset-sum",
+          "dp/knapsack-problem/ones-and-zeroes",
+          "dp/knapsack-problem/last-stone-weight-ii",
+        ],
+      },
     ],
-    图: ["graph/README", "graph/clone-graph"],
+    图: [
+      "graph/README",
+      "graph/clone-graph",
+      "graph/graph-valid-tree",
+      "graph/network-delay-time",
+      "graph/path-with-maximum-probability",
+    ],
     位操作: [
       "bitwise-operations/reverse-bits",
       "bitwise-operations/repeated-dna-sequences",
@@ -333,6 +379,8 @@ module.exports = {
       "simulation/merge-intervals",
       "simulation/employee-free-time",
       "simulation/minimum-window-substring",
+      "simulation/add-binary",
+      "simulation/add-strings",
       "simulation/multiply-strings",
       "simulation/substring-with-concatenation-of-all-words",
       "simulation/pascal-s-triangle",
@@ -343,6 +391,7 @@ module.exports = {
       "simulation/divide-two-integers",
       "simulation/text-justification",
       "simulation/max-points-on-a-line",
+      "simulation/sparse-matrix-multiplication",
     ],
     Java集合框架总结: ["java-collection"],
   },
